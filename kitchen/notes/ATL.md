@@ -36,6 +36,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Michael Penix Jr.: Penix was cleared for 11-on-11 work after missing the offseason with injury; Tua Tagovailoa is expected to start the season for Atlanta. [8-24 embarrased to love players]
 - 2026-08-24: Tua Tagovailoa: Tagovailoa is the Falcons' likely Week 1 starter and has reportedly played poorly in camp and preseason. In 2025, 63% of his attempts traveled under 10 yards, a low-aDOT profile. [8-24 embarrased to love players]
 - 2026-08-26: National reporting says Tua Tagovailoa's camp play has made the plan to start him Week 1 'impossible'; Michael Penix Jr. will sit preseason Week 3; Cooper Rush or the third-string QB could start games. [8-26 myguys episode]
+- 2026-09-24: Michael Penix Jr. started the Thursday game at GB after Cooper Rush started Weeks 1 and 2; Tua Tagovailoa (oblique) is on the roster and did not start. [pod 9-28, official]
 
 ## Backfield
 
@@ -70,6 +71,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Zachariah Branch: Branch had about 81 catches in his final college season, roughly 50 of them on screens, fitting the quick-game role expected with Tua. [8-17 updates and camp news]
 - 2026-08-19: Drake London: London has been used as a power slot/movement Z rather than a true X; he and Kyle Pitts win in the same areas, and beat reporting has not shown whether he plays more X in this offense. [8-19 Offenses to look out for]
 - 2026-08-19: Zachariah Branch: Rookie Zachariah Branch is expected to get designed touches and quick screens, competing with London and Pitts for easy targets. [8-19 Offenses to look out for]
+- 2026-09-24: Drake London: 10 targets on 24 routes (42%), 96% route share. [pod 9-28, deployment]
 
 ## Tight ends
 
@@ -88,6 +90,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Kyle Pitts: Pitts is a move tight end who produced big numbers when London was out last year but little when London played; Stefanski's TE-friendly designs could boost his easy targets. [8-19 Offenses to look out for]
 - 2026-08-24: Kyle Pitts: Pitts signed a three-year extension with $36 million guaranteed. In 2025 he led the Falcons in routes, targets, receptions and receiving yards (only Trey McBride also led his team in all four) and finished as the TE2. [8-24 embarrased to love players]
 - 2026-08-24: Kyle Pitts: From week 13 on in 2025 Pitts posted 82, 90, 166 (3 TDs in week 15), 57 and 58 receiving yards while Drake London was hurt. In his one preseason series with Tagovailoa he caught passes on about four of five plays. [8-24 embarrased to love players]
+- 2026-09-24: Kyle Pitts: 2 targets on 19 routes (76% route share), after 0 of 1 and 1 of 3 for 15 in Weeks 1 and 2. [pod 9-28, deployment]
 
 ## Offensive line
 

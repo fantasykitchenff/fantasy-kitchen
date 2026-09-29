@@ -34,6 +34,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Bo Nix: Nix led the league in pass attempts in 2025 and finished QB7 then QB6 in his first two seasons; Denver traded for Jaylen Waddle to join his returning receivers. [8-20 bust and value picks for 2026]
 - 2026-08-21: Bo Nix: Finished QB6 in 2025 and QB7 as a rookie, and now adds Jaylen Waddle. [8-21 mayhem mock draft]
 - 2026-08-24: Bo Nix: Nix had offseason ankle surgery but looked healthy in the Aug. 22 weekend preseason game, connecting with Jaylen Waddle; he finished QB7 as a rookie and QB6 in 2025 while leading the NFL in pass attempts. [8-24 adp adjustments]
+- 2026-09-27: Bo Nix: 17 of 33, 186, 2 TD, 1 INT in the 30-26 win over LAR. [pod 9-28, deployment]
 
 ## Backfield
 
@@ -80,6 +81,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: J.K. Dobbins: Beat reporters said all offseason Dobbins, not R.J. Harvey, would start; Dobbins averaged 5.0 YPC in 2025 (5.2 career) before his injury while Harvey averaged under 4.0 behind the same line. [8-24 adp adjustments]
 - 2026-08-24: Jonah Coleman: Rookie fourth-round pick Jonah Coleman is viewed as the main threat to Dobbins' role and the likely next man up if Dobbins gets hurt. [8-24 adp adjustments]
 - 2026-08-24: R.J. Harvey: After Dobbins went down in 2025, Harvey struggled on the ground and Bo Nix ended up leading the NFL in pass attempts; Harvey is expected to keep passing-down work. [8-24 adp adjustments]
+- 2026-09-27: JK Dobbins 17 for 49; RJ Harvey 2 carries for 6 and 6 catches for 41, a concussion evaluation and returned. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -129,6 +131,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Pat Bryant: Pat Bryant has drawn praise all offseason and is ahead of Troy Franklin in Denver's receiver pecking order. [8-24 adp adjustments]
 - 2026-08-26: Jaylen Waddle: Broncos starters played the first preseason drive with Waddle and Courtland Sutton as the every-down receivers; Waddle had a big gain. Sean Payton gave up a first- and third-round pick for him. [8-26 rankings and news updates]
 - 2026-08-26: Pat Bryant: Came on in three-receiver sets, mostly in a slot role, with the starters in the preseason game; speculation that he steals snaps from Sutton is not expected to play out early. [8-26 rankings and news updates]
+- 2026-09-27: Pat Bryant: 40 snaps (67%), 2 targets, 2-44-1; receiver snaps Sutton 52, Waddle 42, Bryant 40, Franklin 11; targets Sutton 7, Waddle 7, Harvey 6, Bryant 2. [pod 9-29, deployment]
+- 2026-09-27: Jaylen Waddle: 2 of 7 for 10 plus a 14-yard carry vs LAR. [pod 9-28, deployment]
 
 ## Tight ends
 

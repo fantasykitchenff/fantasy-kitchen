@@ -48,6 +48,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Fernando Mendoza: Mendoza looked solid in his first preseason game; the plan was reportedly for Kirk Cousins to start with Mendoza taking over around the bye, but he could start earlier if he keeps playing well. [8-19 Offenses to look out for]
 - 2026-08-20: Fernando Mendoza: No. 1 overall pick took snaps under center in preseason, which he did not do in college, and showed layered throws and mobility. Expectation is Kirk Cousins starts, with Mendoza taking over around Oct/Nov. [8-20 buying or selling rookie hype]
 - 2026-08-20: Kirk Cousins: Looked sharp in the preseason opener and knows Clint Kubiak's offense well; he is expected to open the season as the starter. [8-20 buying or selling rookie hype]
+- 2026-09-27: Kirk Cousins 22 of 33, 248, 3 TD, 0 INT; three touchdown passes in each of three games. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -76,6 +77,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Mike Washington Jr.: Rookie Mike Washington Jr. is the next man up behind Jeanty and drew attention while Jeanty's ankle injury was being evaluated. [8-24 adp adjustments]
 - 2026-08-26: Mike Washington: Rookie RB has drawn positive camp buzz; in the preseason he ran 15 times for 119 yards with 2 catches for 18 yards on 45 snaps, and he could start Week 1 if Jeanty's ankle keeps him out. [8-26 rankings and news updates]
 - 2026-09-29: Ashton Jeanty: 20-plus touches in each of the first three games; 206 rushing yards at 3.3 yards per carry, no rushing TD; 13-97-2 receiving on 16 targets; 19 for 56 plus 3 of 3 for 37 in the 35-27 Week 3 win @NO (CBS, reports).
+- 2026-09-27: Ashton Jeanty 19 for 56 and 3 catches for 37; season 3.3 yards per carry, 13-97-2 receiving on 16 targets; Mike Washington 5 for 54 and his first career touchdown. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -112,6 +114,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Brock Bowers: The passing game is expected to run through Bowers with many first-read looks; the receiver room is unsettled after Jakobi Meyers' departure. [8-19 Offenses to look out for]
 - 2026-08-19: Michael Mayer: Michael Mayer's blocking plus receiving ability fits the Kubiak 12-personnel offense; he had an impressive touchdown catch in the preseason. [8-19 Offenses to look out for]
 - 2026-08-23: Michael Mayer: The Raiders are expected to play a lot of 12 personnel, keeping Mayer on the field; Brock Bowers had a PCL injury last season. [8-23 highstakes draft]
+- 2026-09-27: Brock Bowers: 13 of 30 team targets (43%), 10 for 116 and a touchdown in his season debut, 75% snaps, 95% route participation. [pod 9-28, deployment]
 
 ## Offensive line
 
@@ -146,6 +149,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Ashton Jeanty: Jeanty suffered a sprained ankle in a Sunday (Aug. 23) practice; the severity and whether it is a high-ankle sprain were unclear, but a season-ending injury was avoided. [8-24 adp adjustments]
 - 2026-08-26: Ashton Jeanty: Suffered an ankle sprain in camp and was helped off unable to put weight on the leg; reports now say it is a low rather than high ankle sprain and he has not been ruled out for Week 1. [8-26 rankings and news updates]
 - 2026-08-26: Ashton Jeanty: Head coach Klint Kubiak said Jeanty is 'on the mend' but declined to detail the injury; his availability for Week 1 was described as uncertain ahead of the first official injury report. [8-26 myguys episode]
+- 2026-09-29: Jack Bech: broken left forearm, placed on IR, minimum four weeks, not season-ending per Klint Kubiak. [pod 9-28, official]
 
 ## Other
 

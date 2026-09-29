@@ -85,6 +85,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Deon Claybourne: Claybourne is not expected to have a role at the start of the season; he is viewed as a contingency behind Aaron Jones and Jordan Mason. [8-23 highstakes draft]
 - 2026-08-24: Jordan Mason: Mason, a tackle-breaker who thrived in the 49ers' zone scheme, was cited at 10.5+ half-PPR points per game in 2025 games J.J. McCarthy did not start; he is viewed as the starter over an aging Aaron Jones. [8-24 adp adjustments]
 - 2026-09-29: Aaron Jones Sr.: 17 carries for 58 yards and 5 catches for 34 @TB in Week 3 (22 touches) after 23 carries in Week 2; Jordan Mason on IR (fractured thumb) and eligible to return in Week 7 (team site, reports).
+- 2026-09-27: Aaron Jones Sr. 17 for 58 and 5 catches for 34 (22 touches), 80% snaps; Jordan Mason on IR (thumb), eligible Week 7. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -110,6 +111,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Tai Felton: Tai Felton (6'1, 183, 4.37) is a speed role player unlikely to command many targets. [8-17 updates and camp news]
 - 2026-08-18: Jordan Addison: Camp reports describe a strong connection between Addison and new quarterback Kyler Murray. [8-18 WR rankings]
 - 2026-09-28: Justin Jefferson: Left ankle sprain on a first-quarter screen in Week 3 at TB; imaging clean, could play Week 4 vs MIA per O'Connell (ESPN).
+- 2026-09-27: Jordan Addison 5 for 90 and a touchdown on 9 targets. [pod 9-28, deployment]
 
 ## Tight ends
 
@@ -128,7 +130,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-17: Jauan Jennings: Jennings signed a one-year deal (max $13M, $6M guaranteed, $4.5M signing bonus); he is expected to make the roster but not be a big factor. [8-17 updates and camp news]
 - 2026-09-28: J.J. McCarthy: Traded to NYG for a 2027 fifth-round pick (team site).
+- 2026-09-28: J.J. McCarthy traded to NYG for a 2027 fifth-round pick, pending a physical; Kyler Murray starts, Carson Wentz is the No. 2. [pod 9-28, official]
 
 ## Other
 
 - 2026-07-18: The Vikings went 9-8 in 2025 (4-8 then five straight wins, four with McCarthy), played the most games vs. winning teams, and ranked 26th in points and 28th in yards; schedule rated 17th toughest. [7-18 nfc north breakdown]
+- 2026-09-27: MIN 23, TB 16; the Vikings are 3-0. [pod 9-28, official]

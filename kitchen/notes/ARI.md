@@ -47,6 +47,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-15: Carson Beck: Rookie Carson Beck could take over at QB late in the season, a risk for Arizona pass-catchers in the fantasy playoffs. [8-15 Tips]
 - 2026-08-18: Jacoby Brissett: Brissett was named the Cardinals' starting quarterback after Kyler Murray's departure to Minnesota. [8-18 WR rankings]
 - 2026-08-20: Carson Beck: Third-round rookie could get starts; he profiles as a low-upside game manager who would lean on Trey McBride and swing passes to Love, hurting Harrison and Wilson. Cardinals expected to draft a QB in 2027. [8-20 buying or selling rookie hype]
+- 2026-09-27: Jacoby Brissett started (38 of 52, 280, 2 TD); Kyler Murray plays for Minnesota in 2026. [pod 9-28, deployment]
 
 ## Backfield
 
@@ -81,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Jeremiyah Love: Love was treated as a bell-cow in his preseason debut and was left in for many touches, which contributed to his ankle injury. [8-19 Offenses to look out for]
 - 2026-08-19: Tyler Allgeier: Tyler Allgeier had productive touches in the preseason game vs the Raiders and is viewed as one of the best handcuffs in the league behind Love. [8-19 Offenses to look out for]
 - 2026-08-19: Tyler Allgeier: Coaches are comfortable giving Allgeier the ball at the goal line; he is the direct backup to Jeremiyah Love. [8-19 RBs drafting and fading]
+- 2026-09-27: Jeremiyah Love: 21 carries for 90 yards, a career high; the team recap does not credit him a receiving touchdown. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -110,6 +112,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Marvin Harrison Jr.: When Harrison, Michael Wilson and Trey McBride were all on the field last year, Harrison led with a 26% target share versus 25% for McBride and 16% for Wilson. [8-22 10 players we cant stop drafting]
 - 2026-08-24: Michael Wilson: Was very productive with Jacoby Brissett running the offense in 2025, while Marvin Harrison Jr. did not develop into the alpha that would fix the offense. [8-24 QB Rankings]
 - 2026-09-29: Marvin Harrison Jr.: 4 targets on 62 routes in Weeks 1 and 2, then 3 of 5 for 40 in the Week 3 loss to SF (under 10 percent of targets); Michael Wilson drew 14 targets on 67 routes in Weeks 1 and 2 (reports).
+- 2026-09-27: Michael Wilson: 17 targets, 11 catches, 89 yards and a touchdown in the 36-30 loss to SF; Marvin Harrison Jr. 3 of 5 for 40, 9 targets in three games. [pod 9-28, deployment]
 
 ## Tight ends
 
@@ -173,3 +176,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-10: The Cardinals' bye week is Week 14, inside the fantasy playoffs for many leagues. [8-10 mock draft]
 - 2026-08-14: Arizona's win total dropped from 4.5 to 3.5, the lowest for a 17-game season. [8-14 preseaon hype and fantasy curses]
 - 2026-08-17: Arizona faces one of the hardest schedules ever seen; the organization's decisions, including playing Love heavily in preseason, are viewed as poorly run. [8-17 updates and camp news]
+- 2026-09-27: The defense had zero sacks and zero interceptions of Purdy. [pod 9-29, deployment]

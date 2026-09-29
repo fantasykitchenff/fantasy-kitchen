@@ -6,12 +6,20 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-29T16:30:00Z",
+  "updatedAt": "2026-09-29T22:55:46Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-09-29T22:55:46Z",
+        "text": "Rashee Rice (KC) drew 9 of the Chiefs' 22 targets @MIA in Week 3, a 41 percent share, after 9.5 percent through two games. This week's Heat Check listed 18.7 percent as his Week 3 share; that is his three-game share, and the card is fixed. The buy call stands: trade for him, offer a WR3 and a bench RB.",
+        "url": "heat.html?week=4",
+        "player": "Rashee Rice",
+        "action": "TRADE_FOR",
+        "price": "a WR3 and a bench RB"
+      },
       {
         "at": "2026-09-29T15:00:00Z",
         "text": "Dallas Goedert (PHI) missed Week 3 with a sprained MCL and is week to week. The Eagles are not expected to put him on IR, so a return vs LAR is possible.",

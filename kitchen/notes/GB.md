@@ -60,6 +60,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: MarShawn Lloyd: Lloyd, after being injured for most of his first two seasons, started and played in the preseason. The Packers have shown more wide-zone runs this preseason, which fit Lloyd better than Josh Jacobs. [8-24 embarrased to love players]
 - 2026-08-26: MarShawn Lloyd: Looked good in the preseason, scoring a touchdown on an arrow route out of the backfield, and has stayed healthy through camp. [8-26 rankings and news updates]
 - 2026-08-26: MarShawn Lloyd: Lloyd is the backup positioned to benefit if Jacobs is suspended; he has been healthy in camp after an injury-ruined start to his career. [8-26 myguys episode]
+- 2026-09-24: Snaps vs ATL: Chris Brooks 26, Kaleb Johnson 22, MarShawn Lloyd 15; Johnson and Lloyd 4 carries each (Johnson 4 for 6 and 1 catch for 10). [pod 9-29, deployment]
 
 ## Receivers
 
@@ -119,6 +120,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Tucker Kraft: Kraft has a chance to lead the Packers in targets if his injury is fully behind him. [8-18 WR rankings]
 - 2026-08-26: Luke Musgrave: Beat writers expect him to start the year on PUP; roster projections have the Packers keeping only three tight ends: Tucker Kraft (off an ACL), Josh Whyle and Drake Dabney. [8-26 rankings and news updates]
 - 2026-08-26: Tucker Kraft: Said the team planned to ease him in for the first half of the season, but the thin tight end room and offensive line issues may force him into a full blocking and receiving role immediately. [8-26 rankings and news updates]
+- 2026-09-24: Tucker Kraft: 8 targets on 39 routes (71%), 49 snaps. [pod 9-28, deployment]
 
 ## Offensive line
 
@@ -127,6 +129,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-07: Both projected Packers guards graded poorly as run blockers in 2025: converted tackle Anthony Belton (backed up by rookie Jager Burton) and Aaron Banks (56.3 run-block grade). [8-7 RB to possibly fade]
 - 2026-08-07: Center Sean Rhyan ranked 19th among centers as a run blocker in 2025, and the right tackle was Green Bay's only above-average run blocker. [8-7 RB to possibly fade]
 - 2026-08-20: Green Bay's line is viewed as bottom-five: Zach Tom is the only good lineman and is coming off a patella tear; the disappointing Jordan Morgan is moving to LT. [8-20 Offensive Line Rankings]
+- 2026-09-21: The right tackle carted off in Week 2 is out long-term per LaFleur, with Anthony Belton starting; Zach Tom is not on the injury report (his 2025 patellar injury was Week 15). [pod 9-28, official]
 
 ## Depth chart
 
@@ -161,6 +164,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Tucker Kraft: Kraft practiced for the first time since his ACL tear and said the team will probably keep him on a snap count until about halfway through the season. [8-17 Breakouts and Injury stuff]
 - 2026-08-18: Josh Jacobs: Dealing with a groin injury; Matt LaFleur said he returns to practice today. A possible suspension is still unresolved. [8-18 sleeper picks]
 - 2026-08-20: Micah Parsons: Micah Parsons is not expected to play for a while, weakening the defense and likely game scripts. [8-20 Offensive Line Rankings]
+- 2026-09-28: Josh Jacobs: on the Commissioner's Exempt List; the NFL filed a records request for video after a judge denied motions to seal it; games on the list count toward any suspension; no return imminent per Rapoport. [pod 9-28, official]
+- 2026-09-24: Christian Watson: hamstring listed after the Thursday game, 51 snaps; no follow-up report as of 9/29. [pod 9-28, beat]
+- 2026-09-21: Jayden Reed: neck (helmet-to-helmet hit in Week 2), kept overnight, missed Week 3, expected to go to IR. [pod 9-28, beat]
 
 ## Other
 

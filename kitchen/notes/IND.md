@@ -99,6 +99,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Keenan Allen: Expected to open behind Alec Pierce and Josh Downs as the primary receivers, adding another short-area target alongside Tyler Warren and Downs. [8-26 rankings and news updates]
 - 2026-09-29: Keenan Allen: 6 of 9 targets, 63 yards, 1 TD in the Week 3 win over HOU with Alec Pierce (heel) out; 20 targets through three games (box score).
 - 2026-09-29: Josh Downs: targets 3, 9 and 11 in Weeks 1 to 3; 7 of 9 for 72 in Week 2 after Alec Pierce left, 5 of 11 for 77 vs HOU in Week 3. Pierce (heel) is on IR (reports).
+- 2026-09-27: Keenan Allen: 6 of 9 for 63 and a touchdown, 52 of 71 snaps (73%), 20 targets in three games; Week 3 targets Downs 11 (5 for 77), Warren 10 (9 for 55), Allen 9, Treadwell 1; Laquon Treadwell led receivers with 56 snaps as the primary X. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -148,6 +149,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Keenan Allen: Keenan Allen reportedly landed with the Colts in August; the Colts are expected to try Josh Downs in two-receiver sets, with doubts about the 171-pound Downs holding up all season. [8-23 highstakes draft]
 - 2026-08-26: Keenan Allen: Signed a one-year deal worth up to $8M with the Colts, reuniting with Shane Steichen; he is 34 and showed decline late in 2025 but still commanded targets. [8-26 rankings and news updates]
 - 2026-08-26: Keenan Allen: The Colts signed Keenan Allen in late August because Alec Pierce, Josh Downs and Tyler Warren were all dealing with injuries; he is expected to be heavily involved early in the season. [8-26 myguys episode]
+- 2026-09-22: Darius Slayton signed (released by NYG 9/7), inactive Week 3. [pod 9-28, official]
 
 ## Injuries and status
 
@@ -184,7 +186,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Josh Downs: Downs has a calf injury he called very minor and said he expects to resume practicing soon. [8-26 myguys episode]
 - 2026-08-26: Tyler Warren: Dealing with a groin issue; expected to sit out practice this week but the team still says he will be fine for Week 1. [8-26 rankings and news updates]
 - 2026-08-26: Tyler Warren: Warren is dealing with a groin injury, one of several injuries among Colts pass catchers along with Downs and Alec Pierce. [8-26 myguys episode]
+- 2026-09-23: Alec Pierce aggravated the surgically repaired left heel in Week 2 at KC and was placed on IR on 9/23; minimum four games, no timeline, another surgery possible per Shane Steichen. [pod 9-29, official]
 
 ## Other
 
 - 2026-07-09: The Colts' first five 2026 games are Baltimore, Kansas City, Houston, at Washington and at Pittsburgh, all as underdogs, before two Jacksonville games and another Houston game later. [7-9 afc south breakdown]
+- 2026-09-27: IND 19, HOU 17. [pod 9-28, official]

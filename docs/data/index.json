@@ -1,17 +1,8 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-09-29T16:58:36Z",
+  "updatedAt": "2026-09-29T22:55:46Z",
   "pieces": [
-    {
-      "series": "butcher",
-      "week": 4,
-      "path": "2026/week-04/butcher.json",
-      "title": "Butcher Shop, Week 4",
-      "dek": "Chris Olave has 36 targets and one touchdown. That price will not last, so go get him today.",
-      "publishedAt": "2026-09-29T17:20:00Z",
-      "updatedAt": "2026-09-29T17:20:00Z"
-    },
     {
       "series": "heat",
       "week": 4,
@@ -19,7 +10,7 @@
       "title": "Heat Check, Week 4",
       "dek": "Rashee Rice went from 2 targets to 6 to 9. The Kansas City passing game is his again.",
       "publishedAt": "2026-09-29T17:20:00Z",
-      "updatedAt": "2026-09-29T17:20:00Z"
+      "updatedAt": "2026-09-29T22:55:46Z"
     },
     {
       "series": "notes",
@@ -28,7 +19,16 @@
       "title": "Kitchen notes, Week 4",
       "dek": "What moved today.",
       "publishedAt": "2026-09-29T16:30:00Z",
-      "updatedAt": "2026-09-29T16:30:00Z"
+      "updatedAt": "2026-09-29T22:55:46Z"
+    },
+    {
+      "series": "butcher",
+      "week": 4,
+      "path": "2026/week-04/butcher.json",
+      "title": "Butcher Shop, Week 4",
+      "dek": "Chris Olave has 36 targets and one touchdown. That price will not last, so go get him today.",
+      "publishedAt": "2026-09-29T17:20:00Z",
+      "updatedAt": "2026-09-29T17:20:00Z"
     },
     {
       "series": "market",

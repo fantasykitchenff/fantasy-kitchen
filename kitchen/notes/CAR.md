@@ -58,6 +58,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Chuba Hubbard: Hubbard had no runs of 15-plus yards in 2025 and just one carry inside the five as goal-line work went to Rico Dowdle. [8-20 bust and value picks for 2026]
 - 2026-08-24: Chuba Hubbard: Head coach Dave Canales said that if Hubbard is good to go for Week 1, the Panthers will use a running back committee. Hubbard's availability for Week 1 is still in question. [8-24 embarrased to love players]
 - 2026-08-24: Jonathan Brooks: Brooks, after a long injury layoff, started and played in the preseason for Carolina. [8-24 embarrased to love players]
+- 2026-09-27: Chuba Hubbard: 20 carries and every first-half snap; AJ Dillon 4 carries. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -87,12 +88,14 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Tetairoa McMillan: McMillan had about 1,000 yards, 70 catches and 7 TDs as a rookie and was a fringe WR2/3 in the second half once Jalen Coker returned from a quad injury that cost him the first half. [8-20 WRs talk]
 - 2026-08-20: Tetairoa McMillan: Rookie Chris Brazzell was supposed to be the sacrificial X that moved McMillan into the slot for easier targets; with Brazzell out for the year that plan is in doubt. [8-20 WRs talk]
 - 2026-08-26: Tetairoa McMillan: His slot rate was 15% as a 2025 rookie but 41% across two preseason games; with both starting tackles out, higher-percentage middle-of-field work is the plan. [8-26 rankings and news updates]
+- 2026-09-27: Tetairoa McMillan: 5 targets, 2 catches for 17; Dave Canales said the coaches have to put him in better positions after CLE played two-high zone to take him away. [pod 9-29, coach]
 
 ## Tight ends
 
 - 2026-08-05: Mitchell Evans: Evans, dealing with an ankle injury, had been trending toward a large role as a tight end who blocks well and has soft hands. [8-5 32 team update and breakdown]
 - 2026-08-13: Mitchell Evans: Was already a plus blocker as a rookie on a run-centric team; he had an injury at the start of camp but is healthy, another Panthers tight end is out for the season, and Bryce Young is a checkdown-heavy passer. [8-13 TE talk]
 - 2026-08-20: Darren Waller: Carolina brought in Darren Waller; when healthy he is expected to be a downfield and red zone target rather than a blocker, adding TE targets the Panthers rarely used. [8-20 WRs talk]
+- 2026-09-27: Darren Waller: 5 catches for 51; his routes and targets per route have risen each week. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -110,6 +113,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-02: Jalen Coker: Signed a large contract and remains a starter alongside McMillan; Xavier Legette is still on the roster. [8-2 players we need in every draft]
 - 2026-08-13: Darren Waller: The Panthers signed Darren Waller (33) to a one-year deal; he caught six TDs last year and is considered an upgrade over Ja'Tavion Sanders. [8-13 h2h mock draft]
+- 2026-09-28: Austin Ekeler was never on the 2026 roster (a reported workout only); he signed with Washington. [pod 9-28, official]
 
 ## Injuries and status
 
@@ -124,6 +128,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Chuba Hubbard: Hubbard is week-to-week with a hamstring injury suffered the prior week. [8-16 preseason week 1 recap]
 - 2026-08-17: Carolina lost pass rusher Nick Scourton for the season, RT Taylor Moton is out indefinitely and Ikem Ekwonu is likely done as a Panther; poor game scripts are expected. [8-17 updates and camp news]
 - 2026-08-17: Chuba Hubbard: Chuba Hubbard pulled his hamstring and is week-to-week, opening reps for Jonathon Brooks. [8-17 updates and camp news]
+- 2026-09-27: Jalen Coker: quad, left early in the third quarter at CLE and did not return; he called it minor; no timeline; he had also carried an ankle issue that week. [pod 9-29, beat]
+- 2026-09-29: Jaycee Horn: quad, 6 to 12 weeks per ESPN's Jeremy Fowler; Mike Jackson: groin, left in the first half, tests Monday, Week 4 status not reported. [pod 9-28, beat]
+- 2026-09-23: Jonathon Brooks: core-muscle surgery, placed on IR, out at least six weeks. [pod 9-28, official]
 
 ## Other
 

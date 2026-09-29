@@ -52,6 +52,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Jaydon Blue: After heavy offseason hype from the Cowboys, Blue was reportedly falling behind in the backfield competition by late August. [8-23 highstakes draft]
 - 2026-08-26: Javonte Williams: The Cowboys have not settled on a No. 2 back; if Williams went down the expectation is a lot of Malik Davis with some Blue and Mafah mixed in. [8-26 rankings and news updates]
 - 2026-08-26: Jaydon Blue: Reports say he is losing momentum in the RB2 battle with Malik Davis and Phil Mafah; coaches have called him out and talked up Davis, and Blue could be inactive in Week 1. [8-26 rankings and news updates]
+- 2026-09-15: Tyler Goodson signed off the ATL practice squad (Israel Abanikanda waived); in Week 3 he was the No. 2 behind Javonte Williams (75% snaps on the season) ahead of Emari Demercado. The injured back was Malik Davis (season-ending hip surgery); Blue and Mafah were cut in camp. [pod 9-28, official]
 
 ## Receivers
 

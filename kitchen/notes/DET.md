@@ -66,6 +66,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Jameson Williams: Williams was unproductive through Week 8 of 2025 but exploded after the play-calling change and LaPorta's injury, finishing as a top-10 fantasy receiver. [8-20 bust and value picks for 2026]
 - 2026-08-24: Jameson Williams: Williams finished as the half-PPR WR9 in 2025 after a slow start; from Week 10 on, after Dan Campbell took over play-calling, he was the WR5 on a 1,400-yard pace. Drew Petzing is OC under Campbell's vision. [8-24 adp adjustments]
 - 2026-08-26: Jameson Williams: Historically LaPorta's on/off splits have affected Williams; after Dan Campbell took play-calling from John Morton midway through 2025 Williams was dominant in the second half. [8-26 rankings and news updates]
+- 2026-09-27: Jameson Williams 4 of 4 for 49 vs NYJ; Sam LaPorta 3 for 44; Jahmyr Gibbs 164 scrimmage yards and 3 touchdowns. [pod 9-28, deployment]
 
 ## Tight ends
 

@@ -27,6 +27,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-09: Josh Allen: DJ Moore was added; Dalton Kincaid produced big numbers on just 38% of snaps in 2025 and his health is the question. [8-9 QB preview]
 - 2026-08-14: Josh Allen: Has posted a passing TD rate of 5%+ in each of the last six seasons and in 2025 led all QBs in rushing attempts, rushing yards, rushing TDs and expected rushing TDs. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-22: Josh Allen: Allen has finished QB1 or QB2 six straight years; in both 2024 and 2025 he was a top-five fantasy QB without a top-36 receiver or top-12 tight end, and he enters year nine as the all-time leader in QB rushing touchdowns. [8-22 10 players we cant stop drafting]
+- 2026-09-27: Josh Allen took a helmet to the left knee in the fourth quarter vs LAC, stayed in and played all 66 snaps (16 of 26, 204, 0 TD, 2 INT, 4 sacks); the OC said Tuesday he is sore but not a concern; no diagnosis reported. [pod 9-28, beat]
 
 ## Backfield
 
@@ -67,6 +68,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: DJ Moore: In Ben Johnson's 2025 offense Moore's route tree leaned on digs and outs, two of his least effective patterns; he is best on nine, curl and slant routes, which Joe Brady's boundary X runs and Josh Allen likes to throw. [8-18 WR targets and avoids]
 - 2026-08-18: DJ Moore: Moore is the Bills' No. 1 receiver, has finished top-24 in six of the last seven seasons and had some of his best touchdown production in his three Chicago years; his 2025 volume dipped but his efficiency rose. [8-18 WR rankings]
 - 2026-08-19: DJ Moore: Moore ran vertical routes in the preseason opener and is expected to be one of only a few Bills pass-catchers who eat, along with Kincaid. [8-19 Offenses to look out for]
+- 2026-09-27: DJ Moore (shoulder) was limited Wednesday, a game-time decision, and played 42 snaps (64%); Keon Coleman (ankle, DNP Wednesday) had 1 catch for 37 on 32 snaps (48%). [pod 9-28, official]
 
 ## Tight ends
 
@@ -83,6 +85,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Dalton Kincaid: Kincaid played in 12 personnel ahead of Jackson Hawes and split the 11-personnel TE spot with Dawson Knox (Knox had the most snaps); he has had a full offseason and camp with the PCL issue behind him. [8-17 updates and camp news]
 - 2026-08-17: Dalton Kincaid: Kincaid had the best yards per route run of any tight end in 2025 but did not play enough snaps to be consistently valuable. [8-17 Breakouts and Injury stuff]
 - 2026-08-24: Dalton Kincaid: Camp reports say Kincaid has been at every practice with a healthy knee for the first time in years and is more involved in every facet. He posted 2.73 YPRR in 2025, best among tight ends, on only about 30% of snaps. [8-24 embarrased to love players]
+- 2026-09-27: Dawson Knox 46 snaps (70%) to Dalton Kincaid 44 (67%). [pod 9-28, deployment]
 
 ## Offensive line
 

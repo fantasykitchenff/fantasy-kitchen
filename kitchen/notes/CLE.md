@@ -40,6 +40,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Dillon Gabriel: Dillon Gabriel, a 2025 third-round pick (94th overall), generated no reported buzz in the Browns' quarterback competition. [8-24 adp adjustments]
 - 2026-08-24: Shedeur Sanders: Sanders was named the Week 1 backup despite reportedly outplaying Watson in the preseason; Cleveland opens at JAX and at TB before hosting CAR in Week 3. [8-24 adp adjustments]
 - 2026-08-26: Deshaun Watson: Named the Week 1 starter over Shedeur Sanders days after calling out fans who booed him in the preseason; cutting him now would hurt the 2027 cap. Cleveland opens with two road games before a Week 3 home game. [8-26 rankings and news updates]
+- 2026-09-27: Deshaun Watson: 11 carries for 45. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -65,6 +66,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Dylan Sampson: Sampson was one of only three RBs to average 2.0 yards per route run in 2025 (with Bijan Robinson and Jaylen Warren); receiving was his calling card coming out of college. [8-19 RBs drafting and fading]
 - 2026-08-19: Quinshon Judkins: Judkins was targeted on 23% of his routes after being activated in Week 2 of 2025; he is returning from a fibula fracture that some consider worse than Cam Skattebo's. [8-19 RBs drafting and fading]
 - 2026-08-19: Quinshon Judkins: The last four backs to return from a similar fibula fracture averaged 6.5 fewer fantasy points per game the next year as less explosive players; nothing negative on his health has come out of camp. [8-19 RBs drafting and fading]
+- 2026-09-27: Rocket Sanders: 4 of 5 as the No. 2 behind Quinshon Judkins (18 carries, recently back from injury). [pod 9-29, deployment]
 
 ## Receivers
 
@@ -94,6 +96,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: KC Concepcion: First-round rookie KC Concepcion reportedly looks excellent in camp, but he is tied to a poor quarterback situation in Cleveland. [8-24 adp adjustments]
 - 2026-08-26: Denzel Boston: Expected to run lower-percentage routes as the X receiver behind a poor offensive line with shaky quarterback play; his camp buzz has faded relative to Concepcion. [8-26 rankings and news updates]
 - 2026-08-26: KC Concepcion: Camp buzz has shifted from Denzel Boston to Concepcion; he is expected to run a lot of high-percentage routes under Todd Monken, making him somewhat quarterback-proof. [8-26 rankings and news updates]
+- 2026-09-27: KC Concepcion: 20 targets, 12 catches, 80 yards, no touchdown through three games (5 targets for 43, 6 for 28, 9 for 9); Week 3 87% snaps and a 30% target share. [pod 9-29, deployment]
 
 ## Tight ends
 

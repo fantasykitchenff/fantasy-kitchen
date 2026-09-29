@@ -78,6 +78,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Zay Flowers: Has not missed a game since entering the league; behind him Rashod Bateman and Jacoby Lane are the top receivers now that Isaiah Likely is gone. [8-24 QB Rankings]
 - 2026-08-24: Zay Flowers: Flowers' target share rose each season to 29% in 2025 (86 catches, ~1,200 yards) with low TD totals; Baltimore gave him a big extension and new OC Declan Doyle comes from Ben Johnson's tree. [8-24 adp adjustments]
 - 2026-08-24: Zay Flowers: Flowers posted a 90th-percentile success rate vs. zone coverage in 2023, 98th in 2024 and 91st in 2025, while also improving significantly against press. [8-24 adp adjustments]
+- 2026-09-26: Zay Flowers: hamstring, on a snap count, 21 snaps, 5 of 6 for 84 in the 34-31 win over DAL in Brazil; the head coach expects a full workload vs TEN. [pod 9-28, beat]
 
 ## Tight ends
 

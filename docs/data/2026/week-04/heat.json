@@ -6,9 +6,9 @@
   "dek": "Rashee Rice went from 2 targets to 6 to 9. The Kansas City passing game is his again.",
   "format": "PPR",
   "publishedAt": "2026-09-29T17:20:00Z",
-  "updatedAt": "2026-09-29T17:20:00Z",
+  "updatedAt": "2026-09-29T22:55:46Z",
   "author": "Chef Hazy",
-  "intro_md": "Heat Check is about direction, not box scores. A riser earned more of the ball three weeks running or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets, or just lost the thing his role depended on. One number backs each call. PPR scoring.",
+  "intro_md": "Updated Tue 6:55 PM ET: corrected Rashee Rice's Week 3 target share to 41% (18.7% is his three-game share); the trade-for call stands.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball three weeks running or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets, or just lost the thing his role depended on. One number backs each call. PPR scoring.",
   "outro_md": "The trade prices for these trends are in the Butcher Shop, and the Menu lands Wednesday.",
   "data": {
     "risers": [
@@ -19,7 +19,7 @@
         "stat": "Targets 2 to 6 to 9",
         "action": "TRADE_FOR",
         "price": "a WR3 and a bench RB",
-        "why": "Rice led the Chiefs in targets, catches and yards @MIA in Week 3 with 7 catches for 88 yards on 9 targets. His target share was 9.5% through two games and 18.7% in Week 3.",
+        "why": "Rice led the Chiefs in targets, catches and yards @MIA in Week 3 with 7 catches for 88 yards on 9 targets. He drew 9 of the Chiefs' 22 targets in Week 3, a 41% share, after 9.5% through two games; his three-game share is 18.7%.",
         "verdict": "Trade for him; offer a WR3 and a bench RB before the price catches up."
       },
       {

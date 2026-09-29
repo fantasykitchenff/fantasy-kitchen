@@ -70,6 +70,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Kenneth Walker III: Walker is 25 (26 during the season) and was Super Bowl MVP for Seattle; the Chiefs reportedly brought him in to be a workhorse and to catch passes. [8-24 adp adjustments]
 - 2026-08-26: Kenneth Walker III: In 2025 Walker had 10 runs of 20+ yards (the Chiefs had one as a team), 15% of his carries gained 10+ yards (3rd among RBs) and he led RBs in forced missed tackle rate. [8-26 myguys episode]
 - 2026-08-26: Kenneth Walker III: In Seattle's three 2025 playoff games Walker had 74 touches for 417 scrimmage yards, nearly 25 touches per game. [8-26 myguys episode]
+- 2026-09-27: Emmett Johnson 6 for 17 and no targets; Kenneth Walker 18-70-1 plus a receiving touchdown. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -106,12 +107,14 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-21: Rashee Rice: Camp reports say he has looked slow and been beaten in practice; his practice reviews have been notably poor. [8-21 mayhem mock draft]
 - 2026-09-29: Xavier Worthy: Led KC receivers with 43 snaps in Week 3 but ran 19 routes and drew 2 targets (usage reports).
 - 2026-09-29: Rashee Rice: targets 2, 6 and 9 in Weeks 1 to 3; 7 of 9 for 88, team highs, in Week 3 @MIA; target share 9.5 percent through two games, 18.7 percent in Week 3 (reports).
+- 2026-09-27: Rashee Rice: 9 of 22 team targets (41%), 7 for 88; season targets 2, 6, 9 (17 of 91, 18.7%). The 18.7% is the three-game share, not the Week 3 share. [pod 9-28, deployment]
 
 ## Tight ends
 
 - 2026-08-05: Travis Kelce: Kelce, nearly 37, had 100+ targets in 2025; the Chiefs' identity is shifting to the run game with Mahomes and Rice coming off serious injuries, and his targets are near the line of scrimmage. [8-5 top 10 TE rankings]
 - 2026-08-05: Travis Kelce: Kelce (37 in Oct) saw red-zone targets fall from 26 to 11; in 2025 he ranked 20th in YPA, 22nd in success rate and 32nd in inaccurate-target rate among TEs, with 41% of routes short; PPG went 15, 11, 9, 9.1. [8-5 ice and fire show]
 - 2026-08-14: Travis Kelce: Averaged a career-low 1.47 yards per route in 2025, though that still ranked 22nd among 49 qualifying tight ends. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
+- 2026-09-27: Travis Kelce: 18 targets, 14-231-2 through three games (19.8% of team targets). [pod 9-29, deployment]
 
 ## Offensive line
 

@@ -55,6 +55,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Chase Brown: Brown had 69 receptions in 2025; he was disappointing early with Jake Browning at quarterback and immediately resumed producing once Joe Flacco took over. [8-19 RBs drafting and fading]
 - 2026-08-23: Chase Brown: Brown caught a large number of passes and ran hot on touchdowns last season, including a late-season surge with Joe Flacco at quarterback after Burrow was hurt. [8-23 highstakes draft]
 - 2026-08-23: Samaje Perine: Perine's camp snaps indicate he is not going away as a rotational back behind Chase Brown, a minor workload concern for Brown. [8-23 highstakes draft]
+- 2026-09-27: Chase Brown 13 carries for 61 at PIT; Samaje Perine 3 for 9. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -69,6 +70,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: The Bengals have done little to address tight end and WR3 behind Chase and Higgins, keeping targets concentrated. [8-17 updates and camp news]
 - 2026-08-19: The Bengals did very little to address WR3 or tight end this offseason, leaving Chase Brown as the de facto third receiving option behind Ja'Marr Chase and Tee Higgins. [8-19 RBs drafting and fading]
 - 2026-08-24: Tee Higgins: The Bengals kept Higgins, so Burrow again has Chase and Higgins; the offensive line is expected to be improved. [8-24 QB Rankings]
+- 2026-09-23: Andrei Iosivas placed on IR (fractured thumb, Week 2). [pod 9-28, official]
 
 ## Tight ends
 
@@ -98,6 +100,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Injuries and status
 
 - 2026-08-26: Ja'Marr Chase: Chase left a preseason game with a knee injury but told reporters he was fine, tried to go back out and was held out by the coaches. [8-26 myguys episode]
+- 2026-09-29: Colbie Young: knee on the opening play at PIT, will miss Week 4 per Zac Taylor, who is hopeful it is not long-term; Dohnte Meyers 3 of 5 for 29 in his place. [pod 9-28, coach]
 
 ## Other
 
@@ -106,3 +109,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-07-07: Cincinnati opens at home against Tampa Bay, is not favored at Houston in week 2, and has an early week 6 bye. [7-7 afc north breakdown]
 - 2026-08-05: The Bengals have the third-easiest strength of schedule and reportedly the easiest for wide receivers; they added Dexter Lawrence via trade, and Burrow, Chase and Higgins are healthy with no contract drama. [8-5 top 10 QB rankings]
 - 2026-08-06: The Bengals' defense looks better after acquiring Dexter Lawrence and other free agents. [8-6 1st round picks downsides]
+- 2026-09-27: All three touchdowns at PIT were passes (Chase, Higgins, Gesicki). [pod 9-29, deployment]

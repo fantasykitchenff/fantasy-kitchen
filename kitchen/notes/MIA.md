@@ -11,6 +11,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-11: De'Von Achane: Head coach Jeff Hafley said he told Achane to be in good shape because there may be games where he has to carry him to the locker room; Achane is 5'9, 191, Willis has six NFL starts and the line ranks 29th. [8-11 news and risers and fallers - rankings update]
 - 2026-08-13: Bobby Slowik: Slowik, who was on the Dolphins' staff last year, now runs the offense under Jeff Hafley; the run game finished 2025 strongly and the left side of the line could be formidable if healthy. [8-13 mock draft 3.0]
 - 2026-08-19: New head coach Jeff Hafley has been talking about how many times the Dolphins can run the ball per game; Bobby Slowik is the offensive coordinator. [8-19 RBs drafting and fading]
+- 2026-08-03: Hafley said in camp he wants Gordon to push to be an every-down back rather than be boxed into short yardage. [pod 9-29, coach]
 
 ## Scheme and tendencies
 
@@ -65,6 +66,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Jaylen Wright: Wright has reportedly locked down the No. 2 running back job in Miami behind De'Von Achane. [8-23 highstakes draft]
 - 2026-09-28: Ollie Gordon II: Only active RB after Achane's injury in Week 3; 17 carries, 41 yards, 1 TD, 3 catches for 14 yards. Jaylen Wright inactive (stinger). Hafley said the team will discuss adding a back (CBS).
 - 2026-09-29: Ollie Gordon II: Rostered in about 1 percent of leagues Tuesday of Week 4; Miami has not signed a back, and Gordon and Jaylen Wright are the backfield (public waiver pages, reports).
+- 2026-09-27: Ollie Gordon II: 61 snaps (84%) after Achane left, 17 for 41 and a touchdown, 3 of 3 for 14, a brief cramp; fullback DJ Herman took 7 snaps at halfback and receiver Malik Washington 5 as the emergency back. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -91,6 +93,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Malik Washington: Washington, a sixth-round pick entering year three, had 220 yards as a rookie and 317 in 2025 behind Hill and Waddle; beat reporting on him has been generally positive. [8-20 bust and value picks for 2026]
 - 2026-08-24: Caleb Douglas: Rookie has impressed in camp; Malik Washington is the slot target, Greg Dulcich is healthy, and Chris Bell should return from his ACL at some point. [8-24 QB Rankings]
 - 2026-08-24: Caleb Douglas: Douglas is competing for a starting role in a Dolphins receiver room that also includes Tutu Atwell and Malik Washington and lacks an established No. 1 after Jaylen Waddle's departure. [8-24 embarrased to love players]
+- 2026-09-27: Malik Washington: 34 routes (79%), a game-high 10 targets, 5 for 56, 2 carries; Chris Bell: 52 snaps (72%, up from 41%), 25 routes (58%), 4 of 7 for 67. [pod 9-28, deployment]
 
 ## Tight ends
 
@@ -122,6 +125,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Transactions and contracts
 
 - 2026-08-12: Jaylen Waddle: Waddle was traded away from Miami to Denver, vacating targets that could flow to Achane. [8-12 top 10 rb rankings]
+- 2026-09-29: No running back signed; Hassan Haskins, Kenny McIntosh, Damien Martinez and Elijah Tau-Tolliver worked out; Jarquez Hunter and Carlos Washington are on the practice squad. [pod 9-29, official]
 
 ## Injuries and status
 
@@ -131,8 +135,11 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Greg Dulcich: Dulcich sat out practice with an undisclosed injury after his stock had been rising. [8-5 32 team update and breakdown]
 - 2026-08-26: Chris Bell: Rookie WR shed his non-contact jersey after tearing his ACL at Louisville in November 2025; he might play in preseason Week 3 and has a legitimate chance to play Week 1. [8-26 rankings and news updates]
 - 2026-09-28: De'Von Achane: Torn ACL on his third carry in the Week 3 loss to KC; placed on IR, out for the season (ESPN, team move).
+- 2026-09-28: Jaylen Wright: inactive Week 3 with a stinger and a foot issue; Jeff Hafley said Monday he is day-to-day and could practice Wednesday. [pod 9-28, coach]
+- 2026-09-28: Caleb Douglas: ankle, out Week 3, day-to-day and could practice Wednesday per Hafley. [pod 9-28, coach]
 
 ## Other
 
 - 2026-08-05: The Dolphins' win total is 4.5 and Vegas projects them 29th in points; McDaniel, Tua and Waddle are all gone. [8-5 ice and fire show]
 - 2026-08-14: Dolphins rank 31st in implied win percentage and 32nd in multiple power indexes; the offense transitions from McDaniel to Bobby Slowik with a bad offensive line. [8-14 changed minds about players]
+- 2026-09-29: Week 4 at MIN opened MIN -9.5 with a 39.5 total and sits at MIN -11.5 with a 38.5 total, a Miami implied total of 13.5. [pod 9-29, aggregation]

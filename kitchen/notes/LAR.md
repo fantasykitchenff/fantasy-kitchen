@@ -44,6 +44,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Blake Corum: Corum finished second only to De'Von Achane in rate of 10-yard carries in 2025 and is projected to keep a meaningful share of the Rams' backfield. [8-19 RBs drafting and fading]
 - 2026-08-19: Kyren Williams: Williams handled 74% of the Rams' backfield touches before the 2025 bye but only 60% over the 13 games after it as Blake Corum earned more work. [8-19 RBs drafting and fading]
 - 2026-08-26: Blake Corum: The Rams offense lacks explosiveness in the backfield and at receiver, which is cited as a reason Corum could take another step in 2026. [8-26 rankings and news updates]
+- 2026-09-27: Kyren Williams 15 for 88 and 6 catches for 70 on 71% snaps; Blake Corum 6 for 15 and 2 catches for 0 on 29%. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -70,6 +71,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Davante Adams: Adams is no longer a vertical threat; the Rams funneled him touchdowns last season, and he has been a goal-line target wherever he has played. [8-23 highstakes draft]
 - 2026-08-26: Davante Adams: Beat reporting described him as fresh and explosive and virtually uncoverable in joint practices against the Cowboys and Saints; in 2025 he had one game over 90 yards and lived on touchdowns. [8-26 rankings and news updates]
 - 2026-08-26: Terrance Ferguson: With Tutu Atwell gone, TE Ferguson is functioning as the Rams' WR3; he said he never expected to learn the X, Y and Z spots. The Rams are expected to run a lot of three-TE sets. [8-26 myguys episode]
+- 2026-09-27: Konata Mumpfield: 4 of 8 for 93 and a 48-yard touchdown, 60 snaps (73%), second among Rams receivers in targets behind Davante Adams (13 targets, 7 for 137, 83% snaps). [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -90,6 +92,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Terrance Ferguson: Ferguson's role is the open question; he is athletic with a high average depth of target, but if he runs only about 15 routes a game the spike weeks will be hard to find. [8-23 highstakes draft]
 - 2026-08-26: Terrance Ferguson: Has lined up at F, Y, X and Z in camp; beat reporting sees a clear path for him to finish third on the Rams in catches and yards behind Adams and Nacua, though usage could swing week to week. [8-26 rankings and news updates]
 - 2026-09-29: Tyler Higbee: 8 of 11 targets, 62 yards, 1 TD at DEN in Week 3 after Terrance Ferguson hurt his ankle (Ferguson 15.6 percent route share). Ferguson unlikely for Week 4; Colby Parkinson has an AC sprain (reports).
+- 2026-09-27: Tyler Higbee: 8 of 11 for 62 and a touchdown, 60 snaps (73%). [pod 9-28, deployment]
 
 ## Offensive line
 
@@ -112,6 +115,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Puka Nacua: Nacua reportedly ran into a sliding glass door at an offseason party and also faces a possible suspension. [8-13 mock draft 3.0]
 - 2026-08-15: Puka Nacua: Left practice with a groin issue that the team is describing as tightness rather than a strain; it would not be surprising for him to sit out the full week. [8-15 talk with injury expert]
 - 2026-08-18: Puka Nacua: Sean McVay said he is still dealing with groin soreness. [8-18 sleeper picks]
+- 2026-09-28: Puka Nacua: listed as hip, described by Sean McVay as groin soreness and not hernia-related; missed Weeks 2 and 3 (last played Week 1); McVay is optimistic for Week 4 at PHI; Schefter reported 9/27 that surgery is not expected but not off the table. [pod 9-28, coach]
+- 2026-09-28: Terrance Ferguson: medial ankle sprain, hurt in the first quarter, returned, out in the second; 20 snaps (24%); likely out Week 4 per McVay. Colby Parkinson: AC shoulder sprain, Week 4 undetermined. [pod 9-29, coach]
 
 ## Other
 
@@ -120,3 +125,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: The Rams added Myles Garrett and may get Aaron Donald back, strengthening the defense. [8-14 preseaon hype and fantasy curses]
 - 2026-08-19: The Rams are widely viewed as the most talented team in the league on paper entering 2026. [8-19 RBs drafting and fading]
 - 2026-08-23: Puka Nacua: There has been offseason talk of a possible suspension for Nacua along with odd injuries; rankers said they apply a risk discount for that, and Stafford's health is the other key to his outlook. [8-23 highstakes draft]
+- 2026-09-27: DEN 30, LAR 26; the Rams led 16-0 at half. [pod 9-28, official]

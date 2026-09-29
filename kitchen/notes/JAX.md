@@ -79,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Bhayshul Tuten: Tuten, a 2025 fourth-round pick, showed little explosiveness last season by yards per carry and explosive-run rate, partly because he was used in short-yardage situations. [8-23 highstakes draft]
 - 2026-08-23: Chris Rodriguez: Camp reporting has Rodriguez, Liam Coen's former Kentucky back, likely to out-carry Bhayshul Tuten early and to handle goal-line work; he has almost no receiving history. [8-23 highstakes draft]
 - 2026-08-24: Bhayshul Tuten: With Travis Etienne gone, Tuten and Chris Rodriguez are the goal-line candidates; Tuten had a strong receiving season as a junior at Virginia Tech. [8-24 QB Rankings]
+- 2026-09-27: Bhayshul Tuten 15 for 73 and a touchdown plus 2 catches for 17; Chris Rodriguez Jr. a 5-yard touchdown; JAX 35, NE 6. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -130,11 +131,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Parker Washington: From Week 7 on in 2025 (10 games) Washington was 14th in receiving yards, 15th in yards per route run and 18th in fantasy points per game; he had 90+ yards or a TD in five of his last seven. [8-24 adp adjustments]
 - 2026-08-24: Parker Washington: Beat writers describe Washington as uncoverable in camp and the clear No. 1; he had a minor injury but is expected to be fine for Week 1. Travis Hunter will play mostly defense. [8-24 adp adjustments]
 - 2026-09-29: Brian Thomas Jr.: 1 target for 8 yards in Week 3 vs NE; 13 targets through three weeks to Parker Washington's 23, no TDs (box score, reports).
+- 2026-09-27: Brian Thomas Jr.: 23 snaps (37%), 1 target, 1 catch for 8; Josh Cameron also 23 snaps; Parker Washington and Jakobi Meyers 50 (81%); Liam Coen cited more 12 personnel and specific reps for Cameron; Thomas has 13 targets to Washington's 23. [pod 9-28, deployment]
 
 ## Tight ends
 
 - 2026-08-06: Nate Boerkircher: Rookies Nate Boerkircher and Josh Cameron were each targeted by Lawrence in a two-minute drill with the first unit. [8-6 Jags camp report from]
 - 2026-08-12: Brenton Strange: Brenton Strange remains the clear lead TE, but rookies Nate Boerkircher and Tanner Koziol are trending up. [8-12 130 training camp storylines and league updates]
+- 2026-09-27: Brenton Strange 3 for 32 on 5 targets; Meyers 7-64-1. [pod 9-29, deployment]
 
 ## Offensive line
 

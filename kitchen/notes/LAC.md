@@ -72,6 +72,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Omarion Hampton: Hampton handled 80% of the Chargers' goal-line carries in 2025 (would rank 4th in the NFL), averaged 19 routes and 3.6 receptions per game, and led RBs in avoided tackles per carry through Week 5 before his injury. [8-26 myguys episode]
 - 2026-08-26: Omarion Hampton: Hampton ranked 3rd among RBs in efficiency on outside zone runs in 2025, behind De'Von Achane; Mike McDaniel's Miami outside zone used a fullback, and Alec Ingold now follows him to LA. [8-26 myguys episode]
 - 2026-09-29: Omarion Hampton: 80.6 percent snap share in Week 1, 42 percent in Week 3 (29 snaps); 15 carries for 56 vs BUF, 6 routes and 1 target while two other backs ran 14 and 13 routes (reports).
+- 2026-09-27: Snaps vs BUF: Omarion Hampton 42%, Keaton Mitchell 38%, Kimani Vidal 25%; routes Hampton 6, Mitchell 14, Vidal 13, Ingold 9; carries Hampton 15 of the backfield's 24, Mitchell 8, Vidal 1; Hampton 1 target; Mitchell 3 catches on 3 targets with a 1-yard touchdown, 8 for 52 rushing, 11 touches, 28.6% rush share. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -104,6 +105,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Ladd McConkey: McConkey's 2025 decline came from a collapsed catch rate with Herbert under constant pressure, not volume (six fewer targets); he was 4th in yards per route run on go routes. [8-26 myguys episode]
 - 2026-08-26: Ladd McConkey: McDaniel is expected to move McConkey around, outside as well as slot, as he did with Hill and Waddle in Miami; Tre Harris and Quentin Johnston are not expected to carry volume. [8-26 myguys episode]
 - 2026-09-29: Tre' Harris: 6 of 7 targets, 76 yards vs BUF in Week 3, all team highs and career highs; ran a route on 27 of 43 dropbacks. 10 of 16 targets for 149 yards through three games. Quentin Johnston ran a route on 37 of 43 dropbacks, 3 of 6 for 40 (reports).
+- 2026-09-27: Tre' Harris: 7 of 33 team targets (21%), 6 for 76, routes on 27 of 43 dropbacks; Quentin Johnston 3 of 6 for 40 on 37 of 43 dropbacks; Ladd McConkey 4 for 66 on 5 targets as a full participant after the rib injury. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -126,6 +128,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Oronde Gadsden: Gadsden played 27 preseason snaps while Charlie Kolar and David Njoku rested with the starters; beat writers describe him as the clear No. 3 TE, likely limited to a passing-situation package. [8-17 updates and camp news]
 - 2026-08-20: The Chargers added Charlie Kolar and David Njoku at TE alongside Oronde Gadsden, giving McDaniel the size to run two- and three-TE sets with McConkey staying on the field. [8-20 WRs talk]
 - 2026-08-21: Oronde Gadsden: Played late into the preseason game with backups, suggesting he is now a backup behind David Njoku. [8-21 mayhem mock draft]
+- 2026-09-21: David Njoku (knee, fibula) and Charlie Kolar (forearm) placed on IR; 9/22 Hayden Rucci signed off the JAX practice squad; 9/23 Marquez Valdes-Scantling signed to the active roster; Oronde Gadsden II 39 snaps, 0 of 3 in Week 3. [pod 9-28, official]
 
 ## Offensive line
 
@@ -162,3 +165,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-14: Went 11-6 (6-2 one-score) despite ranking 18th in yards and 24th in points, which got Greg Roman fired; Mike McDaniel, top-two in pre-snap motion rate, replaces him. [7-14 afc west breakdown]
 - 2026-07-14: Opens vs. Cardinals and Raiders as a big favorite, then at Buffalo, at Seattle, Denver and Kansas City. [7-14 afc west breakdown]
+- 2026-09-27: LAC lost 24-16 at BUF after scoring 14 vs LV in Week 2. [pod 9-28, official]

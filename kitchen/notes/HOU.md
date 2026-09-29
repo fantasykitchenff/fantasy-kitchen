@@ -44,6 +44,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Woody Marks: Marks had a strong preseason game and beat reporting expects him to see a workload close to David Montgomery's. [8-24 embarrased to love players]
 - 2026-08-26: David Montgomery: One beat report said the split with Woody Marks might be close to 50/50, while many earlier reports described Montgomery as a full three-down workhorse; camp reps may be lightened because he is aging. [8-26 rankings and news updates]
 - 2026-08-26: Woody Marks: Averaged 3.6 yards per carry in 2025 and had a strong preseason game; he is a capable handcuff with some standalone value behind Montgomery. [8-26 rankings and news updates]
+- 2026-09-27: David Montgomery 34 snaps (63%), 11 carries and 2 catches for 48; Woody Marks 20 snaps (37%), 5 carries and 1 catch for 21 and a touchdown. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -79,6 +80,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-12: Dalton Schultz: Dalton Schultz remains the clear TE1 and should keep a meaningful role. [8-12 130 training camp storylines and league updates]
 - 2026-08-19: Dalton Schultz: Dalton Schultz is a candidate to absorb secondary targets with Higgins out. [8-19 Offenses to look out for]
+- 2026-09-27: Foster Moreau 31 snaps (57%) to Dalton Schultz 29, Stover 24. [pod 9-28, deployment]
 
 ## Offensive line
 
@@ -112,6 +114,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jayden Higgins: Jayden Higgins was lost for the season with an injury in the week before Aug. 24, leaving Houston needing a starting outside receiver. [8-24 adp adjustments]
 - 2026-08-26: Jayden Higgins: Suffered a torn ACL in camp, prompting the Texans to trade for Kayshon Boutte. [8-26 rankings and news updates]
 - 2026-08-26: Tank Dell: Reportedly has not been able to sustain any type of practice schedule since his devastating knee injury; his roster spot is in jeopardy. [8-26 rankings and news updates]
+- 2026-09-26: Nico Collins: hamstring, out Week 3 (second straight), no timetable; Kayshon Boutte 37 snaps (69%), Wayne 33, Hutchinson 29. [pod 9-28, beat]
 
 ## Other
 
