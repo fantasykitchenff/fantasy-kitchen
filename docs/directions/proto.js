@@ -65,8 +65,8 @@
   };
   const TIER_LABEL = { 1: "Chef's table", 2: "Entrees", 3: "Sides", 4: "Snacks", 5: "Pantry", 6: "Scraps" };
   const POS_NAME = { QB: "Quarterbacks", RB: "Running backs", WR: "Wide receivers", TE: "Tight ends", FLEX: "Flex" };
-  const BUILT = { home: 1, menu: 1 };
-  const href = k => k === "home" ? "index.html" : k === "menu" ? "menu.html" : "#" + k;
+  const BUILT = DIR === "d" ? { home: 1, menu: 1, market: 1, orderup: 1 } : { home: 1, menu: 1 };
+  const href = k => k === "home" ? "index.html" : BUILT[k] ? k + ".html" : "#" + k;
   const todo = k => BUILT[k] ? "" : raw(' data-todo="' + k + '"');
   const cur = (k, view) => k === view ? raw(' aria-current="page"') : "";
 
@@ -181,7 +181,7 @@
      Direction A: Night Service. The current dark kitchen, rebuilt like an app.
      ===================================================================== */
   const A = {
-    shell(ctx, view, body) {
+    shell(ctx, view, body, plate) {
       const deck = ["home", "menu", "market", "butcher", "heat", "line", "prep", "orderup", "leftovers", "pass"];
       const tabs = [["home", "This week", "burner"], ["menu", "Rankings", "list"], ["market", "Waivers", "basket"], ["line", "Start/Sit", "swap"]];
       return html`
@@ -190,7 +190,7 @@
           <nav class="deck" aria-label="Sections">${deck.map(k => html`<a href="${href(k)}"${todo(k)}${cur(k, view)}>${SERIES[k].name}</a>`)}</nav>
           <a class="follow" href="${ctx.follow}" target="_blank" rel="noopener">${icon("x")}<span>Follow</span></a>
         </div></header>
-        <main id="main" class="view-${view}">${body}</main>
+        <main id="main" class="view-${view}${plate ? " plate-" + plate : ""}">${body}</main>
         <footer class="foot"><span>Fantasy Kitchen by Chef Hazy · ${ctx.site.season} season</span><span><a href="#about" data-todo="about">About the kitchen</a> · <a href="${ctx.x}" target="_blank" rel="noopener">@${ctx.handle} on X</a></span></footer>
         <nav class="tabbar" aria-label="Sections">
           ${tabs.map(([k, label, ic]) => html`<a href="${href(k)}"${todo(k)}${cur(k, view)}>${icon(ic)}<span>${label}</span></a>`)}
@@ -204,7 +204,9 @@
 
     tag(a) { return a ? html`<span class="act ${a.cls}"><b>${a.label}</b>${a.tag ? html`<small>${a.tag}${a.faab ? " FAAB" : ""}</small>` : ""}</span>` : ""; },
 
-    home(ctx) {
+    /* o.live and o.served let direction D put its own plates on the same home page */
+    home(ctx, o) {
+      o = o || {};
       const { P, plan, site, manifest } = ctx, now = nowET();
       const live = plan.find(s => s.state === "live"), w = P.orderup && lastWindow(P.orderup.data);
       return html`<div class="cols"><div class="main-col">
@@ -216,7 +218,7 @@
           <ol class="strip" aria-label="This week's schedule">${plan.map(s => html`<li class="is-${s.state}"><a href="${href(s.series)}"${todo(s.series)}>
             <span class="d">${s.day.slice(0, 3)}</span><span class="s">${SERIES[s.series].name}</span>
             <span class="t">${s.state === "served" ? "Served" : s.state === "live" ? "Live now" : s.state === "next" ? "Next, " + s.time : s.time}</span></a></li>`)}</ol>
-          ${P.orderup ? A.live(P.orderup) : ""}
+          ${P.orderup ? (o.live || A.live)(P.orderup) : ""}
           <section class="sec"><div class="sec-head"><h2>This week's calls</h2><span class="aside">tap for the why</span></div>
             <ol class="calls">${ctx.calls.map(c => html`<li><a class="call" href="${href(c.series)}"${todo(c.series)}>${A.tag(c.a)}
               <span class="who"><span class="nm">${c.item.player}</span><span class="mt">${[c.item.team, c.item.pos].filter(Boolean).join(" ")} · ${SERIES[c.series].name}</span>
@@ -224,13 +226,17 @@
         </div>
         <aside class="side-col">
           <section class="sec"><div class="sec-head"><h2>Served this week</h2></div>
-            <ol class="served-list">${plan.filter(s => P[s.series] && s.state === "served").map(s => html`<li><a href="${href(s.series)}"${todo(s.series)}>
-              <span class="pl">${SERIES[s.series].plain} · ${s.day.slice(0, 3)}</span><span class="ser">${SERIES[s.series].name}</span>
-              <span class="dk">${P[s.series].dek}</span><span class="tm">${fmt(P[s.series].updatedAt)}</span></a></li>`)}</ol></section>
+            <ol class="served-list">${plan.filter(s => P[s.series] && s.state === "served").map(s => (o.served || A.served)(s, P[s.series]))}</ol></section>
           ${A.notes(P.notes)}
           ${A.pass(ctx.feed)}
           <section class="sec">${A.followCard(ctx)}</section>
         </aside></div>`;
+    },
+
+    served(s, p) {
+      return html`<li><a href="${href(s.series)}"${todo(s.series)}>
+        <span class="pl">${SERIES[s.series].plain} · ${s.day.slice(0, 3)}</span><span class="ser">${SERIES[s.series].name}</span>
+        <span class="dk">${p.dek}</span><span class="tm">${fmt(p.updatedAt)}</span></a></li>`;
     },
 
     live(p) {
@@ -576,8 +582,172 @@
     }
   };
 
+  /* =====================================================================
+     Direction D: Stations. The Night Service frame (header, tabs, fonts, call colours)
+     on every page; each content area gets its own plate. The Menu is a printed menu
+     card, the pieces you act on are order tickets, the rest stays in the dark kitchen.
+     ===================================================================== */
+  const PLATE = { home: "kitchen", menu: "menu", market: "ticket", butcher: "ticket", line: "ticket", prep: "ticket", orderup: "ticket",
+    heat: "kitchen", leftovers: "kitchen", notes: "kitchen", pass: "kitchen", about: "kitchen" };
+  const Dd = {
+    shell(ctx, view, body) { return A.shell(ctx, view, body, PLATE[view] || "kitchen"); },
+
+    home(ctx) { return A.home(ctx, { live: Dd.liveTicket, served: Dd.served }); },
+
+    /* "Served this week" shows each piece as the object it is: a menu card, a ticket, or a kitchen card */
+    served(s, p) {
+      const plate = PLATE[s.series];
+      if (plate === "menu") {
+        const pos = (p.data && p.data.positions) || {};
+        return html`<li class="mini-menu"><a href="${href(s.series)}"${todo(s.series)}>
+          <span class="sc">${s.day} · ${SERIES[s.series].plain}</span><span class="mm-t">${SERIES[s.series].name}</span><span class="mm-d">${p.dek}</span>
+          <span class="mm-list">${Object.keys(pos).map(k => pos[k][0] ? html`<span class="mm-row"><b>${k}</b><span class="nm">${pos[k][0].player}</span><i class="dots"></i><span class="tm">${pos[k][0].team}</span></span>` : "")}</span></a></li>`;
+      }
+      if (plate === "ticket") {
+        return html`<li class="mini-tk"><a href="${href(s.series)}"${todo(s.series)}>
+          <span class="tk-band"><span>${s.day.slice(0, 3)} · ${SERIES[s.series].plain}</span><span>${fmtDay(p.updatedAt)}</span></span>
+          <span class="mt-t">${SERIES[s.series].name}</span><span class="mt-d">${p.dek}</span>
+          <span class="mt-items">${preview(s.series, p).slice(0, 3).map(it => html`<span class="mt-it"><span class="n">${it.player}</span>${Dd.stamp(act(it), true)}</span>`)}</span></a></li>`;
+      }
+      return A.served(s, p);
+    },
+
+    stamp(a, sm) { return a ? html`<span class="stamp ${a.cls}${sm ? " sm" : ""}">${a.label}${a.tag ? " " + a.tag : ""}</span>` : ""; },
+
+    /* a menu line: name, dotted leader, the call; the matchup opens the description so long names never wrap */
+    dish(r, isOff) {
+      const a = act(r), m = [r.team, r.opp].filter(Boolean).join(" ");
+      return html`<li class="dish${isOff ? " off" : ""}" data-name="${lc(r.player)}">
+        <p class="line"><span class="no">${isOff ? "" : r.rank}</span><span class="nm">${r.player}</span>${flag(r)}<span class="dots" aria-hidden="true"></span>${C.price(a)}</p>
+        <p class="desc">${m ? html`<span class="tm">${m}</span>` : ""}${r.note || ""}</p>
+        ${a && a.extra ? html`<p class="more ${a.cls}">${a.extra}</p>` : ""}
+        ${a && a.watch ? html`<p class="more watch">Watch ${a.watch}</p>` : ""}
+      </li>`;
+    },
+
+    /* a ticket: black band on top, zigzag tear at the bottom, optional barcode */
+    tk(band, body, o) {
+      o = o || {};
+      return html`<article class="tk${o.cls ? " " + o.cls : ""}"><div class="tk-band${o.red ? " red" : ""}"><span>${band[0]}</span><span>${band[1] || ""}</span></div>${body}${o.code ? html`<div class="barcode" aria-hidden="true"></div><p class="tk-id">${o.code}</p>` : ""}</article>`;
+    },
+
+    /* the line: this week's ticket stations, the current one pulled forward */
+    rail(ctx, view) {
+      return html`<nav class="rail" aria-label="The line: this week's tickets"><div class="rod" aria-hidden="true"></div>
+        <ol>${ctx.plan.filter(s => PLATE[s.series] === "ticket").map(s => html`<li class="stub is-${s.state}${s.series === view ? " here" : ""}"><a href="${href(s.series)}"${todo(s.series)}>
+          <span class="d">${s.day.slice(0, 3)}</span><span class="s">${SERIES[s.series].name}</span>
+          <span class="t">${s.state === "served" ? "Served" : s.state === "live" ? "Live" : s.state === "next" ? "Next " + s.time : s.time}</span></a></li>`)}</ol></nav>`;
+    },
+
+    head(p, o) {
+      return Dd.tk([o.band, p.format || "PPR"], html`<header class="tk-head"><p class="k">${o.kicker}</p><h1>${o.title}</h1><p class="dek">${p.dek}</p>
+        <p class="fired"><span>Fired ${fmtDay(p.publishedAt)}</span>${p.updatedAt !== p.publishedAt ? html`<span>Refired ${fmtDay(p.updatedAt)}</span>` : ""}</p></header>
+        ${p.intro_md ? html`<details class="memo"><summary>Chef's memo</summary>${md(p.intro_md)}</details>` : ""}`, { cls: "head-tk", red: o.red });
+    },
+
+    item(r, o) {
+      o = o || {};
+      const a = act(r);
+      return html`<li class="it${o.off ? " off" : ""}" data-name="${lc(r.player)}">
+        <span class="q">${o.num != null ? pad2(o.num) : ""}</span>
+        <span class="n">${r.player}${flag(r)}</span>
+        ${Dd.stamp(a)}
+        <span class="m">${[r.team, r.pos, r.opp].filter(Boolean).join(" ")}${o.sub ? " · " + o.sub : ""}</span>
+        ${r.why || r.note ? html`<span class="mod">${r.why || r.note}</span>` : ""}
+        ${r.verdict ? html`<span class="mod v">${r.verdict}</span>` : ""}
+        ${a && a.extra && !o.noExtra ? html`<span class="mod x ${a.cls}">${a.extra}</span>` : ""}
+        ${a && a.watch ? html`<span class="mod w"><mark>Watch: ${a.watch}</mark></span>` : ""}
+      </li>`;
+    },
+
+    reserved(kind) {
+      if (kind === "menu") return html`<section class="tent" aria-label="Members block, example"><p class="sc">Members · example, coming later</p><p class="rv">Reserved</p>
+        <p class="desc">Where paid extras would sit: set apart from the free menu, locked until a member signs in.</p><button class="tent-btn" disabled>Get notified</button></section>`;
+      return Dd.tk(["Members", "Example"], html`<div class="ghost" aria-hidden="true"><i></i><i></i><i></i></div><span class="big-stamp">Reserved</span>
+        <p class="rs">Where paid extras would sit: split from the free tickets, locked until a member signs in.</p>`, { cls: "reserved-tk" });
+    },
+
+    after(ctx, p) {
+      const post = (p.posts || []).find(x => x.url);
+      return html`<section class="pf">
+        <div class="pf-row">${post ? html`<a class="btn" href="${post.url}" target="_blank" rel="noopener">${icon("x")}Read the thread</a>` : ""}<button class="btn" data-share>${icon("share")}Share</button></div>
+        ${A.followCard(ctx)}</section>`;
+    },
+
+    liveTicket(p) {
+      const d = p.data || {}, w = lastWindow(d);
+      return html`<div class="home-live">${Dd.tk([html`<i class="dot"></i>Order Up · Live`, "Week " + p.week], html`
+        <header class="tk-head"><p class="k">${w.time}</p><h2 class="h">${w.name}</h2></header>
+        <ol class="upd">${(d.updates || []).slice(0, 3).map(u => html`<li><time>${u.time}</time><p>${raw(inline(u.text))}</p></li>`)}</ol>
+        ${(w.pivots || []).slice(0, 1).map(pv => html`<div class="swap"><span class="o">${pv.out}</span>${Dd.stamp({ cls: "pivot", label: "Pivot to", tag: "" })}<span class="i">${pv.in}</span></div>`)}
+        <a class="tk-btn" href="${href("orderup")}"${todo("orderup")}>Open the ticket</a>`, { red: true, cls: "live-tk" })}</div>`;
+    },
+
+    menu(ctx) {
+      const p = ctx.P.menu;
+      if (!p) return html`<p class="empty">The Menu opens Wednesday.</p>`;
+      const d = p.data || {}, pos = d.positions || {}, keys = Object.keys(pos), off = d.off_menu || {};
+      return html`<div class="cols"><div class="main-col">
+        <article class="menu-card">
+          <header class="mc-head">
+            <p class="sc">Week ${p.week} · ${p.format || "PPR"} · Rankings</p>
+            <h1>The Menu</h1>
+            <p class="dek">${p.dek}</p>
+            <p class="orn" aria-hidden="true">${icon("mark")}</p>
+            <div class="mc-meta"><p class="sc">Updated ${fmt(p.updatedAt)}</p><button class="mc-week" aria-label="Choose a week">Week ${p.week}${icon("chev")}</button></div>
+          </header>
+          <nav class="courses" role="tablist" aria-label="Positions">${keys.map(k => html`<button role="tab" data-pos-tab="${k}">${k}</button>`)}<button class="find" data-find aria-label="Find a player">${icon("search")}</button></nav>
+          <div class="finder"><input type="search" placeholder="Find a player" aria-label="Find a player" autocomplete="off"></div>
+          ${p.intro_md ? html`<details class="chef-note"><summary class="sc">A note from the chef</summary>${md(p.intro_md)}</details>` : ""}
+          <div class="spread" data-board>${keys.map(k => html`<section class="pos" data-pos="${k}"><h2 class="pos-h">${POS_NAME[k] || k}</h2>
+            ${tiers(pos[k]).map(t => html`<div class="tier"><p class="tier-h"><span class="sc">Tier ${t.n}</span><span class="it">${t.label}</span></p>
+              <ol class="dishes">${t.rows.map(r => Dd.dish(r))}</ol></div>`)}
+            ${(off[k] || []).length ? html`<div class="tier off"><p class="tier-h"><span class="sc">Ruled out</span><span class="it">Off the menu</span></p><ol class="dishes">${off[k].map(r => Dd.dish(r, true))}</ol></div>` : ""}
+          </section>`)}</div>
+        </article></div>
+        <aside class="side-col">${Dd.reserved("menu")}${Dd.after(ctx, p)}</aside></div>`;
+    },
+
+    market(ctx) {
+      const p = ctx.P.market;
+      if (!p) return html`<p class="empty">Market Run opens Tuesday morning.</p>`;
+      const d = p.data || {}, code = p.season + "W" + pad2(p.week);
+      return html`<div class="cols"><div class="main-col">${Dd.rail(ctx, "market")}
+        <div class="tk-grid">
+          ${Dd.head(p, { band: "Order " + p.season + "-W" + pad2(p.week) + " · Waivers", kicker: "Waivers · Week " + p.week, title: "Market Run" })}
+          ${(d.adds || []).length ? Dd.tk(["Priority adds", d.adds.length + " on the list"], html`<ol class="items">${d.adds.map(a => Dd.item(a, { num: a.priority, sub: a.rostered ? "Rostered " + a.rostered : "" }))}</ol>`, { code: code + " ADDS" }) : ""}
+          <div class="tk-col">
+            ${(d.stashes || []).length ? Dd.tk(["Stashes", "deep bench"], html`<ol class="items">${d.stashes.map((a, i) => Dd.item(a, { num: i + 1 }))}</ol>`, { code: code + " STASH" }) : ""}
+            ${(d.drops || []).length ? Dd.tk(["Cut bait", "drops"], html`<ol class="items">${d.drops.map((a, i) => Dd.item(a, { num: i + 1, off: true }))}</ol>`, { red: true, code: code + " DROPS" }) : ""}
+            ${(d.mnf || []).length ? Dd.tk(["Monday night", "what changed"], html`<div class="tk-body">${d.mnf.map(m => html`<p>${raw(inline(m.text || m))}</p>`)}</div>`) : ""}
+          </div>
+        </div></div>
+        <aside class="side-col">${Dd.reserved("ticket")}${Dd.after(ctx, p)}</aside></div>`;
+    },
+
+    orderup(ctx) {
+      const p = ctx.P.orderup;
+      if (!p) return html`<p class="empty">Order Up runs Sunday as the inactives drop.</p>`;
+      const d = p.data || {}, live = ctx.plan.some(s => s.series === "orderup" && s.state === "live");
+      return html`<div class="cols"><div class="main-col">${Dd.rail(ctx, "orderup")}
+        <div class="tk-grid">
+          ${Dd.head(p, { band: live ? html`<i class="dot"></i>Order Up · Live` : "Order Up", kicker: "Sunday inactives · Week " + p.week, title: "Order Up", red: live })}
+          ${(d.updates || []).length ? Dd.tk(["Updates", "newest first"], html`<ol class="upd">${d.updates.map(u => html`<li><time>${u.time}</time><p>${raw(inline(u.text))}</p></li>`)}</ol>`) : ""}
+          <div class="tk-col">${(d.windows || []).map(w => { const [kick, ...rest] = String(w.time || "").split(" · "), sub = rest.join(" · "); return Dd.tk([w.name, kick], html`
+            ${sub ? html`<p class="tk-sub">${sub.charAt(0).toUpperCase() + sub.slice(1)}</p>` : ""}
+            ${(w.inactives || []).length ? html`<ol class="items">${w.inactives.map(r => Dd.item(r, { num: 86, off: true, noExtra: (w.pivots || []).some(pv => pv.out === r.player) }))}</ol>`
+              : html`<p class="tk-empty">Nothing on this ticket yet. It prints when the inactives drop.</p>`}
+            ${(w.pivots || []).map(pv => html`<div class="swap"><span class="o">${pv.out}</span>${Dd.stamp({ cls: "pivot", label: "Pivot to", tag: "" })}<span class="i">${pv.in}</span>${pv.note ? html`<span class="sn">${pv.note}</span>` : ""}</div>`)}`,
+            { code: p.season + "W" + pad2(p.week) + " " + w.name.toUpperCase() }); })}</div>
+        </div></div>
+        <aside class="side-col">${Dd.after(ctx, p)}</aside></div>`;
+    }
+  };
+
   /* ---------- mockup chrome ---------- */
-  const NAMES = { a: "A · Night Service", b: "B · The Ticket", c: "C · Chef's Menu" };
+  const NAMES = { a: "A · Night Service", b: "B · The Ticket", c: "C · Chef's Menu", d: "D · Stations" };
+  const pageName = k => k === "home" ? "This week" : SERIES[k].name;
+  const builtList = () => { const n = Object.keys(BUILT).map(pageName); return n.length > 2 ? n.slice(0, -1).join(", ") + " and " + n[n.length - 1] : n.join(" and "); };
   function mockChrome() {
     const s = document.createElement("style");
     s.textContent = ".mockbar{position:relative;z-index:100;display:flex;flex-wrap:wrap;justify-content:center;gap:4px 12px;padding:7px 12px;background:#ffe24d;color:#111;font:600 12px/1.3 system-ui,sans-serif}" +
@@ -585,8 +755,8 @@
       ".mock-toast{position:fixed;left:50%;bottom:calc(88px + env(safe-area-inset-bottom));transform:translateX(-50%);z-index:200;width:max-content;max-width:calc(100% - 32px);padding:10px 14px;border-radius:10px;background:#111;color:#fff;font:500 14px/1.35 system-ui,sans-serif;box-shadow:0 10px 30px rgba(0,0,0,.4)}";
     document.head.append(s);
     if (SHOT) return "";
-    const other = VIEW === "menu" ? ["index.html", "This week"] : ["menu.html", "The Menu"];
-    return html`<div class="mockbar"><span>Mockup ${NAMES[DIR]}, sample data</span><a href="${other[0]}">${other[1]}</a><a href="../">All directions</a></div>`;
+    const others = Object.keys(BUILT).filter(k => k !== VIEW);
+    return html`<div class="mockbar"><span>Mockup ${NAMES[DIR]}, sample data</span>${others.map(k => html`<a href="${href(k)}">${pageName(k)}</a>`)}<a href="../">All directions</a></div>`;
   }
   let toastTimer = 0;
   function toast(msg) {
@@ -633,7 +803,7 @@
       const a = e.target.closest("[data-todo]");
       if (!a) return;
       e.preventDefault();
-      toast("Mockup: only This week and The Menu are built in this direction.");
+      toast("Mockup: only " + builtList() + " are built in this direction.");
     });
     $$("[data-share]").forEach(b => b.addEventListener("click", async () => {
       try {
@@ -656,10 +826,10 @@
       x: "https://x.com/" + handle, follow: "https://x.com/intent/follow?screen_name=" + encodeURIComponent(handle) };
     ctx.plan = weekPlan(ctx.site, P);
     ctx.calls = headlineCalls(P);
-    const D = { a: A, b: B, c: C }[DIR] || A;
-    const view = D[VIEW] ? VIEW : "home";
-    document.getElementById("app").innerHTML = out(mockChrome()) + out(D.shell(ctx, view, D[view](ctx)));
-    document.title = (view === "menu" ? "The Menu · " : "This week · ") + "Fantasy Kitchen · Direction " + DIR.toUpperCase();
+    const T = { a: A, b: B, c: C, d: Dd }[DIR] || A;
+    const view = T[VIEW] ? VIEW : "home";
+    document.getElementById("app").innerHTML = out(mockChrome()) + out(T.shell(ctx, view, T[view](ctx)));
+    document.title = pageName(view) + " · Fantasy Kitchen · Direction " + DIR.toUpperCase();
     wire();
     document.documentElement.classList.add("ready");
   }
