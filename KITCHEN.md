@@ -6,7 +6,7 @@ This repo is the whole system: the website, the data behind it, the playbooks th
 
 | Path | What it is |
 | --- | --- |
-| `docs/` | The website (Cloudflare Pages serves this folder at fantasykitchenff.com). Static HTML + `assets/app.js` + `assets/styles.css`. No build step. |
+| `docs/` | The website (Cloudflare Pages serves this folder at fantasykitchenff.com). Static HTML + `assets/app.js` + `assets/styles.css`. No build step. How it is laid out: "The site" below. |
 | `docs/data/site.json` | Brand, handle, site URL, season, current week, service schedule, about copy. |
 | `docs/data/index.json` | Manifest of every published piece. Rebuilt by `tools/fk.py manifest`. Never edit by hand. |
 | `docs/data/2026/week-NN/<series>.json` | One file per piece per week. The site renders these. |
@@ -55,6 +55,21 @@ Why the split: Cowork scheduled tasks cannot be given GitHub repositories, and a
 - **Change reply targets:** edit `kitchen/targets.md`.
 - **Fix a published piece by hand:** edit the JSON on GitHub on the `claude/kitchen` branch (web editor is fine), then run any task or wait; the site reads files directly, no manifest change needed unless the title or dek changed (then a run will rebuild it).
 - **Hosting and domain:** the site is `https://fantasykitchenff.com`, hosted on Cloudflare Pages (project `fantasy-kitchen`, production branch `claude/kitchen`, output folder `docs`, no build command). Every push redeploys it. The same URL is `site_url` in `docs/data/site.json`, which every post link is built from. GitHub Pages is not used.
+
+## The site
+
+One kitchen, different stations. Every page shares one frame: the black and amber header, the tab bar on phones, the fonts, one colour per call (start green, claim amber, sit red, monitor yellow, pivot blue) and the follow card. What changes is the plate the content sits on, set per series in `SERIES` at the top of `docs/assets/app.js`:
+
+| Plate | Looks like | Series |
+| --- | --- | --- |
+| `menu` | a printed menu card | The Menu |
+| `ticket` | order tickets on the rail | Market Run, Butcher Shop, On the Line, Prep Notes, Order Up |
+| `kitchen` | the dark kitchen | This week (home), Heat Check, Leftovers, From the Pass, About |
+
+- Page addresses are the ones the posts link to, so they never change: `menu.html?week=4` opens a week, `menu.html#RB` a position.
+- Home reads the schedule in `docs/data/site.json` and marks each service served, live, cooking, next or upcoming. The week rolls over on Tuesday by the clock, even before the first run of the week.
+- Everything on the site is free, and everything in `docs/` is public. Members content must never be committed to this repo. When the paid tier launches it gets its own signed-in source and renders in the members slot every piece page already has (`MEMBERS` in `app.js`); until then the slot only shows in the sample preview.
+- Add `?sample=1` to any page to render `docs/data/sample/`, and `&now=2026-09-27T15:50:00Z` to move the clock while testing.
 
 ## Local preview
 

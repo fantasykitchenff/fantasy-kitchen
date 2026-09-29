@@ -13,22 +13,6 @@
   "data": {
     "report": [
       {
-        "player": "Jalen Hurts",
-        "team": "PHI",
-        "pos": "QB",
-        "status": "Q",
-        "injury": "Ankle",
-        "practice": [
-          "LP",
-          "LP",
-          "FP"
-        ],
-        "read": "Full Friday practice is the tell.",
-        "verdict": "Start him. Have a pivot ready only if you play in a league that locks Sunday morning.",
-        "action": "START",
-        "watch": "inactives at 11:30 AM ET"
-      },
-      {
         "player": "Bucky Irving",
         "team": "TB",
         "pos": "RB",
@@ -58,7 +42,49 @@
         "read": "Doubtful means out more often than not.",
         "verdict": "Plan without him.",
         "action": "SIT"
+      },
+      {
+        "player": "Jalen Hurts",
+        "team": "PHI",
+        "pos": "QB",
+        "status": "Q",
+        "injury": "Ankle",
+        "practice": [
+          "LP",
+          "LP",
+          "FP"
+        ],
+        "read": "Full Friday practice is the tell.",
+        "verdict": "Start him. Have a pivot ready only if you play in a league that locks Sunday morning.",
+        "action": "START",
+        "watch": "inactives at 11:30 AM ET"
+      },
+      {
+        "player": "Mike Evans",
+        "team": "TB",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "Hamstring",
+        "practice": [
+          "DNP",
+          "LP",
+          "LP"
+        ],
+        "read": "Limited Thursday and Friday. The hamstring is a Sunday morning call.",
+        "verdict": "Monitor him and have Jalen McMillan ready.",
+        "action": "MONITOR",
+        "watch": "inactives at 11:30 AM ET"
       }
+    ],
+    "reversals": [
+      {
+        "player": "Chris Godwin",
+        "was": "Start as a WR3",
+        "now": "Doubtful. Plan without him and start Jalen McMillan."
+      }
+    ],
+    "gtd": [
+      "Mike Evans"
     ]
   },
   "posts": [

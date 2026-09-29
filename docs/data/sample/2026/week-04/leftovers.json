@@ -9,7 +9,7 @@
   "updatedAt": "2026-09-23T11:00:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
-  "outro_md": null,
+  "outro_md": "We had Rhamondre Stevenson as a hold two weeks ago and his snap share kept sliding. When a rookie takes the early downs two weeks running, sell before the third.",
   "data": {
     "takeaways": [
       {
@@ -45,7 +45,7 @@
         "player": "Ashton Jeanty",
         "team": "LV",
         "pos": "RB",
-        "stat": "78% snaps \u00b7 22 touches \u00b7 3 targets",
+        "stat": "78% snaps · 22 touches · 3 targets",
         "read": "Workhorse usage, finally. Hold him; the box score will catch up.",
         "action": "HOLD"
       },
@@ -53,7 +53,7 @@
         "player": "Jalen McMillan",
         "team": "TB",
         "pos": "WR",
-        "stat": "33 routes \u00b7 9 targets \u00b7 27% target share",
+        "stat": "33 routes · 9 targets · 27% target share",
         "read": "The role is real while Godwin is out.",
         "action": "CLAIM",
         "faab": "10-15%"

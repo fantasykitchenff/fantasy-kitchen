@@ -161,6 +161,81 @@
           "action": "START",
           "slot": "TE2"
         }
+      ],
+      "FLEX": [
+        {
+          "rank": 1,
+          "tier": 1,
+          "tier_label": "Chef's table",
+          "player": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "opp": "@WAS",
+          "action": "START",
+          "slot": "RB1"
+        },
+        {
+          "rank": 2,
+          "tier": 1,
+          "player": "Ja'Marr Chase",
+          "team": "CIN",
+          "pos": "WR",
+          "opp": "@DEN",
+          "action": "START",
+          "slot": "WR1"
+        },
+        {
+          "rank": 3,
+          "tier": 1,
+          "player": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "opp": "vs SEA",
+          "action": "START",
+          "slot": "RB2"
+        },
+        {
+          "rank": 4,
+          "tier": 2,
+          "tier_label": "Entrees",
+          "player": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "opp": "vs GB",
+          "action": "START",
+          "slot": "WR2"
+        },
+        {
+          "rank": 5,
+          "tier": 2,
+          "player": "Brock Bowers",
+          "team": "LV",
+          "pos": "TE",
+          "opp": "vs CHI",
+          "action": "START",
+          "slot": "TE1"
+        },
+        {
+          "rank": 6,
+          "tier": 2,
+          "player": "Ashton Jeanty",
+          "team": "LV",
+          "pos": "RB",
+          "opp": "vs CHI",
+          "action": "START",
+          "slot": "RB3"
+        },
+        {
+          "rank": 7,
+          "tier": 3,
+          "tier_label": "Sides",
+          "player": "Trey McBride",
+          "team": "ARI",
+          "pos": "TE",
+          "opp": "@SF",
+          "action": "START",
+          "slot": "TE2"
+        }
       ]
     },
     "off_menu": {
@@ -176,7 +251,29 @@
           "to": "Rachaad White"
         }
       ]
-    }
+    },
+    "specials": [
+      {
+        "player": "Jalen McMillan",
+        "team": "TB",
+        "pos": "WR",
+        "opp": "vs PHI",
+        "why": "Nine targets on 33 routes with Godwin out, and the slot is where Philadelphia has been soft.",
+        "verdict": "Start him as a WR3.",
+        "action": "START",
+        "slot": "WR3"
+      },
+      {
+        "player": "Kyle Pitts",
+        "team": "ATL",
+        "pos": "TE",
+        "opp": "@WAS",
+        "why": "Route share has held above 80% for three straight weeks.",
+        "verdict": "Start him as a TE1 in 12-team leagues.",
+        "action": "START",
+        "slot": "TE1"
+      }
+    ]
   },
   "posts": [
     {
