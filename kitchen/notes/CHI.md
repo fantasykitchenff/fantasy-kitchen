@@ -37,6 +37,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Caleb Williams: Caleb Williams said during the preseason broadcast that when he sees man coverage pre-snap, Burden is the receiver he trusts to beat it. [8-17 updates and camp news]
 - 2026-08-26: Caleb Williams: Williams reportedly dropped 15 pounds this offseason; in 2025 he had the 4th-most end zone pass attempts and the Bears jumped from 28th to 9th in points per game in Ben Johnson's first year. [8-26 myguys episode]
 - 2026-09-29: Case Keenum: Started Week 3 vs PHI (Williams hamstring, Bagent concussion); 24 of 34, 247 yards, 2 TD passes and a QB sneak TD, no sacks, in a 27-7 win. Caleb Williams has a Grade 2 hamstring strain, 3 to 4 week timeline; Tyson Bagent the likely Week 4 starter vs NYJ (box score, ESPN).
+- 2026-09-29: Case Keenum: 24 of 34 for 247 yards, 2 TD and a 1-yard rushing TD in the 27-7 Week 3 win over PHI; Ben Johnson did not name a Week 4 starter and noted Tyson Bagent ended camp as the No. 2 (Sun-Times, SI).
 
 ## Backfield
 
@@ -60,7 +61,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Kyle Monangai: Monangai is expected to see some work behind D'Andre Swift, who remains the lead back in the Bears' timeshare. [8-22 10 players we cant stop drafting]
 - 2026-08-24: D'Andre Swift: Swift set career highs in rushing yards, rushing TDs, rush success rate and scrimmage yards in 2025. [8-24 embarrased to love players]
 - 2026-08-24: D'Andre Swift: Swift is coming off career highs in yardage; only he and Derrick Henry have finished as top-24 fantasy RBs in each of the last six years. Kyle Monangai is dealing with a hyperextended knee. [8-24 adp adjustments]
-- 2026-09-29: D'Andre Swift: Over 100 rushing yards and a 3-yard TD in the Week 3 win over PHI, the first back to top 100 against the Eagles this season (reports).
+- 2026-09-29: D'Andre Swift: 20 carries for 84 yards in the Week 3 win over PHI (Bears and Bleacher Nation recaps; corrects an earlier line that said over 100 yards and a TD).
 
 ## Receivers
 
@@ -97,6 +98,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Rome Odunze: In 2025 Odunze led the Bears in first-read targets and in first-read target share when Caleb Williams was pressured. Through week 8 he was on pace for 136 targets, 75 catches, 1,150 yards and 12 TDs. [8-24 embarrased to love players]
 - 2026-08-24: Rome Odunze: A foot injury appeared on the report before week 9 of 2025; he played poorly on it (pace of 44 catches, 639 yards) and was then shut down. He had 27 end-zone targets in his first two seasons, 7th most among receivers. [8-24 embarrased to love players]
 - 2026-09-29: Rome Odunze: Dropped a wide-open touchdown in Week 3 vs PHI (reports).
+- 2026-09-29: Rome Odunze: 3 catches for 44 yards on 6 targets vs PHI in Week 3, with a dropped TD (reports).
 
 ## Tight ends
 
@@ -117,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Colston Loveland: As a 21-year-old rookie the 10th overall pick led the Bears in receiving yards, the first rookie TE to do so for the franchise since Mike Ditka. [8-26 myguys episode]
 - 2026-08-26: Colston Loveland: Over the final four 2025 games (Weeks 17-18 plus two playoff games) Loveland drew 49 targets with four straight double-digit target games, including 8-137-1 in the wild card win at Green Bay. [8-26 myguys episode]
 - 2026-08-26: Colston Loveland: In that four-game stretch he was targeted on 35% of routes and 7 of the 49 targets came in the red zone; the Bears lined him up in the slot and out wide, not only inline. [8-26 myguys episode]
+- 2026-09-29: Colston Loveland: 4 catches on 4 targets for 34 yards vs PHI in Week 3; a 6-yard TD was overturned at the goal line (reports).
 
 ## Offensive line
 

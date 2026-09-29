@@ -72,6 +72,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Tank Bigsby: Bigsby is the Eagles' primary backup to Saquon Barkley and would step into a large role if Barkley were hurt. [8-23 highstakes draft]
 - 2026-08-24: Saquon Barkley: A review of his 2025 carries inside the five found three to five stopped at the inch line, sometimes overturned, with Hurts scoring the next play; he could easily have had two or three more rushing TDs. [8-24 QB Rankings]
 - 2026-09-29: Saquon Barkley: 56 rushing yards in the 27-7 Week 3 loss at CHI (reports).
+- 2026-09-29: Saquon Barkley: 15 carries for 82 yards @CHI in Week 3, 73 of them on 11 first-half carries; 1 catch on 2 targets for minus 2 yards (CBS).
 
 ## Receivers
 
@@ -153,6 +154,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Makai Lemon: Rookie receiver Lemon is banged up and not practicing enough to lock in an early-season role, so his start to the year may be slow. [8-13 Fantasy Draft Values And Injury Shifts]
 - 2026-08-15: Makai Lemon: Missing practices with a hamstring issue the Eagles have not clarified as tightness or strain; DeVonta Smith has also missed practice with a hamstring issue. [8-15 talk with injury expert]
 - 2026-08-20: Makai Lemon: Rookie Makai Lemon was set to return to practice Thursday from a hamstring injury. [8-20 bust and value picks for 2026]
+- 2026-09-29: Dallas Goedert: sprained MCL, week to week; not expected to go on IR, so Week 4 vs LAR is possible (Athlon, Yahoo).
 
 ## Other
 

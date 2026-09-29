@@ -1,0 +1,50 @@
+{
+  "series": "notes",
+  "season": 2026,
+  "week": 4,
+  "title": "Kitchen notes, Week 4",
+  "dek": "What moved today.",
+  "format": "PPR",
+  "publishedAt": "2026-09-29T16:30:00Z",
+  "updatedAt": "2026-09-29T16:30:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "items": [
+      {
+        "at": "2026-09-29T15:00:00Z",
+        "text": "Dallas Goedert (PHI) missed Week 3 with a sprained MCL and is week to week. The Eagles are not expected to put him on IR, so a return vs LAR is possible.",
+        "url": "https://athlonsports.com/nfl/philadelphia-eagles/dallas-goedert-receives-ir-list-update-after-knee-injury",
+        "player": "Dallas Goedert",
+        "action": "MONITOR",
+        "watch": "Wednesday practice report"
+      },
+      {
+        "at": "2026-09-29T03:40:00Z",
+        "text": "Ben Johnson did not name a Week 4 starter after Case Keenum went 24 of 34 for 247 yards, two touchdowns and a rushing score in the 27-7 win over PHI. Johnson pointed out that Tyson Bagent ended camp as the No. 2, so Bagent is still in play vs NYJ with Caleb Williams out three to four weeks.",
+        "url": "https://chicago.suntimes.com/bears/2026/09/28/bears-coach-ben-johnson-leaves-qb-options-open-as-he-weighs-starting-case-keenum-or-tyson-bagent-vs-jets",
+        "player": "Case Keenum",
+        "action": "MONITOR",
+        "watch": "who takes first-team reps at Wednesday practice"
+      },
+      {
+        "at": "2026-09-29T03:35:00Z",
+        "text": "D'Andre Swift (CHI) carried 20 times for 84 yards against his old team Monday night. Twenty carries is the number that matters. Start him as your RB2 vs NYJ.",
+        "url": "https://www.bleachernation.com/bears/2026/09/28/bears-win-mnf-vs-phi/",
+        "player": "D'Andre Swift",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "at": "2026-09-29T03:30:00Z",
+        "text": "Saquon Barkley (PHI) ran 15 times for 82 yards @CHI, 73 of them on 11 first-half carries before the game got away. Start him vs LAR.",
+        "url": "https://www.cbssports.com/fantasy/football/news/eagles-saquon-barkley-solid-numbers-in-double-digit-loss/",
+        "player": "Saquon Barkley",
+        "action": "START",
+        "slot": "RB1"
+      }
+    ]
+  },
+  "posts": []
+}

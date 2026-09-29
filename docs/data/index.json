@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-09-29T09:21:19Z",
+  "updatedAt": "2026-09-29T16:17:01Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 4,
+      "path": "2026/week-04/notes.json",
+      "title": "Kitchen notes, Week 4",
+      "dek": "What moved today.",
+      "publishedAt": "2026-09-29T16:30:00Z",
+      "updatedAt": "2026-09-29T16:30:00Z"
+    },
     {
       "series": "market",
       "week": 4,
