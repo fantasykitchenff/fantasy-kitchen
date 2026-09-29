@@ -26,6 +26,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Baker Mayfield: His 2024 (career-high completion %, TD rate, career-low INT rate) was an outlier; his 2025 and all other stops are nearly identical per game, and he regressed as expected in 2025. [8-14 changed minds about players]
 - 2026-08-18: Baker Mayfield: Mayfield is playing for his next contract in 2026. [8-18 WR rankings]
 - 2026-08-23: Baker Mayfield: Mayfield was playing very well before getting hurt last season and is reportedly upset with the organization over his contract situation entering 2026. [8-23 highstakes draft]
+- 2026-09-28: Jalon Daniels: 0 for 3 with a game-ending interception in relief of Mayfield in Week 3; named the starter (ESPN, team site).
 
 ## Backfield
 
@@ -133,3 +134,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Bucky Irving: Irving is practicing in full at training camp after the head coach had earlier said he would be available sometime in the summer or fall. [8-18 WR targets and avoids]
 - 2026-08-18: Emeka Egbuka: Egbuka is dealing with a possible turf toe injury; the head coach said he is not sure Egbuka will be ready for Week 1. [8-18 WR targets and avoids]
 - 2026-08-18: Emeka Egbuka: The Bucs are calling Egbuka's injury a toe sprain, but an injury analyst believes it could be turf toe, which can linger all season. Some evaluators also have concerns about his play against man coverage. [8-18 WR rankings]
+- 2026-09-28: Baker Mayfield: Dislocated right thumb in Week 3 loss to MIN; MRI showed no fracture, tendon or ligament damage; out at least three weeks per Todd Bowles. Undrafted rookie Jalon Daniels starts vs GB Oct 4 (team site).

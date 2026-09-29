@@ -188,6 +188,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: George Kittle: Officially activated from the active/PUP list; the 49ers open in Australia in Week 1 and he may stay behind and debut in Week 2. He is 33 and coming off an Achilles tear. [8-26 rankings and news updates]
 - 2026-08-26: Mike Evans: Has sat out a lot of camp practice with a quad issue and veteran rest; he will turn 33 and is expected to be an every-down player when healthy. [8-26 rankings and news updates]
 - 2026-08-26: Mike Evans: Evans has barely been on the practice field in late August with his quad issue, adding to the 49ers' thin receiver picture. [8-26 myguys episode]
+- 2026-09-28: Mike Evans: Rib injury in Week 3 vs ARI; Shanahan called it day-to-day, not long term, could play Week 4 vs DEN (NBC Sports Bay Area).
 
 ## Other
 

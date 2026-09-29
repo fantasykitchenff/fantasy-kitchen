@@ -1,6 +1,6 @@
 # The poster: getting queued posts onto X, and reply mode
 
-Runs at 7:25 AM, 9:25 AM, 1:25 PM, 6:25 PM and 8:25 PM ET as a Cowork scheduled task with the owner's computer attached. It posts through Claude's built-in browser in the desktop app (the account is already signed in there); the Chrome extension is the fallback. It never uses the X API and never posts from the cloud shell.
+Runs at 10:25 AM, 1:25 PM, 6:25 PM and 8:25 PM ET as a Cowork scheduled task with the owner's computer attached. It posts through Claude's built-in browser in the desktop app (the account is already signed in there); the Chrome extension is the fallback. It never uses the X API and never posts from the cloud shell.
 
 Cowork tasks cannot push to GitHub. The poster reads the queue from a read-only clone of the public repo and, at the end of the run, sends a ledger of what it did to the FK Kitchen routine, which records it and pushes (section 7 and "Ledger" below).
 
@@ -10,6 +10,7 @@ Cowork tasks cannot push to GitHub. The poster reads the queue from a read-only 
 - Post exactly the queued text. No edits in the composer. If a text no longer fits (X changed the limit), record it as failed with the reason.
 - One item at a time, in queue order. Keep a running ledger as you go (section 7) and send it at the end of the run, and also before stopping after any failure.
 - Never post an item past its `notAfter`. Run `queue expire` first.
+- Never post anything before 10:00 AM Eastern, queued item or reply. `queue list --due` returns nothing before then; if a run starts earlier, end with "before 10 AM".
 - Never repeat a post. Before posting any item, check the profile (section 3.0). If a post there starts with the same text as the item, record `posted` with that URL instead of posting again. The ledger from an earlier run may not have landed yet, so this check is what stops doubles.
 - Reply mode caps: at most 3 replies per run, 6 per day, never two replies to the same account in a day, never to a post older than 8 hours, never to a reply, never to anything about betting, politics, or another creator's rankings. No links, no hashtags, no hook closers in replies; replies are the one place the kitchen posts a single message. Every reply ends with "Follow @handle for more." (handle from `docs/data/site.json`).
 

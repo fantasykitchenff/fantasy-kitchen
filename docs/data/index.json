@@ -1,6 +1,16 @@
 {
   "season": 2026,
   "currentWeek": 3,
-  "updatedAt": "2026-09-29T01:03:43Z",
-  "pieces": []
+  "updatedAt": "2026-09-29T03:15:13Z",
+  "pieces": [
+    {
+      "series": "notes",
+      "week": 3,
+      "path": "2026/week-03/notes.json",
+      "title": "Kitchen notes, Week 3",
+      "dek": "What moved today.",
+      "publishedAt": "2026-09-29T03:15:00Z",
+      "updatedAt": "2026-09-29T03:15:00Z"
+    }
+  ]
 }
