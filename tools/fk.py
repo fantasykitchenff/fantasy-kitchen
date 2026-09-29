@@ -26,6 +26,8 @@ SEASON = 2026
 WEEK1_SUNDAY = dt.date(2026, 9, 13)   # Week 1 Sunday of the 2026 season (kickoff Wed Sept 9)
 WEEKS = 18
 SERIES = ["menu", "market", "butcher", "heat", "line", "prep", "orderup", "leftovers", "notes"]
+EARLIEST_POST_ET = dt.time(10, 0)   # nothing posts before 10:00 AM Eastern, ever
+LAST_POSTER_RUN_ET = dt.time(20, 30)  # the poster's last run of the day starts at 8:25 PM Eastern
 POST_LIMIT = 275          # characters, links counted as 23
 LINK_LEN = 23
 
@@ -115,6 +117,20 @@ def parse_when(s, finished=False):
         local = dt.datetime(base.year, base.month, base.day, int(m.group(2)), int(m.group(3)), tzinfo=ET)
         return iso(local)
     return iso(parse_iso(s))
+
+def post_floor(ts):
+    """Push a UTC ISO timestamp forward to 10:00 AM Eastern if it falls earlier that day, or to 10:00 AM
+    the next day if it falls after the last poster run (8:25 PM), so no item waits overnight on its clock."""
+    d = parse_iso(ts).astimezone(ET)
+    if d.time() > LAST_POSTER_RUN_ET:
+        d = d + dt.timedelta(days=1)
+        d = d.replace(hour=0, minute=0, second=0, microsecond=0)
+    if d.time() < EARLIEST_POST_ET:
+        d = d.replace(hour=EARLIEST_POST_ET.hour, minute=EARLIEST_POST_ET.minute, second=0, microsecond=0)
+    return iso(d)
+
+def posting_hours(now):
+    return now.astimezone(ET).time() >= EARLIEST_POST_ET
 
 def cmd_when(a):
     print(parse_when(a.when, a.finished))
@@ -360,6 +376,9 @@ def validate_queue_item(path, errors, warnings):
     for k in ("id", "series", "kind", "texts", "scheduledFor", "status"):
         if k not in q:
             errors.append(f"{rel}: missing '{k}'")
+    sf = q.get("scheduledFor")
+    if q.get("status") == "pending" and sf and parse_iso(sf).astimezone(ET).time() < EARLIEST_POST_ET:
+        errors.append(f"{rel}: scheduledFor {sf} is before 10:00 AM ET (nothing posts before 10 AM Eastern)")
     texts = q.get("texts") or []
     if not texts:
         errors.append(f"{rel}: no texts")
@@ -463,11 +482,17 @@ def cmd_queue_add(a):
         link = a.link if a.link.startswith("http") else (base + "/" + a.link.lstrip("/") if base else "")
         if link and link not in texts[-1]:
             texts[-1] = texts[-1].rstrip() + "\n\n" + link
+    at = post_floor(parse_when(a.at) or iso(now_utc()))
+    m = re.match(r"^\+(\d+)h$", (a.not_after or "").strip())
+    # a relative --not-after counts from when the item may first post, not from when it was queued
+    not_after = iso(parse_iso(at) + dt.timedelta(hours=int(m.group(1)))) if m else parse_when(a.not_after)
+    if not_after and parse_iso(not_after) <= parse_iso(at):
+        print(f"WARNING: not-after {not_after} is before the 10:00 AM ET posting floor ({at}); this item will expire unposted")
     wk = a.week if a.week else content_week()["week"]
     qid = a.id or f"{SEASON}w{int(wk):02d}-{a.series}-{a.kind}-{uuid.uuid4().hex[:4]}"
     item = {
         "id": qid, "series": a.series, "week": int(wk), "kind": a.kind, "texts": texts,
-        "scheduledFor": parse_when(a.at) or iso(now_utc()), "notAfter": parse_when(a.not_after),
+        "scheduledFor": at, "notAfter": not_after,
         "link": link or None, "status": "pending", "createdAt": iso(now_utc()),
         "attempts": 0, "postedAt": None, "url": None, "notes": a.notes,
     }
@@ -497,7 +522,7 @@ def pending_items():
 def is_due(q, now):
     at = parse_iso(q.get("scheduledFor")) or now
     na = parse_iso(q.get("notAfter"))
-    return at <= now and (na is None or na > now) and q.get("status") == "pending"
+    return posting_hours(now) and at <= now and (na is None or na > now) and q.get("status") == "pending"
 
 def cmd_queue_list(a):
     now = now_utc()

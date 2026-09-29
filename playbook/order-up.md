@@ -1,6 +1,6 @@
 # Order Up (Sunday): inactives and lineup pivots, by kickoff window
 
-Runs Sunday 8:36 AM ET (only when a game kicks off before 1:00 PM ET that week), 11:36 AM ET, and 3:36 PM ET. Two runs share the work, because inactives are useless an hour later:
+Runs Sunday 11:36 AM ET and 3:36 PM ET. Nothing posts before 10:00 AM ET, so games that kick off before 1:00 PM ET (international games) get no Order Up thread; cover them on the site in the 11:36 AM run if relevant. Two runs share the work, because inactives are useless an hour later:
 
 - **FK Kitchen** (`job: series order-up`) does the research, the site piece and the queue item. Everything in this playbook down to "Posts" is its job.
 - **The FK Order Up task** (a Cowork task on the owner's computer) starts FK Kitchen, waits for the queued item to land, and posts it through the browser the moment it does ("The FK Order Up task" below).
@@ -46,15 +46,14 @@ Envelope: `title` "Order Up, Week N", `dek` the day's biggest surprise so far (u
 
 One short thread per window (2 to 4 posts): post 1 is the hook (the window, the biggest surprise, the closer, the hashtags of the teams named), the middle posts carry the inactives and the pivot for each with the team hashtags, and the last post is the link to `orderup.html?week=N` (appended by the tool). If nothing surprising happened and every relevant Questionable player is active, the thread is two posts: the hook saying so ("Early window: everyone relevant is active. Start who you planned to start. Let's go.") and the link.
 
-Queue it with `--at now`, `--not-after` the window's kickoff time (ISO), and `--link "orderup.html?week=N"`. Do not post it; the FK Order Up task is waiting for it. Push as soon as the piece validates, because every minute counts before kickoff. If the 8:36 AM run finds no game before 1:00 PM ET, end at once without queueing.
+Queue it with `--at now`, `--not-after` the window's kickoff time (ISO), and `--link "orderup.html?week=N"`. Do not post it; the FK Order Up task is waiting for it. Push as soon as the piece validates, because every minute counts before kickoff.
 
 ## The FK Order Up task (Cowork, the owner's computer)
 
-1. At 8:36 AM only: check this week's Sunday schedule (one web search). If no game kicks off before 1:00 PM ET, end with "no early game".
-2. Start FK Kitchen: `fire_trigger` with the FK Kitchen trigger ID from the task prompt and the text `job: series order-up`.
-3. `_sync.md` step 1 ("In a Cowork task") and step 2. Open the browser and check the sign-in as in `poster.md` section 2.
-4. Wait for the item: every 2 minutes, `git pull --ff-only` and `python3 tools/fk.py queue list --due --json`. When an item with series `orderup` is due, post it with `poster.md` section 4 (profile check included), then post any other due items the same way. Stop waiting after 40 minutes or at the window's kickoff, whichever comes first, and say so if nothing arrived.
-5. Send the ledger (`poster.md` section 7).
+1. Start FK Kitchen: `fire_trigger` with the FK Kitchen trigger ID from the task prompt and the text `job: series order-up`.
+2. `_sync.md` step 1 ("In a Cowork task") and step 2. Open the browser and check the sign-in as in `poster.md` section 2.
+3. Wait for the item: every 2 minutes, `git pull --ff-only` and `python3 tools/fk.py queue list --due --json`. When an item with series `orderup` is due, post it with `poster.md` section 4 (profile check included), then post any other due items the same way. Stop waiting after 40 minutes or at the window's kickoff, whichever comes first, and say so if nothing arrived.
+4. Send the ledger (`poster.md` section 7).
 
 ## Finish
 

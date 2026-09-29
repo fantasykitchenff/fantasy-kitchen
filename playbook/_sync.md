@@ -38,7 +38,7 @@ In a Cowork task (the poster, FK Order Up):
 
 ## Step 2. Know what week it is
 
-`python3 tools/fk.py week` prints the content week (Tuesday through Monday cycle, Eastern time) and the dates of its Tuesday, Thursday, Sunday and Monday. On Monday it still returns the week that just finished, which is what Leftovers wants. Never hardcode a week number. `python3 tools/fk.py when "Wed 07:20"` converts a weekday and Eastern time inside the content week to the UTC timestamp the queue uses; `now` and `+6h` work too.
+`python3 tools/fk.py week` prints the content week (Tuesday through Monday cycle, Eastern time) and the dates of its Tuesday, Thursday, Sunday and Monday. On Monday it still returns the week that just finished, which is what Leftovers wants. Never hardcode a week number. `python3 tools/fk.py when "Wed 10:20"` converts a weekday and Eastern time inside the content week to the UTC timestamp the queue uses; `now` and `+6h` work too.
 
 ## Step 3. Load the model (rankings-bearing series only: Menu, On the Line, Prep Notes, Order Up, Market Run, Butcher Shop, Heat Check)
 
@@ -103,11 +103,11 @@ Write each post or thread as a queue item with the tool so ids, timing and valid
 
 ```
 python3 tools/fk.py queue add --series menu --week 4 --kind thread \
-  --at "Wed 07:20" --not-after "Thu 18:00" \
+  --at "Wed 10:20" --not-after "Thu 18:00" \
   --link "menu.html?week=4" --texts-file "$SCRATCH/menu-thread.json"
 ```
 
-`--at` and `--not-after` take a weekday and Eastern time inside the content week ("Wed 07:20"), `now`, `+6h`, or an ISO timestamp. The poster runs at 7:25, 9:25, 13:25, 18:25 and 20:25 ET, so schedule posts a few minutes before one of those.
+`--at` and `--not-after` take a weekday and Eastern time inside the content week ("Wed 10:20"), `now`, `+6h`, or an ISO timestamp. The poster runs at 10:25, 13:25, 18:25 and 20:25 ET, so schedule posts a few minutes before one of those. Nothing ever posts before 10:00 AM ET: `queue add` moves an earlier `--at` to 10:00 AM that day (and one after 8:30 PM, past the last poster run, to 10:00 AM the next day), a relative `--not-after` (`+8h`) counts from that time, `queue list --due` returns nothing before 10:00 AM ET, and `validate` rejects a pending item scheduled earlier. An item whose `--not-after` falls before 10:00 AM gets a warning and will expire unposted.
 
 `--texts-file` is a JSON array of strings, one per post. Everything except a reply is a thread: post 1 is the hook and ends with a closer ("Let's dive in." and the others in `_standards.md`), every post but the last carries the official hashtag of each team it names (`kitchen/hashtags.json`), the last post ends with the follow line ("Follow @handle for the rest of the week's calls, and repost this for your league."), and the tool appends the site link after it (replies use `--kind post --no-link` and end with "Follow @handle for more."). Items post at or after `--at` the next time the poster runs and are skipped forever after `--not-after`. Sunday-morning content must carry a tight `--not-after` (kickoff), rankings can carry a day. Add the item's id to the piece's `posts` array.
 

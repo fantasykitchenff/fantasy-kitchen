@@ -23,19 +23,19 @@ This repo is the whole system: the website, the data behind it, the playbooks th
 
 ## The week
 
-All times Eastern. Each FK scheduled task starts FK Kitchen (a Claude Code routine with the repositories attached), which runs the series and pushes. The poster and FK Order Up run with the owner's computer attached and do the posting.
+All times Eastern. Nothing posts to X before 10:00 AM ET; `tools/fk.py` enforces it. Each FK scheduled task starts FK Kitchen (a Claude Code routine with the repositories attached), which runs the series and pushes. The poster and FK Order Up run with the owner's computer attached and do the posting.
 
 | When | Task | Playbook | Posts at |
 | --- | --- | --- | --- |
-| Mon 7:15 AM | Leftovers | `playbook/leftovers.md` | 9:25 AM |
-| Tue 5:15 AM | Market Run | `playbook/market-run.md` | 7:25 AM |
+| Mon 7:15 AM | Leftovers | `playbook/leftovers.md` | 10:25 AM |
+| Tue 5:15 AM | Market Run | `playbook/market-run.md` | 10:25 AM |
 | Tue 12:52 PM | Butcher Shop + Heat Check | `playbook/butcher-heat.md` | 1:25 PM |
-| Wed 5:52 AM | The Menu | `playbook/menu.md` | 7:25 AM |
-| Thu 7:52 AM | On the Line | `playbook/on-the-line.md` | 9:25 AM, TNF reminder 6:25 PM |
+| Wed 5:52 AM | The Menu | `playbook/menu.md` | 10:25 AM |
+| Thu 7:52 AM | On the Line | `playbook/on-the-line.md` | 10:25 AM, TNF reminder 6:25 PM |
 | Fri 5:45 PM | Prep Notes (+ Menu refresh) | `playbook/prep-notes.md` | 6:25 PM |
-| Sun 8:36, 11:36 AM, 3:36 PM | Order Up (FK Kitchen researches and queues; the computer-attached task posts it as soon as it lands) | `playbook/order-up.md` | immediately |
+| Sun 11:36 AM, 3:36 PM | Order Up (FK Kitchen researches and queues; the computer-attached task posts it as soon as it lands) | `playbook/order-up.md` | immediately |
 | Daily 12:12 PM, 7:12 PM | Kitchen Notes | `playbook/kitchen-notes.md` | 1:25 PM, 8:25 PM |
-| 7:25, 9:25 AM, 1:25, 6:25, 8:25 PM | Poster (computer attached) + reply mode at 1:25 and 8:25 PM | `playbook/poster.md` | n/a |
+| 10:25 AM, 1:25, 6:25, 8:25 PM | Poster (computer attached) + reply mode at 1:25 and 8:25 PM | `playbook/poster.md` | n/a |
 
 ## Data flow
 
