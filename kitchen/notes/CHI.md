@@ -36,6 +36,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Caleb Williams: Williams changed his diet, lost weight and camp accuracy reports are very good; last year only J.J. McCarthy and Shedeur Sanders were less accurate (~58% completions), with 27 passing TDs. [8-14 preseaon hype and fantasy curses]
 - 2026-08-17: Caleb Williams: Caleb Williams said during the preseason broadcast that when he sees man coverage pre-snap, Burden is the receiver he trusts to beat it. [8-17 updates and camp news]
 - 2026-08-26: Caleb Williams: Williams reportedly dropped 15 pounds this offseason; in 2025 he had the 4th-most end zone pass attempts and the Bears jumped from 28th to 9th in points per game in Ben Johnson's first year. [8-26 myguys episode]
+- 2026-09-29: Case Keenum: Started Week 3 vs PHI (Williams hamstring, Bagent concussion); 24 of 34, 247 yards, 2 TD passes and a QB sneak TD, no sacks, in a 27-7 win. Caleb Williams has a Grade 2 hamstring strain, 3 to 4 week timeline; Tyson Bagent the likely Week 4 starter vs NYJ (box score, ESPN).
 
 ## Backfield
 
@@ -59,6 +60,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Kyle Monangai: Monangai is expected to see some work behind D'Andre Swift, who remains the lead back in the Bears' timeshare. [8-22 10 players we cant stop drafting]
 - 2026-08-24: D'Andre Swift: Swift set career highs in rushing yards, rushing TDs, rush success rate and scrimmage yards in 2025. [8-24 embarrased to love players]
 - 2026-08-24: D'Andre Swift: Swift is coming off career highs in yardage; only he and Derrick Henry have finished as top-24 fantasy RBs in each of the last six years. Kyle Monangai is dealing with a hyperextended knee. [8-24 adp adjustments]
+- 2026-09-29: D'Andre Swift: Over 100 rushing yards and a 3-yard TD in the Week 3 win over PHI, the first back to top 100 against the Eagles this season (reports).
 
 ## Receivers
 
@@ -94,6 +96,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Luther Burden III: Over his final eight 2025 games Burden averaged just over 50 yards on 52% of snaps with one TD (WR24 in PPG from Week 11 on); DJ Moore is gone, leaving Odunze and Loveland as the main competition. [8-20 WRs talk]
 - 2026-08-24: Rome Odunze: In 2025 Odunze led the Bears in first-read targets and in first-read target share when Caleb Williams was pressured. Through week 8 he was on pace for 136 targets, 75 catches, 1,150 yards and 12 TDs. [8-24 embarrased to love players]
 - 2026-08-24: Rome Odunze: A foot injury appeared on the report before week 9 of 2025; he played poorly on it (pace of 44 catches, 639 yards) and was then shut down. He had 27 end-zone targets in his first two seasons, 7th most among receivers. [8-24 embarrased to love players]
+- 2026-09-29: Rome Odunze: Dropped a wide-open touchdown in Week 3 vs PHI (reports).
 
 ## Tight ends
 

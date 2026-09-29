@@ -29,6 +29,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Geno Smith: Geno Smith is the Jets' starting quarterback in 2026, replacing Justin Fields and Tyrod Taylor; he is expected to check down to Breece Hall more than his predecessors. [8-23 highstakes draft]
 - 2026-08-26: Geno Smith: Training camp reports on him have been somewhat ugly; the next quarterbacks on the depth chart are Cade Klubnik and Brady Cook. [8-26 rankings and news updates]
 - 2026-08-26: Geno Smith: OC Frank Reich said he has been 'so impressed' with Geno Smith's play in camp. [8-26 myguys episode]
+- 2026-09-29: Geno Smith: 31 of 37, 321 yards, 3 TDs (Garrett Wilson, Sadiq, Jeremy Ruckert) in the 31-24 Week 3 loss at DET; sacked 5 times, lost a fumble on the final drive (box score).
 
 ## Backfield
 
@@ -45,6 +46,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Breece Hall: Hall played 10 of 11 snaps before Braelon Allen entered, feature-back usage the Jets have not shown in a long time. [8-16 preseason week 1 recap]
 - 2026-08-17: Isaiah Davis: Isaiah Davis has a knee injury and is expected back in a couple of weeks; Braelon Allen has a runway while Davis and Hall are out. [8-17 updates and camp news]
 - 2026-08-19: Breece Hall: Hall is banged up but was just paid; Isaiah Davis has barely practiced in camp, leaving Braelon Allen as the healthy backup. [8-19 Offenses to look out for]
+- 2026-09-29: Braelon Allen: Played all 17 offensive snaps after Breece Hall left Week 3; 19 carries for 61 yards on the season. Isaiah Davis has not played an offensive snap through three games (reports).
 
 ## Receivers
 
@@ -89,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Kenyon Sadiq: Sadiq is trying to get back by week one. [8-14 preseaon hype and fantasy curses]
 - 2026-08-19: Kenyon Sadiq: Kenyon Sadiq is still hurt; Mason Taylor is the Jets tight end expected to have a role, and Geno Smith has featured tight ends when he had one. [8-19 Offenses to look out for]
 - 2026-08-20: Kenyon Sadiq: Rookie is injured and likely behind; he profiles as a move tight end and competes for snaps with Mason Taylor and Omar Cooper Jr. [8-20 buying or selling rookie hype]
+- 2026-09-29: Kenyon Sadiq: 7 of 8 targets, 105 yards, 1 TD in Week 3 at DET on a season-high 38 snaps with Mason Taylor out (thumb). Route share was 40 percent through Week 2 (box score, reports).
 
 ## Offensive line
 

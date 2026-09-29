@@ -52,6 +52,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Bucky Irving: After returning from injury in Week 13 of 2025, Irving had only a 36% route share and 3.4 yards per carry with little explosiveness. [8-19 RBs drafting and fading]
 - 2026-08-23: Sean Tucker: Tucker is the Buccaneers' third back behind Bucky Irving and Kenneth Gainwell; an injury to either would elevate him sharply. [8-23 highstakes draft]
 - 2026-08-24: Bucky Irving: The preseason showed a genuine split between Irving and Kenneth Gainwell. [8-24 embarrased to love players]
+- 2026-09-29: Kenny Gainwell: 3 carries for minus 4 yards and 2 catches on 5 targets in the Week 3 loss at MIN; 32 snaps to Bucky Irving's 36; 2.1 yards per carry through three games (box score).
 
 ## Receivers
 

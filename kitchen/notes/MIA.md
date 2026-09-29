@@ -64,6 +64,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: De'Von Achane: Achane had one of the two or three highest RB target shares in the league in 2025 and got 300-plus touches at 188 pounds under Mike McDaniel; he now has a new QB, play caller and system. [8-19 RBs drafting and fading]
 - 2026-08-23: Jaylen Wright: Wright has reportedly locked down the No. 2 running back job in Miami behind De'Von Achane. [8-23 highstakes draft]
 - 2026-09-28: Ollie Gordon II: Only active RB after Achane's injury in Week 3; 17 carries, 41 yards, 1 TD, 3 catches for 14 yards. Jaylen Wright inactive (stinger). Hafley said the team will discuss adding a back (CBS).
+- 2026-09-29: Ollie Gordon II: Rostered in about 1 percent of leagues Tuesday of Week 4; Miami has not signed a back, and Gordon and Jaylen Wright are the backfield (public waiver pages, reports).
 
 ## Receivers
 

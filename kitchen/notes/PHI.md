@@ -71,6 +71,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Tank Bigsby: Bigsby is viewed as a clean handcuff who would inherit the full Barkley role if Barkley were hurt; some expect him to earn a larger share regardless. [8-19 RBs drafting and fading]
 - 2026-08-23: Tank Bigsby: Bigsby is the Eagles' primary backup to Saquon Barkley and would step into a large role if Barkley were hurt. [8-23 highstakes draft]
 - 2026-08-24: Saquon Barkley: A review of his 2025 carries inside the five found three to five stopped at the inch line, sometimes overturned, with Hurts scoring the next play; he could easily have had two or three more rushing TDs. [8-24 QB Rankings]
+- 2026-09-29: Saquon Barkley: 56 rushing yards in the 27-7 Week 3 loss at CHI (reports).
 
 ## Receivers
 
@@ -125,6 +126,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Eli Stowers: Camp reporting suggests Stowers is not expected to be a major factor in the Eagles passing game in 2026. [8-13 Fantasy Draft Values And Injury Shifts]
 - 2026-08-14: Eli Stowers: Listed as co-TE3 on the first unofficial depth chart behind Dallas Goedert and blocker Johnny Mundt; camp reports universally say he is off to a slow start. Goedert is on a one-year deal. [8-14 changed minds about players]
 - 2026-08-16: Eli Stowers: Rookie Stowers was called for holding and pulled up on a split block; he has not stood out in camp and could see almost no snaps. [8-16 preseason week 1 recap]
+- 2026-09-29: Dallas Goedert: Ruled out of Week 3 at CHI with a knee injury (team report).
 
 ## Offensive line
 

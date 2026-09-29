@@ -129,6 +129,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jakobi Meyers and Parker Washington enter 2026 as the top two receivers after the 2025 room was in flux early; Brian Thomas Jr. and Travis Hunter are complementary pieces and Brenton Strange missed a lot of 2025. [8-24 QB Rankings]
 - 2026-08-24: Parker Washington: From Week 7 on in 2025 (10 games) Washington was 14th in receiving yards, 15th in yards per route run and 18th in fantasy points per game; he had 90+ yards or a TD in five of his last seven. [8-24 adp adjustments]
 - 2026-08-24: Parker Washington: Beat writers describe Washington as uncoverable in camp and the clear No. 1; he had a minor injury but is expected to be fine for Week 1. Travis Hunter will play mostly defense. [8-24 adp adjustments]
+- 2026-09-29: Brian Thomas Jr.: 1 target for 8 yards in Week 3 vs NE; 13 targets through three weeks to Parker Washington's 23, no TDs (box score, reports).
 
 ## Tight ends
 

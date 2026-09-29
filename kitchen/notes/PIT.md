@@ -71,6 +71,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: DK Metcalf: Metcalf has an established rapport with Aaron Rodgers from 2025; Rodgers historically targets receivers he trusts, and safety-valve back Kenneth Gainwell is gone. [8-18 WR rankings]
 - 2026-08-18: Michael Pittman Jr.: Pittman is in his first year in the Steelers offense with Aaron Rodgers and profiles as the over-the-middle target; he, Rodgers and DK Metcalf are dealing with injuries and may all sit the entire preseason. [8-18 WR rankings]
 - 2026-08-20: Jeremy Bernard: Rookie has reportedly carved out a real role in the Steelers' receiver rotation. [8-20 buying or selling rookie hype]
+- 2026-09-29: Roman Wilson: 3 of 6 targets, 60 yards and a 38-yard TD in Week 3 vs CIN; exactly 6 targets in each of the first three games; snap share fell to 38.7 percent (reports).
 
 ## Tight ends
 

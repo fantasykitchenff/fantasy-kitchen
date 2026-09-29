@@ -97,6 +97,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Josh Downs: Downs' route areas overlap with Warren's and Keenan Allen's; without Pierce stretching the field the offense could get congested. [8-19 Offenses to look out for]
 - 2026-08-26: Josh Downs: The coach reportedly wants Downs in two-receiver sets and he has done nothing in camp or preseason to lose that role; at 171 pounds his run blocking is the main question versus Keenan Allen. [8-26 rankings and news updates]
 - 2026-08-26: Keenan Allen: Expected to open behind Alec Pierce and Josh Downs as the primary receivers, adding another short-area target alongside Tyler Warren and Downs. [8-26 rankings and news updates]
+- 2026-09-29: Keenan Allen: 6 of 9 targets, 63 yards, 1 TD in the Week 3 win over HOU with Alec Pierce (heel) out; 20 targets through three games (box score).
 
 ## Tight ends
 

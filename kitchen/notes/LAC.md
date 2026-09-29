@@ -102,6 +102,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Ladd McConkey: Keenan Allen, the Chargers' leading receiver in 2025, is gone; McDaniel said it is reasonable to expect the WR room to exceed its career highs across the board. [8-26 myguys episode]
 - 2026-08-26: Ladd McConkey: McConkey's 2025 decline came from a collapsed catch rate with Herbert under constant pressure, not volume (six fewer targets); he was 4th in yards per route run on go routes. [8-26 myguys episode]
 - 2026-08-26: Ladd McConkey: McDaniel is expected to move McConkey around, outside as well as slot, as he did with Hill and Waddle in Miami; Tre Harris and Quentin Johnston are not expected to carry volume. [8-26 myguys episode]
+- 2026-09-29: Tre' Harris: 6 of 7 targets, 76 yards vs BUF in Week 3, all team highs and career highs; ran a route on 27 of 43 dropbacks. 10 of 16 targets for 149 yards through three games. Quentin Johnston ran a route on 37 of 43 dropbacks, 3 of 6 for 40 (reports).
 
 ## Tight ends
 

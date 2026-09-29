@@ -89,6 +89,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Terrance Ferguson: McVay says he now understands every part of the system. As a rookie he had 11 catches for 231 yards, reached about 70% snaps late in 2025 before an injury and played more in the playoffs. [8-18 sleeper picks]
 - 2026-08-23: Terrance Ferguson: Ferguson's role is the open question; he is athletic with a high average depth of target, but if he runs only about 15 routes a game the spike weeks will be hard to find. [8-23 highstakes draft]
 - 2026-08-26: Terrance Ferguson: Has lined up at F, Y, X and Z in camp; beat reporting sees a clear path for him to finish third on the Rams in catches and yards behind Adams and Nacua, though usage could swing week to week. [8-26 rankings and news updates]
+- 2026-09-29: Tyler Higbee: 8 of 11 targets, 62 yards, 1 TD at DEN in Week 3 after Terrance Ferguson hurt his ankle (Ferguson 15.6 percent route share). Ferguson unlikely for Week 4; Colby Parkinson has an AC sprain (reports).
 
 ## Offensive line
 

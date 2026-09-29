@@ -65,6 +65,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Travis Etienne Jr.: With Alvin Kamara likely out for about the first month and no other goal-line threat on the roster, Etienne's early workload looks secure in Kellen Moore's up-tempo, high-play-volume offense. [8-22 10 players we cant stop drafting]
 - 2026-08-23: Travis Etienne Jr.: Etienne, now with the Saints, is the clear early-season lead back with Alvin Kamara hurt, gaining the passing-down and goal-line work Kamara would have threatened. [8-23 highstakes draft]
 - 2026-08-26: Travis Etienne: With Kamara sidelined, Etienne is no longer at risk of losing goal-line and passing-down work to the veteran. [8-26 rankings and news updates]
+- 2026-09-29: Alvin Kamara: Moves into the lead role with Travis Etienne Jr. ruled out for Week 4 vs ATL (Monday night) and expected to miss an extended stretch; Kendre Miller and CJ Donaldson slated for more work. Kamara about 43 percent rostered (reports).
 
 ## Receivers
 

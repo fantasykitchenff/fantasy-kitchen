@@ -104,6 +104,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Rashee Rice: Has not looked himself in camp; Xavier Worthy is also hurt and Travis Kelce looks slow, leaving the receiver room thin. [8-18 sleeper picks]
 - 2026-08-20: Cyrus Allen: Day-three rookie is trending toward a starting role in three-WR sets with Tyquan Thornton missing camp time; he has reportedly been lighting up camp and is a man-coverage beater. [8-20 buying or selling rookie hype]
 - 2026-08-21: Rashee Rice: Camp reports say he has looked slow and been beaten in practice; his practice reviews have been notably poor. [8-21 mayhem mock draft]
+- 2026-09-29: Xavier Worthy: Led KC receivers with 43 snaps in Week 3 but ran 19 routes and drew 2 targets (usage reports).
 
 ## Tight ends
 
