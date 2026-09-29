@@ -14,7 +14,7 @@
       "services": [
         {
           "series": "leftovers",
-          "time": "9:25 AM"
+          "time": "10:25 AM"
         }
       ]
     },
@@ -23,7 +23,7 @@
       "services": [
         {
           "series": "market",
-          "time": "7:25 AM"
+          "time": "10:25 AM"
         },
         {
           "series": "butcher",
@@ -40,7 +40,7 @@
       "services": [
         {
           "series": "menu",
-          "time": "7:25 AM"
+          "time": "10:25 AM"
         }
       ]
     },
@@ -49,7 +49,7 @@
       "services": [
         {
           "series": "line",
-          "time": "9:25 AM"
+          "time": "10:25 AM"
         }
       ]
     },
