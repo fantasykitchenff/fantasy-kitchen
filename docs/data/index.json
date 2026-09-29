@@ -1,17 +1,8 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-09-29T23:01:14Z",
+  "updatedAt": "2026-09-29T23:19:04Z",
   "pieces": [
-    {
-      "series": "market",
-      "week": 4,
-      "path": "2026/week-04/market.json",
-      "title": "Market Run, Week 4",
-      "dek": "Ollie Gordon II is the only Miami back standing after Achane's ACL, and he is the first name on this week's list.",
-      "publishedAt": "2026-09-29T14:20:00Z",
-      "updatedAt": "2026-09-29T23:05:00Z"
-    },
     {
       "series": "notes",
       "week": 4,
@@ -19,6 +10,15 @@
       "title": "Kitchen notes, Week 4",
       "dek": "What moved today.",
       "publishedAt": "2026-09-29T16:30:00Z",
+      "updatedAt": "2026-09-29T23:20:00Z"
+    },
+    {
+      "series": "market",
+      "week": 4,
+      "path": "2026/week-04/market.json",
+      "title": "Market Run, Week 4",
+      "dek": "Ollie Gordon II is the only Miami back standing after Achane's ACL, and he is the first name on this week's list.",
+      "publishedAt": "2026-09-29T14:20:00Z",
       "updatedAt": "2026-09-29T23:05:00Z"
     },
     {

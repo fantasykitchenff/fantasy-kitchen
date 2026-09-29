@@ -162,6 +162,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-21: Rachaad White: Hamstring injury is keeping him off the practice field; reports say it is not serious or long-term. [8-21 mayhem mock draft]
 - 2026-08-26: Jacory Croskey-Merritt: Croskey-Merritt did not practice Wednesday, Aug. 26 (undisclosed). [8-26 myguys episode]
 - 2026-09-28: Leo Chenal: fractured neck, surgery, season over. [pod 9-28, official]
+- 2026-09-29: Jayden Daniels: traveled to London with the team Tuesday night; scheduled to practice Wednesday through Friday in an elbow brace, status vs IND to be decided after the staff sees him practice (Dan Quinn).
 
 ## Other
 

@@ -6,12 +6,73 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-29T23:05:00Z",
+  "updatedAt": "2026-09-29T23:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-09-29T23:20:00Z",
+        "player": "Jaylen Warren",
+        "action": "START",
+        "slot": "RB2",
+        "url": "https://steelersdepot.com/2026/09/steelers-week-4-tuesday-injury-report-porter-practices-fully-dowdle-remains-sidelined/",
+        "text": "Rico Dowdle (PIT) did not practice Tuesday, his second straight missed session on the short week, and he has not practiced since he hurt the toe. Jaylen Warren played 90 percent of the snaps and touched the ball 20 times without him. Start Warren as your RB2 vs CLE Thursday."
+      },
+      {
+        "at": "2026-09-29T23:20:00Z",
+        "player": "Jayden Reed",
+        "action": "DROP",
+        "url": "https://sports.yahoo.com/nfl/breaking-news/article/packers-wr-jayden-reed-doing-ok-but-too-early-to-tell-if-hell-play-again-this-season-rt-zach-bako-bewele-out-for-season-with-knee-injury-212736159.html",
+        "text": "Matt LaFleur said Tuesday that Jayden Reed (GB) has a neck injury, that he is doing OK, and that it is too early to say whether he plays again this season. Green Bay has not put him on IR and gave no timeline. Drop him in 12-team leagues; keep him only if you have an open IR slot."
+      },
+      {
+        "at": "2026-09-29T23:20:00Z",
+        "player": "Odell Beckham Jr.",
+        "action": "DROP",
+        "url": "https://www.nfl.com/news/giants-to-release-veteran-wr-odell-beckham-jr-after-three-games",
+        "text": "The Giants released Odell Beckham Jr. Tuesday after 19 snaps, one target and no catches in three games, and signed Braxton Berrios to the active roster in his place. Drop him."
+      },
+      {
+        "at": "2026-09-29T23:20:00Z",
+        "player": "Jalon Daniels",
+        "action": "SIT",
+        "url": "https://www.pewterreport.com/bucs-sign-veteran-quarterback/",
+        "text": "Tampa Bay signed Brett Rypien to the practice squad Tuesday, and Todd Bowles says undrafted rookie Jalon Daniels still starts vs GB. Daniels went 0 for 3 with an interception in relief of Baker Mayfield. Sit him in every format; he is not a streamer."
+      },
+      {
+        "at": "2026-09-29T23:20:00Z",
+        "player": "Jayden Daniels",
+        "action": "MONITOR",
+        "watch": "Wednesday and Thursday practice reports from London",
+        "url": "https://www.nfl.com/news/commanders-qb-jayden-daniels-expected-to-travel-practice-in-london",
+        "text": "Jayden Daniels (WAS) flew to London with the team Tuesday night and is set to practice Wednesday through Friday in an elbow brace, per Dan Quinn. Washington decides on him vs IND after it sees him work. Monitor the Wednesday and Thursday practice reports."
+      },
+      {
+        "at": "2026-09-29T23:20:00Z",
+        "player": "Puka Nacua",
+        "action": "MONITOR",
+        "watch": "Wednesday practice; a full session is the tell",
+        "url": "https://www.espn.com/nfl/story/_/id/50028567/rams-targeting-week-4-return-wr-puka-nacua",
+        "text": "Sean McVay says he is hopeful Puka Nacua (LAR) plays at PHI after two missed games with groin soreness, and calls it to be determined. Terrance Ferguson and Jaylen Watson are likely out and Colby Parkinson's shoulder is undecided. Monitor Wednesday's practice; a full session is the tell."
+      },
+      {
+        "at": "2026-09-29T23:20:00Z",
+        "player": "Nico Collins",
+        "action": "MONITOR",
+        "watch": "Wednesday practice; he needs at least a limited session by Friday",
+        "url": "https://athlonsports.com/nfl/houston-texans/nico-collins-hamstring-update-texans-week-four",
+        "text": "DeMeco Ryans says he is hopeful Nico Collins (HOU) returns vs DAL after two missed games with a grade 1 hamstring strain. Collins has not practiced since the injury. Monitor Wednesday's practice; he needs at least a limited session by Friday to play."
+      },
+      {
+        "at": "2026-09-29T23:20:00Z",
+        "player": "Jalen Coker",
+        "action": "MONITOR",
+        "watch": "Wednesday practice",
+        "url": "https://sports.yahoo.com/articles/panthers-good-news-jalen-coker-181540484.html",
+        "text": "Dave Canales says Jalen Coker (CAR) has a minor quad strain, and the team calls him questionable for DET. Monitor Wednesday's practice before you plug him in."
+      },
       {
         "at": "2026-09-29T23:05:00Z",
         "text": "Roman Wilson (PIT) was benched for the second half vs CIN after a drop that became an interception, 2 snaps after halftime, so he comes off the Market Run adds list. Monitor his first-half snap share vs CLE Thursday before you spend.",

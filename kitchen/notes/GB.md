@@ -167,6 +167,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Josh Jacobs: on the Commissioner's Exempt List; the NFL filed a records request for video after a judge denied motions to seal it; games on the list count toward any suspension; no return imminent per Rapoport. [pod 9-28, official]
 - 2026-09-24: Christian Watson: hamstring listed after the Thursday game, 51 snaps; no follow-up report as of 9/29. [pod 9-28, beat]
 - 2026-09-21: Jayden Reed: neck (helmet-to-helmet hit in Week 2), kept overnight, missed Week 3, expected to go to IR. [pod 9-28, beat]
+- 2026-09-29: Jayden Reed: Matt LaFleur confirmed a neck injury (not back), said Reed is 'doing OK' and that it is too early to tell whether he plays again this season; not on IR yet, no timeline. RT Zach Bako-Bewele out for the season (knee) (reports).
 
 ## Other
 

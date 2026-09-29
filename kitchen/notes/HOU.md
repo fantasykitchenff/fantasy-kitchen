@@ -115,6 +115,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Jayden Higgins: Suffered a torn ACL in camp, prompting the Texans to trade for Kayshon Boutte. [8-26 rankings and news updates]
 - 2026-08-26: Tank Dell: Reportedly has not been able to sustain any type of practice schedule since his devastating knee injury; his roster spot is in jeopardy. [8-26 rankings and news updates]
 - 2026-09-26: Nico Collins: hamstring, out Week 3 (second straight), no timetable; Kayshon Boutte 37 snaps (69%), Wayne 33, Hutchinson 29. [pod 9-28, beat]
+- 2026-09-28: Nico Collins: DeMeco Ryans said he is hopeful Collins plays Week 4 vs DAL; Collins has not practiced since the grade 1 hamstring strain and needs a limited session at least to have a chance (reports).
 
 ## Other
 

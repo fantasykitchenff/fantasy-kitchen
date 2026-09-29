@@ -122,6 +122,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Mike Evans: Evans did not leave Tampa Bay over money; the Bucs were ready to pay him, and the departure was read as a veteran reading the direction of the franchise. [8-5 32 team update and breakdown]
 - 2026-08-08: Vita Vea: Has requested a trade from the Buccaneers. [8-8 Late and Cheap QBs]
 - 2026-08-10: Mike Evans: The Bucs did not fight to bring Mike Evans back, signaling belief in Egbuka as the No. 1 receiver. [8-10 WR preview show]
+- 2026-09-29: Brett Rypien signed to the practice squad after a Tuesday visit; Todd Bowles said Jalon Daniels starts vs GB (reports).
 
 ## Injuries and status
 

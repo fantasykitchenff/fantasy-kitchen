@@ -147,6 +147,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Najee Harris: Harris signed a veteran-minimum deal with no guarantees; his workout was arranged before Tyrone Tracy's badly missed preseason block, and he looked good in limited drill film. [8-20 bust and value picks for 2026]
 - 2026-08-26: Najee Harris: Signed a one-year, $1.2M deal with the Giants with zero guaranteed money; he is 28 and coming off an Achilles tear and an eye injury. [8-26 rankings and news updates]
 - 2026-09-28: J.J. McCarthy: Acquired from MIN for a 2027 fifth-round pick, pending a physical; opens as backup to Jameis Winston with Jaxson Dart out for the season (team site).
+- 2026-09-29: Odell Beckham Jr. released after 19 snaps, one target and no catches in three games; Braxton Berrios signed to the active roster off the practice squad (NFL Network, ESPN).
 
 ## Injuries and status
 
