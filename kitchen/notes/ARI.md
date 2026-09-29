@@ -109,6 +109,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Michael Wilson: Wilson finished WR12 in 2025 largely while Marvin Harrison Jr. was out. Camp buzz has him in the 'Puka Nacua role' of the new offense, besting Harrison in practice, and he has rapport with Jacoby Brissett. [8-18 WR rankings]
 - 2026-08-22: Marvin Harrison Jr.: When Harrison, Michael Wilson and Trey McBride were all on the field last year, Harrison led with a 26% target share versus 25% for McBride and 16% for Wilson. [8-22 10 players we cant stop drafting]
 - 2026-08-24: Michael Wilson: Was very productive with Jacoby Brissett running the offense in 2025, while Marvin Harrison Jr. did not develop into the alpha that would fix the offense. [8-24 QB Rankings]
+- 2026-09-29: Marvin Harrison Jr.: 4 targets on 62 routes in Weeks 1 and 2, then 3 of 5 for 40 in the Week 3 loss to SF (under 10 percent of targets); Michael Wilson drew 14 targets on 67 routes in Weeks 1 and 2 (reports).
 
 ## Tight ends
 

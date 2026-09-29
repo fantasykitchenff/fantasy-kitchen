@@ -73,6 +73,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Saquon Barkley: A review of his 2025 carries inside the five found three to five stopped at the inch line, sometimes overturned, with Hurts scoring the next play; he could easily have had two or three more rushing TDs. [8-24 QB Rankings]
 - 2026-09-29: Saquon Barkley: 56 rushing yards in the 27-7 Week 3 loss at CHI (reports).
 - 2026-09-29: Saquon Barkley: 15 carries for 82 yards @CHI in Week 3, 73 of them on 11 first-half carries; 1 catch on 2 targets for minus 2 yards (CBS).
+- 2026-09-29: Saquon Barkley: 0 TDs through three games; 15, 4 and 15 carries; stinger limited him to 12 snaps in Week 2 (reports).
 
 ## Receivers
 

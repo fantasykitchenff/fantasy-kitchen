@@ -1,0 +1,99 @@
+{
+  "series": "butcher",
+  "season": 2026,
+  "week": 4,
+  "title": "Butcher Shop, Week 4",
+  "dek": "Chris Olave has 36 targets and one touchdown. That price will not last, so go get him today.",
+  "format": "PPR",
+  "publishedAt": "2026-09-29T17:20:00Z",
+  "updatedAt": "2026-09-29T17:20:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Three weeks in, the box scores and the usage are telling two different stories, and the trade market reads the box scores. The buys below are getting the ball and not the points yet. The sells are getting the points without the ball, or are about to lose the role. Every price is written for 12-team PPR leagues; scale it to your league.",
+  "outro_md": "Heat Check has the usage trends behind these calls, and the Menu lands Wednesday with every one of them ranked.",
+  "data": {
+    "buy": [
+      {
+        "player": "Chris Olave",
+        "team": "NO",
+        "pos": "WR",
+        "action": "TRADE_FOR",
+        "price": "a WR2 and a bench RB",
+        "why": "Olave has 13, 10 and 13 targets in three games, 36 in all, with 27 catches for 375 yards. He has one touchdown, and he nearly scored three times vs LV in Week 3.",
+        "verdict": "Trade for him; offer a WR2 and a bench RB."
+      },
+      {
+        "player": "Saquon Barkley",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "TRADE_FOR",
+        "price": "a WR2 or a RB2 who is scoring touchdowns",
+        "why": "Barkley has zero touchdowns in three games, and a stinger held him to 12 snaps and 4 carries in Week 2. He was healthy @CHI and ran 15 times for 82 yards, 73 of them on 11 first-half carries.",
+        "verdict": "Trade for him; offer a WR2 or a RB2 who has been living on touchdowns."
+      },
+      {
+        "player": "Ashton Jeanty",
+        "team": "LV",
+        "pos": "RB",
+        "action": "TRADE_FOR",
+        "price": "a low-end WR1 or a RB1 with a shakier role",
+        "why": "Jeanty has topped 20 touches in all three games and has 16 targets, with a 13-97-2 receiving line. The rushing side has lagged at 3.3 yards per carry with no rushing touchdown, and that is the discount.",
+        "verdict": "Trade for him; offer a low-end WR1 or a RB1 whose role is less secure."
+      },
+      {
+        "player": "Jordan Love",
+        "team": "GB",
+        "pos": "QB",
+        "action": "TRADE_FOR",
+        "price": "a bench WR or a QB2",
+        "why": "Love has thrown 124 passes in three games, about 41 a game, with 6 touchdowns and 2 interceptions. His 52.4 percent completion rate is the ugly number, and it is why his managers will take a bench piece.",
+        "verdict": "Trade for him if you need a QB; offer a bench WR or your QB2."
+      }
+    ],
+    "sell": [
+      {
+        "player": "Jake Ferguson",
+        "team": "DAL",
+        "pos": "TE",
+        "action": "TRADE_AWAY",
+        "price": "a TE with a steady target share, or a WR3",
+        "why": "Ferguson has 3 touchdowns on 11 targets: 2 targets in Week 1, 4 in Week 2 and 5 in Week 3. He has 9 catches for 72 yards, so the touchdowns are the whole score.",
+        "verdict": "Trade him away; ask for a TE with a steady target share or a WR3."
+      },
+      {
+        "player": "Aaron Jones Sr.",
+        "team": "MIN",
+        "pos": "RB",
+        "action": "TRADE_AWAY",
+        "price": "a RB2 with a role that lasts past Week 7",
+        "why": "Jones has led the Vikings backfield only since Jordan Mason went on IR with a fractured thumb, and Mason is eligible to return in Week 7. Jones had 22 touches @TB in Week 3 but ran 17 times for 58 yards, and he practiced through a knee issue before that game.",
+        "verdict": "Trade him away before Mason is back; ask for a RB2 with a role that lasts past Week 7."
+      },
+      {
+        "player": "Emeka Egbuka",
+        "team": "TB",
+        "pos": "WR",
+        "action": "TRADE_AWAY",
+        "price": "a WR2 in a steadier offense",
+        "why": "Egbuka drew a season-high 9 targets vs MIN in Week 3, but Baker Mayfield dislocated his throwing thumb and is out at least three weeks. Undrafted rookie Jalon Daniels starts vs GB, and he went 0 for 3 in relief.",
+        "verdict": "Trade him away this week; ask for a WR2 in a steadier offense."
+      },
+      {
+        "player": "Omarion Hampton",
+        "team": "LAC",
+        "pos": "RB",
+        "action": "TRADE_AWAY",
+        "price": "a WR2 or a RB2 who catches passes",
+        "why": "Hampton played 80.6 percent of the snaps in Week 1 and 42 percent vs BUF in Week 3. He ran 6 routes that day to 14 for one teammate and 13 for Kimani Vidal, so the passing-down work is gone.",
+        "verdict": "Trade him away while his name still sells; ask for a WR2 or a RB2 who catches passes."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w04-butcher-thread-bdef",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

@@ -48,6 +48,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: TreVeyon Henderson: The Patriots shelved Henderson and played Stevenson in crunch time of last season's Super Bowl. [8-24 adp adjustments]
 - 2026-08-26: Rhamondre Stevenson: Has reportedly done everything right in camp and will open the season with the better role in the Patriots backfield. [8-26 rankings and news updates]
 - 2026-08-26: TreVeyon Henderson: Seems to have struggled in training camp, including in pass protection, though he topped 1,000 scrimmage yards with 10 TDs as a rookie; he is expected to open with the lesser role behind Stevenson. [8-26 rankings and news updates]
+- 2026-09-29: TreVeyon Henderson: 33 snaps to Rhamondre Stevenson's 20 in Week 2, then 23 to Stevenson's 33 @JAX in Week 3; 8 carries for 23 yards in Week 3, Stevenson 7 for 22 (snap counts, reports).
 
 ## Receivers
 

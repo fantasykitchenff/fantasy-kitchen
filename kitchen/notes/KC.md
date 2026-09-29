@@ -105,6 +105,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Cyrus Allen: Day-three rookie is trending toward a starting role in three-WR sets with Tyquan Thornton missing camp time; he has reportedly been lighting up camp and is a man-coverage beater. [8-20 buying or selling rookie hype]
 - 2026-08-21: Rashee Rice: Camp reports say he has looked slow and been beaten in practice; his practice reviews have been notably poor. [8-21 mayhem mock draft]
 - 2026-09-29: Xavier Worthy: Led KC receivers with 43 snaps in Week 3 but ran 19 routes and drew 2 targets (usage reports).
+- 2026-09-29: Rashee Rice: targets 2, 6 and 9 in Weeks 1 to 3; 7 of 9 for 88, team highs, in Week 3 @MIA; target share 9.5 percent through two games, 18.7 percent in Week 3 (reports).
 
 ## Tight ends
 

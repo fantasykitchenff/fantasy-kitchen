@@ -25,6 +25,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Jordan Love: Jordan Love is focused on trimming mistakes; the Packers have been clear they do not need a true No. 1 receiver and manage his volume. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Jordan Love: Completed 70.9% at 8.4 yards per attempt with Tucker Kraft through Week 8 of 2025, then 61.9% at 7.0 yards per attempt without Kraft from Week 9 on. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-26: Jordan Love: Among 38 QBs with 200+ dropbacks in 2025 Love was 1st in EPA from a clean pocket, 6th in passer rating, 7th in completion percentage over expectation and 4th in pressure-to-sack ratio. [8-26 myguys episode]
+- 2026-09-29: Jordan Love: 124 attempts in three games, 844 yards, 6 TD, 2 INT, 52.4 percent completions; 28 of 53 for 312, 2 TD, 1 INT in the 35-14 Week 3 loss to ATL (reports).
 
 ## Backfield
 

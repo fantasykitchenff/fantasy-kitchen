@@ -75,6 +75,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Mike Washington: Washington is the Raiders' next back behind Ashton Jeanty and would be in line for the lead role if Jeanty misses time. [8-24 embarrased to love players]
 - 2026-08-24: Mike Washington Jr.: Rookie Mike Washington Jr. is the next man up behind Jeanty and drew attention while Jeanty's ankle injury was being evaluated. [8-24 adp adjustments]
 - 2026-08-26: Mike Washington: Rookie RB has drawn positive camp buzz; in the preseason he ran 15 times for 119 yards with 2 catches for 18 yards on 45 snaps, and he could start Week 1 if Jeanty's ankle keeps him out. [8-26 rankings and news updates]
+- 2026-09-29: Ashton Jeanty: 20-plus touches in each of the first three games; 206 rushing yards at 3.3 yards per carry, no rushing TD; 13-97-2 receiving on 16 targets; 19 for 56 plus 3 of 3 for 37 in the 35-27 Week 3 win @NO (CBS, reports).
 
 ## Receivers
 

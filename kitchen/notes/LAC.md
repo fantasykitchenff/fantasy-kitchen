@@ -71,6 +71,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Keaton Mitchell: Offensive coordinator Mike McDaniel is reportedly very high on Mitchell, who is expected to have his own carved-out role each week behind Omarion Hampton. [8-23 highstakes draft]
 - 2026-08-26: Omarion Hampton: Hampton handled 80% of the Chargers' goal-line carries in 2025 (would rank 4th in the NFL), averaged 19 routes and 3.6 receptions per game, and led RBs in avoided tackles per carry through Week 5 before his injury. [8-26 myguys episode]
 - 2026-08-26: Omarion Hampton: Hampton ranked 3rd among RBs in efficiency on outside zone runs in 2025, behind De'Von Achane; Mike McDaniel's Miami outside zone used a fullback, and Alec Ingold now follows him to LA. [8-26 myguys episode]
+- 2026-09-29: Omarion Hampton: 80.6 percent snap share in Week 1, 42 percent in Week 3 (29 snaps); 15 carries for 56 vs BUF, 6 routes and 1 target while two other backs ran 14 and 13 routes (reports).
 
 ## Receivers
 

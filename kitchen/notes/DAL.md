@@ -82,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Jake Ferguson: Led all tight ends in PPR points per game in four 2025 games without CeeDee Lamb but ranked 14th in points per game and 11th in expected points with Lamb. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-15: Jake Ferguson: Ferguson had 8 TDs and 100+ targets in 2025 but did not reach double-digit fantasy points from Week 8 on once CeeDee Lamb returned, drawing a 13% target share in that span behind Lamb and George Pickens. [8-15 Tips]
 - 2026-08-17: Jake Ferguson: There has been no positive camp buzz on Jake Ferguson, who was among the least efficient TEs last year; Ryan Flournoy has drawn buzz for the third receiving role and Brevyn Spann-Ford has camp hype. [8-17 updates and camp news]
+- 2026-09-29: Jake Ferguson: 9 catches for 72 yards and 3 TDs on 11 targets through Week 3 (2, 4, 5 targets); 3 of 5 for 23 and a TD vs BAL in Week 3 (reports).
 
 ## Offensive line
 

@@ -84,6 +84,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Jordan Mason: Since 2022 only Achane and Gibbs top Mason's 5.1 yards per carry; among 55 qualifying backs last year he was 9th in rush success rate, 4th in 10+ yard run rate and 9th in forced missed tackle rate. [8-22 10 players we cant stop drafting]
 - 2026-08-23: Deon Claybourne: Claybourne is not expected to have a role at the start of the season; he is viewed as a contingency behind Aaron Jones and Jordan Mason. [8-23 highstakes draft]
 - 2026-08-24: Jordan Mason: Mason, a tackle-breaker who thrived in the 49ers' zone scheme, was cited at 10.5+ half-PPR points per game in 2025 games J.J. McCarthy did not start; he is viewed as the starter over an aging Aaron Jones. [8-24 adp adjustments]
+- 2026-09-29: Aaron Jones Sr.: 17 carries for 58 yards and 5 catches for 34 @TB in Week 3 (22 touches) after 23 carries in Week 2; Jordan Mason on IR (fractured thumb) and eligible to return in Week 7 (team site, reports).
 
 ## Receivers
 

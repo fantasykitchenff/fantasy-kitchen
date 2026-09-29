@@ -75,6 +75,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Wan'Dale Robinson: Beat reporting on the Titans says he is set to be heavily featured on quick, RPO and screen looks in Brian Daboll's offense. [8-20 buying or selling rookie hype]
 - 2026-08-24: Carnell Tate: Rookie receiver Tate has drawn targets in the preseason but had not caught a pass through the first preseason games. [8-24 embarrased to love players]
 - 2026-08-26: Carnell Tate: Tate (4th overall pick) dominated early camp reports but had 0 catches on 5 preseason targets; as the clear top WR he is expected to play near 100% of snaps from Week 1. [8-26 myguys episode]
+- 2026-09-29: Wan'Dale Robinson: game-high 11 targets @NYG in Week 3, 7 for 57 and a TD; snaps up from 28 to 38; 13-104-1 on 18 targets through three games (reports).
 
 ## Tight ends
 

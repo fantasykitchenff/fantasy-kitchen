@@ -73,6 +73,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Devin Singletary: Before the Najee Harris signing some beat writers expected Singletary to have a role as a back the coaches trust to pass protect. [8-26 rankings and news updates]
 - 2026-08-26: Najee Harris: His skill set overlaps heavily with Cam Skattebo (both 220-230 pound backs who pass protect and catch), so he could play a lot early at Skattebo's expense. [8-26 rankings and news updates]
 - 2026-08-26: Tyrone Tracy: Has had a very poor preseason and may have played himself off the Giants roster; if he stays he projects as no better than the third back. [8-26 rankings and news updates]
+- 2026-09-29: Cam Skattebo: snap share 60, 58 and 76 percent in Weeks 1 to 3; 20 carries for 60 and 3 catches for 40 vs TEN in Week 3, every first-quarter snap (reports).
 
 ## Receivers
 

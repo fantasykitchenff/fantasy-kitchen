@@ -95,6 +95,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Ted Hurst: Rookie from Georgia State is a developmental big-body type who has flashed; Jalen McMillan is up and down with injury questions. [8-20 buying or selling rookie hype]
 - 2026-08-24: With Mike Evans gone, Emeka Egbuka is expected to lead Tampa Bay's receivers with Godwin next; Jalen McMillan, rookie Hurst and Tez Johnson are behind them. [8-24 adp adjustments]
 - 2026-08-24: Chris Godwin: Godwin, 30, has had a strong camp with Baker Mayfield and said on a radio show he feels like the best version of himself; observers note his 2025 film coming off injury was rough. [8-24 adp adjustments]
+- 2026-09-29: Emeka Egbuka: 5 of 9 targets for 62 yards vs MIN in Week 3, his season high in targets (CBS).
 
 ## Tight ends
 

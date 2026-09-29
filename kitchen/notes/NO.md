@@ -91,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Chris Olave: Olave's late-2025 production came against soft defenses: 10-148-2 vs the Jets and 8 catches on 11 targets (30 routes) for 119 yards and a TD vs Tennessee in week 17. [8-19 Offenses to look out for]
 - 2026-08-20: Bryce Lance: After Tyson went down, the rookie was in two-WR sets with Devaughn Vele at one of the first practices. He profiles as a vertical boundary receiver; Vele is more of a power slot. [8-20 buying or selling rookie hype]
 - 2026-08-26: Jordyn Tyson: When healthy in camp he reportedly looked like the best player on the field; with him out, Chris Olave, Devaughn Vele and Juwan Johnson absorb the early-season targets. [8-26 rankings and news updates]
+- 2026-09-29: Chris Olave: 13, 10 and 13 targets in Weeks 1 to 3 (36 total), 27 catches for 375 yards, 1 TD; 9 of 13 for 107 vs LV in Week 3 with three near-TDs (reports).
 
 ## Tight ends
 
