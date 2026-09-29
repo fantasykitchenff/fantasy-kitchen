@@ -27,6 +27,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-07-25: Sam Darnold: Darnold threw 14 interceptions and lost 6 fumbles in 2025. [7-25 nfc west breakdown]
 - 2026-08-12: Sam Darnold: Darnold looks confident and in command with a deep group of weapons. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Sam Darnold: Ranked top eight among 42 qualifying QBs in 2025 in completion rate, yards per attempt, adjusted completion rate, completion rate over expected and PFF passing grade. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
+- 2026-09-27: Sam Darnold threw 2 interceptions including a 50-yard pick-six in the 33-31 loss at WAS, which ended a 12-game win streak. [pod 9-28, deployment]
 
 ## Backfield
 
@@ -61,6 +62,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Jadarian Price: Camp reports have been generally positive; pass protection has reportedly been a weakness, but he is catching the ball more than he ever showed at Notre Dame. [8-20 buying or selling rookie hype]
 - 2026-08-24: Jadarian Price: Rookie Jadarian Price has gotten a lot of passing-game work in camp and the coaching staff is reportedly excited to use him as a receiver, something he rarely did behind Jeremiah Love at Notre Dame. [8-24 adp adjustments]
 - 2026-08-24: Zach Charbonnet: Seattle had two top-24 fantasy backs in 2025 (Charbonnet and Walker, around RB20-22); Charbonnet was often forced onto the field near the goal line and is now working back from injury with an unclear return. [8-24 adp adjustments]
+- 2026-09-27: Jadarian Price 5 for 15 with a lost fumble (second straight game), held out until the second half, 19 snaps (28%); George Holani 24 snaps (36%), 5 catches and 3 carries for 58; Emanuel Wilson 24 snaps (36%), and 21 for 92 in Week 2 when Price left early. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -86,12 +88,14 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Jaxon Smith-Njigba: His 33.9% target share in 2025 was the highest by any player since at least 2013. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-18: Jaxon Smith-Njigba: Smith-Njigba set the Seahawks' single-season receiving record and led the NFL in receiving yards in 2025 with a target share near 37% in an offense Klint Kubiak built around him while Arroyo and Horton were hurt. [8-18 WR rankings]
 - 2026-08-18: Rashid Shaheed: Shaheed, acquired midseason in 2025, now has a full offseason and preseason in the Seattle offense, and camp reports on him have been positive. [8-18 WR rankings]
+- 2026-09-29: Jaxon Smith-Njigba leads the NFL with a 37.9% target share (next 33.3%), 36 targets, 27 for 405, 10-128-2 in Week 3; Rashid Shaheed 31 snaps (46%). [pod 9-28, deployment]
 
 ## Tight ends
 
 - 2026-08-12: AJ Barner: Barner is healthy after multiple offseason surgeries and expected to come into his own in Year 3; he singled out Elijah Arroyo as tremendously talented and the two will work off each other a lot. [8-12 Camp Updates Article]
 - 2026-08-12: Elijah Arroyo: Arroyo is a breakout candidate who should be more involved as a receiver, carrying the seam while AJ Barner handles inline work in 12 personnel. [8-12 130 training camp storylines and league updates]
 - 2026-08-18: Elijah Arroyo: Arroyo, who was hurt early in 2025, is healthy and has been a standout in Seahawks camp. [8-18 WR rankings]
+- 2026-09-27: AJ Barner 5 of 9 for 69, 61 snaps (91%, more than Smith-Njigba's 87%). [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -116,6 +120,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Zach Charbonnet: Reports say Charbonnet, recovering from a torn ACL, could return as early as September or October; the Seahawks consider him the league's best pass-protecting back. [8-19 RBs drafting and fading]
 - 2026-08-20: Zach Charbonnet: Had ACL surgery on Feb. 20, 2026. Beat reporting suggests he is nearing a return or could start the season on PUP, which would be an unusually fast timeline for that surgery date. [8-20 buying or selling rookie hype]
 - 2026-08-23: Zach Charbonnet: Charbonnet was expected back from injury around Weeks 4-6, on a similar timeline to Jordyn Tyson. [8-23 highstakes draft]
+- 2026-09-24: Zach Charbonnet: PUP (torn ACL in the January playoff at SF), eligible Week 5 at the earliest; Mike Macdonald said the window is not opening this week. [pod 9-29, official]
 
 ## Other
 

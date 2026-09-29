@@ -51,6 +51,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Kaleb Johnson: Johnson did not play until midway through the third quarter, behind Travis Homer and Lew Nichols. [8-16 preseason week 1 recap]
 - 2026-08-23: Jaylen Warren: Warren is expected to step into the role Kenneth Gainwell had in Pittsburgh last year, when Gainwell had about 1,200 scrimmage yards, eight touchdowns and 40-plus catches. [8-23 highstakes draft]
 - 2026-08-23: Rico Dowdle: Dowdle has shown he can handle a huge workload and has a path to the Steelers' goal-line role, but Jaylen Warren is expected to catch far more passes. [8-23 highstakes draft]
+- 2026-09-27: Jaylen Warren 17 for 127 and 3 catches for 49, 20 touches, 90% snaps with Rico Dowdle (right toe) inactive; Dowdle did not practice Tuesday 9/29 and is likely out Thursday vs CLE unless he practices Wednesday. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -72,6 +73,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Michael Pittman Jr.: Pittman is in his first year in the Steelers offense with Aaron Rodgers and profiles as the over-the-middle target; he, Rodgers and DK Metcalf are dealing with injuries and may all sit the entire preseason. [8-18 WR rankings]
 - 2026-08-20: Jeremy Bernard: Rookie has reportedly carved out a real role in the Steelers' receiver rotation. [8-20 buying or selling rookie hype]
 - 2026-09-29: Roman Wilson: 3 of 6 targets, 60 yards and a 38-yard TD in Week 3 vs CIN; exactly 6 targets in each of the first three games; snap share fell to 38.7 percent (reports).
+- 2026-09-27: Roman Wilson 3 of 6 for 60 with a 38-yard touchdown, 39% snaps; benched in the second half after a drop that became an interception, 2 snaps after halftime. [pod 9-28, deployment]
 
 ## Tight ends
 

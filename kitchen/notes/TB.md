@@ -53,6 +53,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Sean Tucker: Tucker is the Buccaneers' third back behind Bucky Irving and Kenneth Gainwell; an injury to either would elevate him sharply. [8-23 highstakes draft]
 - 2026-08-24: Bucky Irving: The preseason showed a genuine split between Irving and Kenneth Gainwell. [8-24 embarrased to love players]
 - 2026-09-29: Kenny Gainwell: 3 carries for minus 4 yards and 2 catches on 5 targets in the Week 3 loss at MIN; 32 snaps to Bucky Irving's 36; 2.1 yards per carry through three games (box score).
+- 2026-09-28: Bucky Irving 15 for 46, sat the final two possessions with a back wrap; Bowles said Monday he is not on the injury report; OC Zac Robinson said 9/24 he is on a bit of a pitch count for the longevity of the season. Irving 36 snaps to Kenneth Gainwell 32; Gainwell 3 carries for minus 4. [pod 9-28, coach]
 
 ## Receivers
 
@@ -96,6 +97,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: With Mike Evans gone, Emeka Egbuka is expected to lead Tampa Bay's receivers with Godwin next; Jalen McMillan, rookie Hurst and Tez Johnson are behind them. [8-24 adp adjustments]
 - 2026-08-24: Chris Godwin: Godwin, 30, has had a strong camp with Baker Mayfield and said on a radio show he feels like the best version of himself; observers note his 2025 film coming off injury was rough. [8-24 adp adjustments]
 - 2026-09-29: Emeka Egbuka: 5 of 9 targets for 62 yards vs MIN in Week 3, his season high in targets (CBS).
+- 2026-09-27: Emeka Egbuka 5 of 9 for 62 on 51 snaps; Chris Godwin 43 snaps, 3 for 25; Ted Hurst III led the receivers with 52 snaps and a 40-yard touchdown. [pod 9-28, deployment]
 
 ## Tight ends
 
@@ -137,3 +139,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Emeka Egbuka: Egbuka is dealing with a possible turf toe injury; the head coach said he is not sure Egbuka will be ready for Week 1. [8-18 WR targets and avoids]
 - 2026-08-18: Emeka Egbuka: The Bucs are calling Egbuka's injury a toe sprain, but an injury analyst believes it could be turf toe, which can linger all season. Some evaluators also have concerns about his play against man coverage. [8-18 WR rankings]
 - 2026-09-28: Baker Mayfield: Dislocated right thumb in Week 3 loss to MIN; MRI showed no fracture, tendon or ligament damage; out at least three weeks per Todd Bowles. Undrafted rookie Jalon Daniels starts vs GB Oct 4 (team site).
+- 2026-09-28: Baker Mayfield: dislocated right thumb on a fourth-and-1 in the fourth quarter vs MIN; MRI showed no ligament or tendon damage (Rapoport); Todd Bowles said a minimum of three weeks, earliest return Week 7 at CAR. Jalon Daniels (undrafted rookie) went 0 for 3 with a game-ending interception and starts vs GB; Easton Stick is the practice-squad quarterback. [pod 9-28, official]
+- 2026-09-29: Jalen McMillan: right-knee PCL strain on the opening drive, the same knee from camp, 6 to 8 weeks per ESPN's Jenna Laine. [pod 9-28, beat]

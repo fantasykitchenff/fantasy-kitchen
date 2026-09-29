@@ -47,6 +47,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Isaiah Davis: Isaiah Davis has a knee injury and is expected back in a couple of weeks; Braelon Allen has a runway while Davis and Hall are out. [8-17 updates and camp news]
 - 2026-08-19: Breece Hall: Hall is banged up but was just paid; Isaiah Davis has barely practiced in camp, leaving Braelon Allen as the healthy backup. [8-19 Offenses to look out for]
 - 2026-09-29: Braelon Allen: Played all 17 offensive snaps after Breece Hall left Week 3; 19 carries for 61 yards on the season. Isaiah Davis has not played an offensive snap through three games (reports).
+- 2026-09-27: Braelon Allen took every snap after Hall left (17 per reports), 4 for 14 and 3 catches for 3 in the game; season 19 for 61 and a touchdown, 4 catches for 11 on 5 targets; Isaiah Davis has zero offensive snaps this season (16 special-teams snaps in Week 3). [pod 9-29, deployment]
 
 ## Receivers
 
@@ -92,6 +93,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Kenyon Sadiq: Kenyon Sadiq is still hurt; Mason Taylor is the Jets tight end expected to have a role, and Geno Smith has featured tight ends when he had one. [8-19 Offenses to look out for]
 - 2026-08-20: Kenyon Sadiq: Rookie is injured and likely behind; he profiles as a move tight end and competes for snaps with Mason Taylor and Omar Cooper Jr. [8-20 buying or selling rookie hype]
 - 2026-09-29: Kenyon Sadiq: 7 of 8 targets, 105 yards, 1 TD in Week 3 at DET on a season-high 38 snaps with Mason Taylor out (thumb). Route share was 40 percent through Week 2 (box score, reports).
+- 2026-09-27: Kenyon Sadiq: 7 of 8 for 105 and a 24-yard touchdown, 38 snaps (48% snap share), 58% route share, 48% of snaps in the slot, 32% inline, 16% wide, 8 of 37 targets (21.6%), 32% targets per route; Weeks 1 and 2: 5 for 38 on 6 targets at a 40% route share. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -123,6 +125,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Breece Hall: Hall suffered a groin strain described as a one-and-a-half to two-week injury; he is expected back in roughly two to three weeks, well before Week 1. [8-19 RBs drafting and fading]
 - 2026-08-23: Breece Hall: Hall was dealing with a groin issue as of Aug 21. His advanced rushing and evasion metrics rebounded last year; his receiving numbers were depressed playing with Justin Fields and Tyrod Taylor. [8-23 highstakes draft]
 - 2026-09-28: Breece Hall: Thigh/quad injury on a goal-line carry in Week 3 vs DET; MRI better than feared, week-to-week. Braelon Allen had 6 touches on the final two drives (CBS, reports).
+- 2026-09-25: Mason Taylor: thumb, out Week 3. Adonai Mitchell: finger caught in a jersey at Thursday practice, inactive at DET. Omar Cooper Jr.: IR, high ankle sprain (9/19). Arian Smith: out for the season (ACL). [pod 9-29, official]
 
 ## Other
 

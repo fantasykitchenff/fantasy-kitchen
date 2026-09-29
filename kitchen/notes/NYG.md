@@ -38,6 +38,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Jaxson Dart: Camp reports say the Giants offense has struggled; Nagy said Dart is talented but really struggling in the new system. Dart was on a 17-game pace for about 700 rushing yards as a rookie. [8-20 bust and value picks for 2026]
 - 2026-08-20: Jaxson Dart: Dart is listed at 6-foot-2, 223 pounds, comparable in size to Jayden Daniels and Lamar Jackson. [8-20 bust and value picks for 2026]
 - 2026-08-26: Jaxson Dart: Had the highest passing aDOT in the nation in his final Ole Miss season; he does not have the strongest arm but throws deep and runs a lot. [8-26 rankings and news updates]
+- 2026-09-24: Jaxson Dart: knee on the opening drive of Week 2 at LAR, placed on IR 9/24, out for the season per John Harbaugh. [pod 9-28, official]
+- 2026-09-28: Jameis Winston relieved Dart in Week 2 and made his first start in Week 3 (12-7 over TEN); Harbaugh said he starts Week 4 vs ARI. J.J. McCarthy was acquired from MIN for a 2027 fifth-round pick; Jake Haener was signed from the practice squad 9/26. [pod 9-28, official]
 
 ## Backfield
 
@@ -74,6 +76,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Najee Harris: His skill set overlaps heavily with Cam Skattebo (both 220-230 pound backs who pass protect and catch), so he could play a lot early at Skattebo's expense. [8-26 rankings and news updates]
 - 2026-08-26: Tyrone Tracy: Has had a very poor preseason and may have played himself off the Giants roster; if he stays he projects as no better than the third back. [8-26 rankings and news updates]
 - 2026-09-29: Cam Skattebo: snap share 60, 58 and 76 percent in Weeks 1 to 3; 20 carries for 60 and 3 catches for 40 vs TEN in Week 3, every first-quarter snap (reports).
+- 2026-09-27: Cam Skattebo 20 for 60 (74 after contact) and 3 catches for 40, 76% snaps (60, 58, 76 by week); Najee Harris 9 for 52 as the No. 2. [pod 9-28, deployment]
 
 ## Receivers
 
@@ -98,6 +101,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Malik Nabers: Nabers led the entire NFL with a 35% target share as a 2024 rookie, finishing WR7 with just over 1,200 yards and 7 TDs, and was on a similar pace in 2025 before the injury. [8-18 WR rankings]
 - 2026-08-20: Darnell Mooney: Reportedly in trade rumors after rookie Malachi Fields moved ahead of him on the depth chart. [8-20 buying or selling rookie hype]
 - 2026-08-20: Malachi Fields: Rookie has emerged as the likely starting outside receiver next to Malik Nabers over Darius Slayton and Darnell Mooney; the Giants traded up for him and John Harbaugh called him after the pick. [8-20 buying or selling rookie hype]
+- 2026-09-27: Malik Nabers: shoulder in Week 2, limited then full, cleared for Week 3; Week 3 average depth of target 1.0 (20.5 the week before), 5 of 6 for 26. [pod 9-29, deployment]
 
 ## Tight ends
 

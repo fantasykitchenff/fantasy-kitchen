@@ -35,6 +35,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Tyler Shough: Tyler Shough is viewed as competent enough to run Kellen Moore's offense productively in 2026; the second-half 2025 schedule was very soft. [8-19 Offenses to look out for]
 - 2026-08-20: Tyler Shough: Kellen Moore plays fast, which requires a healthy line; Tyler Shough has not been good under pressure. [8-20 Offensive Line Rankings]
 - 2026-08-26: Tyler Shough: Reportedly was not performing well early in training camp but has been playing much better lately, per a source close to the team. [8-26 rankings and news updates]
+- 2026-09-27: Tyler Shough 29 of 42, 255, 4 TD, 1 INT, a 36-yard run and 2 lost fumbles in the 35-27 loss to LV. [pod 9-28, deployment]
 
 ## Backfield
 
@@ -66,6 +67,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Travis Etienne Jr.: Etienne, now with the Saints, is the clear early-season lead back with Alvin Kamara hurt, gaining the passing-down and goal-line work Kamara would have threatened. [8-23 highstakes draft]
 - 2026-08-26: Travis Etienne: With Kamara sidelined, Etienne is no longer at risk of losing goal-line and passing-down work to the veteran. [8-26 rankings and news updates]
 - 2026-09-29: Alvin Kamara: Moves into the lead role with Travis Etienne Jr. ruled out for Week 4 vs ATL (Monday night) and expected to miss an extended stretch; Kendre Miller and CJ Donaldson slated for more work. Kamara about 43 percent rostered (reports).
+- 2026-09-27: After Etienne left, carries went Kamara 6 and Miller 4; second-half snaps Kamara 20 and Miller 14 (PFF); CJ Donaldson stayed the third-down back; over the final five possessions Kamara had 6 touches and Miller 5. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -105,6 +107,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Juwan Johnson: Johnson had 77 catches for about 900 yards last season and is expected to see a heavy early-season target load while Jordyn Tyson is out. [8-23 highstakes draft]
 - 2026-08-24: Juwan Johnson: Camp reports say Juwan Johnson is in a mind meld with Tyler Shough and is the No. 2 target; in 2025 he had eight top-10 TE weeks and scored within 0.7 ppg of TE3 Travis Kelce. [8-24 adp adjustments]
 - 2026-08-26: Juwan Johnson: Had 77 catches for 889 yards in 2025 and is expected to be a weekly factor at least until Jordyn Tyson returns. [8-26 rankings and news updates]
+- 2026-09-27: Noah Fant 4 for 33 and 2 touchdowns; Juwan Johnson 8 for 48 and 2 touchdowns. [pod 9-28, deployment]
 
 ## Offensive line
 
@@ -154,6 +157,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Alvin Kamara: Out at least a month with a sprained MCL from a joint practice with the Cowboys; he is 31 with a history of knee issues, and the Saints reportedly wanted to release him before bringing him back on a revised deal. [8-26 rankings and news updates]
 - 2026-08-26: Jordyn Tyson: Timeline for his August 13 hamstring injury is roughly two months, pointing to about Week 6; the Saints play in Paris in Week 7 and have a Week 8 bye. He has had four hamstring injuries in 12 months. [8-26 rankings and news updates]
 - 2026-09-28: Travis Etienne Jr.: Re-aggravated left hamstring in Week 3 vs LV after 13 carries for 54 yards; Kellen Moore said he will have 'time lost', no timeline (ESPN). Kamara, Kendre Miller and CJ Donaldson are the other backs on the 53.
+- 2026-09-28: Travis Etienne Jr.: 13 carries for 57 (team box score) before aggravating the left hamstring in the third quarter; Kellen Moore ruled him out for Monday night vs ATL with no timeline, an extended absence expected and IR undecided. [pod 9-29, coach]
 
 ## Other
 

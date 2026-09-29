@@ -53,6 +53,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Nick Singleton: Day-three rookie is the Titans' third running back and reportedly got blown up in pass protection in the preseason; at Penn State he lost work to Kaytron Allen. [8-20 buying or selling rookie hype]
 - 2026-08-23: Nicholas Singleton: Rookie Singleton sits third on the Titans' depth chart behind Tony Pollard and Tyjae Spears. [8-23 highstakes draft]
 - 2026-08-24: Tony Pollard: Pollard handled 8 of 8 running back opportunities during his preseason stint with the Titans' first unit. [8-24 embarrased to love players]
+- 2026-09-27: Tyjae Spears entered questionable (ankle), played, aggravated it in the fourth quarter and was cleared to return; 3 for 5, 46% snaps; no Week 4 designation as of 9/29. Tony Pollard 17 for 74 and 4 catches for 22, 53% snaps, 80% of early downs. [pod 9-28, deployment]
 
 ## Receivers
 

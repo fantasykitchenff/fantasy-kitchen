@@ -6,9 +6,9 @@
   "dek": "Ollie Gordon II is the only Miami back standing after Achane's ACL, and he is the first name on this week's list.",
   "format": "PPR",
   "publishedAt": "2026-09-29T14:20:00Z",
-  "updatedAt": "2026-09-29T14:20:00Z",
+  "updatedAt": "2026-09-29T23:05:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Week 3 broke three backfields. De'Von Achane is done for the year, Travis Etienne Jr. is out for Week 4 and longer, and Breece Hall is week to week. That puts the running backs at the top of the shop, with a rookie tight end right behind them.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
+  "intro_md": "Updated Tue 7:05 PM ET: Roman Wilson comes off the adds list after PIT benched him for the second half vs CIN, 2 snaps after halftime; monitor his first-half snap share vs CLE Thursday before you spend. Etienne's carry line is now 13 for 57, Gordon's relief snap share is stated as 84 percent, Wright's status and Sadiq's context are updated, and the Monday night quarterback note says Chicago has not named a starter.\n\nWeek 3 broke three backfields. De'Von Achane is done for the year, Travis Etienne Jr. is out for Week 4 and longer, and Breece Hall is week to week. That puts the running backs at the top of the shop, with a rookie tight end right behind them.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
   "outro_md": "The Menu lands Wednesday with every one of these players ranked. Claims first, lineups after.",
   "data": {
     "adds": [
@@ -20,7 +20,7 @@
         "action": "CLAIM",
         "faab": "20-30%",
         "rostered": "1%",
-        "why": "Gordon was the only active Miami back after Achane went down: 17 carries, 41 yards, a goal-line touchdown and 3 catches for 14 yards. Achane is on IR for the season, so this window runs as long as Gordon holds off Jaylen Wright.",
+        "why": "Gordon took 84 percent of Miami's snaps after Achane went down, with a fullback taking 7 and a receiver 5 at halfback: 17 carries, 41 yards, a goal-line touchdown and 3 catches for 14 yards. Achane is on IR for the season, Miami worked out four backs Tuesday and signed none, so this window runs as long as Gordon holds off Jaylen Wright.",
         "verdict": "Claim him, 20 to 30 percent of FAAB. Top priority."
       },
       {
@@ -31,7 +31,7 @@
         "action": "CLAIM",
         "faab": "15-25%",
         "rostered": "43%",
-        "why": "Travis Etienne Jr. re-aggravated his hamstring after 13 carries for 54 yards, and the Saints already ruled him out for Monday against ATL. Kamara moves from a supporting role into the lead job, with Kendre Miller and CJ Donaldson behind him.",
+        "why": "Travis Etienne Jr. re-aggravated his hamstring after 13 carries for 57 yards, and the Saints already ruled him out for Monday against ATL. After Etienne left, Kamara took 6 of the next 10 carries and 20 of the 34 second-half snaps, so he moves into the lead job with Kendre Miller and CJ Donaldson behind him.",
         "verdict": "Claim him, 15 to 25 percent of FAAB. Start him as a flex against ATL."
       },
       {
@@ -42,7 +42,7 @@
         "action": "CLAIM",
         "faab": "12-20%",
         "rostered": "",
-        "why": "Sadiq caught 7 of 8 targets for 105 yards and a touchdown at DET on a season-high 38 snaps with Mason Taylor out with a thumb injury. Before Sunday he sat at a 40 percent route share, so Taylor's return is the one thing that caps him.",
+        "why": "Sadiq caught 7 of 8 targets for 105 yards and a touchdown at DET on a season-high 38 snaps with three pass catchers out: Mason Taylor (thumb), Adonai Mitchell (finger) and Omar Cooper Jr. (IR). He ran a route on 58 percent of dropbacks and drew 21.6 percent of the targets, up from a 40 percent route share through Week 2, so Taylor's return is the one thing that caps him.",
         "verdict": "Claim him, 12 to 20 percent of FAAB. Start him @CHI if Taylor sits again."
       },
       {
@@ -80,17 +80,6 @@
       },
       {
         "priority": 7,
-        "player": "Roman Wilson",
-        "team": "PIT",
-        "pos": "WR",
-        "action": "CLAIM",
-        "faab": "3-5%",
-        "rostered": "",
-        "why": "Wilson has drawn exactly 6 targets in each of Pittsburgh's three games and led the team Sunday with a 38-yard touchdown vs CIN. His snap share dipped to 39 percent, so he is earning looks on limited playing time.",
-        "verdict": "Claim him, 3 to 5 percent of FAAB. Bench stash until the snaps come back."
-      },
-      {
-        "priority": 8,
         "player": "Geno Smith",
         "team": "NYJ",
         "pos": "QB",
@@ -101,7 +90,7 @@
         "verdict": "Stream him @CHI, 2 to 5 percent of FAAB, if your starter is Mayfield or on bye."
       },
       {
-        "priority": 9,
+        "priority": 8,
         "player": "Tyler Higbee",
         "team": "LAR",
         "pos": "TE",
@@ -119,7 +108,7 @@
         "pos": "RB",
         "action": "STASH",
         "faab": "5-10%",
-        "why": "Wright held the No. 2 job in camp and sat Week 3 with a stinger. Miami has not signed a back, so Wright and Gordon are the backfield once he is cleared.",
+        "why": "Wright held the No. 2 job in camp and sat Week 3 with a stinger and a foot issue; Miami's coach said Monday he is day-to-day and could practice Wednesday. Miami worked out four backs Tuesday and signed none, so Wright and Gordon are the backfield once he is cleared.",
         "verdict": "Stash him, 5 to 10 percent of FAAB. He splits with Gordon the week he is healthy."
       },
       {
@@ -180,7 +169,7 @@
         "text": "Chicago beat Philadelphia 27-7 with Case Keenum at quarterback. D'Andre Swift carried 20 times for 84 yards against his old team. Start Swift as your RB2 vs NYJ."
       },
       {
-        "text": "Caleb Williams has a Grade 2 hamstring strain with a three to four week timeline, and Tyson Bagent is the likely Week 4 starter. Leave Keenum and Bagent on waivers. Hold Rome Odunze; he dropped a wide-open touchdown, which is a better sign than no target at all."
+        "text": "Caleb Williams has a Grade 2 hamstring strain with a three to four week timeline, and Ben Johnson has not named a Week 4 starter between Case Keenum and Tyson Bagent. Leave Keenum and Bagent on waivers. Hold Rome Odunze; he dropped a wide-open touchdown, which is a better sign than no target at all."
       },
       {
         "text": "Saquon Barkley ran 15 times for 82 yards, 73 of them in the first half, and Dallas Goedert sat with a knee injury. Start Barkley in Week 4, no change."

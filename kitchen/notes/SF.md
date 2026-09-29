@@ -107,6 +107,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Jake Tonges: Jake Tonges produced when Kittle was out last year and would be a strong starter if Kittle misses time; a snap-count scenario would limit both. [8-17 Breakouts and Injury stuff]
 - 2026-08-21: George Kittle: All signs point to him having a real shot at playing in Week 1 after his Achilles injury. [8-21 mayhem mock draft]
 - 2026-08-26: Jake Tonges: Could start Week 1 if Kittle is held out; when Kittle returns the 49ers could use a lot of two-tight-end sets with both. [8-26 rankings and news updates]
+- 2026-09-27: George Kittle 6 for 82 and 2 touchdowns, both in the final nine minutes. [pod 9-28, deployment]
 
 ## Offensive line
 
@@ -189,6 +190,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Mike Evans: Has sat out a lot of camp practice with a quad issue and veteran rest; he will turn 33 and is expected to be an every-down player when healthy. [8-26 rankings and news updates]
 - 2026-08-26: Mike Evans: Evans has barely been on the practice field in late August with his quad issue, adding to the 49ers' thin receiver picture. [8-26 myguys episode]
 - 2026-09-28: Mike Evans: Rib injury in Week 3 vs ARI; Shanahan called it day-to-day, not long term, could play Week 4 vs DEN (NBC Sports Bay Area).
+- 2026-09-27: Mike Evans: rib strain per Rapoport, carted to the locker room late in the first half at ARI after taking a helmet from Budda Baker on the prior play, out at halftime; Kyle Shanahan called him day-to-day with a chance to play vs DEN. Trent Williams: stinger in the third quarter, carted, did not return. [pod 9-28, beat]
 
 ## Other
 

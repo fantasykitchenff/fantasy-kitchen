@@ -6,12 +6,54 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-29T22:55:46Z",
+  "updatedAt": "2026-09-29T23:05:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-09-29T23:05:00Z",
+        "text": "Roman Wilson (PIT) was benched for the second half vs CIN after a drop that became an interception, 2 snaps after halftime, so he comes off the Market Run adds list. Monitor his first-half snap share vs CLE Thursday before you spend.",
+        "player": "Roman Wilson",
+        "action": "MONITOR",
+        "watch": "first-half snap share vs CLE Thursday"
+      },
+      {
+        "at": "2026-09-29T23:05:00Z",
+        "text": "Ollie Gordon II (MIA) took 84 percent of the snaps after Achane went down, with a fullback and a receiver taking the other 12 at halfback. Miami worked out four backs Tuesday and signed none. Claim him, 20 to 30 percent of FAAB.",
+        "player": "Ollie Gordon II",
+        "action": "CLAIM",
+        "faab": "20-30%"
+      },
+      {
+        "at": "2026-09-29T23:05:00Z",
+        "text": "Jaylen Wright (MIA) sat Week 3 with a stinger and a foot issue, and Miami's coach said Monday he is day-to-day and could practice Wednesday. Stash him, 5 to 10 percent of FAAB.",
+        "player": "Jaylen Wright",
+        "action": "STASH",
+        "faab": "5-10%"
+      },
+      {
+        "at": "2026-09-29T23:05:00Z",
+        "text": "Travis Etienne Jr. (NO) had 13 carries for 57 yards before the hamstring went, and Alvin Kamara took 6 of the next 10 carries and 20 of the 34 second-half snaps with CJ Donaldson on third downs. Claim Kamara, 15 to 25 percent of FAAB.",
+        "player": "Alvin Kamara",
+        "action": "CLAIM",
+        "faab": "15-25%"
+      },
+      {
+        "at": "2026-09-29T23:05:00Z",
+        "text": "Kenyon Sadiq (NYJ) had three pass catchers out at DET, not one: Mason Taylor (thumb), Adonai Mitchell (finger) and Omar Cooper Jr. (IR). He ran a route on 58 percent of dropbacks and drew 21.6 percent of the targets. Claim him, 12 to 20 percent of FAAB.",
+        "player": "Kenyon Sadiq",
+        "action": "CLAIM",
+        "faab": "12-20%"
+      },
+      {
+        "at": "2026-09-29T23:05:00Z",
+        "text": "The Market Run's Monday night note no longer calls Tyson Bagent the likely starter: Ben Johnson has not named one and said the staff will discuss it. Monitor who takes first-team reps at Wednesday practice.",
+        "player": "Case Keenum",
+        "action": "MONITOR",
+        "watch": "who takes first-team reps at Wednesday practice"
+      },
       {
         "at": "2026-09-29T22:55:46Z",
         "text": "Rashee Rice (KC) drew 9 of the Chiefs' 22 targets @MIA in Week 3, a 41 percent share, after 9.5 percent through two games. This week's Heat Check listed 18.7 percent as his Week 3 share; that is his three-game share, and the card is fixed. The buy call stands: trade for him, offer a WR3 and a bench RB.",
