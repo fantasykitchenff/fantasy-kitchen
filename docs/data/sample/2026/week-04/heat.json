@@ -1,0 +1,47 @@
+{
+  "series": "heat",
+  "season": 2026,
+  "week": 4,
+  "title": "Heat Check, Week 5",
+  "dek": "Sample risers and fallers with the number that backs each read.",
+  "format": "PPR",
+  "publishedAt": "2026-09-23T11:00:00Z",
+  "updatedAt": "2026-09-23T11:00:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "risers": [
+      {
+        "player": "Jaylen Waddle",
+        "team": "MIA",
+        "pos": "WR",
+        "stat": "Route share 91% \u00b7 12 targets last week",
+        "why": "The volume moved to him and stayed.",
+        "verdict": "Stove's on. Treat him as a weekly WR2.",
+        "action": "START",
+        "slot": "WR2"
+      }
+    ],
+    "fallers": [
+      {
+        "player": "Rhamondre Stevenson",
+        "team": "NE",
+        "pos": "RB",
+        "stat": "Snap share 61% to 44% over three weeks",
+        "why": "The rookie is taking the early-down work.",
+        "verdict": "Left to cool. Trade him away while the name still carries weight; ask for a WR3 with a role.",
+        "action": "TRADE_AWAY",
+        "price": "Ask for a WR3 with a role"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w04-heat-thread",
+      "kind": "thread",
+      "url": "https://x.com/FF_ChefHazy",
+      "status": "posted"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "series": "notes",
+  "season": 2026,
+  "week": 4,
+  "title": "Kitchen notes",
+  "dek": "Sample daily notes.",
+  "format": "PPR",
+  "publishedAt": "2026-09-23T11:00:00Z",
+  "updatedAt": "2026-09-26T21:10:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "items": [
+      {
+        "at": "2026-09-26T21:10:00Z",
+        "text": "Evans limited again Friday. The hamstring is a Sunday morning decision; have McMillan ready.",
+        "player": "Mike Evans",
+        "action": "MONITOR",
+        "watch": "Sunday inactives at 11:30 AM ET"
+      },
+      {
+        "at": "2026-09-26T14:05:00Z",
+        "text": "Falcons list Bijan as questionable. Every report says he plays.",
+        "player": "Bijan Robinson",
+        "action": "START",
+        "slot": "RB1"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w04-notes-thread",
+      "kind": "thread",
+      "url": "https://x.com/FF_ChefHazy",
+      "status": "posted"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "series": "prep",
+  "season": 2026,
+  "week": 4,
+  "title": "Prep Notes, Week 4",
+  "dek": "Sample Friday designations, read for lineups.",
+  "format": "PPR",
+  "publishedAt": "2026-09-23T11:00:00Z",
+  "updatedAt": "2026-09-23T11:00:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "report": [
+      {
+        "player": "Jalen Hurts",
+        "team": "PHI",
+        "pos": "QB",
+        "status": "Q",
+        "injury": "Ankle",
+        "practice": [
+          "LP",
+          "LP",
+          "FP"
+        ],
+        "read": "Full Friday practice is the tell.",
+        "verdict": "Start him. Have a pivot ready only if you play in a league that locks Sunday morning.",
+        "action": "START",
+        "watch": "inactives at 11:30 AM ET"
+      },
+      {
+        "player": "Bucky Irving",
+        "team": "TB",
+        "pos": "RB",
+        "status": "O",
+        "injury": "Hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Ruled out Friday.",
+        "verdict": "Rachaad White is a flex play in his place.",
+        "action": "PIVOT",
+        "to": "Rachaad White"
+      },
+      {
+        "player": "Chris Godwin",
+        "team": "TB",
+        "pos": "WR",
+        "status": "D",
+        "injury": "Knee",
+        "practice": [
+          "DNP",
+          "DNP",
+          "LP"
+        ],
+        "read": "Doubtful means out more often than not.",
+        "verdict": "Plan without him.",
+        "action": "SIT"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w04-prep-thread",
+      "kind": "thread",
+      "url": "https://x.com/FF_ChefHazy",
+      "status": "posted"
+    }
+  ]
+}

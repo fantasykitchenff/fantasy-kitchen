@@ -1,0 +1,77 @@
+{
+  "brand": "Fantasy Kitchen",
+  "author": "Chef Hazy",
+  "handle": "FF_ChefHazy",
+  "site_url": "https://fantasykitchenff.com",
+  "season": 2026,
+  "currentWeek": 3,
+  "scoring": "PPR",
+  "tagline": "Cooked from one model. Served all week.",
+  "dek": "Rankings, waivers, start/sit, trades and Sunday pivots, all cooked from the same projection model and posted on X as the week unfolds.",
+  "schedule": [
+    {
+      "day": "Monday",
+      "services": [
+        {
+          "series": "leftovers",
+          "time": "9:25 AM"
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "services": [
+        {
+          "series": "market",
+          "time": "7:25 AM"
+        },
+        {
+          "series": "butcher",
+          "time": "1:25 PM"
+        },
+        {
+          "series": "heat",
+          "time": "1:25 PM"
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "services": [
+        {
+          "series": "menu",
+          "time": "7:25 AM"
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "services": [
+        {
+          "series": "line",
+          "time": "9:25 AM"
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "services": [
+        {
+          "series": "prep",
+          "time": "6:25 PM"
+        }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "services": [
+        {
+          "series": "orderup",
+          "time": "as inactives drop"
+        }
+      ]
+    }
+  ],
+  "about_dek": "One kitchen, one model, every week of the season.",
+  "about_md": "Fantasy Kitchen is where Chef Hazy's fantasy football work gets plated.\n\nEverything here comes out of one projection model that is rebuilt as the season moves: every injury, every depth chart change, every play-caller tendency gets priced in, and every ranking on this site is the same one that drives the posts on X. Ranks and tiers are published here. The model's raw numbers stay in the kitchen.\n\n## How the week runs\n\n- **Monday, Leftovers.** What Sunday actually told us: usage, snaps, routes, and which overreactions are real.\n- **Tuesday, Market Run.** The waiver wire, with FAAB guidance and what changed after Monday night.\n- **Tuesday, Butcher Shop and Heat Check.** Who to trade for, who to trade away, who is heating up and who is cooling off.\n- **Wednesday, The Menu.** Positional rankings with tiers.\n- **Thursday, On the Line.** Start, sit, and the coin flips, Thursday night included.\n- **Friday, Prep Notes.** The injury report read for lineups, and the Menu updated to match.\n- **Sunday, Order Up.** Inactives and pivots as each window's reports drop.\n\nFollow along on X at @FF_ChefHazy."
+}

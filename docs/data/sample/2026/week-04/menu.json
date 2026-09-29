@@ -1,0 +1,189 @@
+{
+  "series": "menu",
+  "season": 2026,
+  "week": 4,
+  "title": "The Menu, Week 4",
+  "dek": "Sample rankings to show the layout. Tiers are courses; the top of each tier is the safest plate.",
+  "format": "PPR",
+  "publishedAt": "2026-09-23T11:00:00Z",
+  "updatedAt": "2026-09-23T11:00:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Sample week to show how the menu plates. Ranks are for full PPR. Injury flags come from Prep Notes and update Friday evening.",
+  "outro_md": null,
+  "data": {
+    "positions": {
+      "QB": [
+        {
+          "rank": 1,
+          "tier": 1,
+          "tier_label": "Chef's table",
+          "player": "Josh Allen",
+          "team": "BUF",
+          "pos": "QB",
+          "opp": "vs NO",
+          "note": "Rushing floor plus a home game against a soft front.",
+          "action": "START",
+          "slot": "QB1"
+        },
+        {
+          "rank": 2,
+          "tier": 1,
+          "player": "Lamar Jackson",
+          "team": "BAL",
+          "pos": "QB",
+          "opp": "@KC",
+          "note": "Shootout script.",
+          "action": "START",
+          "slot": "QB2"
+        },
+        {
+          "rank": 3,
+          "tier": 2,
+          "tier_label": "Entrees",
+          "player": "Jayden Daniels",
+          "team": "WAS",
+          "pos": "QB",
+          "opp": "vs ATL",
+          "note": "Designed runs are back to double digits.",
+          "action": "START",
+          "slot": "QB3"
+        },
+        {
+          "rank": 4,
+          "tier": 2,
+          "player": "Jalen Hurts",
+          "team": "PHI",
+          "pos": "QB",
+          "opp": "@TB",
+          "flag": "Q",
+          "note": "Practiced in full Thursday; expect him to go.",
+          "action": "START",
+          "slot": "QB3",
+          "watch": "inactives at 11:30 AM ET"
+        },
+        {
+          "rank": 5,
+          "tier": 3,
+          "tier_label": "Sides",
+          "player": "Bo Nix",
+          "team": "DEN",
+          "pos": "QB",
+          "opp": "vs CIN",
+          "note": "Volume is there, the red zone has been stingy.",
+          "action": "START",
+          "slot": "QB3"
+        }
+      ],
+      "RB": [
+        {
+          "rank": 1,
+          "tier": 1,
+          "tier_label": "Chef's table",
+          "player": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "opp": "@WAS",
+          "note": "Every-down role and the passing work.",
+          "action": "START",
+          "slot": "RB1"
+        },
+        {
+          "rank": 2,
+          "tier": 1,
+          "player": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "opp": "vs SEA",
+          "note": "Touch share is the highest of his career.",
+          "action": "START",
+          "slot": "RB2"
+        },
+        {
+          "rank": 3,
+          "tier": 2,
+          "tier_label": "Entrees",
+          "player": "Ashton Jeanty",
+          "team": "LV",
+          "pos": "RB",
+          "opp": "vs CHI",
+          "note": "Snap share climbed three straight weeks.",
+          "action": "START",
+          "slot": "RB3"
+        }
+      ],
+      "WR": [
+        {
+          "rank": 1,
+          "tier": 1,
+          "tier_label": "Chef's table",
+          "player": "Ja'Marr Chase",
+          "team": "CIN",
+          "pos": "WR",
+          "opp": "@DEN",
+          "note": "Target share never dips.",
+          "action": "START",
+          "slot": "WR1"
+        },
+        {
+          "rank": 2,
+          "tier": 1,
+          "player": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "opp": "vs GB",
+          "note": "Green Bay's corners have not held up outside.",
+          "action": "START",
+          "slot": "WR2"
+        }
+      ],
+      "TE": [
+        {
+          "rank": 1,
+          "tier": 1,
+          "tier_label": "Chef's table",
+          "player": "Brock Bowers",
+          "team": "LV",
+          "pos": "TE",
+          "opp": "vs CHI",
+          "note": "Alpha usage.",
+          "action": "START",
+          "slot": "TE1"
+        },
+        {
+          "rank": 2,
+          "tier": 2,
+          "tier_label": "Entrees",
+          "player": "Trey McBride",
+          "team": "ARI",
+          "pos": "TE",
+          "opp": "@SF",
+          "note": "Targets are fine, touchdowns are the swing.",
+          "action": "START",
+          "slot": "TE2"
+        }
+      ]
+    },
+    "off_menu": {
+      "RB": [
+        {
+          "player": "Bucky Irving",
+          "team": "TB",
+          "pos": "RB",
+          "opp": "vs PHI",
+          "flag": "OUT",
+          "note": "Ruled out Friday.",
+          "action": "PIVOT",
+          "to": "Rachaad White"
+        }
+      ]
+    }
+  },
+  "posts": [
+    {
+      "id": "2026w04-menu-thread",
+      "kind": "thread",
+      "url": "https://x.com/FF_ChefHazy",
+      "status": "posted"
+    }
+  ]
+}

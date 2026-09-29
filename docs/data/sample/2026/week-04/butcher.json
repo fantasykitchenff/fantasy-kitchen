@@ -1,0 +1,45 @@
+{
+  "series": "butcher",
+  "season": 2026,
+  "week": 4,
+  "title": "Butcher Shop, Week 5",
+  "dek": "Sample buys and sells.",
+  "format": "PPR",
+  "publishedAt": "2026-09-23T11:00:00Z",
+  "updatedAt": "2026-09-23T11:00:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "buy": [
+      {
+        "player": "Drake London",
+        "team": "ATL",
+        "pos": "WR",
+        "price": "A WR2 and a bench RB",
+        "why": "Target share is elite and the touchdowns have not come yet. They will.",
+        "verdict": "Offer a WR2-plus and take the profile.",
+        "action": "TRADE_FOR"
+      }
+    ],
+    "sell": [
+      {
+        "player": "Chuba Hubbard",
+        "team": "CAR",
+        "pos": "RB",
+        "price": "Ask for a WR2 with upside",
+        "why": "Touchdowns are carrying the line; the touch share is slipping and the schedule hardens.",
+        "verdict": "Sell while the box score still looks like an RB1.",
+        "action": "TRADE_AWAY"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w04-butcher-thread",
+      "kind": "thread",
+      "url": "https://x.com/FF_ChefHazy",
+      "status": "posted"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "season": 2026,
+  "currentWeek": 4,
+  "updatedAt": "2026-09-23T11:00:00Z",
+  "pieces": [
+    {
+      "series": "menu",
+      "week": 4,
+      "path": "2026/week-04/menu.json",
+      "title": "The Menu, Week 4",
+      "dek": "Sample rankings to show the layout. Tiers are courses; the top of each tier is the safest plate.",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "updatedAt": "2026-09-23T11:00:00Z"
+    },
+    {
+      "series": "market",
+      "week": 4,
+      "path": "2026/week-04/market.json",
+      "title": "Market Run, Week 5",
+      "dek": "Sample waiver targets, plus what Monday night changed.",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "updatedAt": "2026-09-23T11:00:00Z"
+    },
+    {
+      "series": "butcher",
+      "week": 4,
+      "path": "2026/week-04/butcher.json",
+      "title": "Butcher Shop, Week 5",
+      "dek": "Sample buys and sells.",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "updatedAt": "2026-09-23T11:00:00Z"
+    },
+    {
+      "series": "heat",
+      "week": 4,
+      "path": "2026/week-04/heat.json",
+      "title": "Heat Check, Week 5",
+      "dek": "Sample risers and fallers with the number that backs each read.",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "updatedAt": "2026-09-23T11:00:00Z"
+    },
+    {
+      "series": "line",
+      "week": 4,
+      "path": "2026/week-04/line.json",
+      "title": "On the Line, Week 4",
+      "dek": "Sample start/sit calls.",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "updatedAt": "2026-09-23T11:00:00Z"
+    },
+    {
+      "series": "prep",
+      "week": 4,
+      "path": "2026/week-04/prep.json",
+      "title": "Prep Notes, Week 4",
+      "dek": "Sample Friday designations, read for lineups.",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "updatedAt": "2026-09-23T11:00:00Z"
+    },
+    {
+      "series": "orderup",
+      "week": 4,
+      "path": "2026/week-04/orderup.json",
+      "title": "Order Up, Week 4",
+      "dek": "Sample Sunday inactives and pivots by window.",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "updatedAt": "2026-09-23T11:00:00Z"
+    },
+    {
+      "series": "leftovers",
+      "week": 4,
+      "path": "2026/week-04/leftovers.json",
+      "title": "Leftovers, Week 3",
+      "dek": "Sample Monday takeaways.",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "updatedAt": "2026-09-23T11:00:00Z"
+    },
+    {
+      "series": "notes",
+      "week": 4,
+      "path": "2026/week-04/notes.json",
+      "title": "Kitchen notes",
+      "dek": "Sample daily notes.",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "updatedAt": "2026-09-26T21:10:00Z"
+    }
+  ]
+}

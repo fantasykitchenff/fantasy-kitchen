@@ -1,0 +1,71 @@
+{
+  "series": "line",
+  "season": 2026,
+  "week": 4,
+  "title": "On the Line, Week 4",
+  "dek": "Sample start/sit calls.",
+  "format": "PPR",
+  "publishedAt": "2026-09-23T11:00:00Z",
+  "updatedAt": "2026-09-23T11:00:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "tnf": [
+      {
+        "player": "Zay Flowers",
+        "team": "BAL",
+        "pos": "WR",
+        "opp": "@KC",
+        "why": "Shootout script and the slot matchup.",
+        "verdict": "Start him as a WR2.",
+        "action": "START",
+        "slot": "WR2"
+      }
+    ],
+    "starts": [
+      {
+        "player": "Brian Robinson Jr.",
+        "team": "WAS",
+        "pos": "RB",
+        "opp": "vs ATL",
+        "why": "Goal-line role is his and the Falcons have allowed the most rushing scores in the league.",
+        "verdict": "Start in all formats.",
+        "action": "START",
+        "slot": "RB2"
+      }
+    ],
+    "sits": [
+      {
+        "player": "DJ Moore",
+        "team": "CHI",
+        "pos": "WR",
+        "opp": "@LV",
+        "why": "Route share is under 70% and the targets are spread thin.",
+        "verdict": "Sit unless you are desperate at flex.",
+        "action": "SIT"
+      }
+    ],
+    "coinflips": [
+      {
+        "player": "Kyle Pitts",
+        "team": "ATL",
+        "pos": "TE",
+        "opp": "@WAS",
+        "why": "Usage is good, the touchdown equity is not.",
+        "verdict": "Lean start over any streamer, lean sit against a top-8 tight end.",
+        "action": "START",
+        "slot": "TE1",
+        "flip_if": "your alternative is a top-8 tight end"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w04-line-thread",
+      "kind": "thread",
+      "url": "https://x.com/FF_ChefHazy",
+      "status": "posted"
+    }
+  ]
+}

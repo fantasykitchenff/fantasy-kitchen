@@ -1,0 +1,25 @@
+name: validate
+on:
+  push:
+    branches: [main, "claude/**"]
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate data, queue and standards
+        run: python3 tools/fk.py validate
+      - name: Manifest is in sync
+        run: |
+          cp docs/data/index.json /tmp/index.before.json
+          python3 tools/fk.py manifest
+          python3 - <<'PY'
+          import json
+          a = json.load(open('/tmp/index.before.json')); b = json.load(open('docs/data/index.json'))
+          strip = lambda m: [{k: v for k, v in p.items()} for p in m.get('pieces', [])]
+          assert strip(a) == strip(b), "docs/data/index.json is stale: run python3 tools/fk.py manifest"
+          PY

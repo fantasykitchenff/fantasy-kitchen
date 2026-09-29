@@ -1,0 +1,69 @@
+{
+  "series": "orderup",
+  "season": 2026,
+  "week": 4,
+  "title": "Order Up, Week 4",
+  "dek": "Sample Sunday inactives and pivots by window.",
+  "format": "PPR",
+  "publishedAt": "2026-09-23T11:00:00Z",
+  "updatedAt": "2026-09-23T11:00:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "windows": [
+      {
+        "name": "Early window",
+        "time": "1:00 PM ET \u00b7 inactives at 11:30",
+        "inactives": [
+          {
+            "player": "Chris Godwin",
+            "team": "TB",
+            "pos": "WR",
+            "note": "Inactive as expected. Sit him; no pivot needed if you planned for it.",
+            "action": "SIT"
+          },
+          {
+            "player": "Mike Evans",
+            "team": "TB",
+            "pos": "WR",
+            "note": "Surprise inactive. Hamstring flared in warmups.",
+            "action": "PIVOT",
+            "to": "Jalen McMillan"
+          }
+        ],
+        "pivots": [
+          {
+            "out": "Mike Evans",
+            "in": "Jalen McMillan",
+            "note": "He runs the most routes in this offense with Evans and Godwin both out."
+          }
+        ]
+      },
+      {
+        "name": "Late window",
+        "time": "4:05 and 4:25 PM ET \u00b7 inactives at 2:35 and 2:55",
+        "inactives": [],
+        "pivots": []
+      }
+    ],
+    "updates": [
+      {
+        "time": "11:41 AM ET",
+        "text": "Evans is inactive. Pivot to McMillan in every format."
+      },
+      {
+        "time": "11:36 AM ET",
+        "text": "Hurts is active. Start him."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w04-orderup-thread",
+      "kind": "thread",
+      "url": "https://x.com/FF_ChefHazy",
+      "status": "posted"
+    }
+  ]
+}

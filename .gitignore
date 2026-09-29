@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+projections.json
+.DS_Store

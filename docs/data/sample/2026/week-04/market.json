@@ -1,0 +1,84 @@
+{
+  "series": "market",
+  "season": 2026,
+  "week": 4,
+  "title": "Market Run, Week 5",
+  "dek": "Sample waiver targets, plus what Monday night changed.",
+  "format": "PPR",
+  "publishedAt": "2026-09-23T11:00:00Z",
+  "updatedAt": "2026-09-23T11:00:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Sample week. FAAB ranges assume a 100-dollar budget.",
+  "outro_md": null,
+  "data": {
+    "adds": [
+      {
+        "priority": 1,
+        "player": "Tyler Allgeier",
+        "team": "ATL",
+        "pos": "RB",
+        "faab": "25-35%",
+        "rostered": "41%",
+        "why": "Bijan left Monday night with an ankle and Allgeier played every snap after. If Bijan misses time this is a top-12 RB week.",
+        "verdict": "Claim him, 25 to 35 percent of FAAB. Top priority if you are thin at RB.",
+        "action": "CLAIM"
+      },
+      {
+        "priority": 2,
+        "player": "Jalen McMillan",
+        "team": "TB",
+        "pos": "WR",
+        "faab": "10-15%",
+        "rostered": "22%",
+        "why": "Ran 33 routes and drew 9 targets with Godwin out. Route share has climbed three weeks running.",
+        "verdict": "Claim him, 10 to 15 percent, in 12-team leagues and deeper.",
+        "action": "CLAIM"
+      },
+      {
+        "priority": 3,
+        "player": "Elijah Arroyo",
+        "team": "SEA",
+        "pos": "TE",
+        "faab": "3-5%",
+        "rostered": "9%",
+        "why": "Route share over 70% two straight weeks and the red zone looks are coming.",
+        "verdict": "Stream him this week, 3 to 5 percent, if you are chasing a tight end.",
+        "action": "STREAM"
+      }
+    ],
+    "stashes": [
+      {
+        "player": "Kyle Monangai",
+        "team": "CHI",
+        "pos": "RB",
+        "faab": "1-3%",
+        "why": "Handcuff with standalone value if the split keeps tilting.",
+        "verdict": "Stash on a deep bench.",
+        "action": "STASH"
+      }
+    ],
+    "drops": [
+      {
+        "player": "Rashid Shaheed",
+        "team": "NO",
+        "pos": "WR",
+        "why": "Two straight games under 30% route share. The role is gone.",
+        "verdict": "Cut for any add above.",
+        "action": "DROP"
+      }
+    ],
+    "mnf": [
+      {
+        "text": "Monday night: the Falcons' Wednesday practice report decides how much to spend on Allgeier. The tape looked like a sprain, not a break. Monitor Bijan until Wednesday and claim Allgeier now either way."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w04-market-thread",
+      "kind": "thread",
+      "url": "https://x.com/FF_ChefHazy",
+      "status": "posted"
+    }
+  ]
+}
