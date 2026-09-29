@@ -1,0 +1,99 @@
+{
+  "series": "notes",
+  "season": 2026,
+  "week": 3,
+  "title": "Kitchen notes, Week 3",
+  "dek": "What moved today.",
+  "format": "PPR",
+  "publishedAt": "2026-09-29T03:15:00Z",
+  "updatedAt": "2026-09-29T03:15:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "items": [
+      {
+        "at": "2026-09-28T22:15:00Z",
+        "text": "Baker Mayfield (TB) dislocated his right thumb and Todd Bowles says he is out at least three weeks. The MRI showed no fracture, ligament or tendon damage, and undrafted rookie Jalon Daniels starts vs GB. Hold Mayfield; three weeks is a short stash.",
+        "url": "https://www.buccaneers.com/news/baker-mayfield-three-weeks-minimum-thumb-injury-update",
+        "player": "Baker Mayfield",
+        "action": "HOLD",
+        "why": "Drop him if the timeline slips past Week 7 or the Bucs move him to IR with a longer clock."
+      },
+      {
+        "at": "2026-09-28T20:40:00Z",
+        "text": "Justin Jefferson (MIN) has an ankle sprain and the imaging came back clean. Kevin O'Connell says it comes down to getting the swelling out and what kind of work week he can have before Miami.",
+        "url": "https://www.espn.com/nfl/story/_/id/50054067/sources-vikings-jefferson-ankle-sprain-play-week",
+        "player": "Justin Jefferson",
+        "action": "MONITOR",
+        "watch": "Wednesday and Thursday practice participation"
+      },
+      {
+        "at": "2026-09-28T20:35:00Z",
+        "text": "Mike Evans (SF) has a rib injury that Kyle Shanahan calls day-to-day and not long term. He has a chance to play vs DEN.",
+        "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/mike-evans-injury-update-kyle-shanahan/1967115/",
+        "player": "Mike Evans",
+        "action": "MONITOR",
+        "watch": "Friday injury designation"
+      },
+      {
+        "at": "2026-09-28T20:00:00Z",
+        "text": "Breece Hall (NYJ) is week-to-week after an MRI on his thigh came back better than feared. Braelon Allen took six touches over the last two drives Sunday and Isaiah Davis is the other back in line for work @CHI.",
+        "url": "https://www.cbssports.com/fantasy/football/news/jets-breece-hall-viewed-as-week-to-week-after-mri/",
+        "player": "Breece Hall",
+        "action": "MONITOR",
+        "watch": "Wednesday practice report"
+      },
+      {
+        "at": "2026-09-28T20:00:00Z",
+        "text": "Braelon Allen (NYJ) is the first back up if Breece Hall misses Week 4. He handled six touches on the final two drives after Hall left.",
+        "url": "https://www.cbssports.com/fantasy/football/news/jets-breece-hall-viewed-as-week-to-week-after-mri/",
+        "player": "Braelon Allen",
+        "action": "CLAIM",
+        "faab": "8-12%"
+      },
+      {
+        "at": "2026-09-28T19:10:00Z",
+        "text": "Travis Etienne Jr. (NO) will have 'time lost' with the hamstring he re-aggravated Sunday, per Kellen Moore. He had 13 carries for 54 yards before he left. No timeline yet, and an IR move is possible.",
+        "url": "https://www.espn.com/nfl/story/_/id/50054057/saints-rb-travis-etienne-jr-sit-hamstring-injury",
+        "player": "Travis Etienne Jr.",
+        "action": "MONITOR",
+        "watch": "Wednesday practice report and any IR move"
+      },
+      {
+        "at": "2026-09-28T16:15:00Z",
+        "text": "The Giants traded a 2027 fifth-round pick to Minnesota for J.J. McCarthy, pending a physical. With Jaxson Dart out for the season, McCarthy opens as the backup to Jameis Winston.",
+        "url": "https://www.giants.com/news/j-j-mccarthy-trade-details-minnesota-vikings-quarterback-2027-nfl-draft-michigan-wolverines",
+        "player": "J.J. McCarthy",
+        "action": "MONITOR",
+        "watch": "whether he takes first-team reps at Giants practice this week"
+      },
+      {
+        "at": "2026-09-28T14:35:00Z",
+        "text": "De'Von Achane (MIA) tore his ACL on his third carry vs KC and went on IR Monday. His season is over.",
+        "url": "https://www.espn.com/nfl/story/_/id/50052064/sources-dolphins-rb-devon-achane-suffered-torn-acl-vs-chiefs",
+        "player": "De'Von Achane",
+        "action": "DROP"
+      },
+      {
+        "at": "2026-09-28T14:35:00Z",
+        "text": "Ollie Gordon II (MIA) was the only active back after Achane went down: 17 carries, 41 yards, a touchdown and 3 catches. Jaylen Wright sat with a stinger, and Jeff Hafley says the team will talk about adding a back.",
+        "url": "https://www.cbssports.com/nfl/news/devon-achane-knee-injury-dolphins-chiefs-2026/",
+        "player": "Ollie Gordon II",
+        "action": "CLAIM",
+        "faab": "20-30%"
+      },
+      {
+        "at": "2026-09-28T14:35:00Z",
+        "text": "Jaylen Wright (MIA) was inactive with a stinger Sunday. He held the No. 2 job in camp, so he gets a share of the work once he is cleared.",
+        "player": "Jaylen Wright",
+        "action": "STASH",
+        "faab": "5-10%"
+      }
+    ]
+  },
+  "posts": [
+    { "id": "2026w03-notes-thread-2908", "kind": "thread", "status": "queued", "url": null },
+    { "id": "2026w03-notes-thread-115c", "kind": "thread", "status": "queued", "url": null }
+  ]
+}

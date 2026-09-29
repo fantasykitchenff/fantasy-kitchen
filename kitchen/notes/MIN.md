@@ -108,11 +108,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Jauan Jennings: In the preseason opener Jennings played only in three-WR sets (4 snaps) while Tai Felton played outside for all 9 starter snaps with Jefferson out; Felton could unseat Jennings as WR3. [8-17 updates and camp news]
 - 2026-08-17: Tai Felton: Tai Felton (6'1, 183, 4.37) is a speed role player unlikely to command many targets. [8-17 updates and camp news]
 - 2026-08-18: Jordan Addison: Camp reports describe a strong connection between Addison and new quarterback Kyler Murray. [8-18 WR rankings]
+- 2026-09-28: Justin Jefferson: Left ankle sprain on a first-quarter screen in Week 3 at TB; imaging clean, could play Week 4 vs MIA per O'Connell (ESPN).
 
 ## Tight ends
 
 - 2026-08-06: T.J. Hockenson: Hockenson has not been a real part of the game plan since his injury and is not viewed as a factor. [8-6 1st round picks downsides]
 - 2026-08-15: T.J. Hockenson: He is 29 and two years removed from his ACL; he is the third option behind Jefferson and Addison, and Kyler Murray supported a top fantasy tight end in Arizona. [8-15 talk with injury expert]
+- 2026-09-28: Josh Oliver: Torn biceps, surgery, likely out for the season (reports).
 
 ## Offensive line
 
@@ -124,6 +126,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Transactions and contracts
 
 - 2026-08-17: Jauan Jennings: Jennings signed a one-year deal (max $13M, $6M guaranteed, $4.5M signing bonus); he is expected to make the roster but not be a big factor. [8-17 updates and camp news]
+- 2026-09-28: J.J. McCarthy: Traded to NYG for a 2027 fifth-round pick (team site).
 
 ## Other
 

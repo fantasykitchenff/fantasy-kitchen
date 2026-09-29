@@ -151,6 +151,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jordan Tyson: Rookie WR Jordan Tyson is down with a hamstring injury and reportedly will not be seen for a while, likely at least a month. [8-24 adp adjustments]
 - 2026-08-26: Alvin Kamara: Out at least a month with a sprained MCL from a joint practice with the Cowboys; he is 31 with a history of knee issues, and the Saints reportedly wanted to release him before bringing him back on a revised deal. [8-26 rankings and news updates]
 - 2026-08-26: Jordyn Tyson: Timeline for his August 13 hamstring injury is roughly two months, pointing to about Week 6; the Saints play in Paris in Week 7 and have a Week 8 bye. He has had four hamstring injuries in 12 months. [8-26 rankings and news updates]
+- 2026-09-28: Travis Etienne Jr.: Re-aggravated left hamstring in Week 3 vs LV after 13 carries for 54 yards; Kellen Moore said he will have 'time lost', no timeline (ESPN). Kamara, Kendre Miller and CJ Donaldson are the other backs on the 53.
 
 ## Other
 

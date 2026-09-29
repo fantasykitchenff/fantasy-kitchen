@@ -119,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Breece Hall: Groin injury; out two to three weeks per Aaron Glenn. [8-18 sleeper picks]
 - 2026-08-19: Breece Hall: Hall suffered a groin strain described as a one-and-a-half to two-week injury; he is expected back in roughly two to three weeks, well before Week 1. [8-19 RBs drafting and fading]
 - 2026-08-23: Breece Hall: Hall was dealing with a groin issue as of Aug 21. His advanced rushing and evasion metrics rebounded last year; his receiving numbers were depressed playing with Justin Fields and Tyrod Taylor. [8-23 highstakes draft]
+- 2026-09-28: Breece Hall: Thigh/quad injury on a goal-line carry in Week 3 vs DET; MRI better than feared, week-to-week. Braelon Allen had 6 touches on the final two drives (CBS, reports).
 
 ## Other
 

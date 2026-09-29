@@ -63,6 +63,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: De'Von Achane: Achane played all 14 snaps of the first preseason drive with 7 carries and a goal-line TD; camp reports say he will not come off the field. [8-16 preseason week 1 recap]
 - 2026-08-19: De'Von Achane: Achane had one of the two or three highest RB target shares in the league in 2025 and got 300-plus touches at 188 pounds under Mike McDaniel; he now has a new QB, play caller and system. [8-19 RBs drafting and fading]
 - 2026-08-23: Jaylen Wright: Wright has reportedly locked down the No. 2 running back job in Miami behind De'Von Achane. [8-23 highstakes draft]
+- 2026-09-28: Ollie Gordon II: Only active RB after Achane's injury in Week 3; 17 carries, 41 yards, 1 TD, 3 catches for 14 yards. Jaylen Wright inactive (stinger). Hafley said the team will discuss adding a back (CBS).
 
 ## Receivers
 
@@ -128,6 +129,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Greg Dulcich: Dulcich is nursing a minor injury. [8-5 top 10 QB rankings]
 - 2026-08-05: Greg Dulcich: Dulcich sat out practice with an undisclosed injury after his stock had been rising. [8-5 32 team update and breakdown]
 - 2026-08-26: Chris Bell: Rookie WR shed his non-contact jersey after tearing his ACL at Louisville in November 2025; he might play in preseason Week 3 and has a legitimate chance to play Week 1. [8-26 rankings and news updates]
+- 2026-09-28: De'Von Achane: Torn ACL on his third carry in the Week 3 loss to KC; placed on IR, out for the season (ESPN, team move).
 
 ## Other
 
