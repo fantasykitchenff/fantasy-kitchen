@@ -163,3 +163,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: The Chiefs are favored in their first four games (DEN, IND, MIA, LV) before a Week 5 bye; the Giants and Steelers each scored seven more TDs than KC in 2025. [8-5 top 10 TE rankings]
 - 2026-08-09: Chiefs finished 15th, 15th and 21st in points the last three seasons and 16th and 20th in yards the last two; Travis Kelce is becoming a catch-and-fall player. [8-9 QB preview]
 - 2026-08-20: Kenneth Walker: In 2025 with Seattle he finished RB22 in total half-PPR points and RB29 in points per game, a relative disappointment despite the Super Bowl run. [8-20 buying or selling rookie hype]
+- 2026-09-30: Defense has allowed the fewest fantasy points to quarterbacks and the third-fewest to wide receivers through Week 3 (reports).
+

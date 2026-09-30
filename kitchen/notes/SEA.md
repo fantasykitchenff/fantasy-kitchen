@@ -126,3 +126,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-25: Seattle went 14-3, ranked 2nd in points per game with the NFL's lowest pass rate, and had the No. 1 scoring defense; they are favored in 14 of 17 games. [7-25 nfc west breakdown]
 - 2026-08-05: Kenneth Walker missed no games in 2025 yet averaged only about 12 fantasy ppg in this offense; Greg Zabel was drafted last year to improve the line. [8-5 rookie RBs and TEs to watch]
+- 2026-09-30: Defense has allowed the fewest fantasy points to wide receivers through Week 3 and is top five against running backs; Week 4 vs LAC is at Lumen Field, 4:25 PM ET (reports, team site).
+

@@ -166,3 +166,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-07-14: Went 11-6 (6-2 one-score) despite ranking 18th in yards and 24th in points, which got Greg Roman fired; Mike McDaniel, top-two in pre-snap motion rate, replaces him. [7-14 afc west breakdown]
 - 2026-07-14: Opens vs. Cardinals and Raiders as a big favorite, then at Buffalo, at Seattle, Denver and Kansas City. [7-14 afc west breakdown]
 - 2026-09-27: LAC lost 24-16 at BUF after scoring 14 vs LV in Week 2. [pod 9-28, official]
+- 2026-09-30: Defense has allowed the ninth-most fantasy points to tight ends through Week 3 (reports).
+

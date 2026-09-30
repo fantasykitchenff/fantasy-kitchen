@@ -192,3 +192,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-09: The Colts' first five 2026 games are Baltimore, Kansas City, Houston, at Washington and at Pittsburgh, all as underdogs, before two Jacksonville games and another Houston game later. [7-9 afc south breakdown]
 - 2026-09-27: IND 19, HOU 17. [pod 9-28, official]
+- 2026-09-30: Defense allowed 294 rushing yards on 56 running back carries through two games (5.3 per carry) and the fifth-most fantasy points to tight ends (reports).
+

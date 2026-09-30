@@ -59,6 +59,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Chuba Hubbard: Head coach Dave Canales said that if Hubbard is good to go for Week 1, the Panthers will use a running back committee. Hubbard's availability for Week 1 is still in question. [8-24 embarrased to love players]
 - 2026-08-24: Jonathan Brooks: Brooks, after a long injury layoff, started and played in the preseason for Carolina. [8-24 embarrased to love players]
 - 2026-09-27: Chuba Hubbard: 20 carries and every first-half snap; AJ Dillon 4 carries. [pod 9-28, deployment]
+- 2026-09-30: Chuba Hubbard is ninth among running backs in fantasy points after three weeks (reports).
 
 ## Receivers
 
@@ -137,3 +138,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-21: Carolina went 8-9 and won the NFC South in 2025 going 7-3 in one-score games against a 6.5 preseason win total; it ranked 27th in PPG and has the 3rd-hardest 2026 schedule, opening at CHI, at ATL, vs CLE. [7-21 nfc south breakdown]
 - 2026-08-20: Carolina drew a first-place schedule rated the third hardest in the league for 2026. [8-20 bust and value picks for 2026]
+- 2026-09-30: Defense has allowed the most fantasy points to running backs through Week 3, 1.07 points per carry (next closest 0.85) and the most rushing yards per game (reports).
+

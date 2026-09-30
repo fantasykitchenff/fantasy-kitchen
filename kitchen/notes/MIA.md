@@ -143,3 +143,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: The Dolphins' win total is 4.5 and Vegas projects them 29th in points; McDaniel, Tua and Waddle are all gone. [8-5 ice and fire show]
 - 2026-08-14: Dolphins rank 31st in implied win percentage and 32nd in multiple power indexes; the offense transitions from McDaniel to Bobby Slowik with a bad offensive line. [8-14 changed minds about players]
 - 2026-09-29: Week 4 at MIN opened MIN -9.5 with a 39.5 total and sits at MIN -11.5 with a 38.5 total, a Miami implied total of 13.5. [pod 9-29, aggregation]
+- 2026-09-30: Defense has allowed the most fantasy points to running backs through three weeks (reports).
+

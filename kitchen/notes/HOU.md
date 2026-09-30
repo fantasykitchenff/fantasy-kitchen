@@ -120,3 +120,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Other
 
 - 2026-07-09: Houston went 12-5, winning its last nine, with an offense 19th in yards and 13th in points that was terrible in the red zone; their line ranked last in run-block win rate and they face the seventh-hardest 2026 schedule. [7-9 afc south breakdown]
+- 2026-09-30: Defense has allowed the most fantasy points to wide receivers through three weeks (reports).
+

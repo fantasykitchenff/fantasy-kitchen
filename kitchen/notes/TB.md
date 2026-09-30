@@ -27,6 +27,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Baker Mayfield: Mayfield is playing for his next contract in 2026. [8-18 WR rankings]
 - 2026-08-23: Baker Mayfield: Mayfield was playing very well before getting hurt last season and is reportedly upset with the organization over his contract situation entering 2026. [8-23 highstakes draft]
 - 2026-09-28: Jalon Daniels: 0 for 3 with a game-ending interception in relief of Mayfield in Week 3; named the starter (ESPN, team site).
+- 2026-09-30: Easton Stick is elevated as Jalon Daniels' backup vs GB; Bucky Irving is not on the Week 4 injury report per Todd Bowles (reports).
 
 ## Backfield
 

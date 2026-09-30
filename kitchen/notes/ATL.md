@@ -37,6 +37,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Tua Tagovailoa: Tagovailoa is the Falcons' likely Week 1 starter and has reportedly played poorly in camp and preseason. In 2025, 63% of his attempts traveled under 10 yards, a low-aDOT profile. [8-24 embarrased to love players]
 - 2026-08-26: National reporting says Tua Tagovailoa's camp play has made the plan to start him Week 1 'impossible'; Michael Penix Jr. will sit preseason Week 3; Cooper Rush or the third-string QB could start games. [8-26 myguys episode]
 - 2026-09-24: Michael Penix Jr. started the Thursday game at GB after Cooper Rush started Weeks 1 and 2; Tua Tagovailoa (oblique) is on the roster and did not start. [pod 9-28, official]
+- 2026-09-30: Michael Penix Jr. starts Week 4 at NO; Tua Tagovailoa is available as the backup and Cooper Rush is third (team depth chart).
 
 ## Backfield
 

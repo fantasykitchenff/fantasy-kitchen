@@ -58,3 +58,6 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Rule change: head coaches can designate someone else to throw the challenge flag, and scoring plays and turnovers are automatically reviewable. [8-20 buying or selling rookie hype]
 - 2026-08-26: The 2026 season starts a week later than usual but training camps were not moved back, making this the longest camp ever; teams have been resting older veterans more. [8-26 rankings and news updates]
 - 2026-08-26: Since 2019 at least four rookie WRs finished top-36 every season except 2025, when only two did. [8-26 myguys episode]
+- 2026-09-30: Week 4 has no byes; PIT at CLE Thursday 8:15 PM ET, IND at WAS in London 9:30 AM ET, DET at CAR Sunday night, ATL at NO Monday night; nine 1:00 PM games, one 4:05 and three 4:25 (schedule).
+- 2026-09-30: Through Week 3, most fantasy points allowed to running backs: CAR and MIA; fewest: MIN. Most to receivers: HOU; fewest: SEA, PIT, KC. Fewest to tight ends: SF, PHI. Most to quarterbacks: DET; fewest: KC (public points-allowed pages).
+

@@ -125,6 +125,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-10: Zay Flowers: Flowers has a quad contusion. [8-10 top 10 WR rankings]
 - 2026-08-12: Zay Flowers: Zay Flowers picked up a quad contusion (day-to-day) and returned to practice in a limited fashion. [8-12 130 training camp storylines and league updates]
 - 2026-08-26: Zay Flowers: Flowers did not practice Monday or Wednesday and was working on the side; the team has not disclosed what the issue is. [8-26 myguys episode]
+- 2026-09-30: Mark Andrews: hand injury in the second quarter in Brazil, returned, 33 of 64 snaps, 3 for 24 on 5 targets; no Week 4 designation reported as of 9/29 (reports).
 
 ## Other
 

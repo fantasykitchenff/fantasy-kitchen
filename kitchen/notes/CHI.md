@@ -40,6 +40,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Case Keenum: Started Week 3 vs PHI (Williams hamstring, Bagent concussion); 24 of 34, 247 yards, 2 TD passes and a QB sneak TD, no sacks, in a 27-7 win. Caleb Williams has a Grade 2 hamstring strain, 3 to 4 week timeline; Tyson Bagent the likely Week 4 starter vs NYJ (box score, ESPN).
 - 2026-09-29: Case Keenum: 24 of 34 for 247 yards, 2 TD and a 1-yard rushing TD in the 27-7 Week 3 win over PHI; Ben Johnson did not name a Week 4 starter and noted Tyson Bagent ended camp as the No. 2 (Sun-Times, SI).
 - 2026-09-28: Case Keenum: 24 of 34, 247, 2 TD, 0 INT and a rushing touchdown in the 27-7 win over PHI; Tyson Bagent had cleared concussion protocol but had too few practice reps to start. [pod 9-29, deployment]
+- 2026-09-30: Ben Johnson said Tyson Bagent starts vs NYJ if he gets a full week of practice; Keenum's Week 3 start does not change the depth chart (reports).
 
 ## Backfield
 

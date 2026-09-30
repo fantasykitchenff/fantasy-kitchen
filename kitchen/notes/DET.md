@@ -116,3 +116,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-18: The Lions went 9-8 in 2025 as the second-most injured team (most injured on defense); they have the easiest 2026 strength of schedule, including the Giants, Titans and Cardinals. [7-18 nfc north breakdown]
 - 2026-08-12: Detroit is favored in 14 of 17 games; Sean Tucker, Blake Corum, Croskey-Merritt, Chris Rodriguez and Rhamondre Stevenson all had more carries inside the 5 than Gibbs or Bijan Robinson in 2025. [8-12 top 10 rb rankings]
+- 2026-09-30: Defense allowed the most fantasy points to quarterbacks through two weeks: both opposing quarterbacks threw three touchdowns and combined for 700-plus passing yards (reports).
+

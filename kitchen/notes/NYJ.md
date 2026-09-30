@@ -126,6 +126,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Breece Hall: Hall was dealing with a groin issue as of Aug 21. His advanced rushing and evasion metrics rebounded last year; his receiving numbers were depressed playing with Justin Fields and Tyrod Taylor. [8-23 highstakes draft]
 - 2026-09-28: Breece Hall: Thigh/quad injury on a goal-line carry in Week 3 vs DET; MRI better than feared, week-to-week. Braelon Allen had 6 touches on the final two drives (CBS, reports).
 - 2026-09-25: Mason Taylor: thumb, out Week 3. Adonai Mitchell: finger caught in a jersey at Thursday practice, inactive at DET. Omar Cooper Jr.: IR, high ankle sprain (9/19). Arian Smith: out for the season (ACL). [pod 9-29, official]
+- 2026-09-30: Breece Hall: quad, week to week per Aaron Glenn, MRI showed nothing long-term; expected to miss Week 4 at CHI with Braelon Allen starting and Isaiah Davis next (ESPN, reports).
 
 ## Other
 

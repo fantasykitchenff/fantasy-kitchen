@@ -162,6 +162,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-11: J.K. Dobbins: Left practice with a trainer after getting hurt; Sean Payton said he will be fine and guaranteed he will not miss a game, and Dobbins was back on the field in pads the same day. [8-11 20-11 ranked RBs]
 - 2026-08-12: J.K. Dobbins: Dobbins returned to individual drills on Aug. 12. [8-12 top 10 rb rankings]
+- 2026-09-30: Marvin Mims Jr.: out for Week 4 at SF (reports).
 
 ## Other
 

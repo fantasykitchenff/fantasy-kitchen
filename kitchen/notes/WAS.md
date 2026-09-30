@@ -168,3 +168,6 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-23: Washington had nine starters miss 7+ games in 2025 (third-most adjusted games lost); Daniels and McLaurin played only about three games together. [7-23 nfc east breakdown]
 - 2026-08-04: Washington's defense projects poorly, which should mean negative game scripts and more passing. [8-4 ADP Risers and Fallers lately]
+- 2026-09-30: Week 4 vs IND is in London at 9:30 AM ET with WAS as the designated home team (schedule).
+- 2026-09-30: Defense has allowed the ninth-most fantasy points to wide receivers through Week 3 (reports).
+

@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-09-30T00:08:50Z",
+  "updatedAt": "2026-09-30T10:10:00Z",
   "pieces": [
+    {
+      "series": "menu",
+      "week": 4,
+      "path": "2026/week-04/menu.json",
+      "title": "The Menu, Week 4",
+      "dek": "Three starting quarterbacks and four lead backs are off the menu, and Jaylen Warren walks into the top 10 on Thursday night.",
+      "publishedAt": "2026-09-30T10:00:00Z",
+      "updatedAt": "2026-09-30T10:00:00Z"
+    },
     {
       "series": "notes",
       "week": 4,

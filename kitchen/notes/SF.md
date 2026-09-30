@@ -198,3 +198,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-04: The 49ers core is old and banged up: Evans 32-33 with soft-tissue issues, Kittle 33 off an Achilles, McCaffrey 30, Trent Williams among the oldest LTs, Kirk hurt; Stribling has also dealt with injury. [8-4 Training Camp News And Rankings]
 - 2026-08-06: The 49ers' offense is seen as the most fragile of the Shanahan era, reliant on old and injured players; Trent Williams is aging, and the line looks weak across the board. [8-6 1st round picks downsides]
 - 2026-08-12: The 49ers open against the Rams in Melbourne and will fly out eight days early; the Rams plan to fly in the day before. [8-12 Camp Updates Article]
+- 2026-09-30: Defense has allowed the fewest fantasy points to tight ends through Week 3 (reports).
+

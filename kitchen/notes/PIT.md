@@ -104,3 +104,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-07: Pittsburgh's 2026 first-place schedule includes games at New England and at Philadelphia plus Denver. [7-7 afc north breakdown]
 - 2026-08-12: Riley Nowakowski: Fifth-round rookie Riley Nowakowski is getting significant fullback reps and the staff keeps expanding his role. [8-12 Camp Updates Article]
+- 2026-09-30: Defense has allowed the second-fewest fantasy points to wide receivers through Week 3 (reports).
+

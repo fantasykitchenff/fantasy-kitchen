@@ -86,6 +86,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jordan Mason: Mason, a tackle-breaker who thrived in the 49ers' zone scheme, was cited at 10.5+ half-PPR points per game in 2025 games J.J. McCarthy did not start; he is viewed as the starter over an aging Aaron Jones. [8-24 adp adjustments]
 - 2026-09-29: Aaron Jones Sr.: 17 carries for 58 yards and 5 catches for 34 @TB in Week 3 (22 touches) after 23 carries in Week 2; Jordan Mason on IR (fractured thumb) and eligible to return in Week 7 (team site, reports).
 - 2026-09-27: Aaron Jones Sr. 17 for 58 and 5 catches for 34 (22 touches), 80% snaps; Jordan Mason on IR (thumb), eligible Week 7. [pod 9-28, deployment]
+- 2026-09-30: Aaron Jones Sr.: 78% of the team's rush attempts in the two games without Mason and a 24% target share in Week 3; working through a knee issue (reports).
 
 ## Receivers
 
@@ -136,3 +137,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-18: The Vikings went 9-8 in 2025 (4-8 then five straight wins, four with McCarthy), played the most games vs. winning teams, and ranked 26th in points and 28th in yards; schedule rated 17th toughest. [7-18 nfc north breakdown]
 - 2026-09-27: MIN 23, TB 16; the Vikings are 3-0. [pod 9-28, official]
+- 2026-09-30: Defense has allowed 14.2 fantasy points per game to running backs, the fewest in the league, with no rushing touchdown allowed through Week 3 (reports).
+
