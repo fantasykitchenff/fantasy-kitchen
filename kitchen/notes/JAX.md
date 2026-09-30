@@ -31,6 +31,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Trevor Lawrence: Lawrence gets the ball out quickly and Liam Coen's scheme helps the line, which is why the Jags won 13 games despite a weak line. [8-20 Offensive Line Rankings]
 - 2026-08-24: Trevor Lawrence: Set career highs in 2025 with 29 passing TDs and 9 rushing TDs and finished QB6 in points per game; the Jaguars went 13-4 and played with the lead at the third-highest rate, leaning on the run. [8-24 QB Rankings]
 - 2026-08-24: Trevor Lawrence: Enters year two of Liam Coen's offense; the team has been experimenting with the tush push in camp, and he posted the highest TD rate of his career and lowest INT rate since 2022 last year. [8-24 QB Rankings]
+- 2026-09-27: Trevor Lawrence: 19 of 29 for 182, 3 TD, 1 INT and 4 rushes for 25 vs NE; with about eight minutes left he took a knee at the 1 rather than score, and Tuten ran it in from the 1 on the next play. Lawrence called the kneel unnecessary. [pod 9-30, deployment]
 
 ## Backfield
 
@@ -80,6 +81,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Chris Rodriguez: Camp reporting has Rodriguez, Liam Coen's former Kentucky back, likely to out-carry Bhayshul Tuten early and to handle goal-line work; he has almost no receiving history. [8-23 highstakes draft]
 - 2026-08-24: Bhayshul Tuten: With Travis Etienne gone, Tuten and Chris Rodriguez are the goal-line candidates; Tuten had a strong receiving season as a junior at Virginia Tech. [8-24 QB Rankings]
 - 2026-09-27: Bhayshul Tuten 15 for 73 and a touchdown plus 2 catches for 17; Chris Rodriguez Jr. a 5-yard touchdown; JAX 35, NE 6. [pod 9-28, deployment]
+- 2026-09-27: Bhayshul Tuten: Between 48.4% and 50.0% of the snaps in each of the first three games; 43 carries for 204 and 2 TDs (15-66, 13-65-1, 15-73-1). Vs NE: 49% of snaps and 15 of 26 RB carries; Chris Rodriguez Jr. 24% and 8 for 37 with a 5-yard TD; LeQuint Allen 18% with all of the two-minute snaps; Ameer Abdullah 4 snaps. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -132,6 +134,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Parker Washington: Beat writers describe Washington as uncoverable in camp and the clear No. 1; he had a minor injury but is expected to be fine for Week 1. Travis Hunter will play mostly defense. [8-24 adp adjustments]
 - 2026-09-29: Brian Thomas Jr.: 1 target for 8 yards in Week 3 vs NE; 13 targets through three weeks to Parker Washington's 23, no TDs (box score, reports).
 - 2026-09-27: Brian Thomas Jr.: 23 snaps (37%), 1 target, 1 catch for 8; Josh Cameron also 23 snaps; Parker Washington and Jakobi Meyers 50 (81%); Liam Coen cited more 12 personnel and specific reps for Cameron; Thomas has 13 targets to Washington's 23. [pod 9-28, deployment]
+- 2026-09-27: Brian Thomas Jr.: Ran 13 to 15 routes (44 to 47% of dropbacks, depending on the charting source) on 23 snaps vs NE; he was on 76.7% of the 11-personnel snaps and off the field in 12 personnel. Season: 50 routes, 13 targets (3, 9, 1), 7 catches for 88, no TDs. [pod 9-29, deployment]
+- 2026-09-27: Jakobi Meyers: Targets 2, 1 and 8 in Weeks 1 to 3; 10 catches on 11 targets for 132 and 2 TDs; team-high 75 routes (Parker Washington 73 with 23 targets). Washington was 3 for 40 and a TD on 5 targets vs NE. [pod 9-29, deployment]
+- 2026-09-27: Travis Hunter: Played 5 offensive snaps with no target for a second straight game; 45 defensive snaps (71%) with his first career interception. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -153,6 +158,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-05: Travis Hunter: Liam Coen said Hunter will play only the F and X spots, does not need the whole playbook, and will be used in high-leverage spots: third downs, two-minute drill and red zone. The OC praised his route and system progress. [8-5 32 team update and breakdown]
 - 2026-08-23: Travis Hunter: Hunter is not expected to play anywhere near half of the Jaguars' offensive snaps early; his offensive role in Week 1 was seen as a wait-and-see item. [8-23 highstakes draft]
+- 2026-09-27: Josh Cameron: 23 snaps (equal to Thomas), 1 catch for 12 and a touchdown on 2 targets vs NE. [pod 9-29, deployment]
 
 ## Transactions and contracts
 
@@ -167,6 +173,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jakobi Meyers: Meyers, now a Jaguars receiver, was seen wearing a brace on his right hand during Friday's preseason game. [8-24 embarrased to love players]
 - 2026-08-24: Parker Washington: Washington returned to practice. [8-24 embarrased to love players]
 - 2026-08-26: Brian Thomas Jr.: Thomas returned to practice wearing a non-contact jersey after a shoulder injury. [8-26 myguys episode]
+- 2026-09-25: Jakobi Meyers: Off the final Week 3 injury report after a thumb listing (limited in practice before Week 2). [pod 9-29, official]
+- 2026-09-23: Brian Thomas Jr.: Off the injury report and a full participant before Week 3; the shoulder was aggravated in Week 1 and he was limited in practice before Week 2. [pod 9-29, official]
+- 2026-09-27: LeQuint Allen: Limited in practice all week before Week 3 with a hip injury; played 18% of the snaps. [pod 9-30, official]
 
 ## Other
 

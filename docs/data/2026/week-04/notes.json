@@ -6,12 +6,115 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-30T19:30:00Z",
+  "updatedAt": "2026-09-30T19:35:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Jayden Reed",
+        "action": "DROP",
+        "url": "",
+        "text": "Matt LaFleur said Wednesday that Jayden Reed (GB) will have neck surgery and miss the rest of 2026, and Reed went on injured reserve the same day. An IR slot buys nothing in a redraft league now, and nobody inherits his job: the third receiver vs ATL was a three-man rotation, Skyy Moore 27 routes, J. Michael Sturdivant 19 and Bo Melton 19 on 55 dropbacks. Drop Reed in every redraft format."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Nico Collins",
+        "action": "MONITOR",
+        "watch": "Thursday's practice and Friday's designation",
+        "url": "",
+        "text": "Nico Collins (HOU) practiced Wednesday as a limited participant, his first session since the hamstring strain that cost him Weeks 2 and 3, and DeMeco Ryans is hopeful he plays vs DAL. He stays WR15 on the Menu with the Q flag, and Dallas has allowed 7 passing touchdowns in three games. Monitor Collins; Thursday's practice and Friday's designation decide it."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "David Montgomery",
+        "action": "FLEX",
+        "url": "",
+        "text": "The Menu had David Montgomery (HOU) as an RB2 start off one game, 34 snaps to Woody Marks' 20 vs IND. Over three games the snaps are close to even: about level in Week 1, 42 to 38 in Week 2, then 34 to 20. Montgomery is at 2.8 yards a carry and has been hit at or behind the line on 68 percent of his runs, the highest rate in the league. Marks has more targets, 8 to 7. Both Menu lists now read the same. Flex Montgomery vs DAL; he is not an RB2 this week."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Woody Marks",
+        "action": "FLEX",
+        "url": "",
+        "text": "Woody Marks (HOU) has 8 targets and 50 routes in three games, and 37 percent of the snaps was Week 3 only; the split was about even in Week 1 and 42 to 38 in Week 2. His role grows when Houston trails, 6 targets in the 20-6 loss to CIN, and he took the goal-line score at IND. Flex him vs DAL in PPR."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Daniel Jones",
+        "action": "STREAM",
+        "url": "",
+        "text": "The Menu had Daniel Jones (IND) as a sit in London with Josh Downs and Tyler Warren as the whole tree. Keenan Allen had 9 targets too: Downs 11, Warren 10 and Allen 9 took 30 of the 36 attempts vs HOU. Washington has allowed 280.3 passing yards a game, 31st in the league, and a league-high 11 passing touchdowns in three games. Stream Jones vs WAS in London."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Brian Thomas Jr.",
+        "action": "SIT",
+        "url": "",
+        "text": "Brian Thomas Jr. (JAX) ran 13 to 15 routes vs NE, under half of the dropbacks, on 23 of 62 snaps; he was on the field for 77 percent of the three-receiver snaps and off it in two-tight-end sets. Rookie Josh Cameron matched his 23 snaps and scored. The Menu had Thomas as a flex while the Market Run and Heat Check said drop; the Menu row now reads sit. Sit him @CIN, and in 12-team leagues cut him for any add on the Market Run list."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Jake Ferguson",
+        "action": "SIT",
+        "url": "",
+        "text": "Jake Ferguson (DAL) is TE15 on the Menu and the row now reads sit instead of stream. His snap share went 76, 60 and 69 percent by week while Brevyn Spann-Ford went 22, 38 and 38, he is fifth on his own team with 11 targets, and he lost a fumble on the opening drive vs BAL. The 3 touchdowns are the whole line, and the Butcher Shop already has him as a sell. Sit him @HOU for any tight end with a steadier target share."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Javonte Williams",
+        "action": "START",
+        "slot": "RB2",
+        "url": "",
+        "text": "Javonte Williams (DAL) had 19 carries for 98 and a touchdown on 56 snaps, 76 percent, vs BAL, and the Menu row said every touch was his with Malik Davis hurt. Tyler Goodson made his Dallas debut as the No. 2 with 11 snaps and 6 carries for 22, and Emari Demercado did not play a snap. The role is the same; the name behind him changed. Start Williams as your RB2 @HOU."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Bo Nix",
+        "action": "STREAM",
+        "url": "",
+        "text": "The Menu's Bo Nix (DEN) note leaned on a rushing floor that has not shown up: 12 carries for 15 yards in three games, with one 1-yard touchdown vs LAR. San Francisco is without Nick Bosa and several defensive linemen, and Arizona ran 87 plays and scored 30 on that front in Week 3, so it is not the tough spot the note called it. Nix is 56 of 93 for 605 yards, 4 touchdowns and 3 interceptions. Stream him @SF."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Matthew Golden",
+        "action": "START",
+        "slot": "WR2",
+        "url": "",
+        "text": "The Menu's Matthew Golden (GB) row said Jayden Reed's absence gives him the routes. He already had them: an 83 percent route share, 25 percent of the targets and 40 percent of the air yards through three games, two of them with Reed active, for 15 catches, 253 yards and a touchdown. Vs ATL he ran 44 routes on 55 dropbacks and drew 12 targets. Start him as your WR2 @TB."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "C.J. Stroud",
+        "action": "STREAM",
+        "url": "",
+        "text": "C.J. Stroud (HOU) stays a streamer on the Menu, and the note is fixed. Nico Collins was limited Wednesday, his first practice since the hamstring. Dallas has allowed two or more passing touchdowns in all three games, 7 total, lost two defensive backs in Rio and left three more at home. Stroud went 16 of 27 for 167 and a touchdown at IND without Collins. Stream him vs DAL; he moves up the list if Collins is cleared Friday."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Keenan Allen",
+        "action": "CLAIM",
+        "faab": "3-6%",
+        "url": "",
+        "text": "Keenan Allen (IND) faces possible league discipline after a September charge from an August arrest; league policy carries a three-game minimum, none has been announced, the next court date is Oct 26 and he is eligible now. He has 20 targets on 75 routes, 26.7 percent, and took 9 of 36 attempts vs HOU. Claim him, 3 to 6 percent of FAAB, and know a ban could land in season."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Xavier Worthy",
+        "action": "DROP",
+        "url": "",
+        "text": "The Market Run said most of Xavier Worthy's (KC) snaps come without a route. Kansas City had 24 dropbacks on 49 plays @MIA, and his 19 routes are a 79 percent route share, level with Travis Kelce and one more than Rashee Rice. The routes are there; 63 yards on 15 targets in three games with no game above 25 is the problem. Drop him for Sadiq, Harris or Keenan Allen."
+      },
+      {
+        "at": "2026-09-30T19:35:00Z",
+        "player": "Kenneth Walker III",
+        "action": "START",
+        "slot": "RB1",
+        "url": "",
+        "text": "The Menu's Kenneth Walker III (KC) note counted three scores vs MIA. He scored twice: 18 for 70 and a rushing touchdown plus a 5-yard receiving touchdown, on 73 percent of the snaps with 18 of the 24 running back carries. Start him as your RB1 @LV."
+      },
       {
         "at": "2026-09-30T19:30:00Z",
         "text": "Ben Johnson said Tuesday that Tyson Bagent (CHI) starts vs NYJ if he gets a full week of first-team practice; Bagent missed the Week 3 start only because the concussion protocol cost him practice time, and no starter is officially named. Every Week 3 target share (Luther Burden III 32 percent, Kalif Raymond 21 percent) was built with Case Keenum. Leave both quarterbacks on waivers; monitor the first-team reps through Friday and the Friday designation.",
@@ -185,13 +288,6 @@
       },
       {
         "at": "2026-09-30T16:20:00Z",
-        "player": "Jayden Reed",
-        "action": "DROP",
-        "url": "https://www.cbssports.com/fantasy/football/news/packers-jayden-reed-headed-for-injured-reserve/",
-        "text": "The Packers are placing Jayden Reed (GB) on injured reserve Wednesday with the neck injury, per ESPN's Adam Schefter, and he is out indefinitely with no return date. That is at least four games, and Matt LaFleur would not say Tuesday whether Reed plays again this season. Drop him unless you have an IR slot."
-      },
-      {
-        "at": "2026-09-30T16:20:00Z",
         "player": "Jalen McMillan",
         "action": "DROP",
         "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-sept-30",
@@ -254,13 +350,6 @@
       },
       {
         "at": "2026-09-29T23:20:00Z",
-        "player": "Jayden Reed",
-        "action": "DROP",
-        "url": "https://sports.yahoo.com/nfl/breaking-news/article/packers-wr-jayden-reed-doing-ok-but-too-early-to-tell-if-hell-play-again-this-season-rt-zach-bako-bewele-out-for-season-with-knee-injury-212736159.html",
-        "text": "Matt LaFleur said Tuesday that Jayden Reed (GB) has a neck injury, that he is doing OK, and that it is too early to say whether he plays again this season. Green Bay has not put him on IR and gave no timeline. Drop him in 12-team leagues; keep him only if you have an open IR slot."
-      },
-      {
-        "at": "2026-09-29T23:20:00Z",
         "player": "Odell Beckham Jr.",
         "action": "DROP",
         "url": "https://www.nfl.com/news/giants-to-release-veteran-wr-odell-beckham-jr-after-three-games",
@@ -288,14 +377,6 @@
         "watch": "Wednesday practice; a full session is the tell",
         "url": "https://www.espn.com/nfl/story/_/id/50028567/rams-targeting-week-4-return-wr-puka-nacua",
         "text": "Sean McVay says he is hopeful Puka Nacua (LAR) plays at PHI after two missed games with groin soreness, and calls it to be determined. Terrance Ferguson and Jaylen Watson are likely out and Colby Parkinson's shoulder is undecided. Monitor Wednesday's practice; a full session is the tell."
-      },
-      {
-        "at": "2026-09-29T23:20:00Z",
-        "player": "Nico Collins",
-        "action": "MONITOR",
-        "watch": "Wednesday practice; he needs at least a limited session by Friday",
-        "url": "https://athlonsports.com/nfl/houston-texans/nico-collins-hamstring-update-texans-week-four",
-        "text": "DeMeco Ryans says he is hopeful Nico Collins (HOU) returns vs DAL after two missed games with a grade 1 hamstring strain. Collins has not practiced since the injury. Monitor Wednesday's practice; he needs at least a limited session by Friday to play."
       },
       {
         "at": "2026-09-29T23:20:00Z",
@@ -354,22 +435,6 @@
         "player": "Rashee Rice",
         "action": "TRADE_FOR",
         "price": "a WR3 and a bench RB"
-      },
-      {
-        "at": "2026-09-29T15:00:00Z",
-        "text": "Dallas Goedert (PHI) missed Week 3 with a sprained MCL and is week to week. The Eagles are not expected to put him on IR, so a return vs LAR is possible.",
-        "url": "https://athlonsports.com/nfl/philadelphia-eagles/dallas-goedert-receives-ir-list-update-after-knee-injury",
-        "player": "Dallas Goedert",
-        "action": "MONITOR",
-        "watch": "Wednesday practice report"
-      },
-      {
-        "at": "2026-09-29T03:40:00Z",
-        "text": "Ben Johnson did not name a Week 4 starter after Case Keenum went 24 of 34 for 247 yards, two touchdowns and a rushing score in the 27-7 win over PHI. Johnson pointed out that Tyson Bagent ended camp as the No. 2, so Bagent is still in play vs NYJ with Caleb Williams out three to four weeks.",
-        "url": "https://chicago.suntimes.com/bears/2026/09/28/bears-coach-ben-johnson-leaves-qb-options-open-as-he-weighs-starting-case-keenum-or-tyson-bagent-vs-jets",
-        "player": "Case Keenum",
-        "action": "MONITOR",
-        "watch": "who takes first-team reps at Wednesday practice"
       },
       {
         "at": "2026-09-29T03:35:00Z",

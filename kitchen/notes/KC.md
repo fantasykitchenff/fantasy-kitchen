@@ -34,6 +34,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Patrick Mahomes: A career-high 22% of his 2025 fantasy production came via rushing (prior high 12.9%), while he posted career lows in completion rate (62.7%), adjusted completion rate, on-target rate and PFF pass grade. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-15: Patrick Mahomes: Was on pace for a career-high rush attempts per game before his ACL tear; he shed his knee brace at OTAs, is expected ready for Week 1 and says he will run less. Kenneth Walker was added partly to ease his rushing load. [8-15 talk with injury expert]
 - 2026-08-18: Patrick Mahomes: Healthy and back at practice after his late-2025 ACL tear. [8-18 sleeper picks]
+- 2026-09-27: Patrick Mahomes: 20 of 24 for 246, 2 TD, 1 INT at MIA on 24 dropbacks out of 49 plays. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -108,6 +109,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Xavier Worthy: Led KC receivers with 43 snaps in Week 3 but ran 19 routes and drew 2 targets (usage reports).
 - 2026-09-29: Rashee Rice: targets 2, 6 and 9 in Weeks 1 to 3; 7 of 9 for 88, team highs, in Week 3 @MIA; target share 9.5 percent through two games, 18.7 percent in Week 3 (reports).
 - 2026-09-27: Rashee Rice: 9 of 22 team targets (41%), 7 for 88; season targets 2, 6, 9 (17 of 91, 18.7%). The 18.7% is the three-game share, not the Week 3 share. [pod 9-28, deployment]
+- 2026-09-27: Xavier Worthy: 10 catches for 63 yards and 1 TD on 15 targets through three games (18, 25 and 20 yards); in Week 3 he ran 19 routes on Kansas City's 24 dropbacks (79%), level with Kelce, and drew 2 targets. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -115,12 +117,14 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Travis Kelce: Kelce (37 in Oct) saw red-zone targets fall from 26 to 11; in 2025 he ranked 20th in YPA, 22nd in success rate and 32nd in inaccurate-target rate among TEs, with 41% of routes short; PPG went 15, 11, 9, 9.1. [8-5 ice and fire show]
 - 2026-08-14: Travis Kelce: Averaged a career-low 1.47 yards per route in 2025, though that still ranked 22nd among 49 qualifying tight ends. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-09-27: Travis Kelce: 18 targets, 14-231-2 through three games (19.8% of team targets). [pod 9-29, deployment]
+- 2026-09-27: Travis Kelce: Week 3 at MIA: 2 targets, 2 catches, 59 yards, 1 TD on 38 snaps (78%) and 19 routes (79%); a 48-yard catch on the opening play and an 11-yard touchdown with 2:55 left. His 18 season targets split 16 in Weeks 1-2 and 2 in Week 3. [pod 9-29, deployment]
 
 ## Offensive line
 
 - 2026-07-28: Both Chiefs offensive tackles are viewed as boom-or-bust entering 2026. [7-28 10 ADP Debate Session]
 - 2026-08-19: The Chiefs' offensive line is viewed as a top-10 unit entering 2026. [8-19 RBs drafting and fading]
 - 2026-08-20: Losing Jawaan Taylor (frequent false starts) is addition by subtraction; Trey Smith, C Creed Humphrey (viewed as the best center in the league) and second-year LT Josh Simmons anchor a top-10 line. [8-20 Offensive Line Rankings]
+- 2026-09-30: Josh Simmons: Andy Reid said the left tackle has a bulging disc in his lower back and would not practice Wednesday; he is not on IR and an undrafted rookie continues to start at left tackle. Simmons was also a non-participant (back) on the Week 3 Wednesday report. Every other player on the 53 was due to practice in some capacity. [pod 9-30, coach]
 
 ## Depth chart
 
@@ -155,6 +159,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Tyquan Thornton: Carted off practice with a hamstring injury on Aug. 18. [8-18 sleeper picks]
 - 2026-08-20: Kenneth Walker: Has a history of core surgery and, as a high-touch back, carries injury risk; Emmett Johnson would reportedly be the first back up if he missed time. [8-20 buying or selling rookie hype]
 - 2026-08-26: Kenneth Walker III: Walker did not practice Tuesday and was shut down with what was called a minor foot injury. [8-26 myguys episode]
+- 2026-09-27: Xavier Worthy: Seen limping off at MIA; Andy Reid said after the game there were no injuries to report. [pod 9-30, coach]
 
 ## Other
 
@@ -164,4 +169,3 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-09: Chiefs finished 15th, 15th and 21st in points the last three seasons and 16th and 20th in yards the last two; Travis Kelce is becoming a catch-and-fall player. [8-9 QB preview]
 - 2026-08-20: Kenneth Walker: In 2025 with Seattle he finished RB22 in total half-PPR points and RB29 in points per game, a relative disappointment despite the Super Bowl run. [8-20 buying or selling rookie hype]
 - 2026-09-30: Defense has allowed the fewest fantasy points to quarterbacks and the third-fewest to wide receivers through Week 3 (reports).
-

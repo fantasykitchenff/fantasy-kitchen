@@ -14,6 +14,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: The Packers played more up-tempo in the preseason and are expected to use more 11 personnel in 2026, which would add snaps for Jayden Reed, Christian Watson and Matthew Golden. [8-18 WR targets and avoids]
 - 2026-08-26: With a thin tight end room and Dontayvion Wicks and Romeo Doubs gone, the Packers are expected to run a very high rate of three-receiver sets with little rotation among Reed, Watson and Golden. [8-26 rankings and news updates]
 - 2026-08-26: Camp talk has the Packers more balanced, playing more under center with more play action than in recent seasons; they ranked 28th in pass rate in 2025. [8-26 myguys episode]
+- 2026-09-24: Green Bay Packers: 55 dropbacks on 63 plays vs ATL, 10.8% over the expected pass rate; Love 28 of 53 for 312, 2 TD, 1 INT; 124 attempts through three games. [pod 9-29, deployment]
 
 ## Quarterback
 
@@ -100,6 +101,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Christian Watson: Watson will play the Z role and be used in motion; the room is consolidated with Watson and Matthew Golden starting and Jayden Reed in the slot after Romeo Doubs and Dontayvion Wicks departed. [8-26 myguys episode]
 - 2026-08-26: Christian Watson: From Week 11 on in 2025 Watson was the WR11, 2nd in yards per route run (behind Luther Burden), tied for 3rd in targets per route run and 1st in first downs per route run. [8-26 myguys episode]
 - 2026-08-26: Christian Watson: Watson's horizontal-breaking out routes rose from 7.7% of routes in 2022-24 to 35% in 2025, a real change in how the Packers used him. [8-26 myguys episode]
+- 2026-09-24: Matthew Golden / Christian Watson: Through three games Golden has an 83% route share, 25% of the targets and 40% of the air yards (15 catches, 253 yards, 1 TD); Watson 80%, 24% and 29% (17 catches, 284 yards, 4 TD, a score in every game). Vs ATL each ran 44 routes on 55 dropbacks; Golden 5-100-1 on 12 targets, Watson 7-96-1 on 10. [pod 9-29, deployment]
+- 2026-09-24: Skyy Moore: Third-receiver routes vs ATL: Skyy Moore 27 (32 snaps, 7 targets, 3-31), J. Michael Sturdivant 19 (3-22 on 3 targets), Bo Melton 19 (1 target, no catch); Jonnu Smith 15 routes, 2-16. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -130,6 +133,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-07: Center Sean Rhyan ranked 19th among centers as a run blocker in 2025, and the right tackle was Green Bay's only above-average run blocker. [8-7 RB to possibly fade]
 - 2026-08-20: Green Bay's line is viewed as bottom-five: Zach Tom is the only good lineman and is coming off a patella tear; the disappointing Jordan Morgan is moving to LT. [8-20 Offensive Line Rankings]
 - 2026-09-21: The right tackle carted off in Week 2 is out long-term per LaFleur, with Anthony Belton starting; Zach Tom is not on the injury report (his 2025 patellar injury was Week 15). [pod 9-28, official]
+- 2026-09-24: Packers offensive line: Allowed 28 pressures vs ATL with Morgan, Burton, Rhyan, Monk and Belton; RG Jacob Monk left hurt after 59 of 66 snaps. Kevin Zeitler signed a one-year deal on 9/30. [pod 9-29, deployment]
 
 ## Depth chart
 
@@ -171,9 +175,11 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Jayden Reed: Matt LaFleur confirmed a neck injury (not back), said Reed is 'doing OK' and that it is too early to tell whether he plays again this season; not on IR yet, no timeline. RT Zach Bako-Bewele out for the season (knee) (reports).
 - 2026-09-30: Jayden Reed: the Packers are placing him on IR Wednesday with the neck injury, out indefinitely, no return date (Schefter, reports).
 - 2026-09-30: Jayden Reed: placed on injured reserve Wednesday (neck); out at least four games, no word on a return this season. G Kevin Zeitler signed the same day (reports).
+- 2026-09-30: Jayden Reed: Matt LaFleur said Reed will have neck surgery and miss the rest of the 2026 season; he went on injured reserve the same day. [pod 9-29, coach]
 
 ## Other
 
 - 2026-07-18: Green Bay was 9-4-1 before Jordan Love's Week 16 concussion and the Micah Parsons injury; Parsons is expected to start 2026 on PUP and take his time. Their schedule is rated 14th toughest. [7-18 nfc north breakdown]
 - 2026-07-18: Green Bay opens at Minnesota, at the Jets, then Atlanta, Tampa Bay, Chicago and Dallas. [7-18 nfc north breakdown]
 - 2026-08-11: Micah Parsons is expected to miss about the first month of the season, which could push the Packers toward more passing early. [8-11 Fav Pick in each round]
+- 2026-09-24: Packers defense: Atlanta's backs ran for 244 yards and 3 TD at Lambeau: Bijan Robinson 194 and 2 TD, Brian Robinson Jr. 10 for 50 and a TD. Micah Parsons is on PUP and first eligible in Week 5 vs CHI. [pod 9-29, deployment]

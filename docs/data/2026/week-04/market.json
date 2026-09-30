@@ -6,9 +6,9 @@
   "dek": "Ollie Gordon II is the only Miami back standing after Achane's ACL, and he is the first name on this week's list.",
   "format": "PPR",
   "publishedAt": "2026-09-29T14:20:00Z",
-  "updatedAt": "2026-09-30T19:30:00Z",
+  "updatedAt": "2026-09-30T19:35:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 3:30 PM ET: the Monday night quarterback note now carries Ben Johnson's stated plan, Tyson Bagent starts vs NYJ if he practices all week; nothing else changed.\n\nUpdated Tue 7:05 PM ET: Roman Wilson comes off the adds list after PIT benched him for the second half vs CIN, 2 snaps after halftime; monitor his first-half snap share vs CLE Thursday before you spend. Etienne's carry line is now 13 for 57, Gordon's relief snap share is stated as 84 percent, Wright's status and Sadiq's context are updated, and the Monday night quarterback note says Chicago has not named a starter.\n\nWeek 3 broke three backfields. De'Von Achane is done for the year, Travis Etienne Jr. is out for Week 4 and longer, and Breece Hall is week to week. That puts the running backs at the top of the shop, with a rookie tight end right behind them.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
+  "intro_md": "Updated Wed 3:35 PM ET: Keenan Allen's card carries the league-discipline flag (three-game minimum under policy, nothing announced, court date Oct 26; the 3 to 6 percent claim stands), and Xavier Worthy's drop reason is corrected: he ran a 79 percent route share @MIA, the problem is 63 yards on 15 targets.\n\nUpdated Wed 3:30 PM ET: the Monday night quarterback note now carries Ben Johnson's stated plan, Tyson Bagent starts vs NYJ if he practices all week; nothing else changed.\n\nUpdated Tue 7:05 PM ET: Roman Wilson comes off the adds list after PIT benched him for the second half vs CIN, 2 snaps after halftime; monitor his first-half snap share vs CLE Thursday before you spend. Etienne's carry line is now 13 for 57, Gordon's relief snap share is stated as 84 percent, Wright's status and Sadiq's context are updated, and the Monday night quarterback note says Chicago has not named a starter.\n\nWeek 3 broke three backfields. De'Von Achane is done for the year, Travis Etienne Jr. is out for Week 4 and longer, and Breece Hall is week to week. That puts the running backs at the top of the shop, with a rookie tight end right behind them.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
   "outro_md": "The Menu lands Wednesday with every one of these players ranked. Claims first, lineups after.",
   "data": {
     "adds": [
@@ -75,8 +75,8 @@
         "action": "CLAIM",
         "faab": "3-6%",
         "rostered": "",
-        "why": "Allen caught 6 of 9 targets for 63 yards and a touchdown vs HOU with Alec Pierce out with a heel injury. That is 20 targets in three games, and it tilts toward him every week Pierce sits.",
-        "verdict": "Claim him, 3 to 6 percent of FAAB. A PPR flex while Pierce is out."
+        "why": "Allen caught 6 of 9 targets for 63 yards and a touchdown vs HOU with Alec Pierce on IR, and he has 20 targets on 75 routes in three games, 26.7 percent, in a three-man tree that took 30 of 36 attempts. One flag: he faces possible league discipline after a September charge, with a three-game minimum under league policy, none announced, and a court date on Oct 26.",
+        "verdict": "Claim him, 3 to 6 percent of FAAB. A PPR flex while Pierce is out, and monitor the Oct 26 court date."
       },
       {
         "priority": 7,
@@ -152,7 +152,7 @@
         "team": "KC",
         "pos": "WR",
         "action": "DROP",
-        "why": "Worthy led KC receivers with 43 snaps but ran only 19 routes and drew 2 targets. Most of his snaps come without a route.",
+        "why": "Worthy ran 19 routes on 24 dropbacks @MIA, a 79 percent route share level with Travis Kelce and one more than Rashee Rice, and drew 2 targets. The routes are there; the production is not: 63 yards on 15 targets in three games with no game above 25.",
         "verdict": "Cut him for Sadiq, Harris or Keenan Allen."
       },
       {
