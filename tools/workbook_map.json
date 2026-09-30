@@ -51,10 +51,10 @@
   },
   "season_games": 17,
   "owner_rankings": {
-    "_comment": "The owner's own weekly rankings, one overall superflex PPR list with RK, PLAYER NAME, TEAM, POS (position plus rank within it) and OPP. Read with tools/owner_rankings.py extract, blended with the projections by tools/owner_rankings.py blend at this weight (owner share of the blended value). Series that load the model order by the blended value when a file for the week exists.",
+    "_comment": "The owner's own weekly rankings, one overall superflex PPR list with RK, PLAYER NAME, TEAM, POS (position plus rank within it) and OPP. Read with tools/owner_rankings.py extract, blended with the projections by tools/owner_rankings.py blend at this weight (owner share of the blended value). Series that load the model order by the blended value when a file for the week exists. The owner set 0.8 on 2026-09-30: the owner's list carries most of the order until the kitchen's notes cover essentially every player; lower it as the notes fill in, with the owner's say-so.",
     "folder": "owner_rankings",
     "file_pattern": "*_FK_Rankings.xlsx",
-    "weight": 0.5,
+    "weight": 0.8,
     "columns": {
       "rank": "RK",
       "player": "PLAYER NAME",
