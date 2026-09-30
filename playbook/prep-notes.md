@@ -1,6 +1,6 @@
 # Prep Notes (Friday): the injury report, read for lineups, and the Menu refresh
 
-Runs Friday 5:45 PM ET. Posts at 6:25 PM ET. Week = current content week.
+Runs Friday 5:45 PM ET, after the 4:00 PM pantry and the final injury report. Posts at 6:25 PM ET. Week = current content week.
 
 ## What it is
 

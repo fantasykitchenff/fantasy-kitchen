@@ -1,6 +1,6 @@
 # Market Run (Tuesday): the waiver wire, plus what Monday night changed
 
-Runs Tuesday 5:15 AM ET. Posts at 10:25 AM ET. Week = current content week (the coming week; on Tuesday `fk.py week` already returns it).
+Runs Tuesday 11:15 AM ET, after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = current content week (the coming week; on Tuesday `fk.py week` already returns it).
 
 ## What it is
 
@@ -46,7 +46,7 @@ Envelope: `title` "Market Run, Week N", `dek` the top add and why in one sentenc
 
 ## Posts
 
-One thread, 7 to 10 posts, `--at "Tue 10:20"`, `--not-after "Wed 08:00"`, `--link "market.html?week=N"`:
+One thread, 7 to 10 posts, `--at "Tue 13:20"`, `--not-after "Wed 12:00"`, `--link "market.html?week=N"`:
 
 1. Hook: the number one add and the FAAB range. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
 2. Adds 1 to 3, one line each: name, team, position, the deployment number, then the action with the FAAB range ("Claim, 25 to 35%").

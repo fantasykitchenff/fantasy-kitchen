@@ -36,6 +36,33 @@ In a Cowork task (the poster, FK Order Up):
 1. `git clone --depth 20 --branch claude/kitchen https://github.com/OWNER/fantasy-kitchen.git "$SCRATCH/fk"` (public, no credentials needed) and `cd "$SCRATCH/fk"`. Do not clone the model repo; it is private and these tasks do not need it.
 2. The checkout is read-only scratch. Tools like `queue expire` may change files locally, but nothing is committed or pushed from a Cowork task; the ledger is how its results reach the repo.
 
+## The day's clock
+
+Nothing runs before 10:00 AM ET. The pantry reads the owner's saved podcast transcripts on the owner's computer, so it cannot run until the machine is on, and every other run is timed off it. All times Eastern.
+
+| Time | Run | Where |
+|---|---|---|
+| 10:00 AM | Pantry 1 (`job: pantry` to FK Kitchen when it has new lines) | owner's computer |
+| 10:25 AM | Poster | owner's computer |
+| 11:15 AM | The day's series: Leftovers Mon, Market Run Tue, Menu Wed, On the Line Thu | FK Kitchen |
+| 11:36 AM | Order Up, first run (Sunday) | FK Kitchen and owner's computer |
+| 12:12 PM | Kitchen Notes, news run | FK Kitchen |
+| 1:00 PM | Pantry 2 | owner's computer |
+| 1:25 PM | Poster, with reply mode | owner's computer |
+| 2:15 PM | Butcher Shop and Heat Check (Tuesday) | FK Kitchen |
+| 3:36 PM | Order Up, second run (Sunday) | FK Kitchen and owner's computer |
+| 4:00 PM | Pantry 3 | owner's computer |
+| 5:45 PM | Prep Notes (Friday) | FK Kitchen |
+| 6:25 PM | Poster | owner's computer |
+| 7:00 PM | Pantry 4 | owner's computer |
+| 7:12 PM | Kitchen Notes, news run | FK Kitchen |
+| 8:25 PM | Poster, with reply mode | owner's computer |
+| 10:00 PM | Pantry 5, only when the machine is still on | owner's computer |
+
+A series runs 75 minutes after a pantry so that step 4a finds the payload filed; today's filings took under ten minutes each once the payload arrived. If the pantry takes longer than an hour on the owner's machine, move the series to 11:45 AM rather than the pantry earlier.
+
+A pantry filing does not end with the notes and the pantry page. After filing and fixing the published calls the facts make wrong, FK Kitchen runs the Kitchen Notes method over the payload (`kitchen-notes.md`), so a new call reaches the site within the hour instead of waiting for the weekly piece: every ripple, crowd line or fact that changes a lineup, waiver or trade decision and is not yet an item becomes an item in this week's `notes.json` with `player`, `action` and the action's required field. The usage numbers must back it and the text says so; a crowd lean alone never makes an item; no show or analyst is named; a thread is queued only under the Kitchen Notes rules. The log line then carries "d notes items" before the threads count.
+
 ## Step 2. Know what week it is
 
 `python3 tools/fk.py week` prints the content week (Tuesday through Monday cycle, Eastern time) and the dates of its Tuesday, Thursday, Sunday and Monday. On Monday it still returns the week that just finished, which is what Leftovers wants. Never hardcode a week number. `python3 tools/fk.py when "Wed 10:20"` converts a weekday and Eastern time inside the content week to the UTC timestamp the queue uses; `now` and `+6h` work too.
@@ -103,7 +130,7 @@ Write each post or thread as a queue item with the tool so ids, timing and valid
 
 ```
 python3 tools/fk.py queue add --series menu --week 4 --kind thread \
-  --at "Wed 10:20" --not-after "Thu 18:00" \
+  --at "Wed 13:20" --not-after "Thu 18:00" \
   --link "menu.html?week=4" --texts-file "$SCRATCH/menu-thread.json"
 ```
 

@@ -1,6 +1,6 @@
 # On the Line (Thursday): start, sit, coin flips, Thursday night
 
-Runs Thursday 7:52 AM ET. Posts at 10:25 AM ET. Week = current content week.
+Runs Thursday 11:15 AM ET, after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = current content week.
 
 ## What it is
 
@@ -42,7 +42,7 @@ Envelope: `title` "On the Line, Week N", `dek` one sentence with the boldest cal
 
 ## Posts
 
-One thread, 6 to 8 posts, `--at "Thu 10:20"`, `--not-after "Sun 11:00"`, `--link "line.html?week=N"`:
+One thread, 6 to 8 posts, `--at "Thu 13:20"`, `--not-after "Sun 11:00"`, `--link "line.html?week=N"`:
 
 1. Hook: the boldest start and the boldest sit, one number each. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
 2. Thursday night calls.

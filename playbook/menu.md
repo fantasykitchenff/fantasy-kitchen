@@ -1,6 +1,6 @@
 # The Menu (Wednesday): weekly positional rankings with tiers
 
-Runs Wednesday 5:52 AM ET. Posts at 10:25 AM ET. Week = current content week (`python3 tools/fk.py week`).
+Runs Wednesday 11:15 AM ET, after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = current content week (`python3 tools/fk.py week`).
 
 ## What it is
 
@@ -54,7 +54,7 @@ Envelope: `title` "The Menu, Week N", `dek` one sentence with the week's biggest
 
 ## Posts
 
-One thread, 7 to 9 posts, `--at "Wed 10:20"`, `--not-after "Thu 18:00"`, `--link "menu.html?week=N"`:
+One thread, 7 to 9 posts, `--at "Wed 13:20"`, `--not-after "Thu 18:00"`, `--link "menu.html?week=N"`:
 
 1. Hook: the one thing that changed this week and the headline verdict. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
 2. QB: tier 1 and tier 2 names in a compact list, one sentence on the biggest mover.

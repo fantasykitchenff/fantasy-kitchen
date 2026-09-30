@@ -1,6 +1,6 @@
 # Butcher Shop and Heat Check (Tuesday afternoon): trade for, trade away, risers, fallers
 
-Runs Tuesday 12:52 PM ET. Posts at 1:25 PM ET. Two pieces from one run: `butcher.json` and `heat.json`. Week = current content week.
+Runs Tuesday 2:15 PM ET, after the 1:00 PM pantry. Posts at 6:25 PM ET. Two pieces from one run: `butcher.json` and `heat.json`. Week = current content week.
 
 ## What they are
 
@@ -49,11 +49,11 @@ Envelopes: `title` "Butcher Shop, Week N" and "Heat Check, Week N"; `dek` one se
 
 ## Posts
 
-Two threads, both `--not-after "Wed 08:00"`. Each hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.
+Two threads, both `--not-after "Wed 12:00"`. Each hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.
 
-Butcher Shop thread, 6 to 8 posts, `--at "Tue 13:20"`, `--link "butcher.html?week=N"`: hook (best buy, one number), buys in two posts, sells in two posts, the one trade to make today, close plus link.
+Butcher Shop thread, 6 to 8 posts, `--at "Tue 18:20"`, `--link "butcher.html?week=N"`: hook (best buy, one number), buys in two posts, sells in two posts, the one trade to make today, close plus link.
 
-Heat Check thread, 5 to 7 posts, `--at "Tue 13:22"`, `--link "heat.html?week=N"`: hook (biggest riser and the number), risers in two posts (name, the stat, verdict), fallers in two posts, close plus link.
+Heat Check thread, 5 to 7 posts, `--at "Tue 18:22"`, `--link "heat.html?week=N"`: hook (biggest riser and the number), risers in two posts (name, the stat, verdict), fallers in two posts, close plus link.
 
 ## Finish
 

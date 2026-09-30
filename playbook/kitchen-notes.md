@@ -1,6 +1,6 @@
 # Kitchen Notes (daily): news reactions
 
-Runs every day at 12:12 PM and 7:12 PM ET. Posts go out on the next poster run (1:25 PM and 8:25 PM ET). Week = current content week.
+Runs every day at 12:12 PM and 7:12 PM ET. Posts go out on the next poster run (1:25 PM and 8:25 PM ET). Week = current content week. The same method also runs as the last step of every pantry filing (`_sync.md`, "The day's clock"), with the payload as its news: every ripple, crowd line or fact that changes a lineup, waiver or trade decision and is not yet an item becomes an item, backed by the usage numbers (a crowd lean alone never makes one), with no show or analyst named.
 
 ## What it is
 
