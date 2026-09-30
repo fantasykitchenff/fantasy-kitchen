@@ -50,6 +50,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: J.J. McCarthy: Lost the starting job to Murray and could be traded; Carson Wentz and Max Brosmer are also on the roster. [8-24 QB Rankings]
 - 2026-08-24: Kyler Murray: Named the Week 1 starter several weeks before the preseason began, reportedly so he gets all the first-team reps; he has not lit up camp. He was terrible in 2025 and is a few years removed from an ACL. [8-24 QB Rankings]
 - 2026-08-24: Kyler Murray: Camp reports on Kyler Murray were not glowing; he was viewed as winning the job mainly by outplaying McCarthy, and observers note he became more skittish in the pocket after his knee injury in Arizona. [8-24 adp adjustments]
+- 2026-09-27: Kyler Murray: 15 of 29 for 168 yards, 1 TD, 1 INT, sacked 3 times, 2 carries for 17 in the 23-16 win at TB, his first full game as a Viking; the offense scored one touchdown. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -134,9 +135,12 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: J.J. McCarthy: Traded to NYG for a 2027 fifth-round pick (team site).
 - 2026-09-28: J.J. McCarthy traded to NYG for a 2027 fifth-round pick, pending a physical; Kyler Murray starts, Carson Wentz is the No. 2. [pod 9-28, official]
 
+## Injuries and status
+- 2026-09-30: Justin Jefferson: Day to day with the ankle sprain and did not practice Wednesday, per Adam Schefter. [pod 9-29, beat]
+
 ## Other
 
 - 2026-07-18: The Vikings went 9-8 in 2025 (4-8 then five straight wins, four with McCarthy), played the most games vs. winning teams, and ranked 26th in points and 28th in yards; schedule rated 17th toughest. [7-18 nfc north breakdown]
 - 2026-09-27: MIN 23, TB 16; the Vikings are 3-0. [pod 9-28, official]
 - 2026-09-30: Defense has allowed 14.2 fantasy points per game to running backs, the fewest in the league, with no rushing touchdown allowed through Week 3 (reports).
-
+- 2026-09-27: Will Reichard: Four field goals at TB including a 56-yarder late in the fourth quarter; Myles Price returned a punt 86 yards for a touchdown. [pod 9-29, deployment]

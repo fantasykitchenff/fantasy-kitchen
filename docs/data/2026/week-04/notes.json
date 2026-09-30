@@ -6,12 +6,80 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-30T19:40:00Z",
+  "updatedAt": "2026-09-30T19:45:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Drake Maye",
+        "action": "SIT",
+        "text": "Drake Maye (NE) has 1 touchdown pass, 6 interceptions and 9 sacks in three games and has not reached 13 fantasy points in any of them, behind a line that let him get pressured on 43.5 percent of dropbacks entering Week 3. He was asked twice about his right shoulder and said there is no problem; Mike Vrabel knows of no lingering injury and the team has not listed him. Keeping the job is a reason to hold him in 12-team leagues, not to start him. Sit him at BUF.",
+        "at": "2026-09-30T19:45:00Z",
+        "url": ""
+      },
+      {
+        "player": "TreVeyon Henderson",
+        "action": "SIT",
+        "text": "At JAX the early downs were an even split, and Rhamondre Stevenson, not TreVeyon Henderson (NE), took most of the passing-situation and short-yardage snaps: 33 snaps to 23 and 3 catches to 1. The passing-down case for Henderson does not hold this week. Sit him at BUF; Stevenson stays a RB2.",
+        "at": "2026-09-30T19:45:00Z",
+        "url": ""
+      },
+      {
+        "player": "Romeo Doubs",
+        "action": "FLEX",
+        "text": "Mack Hollins drew 9 targets (6 for 87) at JAX to Romeo Doubs' 4 (3 for 49) and led the New England receivers in snaps, so Hollins is the A.J. Brown pivot on the Menu and Doubs (NE) comes down from a WR3. Doubs has 6 catches for 145 in the two games without Brown, 3 catches in each. Flex Doubs; do not start him as a WR3.",
+        "at": "2026-09-30T19:45:00Z",
+        "url": ""
+      },
+      {
+        "player": "Mack Hollins",
+        "action": "ADD",
+        "faab": "2-5%",
+        "text": "Mack Hollins (NE) played 76 percent of the snaps at JAX, the most of any Patriots receiver, and drew 9 targets on 38 dropbacks, 6 catches for 87 yards. A.J. Brown is on IR until about Week 7, so the targets stay open. Add him, 2 to 5 percent of FAAB, and flex him at BUF.",
+        "at": "2026-09-30T19:45:00Z",
+        "url": ""
+      },
+      {
+        "player": "Kyler Murray",
+        "action": "SIT",
+        "text": "Justin Jefferson did not practice Wednesday, and Kyler Murray (MIN) went 15 of 29 for 168 yards with 3 sacks at TB in an offense that scored one touchdown; the defense and special teams won the game. He comes off the Menu's stream line. Sit him vs MIA unless Jefferson practices by Friday.",
+        "at": "2026-09-30T19:45:00Z",
+        "url": ""
+      },
+      {
+        "player": "Justin Jefferson",
+        "action": "MONITOR",
+        "watch": "Thursday and Friday practice and the Friday designation",
+        "text": "Justin Jefferson (MIN) is day to day with the ankle sprain and did not practice Wednesday. When he left at TB the targets went to Jordan Addison first, 9 targets for 5 catches, 90 yards and a touchdown; Jauan Jennings and Tai Felton got 2 each. Start Addison as a WR3 either way. Monitor Jefferson; Thursday and Friday practice and the Friday designation.",
+        "at": "2026-09-30T19:45:00Z",
+        "url": ""
+      },
+      {
+        "player": "Jaylen Wright",
+        "action": "STASH",
+        "faab": "5-10%",
+        "text": "Jaylen Wright (MIA) was limited at Wednesday's practice with the foot after sitting out Week 3, and he had been working ahead of Ollie Gordon II before he was hurt. Jeff Hafley says every back will have a role. Wright has 3 carries this season. Stash him, 5 to 10 percent of FAAB; Thursday and Friday decide whether he is back in the split at MIN.",
+        "at": "2026-09-30T19:45:00Z",
+        "url": ""
+      },
+      {
+        "player": "Omarion Hampton",
+        "action": "TRADE_AWAY",
+        "price": "a WR2 or a RB2 who catches passes",
+        "text": "Omarion Hampton's (LAC) snap share has gone 58, 63 and 42 percent by week; the Heat Check and Butcher Shop cards listed Week 1 at 80.6 percent and are fixed. The fall is from Week 2, and the routes went 10, 10 and 6 with 3 targets all season while Keaton Mitchell ran 33 routes. The call stands: trade him away and ask for a WR2 or a RB2 who catches passes.",
+        "at": "2026-09-30T19:45:00Z",
+        "url": ""
+      },
+      {
+        "player": "Tre' Harris",
+        "action": "STASH",
+        "faab": "1-3%",
+        "text": "Tre' Harris (LAC) had his best game, 6 of 7 for 76 vs BUF, on his smallest snap share of the season: 58 percent after 75 and 82, because Ladd McConkey came back to 88 percent of the snaps and Quentin Johnston played 87. The targets grew while the role shrank, so he moves from the Market Run adds to the stashes. Stash him, 1 to 3 percent of FAAB; he needs a starter to miss time.",
+        "at": "2026-09-30T19:45:00Z",
+        "url": ""
+      },
       {
         "player": "Kenyon Sadiq",
         "action": "START",
@@ -338,14 +406,6 @@
       },
       {
         "at": "2026-09-30T18:20:00Z",
-        "text": "Klint Kubiak said Monday that Mike Washington Jr. (LV) earned more opportunities, the second time he has said it. Ashton Jeanty's last 40 carries went for 104 yards, he visited the trainers @NO, and he still has 63 of the two backs' 78 carries (81 percent) and all 16 targets. The Butcher Shop card keeps the trade-for call with the first-half carry split vs KC as the check. Trade for him; offer a low-end WR1 or a RB1 whose role is less secure.",
-        "url": "",
-        "player": "Ashton Jeanty",
-        "action": "TRADE_FOR",
-        "price": "a low-end WR1 or a RB1 with a shakier role"
-      },
-      {
-        "at": "2026-09-30T18:20:00Z",
         "text": "Mike Washington Jr. (LV) has 15 carries for 102 yards, 6.8 a carry, with 5 for 54 and a 36-yard touchdown @NO, and the coach has said twice that he earned more opportunities. He has no receiving role. Jeanty still has 81 percent of the backs' carries, so this is a handcuff with a rising early-down share, and the yards per carry back it. Stash him, 3 to 8 percent of FAAB, if you own Jeanty or have a deep bench.",
         "url": "",
         "player": "Mike Washington Jr.",
@@ -353,42 +413,12 @@
         "faab": "3-8%"
       },
       {
-        "at": "2026-09-30T18:20:00Z",
-        "text": "The Menu had Colston Loveland (CHI) at 4 of 4 for 34 yards vs PHI; the game line was 31, and 34 is his season total on 5 catches. His target share is 10 percent on 71 percent of the routes this season. Kalif Raymond has 23 percent of the targets. Loveland's row keeps its number and its call. Start him as your TE1 vs NYJ.",
-        "url": "",
-        "player": "Colston Loveland",
-        "action": "START",
-        "slot": "TE1"
-      },
-      {
-        "at": "2026-09-30T16:20:00Z",
-        "player": "Jared Goff",
-        "action": "STREAM",
-        "url": "https://www.espn.com/nfl/story/_/id/50068364/panthers-cbs-jaycee-horn-mike-jackson-placed-ir",
-        "text": "Carolina placed both starting corners on injured reserve Wednesday, Jaycee Horn (quad) and Mike Jackson (groin), so rookie Will Lee III, Akayleb Evans and Chau Smith-Wade are the corners for Sunday night vs DET. Jared Goff (DET) is the Menu's stream of the week, and every Detroit pass catcher moved up on the page this morning. Stream Goff at CAR."
-      },
-      {
         "at": "2026-09-30T16:20:00Z",
         "player": "Malik Nabers",
         "action": "HOLD",
         "url": "https://sports.yahoo.com/articles/giants-j-j-mccarthy-trade-171132548.html",
-        "text": "John Harbaugh said Jameis Winston starts vs ARI and that J.J. McCarthy, acquired from MIN for a 2027 fifth-round pick, is the No. 2 or 3 while he learns the offense. Malik Nabers (NYG) drew 27 percent of the targets in Winston's first start but caught 5 of 6 for 26 yards at an average depth of target of 1.0. Hold Nabers as a WR2 on volume; what changes the call is McCarthy taking the job, and Week 6 vs NO is the first realistic date for that.",
+        "text": "John Harbaugh said Jameis Winston starts vs ARI and that J.J. McCarthy, acquired from MIN for a 2027 fifth-round pick, is the No. 2 while he learns the offense, since Jake Haener was waived the day of the trade. Malik Nabers (NYG) drew 27 percent of the targets in Winston's first start, a nor'easter with 22 team attempts, but caught 5 of 6 for 26 yards at an average depth of target of 1.0. Hold Nabers as a WR2 on volume; what changes the call is McCarthy taking the job, and Week 6 vs NO is the first realistic date for that.",
         "why": "27 percent of the targets holds even with a 1.0 average depth of target; the call changes only if McCarthy takes the job, Week 6 vs NO at the earliest."
-      },
-      {
-        "at": "2026-09-30T16:20:00Z",
-        "player": "Jalen McMillan",
-        "action": "DROP",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-sept-30",
-        "text": "Tampa Bay put Jalen McMillan (TB) on injured reserve Wednesday with the PCL strain, designated to return, 6 to 8 weeks per the reporting. Emeka Egbuka and Chris Godwin are the whole receiver room with an undrafted rookie at quarterback; Egbuka is a WR3 on this week's Menu and Godwin a flex. Drop McMillan unless you have an IR slot."
-      },
-      {
-        "at": "2026-09-30T16:20:00Z",
-        "player": "Jaylen Warren",
-        "action": "START",
-        "slot": "RB1",
-        "url": "https://steelersdepot.com/2026/09/steelers-week-4-tuesday-injury-report-porter-practices-fully-dowdle-remains-sidelined/",
-        "text": "Rico Dowdle (PIT) did not practice Monday (an estimated line from the walkthrough) or Tuesday, and he has not practiced since the toe injury in Week 2. Jaylen Warren played 90 percent of the snaps and touched the ball 20 times without him, and he is RB10 on this week's Menu. Start Warren as your RB1 @CLE Thursday night."
       },
       {
         "at": "2026-09-30T16:20:00Z",
@@ -413,37 +443,15 @@
         "watch": "Thursday's practice",
         "url": "https://sports.yahoo.com/articles/49ers-wr-mike-evans-not-202808114.html",
         "text": "Mike Evans (SF) will not practice Wednesday while he manages the rib injury from ARI, and Kyle Shanahan says he expects him to play vs DEN. Trent Williams takes a rest day for the stinger and is expected back Thursday. Evans sits outside the ranked depth on the Menu until he practices. Monitor Evans; Thursday's practice."
-      },
-      {
-        "at": "2026-09-30T16:20:00Z",
-        "player": "Drake Maye",
-        "action": "START",
-        "slot": "QB1",
-        "url": "https://www.foxsports.com/stories/nfl/whats-wrong-drake-maye-how-do-patriots-fix-qb",
-        "text": "Mike Vrabel says Drake Maye (NE) stays the starter @BUF after the fourth-quarter benching for Tommy DeVito: 1 touchdown pass, 6 interceptions and 7 turnovers in three games with A.J. Brown on IR. Maye is QB9 on this week's Menu, so the job, not the tape, is the call. Start him as your QB1."
-      },
-      {
-        "at": "2026-09-30T16:20:00Z",
-        "player": "T.J. Hockenson",
-        "action": "SIT",
-        "url": "https://www.rotowire.com/football/headlines/tj-hockenson-news-catches-two-passes-in-win-639806",
-        "text": "Josh Oliver (MIN) went on injured reserve Tuesday with a torn biceps, so T.J. Hockenson and Gavin Bartholomew are the only tight ends on the roster. Hockenson ran a route on 29 of 37 dropbacks vs TB and got 2 of the 4 targets for 11 yards, even with Justin Jefferson out from the first quarter. More snaps, same targets. Sit Hockenson vs MIA for any Menu tight end."
-      },
-      {
-        "at": "2026-09-29T23:20:00Z",
-        "player": "Jalon Daniels",
-        "action": "SIT",
-        "url": "https://www.pewterreport.com/bucs-sign-veteran-quarterback/",
-        "text": "Tampa Bay signed Brett Rypien to the practice squad Tuesday, and Todd Bowles says undrafted rookie Jalon Daniels still starts vs GB. Daniels went 0 for 3 with an interception in relief of Baker Mayfield. Sit him in every format; he is not a streamer."
-      },
-      {
-        "at": "2026-09-29T23:05:00Z",
-        "text": "Roman Wilson (PIT) was benched for the second half vs CIN after a drop that became an interception, 2 snaps after halftime, so he comes off the Market Run adds list. Monitor his first-half snap share vs CLE Thursday before you spend.",
-        "player": "Roman Wilson",
-        "action": "MONITOR",
-        "watch": "first-half snap share vs CLE Thursday"
       }
     ]
   },
-  "posts": []
+  "posts": [
+    {
+      "id": "2026w04-notes-thread-9f9b",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
 }

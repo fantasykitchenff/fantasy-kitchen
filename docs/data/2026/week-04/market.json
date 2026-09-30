@@ -3,12 +3,12 @@
   "season": 2026,
   "week": 4,
   "title": "Market Run, Week 4",
-  "dek": "Ollie Gordon II is the only Miami back standing after Achane's ACL, and he is the first name on this week's list.",
+  "dek": "Ollie Gordon II took 84 percent of Miami's snaps after Achane's ACL, and he is the first name on this week's list.",
   "format": "PPR",
   "publishedAt": "2026-09-29T14:20:00Z",
-  "updatedAt": "2026-09-30T19:35:00Z",
+  "updatedAt": "2026-09-30T19:45:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 3:35 PM ET: Keenan Allen's card carries the league-discipline flag (three-game minimum under policy, nothing announced, court date Oct 26; the 3 to 6 percent claim stands), and Xavier Worthy's drop reason is corrected: he ran a 79 percent route share @MIA, the problem is 63 yards on 15 targets.\n\nUpdated Wed 3:30 PM ET: the Monday night quarterback note now carries Ben Johnson's stated plan, Tyson Bagent starts vs NYJ if he practices all week; nothing else changed.\n\nUpdated Tue 7:05 PM ET: Roman Wilson comes off the adds list after PIT benched him for the second half vs CIN, 2 snaps after halftime; monitor his first-half snap share vs CLE Thursday before you spend. Etienne's carry line is now 13 for 57, Gordon's relief snap share is stated as 84 percent, Wright's status and Sadiq's context are updated, and the Monday night quarterback note says Chicago has not named a starter.\n\nWeek 3 broke three backfields. De'Von Achane is done for the year, Travis Etienne Jr. is out for Week 4 and longer, and Breece Hall is week to week. That puts the running backs at the top of the shop, with a rookie tight end right behind them.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
+  "intro_md": "Updated Wed 3:45 PM ET: Tre' Harris moves from the adds to the stashes at 1 to 3 percent after his snap share fell to 58 percent with Ladd McConkey back full time; Ollie Gordon II's and Jaylen Wright's cards carry Wright's limited Wednesday practice.\n\nUpdated Wed 3:35 PM ET: Keenan Allen's card carries the league-discipline flag (three-game minimum under policy, nothing announced, court date Oct 26; the 3 to 6 percent claim stands), and Xavier Worthy's drop reason is corrected: he ran a 79 percent route share @MIA, the problem is 63 yards on 15 targets.\n\nUpdated Wed 3:30 PM ET: the Monday night quarterback note now carries Ben Johnson's stated plan, Tyson Bagent starts vs NYJ if he practices all week; nothing else changed.\n\nUpdated Tue 7:05 PM ET: Roman Wilson comes off the adds list after PIT benched him for the second half vs CIN, 2 snaps after halftime; monitor his first-half snap share vs CLE Thursday before you spend. Etienne's carry line is now 13 for 57, Gordon's relief snap share is stated as 84 percent, Wright's status and Sadiq's context are updated, and the Monday night quarterback note says Chicago has not named a starter.\n\nWeek 3 broke three backfields. De'Von Achane is done for the year, Travis Etienne Jr. is out for Week 4 and longer, and Breece Hall is week to week. That puts the running backs at the top of the shop, with a rookie tight end right behind them.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
   "outro_md": "The Menu lands Wednesday with every one of these players ranked. Claims first, lineups after.",
   "data": {
     "adds": [
@@ -20,8 +20,8 @@
         "action": "CLAIM",
         "faab": "20-30%",
         "rostered": "1%",
-        "why": "Gordon took 84 percent of Miami's snaps after Achane went down, with a fullback taking 7 and a receiver 5 at halfback: 17 carries, 41 yards, a goal-line touchdown and 3 catches for 14 yards. Achane is on IR for the season, Miami worked out four backs Tuesday and signed none, so this window runs as long as Gordon holds off Jaylen Wright.",
-        "verdict": "Claim him, 20 to 30 percent of FAAB. Top priority."
+        "why": "Gordon took 84 percent of Miami's snaps after Achane went down, with a fullback taking 7 and a receiver 5 at halfback: 17 carries, 41 yards, a goal-line touchdown and 3 catches for 14 yards. Achane is on IR for the season. Jaylen Wright, who was working ahead of Gordon before he got hurt, was limited at Wednesday's practice, and Jeff Hafley says every back will have a role, so this window runs as long as Gordon holds off Wright.",
+        "verdict": "Claim him, 20 to 30 percent of FAAB, first on the list; if you already have him, hold him and read Wright's Thursday and Friday practice lines."
       },
       {
         "priority": 2,
@@ -58,17 +58,6 @@
       },
       {
         "priority": 5,
-        "player": "Tre' Harris",
-        "team": "LAC",
-        "pos": "WR",
-        "action": "CLAIM",
-        "faab": "5-10%",
-        "rostered": "",
-        "why": "Harris led the Chargers with 7 targets, 6 catches and 76 yards vs BUF, all career highs. He ran a route on 27 of 43 dropbacks, so the role is growing but still part time.",
-        "verdict": "Claim him, 5 to 10 percent of FAAB. Bench him until the route share clears 75 percent."
-      },
-      {
-        "priority": 6,
         "player": "Keenan Allen",
         "team": "IND",
         "pos": "WR",
@@ -79,7 +68,7 @@
         "verdict": "Claim him, 3 to 6 percent of FAAB. A PPR flex while Pierce is out, and monitor the Oct 26 court date."
       },
       {
-        "priority": 7,
+        "priority": 6,
         "player": "Geno Smith",
         "team": "NYJ",
         "pos": "QB",
@@ -90,7 +79,7 @@
         "verdict": "Stream him @CHI, 2 to 5 percent of FAAB, if your starter is Mayfield or on bye."
       },
       {
-        "priority": 8,
+        "priority": 7,
         "player": "Tyler Higbee",
         "team": "LAR",
         "pos": "TE",
@@ -103,13 +92,22 @@
     ],
     "stashes": [
       {
+        "player": "Tre' Harris",
+        "team": "LAC",
+        "pos": "WR",
+        "action": "STASH",
+        "faab": "1-3%",
+        "why": "Harris led the Chargers with 7 targets, 6 catches and 76 yards vs BUF, all career highs, on his smallest snap share of the season: 58 percent after 75 and 82, because Ladd McConkey came back to 88 percent of the snaps and Quentin Johnston played 87. The targets grew while the role shrank.",
+        "verdict": "Stash him, 1 to 3 percent of FAAB. He needs a starter to miss time."
+      },
+      {
         "player": "Jaylen Wright",
         "team": "MIA",
         "pos": "RB",
         "action": "STASH",
         "faab": "5-10%",
-        "why": "Wright held the No. 2 job in camp and sat Week 3 with a stinger and a foot issue; Miami's coach said Monday he is day-to-day and could practice Wednesday. Miami worked out four backs Tuesday and signed none, so Wright and Gordon are the backfield once he is cleared.",
-        "verdict": "Stash him, 5 to 10 percent of FAAB. He splits with Gordon the week he is healthy."
+        "why": "Wright held the No. 2 job in camp and was working ahead of Gordon before he sat Week 3 with a stinger and a foot issue; he was limited at Wednesday's practice with the foot. Miami worked out four backs Tuesday and signed none, so Wright and Gordon are the backfield once he is cleared.",
+        "verdict": "Stash him, 5 to 10 percent of FAAB. He splits with Gordon the week he is healthy; Thursday and Friday decide."
       },
       {
         "player": "Kendre Miller",
@@ -153,7 +151,7 @@
         "pos": "WR",
         "action": "DROP",
         "why": "Worthy ran 19 routes on 24 dropbacks @MIA, a 79 percent route share level with Travis Kelce and one more than Rashee Rice, and drew 2 targets. The routes are there; the production is not: 63 yards on 15 targets in three games with no game above 25.",
-        "verdict": "Cut him for Sadiq, Harris or Keenan Allen."
+        "verdict": "Cut him for Sadiq or Keenan Allen."
       },
       {
         "player": "Kenny Gainwell",

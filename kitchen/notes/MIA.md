@@ -12,6 +12,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Bobby Slowik: Slowik, who was on the Dolphins' staff last year, now runs the offense under Jeff Hafley; the run game finished 2025 strongly and the left side of the line could be formidable if healthy. [8-13 mock draft 3.0]
 - 2026-08-19: New head coach Jeff Hafley has been talking about how many times the Dolphins can run the ball per game; Bobby Slowik is the offensive coordinator. [8-19 RBs drafting and fading]
 - 2026-08-03: Hafley said in camp he wants Gordon to push to be an every-down back rather than be boxed into short yardage. [pod 9-29, coach]
+- 2026-09-28: Jeff Hafley: On the backfield after Achane's injury: 'They're all going to have their roles.' He said the plan to emphasize the run does not change. [pod 9-29, coach]
 
 ## Scheme and tendencies
 
@@ -38,6 +39,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Malik Willis: There has been no negative news on Willis this offseason and he has produced highlight plays in camp. [8-20 bust and value picks for 2026]
 - 2026-08-24: Malik Willis: His starting job is considered safe with Quinn Ewers and Cam Miller behind him; he has 4 career rushing TDs on about 74 rushes at 5.5 yards per attempt. [8-24 QB Rankings]
 - 2026-08-24: Malik Willis: Willis is now with the Dolphins and is the quarterback fantasy analysts are targeting for Miami after Tagovailoa's departure to Atlanta. [8-24 embarrased to love players]
+- 2026-09-27: Malik Willis: 20 of 36 for 210, no touchdown, 1 interception and 9 scrambles vs KC on 43 dropbacks (67 plays); backs drew 4 of the 36 targets. [pod 9-30, deployment]
 
 ## Backfield
 
@@ -67,6 +69,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Ollie Gordon II: Only active RB after Achane's injury in Week 3; 17 carries, 41 yards, 1 TD, 3 catches for 14 yards. Jaylen Wright inactive (stinger). Hafley said the team will discuss adding a back (CBS).
 - 2026-09-29: Ollie Gordon II: Rostered in about 1 percent of leagues Tuesday of Week 4; Miami has not signed a back, and Gordon and Jaylen Wright are the backfield (public waiver pages, reports).
 - 2026-09-27: Ollie Gordon II: 61 snaps (84%) after Achane left, 17 for 41 and a touchdown, 3 of 3 for 14, a brief cramp; fullback DJ Herman took 7 snaps at halfback and receiver Malik Washington 5 as the emergency back. [pod 9-29, deployment]
+- 2026-09-27: Ollie Gordon II: Ran 25 routes on 43 dropbacks (58%) and drew 3 targets vs KC. Career through Week 3: 90 carries for 247 yards, 10 catches for 46 on 12 targets, 5 touchdowns on 100 touches, no fumbles, 2.9 yards a touch; 2026: 20 carries for 48. He played 3 of 56 snaps in Week 1. [pod 9-29, deployment]
+- 2026-09-27: Jaylen Wright: Career through Week 3: 141 carries for 547 yards (3.9), 8 catches for 52, 2 touchdowns on 149 touches, 3 fumbles (2 lost). 2025: 70 for 288 (4.1), 2 TDs. 2026: 3 carries for 10 in two games. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -103,6 +107,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Greg Dulcich: Dulcich, now in Miami's wide-open pass-catching room with Malik Willis, ran only 145 routes in 2025 but averaged 2.31 yards per route run. [8-13 Fantasy Draft Values And Injury Shifts]
 - 2026-08-17: Greg Dulcich: Greg Dulcich has not played much in the preseason; he is a Gesicki-type receiving tight end and the room's one staple. [8-17 updates and camp news]
 - 2026-08-20: Greg Dulcich: Dulcich is expected to be a targeted piece of the Dolphins passing game but is not viewed as a 100-reception type. [8-20 bust and value picks for 2026]
+- 2026-09-27: Greg Dulcich: 29 routes (67%), 7 targets (20%), 5 catches for 55 on 46 snaps (69%) vs KC. [pod 9-30, deployment]
 
 ## Offensive line
 
@@ -127,6 +132,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-12: Jaylen Waddle: Waddle was traded away from Miami to Denver, vacating targets that could flow to Achane. [8-12 top 10 rb rankings]
 - 2026-09-29: No running back signed; Hassan Haskins, Kenny McIntosh, Damien Martinez and Elijah Tau-Tolliver worked out; Jarquez Hunter and Carlos Washington are on the practice squad. [pod 9-29, official]
+- 2026-09-01: Jarquez Hunter: Acquired from the Rams for Tutu Atwell on Aug 27, waived at the Aug 31 cutdown and signed to the practice squad Sep 1; still there on 9/30 with no elevation reported. [pod 9-29, official]
 
 ## Injuries and status
 
@@ -138,6 +144,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: De'Von Achane: Torn ACL on his third carry in the Week 3 loss to KC; placed on IR, out for the season (ESPN, team move).
 - 2026-09-28: Jaylen Wright: inactive Week 3 with a stinger and a foot issue; Jeff Hafley said Monday he is day-to-day and could practice Wednesday. [pod 9-28, coach]
 - 2026-09-28: Caleb Douglas: ankle, out Week 3, day-to-day and could practice Wednesday per Hafley. [pod 9-28, coach]
+- 2026-09-30: Jaylen Wright: Limited at Wednesday's practice with the foot injury after sitting out Week 3 (foot, stinger); he had been working ahead of Ollie Gordon before he was hurt. [pod 9-29, official]
+- 2026-09-30: Caleb Douglas: Did not practice Wednesday (ankle); Jeff Hafley said he needs a full practice by Friday to go into the MIN game without a designation. [pod 9-29, official]
 
 ## Other
 
@@ -146,4 +154,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Week 4 at MIN opened MIN -9.5 with a 39.5 total and sits at MIN -11.5 with a 38.5 total, a Miami implied total of 13.5. [pod 9-29, aggregation]
 - 2026-09-30: Defense has allowed the most fantasy points to running backs through three weeks (reports).
 - 2026-09-30: Schedule: @MIN in Week 4, CIN in Week 5, bye in Week 6, @NYJ in Week 7. [pod 9-29, official]
-
+- 2026-09-27: Miami Dolphins: 0-3 with 36 points: 13 at LV, 13 vs SF, 10 vs KC. [pod 9-29, deployment]

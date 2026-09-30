@@ -100,6 +100,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Tre Tucker: Tre Tucker is the speed/take-the-top-off receiver in the Kubiak offense; Malik Benson is his backup. [8-19 Offenses to look out for]
 - 2026-08-23: Jalen Nailor: Nailor already appeared to be falling out of favor in Raiders camp by late August. [8-23 highstakes draft]
 - 2026-08-26: Tre Tucker: By all accounts has won the Raiders' No. 1 receiver job; he rested with the starters in the preseason game while Jalen Nailor played. [8-26 rankings and news updates]
+- 2026-09-27: Tre Tucker / Jalen Nailor / Jack Bech: Receiver snaps at NO: Tucker 40 (57%), Nailor 40 (57%), Bech 11 before the forearm injury in the second quarter; Tucker 4 targets. [pod 9-30, deployment]
 
 ## Tight ends
 
@@ -118,6 +119,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Michael Mayer: Michael Mayer's blocking plus receiving ability fits the Kubiak 12-personnel offense; he had an impressive touchdown catch in the preseason. [8-19 Offenses to look out for]
 - 2026-08-23: Michael Mayer: The Raiders are expected to play a lot of 12 personnel, keeping Mayer on the field; Brock Bowers had a PCL injury last season. [8-23 highstakes draft]
 - 2026-09-27: Brock Bowers: 13 of 30 team targets (43%), 10 for 116 and a touchdown in his season debut, 75% snaps, 95% route participation. [pod 9-28, deployment]
+- 2026-09-27: Brock Bowers: Week 3 alignment: 45 of 55 snaps in the slot or out wide, 9 inline, 1 in the backfield; routes 15 slot, 9 wide, 8 inline, 1 backfield. 55 snaps is 79% of the offense. 40.2% of the air yards, 3 red-zone targets, a 4-yard touchdown. [pod 9-29, deployment]
+- 2026-09-27: Michael Mayer: 61 snaps (87%) at NO, 29 routes (about 74%), 3 targets; the Raiders played 52 two-tight-end snaps, with Ian Thomas in on 9 of them. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -153,6 +156,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Ashton Jeanty: Suffered an ankle sprain in camp and was helped off unable to put weight on the leg; reports now say it is a low rather than high ankle sprain and he has not been ruled out for Week 1. [8-26 rankings and news updates]
 - 2026-08-26: Ashton Jeanty: Head coach Klint Kubiak said Jeanty is 'on the mend' but declined to detail the injury; his availability for Week 1 was described as uncertain ahead of the first official injury report. [8-26 myguys episode]
 - 2026-09-29: Jack Bech: broken left forearm, placed on IR, minimum four weeks, not season-ending per Klint Kubiak. [pod 9-28, official]
+- 2026-09-29: Ashton Jeanty: A Raiders beat site reported extra taping on his ankle during the game at NO and that he tweaked the ankle in the second half of Week 1; he visited the trainers at NO and finished with 19 carries. No official listing found. [pod 9-29, beat]
 
 ## Other
 

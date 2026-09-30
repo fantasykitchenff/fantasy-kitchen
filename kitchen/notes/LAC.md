@@ -33,6 +33,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Justin Herbert: Justin Herbert looks poised for the best season of his career in Mike McDaniel's new scheme. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Justin Herbert: Averaged 22.6 fantasy points, 8.2 yards per attempt and a 6.8% TD rate in four 2025 games with Joe Alt at 50%+ snaps versus 18.6 points, 7.0 YPA and 4.5% in the other 12 games. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-21: Justin Herbert: Chargers are among the AFC title favorites; the run game, defense and Hampton are seen as the drivers, with Herbert a good QB in a good offense. [8-21 mayhem mock draft]
+- 2026-09-27: Justin Herbert: 52 of 88 (59.1%) for 627 yards, 3 TD and 4 INT through three games, sacked 8 times (3, 3, 2); attempts 27, 27, 34. [pod 9-30, deployment]
 
 ## Backfield
 
@@ -71,8 +72,11 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Keaton Mitchell: Offensive coordinator Mike McDaniel is reportedly very high on Mitchell, who is expected to have his own carved-out role each week behind Omarion Hampton. [8-23 highstakes draft]
 - 2026-08-26: Omarion Hampton: Hampton handled 80% of the Chargers' goal-line carries in 2025 (would rank 4th in the NFL), averaged 19 routes and 3.6 receptions per game, and led RBs in avoided tackles per carry through Week 5 before his injury. [8-26 myguys episode]
 - 2026-08-26: Omarion Hampton: Hampton ranked 3rd among RBs in efficiency on outside zone runs in 2025, behind De'Von Achane; Mike McDaniel's Miami outside zone used a fullback, and Alec Ingold now follows him to LA. [8-26 myguys episode]
-- 2026-09-29: Omarion Hampton: 80.6 percent snap share in Week 1, 42 percent in Week 3 (29 snaps); 15 carries for 56 vs BUF, 6 routes and 1 target while two other backs ran 14 and 13 routes (reports).
+- 2026-09-29: Omarion Hampton: 80.6 percent snap share in Week 1 (corrected 2026-09-30: Week 1 was 32 snaps, 58 percent, then 63 percent in Week 2), 42 percent in Week 3 (29 snaps); 15 carries for 56 vs BUF, 6 routes and 1 target while two other backs ran 14 and 13 routes (reports).
 - 2026-09-27: Snaps vs BUF: Omarion Hampton 42%, Keaton Mitchell 38%, Kimani Vidal 25%; routes Hampton 6, Mitchell 14, Vidal 13, Ingold 9; carries Hampton 15 of the backfield's 24, Mitchell 8, Vidal 1; Hampton 1 target; Mitchell 3 catches on 3 targets with a 1-yard touchdown, 8 for 52 rushing, 11 touches, 28.6% rush share. [pod 9-29, deployment]
+- 2026-09-27: Omarion Hampton / Keaton Mitchell / Kimani Vidal: Snap share by week: Hampton 58% (32), 63% (43), 42% (29); Mitchell 31% (17), 25% (17), 38% (26); Vidal 7% (4), 10% (7), 25% (17); FB Alec Ingold 38%, 41%, 45%. Routes through three games: Mitchell 33, Hampton 26 (10, 10, 6), Vidal 21. [pod 9-29, deployment]
+- 2026-09-27: Omarion Hampton: 50 carries for 193 yards (3.9) and 2 touchdowns with 2 lost fumbles through three games (12-43-1, 23-94-1, 15-56); 3 targets all season, a 3.4% share. [pod 9-29, deployment]
+- 2026-09-27: Keaton Mitchell / Kimani Vidal: Over Weeks 2-3 Mitchell ran 22 routes and Vidal 18 to Hampton's 16. Mitchell has 17 carries at 5.0 a carry; at BUF his 3 catches lost 5 yards, including the 1-yard touchdown. Vidal had 1 catch for 14 on 3 targets and 1 carry at BUF. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -106,6 +110,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Ladd McConkey: McDaniel is expected to move McConkey around, outside as well as slot, as he did with Hill and Waddle in Miami; Tre Harris and Quentin Johnston are not expected to carry volume. [8-26 myguys episode]
 - 2026-09-29: Tre' Harris: 6 of 7 targets, 76 yards vs BUF in Week 3, all team highs and career highs; ran a route on 27 of 43 dropbacks. 10 of 16 targets for 149 yards through three games. Quentin Johnston ran a route on 37 of 43 dropbacks, 3 of 6 for 40 (reports).
 - 2026-09-27: Tre' Harris: 7 of 33 team targets (21%), 6 for 76, routes on 27 of 43 dropbacks; Quentin Johnston 3 of 6 for 40 on 37 of 43 dropbacks; Ladd McConkey 4 for 66 on 5 targets as a full participant after the rib injury. [pod 9-29, deployment]
+- 2026-09-27: Johnston / Harris / McConkey: Snap share by week: Johnston 78%, 81%, 87% (60 snaps, a season high); Harris 75%, 82%, 58%; McConkey 49%, 46%, 88% (61). Season targets Johnston 17 (6-64-0, 35.3% caught), Harris 16 (10-149-0, 9.3 a target), McConkey 15 (12-183-1). [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -129,6 +134,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: The Chargers added Charlie Kolar and David Njoku at TE alongside Oronde Gadsden, giving McDaniel the size to run two- and three-TE sets with McConkey staying on the field. [8-20 WRs talk]
 - 2026-08-21: Oronde Gadsden: Played late into the preseason game with backups, suggesting he is now a backup behind David Njoku. [8-21 mayhem mock draft]
 - 2026-09-21: David Njoku (knee, fibula) and Charlie Kolar (forearm) placed on IR; 9/22 Hayden Rucci signed off the JAX practice squad; 9/23 Marquez Valdes-Scantling signed to the active roster; Oronde Gadsden II 39 snaps, 0 of 3 in Week 3. [pod 9-28, official]
+- 2026-09-23: David Njoku / Charlie Kolar: Njoku was placed on injured reserve on 9/23. Kolar had forearm surgery and was ruled out for Week 3 but was not placed on IR; the 9/29 depth chart still lists him first at tight end. [pod 9-30, official]
+- 2026-09-27: Oronde Gadsden II / Hayden Rucci: Gadsden's snaps went 10, 30, 39 (57%); at BUF he ran 28 routes (73.7% of dropbacks) and caught none of 3 targets. Rucci played 28 snaps (41%) five days after signing. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -145,6 +152,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Tyler Biadasz: Starting center Tyler Biadasz suffered ACL damage in a joint practice and is likely lost for the season; second-round rookie Jake Slaughter, a natural center, may be accelerated into the job. [8-20 WRs talk]
 - 2026-08-20: Tyler Biadasz: Biadasz is out indefinitely with a knee injury and could miss at least half the season; rookie second-round C Jake Slaughter is the fallback at center. [8-20 Offensive Line Rankings]
 - 2026-08-26: The Chargers' new free-agent center was injured in camp, but tackles Joe Alt and Rashawn Slater are both back after neither played in 2025. [8-26 myguys episode]
+- 2026-09-24: Awosika / Pipkins / Strange / Slater: Before Week 3: LG Kayode Awosika in a walking boot and expected to miss time, Trey Pipkins not practicing since Week 1, RG Cole Strange limited, LT Rashawn Slater limited and on the report for the first time. The 9/29 depth chart lists Slater, Awosika, rookie Jake Slaughter, Strange and Joe Alt. [pod 9-30, beat]
 
 ## Transactions and contracts
 
@@ -160,6 +168,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Tyler Biadasz: C Tyler Biadasz suffered ACL damage and additional left-knee injuries in Tuesday's joint practice vs the 49ers; he is out indefinitely and meeting with more doctors. [8-19 Offenses to look out for]
 - 2026-08-24: Rashawn Slater: Slater is back at practice. [8-24 embarrased to love players]
 - 2026-08-24: Tyler Biadasz: The Chargers placed newly signed center Biadasz on injured reserve, ending his season. [8-24 embarrased to love players]
+- 2026-09-25: Ladd McConkey: Cracked a rib in Week 1; practiced in full on 9/23 and was left off the final Week 3 injury report, then played 88% of the snaps at BUF. [pod 9-29, official]
 
 ## Other
 
@@ -167,4 +176,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-07-14: Opens vs. Cardinals and Raiders as a big favorite, then at Buffalo, at Seattle, Denver and Kansas City. [7-14 afc west breakdown]
 - 2026-09-27: LAC lost 24-16 at BUF after scoring 14 vs LV in Week 2. [pod 9-28, official]
 - 2026-09-30: Defense has allowed the ninth-most fantasy points to tight ends through Week 3 (reports).
-
+- 2026-09-27: Team: 0-3 with 14, 14 and 16 points (44). At BUF the defense forced five takeaways and the offense scored one touchdown on four red-zone trips. Schedule: at SEA, DEN, at KC, bye Week 7, at LAR, HOU, at BAL. [pod 9-29, official]

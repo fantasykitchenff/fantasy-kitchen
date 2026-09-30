@@ -6,9 +6,9 @@
   "dek": "Rashee Rice went from 2 targets to 6 to 9. The Kansas City passing game is his again.",
   "format": "PPR",
   "publishedAt": "2026-09-29T17:20:00Z",
-  "updatedAt": "2026-09-30T19:40:00Z",
+  "updatedAt": "2026-09-30T19:45:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 3:40 PM ET: Wan'Dale Robinson's riser card now cites his 81 percent route share; two snap-count sources disagree on his Week 3 snaps, so the snap jump is gone. The claim stands.\n\nUpdated Tue 6:55 PM ET: corrected Rashee Rice's Week 3 target share to 41% (18.7% is his three-game share); the trade-for call stands.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball three weeks running or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets, or just lost the thing his role depended on. One number backs each call. PPR scoring.",
+  "intro_md": "Updated Wed 3:45 PM ET: Omarion Hampton's snap line is 58, 63 and 42 percent (Week 1 was never 80), Terrance Ferguson moves from monitor to sit with McVay saying he will probably miss Sunday, and the Henderson watch now points at third-down and short-yardage snaps.\n\nUpdated Wed 3:40 PM ET: Wan'Dale Robinson's riser card now cites his 81 percent route share; two snap-count sources disagree on his Week 3 snaps, so the snap jump is gone. The claim stands.\n\nUpdated Tue 6:55 PM ET: corrected Rashee Rice's Week 3 target share to 41% (18.7% is his three-game share); the trade-for call stands.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball three weeks running or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets, or just lost the thing his role depended on. One number backs each call. PPR scoring.",
   "outro_md": "The trade prices for these trends are in the Butcher Shop, and the Menu lands Wednesday.",
   "data": {
     "risers": [
@@ -68,10 +68,10 @@
         "player": "Omarion Hampton",
         "team": "LAC",
         "pos": "RB",
-        "stat": "Snap share 80.6% in Week 1, 42% in Week 3",
+        "stat": "Snap share 58%, 63%, 42%",
         "action": "TRADE_AWAY",
         "price": "a WR2 or a RB2 who catches passes",
-        "why": "Hampton got 15 of the backfield's 24 carries vs BUF but ran 6 routes and drew 1 target. Two other backs ran more than twice as many routes.",
+        "why": "Hampton got 15 of the backfield's 24 carries vs BUF but ran 6 routes and drew 1 target. His routes have gone 10, 10 and 6 by week, he has 3 targets all season, and two other backs ran more than twice as many routes in Week 3.",
         "verdict": "Trade him away; ask for a WR2 or a RB2 who catches passes."
       },
       {
@@ -89,9 +89,9 @@
         "pos": "RB",
         "stat": "Snaps 33 to 23",
         "action": "MONITOR",
-        "watch": "the snap split with Rhamondre Stevenson on Sunday",
-        "why": "Henderson out-snapped Rhamondre Stevenson 33 to 20 in Week 2, then Stevenson took it back 33 to 23 at JAX in Week 3. Henderson ran 8 times for 23 yards.",
-        "verdict": "Monitor the snap split with Stevenson on Sunday before you start him again."
+        "watch": "third-down and short-yardage snaps next to Stevenson @BUF Sunday",
+        "why": "Henderson out-snapped Rhamondre Stevenson 33 to 20 in Week 2, then Stevenson took it back 33 to 23 at JAX in Week 3 and took most of the passing-situation and short-yardage snaps, 3 catches to 1. Henderson ran 8 times for 23 yards.",
+        "verdict": "Monitor the third-down and short-yardage snaps next to Stevenson on Sunday before you start him again."
       },
       {
         "player": "Brian Thomas Jr.",
@@ -107,10 +107,9 @@
         "team": "LAR",
         "pos": "TE",
         "stat": "Route share 72% to 15.6%",
-        "action": "MONITOR",
-        "watch": "the Wednesday practice report",
-        "why": "Ferguson ran a route on 72 percent of dropbacks in Week 2 and drew a 30 percent target share, then hurt his ankle @DEN and his route share fell to 15.6 percent. Tyler Higbee caught 8 of 11 in his place.",
-        "verdict": "Monitor the Wednesday practice report; bench him if he does not practice."
+        "action": "SIT",
+        "why": "Ferguson ran a route on 72 percent of dropbacks in Week 2 and drew a 30 percent target share, then hurt his ankle @DEN and his route share fell to 15.6 percent. Sean McVay said Monday he will probably miss Sunday at PHI. Tyler Higbee caught 8 of 11 in his place on 47 routes.",
+        "verdict": "Sit him; treat him as out at PHI and stream Higbee."
       }
     ]
   },
