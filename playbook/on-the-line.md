@@ -1,6 +1,6 @@
 # On the Line (Thursday): start, sit, coin flips, Thursday night
 
-Runs Thursday 11:15 AM ET, after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = current content week.
+Runs Thursday 11:00 AM ET (FK Daily), after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = current content week.
 
 ## What it is
 

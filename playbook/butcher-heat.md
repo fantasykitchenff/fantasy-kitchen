@@ -1,6 +1,6 @@
 # Butcher Shop and Heat Check (Tuesday afternoon): trade for, trade away, risers, fallers
 
-Runs Tuesday 2:15 PM ET, after the 1:00 PM pantry. Posts at 6:25 PM ET. Two pieces from one run: `butcher.json` and `heat.json`. Week = current content week.
+Runs Tuesday 2:00 PM ET (FK Daily), after the 1:00 PM pantry. Posts at 6:25 PM ET. Two pieces from one run: `butcher.json` and `heat.json`. Week = current content week.
 
 ## What they are
 

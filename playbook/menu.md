@@ -1,6 +1,6 @@
 # The Menu (Wednesday): weekly positional rankings with tiers
 
-Runs Wednesday 11:15 AM ET, after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = current content week (`python3 tools/fk.py week`).
+Runs Wednesday 11:00 AM ET (FK Daily), after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = current content week (`python3 tools/fk.py week`).
 
 ## What it is
 

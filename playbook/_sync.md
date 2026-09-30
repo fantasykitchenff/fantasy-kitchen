@@ -44,24 +44,24 @@ Nothing runs before 10:00 AM ET. The pantry reads the owner's saved podcast tran
 |---|---|---|
 | 10:00 AM | Pantry 1 (`job: pantry` to FK Kitchen when it has new lines) | owner's computer |
 | 10:25 AM | Poster | owner's computer |
-| 11:15 AM | The day's series: Leftovers Mon, Market Run Tue, Menu Wed, On the Line Thu | FK Kitchen |
+| 11:00 AM | FK Daily: the day's series, Leftovers Mon, Market Run Tue, Menu Wed, On the Line Thu | FK Kitchen |
 | 11:36 AM | Order Up, first run (Sunday) | FK Kitchen and owner's computer |
-| 12:12 PM | Kitchen Notes, news run | FK Kitchen |
+| 12:00 PM | FK Daily: Kitchen Notes, news run | FK Kitchen |
 | 1:00 PM | Pantry 2 | owner's computer |
 | 1:25 PM | Poster, with reply mode | owner's computer |
-| 2:15 PM | Butcher Shop and Heat Check (Tuesday) | FK Kitchen |
+| 2:00 PM | FK Daily: Butcher Shop and Heat Check (Tuesday) | FK Kitchen |
 | 3:36 PM | Order Up, second run (Sunday) | FK Kitchen and owner's computer |
 | 4:00 PM | Pantry 3 | owner's computer |
-| 5:45 PM | Prep Notes (Friday) | FK Kitchen |
+| 5:00 PM | FK Daily: Prep Notes (Friday), after the final injury report | FK Kitchen |
 | 6:25 PM | Poster | owner's computer |
 | 7:00 PM | Pantry 4 | owner's computer |
-| 7:12 PM | Kitchen Notes, news run | FK Kitchen |
+| 6:00 PM | FK Daily: Kitchen Notes, news run | FK Kitchen |
 | 8:25 PM | Poster, with reply mode | owner's computer |
 | 10:00 PM | Pantry 5, only when the machine is still on | owner's computer |
 
-One scheduled task can start every FK Kitchen run above. Give it the payload `job: daily` and fire it at 11:15 AM, 12:12 PM, 2:15 PM, 5:45 PM and 7:12 PM ET every day (one task if the scheduler takes several times, else one task per time with the same payload). On `job: daily`, FK Kitchen runs `python3 tools/fk.py clock`, which names the job for this weekday and time from the table in `tools/fk.py` (`CLOCK_SLOTS`; a slot matches within 25 minutes of the start), and runs it as if the payload had said `job: <that>`; on `"job": "none"` (a Wednesday 2:15 PM, a Monday 5:45 PM) it ends at once. Order Up keeps its own Sunday tasks because it posts through the browser. The pantry and the poster are Cowork tasks with their own schedules.
+One scheduled task can start every FK Kitchen run above. Give it the payload `job: daily` and fire it at 11:00 AM, 12:00 PM, 2:00 PM, 5:00 PM and 6:00 PM ET every day (the task form takes one time each, so it is five tasks named FK Daily with the same instructions; none of them requires the owner's computer). On `job: daily`, FK Kitchen runs `python3 tools/fk.py clock`, which names the job for this weekday and time from the table in `tools/fk.py` (`CLOCK_SLOTS`; a slot matches within 30 minutes of the start), and runs it as if the payload had said `job: <that>`; on `"job": "none"` (a Wednesday 2:00 PM, a Monday 5:00 PM) it ends at once. Order Up keeps its own Sunday tasks because it posts through the browser. The pantry and the poster are Cowork tasks with their own schedules.
 
-A series runs 75 minutes after a pantry so that step 4a finds the payload filed; today's filings took under ten minutes each once the payload arrived. If the pantry takes longer than an hour on the owner's machine, move the series to 11:45 AM rather than the pantry earlier.
+A series runs an hour after a pantry so that step 4a finds the payload filed; the filings take under ten minutes each once the payload arrives. If the pantry itself takes longer than 45 minutes on the owner's machine, swap the two morning FK Daily times (Kitchen Notes at 11:00 AM, the series at 12:00 PM, with the thread slots moved to 1:20 PM still) rather than moving the pantry earlier than 10:00 AM.
 
 A pantry filing does not end with the notes and the pantry page. After filing and fixing the published calls the facts make wrong, FK Kitchen runs the Kitchen Notes method over the payload (`kitchen-notes.md`), so a new call reaches the site within the hour instead of waiting for the weekly piece: every ripple, crowd line or fact that changes a lineup, waiver or trade decision and is not yet an item becomes an item in this week's `notes.json` with `player`, `action` and the action's required field. The usage numbers must back it and the text says so; a crowd lean alone never makes an item; no show or analyst is named; a thread is queued only under the Kitchen Notes rules. The log line then carries "d notes items" before the threads count.
 

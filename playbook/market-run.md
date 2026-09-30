@@ -1,6 +1,6 @@
 # Market Run (Tuesday): the waiver wire, plus what Monday night changed
 
-Runs Tuesday 11:15 AM ET, after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = current content week (the coming week; on Tuesday `fk.py week` already returns it).
+Runs Tuesday 11:00 AM ET (FK Daily), after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = current content week (the coming week; on Tuesday `fk.py week` already returns it).
 
 ## What it is
 

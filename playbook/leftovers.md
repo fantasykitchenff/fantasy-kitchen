@@ -1,6 +1,6 @@
 # Leftovers (Monday): what Sunday actually told us
 
-Runs Monday 11:15 AM ET, after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = the week that just finished (on Monday `python3 tools/fk.py week` returns it). Monday night is not included; Tuesday's Market Run covers it.
+Runs Monday 11:00 AM ET (FK Daily), after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = the week that just finished (on Monday `python3 tools/fk.py week` returns it). Monday night is not included; Tuesday's Market Run covers it.
 
 ## What it is
 

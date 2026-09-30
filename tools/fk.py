@@ -145,16 +145,16 @@ def cmd_week(a):
 # runs `fk.py clock` and does the job it names. Times are Eastern; a slot matches when
 # the run starts within CLOCK_WINDOW_MIN of it. Order Up keeps its own Sunday tasks.
 CLOCK_SLOTS = [
-    ("mon", "11:15", "series leftovers"),
-    ("tue", "11:15", "series market-run"),
-    ("wed", "11:15", "series menu"),
-    ("thu", "11:15", "series on-the-line"),
-    ("tue", "14:15", "series butcher-heat"),
-    ("fri", "17:45", "series prep-notes"),
-    ("*",   "12:12", "series kitchen-notes"),
-    ("*",   "19:12", "series kitchen-notes"),
+    ("mon", "11:00", "series leftovers"),
+    ("tue", "11:00", "series market-run"),
+    ("wed", "11:00", "series menu"),
+    ("thu", "11:00", "series on-the-line"),
+    ("tue", "14:00", "series butcher-heat"),
+    ("fri", "17:00", "series prep-notes"),
+    ("*",   "12:00", "series kitchen-notes"),
+    ("*",   "18:00", "series kitchen-notes"),
 ]
-CLOCK_WINDOW_MIN = 25
+CLOCK_WINDOW_MIN = 30
 DAY_ABBR = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
 
 def clock_job(now_et):
