@@ -6,9 +6,9 @@
   "dek": "Three starting quarterbacks and five lead backs are off the menu, Kenneth Walker III is RB3, Jaylen Warren is a top-10 back on Thursday night, and Jayden Daniels sits outside the top 24 until he practices.",
   "format": "PPR",
   "publishedAt": "2026-09-30T10:00:00Z",
-  "updatedAt": "2026-09-30T13:54:00Z",
+  "updatedAt": "2026-09-30T15:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 11:00 AM ET: the rankings are rebuilt on a second read of every backfield and target tree. Kenneth Walker III moves up to RB3 and Jaylen Warren to RB10, Jaxon Smith-Njigba is the WR1, Marcus Mariota is the WAS quarterback on the menu with Jayden Daniels outside the top 24 until he practices, and Rico Dowdle joins the off-menu list. Puka Nacua, Justin Jefferson and Mike Evans sit outside the ranked depth until they practice; Prep Notes brings them back Friday if they do.\n\nWeek 4 has no byes and a lot of empty chairs. Caleb Williams, Baker Mayfield and Jaxson Dart are out at quarterback, De'Von Achane and Jordan Mason are on IR, Travis Etienne is out for Monday night, Rico Dowdle has not practiced on a short week, and Breece Hall is week to week. Every one of them has a pivot listed under Off the Menu. Rankings are for full PPR.\n\nThe biggest moves come from the snap counts, not the box scores. Warren is a top-10 back with 90 percent of the snaps and 20 touches in Dowdle's absence before Thursday's game at CLE. Chuba Hubbard and Aaron Jones Sr. are RB2s on deployment: 20 carries and every first-half snap for Hubbard, 78 percent of Minnesota's carries for Jones against the defense that has allowed the most points to running backs. Omarion Hampton lost his passing downs, Emeka Egbuka and Chris Godwin have an undrafted rookie at quarterback, and Brian Thomas Jr. is playing 37 percent of the snaps.\n\nNico Collins carries a flag at WR15: he has not practiced since the hamstring and needs a session by Friday. Prep Notes revisits every flag Friday after the final injury report and updates this page.",
+  "intro_md": "Updated Wed 11:20 AM ET: Rachaad White carries a flag after sitting out Wednesday's session with the shoulder, Jalen McMillan is on IR so Emeka Egbuka and Chris Godwin are the whole TB receiver room, and CHI starts Tyson Bagent vs NYJ if he practices all week. The order is this morning's: Kenneth Walker III at RB3, Jaylen Warren at RB10, Jaxon Smith-Njigba the WR1, and Marcus Mariota as the WAS quarterback with Jayden Daniels outside the top 24 after a limited jog-through in London. Puka Nacua, Justin Jefferson and Mike Evans sit outside the ranked depth until they practice; Prep Notes brings them back Friday if they do.\n\nWeek 4 has no byes and a lot of empty chairs. Caleb Williams, Baker Mayfield and Jaxson Dart are out at quarterback, De'Von Achane and Jordan Mason are on IR, Travis Etienne is out for Monday night, Rico Dowdle has not practiced on a short week, and Breece Hall is week to week. Every one of them has a pivot listed under Off the Menu. Rankings are for full PPR.\n\nThe biggest moves come from the snap counts, not the box scores. Warren is a top-10 back with 90 percent of the snaps and 20 touches in Dowdle's absence before Thursday's game at CLE. Chuba Hubbard and Aaron Jones Sr. are RB2s on deployment: 20 carries and every first-half snap for Hubbard, 78 percent of Minnesota's carries for Jones against the defense that has allowed the most points to running backs. Omarion Hampton lost his passing downs, Emeka Egbuka and Chris Godwin have an undrafted rookie at quarterback, and Brian Thomas Jr. is playing 37 percent of the snaps.\n\nNico Collins carries a flag at WR15: he has not practiced since the hamstring and needs a session by Friday. Prep Notes revisits every flag Friday after the final injury report and updates this page.",
   "outro_md": "Tiers are courses. The top of a tier is the safest plate; the bottom is where the flags live. A questionable player keeps his action and carries the flag until Friday. Specials are matchup plays outside the top tiers, and Off the Menu names the pivot for every player who is out.",
   "data": {
     "positions": {
@@ -191,7 +191,7 @@
           "team": "WAS",
           "pos": "QB",
           "opp": "vs IND",
-          "note": "Every snap vs SEA, 19 of 31 for 183 and 3 TD; starts in London unless Daniels is cleared.",
+          "note": "Every snap vs SEA, 3 TD; Daniels was limited in Wednesday's jog-through, Thursday decides.",
           "flag": "",
           "action": "STREAM"
         },
@@ -291,7 +291,7 @@
           "team": "CHI",
           "pos": "QB",
           "opp": "vs NYJ",
-          "note": "24 of 34 for 247 and 2 TD vs PHI; Johnson has not named him or Bagent for NYJ.",
+          "note": "24 of 34 for 247 and 2 TD vs PHI; Johnson says Bagent starts if he practices all week.",
           "flag": "",
           "action": "SIT"
         }
@@ -719,8 +719,8 @@
           "team": "WAS",
           "pos": "RB",
           "opp": "vs IND",
-          "note": "Shoulder, finished the game; Ekeler signed and competes for the receiving role vs IND.",
-          "flag": "",
+          "note": "Shoulder; did not practice Wednesday. Ekeler takes the receiving downs if he sits.",
+          "flag": "Q",
           "action": "FLEX"
         },
         {
@@ -801,7 +801,7 @@
           "team": "DET",
           "pos": "WR",
           "opp": "@CAR",
-          "note": "CAR lost Horn and Jackson in the secondary; Sunday night is a pass funnel.",
+          "note": "CAR put Horn and Jackson on IR Wednesday; Sunday night is a pass funnel.",
           "flag": "",
           "action": "START",
           "slot": "WR1",
@@ -1142,7 +1142,7 @@
           "team": "TB",
           "pos": "WR",
           "opp": "vs GB",
-          "note": "A season-high 9 targets, but an undrafted rookie starts at QB.",
+          "note": "A season-high 9 targets; McMillan is on IR, but an undrafted rookie starts at QB.",
           "flag": "",
           "action": "START",
           "slot": "WR3"
@@ -1281,7 +1281,7 @@
           "team": "TB",
           "pos": "WR",
           "opp": "vs GB",
-          "note": "3 for 25 on 43 snaps, and a rookie quarterback for three-plus weeks.",
+          "note": "3 for 25 on 43 snaps; McMillan on IR makes him the WR2, rookie QB for three-plus weeks.",
           "flag": "",
           "action": "FLEX"
         },
@@ -1661,7 +1661,7 @@
           "team": "DET",
           "pos": "WR",
           "opp": "@CAR",
-          "note": "CAR lost Horn and Jackson in the secondary; Sunday night is a pass funnel.",
+          "note": "CAR put Horn and Jackson on IR Wednesday; Sunday night is a pass funnel.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
@@ -2280,7 +2280,7 @@
           "team": "TB",
           "pos": "WR",
           "opp": "vs GB",
-          "note": "A season-high 9 targets, but an undrafted rookie starts at QB.",
+          "note": "A season-high 9 targets; McMillan is on IR, but an undrafted rookie starts at QB.",
           "flag": "",
           "action": "SIT"
         },
@@ -2305,7 +2305,7 @@
           "pos": "QB",
           "opp": "vs NYJ",
           "flag": "OUT",
-          "note": "Grade 2 hamstring, three to four weeks. Keenum or Bagent starts; Johnson has not said which.",
+          "note": "Grade 2 hamstring, three to four weeks. Bagent starts vs NYJ if he gets a full week of practice, Keenum if not.",
           "action": "PIVOT",
           "to": "Jared Goff"
         },
@@ -2453,7 +2453,7 @@
         "team": "DET",
         "pos": "QB",
         "opp": "@CAR",
-        "why": "CAR is without Horn (quad, 6 to 12 weeks) and Jackson (groin) in the secondary, and DET's receivers have three healthy starters. Sunday night is the pass funnel of the week.",
+        "why": "CAR put both starting corners on IR Wednesday, Horn (quad, 6 to 12 weeks) and Jackson (groin), and DET's receivers have three healthy starters. Sunday night is the pass funnel of the week.",
         "verdict": "Stream him.",
         "action": "STREAM"
       }

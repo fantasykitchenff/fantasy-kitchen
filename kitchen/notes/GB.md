@@ -145,6 +145,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Josh Jacobs: Jacobs is still being investigated by the league with a suspension unresolved, and he also has a groin injury. [8-13 h2h mock draft]
 - 2026-08-26: Christian Watson: Watson signed a four-year extension entering his fifth season. [8-26 myguys episode]
 - 2026-08-26: Josh Jacobs: The Packers GM said the team is preparing for a possible Jacobs suspension while the NFL investigation continues, saying they could sustain it and might claim a running back if it happens, possibly midseason. [8-26 myguys episode]
+- 2026-09-30: Kevin Zeitler signed a one-year deal; he started 16 games at guard for TEN in 2025 (team move).
 
 ## Injuries and status
 

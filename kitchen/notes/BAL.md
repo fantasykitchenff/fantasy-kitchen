@@ -103,6 +103,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Baltimore lost center Tyler Linderbaum in free agency. [8-13 TEs]
 - 2026-08-20: Baltimore lost C Tyler Linderbaum (elite run blocker) and signed Ethan Pocic; John Simpson returns at guard and a first-round rookie guard starts, so three new interior linemen. [8-20 Offensive Line Rankings]
 - 2026-08-20: Ronnie Stanley: Ronnie Stanley's health is year-to-year and drives how the Ravens line performs. [8-20 Offensive Line Rankings]
+- 2026-09-30: Jovaughn Gwyn, the starting center, fractured his fibula in Brazil and will likely need surgery; reported out until November or December (reports).
 
 ## Rookies
 

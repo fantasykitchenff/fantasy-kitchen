@@ -133,6 +133,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Jaycee Horn: quad, 6 to 12 weeks per ESPN's Jeremy Fowler; Mike Jackson: groin, left in the first half, tests Monday, Week 4 status not reported. [pod 9-28, beat]
 - 2026-09-23: Jonathon Brooks: core-muscle surgery, placed on IR, out at least six weeks. [pod 9-28, official]
 - 2026-09-28: Jalen Coker: Dave Canales called it a minor quad strain ('his quad lit up on him'); questionable for Week 4 vs DET (reports).
+- 2026-09-30: Jaycee Horn (quad) and Mike Jackson (groin) were both placed on injured reserve Wednesday; Horn could miss the rest of the season (reports).
 
 ## Other
 
