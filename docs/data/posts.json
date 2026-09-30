@@ -1,3 +1,54 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": "2026w03-notes-thread-2908",
+      "series": "notes",
+      "week": 3,
+      "kind": "thread",
+      "count": 3,
+      "postedAt": "2026-09-30T00:08:44Z",
+      "url": "https://x.com/FF_ChefHazy/status/2104952378504139128",
+      "preview": "De'Von Achane tore his ACL Sunday vs KC and the Dolphins put him on IR Monday. His season is over. Ollie Gordon II is the Miami back to buy in PPR. Let's get to it. #PhinsUp"
+    },
+    {
+      "id": "2026w03-notes-thread-115c",
+      "series": "notes",
+      "week": 3,
+      "kind": "thread",
+      "count": 3,
+      "postedAt": "2026-09-30T00:08:44Z",
+      "url": "https://x.com/FF_ChefHazy/status/2104953203041198388",
+      "preview": "Baker Mayfield dislocated his right thumb Sunday and Todd Bowles says he is out at least three weeks. Undrafted rookie Jalon Daniels starts vs GB. Hold Mayfield. Let's dive in. #GoBucs"
+    },
+    {
+      "id": "2026w04-market-thread-e4d7",
+      "series": "market",
+      "week": 4,
+      "kind": "thread",
+      "count": 10,
+      "postedAt": "2026-09-30T00:08:44Z",
+      "url": "https://x.com/FF_ChefHazy/status/2104955278785482961",
+      "preview": "Three backfields broke in Week 3, and the waiver wire is stocked with running backs. The first dollar goes to Ollie Gordon II, who took 84 percent of Miami's snaps after Achane's ACL. Claim him, 20 to 30 percent of FAAB. Let's get into it. #PhinsUp"
+    },
+    {
+      "id": "2026w04-butcher-thread-bdef",
+      "series": "butcher",
+      "week": 4,
+      "kind": "thread",
+      "count": 7,
+      "postedAt": "2026-09-30T00:08:44Z",
+      "url": "https://x.com/FF_ChefHazy/status/2104986659045486626",
+      "preview": "Chris Olave has 36 targets in three games and one touchdown. The box score hasn't caught up to the usage, and that gap is your buying window. Trade for him today. Let's get to it. #Saints"
+    },
+    {
+      "id": "2026w04-heat-thread-9a37",
+      "series": "heat",
+      "week": 4,
+      "kind": "thread",
+      "count": 6,
+      "postedAt": "2026-09-30T00:08:44Z",
+      "url": "https://x.com/FF_ChefHazy/status/2104986980324966719",
+      "preview": "Rashee Rice's targets went 2, then 6, then 9. The stove's on in Kansas City and he is the top name in this week's usage read. Trade for him before his price catches up. Let's dive in. #ChiefsKingdom"
+    }
+  ]
 }
