@@ -40,6 +40,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Jaxson Dart: Had the highest passing aDOT in the nation in his final Ole Miss season; he does not have the strongest arm but throws deep and runs a lot. [8-26 rankings and news updates]
 - 2026-09-24: Jaxson Dart: knee on the opening drive of Week 2 at LAR, placed on IR 9/24, out for the season per John Harbaugh. [pod 9-28, official]
 - 2026-09-28: Jameis Winston relieved Dart in Week 2 and made his first start in Week 3 (12-7 over TEN); Harbaugh said he starts Week 4 vs ARI. J.J. McCarthy was acquired from MIN for a 2027 fifth-round pick; Jake Haener was signed from the practice squad 9/26. [pod 9-28, official]
+- 2026-09-29: Jameis Winston: John Harbaugh said Winston starts Week 4 vs ARI and 'for as long as I can see into the future'; J.J. McCarthy is the No. 2 or 3 while he learns the offense. Winston's first start: 12-7 over TEN, Nabers 5 of 6 for 26 on a 27% target share, aDOT 1.0 (reports).
 
 ## Backfield
 
@@ -148,6 +149,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Najee Harris: Signed a one-year, $1.2M deal with the Giants with zero guaranteed money; he is 28 and coming off an Achilles tear and an eye injury. [8-26 rankings and news updates]
 - 2026-09-28: J.J. McCarthy: Acquired from MIN for a 2027 fifth-round pick, pending a physical; opens as backup to Jameis Winston with Jaxson Dart out for the season (team site).
 - 2026-09-29: Odell Beckham Jr. released after 19 snaps, one target and no catches in three games; Braxton Berrios signed to the active roster off the practice squad (NFL Network, ESPN).
+- 2026-09-29: J.J. McCarthy acquired from MIN for a 2027 fifth-round pick after Jaxson Dart (knee) went on IR for the season; Odell Beckham Jr. released, Braxton Berrios signed to the active roster (reports).
 
 ## Injuries and status
 

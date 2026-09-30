@@ -165,6 +165,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Jayden Daniels: traveled to London with the team Tuesday night; scheduled to practice Wednesday through Friday in an elbow brace, status vs IND to be decided after the staff sees him practice (Dan Quinn).
 - 2026-09-30: Jayden Daniels was a limited participant in Wednesday's jog-through session in London, his first practice since the elbow; Rachaad White (shoulder) did not participate (reports).
 - 2026-09-30: Jayden Daniels: Dan Quinn says there is a chance he starts vs IND and the team will have a definite determination by Friday; he would wear a brace on the left elbow. Rachaad White is getting treatment for the shoulder; he played 43% of the snaps vs SEA and returned after the injury; Austin Ekeler traveled to London (Quinn, reports).
+- 2026-09-30: Jayden Daniels: Dan Quinn said Wednesday it is 'too early to call' whether Daniels starts vs IND; he gets more reps Thursday and Friday with a decision by Friday, and would wear a brace on the left elbow. Rachaad White (shoulder, hurt vs SEA after 8 carries and a TD catch) sat out Wednesday (reports).
 
 ## Other
 

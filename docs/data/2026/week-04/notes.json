@@ -6,12 +6,27 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-30T16:20:00Z",
+  "updatedAt": "2026-09-30T16:25:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-09-30T16:20:00Z",
+        "player": "Jared Goff",
+        "action": "STREAM",
+        "url": "https://www.espn.com/nfl/story/_/id/50068364/panthers-cbs-jaycee-horn-mike-jackson-placed-ir",
+        "text": "Carolina placed both starting corners on injured reserve Wednesday, Jaycee Horn (quad) and Mike Jackson (groin), so rookie Will Lee III, Akayleb Evans and Chau Smith-Wade are the corners for Sunday night vs DET. Jared Goff (DET) is the Menu's stream of the week, and every Detroit pass catcher moved up on the page this morning. Stream Goff at CAR."
+      },
+      {
+        "at": "2026-09-30T16:20:00Z",
+        "player": "Malik Nabers",
+        "action": "HOLD",
+        "url": "https://sports.yahoo.com/articles/giants-j-j-mccarthy-trade-171132548.html",
+        "text": "John Harbaugh said Jameis Winston starts vs ARI and that J.J. McCarthy, acquired from MIN for a 2027 fifth-round pick, is the No. 2 or 3 while he learns the offense. Malik Nabers (NYG) drew 27 percent of the targets in Winston's first start but caught 5 of 6 for 26 yards at an average depth of target of 1.0. Hold Nabers as a WR2 on volume; what changes the call is McCarthy taking the job, and Week 6 vs NO is the first realistic date for that.",
+        "why": "27 percent of the targets holds even with a 1.0 average depth of target; the call changes only if McCarthy takes the job, Week 6 vs NO at the earliest."
+      },
       {
         "at": "2026-09-30T16:20:00Z",
         "player": "Jayden Reed",

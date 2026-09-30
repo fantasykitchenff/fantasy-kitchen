@@ -115,6 +115,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-02: Jalen Coker: Signed a large contract and remains a starter alongside McMillan; Xavier Legette is still on the roster. [8-2 players we need in every draft]
 - 2026-08-13: Darren Waller: The Panthers signed Darren Waller (33) to a one-year deal; he caught six TDs last year and is considered an upgrade over Ja'Tavion Sanders. [8-13 h2h mock draft]
 - 2026-09-28: Austin Ekeler was never on the 2026 roster (a reported workout only); he signed with Washington. [pod 9-28, official]
+- 2026-09-30: CB Jaycee Horn and CB Mike Jackson placed on injured reserve Wednesday; Will Lee III, Akayleb Evans and Chau Smith-Wade are the corners on the 53 for DET Sunday night (team, reports).
 
 ## Injuries and status
 
