@@ -94,6 +94,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Caleb Douglas: Rookie has impressed in camp; Malik Washington is the slot target, Greg Dulcich is healthy, and Chris Bell should return from his ACL at some point. [8-24 QB Rankings]
 - 2026-08-24: Caleb Douglas: Douglas is competing for a starting role in a Dolphins receiver room that also includes Tutu Atwell and Malik Washington and lacks an established No. 1 after Jaylen Waddle's departure. [8-24 embarrased to love players]
 - 2026-09-27: Malik Washington: 34 routes (79%), a game-high 10 targets, 5 for 56, 2 carries; Chris Bell: 52 snaps (72%, up from 41%), 25 routes (58%), 4 of 7 for 67. [pod 9-28, deployment]
+- 2026-09-27: Malik Washington: his 2 carries vs KC went for 5 yards. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -144,4 +145,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Dolphins rank 31st in implied win percentage and 32nd in multiple power indexes; the offense transitions from McDaniel to Bobby Slowik with a bad offensive line. [8-14 changed minds about players]
 - 2026-09-29: Week 4 at MIN opened MIN -9.5 with a 39.5 total and sits at MIN -11.5 with a 38.5 total, a Miami implied total of 13.5. [pod 9-29, aggregation]
 - 2026-09-30: Defense has allowed the most fantasy points to running backs through three weeks (reports).
+- 2026-09-30: Schedule: @MIN in Week 4, CIN in Week 5, bye in Week 6, @NYJ in Week 7. [pod 9-29, official]
 

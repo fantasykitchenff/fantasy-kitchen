@@ -167,6 +167,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Jeremiyah Love: Love got 14 carries in the preseason game vs. the Raiders and suffered an ankle sprain on a hip-drop tackle on the last one; it looks like a high ankle sprain and the team is hopeful for Week 1 vs. the Chargers. [8-17 Breakouts and Injury stuff]
 - 2026-08-19: Jeremiyah Love: Love has a high ankle sprain from the preseason and the team has made no commitment that he will be ready for Week 1; the injury is prone to aggravation and sapped effectiveness. [8-19 RBs drafting and fading]
 - 2026-08-20: Jeremiyah Love: Injured in preseason and not expected to play again before the season; his Week 1 availability is in question, with Tyler Allgeier the fill-in if he misses time. [8-20 buying or selling rookie hype]
+- 2026-08-30: James Conner: opened the season on injured reserve (ankle), out at least the first four games, eligible to return in Week 5 (NBC Sports). [pod 9-29, official]
 
 ## Other
 

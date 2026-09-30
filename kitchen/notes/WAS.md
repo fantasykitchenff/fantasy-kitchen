@@ -101,6 +101,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Stefon Diggs: In 2025 with New England Diggs posted 2.42 yards per route run (7th among WRs) and was WR28 in PPG while running routes on only about 70% of dropbacks as the Patriots rested him with leads. [8-20 WRs talk]
 - 2026-08-21: Stefon Diggs: Topped 1,000 yards in 2025 coming off a torn ACL and signed with the Commanders, where volume is expected. [8-21 mayhem mock draft]
 - 2026-09-27: Terry McLaurin 6 for 77 and a touchdown on 52 snaps (75%); Diggs 4 for 33; Treylon Burks 2 for 13 and a touchdown. [pod 9-28, deployment]
+- 2026-09-27: Terry McLaurin: 9 targets vs SEA, 9 of Marcus Mariota's 31 attempts (29%). Receiver snaps: McLaurin 52 (75%), Stefon Diggs 41 (59%), Antonio Williams 28 (41%), Treylon Burks 25 (36%), Dyami Brown 21 (30%), Jaylin Lane 5. Tight end snaps: John Bates 37, Ben Sinnott 34 (team site). [pod 9-29, deployment]
 
 ## Tight ends
 

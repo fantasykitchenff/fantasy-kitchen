@@ -6,12 +6,36 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-30T16:25:00Z",
+  "updatedAt": "2026-09-30T18:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-09-30T18:20:00Z",
+        "text": "Klint Kubiak said Monday that Mike Washington Jr. (LV) earned more opportunities, the second time he has said it. Ashton Jeanty's last 40 carries went for 104 yards, he visited the trainers @NO, and he still has 63 of the two backs' 78 carries (81 percent) and all 16 targets. The Butcher Shop card keeps the trade-for call with the first-half carry split vs KC as the check. Trade for him; offer a low-end WR1 or a RB1 whose role is less secure.",
+        "url": "",
+        "player": "Ashton Jeanty",
+        "action": "TRADE_FOR",
+        "price": "a low-end WR1 or a RB1 with a shakier role"
+      },
+      {
+        "at": "2026-09-30T18:20:00Z",
+        "text": "Mike Washington Jr. (LV) has 15 carries for 102 yards, 6.8 a carry, with 5 for 54 and a 36-yard touchdown @NO, and the coach has said twice that he earned more opportunities. He has no receiving role. Jeanty still has 81 percent of the backs' carries, so this is a handcuff with a rising early-down share, and the yards per carry back it. Stash him, 3 to 8 percent of FAAB, if you own Jeanty or have a deep bench.",
+        "url": "",
+        "player": "Mike Washington Jr.",
+        "action": "STASH",
+        "faab": "3-8%"
+      },
+      {
+        "at": "2026-09-30T18:20:00Z",
+        "text": "The Menu had Colston Loveland (CHI) at 4 of 4 for 34 yards vs PHI; the game line was 31, and 34 is his season total on 5 catches. His target share is 10 percent on 71 percent of the routes this season. Kalif Raymond has 23 percent of the targets. Loveland's row keeps its number and its call. Start him as your TE1 vs NYJ.",
+        "url": "",
+        "player": "Colston Loveland",
+        "action": "START",
+        "slot": "TE1"
+      },
       {
         "at": "2026-09-30T16:20:00Z",
         "player": "Jared Goff",

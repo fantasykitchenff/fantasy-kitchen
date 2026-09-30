@@ -30,6 +30,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Geno Smith: Training camp reports on him have been somewhat ugly; the next quarterbacks on the depth chart are Cade Klubnik and Brady Cook. [8-26 rankings and news updates]
 - 2026-08-26: Geno Smith: OC Frank Reich said he has been 'so impressed' with Geno Smith's play in camp. [8-26 myguys episode]
 - 2026-09-29: Geno Smith: 31 of 37, 321 yards, 3 TDs (Garrett Wilson, Sadiq, Jeremy Ruckert) in the 31-24 Week 3 loss at DET; sacked 5 times, lost a fumble on the final drive (box score).
+- 2026-09-27: Geno Smith: 75.5% completions and no interceptions through three games (team site). [pod 9-29, deployment]
 
 ## Backfield
 
@@ -80,6 +81,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Garrett Wilson: Played every preseason snap with Geno Smith; he and Adonai Mitchell look locked in as every-down receivers. [8-26 rankings and news updates]
 - 2026-08-26: Garrett Wilson: OC Frank Reich called Wilson the offense's bell cow, bringing him up unprompted when asked about Omar Cooper Jr.; the passing game is described as consolidated around him. [8-26 myguys episode]
 - 2026-08-26: Garrett Wilson: Wilson averaged a 28% target share over four seasons and 30% in seven 2025 games; he was the WR5 before his injury with four top-15 weeks in the first five games. [8-26 myguys episode]
+- 2026-09-27: Garrett Wilson: 10 of 13 for 107 and a 23-yard touchdown @DET, 13 of 37 team targets (35%); season 21 catches for 243 yards and 2 touchdowns. Wilson and Kenyon Sadiq together drew 21 of 37 targets (57%), 212 of 321 passing yards and 2 of the 3 touchdowns. [pod 9-29, deployment]
 
 ## Tight ends
 

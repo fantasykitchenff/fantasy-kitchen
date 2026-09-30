@@ -79,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Zay Flowers: Flowers' target share rose each season to 29% in 2025 (86 catches, ~1,200 yards) with low TD totals; Baltimore gave him a big extension and new OC Declan Doyle comes from Ben Johnson's tree. [8-24 adp adjustments]
 - 2026-08-24: Zay Flowers: Flowers posted a 90th-percentile success rate vs. zone coverage in 2023, 98th in 2024 and 91st in 2025, while also improving significantly against press. [8-24 adp adjustments]
 - 2026-09-26: Zay Flowers: hamstring, on a snap count, 21 snaps, 5 of 6 for 84 in the 34-31 win over DAL in Brazil; the head coach expects a full workload vs TEN. [pod 9-28, beat]
+- 2026-09-26: Zay Flowers: 234 receiving yards in two partial games: 150 and a touchdown in the first half of Week 1 vs IND before he aggravated the hamstring, no game in Week 2, then 5 of 6 for 84 plus one carry for 20 on 21 snaps vs DAL in Week 3. [pod 9-29, deployment]
 
 ## Tight ends
 

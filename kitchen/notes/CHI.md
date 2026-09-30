@@ -107,6 +107,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Luther Burden III: 11 targets (32%), 7-61-1, 42 snaps (61%), 26 routes (74%); season 25% target share, 28% targets per route. [pod 9-29, deployment]
 - 2026-09-28: Kalif Raymond: 52 snaps (75%), 24 routes (69%), 7 targets (21%), 6-90-1; season 67% snaps, 66% routes, 23% target share, 27% targets per route. [pod 9-29, deployment]
 - 2026-09-28: Rome Odunze: 3 of 6 for 44 on 59 snaps (86%) with a dropped touchdown; he has led the receivers in snaps two straight weeks. [pod 9-29, deployment]
+- 2026-09-28: Kalif Raymond: 214 receiving yards through three games, 71 a game. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -127,7 +128,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Colston Loveland: As a 21-year-old rookie the 10th overall pick led the Bears in receiving yards, the first rookie TE to do so for the franchise since Mike Ditka. [8-26 myguys episode]
 - 2026-08-26: Colston Loveland: Over the final four 2025 games (Weeks 17-18 plus two playoff games) Loveland drew 49 targets with four straight double-digit target games, including 8-137-1 in the wild card win at Green Bay. [8-26 myguys episode]
 - 2026-08-26: Colston Loveland: In that four-game stretch he was targeted on 35% of routes and 7 of the 49 targets came in the red zone; the Bears lined him up in the slot and out wide, not only inline. [8-26 myguys episode]
-- 2026-09-29: Colston Loveland: 4 catches on 4 targets for 34 yards vs PHI in Week 3; a 6-yard TD was overturned at the goal line (reports).
+- 2026-09-29: Colston Loveland: 4 catches on 4 targets for 31 yards vs PHI in Week 3 (corrected 9/30: 34 was his season total on 5 catches); a 6-yard TD was overturned at the goal line (reports).
+- 2026-09-28: Colston Loveland: 4 of 4 for 31 yards vs PHI on 22 routes (63%) and 55 snaps (80%); 34 is his season total on 5 catches, which corrects the 9/29 line. Season: 10% target share and 11% targets per route on 71% of the routes. Cole Kmet: 42 snaps, 13 routes, 1 target. [pod 9-29, deployment]
 
 ## Offensive line
 

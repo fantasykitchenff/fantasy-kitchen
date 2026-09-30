@@ -28,6 +28,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Josh Allen: Has posted a passing TD rate of 5%+ in each of the last six seasons and in 2025 led all QBs in rushing attempts, rushing yards, rushing TDs and expected rushing TDs. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-22: Josh Allen: Allen has finished QB1 or QB2 six straight years; in both 2024 and 2025 he was a top-five fantasy QB without a top-36 receiver or top-12 tight end, and he enters year nine as the all-time leader in QB rushing touchdowns. [8-22 10 players we cant stop drafting]
 - 2026-09-27: Josh Allen took a helmet to the left knee in the fourth quarter vs LAC, stayed in and played all 66 snaps (16 of 26, 204, 0 TD, 2 INT, 4 sacks); the OC said Tuesday he is sore but not a concern; no diagnosis reported. [pod 9-28, beat]
+- 2026-09-27: Josh Allen: three turnovers, two of them interceptions, and two rushing touchdowns on 22 rushing yards in the 24-16 win over LAC. [pod 9-29, deployment]
 
 ## Backfield
 

@@ -18,6 +18,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-09: Brock Purdy: Team is old and injury-prone: Ricky Pearsall hurt, Trent Williams aging, Mike Evans not practicing, Kittle off an Achilles, and McCaffrey and Deebo Samuel are late-career players. [8-9 QB preview]
 - 2026-08-14: Brock Purdy: Has thrown a TD on 7% or more of his passes in three of his four seasons; the league average is 4.4%. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-14: Kurtis Rourke: QB3 Kurtis Rourke (6'4, 220) made some nice plays in the preseason opener. [8-14 things we learned from pre season games]
+- 2026-09-27: Brock Purdy: 15 of 27 for 297 yards and 4 touchdowns, 2 carries for 34, in the 36-30 win over ARI. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -91,6 +92,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: De'Zhaun Stribling: Brock Purdy called Stribling a really smart player who has shown he understands everything; camp buzz has been strong with Ricky Pearsall out and Christian Kirk hurt. [8-26 myguys episode]
 - 2026-08-26: Deebo Samuel: Expected to open the season around a 40-60% snap share and take a few running back carries per game, more if McCaffrey were out. [8-26 rankings and news updates]
 - 2026-08-26: Demarcus Robinson: Trusted by the coaches and has logged big playing-time percentages before; he is in the mix for snaps behind Evans and Samuel. [8-26 rankings and news updates]
+- 2026-09-27: KhaDarel Hodge played 30 of 54 snaps (56%) after Mike Evans left, ran 13 routes and was not targeted. Deebo Samuel led the receivers with 40 snaps, had zero targets and was still credited with 80 receiving yards and a touchdown. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -200,4 +202,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-06: The 49ers' offense is seen as the most fragile of the Shanahan era, reliant on old and injured players; Trent Williams is aging, and the line looks weak across the board. [8-6 1st round picks downsides]
 - 2026-08-12: The 49ers open against the Rams in Melbourne and will fly out eight days early; the Rams plan to fly in the day before. [8-12 Camp Updates Article]
 - 2026-09-30: Defense has allowed the fewest fantasy points to tight ends through Week 3 (reports).
+- 2026-09-30: Schedule: DEN at home in Week 4, then @SEA, WAS, @ATL, bye in Week 8, LV, @DAL. [pod 9-29, official]
 

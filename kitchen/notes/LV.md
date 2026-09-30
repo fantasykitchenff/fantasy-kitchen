@@ -13,6 +13,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Clint Kubiak: Kubiak's offenses in New Orleans and Seattle turned into explosive downfield passing groups; Seattle ranked second in 10-plus-yard gains last season. [8-13 mock draft 3.0]
 - 2026-08-19: Klint Kubiak's first preseason game showed duo runs and gap scheme mixed with zone, and the offensive line played far more cohesively than last year. [8-19 Offenses to look out for]
 - 2026-08-19: Klint Kubiak is the Raiders' new offensive play caller; he steered Sam Darnold to a career high in yards per attempt last season. [8-19 RBs drafting and fading]
+- 2026-09-28: Klint Kubiak said Monday that Mike Washington Jr. "made a really big impact on the game and definitely earned more opportunities"; on Ashton Jeanty he said nobody is 100 percent and Jeanty has played through it. Kubiak had also said on 9/11 that Washington had earned more opportunities. [pod 9-29, coach]
 
 ## Scheme and tendencies
 
@@ -78,6 +79,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Mike Washington: Rookie RB has drawn positive camp buzz; in the preseason he ran 15 times for 119 yards with 2 catches for 18 yards on 45 snaps, and he could start Week 1 if Jeanty's ankle keeps him out. [8-26 rankings and news updates]
 - 2026-09-29: Ashton Jeanty: 20-plus touches in each of the first three games; 206 rushing yards at 3.3 yards per carry, no rushing TD; 13-97-2 receiving on 16 targets; 19 for 56 plus 3 of 3 for 37 in the 35-27 Week 3 win @NO (CBS, reports).
 - 2026-09-27: Ashton Jeanty 19 for 56 and 3 catches for 37; season 3.3 yards per carry, 13-97-2 receiving on 16 targets; Mike Washington 5 for 54 and his first career touchdown. [pod 9-28, deployment]
+- 2026-09-27: Ashton Jeanty: 63 carries for 206 yards through three games, by game 23 for 102, 21 for 48 and 19 for 56, so his last 40 carries went for 104 yards (2.6 a carry); long run 15, no rushing touchdown; he visited the trainers during the game @NO. [pod 9-29, deployment]
+- 2026-09-27: Mike Washington Jr.: 15 carries for 102 yards (6.8 a carry) through three games; 5 for 54 with a 36-yard touchdown @NO in Week 3. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -156,3 +159,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-07-14: Went 3-14 (2-14 after a Week 1 win at NE), win total 5.5, favored in three games. Pete Carroll is out (his sons had staff roles), Clint Kubiak is HC, Kirk Cousins signed and Fernando Mendoza went No. 1 overall. [7-14 afc west breakdown]
 - 2026-07-14: Opens at LAC, at NO, then KC, NE and BUF. [7-14 afc west breakdown]
 - 2026-08-19: The Raiders scored 80% of their 2025 touchdowns through the air; only 12 teams in the last decade did that and none repeated it, pointing toward more rushing scores in 2026. [8-19 RBs drafting and fading]
+- 2026-09-30: Schedule: KC at home in Week 4, then @NE, BUF, LAR, @NYJ, @SF, SEA, @DEN, @CLE, with the bye in Week 13. [pod 9-29, official]

@@ -6,9 +6,9 @@
   "dek": "Chris Olave has 36 targets and one touchdown. That price will not last, so go get him today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T17:20:00Z",
-  "updatedAt": "2026-09-29T17:20:00Z",
+  "updatedAt": "2026-09-30T18:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Three weeks in, the box scores and the usage are telling two different stories, and the trade market reads the box scores. The buys below are getting the ball and not the points yet. The sells are getting the points without the ball, or are about to lose the role. Every price is written for 12-team PPR leagues; scale it to your league.",
+  "intro_md": "Updated Wed 2:20 PM ET: Ashton Jeanty's card now carries the coach's Monday comment on Mike Washington Jr., Jeanty's last 40 carries and the trainers visit @NO; the trade-for call stands, with the first-half carry split vs KC as the check.\n\nThree weeks in, the box scores and the usage are telling two different stories, and the trade market reads the box scores. The buys below are getting the ball and not the points yet. The sells are getting the points without the ball, or are about to lose the role. Every price is written for 12-team PPR leagues; scale it to your league.",
   "outro_md": "Heat Check has the usage trends behind these calls, and the Menu lands Wednesday with every one of them ranked.",
   "data": {
     "buy": [
@@ -36,8 +36,8 @@
         "pos": "RB",
         "action": "TRADE_FOR",
         "price": "a low-end WR1 or a RB1 with a shakier role",
-        "why": "Jeanty has topped 20 touches in all three games and has 16 targets, with a 13-97-2 receiving line. The rushing side has lagged at 3.3 yards per carry with no rushing touchdown, and that is the discount.",
-        "verdict": "Trade for him; offer a low-end WR1 or a RB1 whose role is less secure."
+        "why": "Jeanty has topped 20 touches in all three games with 63 of the two backs' 78 carries and all 16 targets, but his last 40 carries went for 104 yards (2.6 a carry), he has no rushing touchdown, and he visited the trainers @NO. Klint Kubiak said Monday that Mike Washington Jr., who has 15 carries for 102 yards, earned more opportunities, the second time he has said it, and that is the discount.",
+        "verdict": "Trade for him; offer a low-end WR1 or a RB1 whose role is less secure, and watch the first-half carry split vs KC before you go higher."
       },
       {
         "player": "Jordan Love",

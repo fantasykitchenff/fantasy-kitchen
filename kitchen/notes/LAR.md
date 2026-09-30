@@ -45,6 +45,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Kyren Williams: Williams handled 74% of the Rams' backfield touches before the 2025 bye but only 60% over the 13 games after it as Blake Corum earned more work. [8-19 RBs drafting and fading]
 - 2026-08-26: Blake Corum: The Rams offense lacks explosiveness in the backfield and at receiver, which is cited as a reason Corum could take another step in 2026. [8-26 rankings and news updates]
 - 2026-09-27: Kyren Williams 15 for 88 and 6 catches for 70 on 71% snaps; Blake Corum 6 for 15 and 2 catches for 0 on 29%. [pod 9-28, deployment]
+- 2026-09-27: Kyren Williams: 6 catches on 7 targets for 70 yards @DEN; 11 catches on 12 targets through three games, 5.6 yards per carry, one rushing and one receiving touchdown. [pod 9-29, deployment]
 
 ## Receivers
 

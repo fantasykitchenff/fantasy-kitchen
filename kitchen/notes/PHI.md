@@ -41,6 +41,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jalen Hurts: Lost AJ Brown via trade; rookies Makai Lemon and Eli Stowers have had shaky camps and Lemon is injured, so Dontayvion Wicks may open as the WR2. Dallas Goedert remains a key red-zone piece. [8-24 QB Rankings]
 - 2026-08-24: Jalen Hurts: Reports of interceptions in joint practices with New England came with DeVonta Smith practicing but not in team drills and rookie Makhi Lemon still working back; the offense is expected to be whole by Week 1. [8-24 adp adjustments]
 - 2026-08-24: Jalen Hurts: Hurts rushed for 421 yards and 8 TDs in 2025 after four straight seasons of 600+ rushing yards and 10+ rushing TDs; he was QB8 in 2025 after QB6, QB2, QB1 and QB7 finishes. [8-24 adp adjustments]
+- 2026-09-28: Jalen Hurts: 16 of 26 for 153 yards and 2 interceptions @CHI. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -109,6 +110,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Makai Lemon: Rookie is back at practice after missing offseason time with injury. Dontayvion Wicks is expected to hold the two-WR set role early, with Lemon pushing for it as the season goes on. [8-20 buying or selling rookie hype]
 - 2026-08-24: Dontayvion Wicks: Camp reports are very positive on Wicks, who has been getting the reps while Makhi Lemon works back from injuries dating to OTAs. [8-24 adp adjustments]
 - 2026-08-24: Hollywood Brown: Hollywood Brown was the target on a viral camp interception by Quinyon Mitchell; he reportedly flattened the route, and he is not expected to be a top-three option. [8-24 adp adjustments]
+- 2026-09-28: DeVonta Smith: 8 targets (32%), 6 for 65 on 97% of the routes @CHI, a 33% target share on the season. Dontayvion Wicks: 5 targets, 2 for 32, 81% routes. Makai Lemon: 4 targets, 3 for 29, 84% routes on 68% of the snaps, an 11% share on the season. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -129,6 +131,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Eli Stowers: Listed as co-TE3 on the first unofficial depth chart behind Dallas Goedert and blocker Johnny Mundt; camp reports universally say he is off to a slow start. Goedert is on a one-year deal. [8-14 changed minds about players]
 - 2026-08-16: Eli Stowers: Rookie Stowers was called for holding and pulled up on a split block; he has not stood out in camp and could see almost no snaps. [8-16 preseason week 1 recap]
 - 2026-09-29: Dallas Goedert: Ruled out of Week 3 at CHI with a knee injury (team report).
+- 2026-09-28: Week 3 @CHI: Johnny Mundt 24 snaps (51%), 10 routes, 1 target; Zach Ertz 18 snaps (38%), 11 routes, 2 targets, 1 catch for 9. PHI ran 47 offensive snaps. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -144,6 +147,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Transactions and contracts
 
 - 2026-07-20: Philadelphia used its first three picks on offense (WR Makai Lemon, TE Eli Stowers, OL Markell Bell) and signed Hollywood Brown after losing AJ Brown; last year the tush push drew more false starts and was stripped. [7-20 coaching change talk]
+- 2026-09-21: Zach Ertz signed to the practice squad after Dallas Goedert's MCL sprain (hurt in Week 2 vs TEN). Eli Stowers and Grant Calcaterra are on injured reserve (NBC Sports Philadelphia, ESPN). [pod 9-29, official]
 
 ## Injuries and status
 
