@@ -21,8 +21,8 @@ The kitchen's rankings for the week being played: QB, RB, WR, TE and FLEX (RB/WR
 
 ## Method
 
-1. Pool: every player in `projections.json` with a projection for this week (`week_pts` if present, otherwise `ppg`). Remove bye teams, ruled-out players, IR, suspended.
-2. Order each position by the projection. That order is the starting point and it wins any argument that does not have a fact behind it.
+1. Pool: every player in `projections.json` with a projection for this week (`week_pts` if present, otherwise `ppg`), plus any player the owner ranked who has no projection (a new starter). Remove bye teams, ruled-out players, IR, suspended.
+2. Order each position by the projection, or by the blended value in `blended.json` when the owner's rankings exist for the week (`_sync.md` step 3). That order is the starting point and it wins any argument that does not have a fact behind it. When the owner ranks a player far from the model, the blend is the answer; do not re-litigate it in the notes, and never mention the blend or the owner's list in copy.
 3. Adjust, in this order, and write the reason into the row's `note`:
    - Ruled out or on bye: out of the rankings, into `off_menu`.
    - Doubtful: drop to the bottom of the next tier down. Questionable with a soft-tissue injury and limited reporting: move down within the tier. Questionable but practiced in full or reporting is confident: no move, flag stays.
@@ -31,7 +31,7 @@ The kitchen's rankings for the week being played: QB, RB, WR, TE and FLEX (RB/WR
    - Do not adjust anything the owner has marked as owner-set in the workbook (owner flags, if present in `projections.json`).
 4. Tiers: break where the projection gap is largest, no tier wider than about one point per game at RB/WR/TE and about two at QB, at most 6 tiers. Injury-discounted players rank above their raw number within a tier when the discount is the only reason they fell (doctrine).
 5. Depth: QB 24, RB 40, WR 50, TE 20, FLEX 60 (built from the RB/WR/TE lists by projection, tiers recomputed on the combined list).
-6. Notes: every row in the top 12 at each position gets a `note` (max 90 characters). Any player who moved two or more spots from the raw order gets a note explaining why. Notes are facts and reads, never projected numbers.
+6. Notes: every row in the top 12 at each position gets a `note` (max 90 characters). Any player who moved two or more spots from the raw order (the blended order when it exists) gets a note explaining why. Notes are facts and reads, never projected numbers.
 7. Opponent string: `vs KC` home, `@KC` away, `BYE` never appears (bye players are removed).
 8. Action per row (the action rule in `_standards.md`), set by position and rank for a 12-team, 2 RB, 2 WR, 2 FLEX PPR league: QB 1 to 12 START, 13 to 18 STREAM, 19 and below SIT. RB 1 to 24 START, 25 to 36 FLEX, 37 and below SIT. WR 1 to 36 START, 37 to 48 FLEX, 49 and below SIT. TE 1 to 12 START, 13 to 16 STREAM, 17 and below SIT. FLEX list: 1 to 24 START, 25 to 48 FLEX, 49 and below SIT. A questionable player keeps his action and carries the flag; a row whose note says "have a backup ready" is START with `watch` filled in. `off_menu` rows are PIVOT with `to` set to the replacement. `specials` are START with the `slot`.
 
