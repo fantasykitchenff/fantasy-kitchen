@@ -1,0 +1,8 @@
+{
+  "_comment": "Pins tools/extract_projections.py to the owner's Hazelton_2026_Team_Projections.xlsx layout. Projections come from the four Rankings sheets (columns A-B: Player, Points, one row per player; column G: Position). Team comes from the 32 team sheets, whose tables carry Player and Positional Rank. The workbook has no games column, so ppg is season points divided by season_games.",
+  "sheets": ["QB Rankings", "RB Rankings", "WR Rankings", "TE Rankings"],
+  "columns": {"player": "Player", "points": "Points", "pos": "Position"},
+  "team_sheets": ["ARI", "ATL", "BAL", "BUF", "CAR", "CHI", "CIN", "CLE", "DAL", "DEN", "DET", "GB", "HOU", "IND", "JAC", "KC", "LAC", "LAR", "LVR", "MIA", "MIN", "NE", "NO", "NYG", "NYJ", "PHI", "PIT", "SF", "SEA", "TB", "TEN", "WAS"],
+  "team_aliases": {"JAC": "JAX", "LVR": "LV"},
+  "season_games": 17
+}

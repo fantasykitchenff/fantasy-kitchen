@@ -14,3 +14,4 @@ One line per task run, appended by `python3 tools/fk.py log "..."`. Newest at th
 - 2026-09-29 20:53 ET: owner: the day's clock starts at 10:00 AM ET; pantry at 10, 1, 4, 7, 10; series 75 minutes after a pantry (Mon-Thu 11:15 AM, Butcher and Heat Tue 2:15 PM); threads moved to 1:20 and 6:20 PM; pantry filings end with a Kitchen Notes pass
 - 2026-09-29 21:07 ET: owner: one scheduled task with payload 'job: daily' can start every FK Kitchen run; fk.py clock names the job for the weekday and time
 - 2026-09-29 21:27 ET: owner: FK Daily is five tasks, one time each, whole hours: 11 AM, 12 PM, 2 PM, 5 PM, 6 PM ET; clock slots moved to match, 30-minute window
+- 2026-09-29 23:03 ET: model: Hazelton_2026_Team_Projections.xlsx is in the model repo (main); workbook_map.json pins the extractor to it; 474 players extracted, teams from the team sheets, ppg = season / 17

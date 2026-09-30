@@ -73,6 +73,7 @@ A pantry filing does not end with the notes and the pantry page. After filing an
 
 1. The workbook is the `*_Team_Projections.xlsx` file at the root of the `fantasy-kitchen-model` checkout (`ls *_Team_Projections.xlsx`). (If that repo is unavailable but the Claude Project lists a file of that name, `project_read` it instead; the bytes land in a local file.)
 2. `python3 tools/extract_projections.py "<path to xlsx>" --out "$SCRATCH/projections.json"`. If it reports that it could not find the player table, run it with `--inspect`, read the sheet and header list it prints, and pass the right sheet with `--sheet` and column names with `--map` (the flags are documented in the script). Do not guess player values; if extraction fails twice, stop and log it.
+   `tools/workbook_map.json` pins the owner's workbook: the four Rankings sheets are the projections, the position is the sheet's, the team comes from the 32 team sheets, and `ppg` is the season number divided by 17 because the workbook has no games column (the file says so in `ppg_basis`). Do not pass `--sheet` or `--map` while that file matches the workbook.
 3. `projections.json` holds, per player: name, team, position, rest-of-season per-game projection, weekly projection when the workbook carries one, and any owner flags. These numbers are inputs. They are never published, never written to notes, never committed to the public repo. Rankings are ordered by them, then adjusted by this week's news per the series playbook, and only ranks and tiers leave the kitchen.
 
 ## Step 4. Research

@@ -61,6 +61,49 @@ def find_tables(ws, max_scan_rows=60):
             if norm(ws.title).upper() in POS_VALUES or re.search(r"\b(qb|rb|wr|te)s?\b", norm(ws.title)):
                 yield ri + 1, headers
 
+
+POSRANK_RE = re.compile(r"^(QB|RB|WR|TE|K|DST)\s*(\d+)$", re.I)
+PLACEHOLDER_RE = re.compile(r"^[A-Z]{2,3}\s+(QB|RB|WR|TE|K|DST)\d+$")
+
+def team_lookup(wb, sheet_names, aliases):
+    """Map (player, pos) and player -> team code from per-team sheets whose tables carry a Player
+    column and a Positional Rank column (values like RB8). The team is the sheet name."""
+    by_key, by_name = {}, {}
+    for name in sheet_names:
+        if name not in wb.sheetnames:
+            print(f"warning: team sheet '{name}' not found", file=sys.stderr); continue
+        team = aliases.get(name.strip().upper(), name.strip().upper())
+        ws = wb[name]
+        rows = list(ws.iter_rows(values_only=True))
+        for ri, row in enumerate(rows):
+            headers = [norm(c) for c in row]
+            ip = header_index(headers, PLAYER_HEADERS)
+            ir = next((i for i, h in enumerate(headers) if h.startswith("positional rank")), None)
+            if ip is None or ir is None:
+                continue
+            blanks = 0
+            for r in rows[ri + 1:]:
+                nm = r[ip] if ip < len(r) else None
+                if nm is None or str(nm).strip() == "":
+                    blanks += 1
+                    if blanks >= 2:
+                        break
+                    continue
+                blanks = 0
+                if norm(nm) == "player":
+                    break
+                nm = str(nm).strip()
+                if PLACEHOLDER_RE.match(nm):
+                    continue
+                pr = str(r[ir] or "").strip() if ir < len(r) else ""
+                m = POSRANK_RE.match(pr)
+                if not m:
+                    continue
+                pos = m.group(1).upper()
+                by_key[(nm.lower(), pos)] = team
+                by_name.setdefault(nm.lower(), set()).add(team)
+    return by_key, {k: next(iter(v)) for k, v in by_name.items() if len(v) == 1}
+
 def read_table(ws, header_row, headers, sheet_pos=None, mapping=None):
     mapping = mapping or {}
     def col(key, cands):
@@ -79,6 +122,8 @@ def read_table(ws, header_row, headers, sheet_pos=None, mapping=None):
                 break
             continue
         blanks = 0
+        if PLACEHOLDER_RE.match(str(name).strip()):
+            continue
         rec = {"player": str(name).strip(), "sheet": ws.title}
         if ipos is not None and ipos < len(row) and row[ipos]:
             rec["pos"] = str(row[ipos]).strip().upper()
@@ -132,6 +177,9 @@ def main():
             print(f"warning: sheet '{name}' not found", file=sys.stderr); continue
         ws = wb[name]
         sheet_pos = name.strip().upper() if name.strip().upper() in POS_VALUES else None
+        if sheet_pos is None:
+            m = re.search(r"\b(qb|rb|wr|te|k|dst)\b", norm(name))
+            sheet_pos = m.group(1).upper() if m else None
         for hr, headers in find_tables(ws):
             players.extend(read_table(ws, hr, headers, sheet_pos, cols))
     # de-duplicate: keep the record with the most numeric values per (player, team, pos)
@@ -143,8 +191,30 @@ def main():
     players = sorted(best.values(), key=lambda p: (p.get("pos", ""), -(p.get("ppg") or p.get("points") or 0)))
     if not players:
         sys.exit("could not find a player table; run with --inspect and pass --sheet/--map or fill tools/workbook_map.json")
+    # team from per-team sheets (mapping "team_sheets"), when the ranking tables carry none
+    if mapping.get("team_sheets"):
+        by_key, by_name = team_lookup(wb, mapping["team_sheets"], {k.upper(): v for k, v in (mapping.get("team_aliases") or {}).items()})
+        for p in players:
+            if not p.get("team"):
+                t = by_key.get((p["player"].lower(), p.get("pos", ""))) or by_name.get(p["player"].lower())
+                if t:
+                    p["team"] = t
+    # per-game number when the workbook has no games column (season projection / season_games)
+    season_games = mapping.get("season_games")
+    ppg_basis = None
+    if season_games:
+        for p in players:
+            if "ppg" not in p and "points" in p:
+                p["ppg"] = round(p["points"] / season_games, 3)
+        ppg_basis = f"season points / {season_games} (no games column in the workbook)"
+    meta = {"source": os.path.basename(a.workbook), "count": len(players), "players": players}
+    if ppg_basis:
+        meta["ppg_basis"] = ppg_basis
     with open(a.out, "w") as f:
-        json.dump({"source": os.path.basename(a.workbook), "count": len(players), "players": players}, f, indent=1)
+        json.dump(meta, f, indent=1)
+    no_team = [p["player"] for p in players if not p.get("team")]
+    if no_team:
+        print(f"warning: {len(no_team)} players have no team: " + ", ".join(no_team[:12]) + (" ..." if len(no_team) > 12 else ""), file=sys.stderr)
     by_pos = {}
     for p in players:
         by_pos[p.get("pos", "?")] = by_pos.get(p.get("pos", "?"), 0) + 1
