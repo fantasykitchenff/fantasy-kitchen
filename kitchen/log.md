@@ -12,3 +12,4 @@ One line per task run, appended by `python3 tools/fk.py log "..."`. Newest at th
 - 2026-09-29 19:19 ET: Kitchen Notes: 8 items logged, 0 posts queued (Warren/Dowdle, Reed, Beckham, Rypien/Daniels, Jayden Daniels, Nacua, Collins, Coker); pantry: 9 items used; memory and Projects tools unavailable, used kitchen notes; every news site fetch blocked, facts from search results; queue note: all 5 pending threads from today (10:20 AM to 1:22 PM ET) are still unposted at 7:20 PM ET
 - 2026-09-29 20:08 ET: ledger: 5 posted, 0 failed, 0 replies, 0 skipped
 - 2026-09-29 20:53 ET: owner: the day's clock starts at 10:00 AM ET; pantry at 10, 1, 4, 7, 10; series 75 minutes after a pantry (Mon-Thu 11:15 AM, Butcher and Heat Tue 2:15 PM); threads moved to 1:20 and 6:20 PM; pantry filings end with a Kitchen Notes pass
+- 2026-09-29 21:07 ET: owner: one scheduled task with payload 'job: daily' can start every FK Kitchen run; fk.py clock names the job for the weekday and time

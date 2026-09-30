@@ -139,6 +139,43 @@ def cmd_week(a):
     when = parse_iso(a.date).astimezone(ET) if a.date else None
     print(json.dumps(content_week(when, a.finished), indent=2))
 
+
+# ---------------------------------------------------------------- the day's clock
+# One scheduled task, one payload ("job: daily"), fired at every slot below. FK Kitchen
+# runs `fk.py clock` and does the job it names. Times are Eastern; a slot matches when
+# the run starts within CLOCK_WINDOW_MIN of it. Order Up keeps its own Sunday tasks.
+CLOCK_SLOTS = [
+    ("mon", "11:15", "series leftovers"),
+    ("tue", "11:15", "series market-run"),
+    ("wed", "11:15", "series menu"),
+    ("thu", "11:15", "series on-the-line"),
+    ("tue", "14:15", "series butcher-heat"),
+    ("fri", "17:45", "series prep-notes"),
+    ("*",   "12:12", "series kitchen-notes"),
+    ("*",   "19:12", "series kitchen-notes"),
+]
+CLOCK_WINDOW_MIN = 25
+DAY_ABBR = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
+
+def clock_job(now_et):
+    day = DAY_ABBR[now_et.weekday()]
+    best = None
+    for d, hm, job in CLOCK_SLOTS:
+        if d != "*" and d != day:
+            continue
+        h, m = (int(x) for x in hm.split(":"))
+        slot = now_et.replace(hour=h, minute=m, second=0, microsecond=0)
+        off = abs((now_et - slot).total_seconds()) / 60
+        if off <= CLOCK_WINDOW_MIN and (best is None or off < best[0]):
+            best = (off, d, hm, job)
+    if best is None:
+        return {"job": "none", "now": now_et.strftime("%a %H:%M ET")}
+    return {"job": best[3], "slot": f"{'Daily' if best[1] == '*' else best[1].title()} {best[2]}", "now": now_et.strftime("%a %H:%M ET")}
+
+def cmd_clock(a):
+    now = parse_iso(a.at).astimezone(ET) if a.at else dt.datetime.now(ET)
+    print(json.dumps(clock_job(now)))
+
 # ---------------------------------------------------------------- standards checks
 EM_DASH = re.compile(r"[—–]")
 ARROWS = re.compile(r"(->|=>|<-|[←-⇿➡⬅-⬇⤴⤵])")
@@ -705,6 +742,7 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
     w = sub.add_parser("week"); w.add_argument("--finished", action="store_true"); w.add_argument("--date"); w.set_defaults(fn=cmd_week)
     wh = sub.add_parser("when"); wh.add_argument("when"); wh.add_argument("--finished", action="store_true"); wh.set_defaults(fn=cmd_when)
+    ck = sub.add_parser("clock", help="which job the day's clock names right now (job: daily)"); ck.add_argument("--at", help="ISO timestamp to test instead of now"); ck.set_defaults(fn=cmd_clock)
     sub.add_parser("validate").set_defaults(fn=cmd_validate)
     sub.add_parser("manifest").set_defaults(fn=cmd_manifest)
     sub.add_parser("site-url").set_defaults(fn=cmd_site_url)
