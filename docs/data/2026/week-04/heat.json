@@ -6,9 +6,9 @@
   "dek": "Rashee Rice went from 2 targets to 6 to 9. The Kansas City passing game is his again.",
   "format": "PPR",
   "publishedAt": "2026-09-29T17:20:00Z",
-  "updatedAt": "2026-09-29T22:55:46Z",
+  "updatedAt": "2026-09-30T19:40:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 6:55 PM ET: corrected Rashee Rice's Week 3 target share to 41% (18.7% is his three-game share); the trade-for call stands.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball three weeks running or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets, or just lost the thing his role depended on. One number backs each call. PPR scoring.",
+  "intro_md": "Updated Wed 3:40 PM ET: Wan'Dale Robinson's riser card now cites his 81 percent route share; two snap-count sources disagree on his Week 3 snaps, so the snap jump is gone. The claim stands.\n\nUpdated Tue 6:55 PM ET: corrected Rashee Rice's Week 3 target share to 41% (18.7% is his three-game share); the trade-for call stands.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball three weeks running or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets, or just lost the thing his role depended on. One number backs each call. PPR scoring.",
   "outro_md": "The trade prices for these trends are in the Butcher Shop, and the Menu lands Wednesday.",
   "data": {
     "risers": [
@@ -46,11 +46,11 @@
         "player": "Wan'Dale Robinson",
         "team": "TEN",
         "pos": "WR",
-        "stat": "Snaps 28 to 38; targets 7 in Weeks 1 and 2, then 11 in Week 3",
+        "stat": "Targets 7 in Weeks 1 and 2 combined, then 11 in Week 3 on 81 percent of the routes",
         "action": "CLAIM",
         "faab": "2-5%",
-        "why": "Robinson drew a game-high 11 targets @NYG in Week 3 and caught 7 for 57 yards and a touchdown. His snaps jumped from 28 to 38, and Cam Ward looked for him first in the rain.",
-        "verdict": "Claim him, 2 to 5 percent of FAAB. A PPR flex @BAL if the snaps hold."
+        "why": "Robinson drew a game-high 11 targets @NYG in Week 3 and caught 7 for 57 yards and a touchdown. He ran a route on 81 percent of the dropbacks, and Cam Ward looked for him first in the rain.",
+        "verdict": "Claim him, 2 to 5 percent of FAAB. A PPR flex @BAL if the routes hold."
       },
       {
         "player": "Kenyon Sadiq",

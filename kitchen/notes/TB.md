@@ -55,6 +55,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Bucky Irving: The preseason showed a genuine split between Irving and Kenneth Gainwell. [8-24 embarrased to love players]
 - 2026-09-29: Kenny Gainwell: 3 carries for minus 4 yards and 2 catches on 5 targets in the Week 3 loss at MIN; 32 snaps to Bucky Irving's 36; 2.1 yards per carry through three games (box score).
 - 2026-09-28: Bucky Irving 15 for 46, sat the final two possessions with a back wrap; Bowles said Monday he is not on the injury report; OC Zac Robinson said 9/24 he is on a bit of a pitch count for the longevity of the season. Irving 36 snaps to Kenneth Gainwell 32; Gainwell 3 carries for minus 4. [pod 9-28, coach]
+- 2026-09-27: Bucky Irving: Week 3: 15 carries for 46 and 2 catches on 2 targets for 12 on 36 snaps (52%). By week: carries 8, 17, 15 (40 for 180 and 1 TD), targets 7, 4, 2, snap share 61%, 78%, 52%. Kenny Gainwell's snap share: 46%, 35%, 46%; Sean Tucker has 1 offensive snap. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -99,11 +100,15 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Chris Godwin: Godwin, 30, has had a strong camp with Baker Mayfield and said on a radio show he feels like the best version of himself; observers note his 2025 film coming off injury was rough. [8-24 adp adjustments]
 - 2026-09-29: Emeka Egbuka: 5 of 9 targets for 62 yards vs MIN in Week 3, his season high in targets (CBS).
 - 2026-09-27: Emeka Egbuka 5 of 9 for 62 on 51 snaps; Chris Godwin 43 snaps, 3 for 25; Ted Hurst III led the receivers with 52 snaps and a 40-yard touchdown. [pod 9-28, deployment]
+- 2026-09-27: Ted Hurst III: Has played 75%, 74% and 75% of the snaps in Weeks 1 to 3. Emeka Egbuka: 86%, 86%, 74%. Chris Godwin: 86%, 86%, 62%. Tez Johnson: 23%, 29%, 23%. Jalen McMillan played 9 snaps all season before going on IR. [pod 9-29, deployment]
+- 2026-09-27: Emeka Egbuka: 20 targets in three games (6, 5, 9) for 13 catches, 141 yards and 1 TD. [pod 9-30, deployment]
+- 2026-09-27: Chris Godwin: Had an 85-yard touchdown called back by penalty vs MIN; finished with 3 catches for 25 on 62% of the snaps. [pod 9-30, deployment]
 
 ## Tight ends
 
 - 2026-08-12: Cade Otton: Cade Otton is locked in as the clear TE1 in an expanded offensive role. [8-12 130 training camp storylines and league updates]
 - 2026-08-23: Cade Otton: The Buccaneers gave Otton a sizable contract this offseason; with Mike Evans gone he should be on the field a ton, though he has historically been poor at earning targets. [8-23 highstakes draft]
+- 2026-09-27: Payne Durham: Played 55% of the snaps (38) vs MIN after 12% and 6% in Weeks 1 and 2, as Tampa used two-tight-end sets and put him in the backfield for protection; Cade Otton has played 98%, 89% and 94%. [pod 9-30, deployment]
 
 ## Offensive line
 
@@ -113,6 +118,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: The Bucs' offensive line was not fully healthy in 2025 but currently looks like it could be a top-five unit. [8-18 WR targets and avoids]
 - 2026-08-19: The Bucs' offensive line collapsed with injuries in 2025 but is rated a top-three unit for 2026 with Tristan Wirfs back and Cody Mauch healthier. [8-19 RBs drafting and fading]
 - 2026-08-20: Tampa Bay lost 27 games to injury among its RT and both guards in 2025; healthy, Tristan Wirfs, Luke Goedeke and RG Cody Mauch make it a top pass-protection unit that could be the league's best. [8-20 Offensive Line Rankings]
+- 2026-09-27: Baker Mayfield: Sacked 6 times and hit 12 times vs MIN; 17 of 34 for 217, 1 TD, 1 INT. Tampa was 2 of 17 on third down with 243 total yards. Through three games Mayfield is 61 of 96 for 615. [pod 9-29, deployment]
 
 ## Transactions and contracts
 
@@ -144,3 +150,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Baker Mayfield: dislocated right thumb on a fourth-and-1 in the fourth quarter vs MIN; MRI showed no ligament or tendon damage (Rapoport); Todd Bowles said a minimum of three weeks, earliest return Week 7 at CAR. Jalon Daniels (undrafted rookie) went 0 for 3 with a game-ending interception and starts vs GB; Easton Stick is the practice-squad quarterback. [pod 9-28, official]
 - 2026-09-29: Jalen McMillan: right-knee PCL strain on the opening drive, the same knee from camp, 6 to 8 weeks per ESPN's Jenna Laine. [pod 9-28, beat]
 - 2026-09-30: Jalen McMillan (PCL) was placed on injured reserve Wednesday, designated to return, 6 to 8 weeks; Emeka Egbuka and Chris Godwin are the starting receivers (team move, reports).
+
+## Other
+
+- 2026-09-27: Rookies Rueben Bain Jr. and Josiah Trotter did not play vs MIN; Tampa's bye is Week 10. [pod 9-29, official]

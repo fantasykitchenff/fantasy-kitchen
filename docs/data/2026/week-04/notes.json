@@ -6,12 +6,101 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-30T19:35:00Z",
+  "updatedAt": "2026-09-30T19:40:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Kenyon Sadiq",
+        "action": "START",
+        "slot": "TE1",
+        "text": "Mason Taylor (NYJ) did not practice Wednesday, remains week to week with the thumb and is expected to miss a second straight game at CHI; Adonai Mitchell (finger) is week to week too. Kenyon Sadiq played 57.6 percent of the snaps at DET, ran a route on 58 percent of the dropbacks and drew 8 of 37 targets, so the Menu moves him from a stream to a start at TE16. Start Sadiq as your TE1 at CHI.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Braelon Allen",
+        "action": "FLEX",
+        "text": "Breece Hall (NYJ) sat out Wednesday's practice with the quadriceps and is week to week. Braelon Allen played every snap after Hall left at DET, 4 carries for 14 and 3 catches for 3 yards, and Isaiah Davis has no offensive snap this season; Hall's catches went to Garrett Wilson and Sadiq, not to Allen. Flex Allen at CHI, and if Hall is ruled out Friday, start him as a low RB2.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Geno Smith",
+        "action": "STREAM",
+        "text": "Geno Smith (NYJ) went 31 of 37 for 321 yards and 3 touchdowns at DET with 5 sacks, and he has completed 75.5 percent with no interception through three games. The Menu had him at QB23 as a sit with no note while the Market Run called him a stream; the two pages now agree. Stream him at CHI if your starter is Mayfield or Dart.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Dontayvion Wicks",
+        "action": "FLEX",
+        "text": "The Menu row for Dontayvion Wicks (PHI) carried a Green Bay note about Jayden Reed. Wicks is an Eagle: 5 targets, 2 catches for 32 on 81 percent of the routes at CHI, with DeVonta Smith taking a third of the targets. The row now carries his own usage. Flex him vs LAR in deep leagues only.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Jalen Hurts",
+        "action": "START",
+        "slot": "QB1",
+        "text": "Jalen Hurts (PHI) was checked for a concussion after a late hit at CHI, cleared, and back in after four snaps; he finished 16 of 25 for 153 with 1 interception, 4 rushes for 25 and a sneak score. He has 16 rushes for 87 yards and one rushing touchdown in three games, so the Menu note no longer calls that a floor. He stays QB7. Start him as your QB1 vs LAR.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "DK Metcalf",
+        "action": "FLEX",
+        "text": "DK Metcalf (PIT) had 5 targets vs CIN even with Roman Wilson benched for the second half, and he has 98 yards on 24 targets in three games while Pittsburgh leaned on two tight ends (Darnell Washington 47 of 62 snaps). The targets did not consolidate, so both Menu lists now say the same thing. Flex him at CLE Thursday; he is not a WR3 start.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Sam Darnold",
+        "action": "STREAM",
+        "text": "Sam Darnold (SEA) went 31 of 45 for 379 yards and 4 touchdowns with 2 interceptions at WAS in his first game back from the glute injury, and Seattle gained 437 yards at 6.8 a play. The Menu note carried only the picks and sat him while the same page sent Mayfield managers his way. Stream him vs LAC.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Jadarian Price",
+        "action": "SIT",
+        "text": "Jadarian Price (SEA) had 6 touches on 19 snaps and 11 routes at WAS, third of the three backs in carries and routes, and his fumble came on his third carry with no carry again until the third quarter; he has 2 lost fumbles on 32 touches. Mike Macdonald said Monday the team keeps giving him the ball, but the usage does not support a flex yet. Sit him vs LAC until the first-quarter carries come back.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Chris Godwin",
+        "action": "SIT",
+        "text": "Ted Hurst III (TB) led the receivers with 52 snaps vs MIN and has played 75, 74 and 75 percent of the snaps, so Wednesday's note calling Emeka Egbuka and Chris Godwin the whole receiver room was wrong; Jalen McMillan's IR move changes nothing, since he played 9 snaps all season. Godwin fell from 86 to 62 percent of the snaps when Tampa went to two tight ends and caught 3 for 25. Sit Godwin vs GB.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Emeka Egbuka",
+        "action": "FLEX",
+        "text": "Emeka Egbuka (TB) has 13 catches for 141 on 20 targets in three games, and his snap share fell from 86 to 74 percent vs MIN while Baker Mayfield was sacked 6 times behind this line; undrafted rookie Jalon Daniels starts vs GB. The Menu's receiver list said start and the flex list said sit; both now say flex. Flex him vs GB, and sit him in 10-team leagues.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Tony Pollard",
+        "action": "FLEX",
+        "text": "Tyjae Spears (TEN) did not practice Wednesday with the ankle he aggravated at NYG, though Robert Saleh said there is no concern about him playing at BAL. Starting right guard Fernando Carmona Jr. and backup Jackson Slater went to IR Tuesday, and Michael Carter was signed to the roster. Tony Pollard had 53 percent of the snaps, 80 percent of the early downs and no third-down snap; if Spears sits, the passing downs are his. Flex Pollard at BAL; his Menu row now carries a watch on Spears' Thursday and Friday practice.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Tyjae Spears",
+        "action": "MONITOR",
+        "watch": "Thursday and Friday practice, then the Friday designation",
+        "text": "Tyjae Spears (TEN) did not practice Wednesday (ankle) after 26 snaps, 16 routes and 3 carries at NYG, and the coach says he expects him to play at BAL. He runs more routes than Pollard and owns the third downs when active. Monitor Spears; Thursday and Friday practice, then the Friday designation.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Wan'Dale Robinson",
+        "action": "CLAIM",
+        "faab": "2-5%",
+        "text": "Wan'Dale Robinson (TEN) drew a game-high 11 targets at NYG, 7 for 57 and a touchdown, on 29 routes, 81 percent of the dropbacks. The Heat Check and the Menu said his snaps went from 28 to 38; a second snap source has 36, so both pages now cite the route share instead. Claim him, 2 to 5 percent of FAAB; a PPR flex at BAL if the routes hold.",
+        "at": "2026-09-30T19:40:00Z"
+      },
+      {
+        "player": "Jaylen Warren",
+        "action": "START",
+        "slot": "RB1",
+        "text": "Rico Dowdle (PIT) did not practice Monday (an estimated line from the walkthrough) or Tuesday, and Wednesday's line had not posted when checked; the earlier note counted three DNPs and linked Monday's report, and that is fixed. Travis Homer, signed from the practice squad before Week 3, is the change-of-pace back behind Jaylen Warren, who played 56 of 62 snaps with 21 opportunities for 176 yards vs CIN. Start Warren as your RB1 at CLE Thursday night.",
+        "at": "2026-09-30T19:40:00Z"
+      },
       {
         "at": "2026-09-30T19:35:00Z",
         "player": "Jayden Reed",
@@ -298,8 +387,8 @@
         "player": "Jaylen Warren",
         "action": "START",
         "slot": "RB1",
-        "url": "https://www.rotowire.com/football/headlines/rico-dowdle-injury-sits-out-walkthrough-session-639698",
-        "text": "Rico Dowdle (PIT) is a non-participant on Wednesday's estimated report, his third straight DNP on the short week, and he has not practiced since the toe injury in Week 2. Jaylen Warren played 90 percent of the snaps and touched the ball 20 times without him, and he is RB10 on this week's Menu. Start Warren as your RB1 @CLE Thursday night."
+        "url": "https://steelersdepot.com/2026/09/steelers-week-4-tuesday-injury-report-porter-practices-fully-dowdle-remains-sidelined/",
+        "text": "Rico Dowdle (PIT) did not practice Monday (an estimated line from the walkthrough) or Tuesday, and he has not practiced since the toe injury in Week 2. Jaylen Warren played 90 percent of the snaps and touched the ball 20 times without him, and he is RB10 on this week's Menu. Start Warren as your RB1 @CLE Thursday night."
       },
       {
         "at": "2026-09-30T16:20:00Z",
@@ -342,49 +431,10 @@
       },
       {
         "at": "2026-09-29T23:20:00Z",
-        "player": "Jaylen Warren",
-        "action": "START",
-        "slot": "RB2",
-        "url": "https://steelersdepot.com/2026/09/steelers-week-4-tuesday-injury-report-porter-practices-fully-dowdle-remains-sidelined/",
-        "text": "Rico Dowdle (PIT) did not practice Tuesday, his second straight missed session on the short week, and he has not practiced since he hurt the toe. Jaylen Warren played 90 percent of the snaps and touched the ball 20 times without him. Start Warren as your RB2 vs CLE Thursday."
-      },
-      {
-        "at": "2026-09-29T23:20:00Z",
-        "player": "Odell Beckham Jr.",
-        "action": "DROP",
-        "url": "https://www.nfl.com/news/giants-to-release-veteran-wr-odell-beckham-jr-after-three-games",
-        "text": "The Giants released Odell Beckham Jr. Tuesday after 19 snaps, one target and no catches in three games, and signed Braxton Berrios to the active roster in his place. Drop him."
-      },
-      {
-        "at": "2026-09-29T23:20:00Z",
         "player": "Jalon Daniels",
         "action": "SIT",
         "url": "https://www.pewterreport.com/bucs-sign-veteran-quarterback/",
         "text": "Tampa Bay signed Brett Rypien to the practice squad Tuesday, and Todd Bowles says undrafted rookie Jalon Daniels still starts vs GB. Daniels went 0 for 3 with an interception in relief of Baker Mayfield. Sit him in every format; he is not a streamer."
-      },
-      {
-        "at": "2026-09-29T23:20:00Z",
-        "player": "Jayden Daniels",
-        "action": "MONITOR",
-        "watch": "Wednesday and Thursday practice reports from London",
-        "url": "https://www.nfl.com/news/commanders-qb-jayden-daniels-expected-to-travel-practice-in-london",
-        "text": "Jayden Daniels (WAS) flew to London with the team Tuesday night and is set to practice Wednesday through Friday in an elbow brace, per Dan Quinn. Washington decides on him vs IND after it sees him work. Monitor the Wednesday and Thursday practice reports."
-      },
-      {
-        "at": "2026-09-29T23:20:00Z",
-        "player": "Puka Nacua",
-        "action": "MONITOR",
-        "watch": "Wednesday practice; a full session is the tell",
-        "url": "https://www.espn.com/nfl/story/_/id/50028567/rams-targeting-week-4-return-wr-puka-nacua",
-        "text": "Sean McVay says he is hopeful Puka Nacua (LAR) plays at PHI after two missed games with groin soreness, and calls it to be determined. Terrance Ferguson and Jaylen Watson are likely out and Colby Parkinson's shoulder is undecided. Monitor Wednesday's practice; a full session is the tell."
-      },
-      {
-        "at": "2026-09-29T23:20:00Z",
-        "player": "Jalen Coker",
-        "action": "MONITOR",
-        "watch": "Wednesday practice",
-        "url": "https://sports.yahoo.com/articles/panthers-good-news-jalen-coker-181540484.html",
-        "text": "Dave Canales says Jalen Coker (CAR) has a minor quad strain, and the team calls him questionable for DET. Monitor Wednesday's practice before you plug him in."
       },
       {
         "at": "2026-09-29T23:05:00Z",
@@ -392,65 +442,6 @@
         "player": "Roman Wilson",
         "action": "MONITOR",
         "watch": "first-half snap share vs CLE Thursday"
-      },
-      {
-        "at": "2026-09-29T23:05:00Z",
-        "text": "Ollie Gordon II (MIA) took 84 percent of the snaps after Achane went down, with a fullback and a receiver taking the other 12 at halfback. Miami worked out four backs Tuesday and signed none. Claim him, 20 to 30 percent of FAAB.",
-        "player": "Ollie Gordon II",
-        "action": "CLAIM",
-        "faab": "20-30%"
-      },
-      {
-        "at": "2026-09-29T23:05:00Z",
-        "text": "Jaylen Wright (MIA) sat Week 3 with a stinger and a foot issue, and Miami's coach said Monday he is day-to-day and could practice Wednesday. Stash him, 5 to 10 percent of FAAB.",
-        "player": "Jaylen Wright",
-        "action": "STASH",
-        "faab": "5-10%"
-      },
-      {
-        "at": "2026-09-29T23:05:00Z",
-        "text": "Travis Etienne Jr. (NO) had 13 carries for 57 yards before the hamstring went, and Alvin Kamara took 6 of the next 10 carries and 20 of the 34 second-half snaps with CJ Donaldson on third downs. Claim Kamara, 15 to 25 percent of FAAB.",
-        "player": "Alvin Kamara",
-        "action": "CLAIM",
-        "faab": "15-25%"
-      },
-      {
-        "at": "2026-09-29T23:05:00Z",
-        "text": "Kenyon Sadiq (NYJ) had three pass catchers out at DET, not one: Mason Taylor (thumb), Adonai Mitchell (finger) and Omar Cooper Jr. (IR). He ran a route on 58 percent of dropbacks and drew 21.6 percent of the targets. Claim him, 12 to 20 percent of FAAB.",
-        "player": "Kenyon Sadiq",
-        "action": "CLAIM",
-        "faab": "12-20%"
-      },
-      {
-        "at": "2026-09-29T23:05:00Z",
-        "text": "The Market Run's Monday night note no longer calls Tyson Bagent the likely starter: Ben Johnson has not named one and said the staff will discuss it. Monitor who takes first-team reps at Wednesday practice.",
-        "player": "Case Keenum",
-        "action": "MONITOR",
-        "watch": "who takes first-team reps at Wednesday practice"
-      },
-      {
-        "at": "2026-09-29T22:55:46Z",
-        "text": "Rashee Rice (KC) drew 9 of the Chiefs' 22 targets @MIA in Week 3, a 41 percent share, after 9.5 percent through two games. This week's Heat Check listed 18.7 percent as his Week 3 share; that is his three-game share, and the card is fixed. The buy call stands: trade for him, offer a WR3 and a bench RB.",
-        "url": "heat.html?week=4",
-        "player": "Rashee Rice",
-        "action": "TRADE_FOR",
-        "price": "a WR3 and a bench RB"
-      },
-      {
-        "at": "2026-09-29T03:35:00Z",
-        "text": "D'Andre Swift (CHI) carried 20 times for 84 yards against his old team Monday night. Twenty carries is the number that matters. Start him as your RB2 vs NYJ.",
-        "url": "https://www.bleachernation.com/bears/2026/09/28/bears-win-mnf-vs-phi/",
-        "player": "D'Andre Swift",
-        "action": "START",
-        "slot": "RB2"
-      },
-      {
-        "at": "2026-09-29T03:30:00Z",
-        "text": "Saquon Barkley (PHI) ran 15 times for 82 yards @CHI, 73 of them on 11 first-half carries before the game got away. Start him vs LAR.",
-        "url": "https://www.cbssports.com/fantasy/football/news/eagles-saquon-barkley-solid-numbers-in-double-digit-loss/",
-        "player": "Saquon Barkley",
-        "action": "START",
-        "slot": "RB1"
       }
     ]
   },

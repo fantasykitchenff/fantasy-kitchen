@@ -28,6 +28,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Sam Darnold: Darnold looks confident and in command with a deep group of weapons. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Sam Darnold: Ranked top eight among 42 qualifying QBs in 2025 in completion rate, yards per attempt, adjusted completion rate, completion rate over expected and PFF passing grade. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-09-27: Sam Darnold threw 2 interceptions including a 50-yard pick-six in the 33-31 loss at WAS, which ended a 12-game win streak. [pod 9-28, deployment]
+- 2026-09-27: Sam Darnold: 31 of 45 for 379 yards, 4 TD and 2 INT @WAS in his first game back from the glute injury that knocked him out on the first drive of Week 1 and kept him out of Week 2 (Drew Lock played); Seattle gained 437 yards at 6.8 a play to Washington's 258 at 4.0 and lost the turnover count 3 to 0. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -63,6 +64,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jadarian Price: Rookie Jadarian Price has gotten a lot of passing-game work in camp and the coaching staff is reportedly excited to use him as a receiver, something he rarely did behind Jeremiah Love at Notre Dame. [8-24 adp adjustments]
 - 2026-08-24: Zach Charbonnet: Seattle had two top-24 fantasy backs in 2025 (Charbonnet and Walker, around RB20-22); Charbonnet was often forced onto the field near the goal line and is now working back from injury with an unclear return. [8-24 adp adjustments]
 - 2026-09-27: Jadarian Price 5 for 15 with a lost fumble (second straight game), held out until the second half, 19 snaps (28%); George Holani 24 snaps (36%), 5 catches and 3 carries for 58; Emanuel Wilson 24 snaps (36%), and 21 for 92 in Week 2 when Price left early. [pod 9-29, deployment]
+- 2026-09-27: Jadarian Price: Six touches @WAS (5 for 15 rushing, 1 catch for 7 on 1 target), 19 snaps and 11 routes; the lost fumble came on his third carry in the first quarter and he did not carry again until the third. Emanuel Wilson 9 for 14 on 24 snaps and 14 routes; George Holani 3 for 10 and 5 of 5 for 48 on 24 snaps and 15 routes. Two lost fumbles on 32 touches this season. [pod 9-29, deployment]
+- 2026-09-28: Jadarian Price: Mike Macdonald, asked whether Price would be benched, said the team will continue to give him the ball and that he will work through the fumbling; no update on Zach Charbonnet, who is not eligible until Week 5. [pod 9-30, coach]
 
 ## Receivers
 
@@ -104,6 +107,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Rookies
 
 - 2026-07-29: Jadarian Price: Price's prospect model score (85.23) ranks 15th among RBs in the past five draft classes. [7-29 RB analysis]
+- 2026-09-29: Jadarian Price: Fumbled 5 times on 295 touches at Notre Dame and lost 4 (NFL.com). [pod 9-30, beat]
 
 ## Transactions and contracts
 
@@ -127,4 +131,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-07-25: Seattle went 14-3, ranked 2nd in points per game with the NFL's lowest pass rate, and had the No. 1 scoring defense; they are favored in 14 of 17 games. [7-25 nfc west breakdown]
 - 2026-08-05: Kenneth Walker missed no games in 2025 yet averaged only about 12 fantasy ppg in this offense; Greg Zabel was drafted last year to improve the line. [8-5 rookie RBs and TEs to watch]
 - 2026-09-30: Defense has allowed the fewest fantasy points to wide receivers through Week 3 and is top five against running backs; Week 4 vs LAC is at Lumen Field, 4:25 PM ET (reports, team site).
-
+- 2026-09-27: SEA defense: Allowed 33 points @WAS but only 258 yards at 4.0 a play; the three Seattle turnovers led to 20 of the points, including a 50-yard interception return. [pod 9-30, deployment]

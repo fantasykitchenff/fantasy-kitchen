@@ -49,6 +49,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Breece Hall: Hall is banged up but was just paid; Isaiah Davis has barely practiced in camp, leaving Braelon Allen as the healthy backup. [8-19 Offenses to look out for]
 - 2026-09-29: Braelon Allen: Played all 17 offensive snaps after Breece Hall left Week 3; 19 carries for 61 yards on the season. Isaiah Davis has not played an offensive snap through three games (reports).
 - 2026-09-27: Braelon Allen took every snap after Hall left (17 per reports), 4 for 14 and 3 catches for 3 in the game; season 19 for 61 and a touchdown, 4 catches for 11 on 5 targets; Isaiah Davis has zero offensive snaps this season (16 special-teams snaps in Week 3). [pod 9-29, deployment]
+- 2026-09-27: Breece Hall: 13 carries for 32 and 3 catches for 23 at DET before the fourth-quarter exit; the Jets have rushed for 152, 67 and 58 yards in their three games. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -82,6 +83,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Garrett Wilson: OC Frank Reich called Wilson the offense's bell cow, bringing him up unprompted when asked about Omar Cooper Jr.; the passing game is described as consolidated around him. [8-26 myguys episode]
 - 2026-08-26: Garrett Wilson: Wilson averaged a 28% target share over four seasons and 30% in seven 2025 games; he was the WR5 before his injury with four top-15 weeks in the first five games. [8-26 myguys episode]
 - 2026-09-27: Garrett Wilson: 10 of 13 for 107 and a 23-yard touchdown @DET, 13 of 37 team targets (35%); season 21 catches for 243 yards and 2 touchdowns. Wilson and Kenyon Sadiq together drew 21 of 37 targets (57%), 212 of 321 passing yards and 2 of the 3 touchdowns. [pod 9-29, deployment]
+- 2026-09-27: New York Jets: With Mitchell inactive at DET, Isaiah Williams was a full-time starter (2 targets, 1 for 21), practice-squad call-up Sterling Shepard was the main third receiver (1 for 3) and Malik McClain rotated in. Jeremy Ruckert caught all 5 of his targets for 39 and a touchdown. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -96,6 +98,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Kenyon Sadiq: Rookie is injured and likely behind; he profiles as a move tight end and competes for snaps with Mason Taylor and Omar Cooper Jr. [8-20 buying or selling rookie hype]
 - 2026-09-29: Kenyon Sadiq: 7 of 8 targets, 105 yards, 1 TD in Week 3 at DET on a season-high 38 snaps with Mason Taylor out (thumb). Route share was 40 percent through Week 2 (box score, reports).
 - 2026-09-27: Kenyon Sadiq: 7 of 8 for 105 and a 24-yard touchdown, 38 snaps (48% snap share), 58% route share, 48% of snaps in the slot, 32% inline, 16% wide, 8 of 37 targets (21.6%), 32% targets per route; Weeks 1 and 2: 5 for 38 on 6 targets at a 40% route share. [pod 9-29, deployment]
+- 2026-09-27: Kenyon Sadiq: Played a season-high 57.6 percent of the offensive snaps (38) at DET and ran a route on 58.1 percent of pass plays, with a 32 percent target rate per route. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -129,6 +132,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Breece Hall: Thigh/quad injury on a goal-line carry in Week 3 vs DET; MRI better than feared, week-to-week. Braelon Allen had 6 touches on the final two drives (CBS, reports).
 - 2026-09-25: Mason Taylor: thumb, out Week 3. Adonai Mitchell: finger caught in a jersey at Thursday practice, inactive at DET. Omar Cooper Jr.: IR, high ankle sprain (9/19). Arian Smith: out for the season (ACL). [pod 9-29, official]
 - 2026-09-30: Breece Hall: quad, week to week per Aaron Glenn, MRI showed nothing long-term; expected to miss Week 4 at CHI with Braelon Allen starting and Isaiah Davis next (ESPN, reports).
+- 2026-09-30: Mason Taylor: Did not practice Wednesday and remains week to week with the thumb; he is expected to miss a second straight game at CHI. Adonai Mitchell (finger) is also week to week. [pod 9-29, beat]
 
 ## Other
 

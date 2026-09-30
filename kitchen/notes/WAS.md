@@ -102,6 +102,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-21: Stefon Diggs: Topped 1,000 yards in 2025 coming off a torn ACL and signed with the Commanders, where volume is expected. [8-21 mayhem mock draft]
 - 2026-09-27: Terry McLaurin 6 for 77 and a touchdown on 52 snaps (75%); Diggs 4 for 33; Treylon Burks 2 for 13 and a touchdown. [pod 9-28, deployment]
 - 2026-09-27: Terry McLaurin: 9 targets vs SEA, 9 of Marcus Mariota's 31 attempts (29%). Receiver snaps: McLaurin 52 (75%), Stefon Diggs 41 (59%), Antonio Williams 28 (41%), Treylon Burks 25 (36%), Dyami Brown 21 (30%), Jaylin Lane 5. Tight end snaps: John Bates 37, Ben Sinnott 34 (team site). [pod 9-29, deployment]
+- 2026-09-27: Terry McLaurin: McLaurin and Stefon Diggs each have 22 targets through three games: McLaurin 10 for 141 and a TD, Diggs 13 for 135 and 3 TDs; Antonio Williams 11 targets, 9 for 103 and a TD. In Week 3 McLaurin ran a route on 87% of dropbacks (9 targets), Diggs on 65% (7 targets, 4 for 33, 63% of his snaps in the slot). [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -167,6 +168,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Jayden Daniels was a limited participant in Wednesday's jog-through session in London, his first practice since the elbow; Rachaad White (shoulder) did not participate (reports).
 - 2026-09-30: Jayden Daniels: Dan Quinn says there is a chance he starts vs IND and the team will have a definite determination by Friday; he would wear a brace on the left elbow. Rachaad White is getting treatment for the shoulder; he played 43% of the snaps vs SEA and returned after the injury; Austin Ekeler traveled to London (Quinn, reports).
 - 2026-09-30: Jayden Daniels: Dan Quinn said Wednesday it is 'too early to call' whether Daniels starts vs IND; he gets more reps Thursday and Friday with a decision by Friday, and would wear a brace on the left elbow. Rachaad White (shoulder, hurt vs SEA after 8 carries and a TD catch) sat out Wednesday (reports).
+- 2026-09-25: Jayden Daniels: Dislocated left elbow late in the first half of Week 2 at DAL; the team ruled out surgery and injured reserve and lists him week to week. He dislocated the same elbow in 2025 and re-aggravated it in his first game back. [pod 9-29, official]
 
 ## Other
 
@@ -174,4 +176,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-04: Washington's defense projects poorly, which should mean negative game scripts and more passing. [8-4 ADP Risers and Fallers lately]
 - 2026-09-30: Week 4 vs IND is in London at 9:30 AM ET with WAS as the designated home team (schedule).
 - 2026-09-30: Defense has allowed the ninth-most fantasy points to wide receivers through Week 3 (reports).
-
+- 2026-09-27: Pass defense through three games: 841 yards allowed (280.3 a game, 31st), 11 passing TDs (most in the league), 8.5 yards per attempt (27th), 70.3% completions (29th). Sam Darnold threw for 393 in Week 3 and SEA gained 437 yards; Washington won on a plus-3 turnover margin. [pod 9-29, deployment]
+- 2026-09-30: Week 4 opponent Indianapolis ranks 29th in rushing yards allowed (141.3 a game): 5.3 yards a carry to Derrick Henry and Kenneth Walker in Weeks 1-2, then 16 carries for 48 by HOU in Week 3. [pod 9-29, deployment]
