@@ -6,9 +6,9 @@
   "dek": "Three starting quarterbacks and five lead backs are off the menu, Kenneth Walker III is RB3, Jaylen Warren is a top-10 back on Thursday night, and Jayden Daniels sits outside the top 24 until he practices.",
   "format": "PPR",
   "publishedAt": "2026-09-30T10:00:00Z",
-  "updatedAt": "2026-09-30T18:20:00Z",
+  "updatedAt": "2026-09-30T19:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 2:20 PM ET: Colston Loveland's Week 3 line is 4 of 4 for 31 yards, not 34, and his row now carries his 10 percent target share; no rank moves.\n\nUpdated Wed 11:20 AM ET: Rachaad White carries a flag after sitting out Wednesday's session with the shoulder, Jalen McMillan is on IR so Emeka Egbuka and Chris Godwin are the whole TB receiver room, and CHI starts Tyson Bagent vs NYJ if he practices all week. The order is this morning's: Kenneth Walker III at RB3, Jaylen Warren at RB10, Jaxon Smith-Njigba the WR1, and Marcus Mariota as the WAS quarterback with Jayden Daniels outside the top 24 after a limited jog-through in London. Puka Nacua, Justin Jefferson and Mike Evans sit outside the ranked depth until they practice; Prep Notes brings them back Friday if they do.\n\nWeek 4 has no byes and a lot of empty chairs. Caleb Williams, Baker Mayfield and Jaxson Dart are out at quarterback, De'Von Achane and Jordan Mason are on IR, Travis Etienne is out for Monday night, Rico Dowdle has not practiced on a short week, and Breece Hall is week to week. Every one of them has a pivot listed under Off the Menu. Rankings are for full PPR.\n\nThe biggest moves come from the snap counts, not the box scores. Warren is a top-10 back with 90 percent of the snaps and 20 touches in Dowdle's absence before Thursday's game at CLE. Chuba Hubbard and Aaron Jones Sr. are RB2s on deployment: 20 carries and every first-half snap for Hubbard, 78 percent of Minnesota's carries for Jones against the defense that has allowed the most points to running backs. Omarion Hampton lost his passing downs, Emeka Egbuka and Chris Godwin have an undrafted rookie at quarterback, and Brian Thomas Jr. is playing 37 percent of the snaps.\n\nNico Collins carries a flag at WR15: he has not practiced since the hamstring and needs a session by Friday. Prep Notes revisits every flag Friday after the final injury report and updates this page.",
+  "intro_md": "Updated Wed 3:30 PM ET: Khalil Shakir is a SIT after 3 targets while DJ Moore drew 10, Quinshon Judkins is a FLEX on both lists with his Week 3 opponent fixed to CAR, DJ Moore's flex row now agrees with his WR3 start, Chuba Hubbard's line is 19 carries, and the Lamar Jackson, Derrick Henry, Bryce Young, Josh Allen, James Cook, Mark Andrews, Kyle Pitts, Zay Flowers, Jeremiyah Love and Harold Fannin Jr. notes carry Wednesday's facts; no rank moves until Friday's Prep Notes.\n\nUpdated Wed 2:20 PM ET: Colston Loveland's Week 3 line is 4 of 4 for 31 yards, not 34, and his row now carries his 10 percent target share; no rank moves.\n\nUpdated Wed 11:20 AM ET: Rachaad White carries a flag after sitting out Wednesday's session with the shoulder, Jalen McMillan is on IR so Emeka Egbuka and Chris Godwin are the whole TB receiver room, and CHI starts Tyson Bagent vs NYJ if he practices all week. The order is this morning's: Kenneth Walker III at RB3, Jaylen Warren at RB10, Jaxon Smith-Njigba the WR1, and Marcus Mariota as the WAS quarterback with Jayden Daniels outside the top 24 after a limited jog-through in London. Puka Nacua, Justin Jefferson and Mike Evans sit outside the ranked depth until they practice; Prep Notes brings them back Friday if they do.\n\nWeek 4 has no byes and a lot of empty chairs. Caleb Williams, Baker Mayfield and Jaxson Dart are out at quarterback, De'Von Achane and Jordan Mason are on IR, Travis Etienne is out for Monday night, Rico Dowdle has not practiced on a short week, and Breece Hall is week to week. Every one of them has a pivot listed under Off the Menu. Rankings are for full PPR.\n\nThe biggest moves come from the snap counts, not the box scores. Warren is a top-10 back with 90 percent of the snaps and 20 touches in Dowdle's absence before Thursday's game at CLE. Chuba Hubbard and Aaron Jones Sr. are RB2s on deployment: 19 carries and 84 percent of the snaps for Hubbard, 78 percent of Minnesota's carries for Jones against the defense that has allowed the most points to running backs. Omarion Hampton lost his passing downs, Emeka Egbuka and Chris Godwin have an undrafted rookie at quarterback, and Brian Thomas Jr. is playing 37 percent of the snaps.\n\nNico Collins carries a flag at WR15: he has not practiced since the hamstring and needs a session by Friday. Prep Notes revisits every flag Friday after the final injury report and updates this page.",
   "outro_md": "Tiers are courses. The top of a tier is the safest plate; the bottom is where the flags live. A questionable player keeps his action and carries the flag until Friday. Specials are matchup plays outside the top tiers, and Off the Menu names the pivot for every player who is out.",
   "data": {
     "positions": {
@@ -20,7 +20,7 @@
           "team": "BUF",
           "pos": "QB",
           "opp": "vs NE",
-          "note": "Took a helmet to the knee vs LAC and played all 66 snaps; the OC says sore, not a concern.",
+          "note": "Helmet to the knee vs LAC, played all 66 snaps; head coach Brady twice: not a concern.",
           "flag": "",
           "action": "START",
           "slot": "QB1",
@@ -33,11 +33,12 @@
           "team": "BAL",
           "pos": "QB",
           "opp": "vs TEN",
-          "note": "Flowers is back to a full workload, and TEN has been generous to passers.",
+          "note": "Both centers out, a rookie guard at center; not at the start of Wed practice. Check Thu.",
           "flag": "",
           "action": "START",
           "slot": "QB1",
-          "tier_label": "Entrees"
+          "tier_label": "Entrees",
+          "watch": "Thursday practice report"
         },
         {
           "rank": 3,
@@ -156,10 +157,11 @@
           "team": "CAR",
           "pos": "QB",
           "opp": "vs DET",
-          "note": "DET has allowed the most points to quarterbacks; the CAR secondary is short two starters.",
+          "note": "Lewis out, a third backup lineman; pressured on 47% of dropbacks; foot fine per Canales.",
           "flag": "",
           "action": "START",
-          "slot": "QB1"
+          "slot": "QB1",
+          "watch": "Thursday and Friday practice for Young's foot and Coker"
         },
         {
           "rank": 13,
@@ -354,7 +356,7 @@
           "team": "BAL",
           "pos": "RB",
           "opp": "vs TEN",
-          "note": "Flowers back at full strength opens the box vs TEN.",
+          "note": "6 TD in three games; 11 inside runs for 23 vs DAL and both centers out. TEN at home.",
           "flag": "",
           "action": "START",
           "slot": "RB1"
@@ -378,7 +380,7 @@
           "team": "BUF",
           "pos": "RB",
           "opp": "vs NE",
-          "note": "NE at home; Allen's knee is sore, which means more handoffs, not fewer.",
+          "note": "24 for 154 and a TD on 67% of the snaps vs LAC; Ty Johnson took the passing downs.",
           "flag": "",
           "action": "START",
           "slot": "RB1"
@@ -451,7 +453,7 @@
           "team": "ARI",
           "pos": "RB",
           "opp": "@NYG",
-          "note": "21 carries for 90 vs SF, a career high, at NYG.",
+          "note": "64% of the snaps and 26 of the backs' 32 touches vs SF, his first lead; @NYG.",
           "flag": "",
           "action": "START",
           "slot": "RB2"
@@ -499,7 +501,7 @@
           "team": "CAR",
           "pos": "RB",
           "opp": "vs DET",
-          "note": "20 carries and every first-half snap at CLE; ninth among backs in points. DET Sunday night.",
+          "note": "19 carries for 82 and 4 catches on 84% of the snaps at CLE; ninth among backs. DET Sunday.",
           "flag": "",
           "action": "START",
           "slot": "RB2",
@@ -573,10 +575,9 @@
           "team": "CLE",
           "pos": "RB",
           "opp": "vs PIT",
-          "note": "18 carries vs PIT in Week 3; Thursday night rematch at home.",
+          "note": "18 for 70 vs CAR; 3.0 a carry, no TD, 11 routes to Sanders' 16; Thursday vs PIT.",
           "flag": "",
-          "action": "START",
-          "slot": "RB2"
+          "action": "FLEX"
         },
         {
           "rank": 24,
@@ -851,7 +852,7 @@
           "team": "BAL",
           "pos": "WR",
           "opp": "vs TEN",
-          "note": "5 of 6 for 84 on a snap count in Brazil; the coach expects a full workload vs TEN.",
+          "note": "5 of 6 for 84 on 21 snaps in Brazil; practiced Wednesday, full workload expected vs TEN.",
           "flag": "",
           "action": "START",
           "slot": "WR1"
@@ -1082,7 +1083,7 @@
           "team": "BUF",
           "pos": "WR",
           "opp": "vs NE",
-          "note": "Played 64 percent of the snaps through the shoulder; NE at home.",
+          "note": "Led BUF with 10 targets, 6 for 67, on 64% of the snaps through the shoulder; NE at home.",
           "flag": "",
           "action": "START",
           "slot": "WR3"
@@ -1237,9 +1238,9 @@
           "team": "BUF",
           "pos": "WR",
           "opp": "vs NE",
-          "note": "NE at home; Allen threw 26 times last week.",
+          "note": "3 targets, 1 for 6, on 73% of the snaps vs LAC while Moore drew 10; the volume is not his.",
           "flag": "",
-          "action": "FLEX"
+          "action": "SIT"
         },
         {
           "rank": 40,
@@ -1483,7 +1484,7 @@
           "team": "CLE",
           "pos": "TE",
           "opp": "vs PIT",
-          "note": "Thursday vs PIT; the slot role holds.",
+          "note": "9 targets, a 30% share, and 2 TD vs CAR; targets 3, 6, 9 by week. Thursday vs PIT.",
           "flag": "",
           "action": "START",
           "slot": "TE1"
@@ -1530,7 +1531,7 @@
           "team": "BAL",
           "pos": "TE",
           "opp": "vs TEN",
-          "note": "Hand injury cost him half the snaps in Brazil (33 of 64); 3 for 24. Check Wednesday.",
+          "note": "33 of 64 snaps in Brazil, even with Smythe; practiced Wednesday after the hand. 3 for 24.",
           "flag": "",
           "action": "STREAM"
         },
@@ -1575,7 +1576,7 @@
           "team": "ATL",
           "pos": "TE",
           "opp": "@NO",
-          "note": "3 targets in three games, 2 on 19 routes at GB. Routes yes, ball no.",
+          "note": "6 targets in three games, 1 of 2 for 5 on 19 routes at GB. Routes yes, ball no.",
           "flag": "",
           "action": "SIT"
         },
@@ -1697,7 +1698,7 @@
           "team": "BAL",
           "pos": "RB",
           "opp": "vs TEN",
-          "note": "Flowers back at full strength opens the box vs TEN.",
+          "note": "6 TD in three games; 11 inside runs for 23 vs DAL and both centers out. TEN at home.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
@@ -1733,7 +1734,7 @@
           "team": "BUF",
           "pos": "RB",
           "opp": "vs NE",
-          "note": "NE at home; Allen's knee is sore, which means more handoffs, not fewer.",
+          "note": "24 for 154 and a TD on 67% of the snaps vs LAC; Ty Johnson took the passing downs.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
@@ -1782,7 +1783,7 @@
           "team": "BAL",
           "pos": "WR",
           "opp": "vs TEN",
-          "note": "5 of 6 for 84 on a snap count in Brazil; the coach expects a full workload vs TEN.",
+          "note": "5 of 6 for 84 on 21 snaps in Brazil; practiced Wednesday, full workload expected vs TEN.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
@@ -1914,7 +1915,7 @@
           "team": "ARI",
           "pos": "RB",
           "opp": "@NYG",
-          "note": "21 carries for 90 vs SF, a career high, at NYG.",
+          "note": "64% of the snaps and 26 of the backs' 32 touches vs SF, his first lead; @NYG.",
           "flag": "",
           "action": "FLEX"
         },
@@ -2037,7 +2038,7 @@
           "team": "CAR",
           "pos": "RB",
           "opp": "vs DET",
-          "note": "20 carries and every first-half snap at CLE; ninth among backs in points. DET Sunday night.",
+          "note": "19 carries for 82 and 4 catches on 84% of the snaps at CLE; ninth among backs. DET Sunday.",
           "flag": "",
           "action": "FLEX"
         },
@@ -2181,9 +2182,9 @@
           "team": "BUF",
           "pos": "WR",
           "opp": "vs NE",
-          "note": "Played 64 percent of the snaps through the shoulder; NE at home.",
+          "note": "Led BUF with 10 targets, 6 for 67, on 64% of the snaps through the shoulder; NE at home.",
           "flag": "",
-          "action": "SIT"
+          "action": "FLEX"
         },
         {
           "rank": 51,
@@ -2269,9 +2270,9 @@
           "team": "CLE",
           "pos": "RB",
           "opp": "vs PIT",
-          "note": "18 carries vs PIT in Week 3; Thursday night rematch at home.",
+          "note": "18 for 70 vs CAR; 3.0 a carry, no TD, 11 routes to Sanders' 16; Thursday vs PIT.",
           "flag": "",
-          "action": "SIT"
+          "action": "FLEX"
         },
         {
           "rank": 59,
@@ -2433,7 +2434,7 @@
         "team": "CAR",
         "pos": "RB",
         "opp": "vs DET",
-        "why": "20 carries and every first-half snap at CLE; Dillon had 4 carries. Sunday night at home is a game CAR will need to run in while the secondary is short two starters.",
+        "why": "19 carries for 82 and 4 catches for 28 on 84 percent of the snaps at CLE; Dillon had 4 carries. Sunday night at home is a game CAR will need to run in while the secondary is short two starters.",
         "verdict": "Start him as your RB2.",
         "action": "START",
         "slot": "RB2"

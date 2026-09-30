@@ -6,12 +6,144 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-30T18:20:00Z",
+  "updatedAt": "2026-09-30T19:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Ben Johnson said Tuesday that Tyson Bagent (CHI) starts vs NYJ if he gets a full week of first-team practice; Bagent missed the Week 3 start only because the concussion protocol cost him practice time, and no starter is officially named. Every Week 3 target share (Luther Burden III 32 percent, Kalif Raymond 21 percent) was built with Case Keenum. Leave both quarterbacks on waivers; monitor the first-team reps through Friday and the Friday designation.",
+        "url": "",
+        "player": "Tyson Bagent",
+        "action": "MONITOR",
+        "watch": "first-team reps through Friday and the Friday designation"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Khalil Shakir (BUF) drew 3 targets and caught 1 for 6 yards on 73 percent of the snaps vs LAC while DJ Moore drew a team-high 10. The Menu row said the volume was coming his way; it did not. Sit him vs NE; he comes down the receiver list on Friday's Prep Notes.",
+        "url": "",
+        "player": "Khalil Shakir",
+        "action": "SIT"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Quinshon Judkins (CLE) has 42 carries for 124 yards, 3.0 a carry, and no touchdown through three games, and his 18 carries for 70 in Week 3 came vs CAR, not PIT, which the Menu row now says. He ran 11 routes to Raheim Sanders' 16, and center Elgton Jenkins (concussion) is expected out Thursday with Luke Wypler starting. Flex him vs PIT on Thursday, nothing more, on both Menu lists.",
+        "url": "",
+        "player": "Quinshon Judkins",
+        "action": "FLEX"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "DJ Moore (BUF) led Buffalo with 10 targets and caught 6 for 67 on 64 percent of the snaps through the shoulder vs LAC. His Menu rows now carry the targets and agree with each other: start him as a WR3 vs NE, and he is a flex, not a sit, on the flex list.",
+        "url": "",
+        "player": "DJ Moore",
+        "action": "START",
+        "slot": "WR3"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "James Cook (BUF) ran 24 times for 154 yards and a touchdown on 67 percent of the snaps and 81 percent of the early downs vs LAC, with 1 target and no catch, while Ty Johnson came back and took the passing downs (15 snaps, 4 of 4 for 50). The Menu note that pinned more handoffs on Allen's knee is gone; the carries are the reason. Start Cook as your RB1 vs NE and expect the catches to stay with Johnson.",
+        "url": "",
+        "player": "James Cook",
+        "action": "START",
+        "slot": "RB1"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Lamar Jackson (BAL) was not at the start of Wednesday's practice minutes after his press conference, with no injury or illness given, and he spoke as if he plays vs TEN. Both centers, Jovaughn Gwyn (ankle) and Ethan Pocic (knee), are out longer term, so rookie guard Vega Ioane starts at center with Andrew Vorhees at right guard. He stays QB2 on the Menu; monitor Thursday's practice report, and start him if he is on it.",
+        "url": "",
+        "player": "Lamar Jackson",
+        "action": "MONITOR",
+        "watch": "Thursday's practice report"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Derrick Henry (BAL) ran 26 times for 89 yards (3.4) and 2 touchdowns vs DAL on 67 percent of the snaps, with his 11 inside runs going for 23 yards and two stops on fourth-and-1, and now both centers are out. He has 6 touchdowns in three games and the goal line is still his. Start him as your RB1 vs TEN; the line is why the yardage floor is lower than the rank.",
+        "url": "",
+        "player": "Derrick Henry",
+        "action": "START",
+        "slot": "RB1"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Left guard Damien Lewis (CAR) has a UCL tear in his elbow and is out vs DET, so Corey Bullock makes his first start and Carolina has three backup linemen in front of Bryce Young, the most-pressured quarterback in the league at 47 percent of dropbacks. Young had his foot stepped on at CLE, did not miss a snap, and Dave Canales expects him to play. He stays QB12 on the Menu with 939 passing yards behind him; monitor Thursday and Friday practice for his foot and for Jalen Coker before you commit.",
+        "url": "",
+        "player": "Bryce Young",
+        "action": "MONITOR",
+        "watch": "Thursday and Friday practice for Young's foot and for Coker"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Head coach Joe Brady said again Wednesday that he is not concerned about Josh Allen's (BUF) left knee after the fourth-quarter hit vs LAC; the Monday 'a little sore' line was Brady's, not the offensive coordinator's, and the Menu row now says so. Allen played all 66 snaps and has multiple rushing touchdowns in three straight games. Start him as your QB1 vs NE.",
+        "url": "",
+        "player": "Josh Allen",
+        "action": "START",
+        "slot": "QB1"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Mark Andrews (BAL) was not among the players missing Wednesday's practice after the hand injury in Brazil, and his 33 of 64 snaps were an even split with Durham Smythe, which reads like the role, not the hand. He had 5 targets and 3 for 24. Stream him vs TEN if you need a tight end; he is TE14 on the Menu, not a weekly start.",
+        "url": "",
+        "player": "Mark Andrews",
+        "action": "STREAM"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Kyle Pitts (ATL) has 6 targets in three games (1, 3, 2) for 2 catches and 20 yards, and at GB with Michael Penix Jr. he caught 1 of 2 for 5 on 19 routes while playing fewer snaps than Charlie Woerner. The Menu row said 3 targets; the count is 6, and the call is the same. Sit him at NO; he needs a 5-target game before he is a streamer.",
+        "url": "",
+        "player": "Kyle Pitts",
+        "action": "SIT"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Chuba Hubbard (CAR) had 19 carries for 82 yards and 4 catches on 4 targets for 28 on 65 of 77 snaps (84 percent) at CLE, with AJ Dillon at 4 carries and 12 snaps; the Menu had 20 carries, and the row, the flex row, the Special and the intro now say 19. His snap share has gone 71, 65, 84 percent by week. Start him as your RB2 vs DET on Sunday night.",
+        "url": "",
+        "player": "Chuba Hubbard",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Jeremiyah Love (ARI) out-snapped Tyler Allgeier for the first time in Week 3, 56 snaps (64 percent) to 31, after Allgeier led 60 to 43 percent in Weeks 1 and 2: 21 of the backs' 23 carries for 90, 5 of 5 targets for 19 and a receiving touchdown, 22 routes. Allgeier kept 3 of the 5 goal-line snaps, and the game was a 54-dropback trailing script. Start Love as your RB2 @NYG and watch the first-half split and the goal line.",
+        "url": "",
+        "player": "Jeremiyah Love",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Harold Fannin Jr. (CLE) drew 9 targets, a 30 percent share, with 45 percent of the air yards, 7 catches for 51 and 2 touchdowns vs CAR on 87 percent of the snaps and 77 percent of the routes; his targets have gone 3, 6, 9 by week. Jerry Jeudy ran 23 routes with no target. Start Fannin as your TE1 vs PIT on Thursday.",
+        "url": "",
+        "player": "Harold Fannin Jr.",
+        "action": "START",
+        "slot": "TE1"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Zay Flowers (BAL) practiced Wednesday, his first session of TEN week, after 21 snaps and 15 routes in Brazil. On 26 routes this season he has 234 yards and a target on 48 percent of them, both league highs among players with 25 or more routes. Start him as your WR1 vs TEN; the game is in Baltimore.",
+        "url": "",
+        "player": "Zay Flowers",
+        "action": "START",
+        "slot": "WR1"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Darren Waller (CAR) led Carolina with 8 targets on 28 routes and 39 of 77 snaps at CLE, 5 catches for 51, and his snaps have gone 24, 29, 39 by week with Jalen Coker (quad) and Xavier Legette (knee) out. He is outside the Menu's top 20 tight ends, so this is a streamer's call. Monitor Coker's Friday designation; stream Waller vs DET if Coker is out, and sit him if Coker plays.",
+        "url": "",
+        "player": "Darren Waller",
+        "action": "MONITOR",
+        "watch": "Jalen Coker's Friday designation; stream Waller vs DET if Coker is out"
+      },
+      {
+        "at": "2026-09-30T19:30:00Z",
+        "text": "Kalif Raymond (CHI) has 23 percent of the targets on 66 percent of the routes and 214 receiving yards through three games, with 9 or more PPR points in each, on more than 60 percent of the snaps every week. The usage is real; the quarterback may change to Tyson Bagent, and the share was built with Case Keenum. Add him in PPR, 2 to 5 percent of FAAB, as a WR4 with a floor, not a starter until you see him with Bagent.",
+        "url": "",
+        "player": "Kalif Raymond",
+        "action": "ADD",
+        "faab": "2-5%"
+      },
       {
         "at": "2026-09-30T18:20:00Z",
         "text": "Klint Kubiak said Monday that Mike Washington Jr. (LV) earned more opportunities, the second time he has said it. Ashton Jeanty's last 40 carries went for 104 yards, he visited the trainers @NO, and he still has 63 of the two backs' 78 carries (81 percent) and all 16 targets. The Butcher Shop card keeps the trade-for call with the first-half carry split vs KC as the check. Trade for him; offer a low-end WR1 or a RB1 whose role is less secure.",

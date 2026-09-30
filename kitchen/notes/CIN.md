@@ -16,6 +16,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: The Bengals have ranked top two in pass rate and neutral pass rate in three straight seasons. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-14: Cincinnati's first four starter plays were under center (run, play-action dig to Chase, run, sack), matching camp reports of more balance and less strict shotgun. [8-14 things we learned from pre season games]
 - 2026-08-16: The Bengals opened the preseason with four straight under-center plays; they have said they want to run better in four-minute situations. [8-16 preseason week 1 recap]
+- 2026-09-29: Bengals offense: Pass rate over expected of +8.6% through Week 3, second in the league; Burrow pressured on 29.2% of dropbacks, third lowest. [pod 9-29, deployment]
 
 ## Quarterback
 
@@ -28,6 +29,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Joe Flacco: Flacco is now the Bengals backup QB; from his Week 6 arrival in 2025 Brown was on pace for 1,200 rushing yards, 7 rushing TDs, 93 targets and 7 receiving TDs. [8-12 top 10 rb rankings]
 - 2026-08-14: Joe Burrow: Was the only QB in 2025 to rank top 10 in both big-time throw rate (4th) and turnover-worthy play rate (1st). [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-24: Joe Burrow: Two seasons ago he led the NFL in completions, attempts, passing yards and passing TDs; 2025 was hampered by a calf injury and then a toe injury. He is healthy entering 2026 and turns 30 in December. [8-24 QB Rankings]
+- 2026-09-27: Joe Burrow: 28 of 37 for 282 yards and 3 TD at PIT, all season highs; lost a fumble on a sack with 53 seconds left. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -56,6 +58,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Chase Brown: Brown caught a large number of passes and ran hot on touchdowns last season, including a late-season surge with Joe Flacco at quarterback after Burrow was hurt. [8-23 highstakes draft]
 - 2026-08-23: Samaje Perine: Perine's camp snaps indicate he is not going away as a rotational back behind Chase Brown, a minor workload concern for Brown. [8-23 highstakes draft]
 - 2026-09-27: Chase Brown 13 carries for 61 at PIT; Samaje Perine 3 for 9. [pod 9-29, deployment]
+- 2026-09-27: Chase Brown, Samaje Perine: At PIT Brown played 40 snaps with 13 carries and 2 targets (2 for 8); Perine played 18 snaps with 3 carries and 3 targets (1 for 5), one carry after halftime. Brown's season: 49 carries, 197 yards, 1 rushing TD. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -96,11 +99,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Transactions and contracts
 
 - 2026-07-07: Cincinnati traded for Dexter Lawrence, has Jonathan Allen, added a safety and a defensive end, and focused its draft on defense; the unit should improve but likely remains bottom-third. [7-7 afc north breakdown]
+- 2026-09-29: Mitch Tinsley, Ke'Shawn Williams: Signed WR Mitch Tinsley off Houston's practice squad after Colbie Young's knee injury; released Ke'Shawn Williams after return mistakes at PIT, with Dohnte Meyers taking both return jobs. Taylor on Wednesday: Young and Iosivas are both out this week. [pod 9-30, beat]
 
 ## Injuries and status
 
 - 2026-08-26: Ja'Marr Chase: Chase left a preseason game with a knee injury but told reporters he was fine, tried to go back out and was held out by the coaches. [8-26 myguys episode]
 - 2026-09-29: Colbie Young: knee on the opening play at PIT, will miss Week 4 per Zac Taylor, who is hopeful it is not long-term; Dohnte Meyers 3 of 5 for 29 in his place. [pod 9-28, coach]
+- 2026-09-30: Bryan Cook, Kyle Dugger: Both safeties are day to day and did not practice Wednesday; DT B.J. Hill has a sore Achilles. [pod 9-30, coach]
 
 ## Other
 
@@ -110,3 +115,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: The Bengals have the third-easiest strength of schedule and reportedly the easiest for wide receivers; they added Dexter Lawrence via trade, and Burrow, Chase and Higgins are healthy with no contract drama. [8-5 top 10 QB rankings]
 - 2026-08-06: The Bengals' defense looks better after acquiring Dexter Lawrence and other free agents. [8-6 1st round picks downsides]
 - 2026-09-27: All three touchdowns at PIT were passes (Chase, Higgins, Gesicki). [pod 9-29, deployment]
+- 2026-09-27: Bengals defense: Allowed PIT 411 yards on 59 plays (7.0 a play) and 292 passing yards with 3 TD to Aaron Rodgers; through Week 3 the defense allows a league-high 7.3 yards per play on first down. [pod 9-29, deployment]

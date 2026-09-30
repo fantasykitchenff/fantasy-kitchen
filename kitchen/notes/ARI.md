@@ -48,6 +48,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Jacoby Brissett: Brissett was named the Cardinals' starting quarterback after Kyler Murray's departure to Minnesota. [8-18 WR rankings]
 - 2026-08-20: Carson Beck: Third-round rookie could get starts; he profiles as a low-upside game manager who would lean on Trey McBride and swing passes to Love, hurting Harrison and Wilson. Cardinals expected to draft a QB in 2027. [8-20 buying or selling rookie hype]
 - 2026-09-27: Jacoby Brissett started (38 of 52, 280, 2 TD); Kyler Murray plays for Minnesota in 2026. [pod 9-28, deployment]
+- 2026-09-27: Jacoby Brissett: 54 dropbacks @SF (52 attempts, 2 sacks) on 87 offensive snaps, the team's most since 2022; 38 of 52 for 280 and 2 TD. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -83,6 +84,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Tyler Allgeier: Tyler Allgeier had productive touches in the preseason game vs the Raiders and is viewed as one of the best handcuffs in the league behind Love. [8-19 Offenses to look out for]
 - 2026-08-19: Tyler Allgeier: Coaches are comfortable giving Allgeier the ball at the goal line; he is the direct backup to Jeremiyah Love. [8-19 RBs drafting and fading]
 - 2026-09-27: Jeremiyah Love: 21 carries for 90 yards, a career high; the team recap does not credit him a receiving touchdown. [pod 9-28, deployment]
+- 2026-09-27: Jeremiyah Love: Out-snapped Tyler Allgeier for the first time, 56 (64%) to 31 (36%), after Allgeier led 60% to 43% in Weeks 1-2; 21 carries for 90, 5 of 5 targets for 19 and a 1-yard receiving touchdown in the fourth quarter (78% of the rushes, 22 routes); Allgeier 2 carries for -1 and 4 catches for 10, with 3 of the 5 goal-line snaps. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -113,6 +115,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Michael Wilson: Was very productive with Jacoby Brissett running the offense in 2025, while Marvin Harrison Jr. did not develop into the alpha that would fix the offense. [8-24 QB Rankings]
 - 2026-09-29: Marvin Harrison Jr.: 4 targets on 62 routes in Weeks 1 and 2, then 3 of 5 for 40 in the Week 3 loss to SF (under 10 percent of targets); Michael Wilson drew 14 targets on 67 routes in Weeks 1 and 2 (reports).
 - 2026-09-27: Michael Wilson: 17 targets, 11 catches, 89 yards and a touchdown in the 36-30 loss to SF; Marvin Harrison Jr. 3 of 5 for 40, 9 targets in three games. [pod 9-28, deployment]
+- 2026-09-27: Michael Wilson: 31 targets, 18 catches, 163 yards and a touchdown through three games (7, 7 and 17 targets), a 58% catch rate; 81 of 87 snaps (93%) in Week 3. [pod 9-29, deployment]
+- 2026-09-27: Marvin Harrison Jr.: 67 of 87 snaps (77%) in Week 3, under 80% in all three games; 9 targets through three games. Kendrick Bourne played 48 snaps (55%). [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -131,6 +135,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Trey McBride: McBride played only one snap in the preseason opener. [8-14 things we learned from pre season games]
 - 2026-08-15: Trey McBride: All 11 of McBride's 2025 TDs came in the red zone, seven from between the 11 and 20, tying 2018 Eric Ebron for the most since 2012; Arizona tied the Rams for the most red-zone dropbacks per game. [8-15 Tips]
 - 2026-08-21: Trey McBride: Broke the tight end receptions record in 2025, aided by several games of extra routes; he was also very good in 2024. [8-21 mayhem mock draft]
+- 2026-09-27: Trey McBride: 9 of 11 for 75 @SF on 79 snaps (91%); 34 targets, 26 catches, 211 yards and 2 TD through three games, the team lead in targets, with at least 8 catches and 10 targets in every game. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -156,6 +161,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-28: Jacoby Brissett: Brissett signed a 1-year, $15.5M deal after the Cardinals moved on from Kyler Murray; he gets a full camp as the starter with Carson Beck and Gardner Minshew behind him. [7-28 Training Camp Rankings Update]
 - 2026-08-05: Jacoby Brissett: Brissett received a new contract and will remain the Cardinals' starting quarterback. [8-5 32 team update and breakdown]
+- 2026-09-30: Marvin Harrison Jr.: ESPN's Jeremy Fowler reported that teams watching Harrison's situation put his trade value at possibly a quality Day 3 pick. [pod 9-30, beat]
 
 ## Injuries and status
 

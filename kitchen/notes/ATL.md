@@ -19,6 +19,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Atlanta's defense is expected to be poor, which could force more passing than a Stefanski offense typically wants. [8-13 TE talk]
 - 2026-08-17: Tua's game is now checkdowns and quick passes, which should concentrate targets on Pitts, London and Bijan Robinson with quick hitters to Zachariah Branch. [8-17 updates and camp news]
 - 2026-08-19: Atlanta could use more 12 personnel because Charlie Woerner is a good blocker, which would put Pitts inline more and reduce the slot snaps London gets. [8-19 Offenses to look out for]
+- 2026-09-24: Atlanta did not reach the red zone and scored 16 points in Weeks 1 and 2 with Cooper Rush; in Week 3 it scored 35 and went 4 of 5 in the red zone. [pod 9-29, deployment]
 
 ## Quarterback
 
@@ -38,6 +39,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: National reporting says Tua Tagovailoa's camp play has made the plan to start him Week 1 'impossible'; Michael Penix Jr. will sit preseason Week 3; Cooper Rush or the third-string QB could start games. [8-26 myguys episode]
 - 2026-09-24: Michael Penix Jr. started the Thursday game at GB after Cooper Rush started Weeks 1 and 2; Tua Tagovailoa (oblique) is on the roster and did not start. [pod 9-28, official]
 - 2026-09-30: Michael Penix Jr. starts Week 4 at NO; Tua Tagovailoa is available as the backup and Cooper Rush is third (team depth chart).
+- 2026-09-24: Michael Penix Jr.: 18 of 25 for 256 yards, 1 TD, 1 INT and no sacks in the 35-14 win at GB, his first start since the November 2025 ACL tear; 25 dropbacks on 66 plays (38%). [pod 9-29, deployment]
 
 ## Backfield
 
@@ -53,6 +55,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Bijan Robinson: Bijan Robinson ended a brief hold-in with a three-year, $75 million extension and had an immediate impact on returning. [8-12 130 training camp storylines and league updates]
 - 2026-08-12: Brian Robinson Jr.: Robinson is a handcuff only behind Bijan in Atlanta. [8-12 high value touches RBs]
 - 2026-08-14: Bijan Robinson: Among 51 RBs with 90+ carries in 2025 he ranked 4th in yards per carry, 7th in rush yards over expected per carry, 2nd in yards after contact per carry and 1st in missed tackles forced per carry. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
+- 2026-09-24: Bijan Robinson: 29 carries for 194 yards and 2 TD plus 2 catches for 19 on about 72% of the snaps, with all five carries inside the 5. Brian Robinson: 10 for 50 and a 7-yard TD on about 27% of the snaps. Snap shares by week: Bijan 77%, 51%, 72%; Brian 25%, 48%, 27%. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -73,6 +76,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Drake London: London has been used as a power slot/movement Z rather than a true X; he and Kyle Pitts win in the same areas, and beat reporting has not shown whether he plays more X in this offense. [8-19 Offenses to look out for]
 - 2026-08-19: Zachariah Branch: Rookie Zachariah Branch is expected to get designed touches and quick screens, competing with London and Pitts for easy targets. [8-19 Offenses to look out for]
 - 2026-09-24: Drake London: 10 targets on 24 routes (42%), 96% route share. [pod 9-28, deployment]
+- 2026-09-24: Drake London: 9 catches on 10 targets for 194 yards and no touchdown at GB; 40% of the 25 pass attempts (43% of charted targets), 24 routes on 25 dropbacks. [pod 9-29, deployment]
+- 2025-11-16: Drake London: In nine 2025 games with Penix: 94 targets (10.4 a game), 60 catches, 810 yards (90.0 a game), 6 TD. Weeks 4 to 11 (six games): 651 yards (108.5 a game), touchdowns in four of the six. [pod 9-30, deployment]
 
 ## Tight ends
 
@@ -92,11 +97,14 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Kyle Pitts: Pitts signed a three-year extension with $36 million guaranteed. In 2025 he led the Falcons in routes, targets, receptions and receiving yards (only Trey McBride also led his team in all four) and finished as the TE2. [8-24 embarrased to love players]
 - 2026-08-24: Kyle Pitts: From week 13 on in 2025 Pitts posted 82, 90, 166 (3 TDs in week 15), 57 and 58 receiving yards while Drake London was hurt. In his one preseason series with Tagovailoa he caught passes on about four of five plays. [8-24 embarrased to love players]
 - 2026-09-24: Kyle Pitts: 2 targets on 19 routes (76% route share), after 0 of 1 and 1 of 3 for 15 in Weeks 1 and 2. [pod 9-28, deployment]
+- 2026-09-24: Kyle Pitts: 1 catch on 2 targets for 5 yards at GB on 19 routes (76%) and about 59% of the snaps, fewer snaps than Charlie Woerner (61%). Through three games: 6 targets (1, 3, 2), 2 catches, 20 yards; route rate 56.9% in Weeks 1 and 2. [pod 9-29, deployment]
+- 2026-09-24: Austin Hooper: Caught Penix's only touchdown pass (2 of 2 for 11) on 15-16 snaps; Atlanta used Woerner (61%), Pitts (59%), Nick Muse (24%) and Hooper (23%) at tight end. [pod 9-29, deployment]
 
 ## Offensive line
 
 - 2026-08-19: Guards Matthew Bergeron and Chris Lindstrom are strengths; Jake Matthews is aging, C Ryan Neuzil is solid, Jawaan Taylor is an average penalty-prone starter, and Bill Callahan is the OL coach. [8-19 Offenses to look out for]
 - 2026-08-20: Atlanta's line has ranked 7th-11th four straight years; OL coach Dwayne Ledford left for Baltimore, Bill Callahan takes over (his units usually take time), and Jawaan Taylor was added. [8-20 Offensive Line Rankings]
+- 2026-09-24: Jake Matthews, Matthew Bergeron, Ryan Neuzil, Chris Lindstrom and Jawaan Taylor each played every offensive snap at GB; Penix was not sacked. [pod 9-29, deployment]
 
 ## Depth chart
 

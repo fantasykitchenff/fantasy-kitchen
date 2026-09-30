@@ -141,6 +141,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: C Drew Dalman retired early and must be replaced; Ozzy Trapilo may return at LT sooner than expected; RT Darnell Wright signed a big extension and the right side is the league's best run-blocking side. [8-20 Offensive Line Rankings]
 - 2026-08-24: Chicago overhauled its offensive line under Ben Johnson last offseason and reportedly improved in every offensive-line category in 2025. [8-24 adp adjustments]
 - 2026-08-26: The Bears rebuilt the offensive line after Williams' record-level sack total as a rookie, and his pressure-to-sack ratio improved in 2025. [8-26 myguys episode]
+- 2026-09-28: Braxton Jones: Left the PHI game with a knee injury after 46% of the snaps; Theo Benedet played the other 54% at left tackle. The other four linemen played all 72 snaps. [pod 9-29, deployment]
 
 ## Rookies
 
@@ -179,3 +180,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Bears camp has featured lots of injuries; Ben Johnson publicly said they will have the highest-scoring offense in NFL history. [8-14 changed minds about players]
 - 2026-08-17: The Bears defense continues to deteriorate (they signed Marcus Davenport); the team profiles as a juggernaut offense paired with a bad defense. [8-17 updates and camp news]
 - 2026-08-24: The Bears open 2026 against Carolina, Minnesota, Philadelphia and the Jets, and are favored in five of their first six games. [8-24 embarrased to love players]
+- 2026-09-30: Bears run defense: 24th in run-defense DVOA (-1.7%) and 21st in pass-defense DVOA on FTN's team page, a window that covers Weeks 1 and 2; Saquon Barkley ran 15 times for 82 in Week 3. [pod 9-29, deployment]

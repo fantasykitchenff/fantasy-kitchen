@@ -29,6 +29,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Josh Allen: Allen has finished QB1 or QB2 six straight years; in both 2024 and 2025 he was a top-five fantasy QB without a top-36 receiver or top-12 tight end, and he enters year nine as the all-time leader in QB rushing touchdowns. [8-22 10 players we cant stop drafting]
 - 2026-09-27: Josh Allen took a helmet to the left knee in the fourth quarter vs LAC, stayed in and played all 66 snaps (16 of 26, 204, 0 TD, 2 INT, 4 sacks); the OC said Tuesday he is sore but not a concern; no diagnosis reported. [pod 9-28, beat]
 - 2026-09-27: Josh Allen: three turnovers, two of them interceptions, and two rushing touchdowns on 22 rushing yards in the 24-16 win over LAC. [pod 9-29, deployment]
+- 2026-09-27: Josh Allen: Both rushing touchdowns vs LAC were 1-yard sneaks (8 carries, 22 yards); he has multiple rushing touchdowns in three straight games, which the team says no quarterback had done in the Super Bowl era. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -47,6 +48,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: James Cook: Camp reports say Cook is more involved in the receiving game this year, including running routes from the slot. [8-18 WR rankings]
 - 2026-08-19: Ray Davis: Ray Davis is the direct backup to James Cook in Buffalo. [8-19 RBs drafting and fading]
 - 2026-08-23: Ray Davis: New head coach Joe Brady reportedly pushed for the Bills to draft Davis; Davis is expected to lock down the No. 2 role he lost to Ty Johnson last year, and Ty Johnson was hurt in camp. [8-23 highstakes draft]
+- 2026-09-27: James Cook: 24 carries for 154 yards and a 3-yard touchdown vs LAC (77 yards on 11 carries in the fourth quarter), a lost fumble on the first play from scrimmage, 44 snaps (67%) and 81 percent of the early-down snaps; 1 target, no catch. 346 rushing yards at 6.0 a carry through three games. [pod 9-29, deployment]
+- 2026-09-27: Ty Johnson: Back from injury vs LAC: 15 snaps (23%), 4 of 4 for 50 including a fourth-and-7 conversion, and the clear majority of the passing-situation snaps; Ray Davis had limited early-down work. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -70,6 +73,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: DJ Moore: Moore is the Bills' No. 1 receiver, has finished top-24 in six of the last seven seasons and had some of his best touchdown production in his three Chicago years; his 2025 volume dipped but his efficiency rose. [8-18 WR rankings]
 - 2026-08-19: DJ Moore: Moore ran vertical routes in the preseason opener and is expected to be one of only a few Bills pass-catchers who eat, along with Kincaid. [8-19 Offenses to look out for]
 - 2026-09-27: DJ Moore (shoulder) was limited Wednesday, a game-time decision, and played 42 snaps (64%); Keon Coleman (ankle, DNP Wednesday) had 1 catch for 37 on 32 snaps (48%). [pod 9-28, official]
+- 2026-09-27: DJ Moore: Team-high 10 targets, 6 catches for 67 vs LAC on 42 snaps (64%) after a questionable tag (shoulder). Khalil Shakir: 1 catch for 6 on 3 targets on 48 snaps (73%). Joshua Palmer 21 snaps (32%). [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -87,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Dalton Kincaid: Kincaid had the best yards per route run of any tight end in 2025 but did not play enough snaps to be consistently valuable. [8-17 Breakouts and Injury stuff]
 - 2026-08-24: Dalton Kincaid: Camp reports say Kincaid has been at every practice with a healthy knee for the first time in years and is more involved in every facet. He posted 2.73 YPRR in 2025, best among tight ends, on only about 30% of snaps. [8-24 embarrased to love players]
 - 2026-09-27: Dawson Knox 46 snaps (70%) to Dalton Kincaid 44 (67%). [pod 9-28, deployment]
+- 2026-09-27: Dalton Kincaid: 2 catches on 3 targets for 38 yards and a lost fumble vs LAC. Season: 17 targets, 14 catches, 263 yards, 1 touchdown (5 for 130 on 6 at HOU, 7 for 95 and a score on 8 vs DET). Jackson Hawes played 25 snaps (38%). [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -108,7 +113,10 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: DJ Moore: Moore appeared to suffer a high ankle sprain at practice but Joe Brady said he is good to go. [8-17 Breakouts and Injury stuff]
 - 2026-08-18: DJ Moore: Moore is dealing with an ankle issue that may be a high ankle sprain; an injury analyst sees no reason he would miss Week 1 even if he sits the next preseason game. [8-18 WR rankings]
 - 2026-08-18: Keon Coleman: Coleman was in a walking boot in mid-August. [8-18 WR targets and avoids]
+- 2026-09-30: Josh Allen: Head coach Joe Brady said again Wednesday he is not concerned about Allen's left knee; the hit came with 9:46 left in the fourth quarter. The Monday 'a little sore' quote was Brady's, and he is the head coach, not the offensive coordinator. [pod 9-30, coach]
+- 2026-09-27: Christian Benford: Left the LAC game early in the third quarter with a toe injury and wore a boot afterward; rookie Davison Igbinosun played 29 snaps in his place. [pod 9-30, beat]
 
 ## Other
 
 - 2026-08-06: The Bills face the Dolphins and Jets in Weeks 17 and 18, potentially run-heavy scripts or rest weeks for James Cook. [8-6 1st round picks downsides]
+- 2026-09-27: Buffalo Bills: Five turnovers in the 24-16 win over LAC: a Cook fumble, two Allen interceptions, a Kincaid fumble and an Allen fumble on a sack; 10 penalties. [pod 9-29, deployment]
