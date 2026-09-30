@@ -160,6 +160,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Kenneth Walker: Has a history of core surgery and, as a high-touch back, carries injury risk; Emmett Johnson would reportedly be the first back up if he missed time. [8-20 buying or selling rookie hype]
 - 2026-08-26: Kenneth Walker III: Walker did not practice Tuesday and was shut down with what was called a minor foot injury. [8-26 myguys episode]
 - 2026-09-27: Xavier Worthy: Seen limping off at MIA; Andy Reid said after the game there were no injuries to report. [pod 9-30, coach]
+- 2026-09-30: Josh Simmons: DNP Wednesday, bulging disc in the lower back per Reid; not expected to play at LV (ESPN, Reid).
 
 ## Other
 

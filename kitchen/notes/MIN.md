@@ -137,6 +137,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 ## Injuries and status
 - 2026-09-30: Justin Jefferson: Day to day with the ankle sprain and did not practice Wednesday, per Adam Schefter. [pod 9-29, beat]
+- 2026-09-30: Aaron Jones Sr.: Limited Wednesday, listed not injury related, a rest day (team report).
+- 2026-09-30: Justin Jefferson: DNP Wednesday (ankle sprain, not high); O'Connell calls him day to day and will not say what it means for Sunday (team report, O'Connell).
 
 ## Other
 

@@ -136,6 +136,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Zay Flowers: Flowers did not practice Monday or Wednesday and was working on the side; the team has not disclosed what the issue is. [8-26 myguys episode]
 - 2026-09-30: Mark Andrews: hand injury in the second quarter in Brazil, returned, 33 of 64 snaps, 3 for 24 on 5 targets; no Week 4 designation reported as of 9/29 (reports).
 - 2026-09-30: Zay Flowers: Practiced Wednesday, the first session of TEN week. [pod 9-30, beat]
+- 2026-09-30: Lamar Jackson: Limited Wednesday with a back injury, first report listing this season; Minter called it something small and expects him to play vs TEN (NBC Sports, official report).
+- 2026-09-30: Zay Flowers: Listed hamstring, limited Wednesday; Humphrey (hamstring), Chris Moore (ankle), John Simpson (groin), Durham Smythe (heel) and Ronnie Stanley (toe) also limited (official report).
 
 ## Other
 

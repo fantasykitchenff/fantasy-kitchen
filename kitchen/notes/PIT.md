@@ -115,3 +115,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Injuries and status
 
 - 2026-09-29: Rico Dowdle: Toe: DNP on Monday's walkthrough estimate and DNP Tuesday on the Week 4 report. No Wednesday line or game status had posted on the report page checked Wednesday afternoon. [pod 9-29, official]
+- 2026-09-30: Rico Dowdle: Ruled out Wednesday for Thursday night at CLE (toe); no practice all week, right foot in a walking boot. Warren is the lead back (NBC Sports, team report).

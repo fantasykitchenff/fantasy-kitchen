@@ -150,6 +150,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Baker Mayfield: dislocated right thumb on a fourth-and-1 in the fourth quarter vs MIN; MRI showed no ligament or tendon damage (Rapoport); Todd Bowles said a minimum of three weeks, earliest return Week 7 at CAR. Jalon Daniels (undrafted rookie) went 0 for 3 with a game-ending interception and starts vs GB; Easton Stick is the practice-squad quarterback. [pod 9-28, official]
 - 2026-09-29: Jalen McMillan: right-knee PCL strain on the opening drive, the same knee from camp, 6 to 8 weeks per ESPN's Jenna Laine. [pod 9-28, beat]
 - 2026-09-30: Jalen McMillan (PCL) was placed on injured reserve Wednesday, designated to return, 6 to 8 weeks; Emeka Egbuka and Chris Godwin are the starting receivers (team move, reports).
+- 2026-09-30: Bucky Irving: Limited Wednesday (glute), hurt on the last two drives vs MIN after the team said he would not be on the report; on track to play vs GB (NBC Sports, official report).
+- 2026-09-30: Chris Godwin: DNP Wednesday (ankle); 10 catches for 111 on the season. Ko Kieft (elbow) also DNP (NBC Sports, official report).
 
 ## Other
 

@@ -1,8 +1,26 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-09-30T19:37:40Z",
+  "updatedAt": "2026-09-30T22:19:09Z",
   "pieces": [
+    {
+      "series": "menu",
+      "week": 4,
+      "path": "2026/week-04/menu.json",
+      "title": "The Menu, Week 4",
+      "dek": "Three starting quarterbacks and five lead backs are off the menu, Kenneth Walker III is RB3, Jaylen Warren is a top-10 back on Thursday night, and Jayden Daniels sits outside the top 24 until he practices.",
+      "publishedAt": "2026-09-30T10:00:00Z",
+      "updatedAt": "2026-09-30T22:20:00Z"
+    },
+    {
+      "series": "notes",
+      "week": 4,
+      "path": "2026/week-04/notes.json",
+      "title": "Kitchen notes, Week 4",
+      "dek": "What moved today.",
+      "publishedAt": "2026-09-29T16:30:00Z",
+      "updatedAt": "2026-09-30T22:20:00Z"
+    },
     {
       "series": "butcher",
       "week": 4,
@@ -28,24 +46,6 @@
       "title": "Market Run, Week 4",
       "dek": "Ollie Gordon II took 84 percent of Miami's snaps after Achane's ACL, and he is the first name on this week's list.",
       "publishedAt": "2026-09-29T14:20:00Z",
-      "updatedAt": "2026-09-30T19:45:00Z"
-    },
-    {
-      "series": "menu",
-      "week": 4,
-      "path": "2026/week-04/menu.json",
-      "title": "The Menu, Week 4",
-      "dek": "Three starting quarterbacks and five lead backs are off the menu, Kenneth Walker III is RB3, Jaylen Warren is a top-10 back on Thursday night, and Jayden Daniels sits outside the top 24 until he practices.",
-      "publishedAt": "2026-09-30T10:00:00Z",
-      "updatedAt": "2026-09-30T19:45:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 4,
-      "path": "2026/week-04/notes.json",
-      "title": "Kitchen notes, Week 4",
-      "dek": "What moved today.",
-      "publishedAt": "2026-09-29T16:30:00Z",
       "updatedAt": "2026-09-30T19:45:00Z"
     },
     {

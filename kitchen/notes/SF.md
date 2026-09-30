@@ -200,6 +200,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Mike Evans: rib strain per Rapoport, carted to the locker room late in the first half at ARI after taking a helmet from Budda Baker on the prior play, out at halftime; Kyle Shanahan called him day-to-day with a chance to play vs DEN. Trent Williams: stinger in the third quarter, carted, did not return. [pod 9-28, beat]
 - 2026-09-26: Demarcus Robinson: Placed on IR 9/26 with a high ankle sprain from Week 2, eligible to return Oct 25 vs ATL; he joins Ricky Pearsall (PCL, season), Christian Kirk (calf) and De'Zhaun Stribling (ankle surgery 9/19, about ten weeks) on IR. [pod 9-29, official]
 - 2026-09-27: Nick Bosa: Calf strain in warmups on 9/24, out vs ARI, expected to miss a few weeks, not placed on IR (Schefter 9/27); he was the sixth defensive lineman lost. James Thompson Jr. (high ankle) is out and five other linemen are on IR. [pod 9-29, beat]
+- 2026-09-30: Mike Evans: DNP Wednesday (ribs); Shanahan said Evans, Trent Williams (stinger) and Dre Greenlaw (quad) should be good to go by Thursday (Shanahan, NBC Sports).
 
 ## Other
 

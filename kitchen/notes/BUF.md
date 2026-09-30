@@ -115,6 +115,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Keon Coleman: Coleman was in a walking boot in mid-August. [8-18 WR targets and avoids]
 - 2026-09-30: Josh Allen: Head coach Joe Brady said again Wednesday he is not concerned about Allen's left knee; the hit came with 9:46 left in the fourth quarter. The Monday 'a little sore' quote was Brady's, and he is the head coach, not the offensive coordinator. [pod 9-30, coach]
 - 2026-09-27: Christian Benford: Left the LAC game early in the third quarter with a toe injury and wore a boot afterward; rookie Davison Igbinosun played 29 snaps in his place. [pod 9-30, beat]
+- 2026-09-30: Josh Allen: Not on Wednesday's injury report after the knee hit vs LAC (Rotowire, official report).
+- 2026-09-30: Keon Coleman: DNP Wednesday (ankle); played 48% of the snaps vs LAC, 1 of 2 for 37; Palmer would take the snaps (NBC Sports, official report).
 
 ## Other
 

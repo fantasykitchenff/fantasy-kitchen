@@ -123,6 +123,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: A.J. Brown: placed on IR with a high-ankle sprain, out at least four games; Drake Maye stays the starter on the Week 4 depth chart with Tommy DeVito second (team depth chart, reports).
 - 2026-09-30: Drake Maye: Mike Vrabel confirmed him as the starter at BUF ('Drake's our quarterback') after the fourth-quarter benching for Tommy DeVito vs JAX; 1 TD pass, 6 INT, 7 turnovers through three games (reports).
 - 2026-09-29: Drake Maye: Asked about his right shoulder after the JAX loss and on Monday radio, Maye said 'I wouldn't say there's a problem with my shoulder'; Mike Vrabel said he knows of no lingering injury, the team had not listed him on the injury report, and Greg Bedard reported team sources say nothing is wrong. The shoulder was hurt in January's AFC title game and he did not have surgery. [pod 9-29, beat]
+- 2026-09-30: Drake Maye: Added to the Wednesday report with the right shoulder, full participant; says it has not affected his arm or decisions. Gonzalez (shoulder), Barmore (shoulder) and Morgan Moses (foot) DNP (team report, Rotowire).
 
 ## Other
 

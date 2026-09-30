@@ -120,6 +120,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Puka Nacua: Sean McVay said he is still dealing with groin soreness. [8-18 sleeper picks]
 - 2026-09-28: Puka Nacua: listed as hip, described by Sean McVay as groin soreness and not hernia-related; missed Weeks 2 and 3 (last played Week 1); McVay is optimistic for Week 4 at PHI; Schefter reported 9/27 that surgery is not expected but not off the table. [pod 9-28, coach]
 - 2026-09-28: Terrance Ferguson: medial ankle sprain, hurt in the first quarter, returned, out in the second; 20 snaps (24%); likely out Week 4 per McVay. Colby Parkinson: AC shoulder sprain, Week 4 undetermined. [pod 9-29, coach]
+- 2026-09-30: Puka Nacua: Limited participant Wednesday, first practice in about two weeks (groin) after missing Weeks 2 and 3; McVay expects him to play at PHI (NBC Sports, McVay).
+- 2026-09-30: Colby Parkinson: DNP Wednesday (shoulder) (Rotowire).
 
 ## Other
 

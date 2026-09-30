@@ -157,6 +157,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Ashton Jeanty: Head coach Klint Kubiak said Jeanty is 'on the mend' but declined to detail the injury; his availability for Week 1 was described as uncertain ahead of the first official injury report. [8-26 myguys episode]
 - 2026-09-29: Jack Bech: broken left forearm, placed on IR, minimum four weeks, not season-ending per Klint Kubiak. [pod 9-28, official]
 - 2026-09-29: Ashton Jeanty: A Raiders beat site reported extra taping on his ankle during the game at NO and that he tweaked the ankle in the second half of Week 1; he visited the trainers at NO and finished with 19 carries. No official listing found. [pod 9-29, beat]
+- 2026-09-30: Ashton Jeanty: On the Wednesday report with an ankle, full participation (team report).
 
 ## Other
 

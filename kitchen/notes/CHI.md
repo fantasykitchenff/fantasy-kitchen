@@ -168,6 +168,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Kyle Monangai: Monangai hyperextended his knee and will miss multiple weeks; his Week 1 status is unknown, leaving D'Andre Swift as the clear lead back. [8-24 embarrased to love players]
 - 2026-08-26: Luther Burden III: Burden returned to practice on Aug. 26 after his groin injury. [8-26 myguys episode]
 - 2026-09-28: Caleb Williams: Grade 2 hamstring, 3 to 4 weeks, reported by Schefter and Rapoport from league sources, not a team statement. [pod 9-28, beat]
+- 2026-09-30: Quarterback: Johnson said the Week 4 starter vs NYJ is decided and will not name Keenum or Bagent; Bagent is cleared from the concussion, Caleb Williams (grade 2 hamstring) sat out the walkthrough (Sun-Times, 670 The Score).
 
 ## Other
 
