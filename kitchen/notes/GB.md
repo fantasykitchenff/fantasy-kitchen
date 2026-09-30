@@ -169,6 +169,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-24: Christian Watson: hamstring listed after the Thursday game, 51 snaps; no follow-up report as of 9/29. [pod 9-28, beat]
 - 2026-09-21: Jayden Reed: neck (helmet-to-helmet hit in Week 2), kept overnight, missed Week 3, expected to go to IR. [pod 9-28, beat]
 - 2026-09-29: Jayden Reed: Matt LaFleur confirmed a neck injury (not back), said Reed is 'doing OK' and that it is too early to tell whether he plays again this season; not on IR yet, no timeline. RT Zach Bako-Bewele out for the season (knee) (reports).
+- 2026-09-30: Jayden Reed: the Packers are placing him on IR Wednesday with the neck injury, out indefinitely, no return date (Schefter, reports).
 
 ## Other
 

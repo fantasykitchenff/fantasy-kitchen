@@ -52,6 +52,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Jaylen Warren: Warren is expected to step into the role Kenneth Gainwell had in Pittsburgh last year, when Gainwell had about 1,200 scrimmage yards, eight touchdowns and 40-plus catches. [8-23 highstakes draft]
 - 2026-08-23: Rico Dowdle: Dowdle has shown he can handle a huge workload and has a path to the Steelers' goal-line role, but Jaylen Warren is expected to catch far more passes. [8-23 highstakes draft]
 - 2026-09-27: Jaylen Warren 17 for 127 and 3 catches for 49, 20 touches, 90% snaps with Rico Dowdle (right toe) inactive; Dowdle did not practice Tuesday 9/29 and is likely out Thursday vs CLE unless he practices Wednesday. [pod 9-28, deployment]
+- 2026-09-30: Rico Dowdle (toe) listed as a non-participant on Wednesday's estimated report, his third straight DNP on the short week; Jalen Ramsey (wrist) and Brandin Echols (concussion) estimated limited, Joey Porter Jr. full (team report).
 
 ## Receivers
 

@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-09-30T15:14:43Z",
+  "updatedAt": "2026-09-30T16:17:59Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 4,
+      "path": "2026/week-04/notes.json",
+      "title": "Kitchen notes, Week 4",
+      "dek": "What moved today.",
+      "publishedAt": "2026-09-29T16:30:00Z",
+      "updatedAt": "2026-09-30T16:20:00Z"
+    },
     {
       "series": "menu",
       "week": 4,
@@ -11,15 +20,6 @@
       "dek": "Three starting quarterbacks and five lead backs are off the menu, Kenneth Walker III is RB3, Jaylen Warren is a top-10 back on Thursday night, and Jayden Daniels sits outside the top 24 until he practices.",
       "publishedAt": "2026-09-30T10:00:00Z",
       "updatedAt": "2026-09-30T15:20:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 4,
-      "path": "2026/week-04/notes.json",
-      "title": "Kitchen notes, Week 4",
-      "dek": "What moved today.",
-      "publishedAt": "2026-09-29T16:30:00Z",
-      "updatedAt": "2026-09-29T23:20:00Z"
     },
     {
       "series": "market",

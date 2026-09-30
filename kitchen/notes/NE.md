@@ -114,6 +114,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: TreVeyon Henderson: Henderson left practice early on Monday, Aug. 24, after slipping during a cut and had his right ankle, foot and leg examined. He had also missed the previous Saturday's practice for unstated reasons. [8-24 embarrased to love players]
 - 2026-09-11: A.J. Brown: high ankle sprain in Week 1 vs SEA, on IR, about six weeks per Rapoport; will not play at BUF in Week 4. [pod 9-29, official]
 - 2026-09-30: A.J. Brown: placed on IR with a high-ankle sprain, out at least four games; Drake Maye stays the starter on the Week 4 depth chart with Tommy DeVito second (team depth chart, reports).
+- 2026-09-30: Drake Maye: Mike Vrabel confirmed him as the starter at BUF ('Drake's our quarterback') after the fourth-quarter benching for Tommy DeVito vs JAX; 1 TD pass, 6 INT, 7 turnovers through three games (reports).
 
 ## Other
 

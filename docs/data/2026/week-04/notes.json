@@ -6,12 +6,73 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-29T23:20:00Z",
+  "updatedAt": "2026-09-30T16:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-09-30T16:20:00Z",
+        "player": "Jayden Reed",
+        "action": "DROP",
+        "url": "https://www.cbssports.com/fantasy/football/news/packers-jayden-reed-headed-for-injured-reserve/",
+        "text": "The Packers are placing Jayden Reed (GB) on injured reserve Wednesday with the neck injury, per ESPN's Adam Schefter, and he is out indefinitely with no return date. That is at least four games, and Matt LaFleur would not say Tuesday whether Reed plays again this season. Drop him unless you have an IR slot."
+      },
+      {
+        "at": "2026-09-30T16:20:00Z",
+        "player": "Jalen McMillan",
+        "action": "DROP",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-sept-30",
+        "text": "Tampa Bay put Jalen McMillan (TB) on injured reserve Wednesday with the PCL strain, designated to return, 6 to 8 weeks per the reporting. Emeka Egbuka and Chris Godwin are the whole receiver room with an undrafted rookie at quarterback; Egbuka is a WR3 on this week's Menu and Godwin a flex. Drop McMillan unless you have an IR slot."
+      },
+      {
+        "at": "2026-09-30T16:20:00Z",
+        "player": "Jaylen Warren",
+        "action": "START",
+        "slot": "RB1",
+        "url": "https://www.rotowire.com/football/headlines/rico-dowdle-injury-sits-out-walkthrough-session-639698",
+        "text": "Rico Dowdle (PIT) is a non-participant on Wednesday's estimated report, his third straight DNP on the short week, and he has not practiced since the toe injury in Week 2. Jaylen Warren played 90 percent of the snaps and touched the ball 20 times without him, and he is RB10 on this week's Menu. Start Warren as your RB1 @CLE Thursday night."
+      },
+      {
+        "at": "2026-09-30T16:20:00Z",
+        "player": "Rachaad White",
+        "action": "MONITOR",
+        "watch": "Thursday's practice report from London",
+        "url": "https://www.rotowire.com/football/headlines/rachaad-white-injury-sitting-out-practice-wednesday-639958",
+        "text": "Rachaad White (WAS) sat out Wednesday's session in London with the shoulder he hurt vs SEA, and Dan Quinn says he is getting treatment. White played 43 percent of the snaps Sunday, Jacory Croskey-Merritt played 57 percent with 19 carries, and Austin Ekeler made the trip after signing Monday. Croskey-Merritt is the start either way. Monitor White; Thursday's practice report from London."
+      },
+      {
+        "at": "2026-09-30T16:20:00Z",
+        "player": "Jayden Daniels",
+        "action": "MONITOR",
+        "watch": "Friday's designation",
+        "url": "https://www.espn.com/nfl/story/_/id/50068247/commanders-jayden-daniels-limited-practice-status-air",
+        "text": "Jayden Daniels (WAS) was limited in Wednesday's 60-minute jog-through in London, his first practice since he dislocated the left elbow in Week 2, and Dan Quinn says the team will have a definite determination by Friday. Marcus Mariota took every snap vs SEA and threw 3 touchdowns, and he is the WAS quarterback on this week's Menu. Monitor Daniels; Friday's designation."
+      },
+      {
+        "at": "2026-09-30T16:20:00Z",
+        "player": "Mike Evans",
+        "action": "MONITOR",
+        "watch": "Thursday's practice",
+        "url": "https://sports.yahoo.com/articles/49ers-wr-mike-evans-not-202808114.html",
+        "text": "Mike Evans (SF) will not practice Wednesday while he manages the rib injury from ARI, and Kyle Shanahan says he expects him to play vs DEN. Trent Williams takes a rest day for the stinger and is expected back Thursday. Evans sits outside the ranked depth on the Menu until he practices. Monitor Evans; Thursday's practice."
+      },
+      {
+        "at": "2026-09-30T16:20:00Z",
+        "player": "Drake Maye",
+        "action": "START",
+        "slot": "QB1",
+        "url": "https://www.foxsports.com/stories/nfl/whats-wrong-drake-maye-how-do-patriots-fix-qb",
+        "text": "Mike Vrabel says Drake Maye (NE) stays the starter @BUF after the fourth-quarter benching for Tommy DeVito: 1 touchdown pass, 6 interceptions and 7 turnovers in three games with A.J. Brown on IR. Maye is QB9 on this week's Menu, so the job, not the tape, is the call. Start him as your QB1."
+      },
+      {
+        "at": "2026-09-30T16:20:00Z",
+        "player": "T.J. Hockenson",
+        "action": "SIT",
+        "url": "https://www.rotowire.com/football/headlines/tj-hockenson-news-catches-two-passes-in-win-639806",
+        "text": "Josh Oliver (MIN) went on injured reserve Tuesday with a torn biceps, so T.J. Hockenson and Gavin Bartholomew are the only tight ends on the roster. Hockenson ran a route on 29 of 37 dropbacks vs TB and got 2 of the 4 targets for 11 yards, even with Justin Jefferson out from the first quarter. More snaps, same targets. Sit Hockenson vs MIA for any Menu tight end."
+      },
       {
         "at": "2026-09-29T23:20:00Z",
         "player": "Jaylen Warren",

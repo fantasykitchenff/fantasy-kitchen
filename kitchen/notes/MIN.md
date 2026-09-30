@@ -119,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-06: T.J. Hockenson: Hockenson has not been a real part of the game plan since his injury and is not viewed as a factor. [8-6 1st round picks downsides]
 - 2026-08-15: T.J. Hockenson: He is 29 and two years removed from his ACL; he is the third option behind Jefferson and Addison, and Kyler Murray supported a top fantasy tight end in Arizona. [8-15 talk with injury expert]
 - 2026-09-28: Josh Oliver: Torn biceps, surgery, likely out for the season (reports).
+- 2026-09-30: Josh Oliver placed on IR Tuesday 9/29 (torn biceps); T.J. Hockenson and Gavin Bartholomew are the only tight ends on the roster. Hockenson ran a route on 29 of 37 dropbacks vs TB in Week 3, 2 of 4 targets for 11 yards. Vikings signed RBs Devin Neal and Audric Estime to the practice squad (team, reports).
 
 ## Offensive line
 

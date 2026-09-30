@@ -190,6 +190,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Mike Evans: Has sat out a lot of camp practice with a quad issue and veteran rest; he will turn 33 and is expected to be an every-down player when healthy. [8-26 rankings and news updates]
 - 2026-08-26: Mike Evans: Evans has barely been on the practice field in late August with his quad issue, adding to the 49ers' thin receiver picture. [8-26 myguys episode]
 - 2026-09-28: Mike Evans: Rib injury in Week 3 vs ARI; Shanahan called it day-to-day, not long term, could play Week 4 vs DEN (NBC Sports Bay Area).
+- 2026-09-30: Mike Evans: no practice Wednesday while managing the rib injury; Kyle Shanahan expects him to play vs DEN. Trent Williams: rest day Wednesday for the stinger, expected back Thursday (Shanahan, reports).
 - 2026-09-27: Mike Evans: rib strain per Rapoport, carted to the locker room late in the first half at ARI after taking a helmet from Budda Baker on the prior play, out at halftime; Kyle Shanahan called him day-to-day with a chance to play vs DEN. Trent Williams: stinger in the third quarter, carted, did not return. [pod 9-28, beat]
 
 ## Other
