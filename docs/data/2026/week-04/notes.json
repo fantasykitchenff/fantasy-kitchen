@@ -6,12 +6,27 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-30T22:20:00Z",
+  "updatedAt": "2026-09-30T23:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-09-30T23:30:00Z",
+        "text": "Ladd McConkey (LAC) was limited Wednesday with a foot injury, a new listing; the cracked rib held him to 49 and 46 percent of the snaps in Weeks 1 and 2 before he played 88 percent at BUF, 4 of 5 for 66. The Menu row now carries the flag and he stays WR20. Start him as a WR2 at SEA if Thursday's line says limited or full, and have a backup ready for Friday's designation.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-30/ladd-mcconkey-foot-limited-in-wednesday-practice",
+        "player": "Ladd McConkey",
+        "action": "START",
+        "slot": "WR2"
+      },
+      {
+        "at": "2026-09-30T23:30:00Z",
+        "text": "Cleveland ruled center Elgton Jenkins (concussion) out for Thursday night vs PIT, so Luke Wypler starts in the middle, and Tylan Wallace (knee) and guard Teven Jenkins (back) are out too. Quinshon Judkins (CLE) has 42 carries for 124 yards, 3.0 a carry, with no touchdown, and ran 11 routes to Raheim Sanders' 16 last week. Flex Judkins vs PIT; he is not an RB2 behind that line.",
+        "url": "https://www.clevelandbrowns.com/news/elgton-jenkins-out-for-week-4-against-the-steelers-injury-report",
+        "player": "Quinshon Judkins",
+        "action": "FLEX"
+      },
       {
         "at": "2026-09-30T22:20:00Z",
         "player": "Puka Nacua",
@@ -155,14 +170,6 @@
         "action": "STASH",
         "faab": "5-10%",
         "text": "Jaylen Wright (MIA) was limited at Wednesday's practice with the foot after sitting out Week 3, and he had been working ahead of Ollie Gordon II before he was hurt. Jeff Hafley says every back will have a role. Wright has 3 carries this season. Stash him, 5 to 10 percent of FAAB; Thursday and Friday decide whether he is back in the split at MIN.",
-        "at": "2026-09-30T19:45:00Z",
-        "url": ""
-      },
-      {
-        "player": "Omarion Hampton",
-        "action": "TRADE_AWAY",
-        "price": "a WR2 or a RB2 who catches passes",
-        "text": "Omarion Hampton's (LAC) snap share has gone 58, 63 and 42 percent by week; the Heat Check and Butcher Shop cards listed Week 1 at 80.6 percent and are fixed. The fall is from Week 2, and the routes went 10, 10 and 6 with 3 targets all season while Keaton Mitchell ran 33 routes. The call stands: trade him away and ask for a WR2 or a RB2 who catches passes.",
         "at": "2026-09-30T19:45:00Z",
         "url": ""
       },
@@ -326,13 +333,6 @@
         "text": "Keenan Allen (IND) faces possible league discipline after a September charge from an August arrest; league policy carries a three-game minimum, none has been announced, the next court date is Oct 26 and he is eligible now. He has 20 targets on 75 routes, 26.7 percent, and took 9 of 36 attempts vs HOU. Claim him, 3 to 6 percent of FAAB, and know a ban could land in season."
       },
       {
-        "at": "2026-09-30T19:35:00Z",
-        "player": "Xavier Worthy",
-        "action": "DROP",
-        "url": "",
-        "text": "The Market Run said most of Xavier Worthy's (KC) snaps come without a route. Kansas City had 24 dropbacks on 49 plays @MIA, and his 19 routes are a 79 percent route share, level with Travis Kelce and one more than Rashee Rice. The routes are there; 63 yards on 15 targets in three games with no game above 25 is the problem. Drop him for Sadiq, Harris or Keenan Allen."
-      },
-      {
         "at": "2026-09-30T19:30:00Z",
         "text": "Khalil Shakir (BUF) drew 3 targets and caught 1 for 6 yards on 73 percent of the snaps vs LAC while DJ Moore drew a team-high 10. The Menu row said the volume was coming his way; it did not. Sit him vs NE; he comes down the receiver list on Friday's Prep Notes.",
         "url": "",
@@ -395,8 +395,8 @@
         "slot": "TE1"
       },
       {
-        "at": "2026-09-30T19:30:00Z",
-        "text": "Darren Waller (CAR) led Carolina with 8 targets on 28 routes and 39 of 77 snaps at CLE, 5 catches for 51, and his snaps have gone 24, 29, 39 by week with Jalen Coker (quad) and Xavier Legette (knee) out. He is outside the Menu's top 20 tight ends, so this is a streamer's call. Monitor Coker's Friday designation; stream Waller vs DET if Coker is out, and sit him if Coker plays.",
+        "at": "2026-09-30T23:30:00Z",
+        "text": "Darren Waller (CAR) led Carolina with 8 targets on 28 routes and 39 of 77 snaps at CLE, 5 catches for 51, and his snaps have gone 24, 29, 39 by week with Jalen Coker (quad) and Xavier Legette (knee) out; Dave Canales called Coker day to day and Legette week to week Wednesday, and Waller's own Wednesday absence was a rest day. He is outside the Menu's top 20 tight ends, so this is a streamer's call. Monitor Coker's Friday designation; stream Waller vs DET if Coker is out, and sit him if Coker plays.",
         "url": "",
         "player": "Darren Waller",
         "action": "MONITOR",

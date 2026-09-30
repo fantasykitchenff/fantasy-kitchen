@@ -143,6 +143,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Jaycee Horn (quad) and Mike Jackson (groin) were both placed on injured reserve Wednesday; Horn could miss the rest of the season (reports).
 - 2026-09-29: Damien Lewis: Left guard Damien Lewis has a UCL tear in his elbow (Garafolo), is getting a second opinion and is out vs DET, with 'a few weeks' the reported range; Corey Bullock makes his first career start. Carolina is already on backups at both tackles (Rasheed Walker for Ekwonu, a rookie for Moton). [pod 9-29, beat]
 - 2026-09-28: Bryce Young: Had his foot stepped on by left tackle Rasheed Walker in the second quarter at CLE, was checked in the tent and did not miss a snap; imaging was ordered and Canales expects him to play vs DET. [pod 9-30, coach]
+- 2026-09-30: Jalen Coker, Xavier Legette: Both DNP Wednesday's walkthrough; Dave Canales called Coker day to day and questionable, Legette week to week. Damien Lewis (elbow) and RT Monroe Freeling (concussion) DNP; Chuba Hubbard and Darren Waller rest days (team site).
 
 ## Other
 

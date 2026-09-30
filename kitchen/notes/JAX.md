@@ -176,6 +176,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-25: Jakobi Meyers: Off the final Week 3 injury report after a thumb listing (limited in practice before Week 2). [pod 9-29, official]
 - 2026-09-23: Brian Thomas Jr.: Off the injury report and a full participant before Week 3; the shoulder was aggravated in Week 1 and he was limited in practice before Week 2. [pod 9-29, official]
 - 2026-09-27: LeQuint Allen: Limited in practice all week before Week 3 with a hip injury; played 18% of the snaps. [pod 9-30, official]
+- 2026-09-30: Jakobi Meyers (thumb) and LeQuint Allen Jr. (hip) limited Wednesday; Brian Thomas Jr. and Bhayshul Tuten not listed (team report).
 
 ## Other
 

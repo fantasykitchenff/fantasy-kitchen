@@ -172,6 +172,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Malik Nabers: Coming off an ACL tear plus a meniscus tear; he just turned 23 and is entering his third NFL season. [8-26 rankings and news updates]
 - 2026-09-28: Brian Burns: Torn ACL in the right knee in the fourth quarter vs TEN, confirmed by John Harbaugh; placed on injured reserve Sep 29, season over. [pod 9-30, official]
 - 2026-09-21: Malik Nabers: The Week 2 injury was a right shoulder dislocation at LAR that he put back in himself; he returned to the game, was limited Sep 23 and carried no designation into Week 3, where he played about 80% of the snaps. [pod 9-30, beat]
+- 2026-09-30: Tyrone Tracy Jr. (knee) and LT Andrew Thomas (groin) DNP Wednesday; John Harbaugh called Tracy day to day; Cam Skattebo full and Malik Nabers not listed (team report).
 
 ## Other
 

@@ -169,6 +169,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Rashawn Slater: Slater is back at practice. [8-24 embarrased to love players]
 - 2026-08-24: Tyler Biadasz: The Chargers placed newly signed center Biadasz on injured reserve, ending his season. [8-24 embarrased to love players]
 - 2026-09-25: Ladd McConkey: Cracked a rib in Week 1; practiced in full on 9/23 and was left off the final Week 3 injury report, then played 88% of the snaps at BUF. [pod 9-29, official]
+- 2026-09-30: Ladd McConkey: Limited Wednesday with a foot injury, a new listing after the rib (NBC Sports, CBS); Trey Lance (groin) and Derwin James (hamstring) also limited, seven Chargers did not practice.
 
 ## Other
 
