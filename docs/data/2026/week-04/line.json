@@ -6,9 +6,9 @@
   "dek": "Jeremiyah Love is a borderline RB1 after one game as the lead, Omarion Hampton is a sit at RB20 until the Menu catches up to his usage, and Jaylen Warren is the Thursday night back.",
   "format": "PPR",
   "publishedAt": "2026-10-01T12:00:00Z",
-  "updatedAt": "2026-10-01T12:00:00Z",
+  "updatedAt": "2026-10-01T13:45:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Thursday is for the players you are agonizing over. Studs are not on the line. Every call below is the player's rank on this week's [Menu](menu.html?week=4) and the tier it falls in, PPR scoring, and the reader decides. The Menu order itself does not move until Friday's Prep Notes, so where the usage disagrees with a rank, the card says so.\n\nThursday night first: Steelers at Browns carries the lowest total of the week at 38.5, Rico Dowdle is out, and Cleveland's center is out. Then the twelve the week favors, the ten it does not, and six coin flips where a Friday practice report picks the side.",
+  "intro_md": "Updated Thu 9:45 AM ET: the London forecast has moved from rain to mostly dry since Wednesday, so the Josh Downs and Tyler Warren cards now rest on the targets alone; Thursday night in Cleveland is dry and in the 70s with a light wind; no call changes.\n\nThursday is for the players you are agonizing over. Studs are not on the line. Every call below is the player's rank on this week's [Menu](menu.html?week=4) and the tier it falls in, PPR scoring, and the reader decides. The Menu order itself does not move until Friday's Prep Notes, so where the usage disagrees with a rank, the card says so.\n\nThursday night first: Steelers at Browns carries the lowest total of the week at 38.5, Rico Dowdle is out, and Cleveland's center is out. Then the twelve the week favors, the ten it does not, and six coin flips where a Friday practice report picks the side.",
   "outro_md": "Prep Notes reconciles the ranks Friday after the final injury report. Sunday morning, Order Up carries the inactives and the pivots as each window's reports drop.",
   "data": {
     "tnf": [
@@ -115,8 +115,8 @@
         "team": "IND",
         "pos": "WR",
         "opp": "@WAS",
-        "why": "Targets 3, 9, 11 since Alec Pierce went down, 24 on 91 routes, and Downs, Tyler Warren and Keenan Allen took 30 of 36 attempts vs HOU. Washington has allowed 280 passing yards a game and 11 passing touchdowns, the most in the league. London carries a 90 percent chance of rain at kickoff, and the slot target is the throw that survives weather.",
-        "verdict": "WR21 for me this week, a WR2; in a London rain the slot target is the one that still gets thrown.",
+        "why": "Targets 3, 9, 11 since Alec Pierce went down, 24 on 91 routes, and Downs, Tyler Warren and Keenan Allen took 30 of 36 attempts vs HOU. Washington has allowed 280 passing yards a game and 11 passing touchdowns, the most in the league. The London forecast that read 90 percent rain on Wednesday now reads mostly dry with a light wind, so the weather is no longer part of the case either way; the slot target is.",
+        "verdict": "WR21 for me this week, a WR2; 11 targets last week and 30 of 36 throws inside a three-man tree is the case, dry or wet.",
         "action": "START",
         "slot": "WR2"
       },
@@ -155,8 +155,8 @@
         "team": "IND",
         "pos": "TE",
         "opp": "@WAS",
-        "why": "10 targets, 9 for 55, vs HOU with Alec Pierce on IR, and 22 targets on 93 routes for the season. The tree is three players deep (30 of 36 attempts in Week 3), and a tight end's targets are the ones rain does not take away.",
-        "verdict": "TE7 for me this week; a 10-target tight end in a three-man tree, rain or not.",
+        "why": "10 targets, 9 for 55, vs HOU with Alec Pierce on IR, and 22 targets on 93 routes for the season. The tree is three players deep (30 of 36 attempts in Week 3). The London forecast has turned mostly dry since Wednesday, so this is a volume call, not a weather call.",
+        "verdict": "TE7 for me this week; a 10-target tight end in a three-man tree.",
         "action": "START",
         "slot": "TE1"
       },

@@ -6,12 +6,20 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-09-30T23:30:00Z",
+  "updatedAt": "2026-10-01T13:45:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-01T13:45:00Z",
+        "text": "The London forecast for IND at WAS (Sunday 9:30 AM ET) has moved from a 90 percent chance of rain on Wednesday to mostly dry, high 60s, wind under 10 miles an hour, by Thursday morning. Josh Downs (IND) has 3, 9 and 11 targets since Alec Pierce went on IR, and he stays WR21 for me this week, a WR2; the call was the targets, not the weather. Tyler Warren stays TE7.",
+        "url": "",
+        "player": "Josh Downs",
+        "action": "START",
+        "slot": "WR2"
+      },
       {
         "at": "2026-09-30T23:30:00Z",
         "text": "Ladd McConkey (LAC) was limited Wednesday with a foot injury, a new listing; the cracked rib held him to 49 and 46 percent of the snaps in Weeks 1 and 2 before he played 88 percent at BUF, 4 of 5 for 66. The Menu row now carries the flag and he stays WR20. Start him as a WR2 at SEA if Thursday's line says limited or full, and have a backup ready for Friday's designation.",

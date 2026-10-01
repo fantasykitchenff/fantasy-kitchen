@@ -200,3 +200,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: IND 19, HOU 17. [pod 9-28, official]
 - 2026-09-30: Defense allowed 294 rushing yards on 56 running back carries through two games (5.3 per carry) and the fifth-most fantasy points to tight ends (reports).
 - 2026-10-01: Week 4 vs WAS in London: IND favored by 3.5 with a 47.5 total; a 90 percent chance of rain at kickoff in the Thursday forecasts (odds and weather pages).
+- 2026-10-01: IND at WAS, London, Sunday 9:30 AM ET: the forecast moved from about a 90 percent chance of rain at kickoff (Wednesday's read) to mostly dry, high 60s, wind under 10 mph by Thursday morning; one Tottenham-specific page still showed afternoon showers (weather pages via search results).
