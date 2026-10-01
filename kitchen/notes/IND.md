@@ -193,6 +193,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-23: Alec Pierce aggravated the surgically repaired left heel in Week 2 at KC and was placed on IR on 9/23; minimum four games, no timeline, another surgery possible per Shane Steichen. [pod 9-29, official]
 - 2026-09-28: Alec Pierce: Shane Steichen said Pierce did not have surgery on the left heel and is rehabbing (cast and scooter to keep weight off); on IR with no return timeline. [pod 9-29, coach]
 - 2026-09-15: Keenan Allen: Charged on 9/15 after an 8/30 arrest. League policy carries a minimum three-game suspension; none has been announced, the next court date is 10/26, and he remains eligible. [pod 9-29, official]
+- 2026-10-01: Thursday in London: Jonathan Taylor, Keenan Allen and Charvarius Ward limited on scheduled rest days for a second day, Mo Alie-Cox (illness) and Ashton Dulin (ankle) DNP, Akeem Davis-Gaither (knee) limited, K Spencer Shrader (groin) full (team report).
 
 ## Other
 

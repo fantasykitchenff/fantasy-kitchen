@@ -122,6 +122,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Darren Waller: The Panthers signed Darren Waller (33) to a one-year deal; he caught six TDs last year and is considered an upgrade over Ja'Tavion Sanders. [8-13 h2h mock draft]
 - 2026-09-28: Austin Ekeler was never on the 2026 roster (a reported workout only); he signed with Washington. [pod 9-28, official]
 - 2026-09-30: CB Jaycee Horn and CB Mike Jackson placed on injured reserve Wednesday; Will Lee III, Akayleb Evans and Chau Smith-Wade are the corners on the 53 for DET Sunday night (team, reports).
+- 2026-09-30: WR David Moore and RB Anthony Tyus III signed to the active roster from the practice squad; both were elevated for Week 3 at CLE, Tyus returned two kickoffs for 47 (team).
 
 ## Injuries and status
 
