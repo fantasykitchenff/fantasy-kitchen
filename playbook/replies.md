@@ -19,6 +19,8 @@ A reply that makes a lineup call uses the rank language in `_standards.md` ("Ran
 
 Before drafting a reply about a lineup, open this week's Menu, `docs/data/2026/week-NN/menu.json` (week from `python3 tools/fk.py week`, two digits), and read the player's rank at his position (RB, WR, QB or TE; the FLEX list is the tiebreak between positions). Prep Notes refreshes the Menu on Friday, so the Friday rank is the one to use from Friday evening on. The reply gives that rank and its tier in the words above. The rank is public; the number behind it never is.
 
+For a rest-of-season call (trade for, trade away, hold, drop, buy low, sell high), read the player's rank in kitchen/rankings/<season>-ros.csv and give it as 'WR28 rest of season for me'; if he is not in the file, give the role and the number and no rank.
+
 ## Layout
 
 Replies keep their own layout: 1 to 3 sentences, one number the original post did not have, the call, then "Follow @handle for more." (handle from `docs/data/site.json`). No hashtags, no link, no hook closer, never quote the original. The one-player-per-line rule for threads does not apply to replies.
