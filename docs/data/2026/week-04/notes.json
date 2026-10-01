@@ -6,12 +6,28 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-01T15:20:00Z",
+  "updatedAt": "2026-10-01T16:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-01T16:30:00Z",
+        "text": "DeVonta Smith (PHI) sat out Wednesday's walkthrough with the hamstring, the same listing he carried last week, when he did not practice Thursday, went limited Friday and played Monday night. At CHI he drew 8 targets, a 32 percent share, and caught 6 for 65 on 97 percent of the routes, and his target share on the season is 33 percent. He stays WR9 on the Menu with a flag. Monitor; Thursday's practice line, then Friday's designation.",
+        "url": "",
+        "player": "DeVonta Smith",
+        "action": "MONITOR",
+        "watch": "Thursday and Friday practice lines and the Friday designation"
+      },
+      {
+        "at": "2026-10-01T16:30:00Z",
+        "text": "Dallas Goedert (PHI) did not practice Wednesday with the sprained MCL that kept him out at CHI, and the team still calls him week to week. Johnny Mundt played 26 snaps there with 10 routes and 1 target. Zach Ertz played 19 snaps with 11 routes and 2 targets, so neither is a play if Goedert sits again. He is off the Menu with Juwan Johnson as the pivot. Monitor; Thursday's practice line, and a Friday out designation keeps the pivot.",
+        "url": "",
+        "player": "Dallas Goedert",
+        "action": "MONITOR",
+        "watch": "Thursday and Friday practice lines; an out designation Friday keeps the Juwan Johnson pivot"
+      },
       {
         "at": "2026-10-01T15:20:00Z",
         "text": "Dallas announced its trade for cornerback Joey Porter Jr. Thursday morning, a 2027 sixth and a 2028 second to PIT, and a league source says there is a chance he plays Sunday vs HOU. He has not played a snap in 2026 with the back. Nico Collins (HOU), limited Wednesday after missing Weeks 2 and 3, stays WR15 for me this week, a WR2, if Thursday and Friday say limited or full; a corner who has not practiced with the group does not move the lean, and Dallas has still allowed 7 passing touchdowns in three games.",
@@ -362,22 +378,6 @@
         "player": "DJ Moore",
         "action": "START",
         "slot": "WR3"
-      },
-      {
-        "at": "2026-09-30T19:30:00Z",
-        "text": "James Cook (BUF) ran 24 times for 154 yards and a touchdown on 67 percent of the snaps and 81 percent of the early downs vs LAC, with 1 target and no catch, while Ty Johnson came back and took the passing downs (15 snaps, 4 of 4 for 50). The Menu note that pinned more handoffs on Allen's knee is gone; the carries are the reason. Start Cook as your RB1 vs NE and expect the catches to stay with Johnson.",
-        "url": "",
-        "player": "James Cook",
-        "action": "START",
-        "slot": "RB1"
-      },
-      {
-        "at": "2026-09-30T19:30:00Z",
-        "text": "Derrick Henry (BAL) ran 26 times for 89 yards (3.4) and 2 touchdowns vs DAL on 67 percent of the snaps, with his 11 inside runs going for 23 yards and two stops on fourth-and-1, and now both centers are out. He has 6 touchdowns in three games and the goal line is still his. Start him as your RB1 vs TEN; the line is why the yardage floor is lower than the rank.",
-        "url": "",
-        "player": "Derrick Henry",
-        "action": "START",
-        "slot": "RB1"
       },
       {
         "at": "2026-09-30T19:30:00Z",

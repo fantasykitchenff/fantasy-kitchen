@@ -167,6 +167,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Makai Lemon: Rookie Makai Lemon was set to return to practice Thursday from a hamstring injury. [8-20 bust and value picks for 2026]
 - 2026-09-29: Dallas Goedert: sprained MCL, week to week; not expected to go on IR, so Week 4 vs LAR is possible (Athlon, Yahoo).
 - 2026-09-28: Jalen Hurts: Evaluated for a concussion after a late hit out of bounds in the second quarter at CHI, cleared and returned; he missed four snaps (46 of 50) and was not diagnosed with a concussion. [pod 9-29, beat]
+- 2026-09-30: DeVonta Smith: DNP Wednesday's walkthrough (hamstring), an estimated report; he followed the same pattern last week (DNP Wed and Thu, limited Fri, full Sat) and played at CHI (team report, reports).
+- 2026-09-30: Dallas Goedert (knee), Hollywood Brown (ankle), Will Shipley (foot), OT Fred Johnson (knee) and LB Zack Baun (concussion) also DNP Wednesday; Jalen Carter (wrist, reported hairline fracture), Tank Bigsby (abdomen), Darius Cooper (knee), Jonathan Greenard (pectoral) and Byron Young (toe) were full (team report, reports).
 
 ## Other
 
