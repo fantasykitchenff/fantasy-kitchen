@@ -139,6 +139,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Zay Flowers: Practiced Wednesday, the first session of TEN week. [pod 9-30, beat]
 - 2026-09-30: Lamar Jackson: Limited Wednesday with a back injury, first report listing this season; Minter called it something small and expects him to play vs TEN (NBC Sports, official report).
 - 2026-09-30: Zay Flowers: Listed hamstring, limited Wednesday; Humphrey (hamstring), Chris Moore (ankle), John Simpson (groin), Durham Smythe (heel) and Ronnie Stanley (toe) also limited (official report).
+- 2026-10-01: Lamar Jackson: full practice Thursday after a limited Wednesday (back); Jesse Minter called it something small (team site).
+- 2026-10-01: Zay Flowers: full practice Thursday after a limited Wednesday (hamstring) (reports).
 
 ## Other
 

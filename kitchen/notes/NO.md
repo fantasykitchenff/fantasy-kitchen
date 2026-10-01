@@ -169,6 +169,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-30: Jordyn Tyson: placed on injured reserve with the hamstring on 8/30, out at least the first four games; he has not played this season. [pod 9-29, official]
 - 2026-09-25: Travis Etienne Jr.: Was limited Wednesday and Thursday and full Friday with the hamstring before Week 3, then aggravated it in the third quarter. [pod 9-29, official]
 - 2026-10-01: Jordyn Tyson: on IR since 8/30 with a four-game minimum, so not eligible for Week 4; no practice-window opening found through Thursday. [pod 10-1, official]
+- 2026-10-01: Travis Etienne Jr.: placed on injured reserve Thursday (hamstring), out at least four games, no surgery; Kellen Moore said "we'll see" on returning near four games (ESPN).
 
 ## Other
 

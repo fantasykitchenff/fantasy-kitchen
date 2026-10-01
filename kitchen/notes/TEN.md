@@ -119,6 +119,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-21: Carnell Tate: Was back in uniform for Friday's practice after missing three practices. [8-21 mayhem mock draft]
 - 2026-09-30: Tyjae Spears: Did not practice Wednesday (ankle, aggravated in the second half at NYG); Robert Saleh said there is no concern about his availability vs BAL. [pod 9-29, official]
 - 2026-09-30: Tony Pollard: did not practice Wednesday (foot), with Tyjae Spears (ankle) also out; the head coach said he is not worried about either for Sunday at BAL. [pod 10-1, official]
+- 2026-10-01: Tony Pollard: full practice Thursday after a Wednesday DNP (foot) (team site, reports).
+- 2026-10-01: Tyjae Spears: limited Thursday after a Wednesday DNP (ankle) (reports).
 
 ## Other
 

@@ -203,6 +203,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Mike Evans: DNP Wednesday (ribs); Shanahan said Evans, Trent Williams (stinger) and Dre Greenlaw (quad) should be good to go by Thursday (Shanahan, NBC Sports).
 - 2026-09-30: KhaDarel Hodge (knee), Nick Bosa (knee, calf), Dre Greenlaw (quad) and Mike Evans (ribs) DNP Wednesday; Christian McCaffrey and Trent Williams (neck) listed as rest; Shanahan on Evans practicing: not Wednesday, hopefully later in the week (team report).
 - 2026-10-01: Mike Evans: General manager John Lynch said Evans will make every attempt to play vs DEN after missing Wednesday's practice with the rib injury. [pod 10-1, beat]
+- 2026-10-01: Mike Evans: did not practice Thursday (ribs), worked on the side; second straight DNP (reports).
 
 ## Other
 

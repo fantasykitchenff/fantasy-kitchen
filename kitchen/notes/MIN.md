@@ -143,6 +143,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Justin Jefferson: DNP Wednesday (ankle sprain, not high); O'Connell calls him day to day and will not say what it means for Sunday (team report, O'Connell).
 - 2026-10-01: Justin Jefferson: not seen in the open portion of Thursday practice after a Wednesday DNP (ankle sprain); no game designation until Friday. [pod 10-1, beat]
 - 2026-09-16: Jordan Mason: on IR since 9/16 with a fractured thumb; misses Weeks 2-5, Minnesota's bye is Week 6, first eligible Week 7 vs IND. [pod 9-30, official]
+- 2026-10-01: Justin Jefferson: officially did not practice Thursday, second straight DNP with the ankle sprain (official report).
 
 ## Other
 

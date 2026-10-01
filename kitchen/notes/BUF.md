@@ -119,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Josh Allen: Not on Wednesday's injury report after the knee hit vs LAC (Rotowire, official report).
 - 2026-09-30: Keon Coleman: DNP Wednesday (ankle); played 48% of the snaps vs LAC, 1 of 2 for 37; Palmer would take the snaps (NBC Sports, official report).
 - 2026-09-30: DJ Moore: Limited Wednesday with the shoulder for a second straight week; Christian Benford (toe) and Keon Coleman (ankle) did not practice and Josh Allen is not listed. [pod 10-1, official]
+- 2026-10-01: DJ Moore: limited Thursday again (shoulder) (reports).
 
 ## Other
 
