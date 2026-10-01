@@ -19,8 +19,8 @@ Short reactions to the day's fantasy-relevant news, written into the week's `not
 
 ## Method
 
-1. Log every fantasy-relevant item as a note: `at` (UTC ISO), `text` (one or two sentences: the fact, then the read), `url` (the source, optional). Newest first. Keep the week's list under 60 items; prune stale ones from earlier in the week if needed.
-2. Queue a short thread (2 or 3 posts) only when an item changes a lineup or waiver decision for a lot of people (a starter ruled out mid-week, a trade, a role change confirmed by the coach). Post 1 is the hook (who, what, the headline call, a closer from `_standards.md`, the team hashtag). Post 2 is the fact, the number, and the action, with the hashtag. Post 3 is the link to the piece that covers it (`--link`), or the notes on the Pass page (`--link "pass.html"`).
+1. Log every fantasy-relevant item as a note: `at` (UTC ISO), `text` (one or two sentences: the fact, then the read; a lineup read is the player's Menu rank and its tier in the rank language of `_standards.md`, never "start him"), `url` (the source, optional). Newest first. Keep the week's list under 60 items; prune stale ones from earlier in the week if needed.
+2. Queue a short thread (2 or 3 posts) only when an item changes a lineup or waiver decision for a lot of people (a starter ruled out mid-week, a trade, a role change confirmed by the coach). Post 1 is the hook (who, what, the headline call, a closer from `_standards.md` on its own line, the team hashtag on its own last line; a second player gets his own line). Post 2 is the fact, the number, and the call (rank language for a lineup call), one player per line, with the hashtag on its own last line. Post 3 is the link to the piece that covers it (`--link`), or the notes on the Pass page (`--link "pass.html"`).
 3. Never post the same news twice. Never post a rumor. Never post a reaction to another creator's take.
 4. Append facts to `kitchen/notes/<TEAM>.md`.
 
@@ -36,7 +36,7 @@ Envelope: `series` "notes", `title` "Kitchen notes, Week N", `dek` "What moved t
 
 ## Posts
 
-Short threads, `--series notes --kind thread`, `--at now`, `--not-after +8h`, `--link "pass.html"` unless a kitchen piece covers the news.
+Short threads, `--series notes --kind thread`, `--at now`, `--not-after +8h`, `--link "pass.html"` unless a kitchen piece covers the news. One player per line in every post with an empty line between players, the team hashtags on their own last line, no start commands (`_standards.md`).
 
 ## Finish
 

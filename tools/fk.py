@@ -4,7 +4,7 @@
 Subcommands
   week [--finished] [--date ISO]      print the content week (Tue..Mon cycle, Eastern)
   when "Tue 07:20"                     print the UTC timestamp for a weekday+Eastern time in the content week (also: now, +6h, ISO)
-  validate                             validate data files, queue items and copy standards
+  validate                             validate data files, queue items and copy standards (rank language and one player per line from 2026-10-01)
   manifest                             rebuild docs/data/index.json from data files
   queue add ...                        add a post/thread to queue/pending
   queue list [--due] [--json]          list pending items (optionally only those due now)
@@ -261,6 +261,78 @@ ACTION_NEEDS = {"CLAIM": "faab", "ADD": "faab", "STASH": "faab", "TRADE_FOR": "p
 ACTION_WORDS = re.compile(r"\b(start|sit|bench|flex|stream|claim|add|pick up|pickup|drop|cut|hold|trade for|trade away|sell|buy|stash|monitor|watch|pivot|spend|offer|ask for|keep)\b", re.I)
 FAAB_RE = re.compile(r"^\d{1,3}(\s*-\s*\d{1,3})?\s*%$")
 
+# ---------------------------------------------------------------- owner rules of 2026-10-01
+# Rank language: a lineup call is spoken as the player's Menu rank and its tier, never as a start command.
+# One player per line: a thread post gives each player his own line; a line names a second player only to
+# compare or to pivot, never a third. Both apply to queue items created, pieces published and notes items
+# dated on or after RULE_CUTOFF; earlier published pieces and queued posts are left as they are.
+RULE_CUTOFF = dt.datetime(2026, 10, 1, 4, 0, tzinfo=dt.timezone.utc)
+START_CMD = re.compile(r"\b(start(?:ing)?\s+(?:him|them)|start\s+as\s+an?\b|is\s+a\s+start\b|must[- ]start|i'?m\s+starting)\b", re.I)
+RANK_WORDS = re.compile(r"\b((?:qb|rb|wr|te)\d{1,2}|top[- ]?\d+|borderline|flex play|dart throw|streamer|active|for me|on the menu|high-end|low-end|outside my top)\b", re.I)
+ACTION_OR_RANK = re.compile("(?:%s)|(?:%s)" % (ACTION_WORDS.pattern, RANK_WORDS.pattern), re.I)
+NAME_SUFFIXES = {"jr", "sr", "ii", "iii", "iv", "v"}
+_week_names = {}
+
+def after_cutoff(ts):
+    d = parse_iso(ts) if ts else None
+    return bool(d) and d >= RULE_CUTOFF
+
+def week_player_names(week):
+    """(full name, last name) for every player named in the week's piece files (player, to, in, out fields)."""
+    try:
+        wk = int(week)
+    except (TypeError, ValueError):
+        return []
+    if wk in _week_names:
+        return _week_names[wk]
+    names = set()
+    def grab(o):
+        if isinstance(o, dict):
+            for k, v in o.items():
+                if k in ("player", "to", "in", "out") and isinstance(v, str) and v.strip():
+                    names.add(v.strip())
+                else:
+                    grab(v)
+        elif isinstance(o, list):
+            for v in o:
+                grab(v)
+    for path in glob.glob(os.path.join(DATA, str(SEASON), f"week-{wk:02d}", "*.json")):
+        try:
+            grab(load(path).get("data") or {})
+        except Exception:
+            pass
+    pairs = []
+    for n in names:
+        toks = n.split()
+        while len(toks) > 1 and toks[-1].lower().strip(".") in NAME_SUFFIXES:
+            toks.pop()
+        if len(toks) < 2:
+            continue
+        last = toks[-1].strip(".,'")
+        if len(last) >= 3:
+            pairs.append((n, last))
+    _week_names[wk] = pairs
+    return pairs
+
+def players_in(text, pairs):
+    """The distinct players a line names: a full name in any case, or a capitalized last name."""
+    found = set()
+    for full, last in pairs:
+        if re.search(r"(?<!\w)" + re.escape(full) + r"(?!\w)", text, re.I) or re.search(r"(?<![\w'])" + re.escape(last) + r"(?![\w'])", text):
+            found.add(last.lower())
+    return found
+
+def check_start_commands(text, where, errors, pairs):
+    """Rule 1: no start commands anywhere; a lineup call gives the Menu rank and its tier."""
+    if not isinstance(text, str) or not text:
+        return
+    m = START_CMD.search(text)
+    if not m and pairs:
+        alts = "|".join(sorted({re.escape(x) for full, last in pairs for x in (full, last)}, key=len, reverse=True))
+        m = re.search(r"\b[Ss]tart(?:ing)?\s+(?:" + alts + r")(?!\w)", text)
+    if m:
+        errors.append(f"{where}: start command '{m.group(0)}' (give the Menu rank and its tier instead: 'RB18 for me this week, an RB2')")
+
 def check_action(item, where, errors, allowed=None):
     """Every player-bearing item needs an action from the vocabulary plus its companion field."""
     a = item.get("action")
@@ -314,6 +386,10 @@ def validate_piece(path, errors, warnings):
     walk_strings(p, rel, lambda s, w: check_text(s, w, errors, warnings))
     d = p.get("data") or {}
     s = p.get("series")
+    recent = after_cutoff(p.get("publishedAt"))
+    pairs = week_player_names(p.get("week")) if (recent or s == "notes") else []
+    if recent:
+        walk_strings(p, rel, lambda t, w: check_start_commands(t, w, errors, pairs))
     if s == "menu":
         pos = d.get("positions") or {}
         if not pos:
@@ -357,8 +433,8 @@ def validate_piece(path, errors, warnings):
                 check_action(r, f"{rel}: {key}[{i}] {r.get('player')}", errors, allowed=allowed)
         for i, m in enumerate(d.get("mnf") or []):
             txt = m.get("text") if isinstance(m, dict) else m
-            if txt and not ACTION_WORDS.search(str(txt)):
-                errors.append(f"{rel}: mnf[{i}] names no action")
+            if txt and not ACTION_OR_RANK.search(str(txt)):
+                errors.append(f"{rel}: mnf[{i}] names no action or rank call")
     elif s == "prep":
         for i, r in enumerate(d.get("report") or []):
             if not r.get("player") or not r.get("status"):
@@ -373,8 +449,8 @@ def validate_piece(path, errors, warnings):
             for i, r in enumerate(w.get("inactives") or []):
                 check_action(r, f"{rel}: windows[{wi}].inactives[{i}] {r.get('player')}", errors, allowed=["PIVOT", "SIT"])
         for i, u in enumerate(d.get("updates") or []):
-            if u.get("text") and not ACTION_WORDS.search(str(u["text"])):
-                errors.append(f"{rel}: updates[{i}] names no action")
+            if u.get("text") and not ACTION_OR_RANK.search(str(u["text"])):
+                errors.append(f"{rel}: updates[{i}] names no action or rank call")
     elif s == "leftovers":
         if not d.get("takeaways"):
             errors.append(f"{rel}: leftovers needs takeaways")
@@ -400,6 +476,8 @@ def validate_piece(path, errors, warnings):
                 check_action(it, f"{rel}: items[{i}] {it.get('player')}", errors)
             elif it.get("action"):
                 errors.append(f"{rel}: items[{i}] has an action but no player")
+            if not recent and after_cutoff(it.get("at")):
+                check_start_commands(it.get("text"), f"{rel}: items[{i}].text", errors, pairs)
     for i, q in enumerate(p.get("posts") or []):
         if not q.get("id"):
             errors.append(f"{rel}: posts[{i}] missing id")
@@ -442,6 +520,18 @@ def validate_queue_item(path, errors, warnings):
                 errors.append(f"{rel}: text[{i}] repeats a hashtag")
             if len(tags) > 5:
                 errors.append(f"{rel}: text[{i}] carries {len(tags)} hashtags; split the post")
+    if after_cutoff(q.get("createdAt")):
+        pairs = week_player_names(q.get("week"))
+        for i, t in enumerate(texts):
+            check_start_commands(t, f"{rel}.text[{i}]", errors, pairs)
+        if q.get("kind") == "thread":
+            for i, t in enumerate(texts[:-1]):
+                if len(players_in(t, pairs)) >= 2 and "\n" not in t.strip():
+                    errors.append(f"{rel}: text[{i}] names two or more players with no line break (one player per line)")
+                for ln in t.split("\n"):
+                    n = players_in(ln, pairs)
+                    if len(n) >= 3:
+                        errors.append(f"{rel}: text[{i}] has a line naming {len(n)} players ('{ln.strip()[:50]}'); one player per line, a second only to compare or pivot")
     for i, t in enumerate(texts):
         n = post_length(t)
         if n > POST_LIMIT:
@@ -455,8 +545,8 @@ def validate_queue_item(path, errors, warnings):
             errors.append(f"{rel}: text[{i}] uses a thread marker or counter (drop it; the first post stands alone)")
         if re.search(r"\d%", t):
             warnings.append(f"{rel}: text[{i}] uses '%'; posts say 'percent'")
-        if i < len(texts) - 1 and not ACTION_WORDS.search(t):
-            errors.append(f"{rel}: text[{i}] names no action (start, sit, claim with FAAB, drop, hold, trade for, trade away, monitor, pivot)")
+        if i < len(texts) - 1 and not ACTION_OR_RANK.search(t):
+            errors.append(f"{rel}: text[{i}] names no action or rank call (the Menu rank and tier, sit, claim with FAAB, drop, hold, trade for, trade away, monitor, pivot)")
 
 def cmd_validate(a):
     errors, warnings = [], []

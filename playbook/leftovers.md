@@ -45,10 +45,12 @@ One thread, 7 to 9 posts, `--at "Mon 13:20"`, `--not-after +20h`, `--link "lefto
 
 1. Hook: the biggest takeaway with its number. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
 2. to 4. One takeaway per post (the top three).
-5. Usage notes as a compact list (5 or 6 names with one number and one action each).
-6. Overreactions: two "real", two "noise", each with the number.
+5. Usage notes, one name per line with one number and one call each, an empty line between players (5 or 6 names).
+6. Overreactions: two "real", two "noise", each with the number, one player per line.
 7. The misses, owned.
 8. Close plus link.
+
+One player per line in every post, the team hashtags on their own last line, no start commands; a lineup call is the Menu rank and its tier (`_standards.md`).
 
 ## Finish
 

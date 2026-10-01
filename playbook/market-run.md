@@ -49,14 +49,16 @@ Envelope: `title` "Market Run, Week N", `dek` the top add and why in one sentenc
 One thread, 7 to 10 posts, `--at "Tue 13:20"`, `--not-after "Wed 12:00"`, `--link "market.html?week=N"`:
 
 1. Hook: the number one add and the FAAB range. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
-2. Adds 1 to 3, one line each: name, team, position, the deployment number, then the action with the FAAB range ("Claim, 25 to 35%").
+2. Adds 1 to 3, one player per line with an empty line between players: name, team, position, the deployment number, then the action with the FAAB range ("Claim, 25 to 35 percent").
 3. Adds 4 to 6.
 4. Adds 7 to 10 (or "deeper adds").
 5. QB and TE streamers.
 6. Stashes.
-7. Cut bait: the drops and the number behind each.
+7. Cut bait: the drops and the number behind each, one player per line.
 8. Monday night in two sentences.
 9. Close plus link.
+
+One player per line in every post, the team hashtags on their own last line, no start commands (`_standards.md`; waiver calls are unchanged).
 
 ## Finish
 

@@ -42,18 +42,18 @@ heat.json
 { "risers": [ { "player": "", "team": "", "pos": "", "stat": "", "why": "", "verdict": "", "action": "START", "slot": "WR2" } ],
   "fallers": [ { "player": "", "team": "", "pos": "", "stat": "", "why": "", "verdict": "", "action": "TRADE_AWAY", "price": "" } ] }
 
-Heat Check actions: a riser is START (with `slot`), TRADE_FOR (with `price`), CLAIM or ADD (with `faab`), or HOLD; a faller is SIT, TRADE_AWAY (with `price`), DROP, or MONITOR (with `watch`). Pick the one the reader acts on first.
+Heat Check actions: a riser is START (with `slot`), TRADE_FOR (with `price`), CLAIM or ADD (with `faab`), or HOLD; a faller is SIT, TRADE_AWAY (with `price`), DROP, or MONITOR (with `watch`). Pick the one the reader acts on first. A START, FLEX or SIT verdict is written in rank language (the Menu rank and its tier, `_standards.md`), never "start him".
 ```
 
 Envelopes: `title` "Butcher Shop, Week N" and "Heat Check, Week N"; `dek` one sentence each; `intro_md` one paragraph each.
 
 ## Posts
 
-Two threads, both `--not-after "Wed 12:00"`. Each hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.
+Two threads, both `--not-after "Wed 12:00"`. Each hook ends with a closer from `_standards.md` on its own line; every post but the last ends with the official hashtag of each team it names on its own last line. One player per line in every post with an empty line between players, no start commands (`_standards.md`).
 
-Butcher Shop thread, 6 to 8 posts, `--at "Tue 18:20"`, `--link "butcher.html?week=N"`: hook (best buy, one number), buys in two posts, sells in two posts, the one trade to make today, close plus link.
+Butcher Shop thread, 6 to 8 posts, `--at "Tue 18:20"`, `--link "butcher.html?week=N"`: hook (best buy, one number), buys in two posts (one player per line: name, the number, the price), sells in two posts, the one trade to make today, close plus link.
 
-Heat Check thread, 5 to 7 posts, `--at "Tue 18:22"`, `--link "heat.html?week=N"`: hook (biggest riser and the number), risers in two posts (name, the stat, verdict), fallers in two posts, close plus link.
+Heat Check thread, 5 to 7 posts, `--at "Tue 18:22"`, `--link "heat.html?week=N"`: hook (biggest riser and the number), risers in two posts (one player per line: name, the stat, verdict), fallers in two posts, close plus link.
 
 ## Finish
 

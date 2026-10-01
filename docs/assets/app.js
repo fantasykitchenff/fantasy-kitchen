@@ -9,7 +9,7 @@
     market:    { name: "Market Run",     page: "market.html",    blurb: "Waiver wire: adds, FAAB, stashes, drops." },
     butcher:   { name: "Butcher Shop",   page: "butcher.html",   blurb: "Trade for and trade away." },
     heat:      { name: "Heat Check",     page: "heat.html",      blurb: "Risers and fallers, with the numbers behind them." },
-    line:      { name: "On the Line",    page: "line.html",      blurb: "Start, sit, and the coin flips." },
+    line:      { name: "On the Line",    page: "line.html",      blurb: "Lineup calls, and the coin flips." },
     prep:      { name: "Prep Notes",     page: "prep.html",      blurb: "The injury report, read for lineups." },
     orderup:   { name: "Order Up",       page: "orderup.html",   blurb: "Sunday inactives and lineup pivots." },
     leftovers: { name: "Leftovers",      page: "leftovers.html", blurb: "Monday takeaways, usage, and overreactions." },
@@ -36,14 +36,15 @@
   };
   const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
-  /* The action rule: every player item carries one action; render it as an instruction chip. */
+  /* The action rule: every player item carries one action; render it as an instruction chip.
+     A START chip shows the slot alone ("RB2"), never "Start as": the reader sees the rank and tier and decides. */
   const ACTION_LABEL = { START: "Start", FLEX: "Flex", SIT: "Sit", STREAM: "Stream", CLAIM: "Claim", ADD: "Add", STASH: "Stash", DROP: "Drop", HOLD: "Hold", TRADE_FOR: "Trade for", TRADE_AWAY: "Trade away", MONITOR: "Monitor", PIVOT: "Pivot" };
   const ACTION_CLASS = { START: "go", FLEX: "go", STREAM: "go", CLAIM: "buy", ADD: "buy", STASH: "buy", TRADE_FOR: "buy", HOLD: "hold", SIT: "stop", DROP: "stop", TRADE_AWAY: "stop", MONITOR: "watch", PIVOT: "pivot" };
   function actionChip(item) {
     if (!item || !item.action) return null;
     const a = String(item.action).toUpperCase().replace(" ", "_");
     let label = ACTION_LABEL[a] || a;
-    if (a === "START" && item.slot) label += " as " + item.slot;
+    if (a === "START") label = item.slot || "Lineup";
     if ((a === "CLAIM" || a === "ADD" || a === "STASH") && item.faab) label += " · FAAB " + item.faab;
     if ((a === "TRADE_FOR" || a === "TRADE_AWAY") && item.price) label += " · " + item.price;
     if (a === "MONITOR" && item.watch) label += " · " + item.watch;
@@ -195,6 +196,8 @@
   function playerRow(p, i, opts) {
     opts = opts || {};
     const flag = (p.flag || "").toUpperCase();
+    /* Menu rows ranked 1 to 10 carry no START chip: the rank says it. */
+    const topTen = opts.menu && String(p.action || "").toUpperCase() === "START" && Number(p.rank) >= 1 && Number(p.rank) <= 10;
     const pillClass = { Q: "q", D: "d", O: "o", IR: "ir", OUT: "o" }[flag];
     return el("li", { class: "row" + (flag === "O" || flag === "OUT" || flag === "IR" ? " dim" : "") }, [
       el("span", { class: "rank" }, [p.rank != null ? p.rank : (i + 1)]),
@@ -206,10 +209,10 @@
       ]),
       el("span", { class: "opp" }, [p.opp || ""]),
       p.note ? el("span", { class: "note" }, [p.note]) : null,
-      p.action ? el("span", { class: "note" }, [actionChip(p)]) : null
+      p.action && !topTen ? el("span", { class: "note" }, [actionChip(p)]) : null
     ]);
   }
-  function tieredList(players) {
+  function tieredList(players, opts) {
     const wrap = el("div");
     let cur = null, ul = null;
     players.forEach((p, i) => {
@@ -220,7 +223,7 @@
         wrap.append(el("div", { class: "tier" }, [el("div", { class: "tier-head" }, [el("span", { class: "n" }, ["Tier " + t + label]), el("span", { class: "rule" })])]));
         ul = el("ul", { class: "rows" }); wrap.lastChild.append(ul);
       }
-      ul.append(playerRow(p, i));
+      ul.append(playerRow(p, i, opts));
     });
     return wrap;
   }
@@ -259,7 +262,7 @@
       const hero = el("div", { class: "hero" }, [
         el("div", { class: "eyebrow" }, [wk ? `${site.season} season · Week ${wk} board` : `${site.season} season`]),
         el("h1", {}, [site.tagline || "What the kitchen is serving this week"]),
-        el("p", { class: "dek" }, [site.dek || "Rankings, waivers, start/sit, trades and Sunday pivots, cooked from one projection model and posted on X all week."]),
+        el("p", { class: "dek" }, [site.dek || "Rankings, waivers, lineup calls, trades and Sunday pivots, cooked from one projection model and posted on X all week."]),
       ]);
       main.append(hero);
 
@@ -299,7 +302,7 @@
         const off = piece.data.off_menu || {};
         const show = k => {
           tabs.querySelectorAll("button").forEach(b => b.setAttribute("aria-selected", b.dataset.k === k ? "true" : "false"));
-          body.replaceChildren(tieredList(pos[k] || []));
+          body.replaceChildren(tieredList(pos[k] || [], { menu: true }));
           if (off[k] && off[k].length) body.append(el("div", { class: "tier" }, [
             el("div", { class: "tier-head" }, [el("span", { class: "n", style: "color:var(--mute)" }, ["Off the menu"]), el("span", { class: "rule" })]),
             el("ul", { class: "rows" }, off[k].map((p, i) => playerRow(Object.assign({ rank: "", flag: p.flag || "OUT" }, p), i)))
@@ -350,8 +353,8 @@
       await loadSeries(main, site, manifest, "line", (m, piece) => {
         const d = piece.data || {};
         [cardSection("Thursday night", d.tnf, { verdictLabel: "Call" }),
-         cardSection("Start them", d.starts, { verdictLabel: "Call" }),
-         cardSection("Sit them", d.sits, { verdictLabel: "Call" }),
+         cardSection("The week favors them", d.starts, { verdictLabel: "Call" }),
+         cardSection("The week does not", d.sits, { verdictLabel: "Call" }),
          cardSection("Coin flips", d.coinflips, { verdictLabel: "Lean" })
         ].forEach(s => s && m.append(s));
       });
