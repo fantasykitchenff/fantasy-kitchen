@@ -104,6 +104,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-05: George Pickens: Pickens is practicing on his franchise tag and is not expected to hold out. [8-5 32 team update and breakdown]
 - 2026-08-11: Javonte Williams: Dallas re-signed Williams to a three-year, $24 million deal with $16 million guaranteed as its second transaction of the offseason and added no running back in the draft or free agency. He turned 26 in April. [8-11 Fantasy Target Debate]
+- 2026-10-01: Dallas acquired CB Joey Porter Jr. from PIT for a 2027 sixth-round pick and a 2028 second-round pick, announced Thursday Oct 1; he had not played a snap in 2026 (back, PUP, a stalled extension in Pittsburgh) and a league source said there is a chance he debuts Sunday vs HOU (team announcement, reports).
 
 ## Other
 
