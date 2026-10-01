@@ -156,3 +156,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Other
 
 - 2026-09-27: Rookies Rueben Bain Jr. and Josiah Trotter did not play vs MIN; Tampa's bye is Week 10. [pod 9-29, official]
+- 2026-10-01: Week 4 vs GB: a 43 percent chance of rain in the Thursday forecasts (weather pages).

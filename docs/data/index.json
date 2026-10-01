@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-09-30T23:18:29Z",
+  "updatedAt": "2026-10-01T12:04:17Z",
   "pieces": [
+    {
+      "series": "line",
+      "week": 4,
+      "path": "2026/week-04/line.json",
+      "title": "On the Line, Week 4",
+      "dek": "Jeremiyah Love is a borderline RB1 after one game as the lead, Omarion Hampton is a sit at RB20 until the Menu catches up to his usage, and Jaylen Warren is the Thursday night back.",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "updatedAt": "2026-10-01T12:00:00Z"
+    },
     {
       "series": "menu",
       "week": 4,

@@ -143,3 +143,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-07: Baltimore went 2-5 in one-score games in 2025 while ranking 10th in points per game; its 2026 win total is 11.5 with the 6th-easiest schedule, and it is favored in each of its first six games. [7-7 afc north breakdown]
 - 2026-08-22: The Ravens are favored in each of their first seven games of 2026 and sit tied for second in Super Bowl odds. [8-22 10 players we cant stop drafting]
+- 2026-10-01: Week 4 vs TEN: BAL favored by 11.5 with a 43.5 total; a 46 percent chance of rain in the Thursday forecasts (odds and weather pages).

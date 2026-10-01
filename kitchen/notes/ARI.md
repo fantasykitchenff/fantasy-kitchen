@@ -185,4 +185,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Arizona faces one of the hardest schedules ever seen; the organization's decisions, including playing Love heavily in preseason, are viewed as poorly run. [8-17 updates and camp news]
 - 2026-09-27: The defense had zero sacks and zero interceptions of Purdy. [pod 9-29, deployment]
 - 2026-09-30: Defense has allowed the sixth-most fantasy points to wide receivers through Week 3 (reports).
-
+- 2026-10-01: Week 4 at NYG: a 28 percent chance of rain in the Thursday forecasts (weather pages).

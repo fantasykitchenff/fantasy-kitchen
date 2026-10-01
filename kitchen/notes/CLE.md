@@ -161,6 +161,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-21: Quinshon Judkins: Did not practice Wednesday or Thursday with an undisclosed injury; Todd Monken said he was not worried, calling it nagging. [8-21 mayhem mock draft]
 - 2026-09-29: Elgton Jenkins, Tylan Wallace: Center Elgton Jenkins (concussion) did not practice Monday or Tuesday and is expected to miss Thursday, with Luke Wypler starting; Tylan Wallace (knee) DNP both days; Teven Jenkins (back) and Tytus Howard (knee) limited Tuesday. [pod 9-30, official]
 - 2026-09-30: Elgton Jenkins: Ruled out Wednesday for Thursday vs PIT (concussion), Luke Wypler starts at center; Tylan Wallace (knee) and Teven Jenkins (back) out; Tyson Campbell back from the ankle (team, final report).
+- 2026-10-01: Final Thursday report: Elgton Jenkins (concussion), Teven Jenkins (back) and Tylan Wallace (knee) out; Tyson Campbell, Grant Delpit and Tytus Howard full; Luke Wypler starts at center (final injury report).
 
 ## Other
 

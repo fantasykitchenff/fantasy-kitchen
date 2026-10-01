@@ -111,6 +111,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Riley Nowakowski: Fifth-round rookie Riley Nowakowski is getting significant fullback reps and the staff keeps expanding his role. [8-12 Camp Updates Article]
 - 2026-09-30: Defense has allowed the second-fewest fantasy points to wide receivers through Week 3 (reports).
 - 2026-10-01: Steelers: Week 4 is at CLE, Thursday Oct 1, 8:15 PM ET. [pod 9-29, official]
+- 2026-10-01: Steelers at Browns: PIT favored by 2.5 with a 38.5 total, the lowest of Week 4; Jalen Ramsey (wrist) and Brandin Echols (concussion) questionable on the final report (odds pages, final injury report).
 
 ## Injuries and status
 
