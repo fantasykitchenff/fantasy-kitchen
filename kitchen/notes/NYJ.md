@@ -137,6 +137,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Mason Taylor: Did not practice Wednesday and remains week to week with the thumb; he is expected to miss a second straight game at CHI. Adonai Mitchell (finger) is also week to week. [pod 9-29, beat]
 - 2026-09-30: Kenyon Sadiq: Listed with a back injury and limited at Wednesday's practice, his first appearance on the report this season; Mason Taylor (thumb) did not practice and Jeremy Ruckert (knee) was limited, so all three tight ends are on the report. [pod 10-1, official]
 - 2026-09-30: Breece Hall: Did not practice Wednesday (quad); Aaron Glenn called him week to week, gave no Week 4 ruling and said the picture clears after Thursday and Friday practice. He has not been ruled out. [pod 9-30, official]
+- 2026-10-01: Breece Hall: Did not practice Thursday (quad), his second straight DNP; still week to week, Friday designation pending (CBS, reports).
 - 2026-09-19: Omar Cooper Jr.: On injured reserve since Sep 19 with the Week 1 high-ankle sprain, so the earliest he can play is Week 7. [pod 9-30, official]
 
 ## Other

@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-10-01T22:58:01Z",
+  "updatedAt": "2026-10-01T23:16:00Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 4,
+      "path": "2026/week-04/notes.json",
+      "title": "Kitchen notes, Week 4",
+      "dek": "What moved today.",
+      "publishedAt": "2026-09-29T16:30:00Z",
+      "updatedAt": "2026-10-01T23:30:00Z"
+    },
     {
       "series": "menu",
       "week": 4,
@@ -11,15 +20,6 @@
       "dek": "The order is refreshed for Sunday: Jared Goff is a top-8 quarterback against CAR's depleted secondary, Patrick Mahomes is QB5, Jeremiyah Love is a top-8 back, and Puka Nacua and Justin Jefferson are back on the board with flags.",
       "publishedAt": "2026-09-30T10:00:00Z",
       "updatedAt": "2026-10-01T23:00:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 4,
-      "path": "2026/week-04/notes.json",
-      "title": "Kitchen notes, Week 4",
-      "dek": "What moved today.",
-      "publishedAt": "2026-09-29T16:30:00Z",
-      "updatedAt": "2026-10-01T22:15:00Z"
     },
     {
       "series": "line",
