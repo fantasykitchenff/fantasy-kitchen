@@ -42,6 +42,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Case Keenum: 24 of 34, 247, 2 TD, 0 INT and a rushing touchdown in the 27-7 win over PHI; Tyson Bagent had cleared concussion protocol but had too few practice reps to start. [pod 9-29, deployment]
 - 2026-09-30: Ben Johnson said Tyson Bagent starts vs NYJ if he gets a full week of practice; Keenum's Week 3 start does not change the depth chart (reports).
 - 2026-09-30: Ben Johnson said Tuesday 'we'll see how it plays out all week' on the Week 4 starter; Bagent gets the start if he gets a full week of practice (reports).
+- 2026-09-30: Ben Johnson: Said the Bears have three quarterbacks under consideration and know their direction but will not name the Week 4 starter; Caleb Williams is improving daily and sat out Wednesday's walkthrough. [pod 10-1, coach]
 
 ## Backfield
 
@@ -108,6 +109,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Kalif Raymond: 52 snaps (75%), 24 routes (69%), 7 targets (21%), 6-90-1; season 67% snaps, 66% routes, 23% target share, 27% targets per route. [pod 9-29, deployment]
 - 2026-09-28: Rome Odunze: 3 of 6 for 44 on 59 snaps (86%) with a dropped touchdown; he has led the receivers in snaps two straight weeks. [pod 9-29, deployment]
 - 2026-09-28: Kalif Raymond: 214 receiving yards through three games, 71 a game. [pod 9-29, deployment]
+- 2026-09-28: Kalif Raymond: 21 targets through three games (9, 5, 7), 19 catches, 214 yards and 1 touchdown; he leads the Bears in receiving yards. [pod 9-30, deployment]
 
 ## Tight ends
 
@@ -130,6 +132,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Colston Loveland: In that four-game stretch he was targeted on 35% of routes and 7 of the 49 targets came in the red zone; the Bears lined him up in the slot and out wide, not only inline. [8-26 myguys episode]
 - 2026-09-29: Colston Loveland: 4 catches on 4 targets for 31 yards vs PHI in Week 3 (corrected 9/30: 34 was his season total on 5 catches); a 6-yard TD was overturned at the goal line (reports).
 - 2026-09-28: Colston Loveland: 4 of 4 for 31 yards vs PHI on 22 routes (63%) and 55 snaps (80%); 34 is his season total on 5 catches, which corrects the 9/29 line. Season: 10% target share and 11% targets per route on 71% of the routes. Cole Kmet: 42 snaps, 13 routes, 1 target. [pod 9-29, deployment]
+- 2026-09-28: Colston Loveland: 9 targets, 5 catches and 34 yards through three games (0, 3 and 31 yards by week). [pod 9-30, deployment]
 
 ## Offensive line
 
@@ -142,6 +145,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Chicago overhauled its offensive line under Ben Johnson last offseason and reportedly improved in every offensive-line category in 2025. [8-24 adp adjustments]
 - 2026-08-26: The Bears rebuilt the offensive line after Williams' record-level sack total as a rookie, and his pressure-to-sack ratio improved in 2025. [8-26 myguys episode]
 - 2026-09-28: Braxton Jones: Left the PHI game with a knee injury after 46% of the snaps; Theo Benedet played the other 54% at left tackle. The other four linemen played all 72 snaps. [pod 9-29, deployment]
+- 2026-09-30: Braxton Jones: Week to week with the knee injury from Week 3, per Ben Johnson, and did not practice Wednesday; Theo Benedet played the rest of that game at left tackle. Jonah Jackson missed Wednesday for a personal reason. [pod 9-30, coach]
 
 ## Rookies
 

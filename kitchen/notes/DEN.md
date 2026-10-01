@@ -169,6 +169,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: J.K. Dobbins: Dobbins returned to individual drills on Aug. 12. [8-12 top 10 rb rankings]
 - 2026-09-30: Marvin Mims Jr.: out for Week 4 at SF (reports).
 - 2026-09-26: Jonah Coleman: Placed on injured reserve with a high-ankle sprain suffered in the Week 2 win over JAX; out at least four games, earliest return Week 7 at ARI (Oct 25). He did not practice Thursday 9/24. The move opened a roster spot for LS Mitchell Fraboni. [pod 9-29, official]
+- 2026-09-30: Jaylen Waddle: Wore a walking boot after the Week 3 win at LAR as a precaution, then practiced in full Wednesday; Sean Payton said he is fine. [pod 9-30, official]
 
 ## Other
 

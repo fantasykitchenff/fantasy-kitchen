@@ -115,6 +115,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Noah Fant 4 for 33 and 2 touchdowns; Juwan Johnson 8 for 48 and 2 touchdowns. [pod 9-28, deployment]
 - 2026-09-27: Juwan Johnson: 19 targets, 15 catches, 173 yards and 3 touchdowns through three games; 4 of 4 for 66 in Week 2 and 8 of 8 with 2 touchdowns in Week 3. [pod 9-29, deployment]
 - 2026-09-27: Juwan Johnson: Tight end snap shares by week: Johnson 84%, 53%, 62%; Noah Fant 41%, 44%, 57%; Oscar Delp 0, 13%, 19%. Johnson's two Week 3 touchdowns were from 1 and 2 yards and he lost a fumble. [pod 9-29, deployment]
+- 2026-09-28: Juwan Johnson: TE3 in fantasy points through three weeks in one major site's scoring; Week 3 was 8 catches on 8 targets for 53 and 2 TD. [pod 10-1, aggregation]
 
 ## Offensive line
 
@@ -167,6 +168,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Travis Etienne Jr.: 13 carries for 57 (team box score) before aggravating the left hamstring in the third quarter; Kellen Moore ruled him out for Monday night vs ATL with no timeline, an extended absence expected and IR undecided. [pod 9-29, coach]
 - 2026-08-30: Jordyn Tyson: placed on injured reserve with the hamstring on 8/30, out at least the first four games; he has not played this season. [pod 9-29, official]
 - 2026-09-25: Travis Etienne Jr.: Was limited Wednesday and Thursday and full Friday with the hamstring before Week 3, then aggravated it in the third quarter. [pod 9-29, official]
+- 2026-10-01: Jordyn Tyson: on IR since 8/30 with a four-game minimum, so not eligible for Week 4; no practice-window opening found through Thursday. [pod 10-1, official]
 
 ## Other
 

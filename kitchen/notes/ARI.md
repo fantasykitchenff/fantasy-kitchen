@@ -17,6 +17,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Cardinals coaches reportedly believe rookie RBs need preseason snaps to adjust to game speed, which is why first-year coach Mike LaFleur played Love deep into the first half. [8-16 preseason week 1 recap]
 - 2026-08-19: Mike LaFleur's Jets offenses used heavy pony personnel with Breece Hall and Michael Carter and moved Garrett Wilson across the formation as a slot/Z weapon; similar creativity is expected in Arizona. [8-19 Offenses to look out for]
 - 2026-08-22: Marvin Harrison Jr.: New head coach Mike LaFleur has reportedly worked one-on-one with Harrison on run blocking and release packages this offseason. [8-22 10 players we cant stop drafting]
+- 2026-09-18: Jeremiyah Love: Mike LaFleur's "You're not going to take the hot hand out" line was said before Week 2 about the two-back rotation in general, not as a description of Week 3. [pod 10-1, coach]
 
 ## Scheme and tendencies
 
@@ -174,6 +175,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Jeremiyah Love: Love has a high ankle sprain from the preseason and the team has made no commitment that he will be ready for Week 1; the injury is prone to aggravation and sapped effectiveness. [8-19 RBs drafting and fading]
 - 2026-08-20: Jeremiyah Love: Injured in preseason and not expected to play again before the season; his Week 1 availability is in question, with Tyler Allgeier the fill-in if he misses time. [8-20 buying or selling rookie hype]
 - 2026-08-30: James Conner: opened the season on injured reserve (ankle), out at least the first four games, eligible to return in Week 5 (NBC Sports). [pod 9-29, official]
+- 2026-09-23: Will Johnson (CB): Neck injury in the fourth quarter vs SEA on Sep 20, placed on IR Sep 23; Mike LaFleur said he could miss the whole season. Denzel Burke starts in his place. [pod 10-1, official]
 
 ## Other
 

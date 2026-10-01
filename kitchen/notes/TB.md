@@ -28,6 +28,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Baker Mayfield: Mayfield was playing very well before getting hurt last season and is reportedly upset with the organization over his contract situation entering 2026. [8-23 highstakes draft]
 - 2026-09-28: Jalon Daniels: 0 for 3 with a game-ending interception in relief of Mayfield in Week 3; named the starter (ESPN, team site).
 - 2026-09-30: Easton Stick is elevated as Jalon Daniels' backup vs GB; Bucky Irving is not on the Week 4 injury report per Todd Bowles (reports).
+- 2025: Jalon Daniels: final Kansas season 12 games, 2,531 passing yards, 22 TD, 62.1% completions, 404 rushing yards and 4 rushing TD; 1,439 rushing yards and 23 rushing TD in 49 college games. [pod 9-30, college stats]
 
 ## Backfield
 
@@ -103,6 +104,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Ted Hurst III: Has played 75%, 74% and 75% of the snaps in Weeks 1 to 3. Emeka Egbuka: 86%, 86%, 74%. Chris Godwin: 86%, 86%, 62%. Tez Johnson: 23%, 29%, 23%. Jalen McMillan played 9 snaps all season before going on IR. [pod 9-29, deployment]
 - 2026-09-27: Emeka Egbuka: 20 targets in three games (6, 5, 9) for 13 catches, 141 yards and 1 TD. [pod 9-30, deployment]
 - 2026-09-27: Chris Godwin: Had an 85-yard touchdown called back by penalty vs MIN; finished with 3 catches for 25 on 62% of the snaps. [pod 9-30, deployment]
+- 2026-09-27: Emeka Egbuka: weekly lines 5-63, 3-16-1, 5-62; each under 10 points in half-PPR, each over 10 in full PPR. [pod 10-1, deployment]
 
 ## Tight ends
 
@@ -152,6 +154,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Jalen McMillan (PCL) was placed on injured reserve Wednesday, designated to return, 6 to 8 weeks; Emeka Egbuka and Chris Godwin are the starting receivers (team move, reports).
 - 2026-09-30: Bucky Irving: Limited Wednesday (glute), hurt on the last two drives vs MIN after the team said he would not be on the report; on track to play vs GB (NBC Sports, official report).
 - 2026-09-30: Chris Godwin: DNP Wednesday (ankle); 10 catches for 111 on the season. Ko Kieft (elbow) also DNP (NBC Sports, official report).
+- 2026-10-01: Chris Godwin: returned to practice Thursday (ankle) after a Wednesday DNP; participation level not yet posted. [pod 10-1, beat]
 
 ## Other
 

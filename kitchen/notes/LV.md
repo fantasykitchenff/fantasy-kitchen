@@ -133,6 +133,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Tyler Linderbaum: The Raiders acquired 25-year-old center Tyler Linderbaum, who graded as the fourth-best run-blocking center in the league in 2025. [8-19 RBs drafting and fading]
 - 2026-08-20: Las Vegas signed C Tyler Linderbaum (run-game boost) and added OL coach Rick Dennison with Kubiak; LT Kolton Miller played only four games in 2025, which hurt Geno Smith. [8-20 Offensive Line Rankings]
 - 2026-08-26: The Raiders get Kolton Miller back and added Tyler Linderbaum on the offensive line under new coach Clint Kubiak, with Kirk Cousins or Fernando Mendoza at quarterback. [8-26 rankings and news updates]
+- 2026-09-30: Jackson Powers-Johnson: Did not practice Wednesday with a groin injury; Ashton Jeanty (ankle) was a full participant and Brock Bowers is not listed. [pod 9-30, official]
 
 ## Depth chart
 

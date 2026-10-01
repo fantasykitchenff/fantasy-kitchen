@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-10-01T16:21:46Z",
+  "updatedAt": "2026-10-01T20:26:10Z",
   "pieces": [
+    {
+      "series": "line",
+      "week": 4,
+      "path": "2026/week-04/line.json",
+      "title": "On the Line, Week 4",
+      "dek": "Jeremiyah Love is a borderline RB1 after one game as the lead, Omarion Hampton is a sit at RB20 until the Menu catches up to his usage, and Jaylen Warren is the Thursday night back.",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "updatedAt": "2026-10-01T20:50:00Z"
+    },
     {
       "series": "menu",
       "week": 4,
@@ -10,7 +19,7 @@
       "title": "The Menu, Week 4",
       "dek": "Three starting quarterbacks and five lead backs are off the menu, Kenneth Walker III is RB3, Jaylen Warren is a top-10 back on Thursday night, and Jayden Daniels sits outside the top 24 until he practices.",
       "publishedAt": "2026-09-30T10:00:00Z",
-      "updatedAt": "2026-10-01T16:45:00Z"
+      "updatedAt": "2026-10-01T20:50:00Z"
     },
     {
       "series": "notes",
@@ -19,16 +28,7 @@
       "title": "Kitchen notes, Week 4",
       "dek": "What moved today.",
       "publishedAt": "2026-09-29T16:30:00Z",
-      "updatedAt": "2026-10-01T16:45:00Z"
-    },
-    {
-      "series": "line",
-      "week": 4,
-      "path": "2026/week-04/line.json",
-      "title": "On the Line, Week 4",
-      "dek": "Jeremiyah Love is a borderline RB1 after one game as the lead, Omarion Hampton is a sit at RB20 until the Menu catches up to his usage, and Jaylen Warren is the Thursday night back.",
-      "publishedAt": "2026-10-01T12:00:00Z",
-      "updatedAt": "2026-10-01T15:20:00Z"
+      "updatedAt": "2026-10-01T20:50:00Z"
     },
     {
       "series": "butcher",

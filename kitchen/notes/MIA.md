@@ -71,6 +71,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Ollie Gordon II: 61 snaps (84%) after Achane left, 17 for 41 and a touchdown, 3 of 3 for 14, a brief cramp; fullback DJ Herman took 7 snaps at halfback and receiver Malik Washington 5 as the emergency back. [pod 9-29, deployment]
 - 2026-09-27: Ollie Gordon II: Ran 25 routes on 43 dropbacks (58%) and drew 3 targets vs KC. Career through Week 3: 90 carries for 247 yards, 10 catches for 46 on 12 targets, 5 touchdowns on 100 touches, no fumbles, 2.9 yards a touch; 2026: 20 carries for 48. He played 3 of 56 snaps in Week 1. [pod 9-29, deployment]
 - 2026-09-27: Jaylen Wright: Career through Week 3: 141 carries for 547 yards (3.9), 8 catches for 52, 2 touchdowns on 149 touches, 3 fumbles (2 lost). 2025: 70 for 288 (4.1), 2 TDs. 2026: 3 carries for 10 in two games. [pod 9-29, deployment]
+- 2026-09-13: Jaylen Wright: In Week 1 at LV, De'Von Achane played 48 snaps while Wright and Ollie Gordon II played 8 combined (Gordon 3), so the two backups did not share a real role behind Achane. [pod 9-30, deployment]
 
 ## Receivers
 

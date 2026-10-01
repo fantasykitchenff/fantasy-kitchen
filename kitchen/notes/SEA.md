@@ -125,6 +125,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Zach Charbonnet: Had ACL surgery on Feb. 20, 2026. Beat reporting suggests he is nearing a return or could start the season on PUP, which would be an unusually fast timeline for that surgery date. [8-20 buying or selling rookie hype]
 - 2026-08-23: Zach Charbonnet: Charbonnet was expected back from injury around Weeks 4-6, on a similar timeline to Jordyn Tyson. [8-23 highstakes draft]
 - 2026-09-24: Zach Charbonnet: PUP (torn ACL in the January playoff at SF), eligible Week 5 at the earliest; Mike Macdonald said the window is not opening this week. [pod 9-29, official]
+- 2026-10-01: Zach Charbonnet: Seattle opened his 21-day practice window off reserve/PUP (torn ACL, January playoff); he must miss the first four games, so Week 5 is the earliest he can play, and the team can activate him any time within the window. [pod 10-1, official]
 
 ## Other
 

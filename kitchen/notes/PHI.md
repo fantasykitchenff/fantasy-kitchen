@@ -136,6 +136,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Dallas Goedert: Ruled out of Week 3 at CHI with a knee injury (team report).
 - 2026-09-28: Week 3 @CHI: Johnny Mundt 24 snaps (51%), 10 routes, 1 target; Zach Ertz 18 snaps (38%), 11 routes, 2 targets, 1 catch for 9. PHI ran 47 offensive snaps. [pod 9-29, deployment]
 - 2026-09-28: Johnny Mundt: Two snap-count sources have PHI at 50 offensive snaps at CHI with Mundt 26 (52%), Ertz 19 (38%) and E.J. Jenkins 13 (26%); a third has 47, 24 and 18. [pod 9-30, deployment]
+- 2026-09-28: Zach Ertz: Age 35, ten months removed from a right ACL tear (Dec 7, 2025); signed to the practice squad Sep 21 and elevated for his 2026 debut in Week 3 at CHI. [pod 9-30, official]
 
 ## Offensive line
 
@@ -170,6 +171,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: DeVonta Smith: DNP Wednesday's walkthrough (hamstring), an estimated report; he followed the same pattern last week (DNP Wed and Thu, limited Fri, full Sat) and played at CHI (team report, reports).
 - 2026-09-30: Dallas Goedert (knee), Hollywood Brown (ankle), Will Shipley (foot), OT Fred Johnson (knee) and LB Zack Baun (concussion) also DNP Wednesday; Jalen Carter (wrist, reported hairline fracture), Tank Bigsby (abdomen), Darius Cooper (knee), Jonathan Greenard (pectoral) and Byron Young (toe) were full (team report, reports).
 - 2026-09-30: Wednesday walkthrough estimate vs LAR: DNP DeVonta Smith (hamstring), Dallas Goedert (knee), Marquise Brown (ankle), Will Shipley (foot), Zack Baun (concussion), Fred Johnson (knee); limited Jihaad Campbell (knee), Jordan Davis (calf), Moro Ojomo (calf, elbow); full Tank Bigsby (abdomen), Jalen Carter (wrist, reported hairline fracture), Darius Cooper, Jonathan Greenard, Byron Young. Smith also sat Wednesday in Week 3 and played Monday (team report, reports).
+- 2026-10-01: DeVonta Smith: Did not practice Thursday (hamstring), his second straight DNP this week; last week he missed Wednesday and Thursday, was limited Friday and played at CHI. [pod 10-1, official]
+- 2026-10-01: Dallas Goedert: Did not practice Wednesday or Thursday (knee); the MCL sprain is still called week to week with no reported timeline and no IR move. [pod 9-30, official]
+- 2026-10-01: Hollywood Brown (ankle), Zack Baun (concussion) and RT Fred Johnson (knee) missed Thursday's practice again; Will Shipley (foot) returned to practice after a Wednesday DNP. [pod 10-1, official]
 
 ## Other
 

@@ -74,6 +74,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: DJ Moore: Moore ran vertical routes in the preseason opener and is expected to be one of only a few Bills pass-catchers who eat, along with Kincaid. [8-19 Offenses to look out for]
 - 2026-09-27: DJ Moore (shoulder) was limited Wednesday, a game-time decision, and played 42 snaps (64%); Keon Coleman (ankle, DNP Wednesday) had 1 catch for 37 on 32 snaps (48%). [pod 9-28, official]
 - 2026-09-27: DJ Moore: Team-high 10 targets, 6 catches for 67 vs LAC on 42 snaps (64%) after a questionable tag (shoulder). Khalil Shakir: 1 catch for 6 on 3 targets on 48 snaps (73%). Joshua Palmer 21 snaps (32%). [pod 9-29, deployment]
+- 2026-09-17: DJ Moore: In Week 2 at DET he had no catch on no target and one carry for -1 yard before hurting his left shoulder late in the second quarter. [pod 10-1, deployment]
 
 ## Tight ends
 
@@ -117,6 +118,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Christian Benford: Left the LAC game early in the third quarter with a toe injury and wore a boot afterward; rookie Davison Igbinosun played 29 snaps in his place. [pod 9-30, beat]
 - 2026-09-30: Josh Allen: Not on Wednesday's injury report after the knee hit vs LAC (Rotowire, official report).
 - 2026-09-30: Keon Coleman: DNP Wednesday (ankle); played 48% of the snaps vs LAC, 1 of 2 for 37; Palmer would take the snaps (NBC Sports, official report).
+- 2026-09-30: DJ Moore: Limited Wednesday with the shoulder for a second straight week; Christian Benford (toe) and Keon Coleman (ankle) did not practice and Josh Allen is not listed. [pod 10-1, official]
 
 ## Other
 

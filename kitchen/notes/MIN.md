@@ -114,6 +114,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Jordan Addison: Camp reports describe a strong connection between Addison and new quarterback Kyler Murray. [8-18 WR rankings]
 - 2026-09-28: Justin Jefferson: Left ankle sprain on a first-quarter screen in Week 3 at TB; imaging clean, could play Week 4 vs MIA per O'Connell (ESPN).
 - 2026-09-27: Jordan Addison 5 for 90 and a touchdown on 9 targets. [pod 9-28, deployment]
+- 2026-09-27: Justin Jefferson: 2 catches for 32 before the ankle sprain on his seventh play at TB; 11 catches for 147 and 2 TD through three games. [pod 9-30, deployment]
+- 2026-09-27: Jordan Addison: 9 targets on Kyler Murray's 29 attempts at TB (31%), 5 for 90 and a TD. [pod 9-30, deployment]
 
 ## Tight ends
 
@@ -139,6 +141,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Justin Jefferson: Day to day with the ankle sprain and did not practice Wednesday, per Adam Schefter. [pod 9-29, beat]
 - 2026-09-30: Aaron Jones Sr.: Limited Wednesday, listed not injury related, a rest day (team report).
 - 2026-09-30: Justin Jefferson: DNP Wednesday (ankle sprain, not high); O'Connell calls him day to day and will not say what it means for Sunday (team report, O'Connell).
+- 2026-10-01: Justin Jefferson: not seen in the open portion of Thursday practice after a Wednesday DNP (ankle sprain); no game designation until Friday. [pod 10-1, beat]
+- 2026-09-16: Jordan Mason: on IR since 9/16 with a fractured thumb; misses Weeks 2-5, Minnesota's bye is Week 6, first eligible Week 7 vs IND. [pod 9-30, official]
 
 ## Other
 

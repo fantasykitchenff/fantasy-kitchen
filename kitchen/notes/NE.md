@@ -84,6 +84,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Mack Hollins 48 snaps (76%) led the receivers; Doubs 46, Douglas 37. [pod 9-28, deployment]
 - 2026-09-27: Mack Hollins: Week 3 targets at JAX on 38 dropbacks: Hollins 9 (6 for 87), DeMario Douglas 5 (1 for 38), Romeo Doubs 4 (3 for 49), Kyle Williams 3 (1 for 34), Efton Chism III 2 (1 for 1). [pod 9-30, deployment]
 - 2026-09-20: Romeo Doubs: 3 catches for 96 yards vs PIT in Week 2, including a 63-yarder; with Week 3 he has 6 for 145 in the two games without A.J. Brown. [pod 9-30, deployment]
+- 2026-09-27: Mack Hollins: Leads the Patriots with 16 targets through three games (5, 2, 9); DeMario Douglas has 14 and Romeo Doubs 11 (3, 4, 4), with no game above 4 targets for Doubs. [pod 10-1, deployment]
 
 ## Tight ends
 
@@ -96,6 +97,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Eli Raridon: Rookie has been lighting up camp with buzz that he will play over Hunter Henry in some situations; Henry got a contract extension. [8-20 buying or selling rookie hype]
 - 2026-09-27: Hunter Henry played 44 snaps (70%). [pod 9-28, deployment]
 - 2026-09-27: Hunter Henry: 2 targets, 1 catch for 5 at JAX on 41-44 snaps (68-70%); Eli Raridon was inactive with a thigh injury. Henry had 3 for 40 in Week 2. [pod 9-30, deployment]
+- 2026-09-30: Eli Raridon: Limited Wednesday with the thigh injury that kept him inactive in Week 3. [pod 9-30, official]
 
 ## Offensive line
 
@@ -124,6 +126,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Drake Maye: Mike Vrabel confirmed him as the starter at BUF ('Drake's our quarterback') after the fourth-quarter benching for Tommy DeVito vs JAX; 1 TD pass, 6 INT, 7 turnovers through three games (reports).
 - 2026-09-29: Drake Maye: Asked about his right shoulder after the JAX loss and on Monday radio, Maye said 'I wouldn't say there's a problem with my shoulder'; Mike Vrabel said he knows of no lingering injury, the team had not listed him on the injury report, and Greg Bedard reported team sources say nothing is wrong. The shoulder was hurt in January's AFC title game and he did not have surgery. [pod 9-29, beat]
 - 2026-09-30: Drake Maye: Added to the Wednesday report with the right shoulder, full participant; says it has not affected his arm or decisions. Gonzalez (shoulder), Barmore (shoulder) and Morgan Moses (foot) DNP (team report, Rotowire).
+- 2026-09-11: A.J. Brown: On injured reserve since Sep 11 with the high-ankle sprain from Week 1 at SEA; the earliest he can return is Week 6. [pod 9-30, official]
 
 ## Other
 

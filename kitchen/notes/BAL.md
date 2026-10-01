@@ -31,6 +31,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Lamar Jackson: Averaged 41.5 rushing yards per game before his Week 4 hamstring injury in 2025 and just 20.3 over his final nine games. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-24: Lamar Jackson: Playing through injury in 2025 he had a four-game stretch with three games under 15 rushing yards; he has said he wants to dial back his running to stay healthy, and Derrick Henry handles the goal line. [8-24 QB Rankings]
 - 2026-09-30: Lamar Jackson: Not at the start of Wednesday's practice minutes after his press conference; no injury or illness was mentioned and he spoke as if he will play vs TEN. Week 3: 15 of 20 for 186 and 2 TD, 6 carries for 50. [pod 9-30, beat]
+- 2026-10-01: Lamar Jackson: On the field at the start of Thursday's practice after a limited Wednesday with a back injury the head coach called minor (beat report). [pod 10-1, beat]
 
 ## Backfield
 

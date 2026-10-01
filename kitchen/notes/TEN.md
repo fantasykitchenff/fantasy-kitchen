@@ -79,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Carnell Tate: Tate (4th overall pick) dominated early camp reports but had 0 catches on 5 preseason targets; as the clear top WR he is expected to play near 100% of snaps from Week 1. [8-26 myguys episode]
 - 2026-09-29: Wan'Dale Robinson: game-high 11 targets @NYG in Week 3, 7 for 57 and a TD; snaps up from 28 to 38; 13-104-1 on 18 targets through three games (reports).
 - 2026-09-27: Carnell Tate: 50 snaps (88%), 33 routes (92%), 6 catches for 58 on 9 targets at NYG. Wan'Dale Robinson 36 snaps (63%), 29 routes (81%), 7-57-1 on 11 targets; Calvin Ridley 18 snaps, 9 routes, 1 target. [pod 9-30, deployment]
+- 2026-09-27: Carnell Tate: 9 of 36 team pass attempts (25%) in Week 3, 6 catches for 58. [pod 10-1, deployment]
 
 ## Tight ends
 
@@ -117,6 +118,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-21: Carnell Tate: Was back in uniform for Friday's practice after missing three practices. [8-21 mayhem mock draft]
 - 2026-09-30: Tyjae Spears: Did not practice Wednesday (ankle, aggravated in the second half at NYG); Robert Saleh said there is no concern about his availability vs BAL. [pod 9-29, official]
+- 2026-09-30: Tony Pollard: did not practice Wednesday (foot), with Tyjae Spears (ankle) also out; the head coach said he is not worried about either for Sunday at BAL. [pod 10-1, official]
 
 ## Other
 

@@ -33,6 +33,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Jayden Daniels: Jayden Daniels says he is fully healthy and is re-mastering David Blough's system. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Jayden Daniels: A league-high 10.9% of his passes were dropped in 2025. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-09-27: Marcus Mariota played every snap, 19 of 31, 183, 3 TD, 0 INT in the 33-31 win over SEA; Drew Lock did not play. Dan Quinn said Monday that Jayden Daniels travels to London and is expected to practice this week ahead of IND. [pod 9-29, coach]
+- 2026-10-01: Jayden Daniels: Practiced Thursday in London wearing a brace on his left (non-throwing) elbow; Dan Quinn said the starter will be settled by Friday, and the offensive coordinator called the situation fluid. [pod 10-1, coach]
 
 ## Backfield
 
@@ -73,6 +74,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Jacory Croskey-Merritt: Croskey-Merritt closed 2025 with four TDs in the final three games at 6.1 yards per carry, one of seven rookie backs in five years with a 54%+ rush success rate; beat reports now emphasize passing-down work. [8-22 10 players we cant stop drafting]
 - 2026-08-22: Rachaad White: Washington added Rachaad White, described as historically inefficient, plus a sixth-round rookie back to a backfield committee with Jacory Croskey-Merritt. [8-22 10 players we cant stop drafting]
 - 2026-09-27: Rachaad White: shoulder, questionable during the game, returned and finished, 30 snaps (43%), 35 rushing yards, a receiving touchdown and a 19-yard run under two minutes. Jacory Croskey-Merritt 39 snaps (57%), 19 for 36 with a 48-yard touchdown wiped out by penalty. [pod 9-29, deployment]
+- 2026-09-27: Jacory Croskey-Merritt: Week 3 vs SEA was 19 carries for 36 (long of 9) plus 1 catch on 1 target for 7, 20 opportunities; season totals 47 carries for 142 and 1 TD. [pod 10-1, deployment]
 
 ## Receivers
 

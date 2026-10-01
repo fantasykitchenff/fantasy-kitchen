@@ -202,6 +202,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Nick Bosa: Calf strain in warmups on 9/24, out vs ARI, expected to miss a few weeks, not placed on IR (Schefter 9/27); he was the sixth defensive lineman lost. James Thompson Jr. (high ankle) is out and five other linemen are on IR. [pod 9-29, beat]
 - 2026-09-30: Mike Evans: DNP Wednesday (ribs); Shanahan said Evans, Trent Williams (stinger) and Dre Greenlaw (quad) should be good to go by Thursday (Shanahan, NBC Sports).
 - 2026-09-30: KhaDarel Hodge (knee), Nick Bosa (knee, calf), Dre Greenlaw (quad) and Mike Evans (ribs) DNP Wednesday; Christian McCaffrey and Trent Williams (neck) listed as rest; Shanahan on Evans practicing: not Wednesday, hopefully later in the week (team report).
+- 2026-10-01: Mike Evans: General manager John Lynch said Evans will make every attempt to play vs DEN after missing Wednesday's practice with the rib injury. [pod 10-1, beat]
 
 ## Other
 

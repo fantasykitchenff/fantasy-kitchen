@@ -90,6 +90,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Jake Ferguson: There has been no positive camp buzz on Jake Ferguson, who was among the least efficient TEs last year; Ryan Flournoy has drawn buzz for the third receiving role and Brevyn Spann-Ford has camp hype. [8-17 updates and camp news]
 - 2026-09-29: Jake Ferguson: 9 catches for 72 yards and 3 TDs on 11 targets through Week 3 (2, 4, 5 targets); 3 of 5 for 23 and a TD vs BAL in Week 3 (reports).
 - 2026-09-27: Jake Ferguson: Snap share 76%, 60%, 69% in Weeks 1 to 3 (44, 33, 51 snaps); Brevyn Spann-Ford 22%, 38%, 38% (13, 21, 28) and Luke Schoonmaker 22%, 29%, 22% (13, 16, 16). Ferguson lost a fumble on the opening drive in Rio and went 3 of 5 for 23 and a TD. [pod 9-29, deployment]
+- 2026-09-27: Jake Ferguson: His 3 touchdowns came 0, 2 and 1 by week (two vs WAS in Week 2, one vs BAL in Week 3), on 11 targets. [pod 10-1, deployment]
 
 ## Offensive line
 

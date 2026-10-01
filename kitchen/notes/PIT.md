@@ -92,6 +92,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-12: Troy Fautanu and Mason McCormick were flipped from the right side to the left this offseason; with Zach Frazier they form a strong young core, and Max Iheanachor is competing at right tackle. [8-12 Camp Updates Article]
 - 2026-08-20: Pittsburgh is moving its right guard and right tackle to the left side, may start a rookie RT, and has a new OL coach; C Zach Frazier is a strength. [8-20 Offensive Line Rankings]
+- 2026-09-27: Max Iheanachor: rookie made his first career start at right tackle in Week 3 vs CIN, with Brock Hoffman at right guard. [pod 9-30, official]
 
 ## Depth chart
 
