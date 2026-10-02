@@ -6,12 +6,21 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-02T21:20:00Z",
+  "updatedAt": "2026-10-02T21:50:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Zay Flowers",
+        "action": "START",
+        "slot": "WR1",
+        "watch": "Sunday's inactives at 11:30 AM ET",
+        "text": "Zay Flowers (BAL) is questionable vs TEN after the Ravens listed him limited Friday with rest beside the hamstring, a day after a full practice. He played 21 snaps in Week 3 and caught 5 of 6 for 84. WR9 for me this week; have a 1 PM receiver ready until the 11:30 AM ET inactives.",
+        "url": "prep.html?week=4",
+        "at": "2026-10-02T21:50:00Z"
+      },
       {
         "player": "Jadarian Price",
         "action": "PIVOT",

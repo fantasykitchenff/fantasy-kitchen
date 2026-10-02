@@ -6,9 +6,9 @@
   "dek": "Jadarian Price is out, so Emanuel Wilson takes the Seattle backfield with George Holani; Keenan Allen missed Friday's practice and is a true London decision.",
   "format": "PPR",
   "publishedAt": "2026-10-02T21:20:00Z",
-  "updatedAt": "2026-10-02T21:20:00Z",
+  "updatedAt": "2026-10-02T21:50:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Friday's final reports are in. Eleven fantasy-relevant players are out, nobody is doubtful, and seven are questionable. The late surprise is in Seattle: Jadarian Price is out with the chest, so Emanuel Wilson moves up to RB31 in a split with George Holani. Nico Collins and DJ Moore have no designation and play. Rankings are for full PPR.\n\nThe true Sunday decisions are Keenan Allen and Terry McLaurin in London (inactives at 8:00 AM ET), Ladd McConkey and Mike Evans in the 4:25 PM window, and Jalen Coker on Sunday night. Have a 1 PM backup ready for anyone you play in London or late.",
+  "intro_md": "Updated Fri 5:50 PM ET: Zay Flowers (hamstring) is questionable after a limited Friday practice the Ravens listed as rest, following a full Thursday. He stays WR9 for me vs TEN; check Sunday's inactives at 11:30 AM ET.\n\nFriday's final reports are in. Eleven fantasy-relevant players are out, nobody is doubtful, and eight are questionable. The late surprise is in Seattle: Jadarian Price is out with the chest, so Emanuel Wilson moves up to RB31 in a split with George Holani. Nico Collins and DJ Moore have no designation and play. Rankings are for full PPR.\n\nThe true Sunday decisions are Keenan Allen and Terry McLaurin in London (inactives at 8:00 AM ET), Ladd McConkey and Mike Evans in the 4:25 PM window, and Jalen Coker on Sunday night. Have a 1 PM backup ready for anyone you play in London or late.",
   "data": {
     "report": [
       {
@@ -187,6 +187,23 @@
         "to": "Jacory Croskey-Merritt"
       },
       {
+        "player": "Zay Flowers",
+        "team": "BAL",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "hamstring",
+        "practice": [
+          "LP",
+          "FP",
+          "LP"
+        ],
+        "read": "Full Thursday, then limited Friday with rest listed beside the hamstring. He played 21 snaps in Week 3 coming back and caught 5 of 6 for 84.",
+        "verdict": "WR9 for me vs TEN with the questionable tag; have a 1 PM receiver ready until the inactives.",
+        "action": "START",
+        "slot": "WR1",
+        "watch": "Sunday's inactives at 11:30 AM ET"
+      },
+      {
         "player": "Jalen Coker",
         "team": "CAR",
         "pos": "WR",
@@ -310,6 +327,11 @@
         "player": "Keenan Allen",
         "was": "WR32, a low-end WR3",
         "now": "WR36 after a Friday DNP; a low-end WR3 only if he is active in London."
+      },
+      {
+        "player": "Zay Flowers",
+        "was": "WR9 with no designation",
+        "now": "WR9, questionable (hamstring, limited Friday as rest); confirm at the 11:30 AM ET inactives."
       }
     ],
     "gtd": [

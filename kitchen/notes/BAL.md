@@ -144,6 +144,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Lamar Jackson: full practice Thursday after a limited Wednesday (back); Jesse Minter called it something small (team site).
 - 2026-10-01: Zay Flowers: full practice Thursday after a limited Wednesday (hamstring) (reports).
 - 2026-10-02: Lamar Jackson (back) and Zay Flowers (hamstring): full practice Thursday and Friday, no game designation; Trey Hendrickson (finger) ruled out; Ronnie Stanley (toe) limited Thursday and Friday. [pod 10-2, official]
+- 2026-10-02: Zay Flowers: correction to the line above. The final Friday report lists him limited Friday (rest, hamstring) and questionable vs TEN after a full Thursday; Lamar Jackson has no designation (team injury report, NBC Sports, CBS Sports).
 
 ## Other
 
