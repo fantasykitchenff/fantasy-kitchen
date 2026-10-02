@@ -1,10 +1,12 @@
-# On the Line (Thursday): lineup calls, coin flips, Thursday night
+# Serve or Sit (Thursday): lineup calls, coin flips, Thursday night
+
+Called On the Line through Week 4. The series is Serve or Sit on the site and in posts from Week 5 on; the job name (`on-the-line`), this file, the data file (`line.json`) and the page (`line.html`) keep the old name so the schedules and every link already posted keep working.
 
 Runs Thursday 11:00 AM ET (FK Daily), after the 10:00 AM pantry. Posts at 1:25 PM ET. Week = current content week.
 
 ## What it is
 
-Lineup calls for the borderline players: the RB2/WR2/flex/TE/QB decisions people actually agonize over. Studs are not on the line. Every call is a verdict, spoken as the player's Menu rank and its tier in the rank language of `_standards.md`; the reader decides. Never "start him".
+Lineup calls for the borderline players: the RB2/WR2/flex/TE/QB decisions people actually agonize over. Studs are not on this page. Every call is a verdict, spoken as the player's Menu rank and its tier in the rank language of `_standards.md`; the reader decides. Never "start him".
 
 ## Inputs
 
@@ -21,9 +23,9 @@ Lineup calls for the borderline players: the RB2/WR2/flex/TE/QB decisions people
 ## Method
 
 1. Thursday night: 3 to 5 calls covering every fantasy-relevant player in the game (the starters people hold), each with a verdict.
-2. The week favors them (`starts`): 8 to 12 players ranked in the Menu between RB13 to RB30, WR19 to WR40, TE5 to TE14, QB7 to QB18 whom the week favors (matchup, role, health). Verdict gives the Menu rank and its tier: "WR18 for me this week, a WR2", "RB27 for me, a high-end RB3, a flex play", "TE12 for me, a borderline start this week".
-3. The week does not (`sits`): 8 to 12 players people will be tempted to play (name value, last week's box score) whom the week does not favor. Verdict gives the rank and where it falls, then the replacement level: "WR41 for me, a low-end flex play; sit him for any Tier 3 receiver".
-4. Coin flips: 4 to 6 true toss-ups with a lean and what would flip it.
+2. The week favors them (`starts`): 10 to 15 players ranked in the Menu between RB13 to RB30, WR19 to WR40, TE5 to TE14, QB7 to QB18 whom the week favors (matchup, role, health). Verdict gives the Menu rank and its tier: "WR18 for me this week, a WR2", "RB27 for me, a high-end RB3, a flex play", "TE12 for me, a borderline start this week".
+3. The week does not (`sits`): 10 to 15 players people will be tempted to play (name value, last week's box score) whom the week does not favor. Verdict gives the rank and where it falls, then the replacement level: "WR41 for me, a low-end flex play; sit him for any Tier 3 receiver".
+4. Coin flips: 4 to 8 true toss-ups with a lean and what would flip it.
 5. Each `why` carries at least one backward-looking number.
 6. Consistency: a player the week favors here cannot be ranked below one it does not favor at the same position in the Menu unless the Menu is being updated in the same run (it is not; note the tension in `why` and let the Friday Prep Notes refresh reconcile).
 
@@ -38,7 +40,7 @@ Lineup calls for the borderline players: the RB2/WR2/flex/TE/QB decisions people
 Actions: tnf and starts are START (with `slot`) or FLEX; sits are SIT; coin flips carry the lean as the action (START or SIT) plus `flip_if`. The action is data; every `verdict` is written in rank language.
 ```
 
-Envelope: `title` "On the Line, Week N", `dek` one sentence with the boldest call, `intro_md` one or two paragraphs.
+Envelope: `title` "Serve or Sit, Week N", `dek` one sentence with the boldest call, `intro_md` one or two paragraphs.
 
 ## Posts
 
@@ -58,4 +60,4 @@ Also queue a 2-post thread with `--at "Thu 18:20"`, `--not-after "Thu 20:15"`, `
 
 ## Finish
 
-`_sync.md` steps 6 and 7. Log: "On the Line week N: a TNF, b starts, c sits, d flips; thread and TNF post queued".
+`_sync.md` steps 6 and 7. Log: "Serve or Sit week N: a TNF, b starts, c sits, d flips; thread and TNF post queued".

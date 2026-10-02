@@ -9,7 +9,7 @@ The recap that matters for next week: 5 to 7 takeaways, 8 to 12 usage notes, and
 ## Inputs
 
 1. `_sync.md` steps 1 to 3 (workbook optional; use it to say where the model already stood on a player without publishing a number). Then step 4a: project memory, the kitchen notes for every team involved, the project's research docs, and the stat workbooks through `tools/project_stats.py`.
-2. This week's Menu, On the Line and Prep Notes (what the kitchen said before the games; own the misses in one line each when a call was wrong, no excuses).
+2. This week's Menu, Serve or Sit and Prep Notes (what the kitchen said before the games; own the misses in one line each when a call was wrong, no excuses).
 3. `kitchen/notes/` for every team that played.
 
 ## Research

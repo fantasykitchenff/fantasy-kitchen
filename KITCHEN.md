@@ -31,7 +31,7 @@ All times Eastern. Nothing posts to X before 10:00 AM ET; `tools/fk.py` enforces
 | Tue 5:15 AM | Market Run | `playbook/market-run.md` | 10:25 AM |
 | Tue 12:52 PM | Butcher Shop + Heat Check | `playbook/butcher-heat.md` | 1:25 PM |
 | Wed 5:52 AM | The Menu | `playbook/menu.md` | 10:25 AM |
-| Thu 7:52 AM | On the Line | `playbook/on-the-line.md` | 10:25 AM, TNF reminder 6:25 PM |
+| Thu 7:52 AM | Serve or Sit (called On the Line through Week 4) | `playbook/on-the-line.md` | 10:25 AM, TNF reminder 6:25 PM |
 | Fri 5:45 PM | Prep Notes (+ Menu refresh) | `playbook/prep-notes.md` | 6:25 PM |
 | Sun 11:36 AM, 3:36 PM | Order Up (FK Kitchen researches and queues; the computer-attached task posts it as soon as it lands) | `playbook/order-up.md` | immediately |
 | Daily 12:12 PM, 7:12 PM | Kitchen Notes | `playbook/kitchen-notes.md` | 1:25 PM, 8:25 PM |
@@ -58,18 +58,23 @@ Why the split: Cowork scheduled tasks cannot be given GitHub repositories, and a
 
 ## The site
 
-One kitchen, different stations. Every page shares one frame: the black and amber header, the tab bar on phones, the fonts, one colour per call (start green, claim amber, sit red, monitor yellow, pivot blue) and the follow card. What changes is the plate the content sits on, set per series in `SERIES` at the top of `docs/assets/app.js`:
+Game day in the kitchen. Every page shares one frame, the field: turf green with mowing stripes, chalk lines, the end zone header, the leather tab bar on phones, goalpost yellow for what is active, and two typefaces (Graduate for titles and numbers, Archivo for everything else). What changes is the object the content sits on, set per series in `SERIES` at the top of `docs/assets/app.js`:
 
 | Plate | Looks like | Series |
 | --- | --- | --- |
-| `menu` | a printed menu card | The Menu |
-| `ticket` | order tickets on the rail | Market Run, Butcher Shop, On the Line, Prep Notes, Order Up |
-| `kitchen` | the dark kitchen | This week (home), Heat Check, Leftovers, From the Pass, About |
+| `board` | the menu board in a wood frame | The Menu |
+| `ticket` | paper order tickets on the rail | Market Run, Butcher Shop, Serve or Sit, Prep Notes, Order Up |
+| `field` | broadcast graphics on the turf | This week (home: the scoreboard and the week's schedule on yard lines), Heat Check, Leftovers, From the Pass, About |
 
+- Every page with players on it has a position bar (All, QB, RB, WR, TE) that filters every list on the page, from each player's `pos` (the Menu's positions fill in a player who has none). The Menu keeps its own position tabs. The choice is in the URL hash: `market.html#RB`, `menu.html#WR`.
+- Each piece shows Published and Updated, the chef's intro (first paragraph, the rest behind "Keep reading"), and the "Updated ..." notes at the top of `intro_md` under "What changed" (`_sync.md`, "Updating a published piece").
+- The Menu opens with a red note that the rankings are further down, with a tap to jump to them. It shows no Start, Sit or slot labels and no Off the Menu list: the rank and the tier say it, Flex marks the flex range, Stream marks a streamer ranked 13.
+- Lineup calls (START, FLEX, SIT, STREAM) never show a Start label anywhere. Where the verdict is on the page, the call has no stamp; on home and in previews it shows the player's rank on this week's Menu, marked "Menu".
+- Serve or Sit is the Thursday series that was called On the Line. Its page is still `line.html` and its data `line.json`.
 - Page addresses are the ones the posts link to, so they never change: `menu.html?week=4` opens a week, `menu.html#RB` a position.
 - Home reads the schedule in `docs/data/site.json` and marks each service served, live, cooking, next or upcoming. The week rolls over on Tuesday by the clock, even before the first run of the week.
 - Everything on the site is free, and everything in `docs/` is public. Members content must never be committed to this repo. When the paid tier launches it gets its own signed-in source and renders in the members slot every piece page already has (`MEMBERS` in `app.js`); until then the slot only shows in the sample preview.
-- Add `?sample=1` to any page to render `docs/data/sample/`, and `&now=2026-09-27T15:50:00Z` to move the clock while testing.
+- Add `?sample=1` to any page to render `docs/data/sample/`, and `&now=2026-10-04T15:50:00Z` to move the clock while testing.
 
 ## Local preview
 

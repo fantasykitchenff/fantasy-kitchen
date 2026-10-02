@@ -4,12 +4,12 @@ Runs Friday 5:00 PM ET (FK Daily), after the 4:00 PM pantry and the final injury
 
 ## What it is
 
-The final Friday designations (Out, Doubtful, Questionable) for every fantasy-relevant player, each with the practice log (Wed/Thu/Fri), a one-line read, and a verdict. In the same run the Menu is updated: ruled-out players move off the menu, flags are set, doubtful players move down, and pivots are named.
+The final Friday designations (Out, Doubtful, Questionable) for every fantasy-relevant player, each with the practice log (Wed/Thu/Fri), a one-line read, and a verdict. In the same run the Menu is updated: ruled-out players come out of the rankings, designations are set, doubtful players move down, and this piece names the pivots.
 
 ## Inputs
 
 1. `_sync.md` steps 1 to 3 (workbook needed for pivots and re-ordering). Then step 4a: project memory, the kitchen notes for every team involved, the project's research docs, and the stat workbooks through `tools/project_stats.py`.
-2. This week's Menu (`docs/data/2026/week-NN/menu.json`) and On the Line.
+2. This week's Menu (`docs/data/2026/week-NN/menu.json`) and Serve or Sit (`line.json`).
 3. `kitchen/notes/` for teams with a designation.
 
 ## Research
@@ -23,12 +23,12 @@ The final Friday designations (Out, Doubtful, Questionable) for every fantasy-re
 2. Read: what the pattern means. Full Friday practice after two limited days is a play. DNP Friday with a Questionable tag is usually out. Doubtful is out. Out is out.
 3. Verdict: the lineup call in rank language (the Menu rank and its tier, `_standards.md`; never "start him"), including the pivot by name for every Out or Doubtful starter. A Questionable player who is expected to play gets his rank and tier with the watch; a Doubtful or Out player gets the pivot.
 4. Menu refresh, in `menu.json`:
-   - Out or Doubtful: remove from `positions`, add to `off_menu` with the pivot in `note`. Doubtful players who might play stay off the menu with note "Doubtful. If he plays, ranks around RB2x." (rank in words, no number from the model).
+   - Out or Doubtful: remove from `positions`. The Menu lists no ruled-out players; this piece's report row carries the pivot (`to`). A Doubtful player who might play says so in his report row: "Doubtful. If he plays, he ranks around the RB2 range." (rank in words, no number from the model).
    - Questionable: set `flag` "Q"; move down within tier if Friday was DNP or LP with a soft-tissue injury; no move for FP.
    - Pivots: the replacement inherits the role share. Re-order him to where the model would place him with that role (reserve the replacement-body haircut). Re-check tier breaks only where a move crossed one.
    - FLEX list re-derived from the updated RB/WR/TE lists.
-   - Update `updatedAt`, keep `publishedAt`, add one sentence to the top of `intro_md`: "Updated Friday evening with the injury report."
-5. Consistency with On the Line: any start/sit call that Friday's report reversed gets a `data.reversals` list in prep.json naming the player and the new call.
+   - Update `updatedAt`, keep `publishedAt`, and add an Updated note to the top of `intro_md` that names the moves in plain words (`_sync.md`, "Updating a published piece"): "Updated Fri 6:00 PM ET with the injury report: Nico Collins is out, so Xavier Hutchinson moves up to WR38; Lamar Jackson has no designation and stays QB2."
+5. Consistency with Serve or Sit: any start/sit call that Friday's report reversed gets a `data.reversals` list in prep.json naming the player and the new call.
 
 ## `data` shape
 

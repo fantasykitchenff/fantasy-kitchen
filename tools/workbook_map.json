@@ -1,5 +1,5 @@
 {
-  "_comment": "Pins tools/extract_projections.py to the owner's Hazelton_2026_Team_Projections.xlsx layout. Projections come from the four Rankings sheets (columns A-B: Player, Points, one row per player; column G: Position). Team comes from the 32 team sheets, whose tables carry Player and Positional Rank. The workbook has no games column, so ppg is season points divided by season_games.",
+  "_comment": "Pins tools/extract_projections.py to the owner's projection workbook layout (the *_Team_Projections.xlsx file in the private model repo). Projections come from the four Rankings sheets (columns A-B: Player, Points, one row per player; column G: Position). Team comes from the 32 team sheets, whose tables carry Player and Positional Rank. The workbook has no games column, so ppg is season points divided by season_games.",
   "sheets": [
     "QB Rankings",
     "RB Rankings",

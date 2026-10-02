@@ -23,6 +23,7 @@ Short reactions to the day's fantasy-relevant news, written into the week's `not
 2. Queue a short thread (2 or 3 posts) only when an item changes a lineup or waiver decision for a lot of people (a starter ruled out mid-week, a trade, a role change confirmed by the coach). Post 1 is the hook (who, what, the headline call, a closer from `_standards.md` on its own line, the team hashtag on its own last line; a second player gets his own line). Post 2 is the fact, the number, and the call (rank language for a lineup call), one player per line, with the hashtag on its own last line. Post 3 is the link to the piece that covers it (`--link`), or the notes on the Pass page (`--link "pass.html"`).
 3. Never post the same news twice. Never post a rumor. Never post a reaction to another creator's take.
 4. Append facts to `kitchen/notes/<TEAM>.md`.
+5. Grow the week's Butcher Shop and Heat Check (`butcher-heat.md`, "Through the week"). A note that shows a trend in usage (a role won or lost, a snap or route share that moved two weeks running) also goes into this week's `heat.json` as a riser or faller, and a note that moves a player's trade value goes into `butcher.json` as a buy or sell, each with every field and a price. Add an Updated note to the piece naming who was added (`_sync.md`, "Updating a published piece"). Skip this step on Monday, before the new week's pieces exist.
 
 ## `data` shape
 
@@ -40,4 +41,4 @@ Short threads, `--series notes --kind thread`, `--at now`, `--not-after +8h`, `-
 
 ## Finish
 
-`_sync.md` step 7. Log: "Kitchen Notes: x items logged, y posts queued".
+`_sync.md` step 7. Log: "Kitchen Notes: x items logged, y posts queued, z players added to Butcher Shop and Heat Check".

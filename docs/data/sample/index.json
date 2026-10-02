@@ -1,88 +1,88 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-09-23T11:00:00Z",
+  "updatedAt": "2026-10-04T15:41:00Z",
   "pieces": [
     {
-      "series": "menu",
+      "series": "orderup",
       "week": 4,
-      "path": "2026/week-04/menu.json",
-      "title": "The Menu, Week 4",
-      "dek": "Sample rankings to show the layout. Tiers are courses; the top of each tier is the safest plate.",
-      "publishedAt": "2026-09-23T11:00:00Z",
-      "updatedAt": "2026-09-23T11:00:00Z"
+      "path": "2026/week-04/orderup.json",
+      "title": "Order Up, Week 4",
+      "dek": "Justin Jefferson is inactive, so Jordan Addison is the play, and Rachaad White sat in London.",
+      "publishedAt": "2026-10-04T12:05:00Z",
+      "updatedAt": "2026-10-04T15:41:00Z"
     },
     {
-      "series": "market",
+      "series": "notes",
       "week": 4,
-      "path": "2026/week-04/market.json",
-      "title": "Market Run, Week 5",
-      "dek": "Sample waiver targets, plus what Monday night changed.",
-      "publishedAt": "2026-09-23T11:00:00Z",
-      "updatedAt": "2026-09-23T11:00:00Z"
-    },
-    {
-      "series": "butcher",
-      "week": 4,
-      "path": "2026/week-04/butcher.json",
-      "title": "Butcher Shop, Week 5",
-      "dek": "Sample buys and sells.",
-      "publishedAt": "2026-09-23T11:00:00Z",
-      "updatedAt": "2026-09-23T11:00:00Z"
-    },
-    {
-      "series": "heat",
-      "week": 4,
-      "path": "2026/week-04/heat.json",
-      "title": "Heat Check, Week 5",
-      "dek": "Sample risers and fallers with the number that backs each read.",
-      "publishedAt": "2026-09-23T11:00:00Z",
-      "updatedAt": "2026-09-23T11:00:00Z"
-    },
-    {
-      "series": "line",
-      "week": 4,
-      "path": "2026/week-04/line.json",
-      "title": "On the Line, Week 4",
-      "dek": "Sample start/sit calls.",
-      "publishedAt": "2026-09-23T11:00:00Z",
-      "updatedAt": "2026-09-23T11:00:00Z"
+      "path": "2026/week-04/notes.json",
+      "title": "Kitchen notes, Week 4",
+      "dek": "What moved today.",
+      "publishedAt": "2026-09-29T16:30:00Z",
+      "updatedAt": "2026-10-04T15:36:00Z"
     },
     {
       "series": "prep",
       "week": 4,
       "path": "2026/week-04/prep.json",
       "title": "Prep Notes, Week 4",
-      "dek": "Sample Friday designations, read for lineups.",
-      "publishedAt": "2026-09-23T11:00:00Z",
-      "updatedAt": "2026-09-23T11:00:00Z"
+      "dek": "Justin Jefferson is doubtful, so Jordan Addison is the Minnesota receiver to play, and Nico Collins is off the report.",
+      "publishedAt": "2026-10-02T22:25:00Z",
+      "updatedAt": "2026-10-02T22:25:00Z"
     },
     {
-      "series": "orderup",
+      "series": "menu",
       "week": 4,
-      "path": "2026/week-04/orderup.json",
-      "title": "Order Up, Week 4",
-      "dek": "Sample Sunday inactives and pivots by window.",
-      "publishedAt": "2026-09-23T11:00:00Z",
-      "updatedAt": "2026-09-23T11:00:00Z"
+      "path": "2026/week-04/menu.json",
+      "title": "The Menu, Week 4",
+      "dek": "The order is refreshed for Sunday: Jared Goff is a top-8 quarterback against CAR's depleted secondary, Patrick Mahomes is QB5, Jeremiyah Love is a top-8 back, and Puka Nacua and Justin Jefferson are back on the board with flags.",
+      "publishedAt": "2026-09-30T10:00:00Z",
+      "updatedAt": "2026-10-01T23:00:00Z"
+    },
+    {
+      "series": "line",
+      "week": 4,
+      "path": "2026/week-04/line.json",
+      "title": "Serve or Sit, Week 4",
+      "dek": "Jeremiyah Love is a borderline RB1 after one game as the lead, Omarion Hampton is a sit at RB20 until the Menu catches up to his usage, and Jaylen Warren is the Thursday night back.",
+      "publishedAt": "2026-10-01T12:00:00Z",
+      "updatedAt": "2026-10-01T20:50:00Z"
+    },
+    {
+      "series": "heat",
+      "week": 4,
+      "path": "2026/week-04/heat.json",
+      "title": "Heat Check, Week 4",
+      "dek": "Rashee Rice went from 2 targets to 6 to 9. The Kansas City passing game is his again.",
+      "publishedAt": "2026-09-29T17:20:00Z",
+      "updatedAt": "2026-10-01T17:30:00Z"
+    },
+    {
+      "series": "butcher",
+      "week": 4,
+      "path": "2026/week-04/butcher.json",
+      "title": "Butcher Shop, Week 4",
+      "dek": "Chris Olave has 36 targets and one touchdown. That price will not last, so go get him today.",
+      "publishedAt": "2026-09-29T17:20:00Z",
+      "updatedAt": "2026-10-01T17:10:00Z"
+    },
+    {
+      "series": "market",
+      "week": 4,
+      "path": "2026/week-04/market.json",
+      "title": "Market Run, Week 4",
+      "dek": "Ollie Gordon II took 84 percent of Miami's snaps after Achane's ACL, and he is the first name on this week's list.",
+      "publishedAt": "2026-09-29T14:20:00Z",
+      "updatedAt": "2026-09-30T19:45:00Z"
     },
     {
       "series": "leftovers",
-      "week": 4,
-      "path": "2026/week-04/leftovers.json",
+      "week": 3,
+      "path": "2026/week-03/leftovers.json",
       "title": "Leftovers, Week 3",
-      "dek": "Sample Monday takeaways.",
-      "publishedAt": "2026-09-23T11:00:00Z",
-      "updatedAt": "2026-09-23T11:00:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 4,
-      "path": "2026/week-04/notes.json",
-      "title": "Kitchen notes",
-      "dek": "Sample daily notes.",
-      "publishedAt": "2026-09-23T11:00:00Z",
-      "updatedAt": "2026-09-26T21:10:00Z"
+      "dek": "Ollie Gordon II played 84 percent of Miami's snaps after De'Von Achane's injury, and he is the first claim of the week.",
+      "publishedAt": "2026-09-28T14:25:00Z",
+      "updatedAt": "2026-09-28T14:25:00Z"
     }
   ]
 }

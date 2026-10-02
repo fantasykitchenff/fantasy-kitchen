@@ -2,46 +2,260 @@
   "series": "heat",
   "season": 2026,
   "week": 4,
-  "title": "Heat Check, Week 5",
-  "dek": "Sample risers and fallers with the number that backs each read.",
+  "title": "Heat Check, Week 4",
+  "dek": "Rashee Rice went from 2 targets to 6 to 9. The Kansas City passing game is his again.",
   "format": "PPR",
-  "publishedAt": "2026-09-23T11:00:00Z",
-  "updatedAt": "2026-09-23T11:00:00Z",
+  "publishedAt": "2026-09-29T17:20:00Z",
+  "updatedAt": "2026-10-01T17:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": null,
-  "outro_md": null,
+  "intro_md": "Updated Thu 1:30 PM ET: added Matthew Golden, Denzel Boston and Jacory Croskey-Merritt as risers and Courtland Sutton and Dalton Schultz as fallers, from Wednesday's usage numbers and this week's podcasts.\n\nUpdated Wed 3:45 PM ET: Omarion Hampton played 58, 63 and 42 percent of the snaps, not 80 in Week 1. Terrance Ferguson moves from monitor to sit after Sean McVay said he will probably miss Sunday.\n\nUpdated Wed 3:40 PM ET: Wan'Dale Robinson ran a route on 81 percent of the dropbacks. Two snap counts disagree on his Week 3 snaps, so the call rests on the routes. The claim stands.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball three weeks running or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets, or just lost the thing his role depended on. One number backs each call. PPR scoring.",
+  "outro_md": "The trade prices for these trends are in the Butcher Shop, and the Menu lands Wednesday.",
   "data": {
     "risers": [
       {
-        "player": "Jaylen Waddle",
-        "team": "MIA",
+        "player": "Rashee Rice",
+        "team": "KC",
         "pos": "WR",
-        "stat": "Route share 91% \u00b7 12 targets last week",
-        "why": "The volume moved to him and stayed.",
-        "verdict": "Stove's on. Treat him as a weekly WR2.",
+        "stat": "Targets 2 to 6 to 9",
+        "action": "TRADE_FOR",
+        "price": "a WR3 and a bench RB",
+        "why": "Rice led the Chiefs in targets, catches and yards @MIA in Week 3 with 7 catches for 88 yards on 9 targets. He drew 9 of the Chiefs' 22 targets in Week 3, a 41% share, after 9.5% through two games; his three-game share is 18.7%.",
+        "verdict": "Trade for him; offer a WR3 and a bench RB before the price catches up."
+      },
+      {
+        "player": "Josh Downs",
+        "team": "IND",
+        "pos": "WR",
+        "stat": "Targets 3 to 9 to 11",
+        "action": "START",
+        "slot": "WR3",
+        "why": "Alec Pierce left Week 2 with a heel injury and is now on IR, and Downs has been the Colts' top target since. He caught 7 of 9 for 72 yards in Week 2 and 5 of 11 for 77 vs HOU in Week 3.",
+        "verdict": "Start him as a WR3 while Pierce is on IR."
+      },
+      {
+        "player": "Cam Skattebo",
+        "team": "NYG",
+        "pos": "RB",
+        "stat": "Snap share 60% to 58% to 76%",
+        "action": "START",
+        "slot": "RB2",
+        "why": "Skattebo took every first-quarter snap vs TEN in Week 3 and finished with 20 carries, 3 catches and 100 scrimmage yards. That is his most touches of the season with Jameis Winston at QB.",
+        "verdict": "Start him as a RB2."
+      },
+      {
+        "player": "Wan'Dale Robinson",
+        "team": "TEN",
+        "pos": "WR",
+        "stat": "Targets 7 in Weeks 1 and 2 combined, then 11 in Week 3 on 81 percent of the routes",
+        "action": "CLAIM",
+        "faab": "2-5%",
+        "why": "Robinson drew a game-high 11 targets @NYG in Week 3 and caught 7 for 57 yards and a touchdown. He ran a route on 81 percent of the dropbacks, and Cam Ward looked for him first in the rain.",
+        "verdict": "Claim him, 2 to 5 percent of FAAB. A PPR flex @BAL if the routes hold."
+      },
+      {
+        "player": "Kenyon Sadiq",
+        "team": "NYJ",
+        "pos": "TE",
+        "stat": "Season-high 38 snaps; 8 targets",
+        "action": "CLAIM",
+        "faab": "12-20%",
+        "why": "Sadiq ran a route on 40 percent of dropbacks through Week 2, then played a season-high 38 snaps @DET with Mason Taylor out and caught 7 of 8 for 105 yards and a touchdown. Taylor's thumb is the one thing that caps him.",
+        "verdict": "Claim him, 12 to 20 percent of FAAB."
+      },
+      {
+        "player": "Bryce Young",
+        "team": "CAR",
+        "pos": "QB",
+        "stat": "Attempts 24 to 33 to 41",
+        "why": "Young's attempts rose every week, and Carolina called a pass on 64 percent of its first downs in Week 3, up from 48. Tetairoa McMillan is the reason it works.",
+        "verdict": "QB11 for me, a borderline start this week vs DET.",
+        "action": "START",
+        "slot": "QB1"
+      },
+      {
+        "player": "Jaylen Warren",
+        "team": "PIT",
+        "pos": "RB",
+        "stat": "Snap share 49% to 58% to 90%",
+        "why": "Warren played 90 percent of the snaps and touched the ball 20 times with Rico Dowdle hurt. Dowdle did not practice all week.",
+        "verdict": "RB9 for me this week; the touches are his until Dowdle is back.",
+        "action": "START",
+        "slot": "RB1"
+      },
+      {
+        "player": "Jacory Croskey-Merritt",
+        "team": "WAS",
+        "pos": "RB",
+        "stat": "Carry share 31% to 44% to 62%",
+        "why": "Croskey-Merritt took 17 of Washington's 27 running back carries in Week 3 and both carries inside the 5. Rachaad White missed two practices with the shoulder.",
+        "verdict": "RB24 for me this week, an RB2.",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "player": "Matthew Golden",
+        "team": "GB",
+        "pos": "WR",
+        "stat": "Route share 62% to 77% to 89%",
+        "why": "Golden's routes climbed every week and he led Green Bay with 9 targets vs DAL. The rookie is the outside receiver Jordan Love looks for on third down.",
+        "verdict": "WR19 for me this week, a WR2.",
         "action": "START",
         "slot": "WR2"
+      },
+      {
+        "player": "Denzel Boston",
+        "team": "CLE",
+        "pos": "WR",
+        "stat": "Targets 2 to 5 to 8",
+        "why": "Boston has run a route on 83 percent of the dropbacks since Week 2 and drew 8 targets vs CAR. He is rostered in under a third of leagues.",
+        "verdict": "Claim him, 4 to 8 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "4-8%"
+      },
+      {
+        "player": "Harold Fannin Jr.",
+        "team": "CLE",
+        "pos": "TE",
+        "stat": "Targets 3 to 6 to 9",
+        "why": "Fannin drew 9 targets vs CAR, a 30 percent share with 45 percent of the air yards, on 87 percent of the snaps. Cleveland's center is out, so the short throw matters more.",
+        "verdict": "TE10 for me this week; the targets are rising and he is the pass catcher the ball keeps finding.",
+        "action": "START",
+        "slot": "TE1"
+      },
+      {
+        "player": "Tyler Warren",
+        "team": "IND",
+        "pos": "TE",
+        "stat": "Route share 70% to 79% to 88%",
+        "why": "Warren ran a route on 88 percent of the dropbacks in Week 3 and has 21 targets in three games, second on the Colts.",
+        "verdict": "TE4 for me this week.",
+        "action": "START",
+        "slot": "TE1"
       }
     ],
     "fallers": [
       {
+        "player": "Omarion Hampton",
+        "team": "LAC",
+        "pos": "RB",
+        "stat": "Snap share 58%, 63%, 42%",
+        "action": "TRADE_AWAY",
+        "price": "a WR2 or a RB2 who catches passes",
+        "why": "Hampton got 15 of the backfield's 24 carries vs BUF but ran 6 routes and drew 1 target. His routes have gone 10, 10 and 6 by week, he has 3 targets all season, and two other backs ran more than twice as many routes in Week 3.",
+        "verdict": "Trade him away; ask for a WR2 or a RB2 who catches passes."
+      },
+      {
+        "player": "Marvin Harrison Jr.",
+        "team": "ARI",
+        "pos": "WR",
+        "stat": "9 targets in 3 games; 4 on 62 routes in Weeks 1 and 2",
+        "action": "SIT",
+        "why": "Harrison caught 3 of 5 for 40 yards in the Week 3 loss to SF, under 10 percent of the targets again. Michael Wilson drew 14 targets on 67 routes over the first two weeks while Harrison drew 4.",
+        "verdict": "Sit him until the target share clears 15 percent."
+      },
+      {
+        "player": "TreVeyon Henderson",
+        "team": "NE",
+        "pos": "RB",
+        "stat": "Snaps 33 to 23",
+        "action": "MONITOR",
+        "watch": "third-down and short-yardage snaps next to Stevenson @BUF Sunday",
+        "why": "Henderson out-snapped Rhamondre Stevenson 33 to 20 in Week 2, then Stevenson took it back 33 to 23 at JAX in Week 3 and took most of the passing-situation and short-yardage snaps, 3 catches to 1. Henderson ran 8 times for 23 yards.",
+        "verdict": "Monitor the third-down and short-yardage snaps next to Stevenson on Sunday before you start him again."
+      },
+      {
+        "player": "Brian Thomas Jr.",
+        "team": "JAX",
+        "pos": "WR",
+        "stat": "1 target in Week 3; 13 on the year to Parker Washington's 23",
+        "action": "DROP",
+        "why": "Thomas caught his only target for 8 yards vs NE in Week 3 and has no touchdowns. Parker Washington has out-targeted him 23 to 13.",
+        "verdict": "Drop him for any add on this week's list."
+      },
+      {
+        "player": "Terrance Ferguson",
+        "team": "LAR",
+        "pos": "TE",
+        "stat": "Route share 72% to 15.6%",
+        "action": "SIT",
+        "why": "Ferguson ran a route on 72 percent of dropbacks in Week 2 and drew a 30 percent target share, then hurt his ankle @DEN and his route share fell to 15.6 percent. Sean McVay said Monday he will probably miss Sunday at PHI. Tyler Higbee caught 8 of 11 in his place on 47 routes.",
+        "verdict": "Sit him; treat him as out at PHI and stream Higbee."
+      },
+      {
+        "player": "Drake Maye",
+        "team": "NE",
+        "pos": "QB",
+        "stat": "Passer rating 81 to 64 to 52",
+        "why": "Maye has 1 touchdown pass, 6 interceptions and 9 sacks, and his best game is 12.8 PPR points. He was benched in the fourth quarter at JAX.",
+        "verdict": "QB15 for me this week, a streamer at best; sit him at BUF for any streamer in a softer spot.",
+        "action": "SIT"
+      },
+      {
+        "player": "Tyler Allgeier",
+        "team": "ARI",
+        "pos": "RB",
+        "stat": "Snap share 60% to 57% to 36%",
+        "why": "Allgeier led the backfield 60 snaps to 43 in Weeks 1 and 2, then played 31 to Jeremiyah Love's 56 in Week 3. He kept 3 of the 5 goal-line snaps, and that is all that is left.",
+        "verdict": "Trade him away; ask for a bench WR with a role.",
+        "action": "TRADE_AWAY",
+        "price": "a bench WR with a role"
+      },
+      {
         "player": "Rhamondre Stevenson",
         "team": "NE",
         "pos": "RB",
-        "stat": "Snap share 61% to 44% over three weeks",
-        "why": "The rookie is taking the early-down work.",
-        "verdict": "Left to cool. Trade him away while the name still carries weight; ask for a WR3 with a role.",
+        "stat": "Routes 21 to 14 to 9",
+        "why": "Stevenson's routes fell every week and he has 4 targets in three games, so the receiving work that made him a weekly flex is gone. His carries held at 13 a game.",
+        "verdict": "RB27 for me this week, a high-end flex play; monitor his routes Sunday at BUF.",
+        "action": "MONITOR",
+        "watch": "his route share Sunday at BUF"
+      },
+      {
+        "player": "Rome Odunze",
+        "team": "CHI",
+        "pos": "WR",
+        "stat": "Target share 24% to 17% to 9%",
+        "why": "Odunze drew 3 targets vs PHI while Luther Burden III drew 9, and his route share fell to 71 percent.",
+        "verdict": "WR45 for me this week, a low-end flex play to a dart throw; trade him away and ask for a WR4 with a rising role.",
         "action": "TRADE_AWAY",
-        "price": "Ask for a WR3 with a role"
+        "price": "a WR4 with a rising role"
+      },
+      {
+        "player": "Xavier Worthy",
+        "team": "KC",
+        "pos": "WR",
+        "stat": "Yards per target 6.1 to 4.2 to 3.0",
+        "why": "Worthy ran a route on 79 percent of the dropbacks @MIA and has turned 15 targets over three weeks into 63 yards. Rashee Rice's return took the short targets.",
+        "verdict": "Drop him for any add on the Market Run list.",
+        "action": "DROP"
+      },
+      {
+        "player": "Courtland Sutton",
+        "team": "DEN",
+        "pos": "WR",
+        "stat": "Targets 9 to 6 to 3",
+        "why": "Sutton's targets fell every week since Jaylen Waddle arrived, and he drew 3 in Week 3 while running 84 percent of the routes.",
+        "verdict": "WR46 for me this week, a low-end flex play to a dart throw; trade him away and ask for a WR3 with a steady share.",
+        "action": "TRADE_AWAY",
+        "price": "a WR3 with a steady share"
+      },
+      {
+        "player": "Dalton Schultz",
+        "team": "HOU",
+        "pos": "TE",
+        "stat": "Route share 81% to 70% to 58%",
+        "why": "Schultz has lost routes to two-receiver sets every week and has 7 targets in three games. Houston kept him in to block on 41 percent of his snaps in Week 3.",
+        "verdict": "TE13 for me, a borderline start this week; sit him for any streamer with a better matchup.",
+        "action": "SIT"
       }
     ]
   },
   "posts": [
     {
-      "id": "2026w04-heat-thread",
+      "id": "2026w04-heat-thread-9a37",
       "kind": "thread",
-      "url": "https://x.com/FF_ChefHazy",
-      "status": "posted"
+      "status": "posted",
+      "url": "https://x.com/FF_ChefHazy/status/2104986980324966719"
     }
   ]
 }

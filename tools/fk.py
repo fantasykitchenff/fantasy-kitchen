@@ -277,6 +277,56 @@ def after_cutoff(ts):
     d = parse_iso(ts) if ts else None
     return bool(d) and d >= RULE_CUTOFF
 
+# ---------------------------------------------------------------- owner rules of 2026-10-02
+# Talk about the player, not the page: copy never describes the site's own parts ("Hampton's card", "the Menu row",
+# "carries a flag", "practice line", "stream line"); it says what happened to the player, in a fan's words.
+# More players: Butcher Shop and Heat Check carry at least MIN_PLAYERS on each side, and every player item names his
+# position, because the site filters every page by position. Both apply to pieces published, notes items dated and
+# queue items created on or after PLAIN_CUTOFF (the start of Week 5); earlier pieces are left as they are.
+PLAIN_CUTOFF = dt.datetime(2026, 10, 6, 4, 0, tzinfo=dt.timezone.utc)
+PAGE_TALK = re.compile(r"""(
+    \b\w+(?:'s|s')\s+(?:riser\s+|faller\s+|trade\s+|menu\s+|off-menu\s+)?(?:card|row)s?\b
+  | \b(?:his|her|their|its)\s+(?:card|row)s?\b
+  | \b(?:card|row)s?\s+(?:now\s+|already\s+|still\s+)?(?:carr(?:y|ies|ied)|reads?|keeps?|says|shows|holds)\b
+  | \bmenu\s+rows?\b | \b\w+\s+and\s+\w+\s+rows\b
+  | \bon\s+the\s+[A-Z][\w'.-]+(?:(?:,\s*|\s+and\s+)[A-Z][\w'.-]+)*\s+cards?\b
+  | \bcarr(?:y|ies|ied|ying)\b[^.;:\n]{0,40}?\bflags?\b
+  | \b(?:lose|loses|lost|keep|keeps|kept|drop|drops|dropped)\s+(?:his|her|their|its|the)\s+flags?\b
+  | \bflags?\s+(?:stays?|stands?|comes?\s+off)\b
+  | \b(?:practice|snap|usage|stream|streaming|route|target|limited|participation|injury[- ]report)\s+lines?\b
+  | \b(?:QB|RB|WR|TE)\d{1,2}(?:/(?:QB|RB|WR|TE)?\d{1,2})?\s+(?:and\s+\w+\s+)?lines?\b
+)""", re.X | re.I)
+MIN_PLAYERS = {("butcher", "buy"): 10, ("butcher", "sell"): 10, ("heat", "risers"): 10, ("heat", "fallers"): 10}
+POS_LISTS = {"market": ["adds", "stashes", "drops"], "butcher": ["buy", "sell"], "heat": ["risers", "fallers"],
+             "line": ["tnf", "starts", "sits", "coinflips"], "prep": ["report"]}
+POSITIONS = {"QB", "RB", "WR", "TE", "K", "DST"}
+
+def after_plain_cutoff(ts):
+    d = parse_iso(ts) if ts else None
+    return bool(d) and d >= PLAIN_CUTOFF
+
+def check_page_talk(text, where, errors):
+    """Rule of 2026-10-02: say what happened to the player; never describe the page, its cards, rows, lines or flags."""
+    if not isinstance(text, str) or not text:
+        return
+    m = PAGE_TALK.search(text)
+    if m:
+        errors.append(f"{where}: talks about the page, not the player: '{m.group(0).strip()}' (say what happened to the player; _standards.md, 'Talk about the player, not the page')")
+
+def check_volume_and_positions(p, d, s, rel, errors):
+    """Rule of 2026-10-02: enough players on Butcher Shop and Heat Check, and a position on every player item."""
+    for (ser, key), n in MIN_PLAYERS.items():
+        if s == ser and len(d.get(key) or []) < n:
+            errors.append(f"{rel}: {key} has {len(d.get(key) or [])} players; it carries at least {n} (butcher-heat.md)")
+    rows = [(f"{key}[{i}]", r) for key in POS_LISTS.get(s, []) for i, r in enumerate(d.get(key) or [])]
+    if s == "orderup":
+        rows += [(f"windows[{wi}].inactives[{i}]", r) for wi, w in enumerate(d.get("windows") or []) for i, r in enumerate(w.get("inactives") or [])]
+    if s == "leftovers":
+        rows += [(f"usage[{i}]", r) for i, r in enumerate(d.get("usage") or [])]
+    for where, r in rows:
+        if isinstance(r, dict) and r.get("player") and str(r.get("pos") or "").upper() not in POSITIONS:
+            errors.append(f"{rel}: {where} {r.get('player')} needs 'pos' (QB, RB, WR, TE, K or DST); the site filters every page by position")
+
 def week_player_names(week):
     """(full name, last name) for every player named in the week's piece files (player, to, in, out fields)."""
     try:
@@ -390,6 +440,10 @@ def validate_piece(path, errors, warnings):
     pairs = week_player_names(p.get("week")) if (recent or s == "notes") else []
     if recent:
         walk_strings(p, rel, lambda t, w: check_start_commands(t, w, errors, pairs))
+    plain = after_plain_cutoff(p.get("publishedAt"))
+    if plain:
+        walk_strings(p, rel, lambda t, w: check_page_talk(t, w, errors))
+        check_volume_and_positions(p, d, s, rel, errors)
     if s == "menu":
         pos = d.get("positions") or {}
         if not pos:
@@ -478,6 +532,9 @@ def validate_piece(path, errors, warnings):
                 errors.append(f"{rel}: items[{i}] has an action but no player")
             if not recent and after_cutoff(it.get("at")):
                 check_start_commands(it.get("text"), f"{rel}: items[{i}].text", errors, pairs)
+            if not plain and after_plain_cutoff(it.get("at")):
+                for f in ("text", "watch", "why"):
+                    check_page_talk(it.get(f), f"{rel}: items[{i}].{f}", errors)
     for i, q in enumerate(p.get("posts") or []):
         if not q.get("id"):
             errors.append(f"{rel}: posts[{i}] missing id")
@@ -532,6 +589,9 @@ def validate_queue_item(path, errors, warnings):
                     n = players_in(ln, pairs)
                     if len(n) >= 3:
                         errors.append(f"{rel}: text[{i}] has a line naming {len(n)} players ('{ln.strip()[:50]}'); one player per line, a second only to compare or pivot")
+    if after_plain_cutoff(q.get("createdAt")):
+        for i, t in enumerate(texts):
+            check_page_talk(t, f"{rel}.text[{i}]", errors)
     for i, t in enumerate(texts):
         n = post_length(t)
         if n > POST_LIMIT:

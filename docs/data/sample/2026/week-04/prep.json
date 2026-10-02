@@ -3,19 +3,20 @@
   "season": 2026,
   "week": 4,
   "title": "Prep Notes, Week 4",
-  "dek": "Sample Friday designations, read for lineups.",
   "format": "PPR",
-  "publishedAt": "2026-09-23T11:00:00Z",
-  "updatedAt": "2026-09-23T11:00:00Z",
+  "dek": "Justin Jefferson is doubtful, so Jordan Addison is the Minnesota receiver to play, and Nico Collins is off the report.",
+  "publishedAt": "2026-10-02T22:25:00Z",
+  "updatedAt": "2026-10-02T22:25:00Z",
   "author": "Chef Hazy",
-  "intro_md": null,
-  "outro_md": null,
+  "intro_md": "Friday's reports are in. Six fantasy starters are out, Justin Jefferson is doubtful, and eight more are questionable. Every one of them has the call below, and the two true game-time decisions are at the bottom for Sunday morning.\n\nPPR scoring. Order Up has the inactives as each window's reports drop.",
+  "outro_md": "",
+  "posts": [],
   "data": {
     "report": [
       {
-        "player": "Bucky Irving",
-        "team": "TB",
-        "pos": "RB",
+        "player": "Caleb Williams",
+        "team": "CHI",
+        "pos": "QB",
         "status": "O",
         "injury": "Hamstring",
         "practice": [
@@ -23,30 +24,143 @@
           "DNP",
           "DNP"
         ],
-        "read": "Ruled out Friday.",
-        "verdict": "Rachaad White is a flex play in his place.",
+        "read": "A grade 2 strain with a three to four week timeline. Tyson Bagent starts vs NYJ.",
+        "verdict": "Pivot to Jared Goff, QB8 for me this week.",
         "action": "PIVOT",
-        "to": "Rachaad White"
+        "to": "Jared Goff"
+      },
+      {
+        "player": "Baker Mayfield",
+        "team": "TB",
+        "pos": "QB",
+        "status": "O",
+        "injury": "Thumb",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "A dislocated thumb, out at least three weeks.",
+        "verdict": "Pivot to C.J. Stroud, QB14 for me, a borderline start vs DAL.",
+        "action": "PIVOT",
+        "to": "C.J. Stroud"
+      },
+      {
+        "player": "Travis Etienne Jr.",
+        "team": "NO",
+        "pos": "RB",
+        "status": "O",
+        "injury": "Hamstring",
+        "practice": [
+          "--",
+          "DNP",
+          "DNP"
+        ],
+        "read": "On IR Thursday; Week 8 is the earliest return.",
+        "verdict": "Pivot to Alvin Kamara, RB25 for me, a high-end flex play vs ATL.",
+        "action": "PIVOT",
+        "to": "Alvin Kamara"
+      },
+      {
+        "player": "Breece Hall",
+        "team": "NYJ",
+        "pos": "RB",
+        "status": "O",
+        "injury": "Quad",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Three straight missed practices and a week-to-week timeline.",
+        "verdict": "Pivot to Braelon Allen, RB21 for me this week, an RB2 @CHI.",
+        "action": "PIVOT",
+        "to": "Braelon Allen"
       },
       {
         "player": "Chris Godwin",
         "team": "TB",
         "pos": "WR",
-        "status": "D",
+        "status": "O",
+        "injury": "Ankle",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "He did not practice all week.",
+        "verdict": "Out. Play any WR3 on the Menu in his place.",
+        "action": "SIT"
+      },
+      {
+        "player": "Dallas Goedert",
+        "team": "PHI",
+        "pos": "TE",
+        "status": "O",
         "injury": "Knee",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "A sprained MCL, week to week, not on IR.",
+        "verdict": "Pivot to Juwan Johnson, TE7 for me this week.",
+        "action": "PIVOT",
+        "to": "Juwan Johnson"
+      },
+      {
+        "player": "Justin Jefferson",
+        "team": "MIN",
+        "pos": "WR",
+        "status": "D",
+        "injury": "Ankle",
         "practice": [
           "DNP",
           "DNP",
           "LP"
         ],
-        "read": "Doubtful means out more often than not.",
-        "verdict": "Plan without him.",
-        "action": "SIT"
+        "read": "A limited Friday after two missed days; doubtful players sit far more often than they play.",
+        "verdict": "Plan without him. Pivot to Jordan Addison, who drew 9 targets at TB after Jefferson left.",
+        "action": "PIVOT",
+        "to": "Jordan Addison"
       },
       {
-        "player": "Jalen Hurts",
+        "player": "Nico Collins",
+        "team": "HOU",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "Hamstring",
+        "practice": [
+          "LP",
+          "LP",
+          "FP"
+        ],
+        "read": "A full Friday after two limited days is the tell; the designation is a formality.",
+        "verdict": "WR12 for me, borderline WR1/WR2 this week vs DAL.",
+        "action": "START",
+        "slot": "WR1",
+        "watch": "the early inactives at 11:30 AM ET"
+      },
+      {
+        "player": "DeVonta Smith",
         "team": "PHI",
-        "pos": "QB",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "Hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "LP"
+        ],
+        "read": "The same pattern as last week, when he played every snap he was healthy for.",
+        "verdict": "WR10 for me if he plays; have Dontayvion Wicks ready.",
+        "action": "MONITOR",
+        "watch": "the late inactives at 2:55 PM ET"
+      },
+      {
+        "player": "Puka Nacua",
+        "team": "LAR",
+        "pos": "WR",
         "status": "Q",
         "injury": "Ankle",
         "practice": [
@@ -54,45 +168,111 @@
           "LP",
           "FP"
         ],
-        "read": "Full Friday practice is the tell.",
-        "verdict": "Start him. Have a pivot ready only if you play in a league that locks Sunday morning.",
+        "read": "Back to full on Friday.",
+        "verdict": "WR14 for me, borderline WR1/WR2 this week @PHI.",
         "action": "START",
-        "watch": "inactives at 11:30 AM ET"
+        "slot": "WR2",
+        "watch": "the late inactives at 2:55 PM ET"
       },
       {
-        "player": "Mike Evans",
+        "player": "Bucky Irving",
         "team": "TB",
-        "pos": "WR",
+        "pos": "RB",
         "status": "Q",
-        "injury": "Hamstring",
+        "injury": "Glute",
         "practice": [
-          "DNP",
+          "LP",
           "LP",
           "LP"
         ],
-        "read": "Limited Thursday and Friday. The hamstring is a Sunday morning call.",
-        "verdict": "Monitor him and have Jalen McMillan ready.",
+        "read": "Three limited days, the same as a normal week for a sore back.",
+        "verdict": "RB19 for me this week, an RB2 vs GB.",
+        "action": "START",
+        "slot": "RB2",
+        "watch": "the late inactives at 2:35 PM ET"
+      },
+      {
+        "player": "DJ Moore",
+        "team": "BUF",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "Shoulder",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "The same practice week as last week, when he drew a team-high 10 targets.",
+        "verdict": "WR24 for me this week, a WR2 vs NE.",
+        "action": "START",
+        "slot": "WR2",
+        "watch": "the early inactives at 11:30 AM ET"
+      },
+      {
+        "player": "Ladd McConkey",
+        "team": "LAC",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "Foot",
+        "practice": [
+          "LP",
+          "FP",
+          "FP"
+        ],
+        "read": "Two full days to end the week.",
+        "verdict": "WR25 for me, a high-end WR3 and a flex play @SEA.",
+        "action": "FLEX",
+        "watch": "the late inactives at 2:55 PM ET"
+      },
+      {
+        "player": "Rachaad White",
+        "team": "WAS",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "Shoulder",
+        "practice": [
+          "DNP",
+          "DNP",
+          "LP"
+        ],
+        "read": "A limited Friday in London after two missed days. A true game-time call.",
+        "verdict": "Monitor; if he sits, Jacory Croskey-Merritt is RB24 for me, an RB2.",
         "action": "MONITOR",
-        "watch": "inactives at 11:30 AM ET"
+        "watch": "the London inactives at 8:00 AM ET"
+      },
+      {
+        "player": "Kenyon Sadiq",
+        "team": "NYJ",
+        "pos": "TE",
+        "status": "Q",
+        "injury": "Hip",
+        "practice": [
+          "LP",
+          "LP",
+          "FP"
+        ],
+        "read": "A full Friday, and Mason Taylor is out again.",
+        "verdict": "TE12 for me, a borderline start @CHI.",
+        "action": "START",
+        "slot": "TE1",
+        "watch": "the early inactives at 11:30 AM ET"
       }
     ],
     "reversals": [
       {
+        "player": "Jordan Addison",
+        "was": "WR31, a low-end flex play",
+        "now": "Justin Jefferson is doubtful, so Addison is the Minnesota receiver to play: WR22 for me, a WR2 vs MIA."
+      },
+      {
         "player": "Chris Godwin",
-        "was": "Start as a WR3",
-        "now": "Doubtful. Plan without him and start Jalen McMillan."
+        "was": "a coin flip with the lean toward playing him",
+        "now": "Out. Play any WR3 on the Menu instead."
       }
     ],
     "gtd": [
-      "Mike Evans"
+      "DeVonta Smith",
+      "Rachaad White"
     ]
-  },
-  "posts": [
-    {
-      "id": "2026w04-prep-thread",
-      "kind": "thread",
-      "url": "https://x.com/FF_ChefHazy",
-      "status": "posted"
-    }
-  ]
+  }
 }

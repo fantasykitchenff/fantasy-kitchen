@@ -95,6 +95,18 @@ The kitchen talks like a sharp friend at a bar, not like a research note and not
 - Percent is written "78 percent" in posts (the site can use "78%").
 - Verdicts are plain instructions with the action rule's words: "Claim him, 20 to 30 percent of your budget." "RB18 for me this week, an RB2." "Trade him away and ask for a WR2."
 
+## Talk about the player, not the page (hard)
+
+Readers see a website and a feed, not the kitchen's files. Every sentence is about the player, his team and his game, in the words a fan would use. Never describe the piece itself, its parts or its data.
+
+- Never write about a player's "card", "row", "line", "entry" or "listing", and never say a card or row "carries", "reads" or "keeps" anything. Not "Omarion Hampton's card now carries the right snap line", but "Omarion Hampton played 58, 63 and 42 percent of the snaps."
+- Never call a practice report, a snap count, a stat or a rank cutoff a "line": no "practice line", "limited line", "snap line", "usage line", "stream line", "the QB1 line" or "the RB1/RB2 line". Say "Friday's practice report", "he was limited Wednesday", "his snap share", "his usage", "the streaming range", "the top 12", "the RB1/RB2 border".
+- A player does not "carry a flag", "keep his flag" or "lose his flag". Say what happened: "DeVonta Smith (hamstring) missed Wednesday's walkthrough and is questionable." "Lamar Jackson practiced in full Thursday and has no injury designation."
+- `watch` is something a reader can follow and a time: "Friday's injury report", "Sunday's inactives at 11:30 AM ET", "the Friday designation". Never "Friday practice line and designation".
+- The same goes for the "Updated" notes at the top of a piece (`_sync.md`, "Updating a published piece"): they say what changed for the player, not what changed on the page.
+
+The validator rejects the common forms ("Hampton's card", "the Menu row", "carries a flag", "practice line", "stream line" and their relatives) in pieces published, notes written and posts queued from Week 5 on.
+
 ## Grow the account (hard)
 
 Every thread and every reply ends by telling people to follow. The last post of a thread carries a follow line with the handle from `docs/data/site.json` before the site link, and adds a like or repost ask when it fits the piece (a waiver thread: "repost this for your league"; a Sunday pivot: "like this if it saved your lineup"). Every reply ends with a short one: "Follow @handle for more." Rotate the wording so no two threads in a row use the same line. Keep it to one sentence, two at most; it is the last thing in the text, after the action.
@@ -111,8 +123,8 @@ Series and the language that belongs to each:
 | Market Run (Tue AM) | Waiver wire | "fresh", "shop", "spend", "in stock", "cut bait" |
 | Butcher Shop (Tue PM) | Trade for / trade away | "prime cut", "past its date", "price", "offer", "ask" |
 | Heat Check (Tue PM) | Risers and fallers | "stove's on", "left to cool", "simmering", "heating up" |
-| The Menu (Wed) | Positional rankings with tiers | "chef's table" (tier 1), "entrees" (tier 2), "sides" (tier 3), "specials" (matchup plays), "off the menu" (ruled out) |
-| On the Line (Thu) | Start/sit | "plate it", "send it back", "coin flip" |
+| The Menu (Wed) | Positional rankings with tiers | "chef's table" (tier 1), "entrees" (tier 2), "sides" (tier 3), "specials" (matchup plays) |
+| Serve or Sit (Thu) | Lineup calls: who the week favors, who it does not, coin flips | "serve", "send it back", "coin flip" |
 | Prep Notes (Fri) | Injury report read | "prep", "designations", "have a backup ready" |
 | Order Up (Sun) | Inactives and pivots | "order up", "pivot", "86'd" (ruled out) |
 | Kitchen Notes (daily) | News reactions | "from the kitchen", "quick note" |
@@ -139,12 +151,12 @@ Default scoring is full PPR, 1 QB, 2 RB, 2 WR, 1 TE, 2 FLEX (the owner's leagues
 
 ## Time
 
-All times in copy are Eastern and written "6:30 AM ET". The NFL week for content purposes runs Tuesday to Monday: Tuesday's Market Run and Butcher Shop are for the coming week's number (the waiver week), Monday's Leftovers is for the week that just finished. The Menu, On the Line, Prep Notes, and Order Up carry the week being played.
+All times in copy are Eastern and written "6:30 AM ET". The NFL week for content purposes runs Tuesday to Monday: Tuesday's Market Run and Butcher Shop are for the coming week's number (the waiver week), Monday's Leftovers is for the week that just finished. The Menu, Serve or Sit, Prep Notes, and Order Up carry the week being played.
 
 ## What "done" means for any piece
 
 1. The JSON validates (`python3 tools/fk.py validate`).
-2. Every card or row has a verdict and an `action` from the action rule, with its required field (FAAB range, price, watch, or pivot target).
+2. Every player has a verdict and an `action` from the action rule, with its required field (FAAB range, price, watch, or pivot target).
 3. No projected numbers anywhere in the text. No em dashes, no arrows, no analyst names. No start commands: a lineup call is the Menu rank and its tier.
 4. The post copy validates (length, links only in the last post of a thread, hook closer, team hashtags on their own last line, one player per line, the follow line at the end).
 5. The manifest is rebuilt (`python3 tools/fk.py manifest`) and the queue item is written.

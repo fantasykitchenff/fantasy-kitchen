@@ -3,46 +3,77 @@
   "season": 2026,
   "week": 4,
   "title": "Order Up, Week 4",
-  "dek": "Sample Sunday inactives and pivots by window.",
   "format": "PPR",
-  "publishedAt": "2026-09-23T11:00:00Z",
-  "updatedAt": "2026-09-23T11:00:00Z",
+  "dek": "Justin Jefferson is inactive, so Jordan Addison is the play, and Rachaad White sat in London.",
+  "publishedAt": "2026-10-04T12:05:00Z",
+  "updatedAt": "2026-10-04T15:41:00Z",
   "author": "Chef Hazy",
-  "intro_md": null,
-  "outro_md": null,
+  "intro_md": "Inactives and pivots for every window, posted as each report drops. Check back at 2:35 PM ET for the late games.",
+  "outro_md": "",
+  "posts": [],
   "data": {
     "windows": [
       {
-        "name": "Early window",
-        "time": "1:00 PM ET \u00b7 inactives at 11:30",
+        "name": "London",
+        "time": "9:30 AM ET · inactives at 8:00",
         "inactives": [
           {
-            "player": "Chris Godwin",
-            "team": "TB",
-            "pos": "WR",
-            "note": "Inactive as expected. Sit him; no pivot needed if you planned for it.",
-            "action": "SIT"
-          },
-          {
-            "player": "Mike Evans",
-            "team": "TB",
-            "pos": "WR",
-            "note": "Surprise inactive. Hamstring flared in warmups.",
+            "player": "Rachaad White",
+            "team": "WAS",
+            "pos": "RB",
+            "note": "Inactive after a limited Friday with the shoulder.",
             "action": "PIVOT",
-            "to": "Jalen McMillan"
+            "to": "Jacory Croskey-Merritt"
           }
         ],
         "pivots": [
           {
-            "out": "Mike Evans",
-            "in": "Jalen McMillan",
-            "note": "He runs the most routes in this offense with Evans and Godwin both out."
+            "out": "Rachaad White",
+            "in": "Jacory Croskey-Merritt",
+            "note": "He took 17 of Washington's 27 running back carries in Week 3 and both carries inside the 5. RB24 for me, an RB2."
+          }
+        ]
+      },
+      {
+        "name": "Early window",
+        "time": "1:00 PM ET · inactives at 11:30",
+        "inactives": [
+          {
+            "player": "Justin Jefferson",
+            "team": "MIN",
+            "pos": "WR",
+            "note": "Inactive with the ankle, as the doubtful tag said.",
+            "action": "PIVOT",
+            "to": "Jordan Addison"
+          },
+          {
+            "player": "Mason Taylor",
+            "team": "NYJ",
+            "pos": "TE",
+            "note": "Inactive for a third straight week.",
+            "action": "PIVOT",
+            "to": "Kenyon Sadiq"
+          },
+          {
+            "player": "Tyjae Spears",
+            "team": "TEN",
+            "pos": "RB",
+            "note": "Inactive with the ankle; Tony Pollard has the backfield.",
+            "action": "PIVOT",
+            "to": "Tony Pollard"
+          }
+        ],
+        "pivots": [
+          {
+            "out": "Justin Jefferson",
+            "in": "Jordan Addison",
+            "note": "Addison drew 9 targets at TB after Jefferson left on his seventh snap. WR22 for me today, a WR2."
           }
         ]
       },
       {
         "name": "Late window",
-        "time": "4:05 and 4:25 PM ET \u00b7 inactives at 2:35 and 2:55",
+        "time": "4:05 and 4:25 PM ET · inactives at 2:35 and 2:55",
         "inactives": [],
         "pivots": []
       }
@@ -50,20 +81,16 @@
     "updates": [
       {
         "time": "11:41 AM ET",
-        "text": "Evans is inactive. Pivot to McMillan in every format."
+        "text": "Nico Collins is active vs DAL. WR12 for me, borderline WR1/WR2."
       },
       {
         "time": "11:36 AM ET",
-        "text": "Hurts is active. Start him."
+        "text": "Justin Jefferson is inactive. Pivot to Jordan Addison, WR22 for me today, a WR2."
+      },
+      {
+        "time": "8:05 AM ET",
+        "text": "Rachaad White is inactive in London. Pivot to Jacory Croskey-Merritt, RB24 for me, an RB2."
       }
     ]
-  },
-  "posts": [
-    {
-      "id": "2026w04-orderup-thread",
-      "kind": "thread",
-      "url": "https://x.com/FF_ChefHazy",
-      "status": "posted"
-    }
-  ]
+  }
 }

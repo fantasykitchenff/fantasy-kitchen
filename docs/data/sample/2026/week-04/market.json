@@ -2,83 +2,184 @@
   "series": "market",
   "season": 2026,
   "week": 4,
-  "title": "Market Run, Week 5",
-  "dek": "Sample waiver targets, plus what Monday night changed.",
+  "title": "Market Run, Week 4",
+  "dek": "Ollie Gordon II took 84 percent of Miami's snaps after Achane's ACL, and he is the first name on this week's list.",
   "format": "PPR",
-  "publishedAt": "2026-09-23T11:00:00Z",
-  "updatedAt": "2026-09-23T11:00:00Z",
+  "publishedAt": "2026-09-29T14:20:00Z",
+  "updatedAt": "2026-09-30T19:45:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Sample week. FAAB ranges assume a 100-dollar budget.",
-  "outro_md": null,
+  "intro_md": "Updated Wed 3:45 PM ET: Tre' Harris moves from the adds to the stashes, 1 to 3 percent of FAAB, after his snap share fell to 58 percent with Ladd McConkey back full time. Jaylen Wright was limited at Wednesday's practice; Ollie Gordon II stays first on the list.\n\nUpdated Wed 3:35 PM ET: Keenan Allen faces possible league discipline after a September charge, three games at minimum under league policy, nothing announced yet and a court date on Oct 26. The 3 to 6 percent claim stands. Xavier Worthy ran a route on 79 percent of the dropbacks @MIA; the problem is 63 yards on 15 targets.\n\nUpdated Tue 7:05 PM ET: Roman Wilson comes off the adds after Pittsburgh benched him for the second half vs CIN, 2 snaps after halftime. Monitor his first-half snap share at CLE Thursday before you spend.\n\nWeek 3 broke three backfields. De'Von Achane is done for the year, Travis Etienne Jr. is out for Week 4 and longer, and Breece Hall is week to week. That puts the running backs at the top of the shop, with a rookie tight end right behind them.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
+  "outro_md": "The Menu lands Wednesday with every one of these players ranked. Claims first, lineups after.",
   "data": {
     "adds": [
       {
         "priority": 1,
-        "player": "Tyler Allgeier",
-        "team": "ATL",
+        "player": "Ollie Gordon II",
+        "team": "MIA",
         "pos": "RB",
-        "faab": "25-35%",
-        "rostered": "41%",
-        "why": "Bijan left Monday night with an ankle and Allgeier played every snap after. If Bijan misses time this is a top-12 RB week.",
-        "verdict": "Claim him, 25 to 35 percent of FAAB. Top priority if you are thin at RB.",
-        "action": "CLAIM"
+        "action": "CLAIM",
+        "faab": "20-30%",
+        "rostered": "1%",
+        "why": "Gordon took 84 percent of Miami's snaps after Achane went down, with a fullback taking 7 and a receiver 5 at halfback: 17 carries, 41 yards, a goal-line touchdown and 3 catches for 14 yards. Achane is on IR for the season. Jaylen Wright, who was working ahead of Gordon before he got hurt, was limited at Wednesday's practice, and Jeff Hafley says every back will have a role, so this window runs as long as Gordon holds off Wright.",
+        "verdict": "Claim him, 20 to 30 percent of FAAB, first on the list; if you already have him, hold him and read Wright's Thursday's and Friday's practice reports."
       },
       {
         "priority": 2,
-        "player": "Jalen McMillan",
-        "team": "TB",
-        "pos": "WR",
-        "faab": "10-15%",
-        "rostered": "22%",
-        "why": "Ran 33 routes and drew 9 targets with Godwin out. Route share has climbed three weeks running.",
-        "verdict": "Claim him, 10 to 15 percent, in 12-team leagues and deeper.",
-        "action": "CLAIM"
+        "player": "Alvin Kamara",
+        "team": "NO",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "15-25%",
+        "rostered": "43%",
+        "why": "Travis Etienne Jr. re-aggravated his hamstring after 13 carries for 57 yards, and the Saints already ruled him out for Monday against ATL. After Etienne left, Kamara took 6 of the next 10 carries and 20 of the 34 second-half snaps, so he moves into the lead job with Kendre Miller and CJ Donaldson behind him.",
+        "verdict": "Claim him, 15 to 25 percent of FAAB. Start him as a flex against ATL."
       },
       {
         "priority": 3,
-        "player": "Elijah Arroyo",
-        "team": "SEA",
+        "player": "Kenyon Sadiq",
+        "team": "NYJ",
         "pos": "TE",
-        "faab": "3-5%",
-        "rostered": "9%",
-        "why": "Route share over 70% two straight weeks and the red zone looks are coming.",
-        "verdict": "Stream him this week, 3 to 5 percent, if you are chasing a tight end.",
-        "action": "STREAM"
+        "action": "CLAIM",
+        "faab": "12-20%",
+        "rostered": "",
+        "why": "Sadiq caught 7 of 8 targets for 105 yards and a touchdown at DET on a season-high 38 snaps with three pass catchers out: Mason Taylor (thumb), Adonai Mitchell (finger) and Omar Cooper Jr. (IR). He ran a route on 58 percent of dropbacks and drew 21.6 percent of the targets, up from a 40 percent route share through Week 2, so Taylor's return is the one thing that caps him.",
+        "verdict": "Claim him, 12 to 20 percent of FAAB. Start him @CHI if Taylor sits again."
+      },
+      {
+        "priority": 4,
+        "player": "Braelon Allen",
+        "team": "NYJ",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "8-12%",
+        "rostered": "14%",
+        "why": "Allen played all 17 snaps after Breece Hall left at DET and has 19 carries for 61 yards on the year. Isaiah Davis has not taken an offensive snap, so Allen is the back while Hall is week to week.",
+        "verdict": "Claim him, 8 to 12 percent of FAAB. Flex him @CHI if Hall is out."
+      },
+      {
+        "priority": 5,
+        "player": "Keenan Allen",
+        "team": "IND",
+        "pos": "WR",
+        "action": "CLAIM",
+        "faab": "3-6%",
+        "rostered": "",
+        "why": "Allen caught 6 of 9 targets for 63 yards and a touchdown vs HOU with Alec Pierce on IR, and he has 20 targets on 75 routes in three games, 26.7 percent, in a three-man tree that took 30 of 36 attempts. One flag: he faces possible league discipline after a September charge, with a three-game minimum under league policy, none announced, and a court date on Oct 26.",
+        "verdict": "Claim him, 3 to 6 percent of FAAB. A PPR flex while Pierce is out, and monitor the Oct 26 court date."
+      },
+      {
+        "priority": 6,
+        "player": "Geno Smith",
+        "team": "NYJ",
+        "pos": "QB",
+        "action": "STREAM",
+        "faab": "2-5%",
+        "rostered": "",
+        "why": "Smith completed 31 of 37 passes for 321 yards and 3 touchdowns at DET, spreading the scores to Garrett Wilson, Sadiq and Jeremy Ruckert. He also took 5 sacks, and Chicago's defense just held PHI to 7 points.",
+        "verdict": "Stream him @CHI, 2 to 5 percent of FAAB, if your starter is Mayfield or on bye."
+      },
+      {
+        "priority": 7,
+        "player": "Tyler Higbee",
+        "team": "LAR",
+        "pos": "TE",
+        "action": "STREAM",
+        "faab": "1-3%",
+        "rostered": "",
+        "why": "Higbee caught 8 of 11 targets for 62 yards and a touchdown at DEN once Terrance Ferguson hurt his ankle, whose route share fell to 16 percent. Ferguson is unlikely for Week 4 and Colby Parkinson has an AC sprain.",
+        "verdict": "Stream him against PHI, 1 to 3 percent of FAAB, if Ferguson is ruled out."
       }
     ],
     "stashes": [
       {
-        "player": "Kyle Monangai",
-        "team": "CHI",
-        "pos": "RB",
+        "player": "Tre' Harris",
+        "team": "LAC",
+        "pos": "WR",
+        "action": "STASH",
         "faab": "1-3%",
-        "why": "Handcuff with standalone value if the split keeps tilting.",
-        "verdict": "Stash on a deep bench.",
-        "action": "STASH"
+        "why": "Harris led the Chargers with 7 targets, 6 catches and 76 yards vs BUF, all career highs, on his smallest snap share of the season: 58 percent after 75 and 82, because Ladd McConkey came back to 88 percent of the snaps and Quentin Johnston played 87. The targets grew while the role shrank.",
+        "verdict": "Stash him, 1 to 3 percent of FAAB. He needs a starter to miss time."
+      },
+      {
+        "player": "Jaylen Wright",
+        "team": "MIA",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "5-10%",
+        "why": "Wright held the No. 2 job in camp and was working ahead of Gordon before he sat Week 3 with a stinger and a foot issue; he was limited at Wednesday's practice with the foot. Miami worked out four backs Tuesday and signed none, so Wright and Gordon are the backfield once he is cleared.",
+        "verdict": "Stash him, 5 to 10 percent of FAAB. He splits with Gordon the week he is healthy; Thursday and Friday decide."
+      },
+      {
+        "player": "Kendre Miller",
+        "team": "NO",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "1-3%",
+        "why": "Miller is in line for expanded work with Etienne out for an extended stretch, and Kamara has not carried a lead load yet this year.",
+        "verdict": "Stash him in 12-team leagues and deeper, 1 to 3 percent of FAAB."
+      },
+      {
+        "player": "Isaiah Davis",
+        "team": "NYJ",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "0-1%",
+        "why": "Davis has not taken an offensive snap in three games, but he is the only other back on the Jets roster with Hall hurt and he won camp buzz for the No. 2 job.",
+        "verdict": "Stash him in 14-team leagues only, 0 to 1 percent. Bench him until he gets a carry."
       }
     ],
     "drops": [
       {
-        "player": "Rashid Shaheed",
-        "team": "NO",
+        "player": "De'Von Achane",
+        "team": "MIA",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "Torn ACL on his third carry vs KC. He is on IR for the season.",
+        "verdict": "Drop him unless your league has an open IR slot."
+      },
+      {
+        "player": "Brian Thomas Jr.",
+        "team": "JAX",
         "pos": "WR",
-        "why": "Two straight games under 30% route share. The role is gone.",
-        "verdict": "Cut for any add above.",
-        "action": "DROP"
+        "action": "DROP",
+        "why": "One target for 8 yards vs NE on a day Trevor Lawrence threw three touchdowns. He has 13 targets to Parker Washington's 23 through three weeks and no touchdowns.",
+        "verdict": "Cut him for any of the top six adds above."
+      },
+      {
+        "player": "Xavier Worthy",
+        "team": "KC",
+        "pos": "WR",
+        "action": "DROP",
+        "why": "Worthy ran 19 routes on 24 dropbacks @MIA, a 79 percent route share level with Travis Kelce and one more than Rashee Rice, and drew 2 targets. The routes are there; the production is not: 63 yards on 15 targets in three games with no game above 25.",
+        "verdict": "Cut him for Sadiq or Keenan Allen."
+      },
+      {
+        "player": "Kenny Gainwell",
+        "team": "TB",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "Three carries for minus 4 yards at MIN and 2.1 yards per carry on the season. Bucky Irving out-snapped him 36 to 32, and an undrafted rookie is now at quarterback.",
+        "verdict": "Cut him for any running back on this list."
       }
     ],
     "mnf": [
       {
-        "text": "Monday night: the Falcons' Wednesday practice report decides how much to spend on Allgeier. The tape looked like a sprain, not a break. Monitor Bijan until Wednesday and claim Allgeier now either way."
+        "text": "Chicago beat Philadelphia 27-7 with Case Keenum at quarterback. D'Andre Swift carried 20 times for 84 yards against his old team. Start Swift as your RB2 vs NYJ."
+      },
+      {
+        "text": "Caleb Williams has a Grade 2 hamstring strain with a three to four week timeline, and Ben Johnson said Tuesday that Tyson Bagent starts vs NYJ if he gets a full week of first-team practice, so first-team reps and the Friday designation decide between Bagent and Case Keenum. Leave Keenum and Bagent on waivers. Hold Rome Odunze; he dropped a wide-open touchdown, which is a better sign than no target at all."
+      },
+      {
+        "text": "Saquon Barkley ran 15 times for 82 yards, 73 of them in the first half, and Dallas Goedert sat with a knee injury. Start Barkley in Week 4, no change."
       }
     ]
   },
   "posts": [
     {
-      "id": "2026w04-market-thread",
+      "id": "2026w04-market-thread-e4d7",
       "kind": "thread",
-      "url": "https://x.com/FF_ChefHazy",
-      "status": "posted"
+      "status": "posted",
+      "url": "https://x.com/FF_ChefHazy/status/2104955278785482961"
     }
   ]
 }

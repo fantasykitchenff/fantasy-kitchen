@@ -4,7 +4,11 @@ Runs Tuesday 2:00 PM ET (FK Daily), after the 1:00 PM pantry. Posts at 6:25 PM E
 
 ## What they are
 
-Butcher Shop is trade advice: 4 to 6 players to trade for and 4 to 6 to trade away, each with a price. Heat Check is the trend read: 5 to 7 risers ("stove's on") and 5 to 7 fallers ("left to cool"), each backed by one number. Trade advice is about rest-of-season value versus what the box score is telling people; Heat Check is about the direction of usage.
+Butcher Shop is trade advice: 10 to 15 players to trade for and 10 to 15 to trade away, each with a price. Heat Check is the trend read: 10 to 15 risers ("stove's on") and 10 to 15 fallers ("left to cool"), each backed by one number. Trade advice is about rest-of-season value versus what the box score is telling people; Heat Check is about the direction of usage.
+
+These are the pieces people bring into trade talks, and a short list misses most of the rosters in a league. Use everything the kitchen learned this week: the pantry (the owner's podcasts and research), Kitchen Notes, the replies, Leftovers usage, the kitchen notes files. Cover every position: QB, RB, WR and TE on each side whenever the research backs a call (at least one QB and one TE per side is the usual week; RB and WR fill the rest). The site filters both pages by position, so every player carries `pos`.
+
+The validator rejects a Butcher Shop or Heat Check with fewer than 10 players on either side, from Week 5 on. Ten is the floor, not the target: never pad with a call the numbers do not back, and never stop at ten when the research backs more.
 
 ## Inputs
 
@@ -24,7 +28,8 @@ Butcher Shop is trade advice: 4 to 6 players to trade for and 4 to 6 to trade aw
 Butcher Shop
 - Trade for: players whose rest-of-season projection rank is clearly better than their recent scoring rank (usage is good, production lagged, touchdowns will come), or whose role just improved and the market has not priced it. Give a price: what to offer in plain terms ("a WR2 and a bench RB", "a RB2-level player").
 - Trade away: players whose recent scoring beats their usage (touchdown-driven), whose role is eroding, or whose schedule hardens. Give an ask.
-- Every card: `why` is two sentences with the deployment number, `verdict` is the action. Never mention the projection number; say "the rest-of-season number likes him" if needed.
+- Every player: `why` is two sentences with the deployment number, `verdict` is the action. Never mention the projection number; say "the rest-of-season number likes him" if needed.
+- The price is a real example a reader can put in an offer: "a WR2 and a bench RB", "a RB2 who catches passes", "a top-8 TE". Keep it for every player on both sides.
 
 Heat Check
 - Riser: a usage metric that rose over three consecutive weeks, or a role change confirmed by deployment. Faller: the opposite. Not box scores. One player can be a faller in Heat Check and a trade-for in Butcher Shop only when the write-up says why (usage down but price down more).
@@ -47,13 +52,17 @@ Heat Check actions: a riser is START (with `slot`), TRADE_FOR (with `price`), CL
 
 Envelopes: `title` "Butcher Shop, Week N" and "Heat Check, Week N"; `dek` one sentence each; `intro_md` one paragraph each.
 
+## Through the week
+
+Butcher Shop and Heat Check are not frozen on Tuesday. Every pantry filing and every Kitchen Notes run (`_sync.md`, "The day's clock"; `kitchen-notes.md`, step 5) adds players when new usage, news or research makes a case: a role that changed is a Heat Check riser or faller, a price that moved is a Butcher Shop buy or sell. Add the player at the end of the right list with every field, replace a call the news made wrong (and say so in the Updated note), and keep the lists in one order: the strongest call first. By Sunday each list should hold 12 to 20 players. Each run that adds players writes an Updated note naming them (`_sync.md`, "Updating a published piece").
+
 ## Posts
 
-Two threads, both `--not-after "Wed 12:00"`. Each hook ends with a closer from `_standards.md` on its own line; every post but the last ends with the official hashtag of each team it names on its own last line. One player per line in every post with an empty line between players, no start commands (`_standards.md`).
+Two threads, both `--not-after "Wed 12:00"`. Each hook ends with a closer from `_standards.md` on its own line; every post but the last ends with the official hashtag of each team it names on its own last line. One player per line in every post with an empty line between players, no start commands (`_standards.md`). The threads carry the best calls; the site carries every player, and each close says how many ("All 26 trade calls are on the site.").
 
-Butcher Shop thread, 6 to 8 posts, `--at "Tue 18:20"`, `--link "butcher.html?week=N"`: hook (best buy, one number), buys in two posts (one player per line: name, the number, the price), sells in two posts, the one trade to make today, close plus link.
+Butcher Shop thread, 6 to 8 posts, `--at "Tue 18:20"`, `--link "butcher.html?week=N"`: hook (best buy, one number), the top buys in two posts (one player per line: name, the number, the price), the top sells in two posts, the one trade to make today, close plus link.
 
-Heat Check thread, 5 to 7 posts, `--at "Tue 18:22"`, `--link "heat.html?week=N"`: hook (biggest riser and the number), risers in two posts (one player per line: name, the stat, verdict), fallers in two posts, close plus link.
+Heat Check thread, 5 to 7 posts, `--at "Tue 18:22"`, `--link "heat.html?week=N"`: hook (biggest riser and the number), the top risers in two posts (one player per line: name, the stat, verdict), the top fallers in two posts, close plus link.
 
 ## Finish
 

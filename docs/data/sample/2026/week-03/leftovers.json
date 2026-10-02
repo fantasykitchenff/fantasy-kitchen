@@ -1,0 +1,196 @@
+{
+  "series": "leftovers",
+  "season": 2026,
+  "week": 3,
+  "title": "Leftovers, Week 3",
+  "format": "PPR",
+  "dek": "Ollie Gordon II played 84 percent of Miami's snaps after De'Von Achane's injury, and he is the first claim of the week.",
+  "publishedAt": "2026-09-28T14:25:00Z",
+  "updatedAt": "2026-09-28T14:25:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Week 3 broke three backfields and moved two passing games. What is still good, what to reheat, and what to toss.",
+  "outro_md": "Drake Maye was QB11 for me in Week 3. He threw 2 interceptions and was benched in the fourth quarter at JAX. That one is on me, and he is QB15 this week.",
+  "posts": [],
+  "data": {
+    "takeaways": [
+      {
+        "headline": "Miami's backfield belongs to Ollie Gordon II for now.",
+        "text": "Gordon played 84 percent of the snaps after De'Von Achane tore his ACL: 17 carries, a goal-line touchdown and 3 catches. Achane is out for the season.",
+        "actions": [
+          {
+            "player": "Ollie Gordon II",
+            "action": "CLAIM",
+            "faab": "20-30%"
+          },
+          {
+            "player": "De'Von Achane",
+            "action": "DROP"
+          }
+        ]
+      },
+      {
+        "headline": "Jeremiyah Love took the Arizona backfield.",
+        "text": "Love played 56 snaps to Tyler Allgeier's 31 and took 21 of the backs' 23 carries. Allgeier kept 3 of the 5 goal-line snaps.",
+        "actions": [
+          {
+            "player": "Jeremiyah Love",
+            "action": "HOLD",
+            "why": "One game as the lead; only a split back toward Allgeier would change it."
+          },
+          {
+            "player": "Tyler Allgeier",
+            "action": "TRADE_AWAY",
+            "price": "a bench WR with a role"
+          }
+        ]
+      },
+      {
+        "headline": "Rashee Rice is the Chiefs' top target again.",
+        "text": "Rice drew 9 of Kansas City's 22 targets @MIA, a 41 percent share, and led the team in catches and yards.",
+        "actions": [
+          {
+            "player": "Rashee Rice",
+            "action": "TRADE_FOR",
+            "price": "a WR3 and a bench RB"
+          },
+          {
+            "player": "Xavier Worthy",
+            "action": "DROP"
+          }
+        ]
+      },
+      {
+        "headline": "Breece Hall's quad opens the door for Braelon Allen.",
+        "text": "Allen played every snap after Hall left at DET. Hall is week to week.",
+        "actions": [
+          {
+            "player": "Braelon Allen",
+            "action": "CLAIM",
+            "faab": "8-12%"
+          },
+          {
+            "player": "Breece Hall",
+            "action": "MONITOR",
+            "watch": "Wednesday's practice report"
+          }
+        ]
+      },
+      {
+        "headline": "Cleveland found a tight end.",
+        "text": "Harold Fannin Jr. drew 9 targets vs CAR on 87 percent of the snaps, and his targets have gone 3, 6 and 9.",
+        "actions": [
+          {
+            "player": "Harold Fannin Jr.",
+            "action": "ADD",
+            "faab": "2-4%"
+          }
+        ]
+      }
+    ],
+    "usage": [
+      {
+        "player": "Ollie Gordon II",
+        "team": "MIA",
+        "pos": "RB",
+        "stat": "84% snaps · 17 carries · 3 targets",
+        "read": "A lead role the moment Achane went down. Claim him.",
+        "action": "CLAIM",
+        "faab": "20-30%"
+      },
+      {
+        "player": "Jeremiyah Love",
+        "team": "ARI",
+        "pos": "RB",
+        "stat": "64% snaps · 21 carries · 5 targets",
+        "read": "His first game as the lead back, in a game Arizona trailed. Hold him.",
+        "action": "HOLD",
+        "why": "A split back toward Allgeier would change it."
+      },
+      {
+        "player": "Jaylen Warren",
+        "team": "PIT",
+        "pos": "RB",
+        "stat": "90% snaps · 20 touches",
+        "read": "With Rico Dowdle hurt, the backfield is his. Monitor Dowdle's Wednesday practice.",
+        "action": "MONITOR",
+        "watch": "Rico Dowdle's Wednesday practice"
+      },
+      {
+        "player": "Rashee Rice",
+        "team": "KC",
+        "pos": "WR",
+        "stat": "41% target share · 7 for 88",
+        "read": "The Chiefs' passing game runs through him again. Trade for him before the price catches up.",
+        "action": "TRADE_FOR",
+        "price": "a WR3 and a bench RB"
+      },
+      {
+        "player": "Josh Downs",
+        "team": "IND",
+        "pos": "WR",
+        "stat": "11 targets · 5 for 77",
+        "read": "The top target since Alec Pierce went on IR. Hold him.",
+        "action": "HOLD",
+        "why": "Pierce's return is the only thing that changes it."
+      },
+      {
+        "player": "Harold Fannin Jr.",
+        "team": "CLE",
+        "pos": "TE",
+        "stat": "30% target share · 87% snaps",
+        "read": "The targets rise every week. Add him in 12-team leagues.",
+        "action": "ADD",
+        "faab": "2-4%"
+      },
+      {
+        "player": "Omarion Hampton",
+        "team": "LAC",
+        "pos": "RB",
+        "stat": "42% snaps · 6 routes · 1 target",
+        "read": "The carries are there and the passing work is not. Trade him away.",
+        "action": "TRADE_AWAY",
+        "price": "a WR2 or a RB2 who catches passes"
+      },
+      {
+        "player": "Tre' Harris",
+        "team": "LAC",
+        "pos": "WR",
+        "stat": "7 targets · 6 for 76 · 58% snaps",
+        "read": "Career highs on his smallest snap share of the year. Stash him.",
+        "action": "STASH",
+        "faab": "1-3%"
+      }
+    ],
+    "overreactions": [
+      {
+        "take": "Jeremiyah Love is a weekly RB1 now.",
+        "verdict": "buy",
+        "why": "He took 21 of the backs' 23 carries and ran 22 routes. One game is a small sample, and the usage is the right kind.",
+        "player": "Jeremiyah Love",
+        "action": "HOLD"
+      },
+      {
+        "take": "Xavier Worthy is droppable.",
+        "verdict": "buy",
+        "why": "63 yards on 15 targets over three weeks, and Rashee Rice is back.",
+        "player": "Xavier Worthy",
+        "action": "DROP"
+      },
+      {
+        "take": "Jaxon Smith-Njigba is slowing down.",
+        "verdict": "sell",
+        "why": "He ran a route on 94 percent of the dropbacks and drew 9 targets. A quiet box score is not a smaller role.",
+        "player": "Jaxon Smith-Njigba",
+        "action": "HOLD"
+      },
+      {
+        "take": "Saquon Barkley is finished.",
+        "verdict": "sell",
+        "why": "He has no touchdowns in three games, and he ran for 82 yards on 15 carries @CHI once he was healthy.",
+        "player": "Saquon Barkley",
+        "action": "TRADE_FOR",
+        "price": "a WR2"
+      }
+    ]
+  }
+}

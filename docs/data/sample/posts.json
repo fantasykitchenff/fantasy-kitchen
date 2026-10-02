@@ -1,24 +1,44 @@
 {
   "posts": [
     {
+      "id": "2026w04-orderup-thread",
+      "series": "orderup",
+      "week": 4,
+      "kind": "thread",
+      "count": 3,
+      "postedAt": "2026-10-04T15:38:00Z",
+      "url": "https://x.com/FF_ChefHazy",
+      "preview": "Justin Jefferson is inactive. Jordan Addison drew 9 targets at TB after Jefferson left on his seventh snap, and he is the Minnesota receiver to play today. Let's go. #Skol"
+    },
+    {
+      "id": "2026w04-prep-thread",
+      "series": "prep",
+      "week": 4,
+      "kind": "thread",
+      "count": 5,
+      "postedAt": "2026-10-02T22:26:00Z",
+      "url": "https://x.com/FF_ChefHazy",
+      "preview": "Friday's reports are in. Justin Jefferson is doubtful and Nico Collins practiced in full. Let's get to it. #Skol #HTownMade"
+    },
+    {
+      "id": "2026w04-line-thread",
+      "series": "line",
+      "week": 4,
+      "kind": "thread",
+      "count": 7,
+      "postedAt": "2026-10-01T14:26:00Z",
+      "url": "https://x.com/FF_ChefHazy",
+      "preview": "Jeremiyah Love took 21 of Arizona's 23 running back carries in his first game as the lead. He is RB8 for me this week. Let's dive in. #BirdGang"
+    },
+    {
       "id": "2026w04-menu-thread",
       "series": "menu",
       "week": 4,
       "kind": "thread",
       "count": 7,
-      "postedAt": "2026-09-23T11:05:00Z",
+      "postedAt": "2026-09-30T14:26:00Z",
       "url": "https://x.com/FF_ChefHazy",
-      "preview": "Week 4 Menu is up. Full PPR, tiers are courses, and the biggest move is Jayden Daniels into tier 2. Let's dive in. #RaiseHail"
-    },
-    {
-      "id": "2026w04-line-post",
-      "series": "line",
-      "week": 4,
-      "kind": "thread",
-      "postedAt": "2026-09-24T13:02:00Z",
-      "url": "https://x.com/FF_ChefHazy",
-      "preview": "Thursday night in Kansas City. Zay Flowers is a WR2 in this one and the shootout script is why. Let's get into it. #RavensFlock #ChiefsKingdom",
-      "count": 3
+      "preview": "The Week 4 Menu is up. Full PPR, tiers are courses, and the biggest move is Jared Goff into the top 8 against CAR's depleted secondary. Let's get into it. #OnePride"
     }
   ]
 }
