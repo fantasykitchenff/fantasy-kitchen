@@ -6,9 +6,9 @@
   "dek": "Chris Olave has 36 targets and one touchdown. That price will not last, so go get him today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T17:20:00Z",
-  "updatedAt": "2026-10-02T21:00:00Z",
+  "updatedAt": "2026-10-02T21:15:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Fri 5:00 PM ET: Justin Jefferson is ruled out vs MIA and stays a buy at WR5 rest of season; Puka Nacua has no designation with McVay limiting his snaps; Nico Collins practiced Friday; Ladd McConkey missed Thursday and is questionable, and the buy calls stand.\n\nUpdated Thu 10:45 PM ET: added Justin Jefferson, Puka Nacua, Nico Collins, Jalen Hurts, Chase Brown, Malik Nabers, Colston Loveland, Tucker Kraft, Ladd McConkey and Breece Hall as buys, and Derrick Henry, Davante Adams, Jaylen Warren, David Montgomery, Michael Wilson, Mark Andrews, Kyler Murray and Kalif Raymond as sells. Omarion Hampton is RB12 rest of season for me, so the ask goes up to a top-15 RB who catches passes or a WR2.\n\nUpdated Wed 3:45 PM ET: Omarion Hampton's snap share has gone 58, 63 and 42 percent; the sell call stands.\n\nUpdated Wed 2:20 PM ET: Klint Kubiak said Monday that Mike Washington Jr. earned more opportunities, Ashton Jeanty's last 40 carries went for 104 yards and he visited the trainers @NO; the trade-for call on Jeanty stands, with the first-half carry split vs KC as the check.\n\nThree weeks in, the box scores and the usage are telling two different stories, and the trade market reads the box scores. The buys below are getting the ball and not the points yet. The sells are getting the points without the ball, or are about to lose the role. Every price is written for 12-team PPR leagues; scale it to your league.",
+  "intro_md": "Updated Fri 5:15 PM ET: Rest-of-season ranks refreshed: Saquon Barkley is RB8, Jaylen Warren RB26, David Montgomery RB19, Michael Wilson WR44 and Kyler Murray QB20; Jordan Love is QB14 this week. No call changes.\n\nUpdated Fri 5:00 PM ET: Justin Jefferson is ruled out vs MIA and stays a buy at WR5 rest of season; Puka Nacua has no designation with McVay limiting his snaps; Nico Collins practiced Friday; Ladd McConkey missed Thursday and is questionable, and the buy calls stand.\n\nUpdated Thu 10:45 PM ET: added Justin Jefferson, Puka Nacua, Nico Collins, Jalen Hurts, Chase Brown, Malik Nabers, Colston Loveland, Tucker Kraft, Ladd McConkey and Breece Hall as buys, and Derrick Henry, Davante Adams, Jaylen Warren, David Montgomery, Michael Wilson, Mark Andrews, Kyler Murray and Kalif Raymond as sells. Omarion Hampton is RB12 rest of season for me, so the ask goes up to a top-15 RB who catches passes or a WR2.\n\nUpdated Wed 3:45 PM ET: Omarion Hampton's snap share has gone 58, 63 and 42 percent; the sell call stands.\n\nUpdated Wed 2:20 PM ET: Klint Kubiak said Monday that Mike Washington Jr. earned more opportunities, Ashton Jeanty's last 40 carries went for 104 yards and he visited the trainers @NO; the trade-for call on Jeanty stands, with the first-half carry split vs KC as the check.\n\nThree weeks in, the box scores and the usage are telling two different stories, and the trade market reads the box scores. The buys below are getting the ball and not the points yet. The sells are getting the points without the ball, or are about to lose the role. Every price is written for 12-team PPR leagues; scale it to your league.",
   "outro_md": "Heat Check has the usage trends behind these calls, and the Menu lands Wednesday with every one of them ranked.",
   "data": {
     "buy": [
@@ -82,7 +82,7 @@
         "action": "TRADE_FOR",
         "price": "a WR2 or a RB2 who is scoring touchdowns",
         "why": "Barkley has zero touchdowns in three games, and a stinger held him to 12 snaps and 4 carries in Week 2. He was healthy @CHI and ran 15 times for 82 yards, 73 of them on 11 first-half carries.",
-        "verdict": "He is RB9 rest of season for me. Trade for him; offer a WR2 or a RB2 who has been living on touchdowns."
+        "verdict": "He is RB8 rest of season for me. Trade for him; offer a WR2 or a RB2 who has been living on touchdowns."
       },
       {
         "player": "Malik Nabers",
@@ -136,7 +136,7 @@
         "action": "TRADE_FOR",
         "price": "a bench WR or a QB2",
         "why": "Love has thrown 124 passes in three games, about 41 a game, with 6 touchdowns and 2 interceptions. His 52.4 percent completion rate is the ugly number, and it is why his managers will take a bench piece.",
-        "verdict": "He is QB12 for me this week @TB, a borderline start. Trade for him if you need a QB; offer a bench WR or your QB2."
+        "verdict": "He is QB14 for me this week @TB, a borderline start. Trade for him if you need a QB; offer a bench WR or your QB2."
       }
     ],
     "sell": [
@@ -183,7 +183,7 @@
         "action": "TRADE_AWAY",
         "price": "a RB2 with a three-down role",
         "why": "Warren played 90 percent of the snaps in Week 3 with Rico Dowdle inactive and turned 20 touches into 176 yards. Dowdle (toe) was ruled out again for Thursday @CLE, and the work splits once he is back.",
-        "verdict": "He is RB27 rest of season for me. Trade him away after Thursday's game; ask for a RB2 with a three-down role."
+        "verdict": "He is RB26 rest of season for me. Trade him away after Thursday's game; ask for a RB2 with a three-down role."
       },
       {
         "player": "Omarion Hampton",
@@ -201,7 +201,7 @@
         "action": "TRADE_AWAY",
         "price": "a RB2 who leads his backfield",
         "why": "Montgomery has 37 carries for 103 yards, 2.8 a carry, and he has been hit at or behind the line on 68 percent of his runs, the most in the league. Woody Marks has 50 routes to his 56 and scored Houston's goal-line touchdown at IND, and the snaps were about even in Weeks 1 and 2.",
-        "verdict": "He is RB18 rest of season for me. Trade him away; ask for a RB2 who leads his backfield."
+        "verdict": "He is RB19 rest of season for me. Trade him away; ask for a RB2 who leads his backfield."
       },
       {
         "player": "Emeka Egbuka",
@@ -219,7 +219,7 @@
         "action": "TRADE_AWAY",
         "price": "a WR3 with a steadier role and a bench RB",
         "why": "Wilson has 31 targets in three games, but 17 of them came in the 36-30 loss @SF, when Arizona dropped back 54 times. He has caught 58 percent of his targets for 163 yards.",
-        "verdict": "He is WR43 rest of season for me, so sell the target count. Trade him away; ask for a WR3 with a steadier role and a bench RB."
+        "verdict": "He is WR44 rest of season for me, so sell the target count. Trade him away; ask for a WR3 with a steadier role and a bench RB."
       },
       {
         "player": "Mark Andrews",
@@ -237,7 +237,7 @@
         "action": "TRADE_AWAY",
         "price": "a steadier QB2 and a bench WR",
         "why": "Murray went 15 of 29 for 168, 5.8 a throw, with 1 touchdown, 1 interception and 3 sacks @TB in his first full game for Minnesota, and the offense scored one touchdown. Justin Jefferson missed practice Wednesday and Thursday with the ankle.",
-        "verdict": "He is QB19 rest of season for me. Trade him away; ask for a steadier QB2 and a bench WR."
+        "verdict": "He is QB20 rest of season for me. Trade him away; ask for a steadier QB2 and a bench WR."
       },
       {
         "player": "Kalif Raymond",

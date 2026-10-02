@@ -6,9 +6,9 @@
   "dek": "Rashee Rice went from 2 targets to 6 to 9. The Kansas City passing game is his again.",
   "format": "PPR",
   "publishedAt": "2026-09-29T17:20:00Z",
-  "updatedAt": "2026-10-02T21:00:00Z",
+  "updatedAt": "2026-10-02T21:15:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Fri 5:00 PM ET: Bucky Irving practiced in full Friday with no designation and stays RB19, an RB2; Kenyon Sadiq is questionable (back) with Mason Taylor ruled out.\n\nUpdated Thu 10:45 PM ET: added Jeremiyah Love, Drake London, Brock Bowers, Harold Fannin Jr., Isaiah Likely, Matthew Golden, Chuba Hubbard and Luther Burden III as risers, and Emeka Egbuka, Xavier Worthy, David Montgomery, Chris Godwin Jr., Kyle Pitts Sr., Travis Kelce, Bucky Irving and James Cook III as fallers. Josh Downs is WR17 for me this week @WAS, a WR2, and Cam Skattebo is RB15, an RB2.\n\nUpdated Wed 3:45 PM ET: Omarion Hampton's snap share is 58, 63 and 42 percent (Week 1 was never 80), Terrance Ferguson moves from monitor to sit with McVay saying he will probably miss Sunday, and TreVeyon Henderson's watch is now his third-down and short-yardage snaps.\n\nUpdated Wed 3:40 PM ET: Wan'Dale Robinson ran a route on 81 percent of the dropbacks; two snap counts disagree on his Week 3 snaps, so the snap jump is gone. The claim stands.\n\nUpdated Tue 6:55 PM ET: corrected Rashee Rice's Week 3 target share to 41% (18.7% is his three-game share); the trade-for call stands.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball three weeks running or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets, or just lost the thing his role depended on. One number backs each call. PPR scoring.",
+  "intro_md": "Updated Fri 5:15 PM ET: This week's ranks refreshed after Friday's injury report: Jeremiyah Love is RB11, Josh Downs WR15, Luther Burden III WR24, Emeka Egbuka WR35, Xavier Worthy WR45 and James Cook III RB10; Terrance Ferguson is ruled out, so stream Tyler Higbee. No call changes.\n\nUpdated Fri 5:00 PM ET: Bucky Irving practiced in full Friday with no designation and stays RB19, an RB2; Kenyon Sadiq is questionable (back) with Mason Taylor ruled out.\n\nUpdated Thu 10:45 PM ET: added Jeremiyah Love, Drake London, Brock Bowers, Harold Fannin Jr., Isaiah Likely, Matthew Golden, Chuba Hubbard and Luther Burden III as risers, and Emeka Egbuka, Xavier Worthy, David Montgomery, Chris Godwin Jr., Kyle Pitts Sr., Travis Kelce, Bucky Irving and James Cook III as fallers. Josh Downs is WR17 for me this week @WAS, a WR2, and Cam Skattebo is RB15, an RB2.\n\nUpdated Wed 3:45 PM ET: Omarion Hampton's snap share is 58, 63 and 42 percent (Week 1 was never 80), Terrance Ferguson moves from monitor to sit with McVay saying he will probably miss Sunday, and TreVeyon Henderson's watch is now his third-down and short-yardage snaps.\n\nUpdated Wed 3:40 PM ET: Wan'Dale Robinson ran a route on 81 percent of the dropbacks; two snap counts disagree on his Week 3 snaps, so the snap jump is gone. The claim stands.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball three weeks running or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets, or just lost the thing his role depended on. One number backs each call. PPR scoring.",
   "outro_md": "The trade prices for these trends are in the Butcher Shop, and the Menu lands Wednesday.",
   "data": {
     "risers": [
@@ -28,7 +28,7 @@
         "pos": "RB",
         "stat": "Snap share 43% in Weeks 1 and 2, 64% in Week 3",
         "why": "Love out-snapped Tyler Allgeier for the first time @SF in Week 3, 56 snaps to 31, and took 21 of the backs' 23 carries for 90 plus 5 of 5 targets. Allgeier kept 3 of the 5 goal-line snaps.",
-        "verdict": "RB8 for me this week @NYG.",
+        "verdict": "RB11 for me this week @NYG, borderline RB1/RB2.",
         "action": "START",
         "slot": "RB1"
       },
@@ -60,7 +60,7 @@
         "action": "START",
         "slot": "WR2",
         "why": "Alec Pierce left Week 2 with a heel injury and is now on IR, and Downs has been the Colts' top target since. He caught 7 of 9 for 72 yards in Week 2 and 5 of 11 for 77 vs HOU in Week 3.",
-        "verdict": "WR17 for me this week @WAS in London, a WR2. He is WR35 rest of season, so the rise lasts while Pierce is out."
+        "verdict": "WR15 for me this week @WAS in London, a WR2. He is WR35 rest of season, so the rise lasts while Pierce is out."
       },
       {
         "player": "Harold Fannin Jr.",
@@ -80,7 +80,7 @@
         "action": "START",
         "slot": "RB2",
         "why": "Skattebo took every first-quarter snap vs TEN in Week 3 and finished with 20 carries, 3 catches and 100 scrimmage yards. That is his most touches of the season with Jameis Winston at QB.",
-        "verdict": "RB15 for me this week vs ARI, an RB2."
+        "verdict": "RB16 for me this week vs ARI, an RB2."
       },
       {
         "player": "Isaiah Likely",
@@ -118,7 +118,7 @@
         "pos": "WR",
         "stat": "32% of targets in Week 3; 25% on the season",
         "why": "Burden drew 11 targets vs PHI in Week 3 and caught 7 for 61 and a touchdown on 74 percent of the routes. He leads the Bears with a 25 percent target share and 28 percent targets per route.",
-        "verdict": "WR26 for me this week vs NYJ, a high-end WR3 and a flex play.",
+        "verdict": "WR24 for me this week vs NYJ, a WR2.",
         "action": "FLEX"
       },
       {
@@ -129,7 +129,7 @@
         "action": "CLAIM",
         "faab": "2-5%",
         "why": "Robinson drew a game-high 11 targets @NYG in Week 3 and caught 7 for 57 yards and a touchdown. He ran a route on 81 percent of the dropbacks, and Cam Ward looked for him first in the rain.",
-        "verdict": "WR41 for me this week @BAL, a low-end flex play to a dart throw in PPR. Claim him, 2 to 5 percent of FAAB."
+        "verdict": "WR39 for me this week @BAL, a low-end flex play to a dart throw in PPR. Claim him, 2 to 5 percent of FAAB."
       },
       {
         "player": "Kenyon Sadiq",
@@ -139,7 +139,7 @@
         "action": "CLAIM",
         "faab": "12-20%",
         "why": "Sadiq ran a route on 40 percent of dropbacks through Week 2, then played a season-high 38 snaps @DET with Mason Taylor out and caught 7 of 8 for 105 yards and a touchdown. Taylor and Adonai Mitchell are ruled out for Week 4; Sadiq is questionable with a back injury after two limited practices.",
-        "verdict": "TE12 for me this week @CHI, a borderline start. Claim him, 12 to 20 percent of FAAB."
+        "verdict": "TE13 for me this week @CHI, a borderline start. Claim him, 12 to 20 percent of FAAB."
       }
     ],
     "fallers": [
@@ -159,7 +159,7 @@
         "pos": "WR",
         "stat": "Snap share 86% to 86% to 74%",
         "why": "Egbuka slipped to 74 percent of the snaps in Week 3 when Tampa Bay went to two tight ends, though he drew a season-high 9 targets. Baker Mayfield is out at least three weeks with the thumb, and undrafted rookie Jalon Daniels starts vs GB.",
-        "verdict": "WR40 for me this week vs GB, a low-end flex play to a dart throw. Trade him away; ask for a WR2 in a steadier offense.",
+        "verdict": "WR35 for me this week vs GB, a low-end WR3, a low-end flex play. Trade him away; ask for a WR2 in a steadier offense.",
         "action": "TRADE_AWAY",
         "price": "a WR2 in a steadier offense"
       },
@@ -169,7 +169,7 @@
         "pos": "WR",
         "stat": "Targets 13 in Weeks 1 and 2, 2 in Week 3",
         "why": "Worthy led the Kansas City receivers with 43 snaps @MIA in Week 3 but drew 2 targets on 19 routes while Rashee Rice drew 9. He has 10 catches for 63 yards on 15 targets this season.",
-        "verdict": "WR50 for me this week @LV, a dart throw. Drop him for any add on this week's list.",
+        "verdict": "WR45 for me this week @LV, a low-end flex play to a dart throw. Drop him for any add on this week's list.",
         "action": "DROP"
       },
       {
@@ -188,7 +188,7 @@
         "pos": "WR",
         "stat": "Snap share 86% to 62%",
         "why": "Godwin fell from 86 to 62 percent of the snaps in Week 3 when Tampa Bay went to two tight ends, and caught 3 for 25. He missed Wednesday's practice with an ankle injury before returning Thursday, and a rookie quarterback starts vs GB.",
-        "verdict": "WR57 for me this week vs GB, a dart throw; sit him.",
+        "verdict": "Outside the receivers I rank this week vs GB, a dart throw; sit him.",
         "action": "SIT"
       },
       {
@@ -198,7 +198,7 @@
         "stat": "9 targets in 3 games; 4 on 62 routes in Weeks 1 and 2",
         "action": "SIT",
         "why": "Harrison caught 3 of 5 for 40 yards in the Week 3 loss to SF, under 10 percent of the targets again. Michael Wilson drew 14 targets on 67 routes over the first two weeks while Harrison drew 4.",
-        "verdict": "WR60 for me this week @NYG, a dart throw; sit him until the target share clears 15 percent."
+        "verdict": "Outside the receivers I rank this week @NYG, a dart throw; sit him until the target share clears 15 percent."
       },
       {
         "player": "Brian Thomas Jr.",
@@ -225,7 +225,7 @@
         "stat": "Route share 72% to 15.6%",
         "action": "SIT",
         "why": "Ferguson ran a route on 72 percent of dropbacks in Week 2 and drew a 30 percent target share, then hurt his ankle @DEN and his route share fell to 15.6 percent. Sean McVay said Monday he will probably miss Sunday at PHI. Tyler Higbee caught 8 of 11 in his place on 47 routes.",
-        "verdict": "TE37 for me this week @PHI, outside my top 12; sit him and stream Higbee."
+        "verdict": "Ruled out Friday with the ankle; stream Higbee."
       },
       {
         "player": "Travis Kelce",
@@ -255,7 +255,7 @@
         "action": "MONITOR",
         "watch": "third-down and short-yardage snaps next to Stevenson @BUF Sunday",
         "why": "Henderson out-snapped Rhamondre Stevenson 33 to 20 in Week 2, then Stevenson took it back 33 to 23 at JAX in Week 3 and took most of the passing-situation and short-yardage snaps, 3 catches to 1. Henderson ran 8 times for 23 yards.",
-        "verdict": "RB29 for me this week @BUF, a high-end RB3. Monitor his third-down and short-yardage snaps next to Stevenson on Sunday."
+        "verdict": "RB28 for me this week @BUF, a high-end RB3. Monitor his third-down and short-yardage snaps next to Stevenson on Sunday."
       },
       {
         "player": "James Cook III",
@@ -263,7 +263,7 @@
         "pos": "RB",
         "stat": "1 target in Week 3",
         "why": "Ty Johnson came back in Week 3 and took most of the passing-down snaps, catching 4 of 4 for 50, while Cook drew 1 target and no catch. Cook kept 81 percent of the early downs and ran 24 times for 154, so the carries are safe and the catches are the worry.",
-        "verdict": "RB11 for me this week vs NE, borderline RB1/RB2. Monitor his targets and third-down snaps vs NE Sunday.",
+        "verdict": "RB10 for me this week vs NE. Monitor his targets and third-down snaps vs NE Sunday.",
         "action": "MONITOR",
         "watch": "his targets and third-down snaps vs NE Sunday"
       }

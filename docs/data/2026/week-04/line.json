@@ -3,12 +3,12 @@
   "season": 2026,
   "week": 4,
   "title": "On the Line, Week 4",
-  "dek": "Jeremiyah Love is a borderline RB1 after one game as the lead, Omarion Hampton is a sit at RB20 until the Menu catches up to his usage, and Jaylen Warren is the Thursday night back.",
+  "dek": "Jeremiyah Love is RB11 after one game as the lead, Omarion Hampton is a sit at RB27 on his usage, and Braelon Allen is an RB2 with Breece Hall out.",
   "format": "PPR",
   "publishedAt": "2026-10-01T12:00:00Z",
-  "updatedAt": "2026-10-02T21:00:00Z",
+  "updatedAt": "2026-10-02T21:15:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Fri 5:00 PM ET: Jaylen Wright practiced in full and is listed first in Miami, so Ollie Gordon II is a firm sit at RB35; Nico Collins practiced Friday and is WR11 for me, borderline WR1/WR2; Kenyon Sadiq is questionable with Mason Taylor out and is TE12, a borderline start; Jadarian Price missed Thursday with a chest injury and stays a sit.\n\nUpdated Thu 4:50 PM ET: Thursday practice lines on the Collins, Addison, Sadiq, Godwin and Young cards, Charbonnet's practice window on the Price card, and Carolina's IR moves were Wednesday, not Tuesday; no lean changes.\n\nUpdated Thu 11:20 AM ET: Dallas announced the Joey Porter Jr. trade Thursday morning and he may debut vs HOU, so the Nico Collins coin flip carries it; the lean does not move. Thursday practice reports were not out at run time; no call changes.\n\nThursday is for the players you are agonizing over. Studs are not on the line. Every call below is the player's rank on this week's [Menu](menu.html?week=4) and the tier it falls in, PPR scoring, and the reader decides. The Menu order itself does not move until Friday's Prep Notes, so where the usage disagrees with a rank, the card says so.\n\nThursday night first: Steelers at Browns carries the lowest total of the week at 38.5, Rico Dowdle is out, and Cleveland's center is out. Then the twelve the week favors, the ten it does not, and six coin flips where a Friday practice report picks the side.",
+  "intro_md": "Updated Fri 5:15 PM ET: The Menu order is refreshed after Friday's injury report. Braelon Allen moves up to RB20 with Breece Hall ruled out, Jordan Addison to WR25 with Justin Jefferson out, Jeremiyah Love to RB11, Josh Downs to WR15 and Tyler Warren to TE4; Drake Maye drops to QB18 and Omarion Hampton to RB27, both still sits; Nico Collins is WR13 and Kenyon Sadiq TE13, both questionable with the lean to play.\n\nUpdated Fri 5:00 PM ET: Jaylen Wright practiced in full and is listed first in Miami, so Ollie Gordon II is a firm sit at RB35; Nico Collins practiced Friday and is WR11 for me, borderline WR1/WR2; Kenyon Sadiq is questionable with Mason Taylor out and is TE12, a borderline start; Jadarian Price missed Thursday with a chest injury and stays a sit.\n\nUpdated Thu 4:50 PM ET: Thursday practice lines on the Collins, Addison, Sadiq, Godwin and Young cards, Charbonnet's practice window on the Price card, and Carolina's IR moves were Wednesday, not Tuesday; no lean changes.\n\nUpdated Thu 11:20 AM ET: Dallas announced the Joey Porter Jr. trade Thursday morning and he may debut vs HOU, so the Nico Collins coin flip carries it; the lean does not move. Thursday practice reports were not out at run time; no call changes.\n\nThursday is for the players you are agonizing over. Studs are not on the line. Every call below is the player's rank on this week's [Menu](menu.html?week=4) and the tier it falls in, PPR scoring, and the reader decides. Where the usage disagrees with a rank, the call says so.\n\nThursday night first: Steelers at Browns carries the lowest total of the week at 38.5, Rico Dowdle is out, and Cleveland's center is out. Then the twelve the week favors, the ten it does not, and six coin flips where a Friday practice report picks the side.",
   "outro_md": "Prep Notes reconciles the ranks Friday after the final injury report. Sunday morning, Order Up carries the inactives and the pivots as each window's reports drop.",
   "data": {
     "tnf": [
@@ -67,9 +67,9 @@
         "pos": "RB",
         "opp": "@NYG",
         "why": "His first game as the lead: 56 snaps (64 percent) to Tyler Allgeier's 31 after Allgeier led 60 to 43 in Weeks 1 and 2. He took 21 of the backs' 23 carries for 90, caught all 5 targets and ran 22 routes, 26 of the backs' 32 opportunities. It came in a trailing script (54 dropbacks) and Allgeier kept 3 of the 5 goal-line snaps, which is the catch.",
-        "verdict": "RB13 for me, borderline RB1/RB2 this week; the lead is one game old and Allgeier keeps some goal-line snaps, which is why he is 13 and not 8.",
+        "verdict": "RB11 for me, borderline RB1/RB2 this week; the lead is one game old and Allgeier keeps some goal-line snaps, but 26 of the backs' 32 opportunities is a lead back.",
         "action": "START",
-        "slot": "RB2"
+        "slot": "RB1"
       },
       {
         "player": "Chuba Hubbard",
@@ -77,9 +77,9 @@
         "pos": "RB",
         "opp": "vs DET",
         "why": "19 carries for 82 and 4 catches for 28 on 65 of 77 snaps at CLE; his snap share has gone 71, 65, 84 by week and AJ Dillon had 4 carries. He is ninth among backs in PPR points through three weeks. Sunday night at home, with both starting corners on IR, is a game Carolina will try to shorten.",
-        "verdict": "RB17 for me this week, an RB2; 84 percent of the snaps is the number, Sunday night at home is the spot.",
+        "verdict": "RB12 for me, borderline RB1/RB2 this week; 84 percent of the snaps is the number, Sunday night at home is the spot.",
         "action": "START",
-        "slot": "RB2"
+        "slot": "RB1"
       },
       {
         "player": "Cam Skattebo",
@@ -87,7 +87,7 @@
         "pos": "RB",
         "opp": "vs ARI",
         "why": "Snap share 60, 58, 76 percent by week. Vs TEN he took 20 of the 29 running back carries, ran 18 routes and drew 4 targets, every first-quarter snap. Najee Harris replaced Devin Singletary as the No. 2 and took 9 carries; Skattebo practiced in full Wednesday.",
-        "verdict": "RB18 for me this week, an RB2; the snaps went up with Winston at quarterback, not down.",
+        "verdict": "RB16 for me this week, an RB2; the snaps went up with Winston at quarterback, not down.",
         "action": "START",
         "slot": "RB2"
       },
@@ -97,7 +97,7 @@
         "pos": "RB",
         "opp": "vs MIA",
         "why": "78 percent of Minnesota's rush attempts in the two games without Jordan Mason and a 24 percent target share at TB, 22 touches. Wednesday's limited line was a rest day, not the knee. Miami has allowed the most PPR points to running backs through three weeks.",
-        "verdict": "RB19 for me this week, an RB2, and the Special on the Menu; the touches say higher, the knee listing says not yet.",
+        "verdict": "RB13 for me, borderline RB1/RB2 this week, and the Special on the Menu; 78 percent of the carries is the case.",
         "action": "START",
         "slot": "RB2"
       },
@@ -106,9 +106,10 @@
         "team": "NYJ",
         "pos": "RB",
         "opp": "@CHI",
-        "why": "He played all 17 snaps after Breece Hall left at DET, and Isaiah Davis has not taken an offensive snap this season. Hall sat out Wednesday with the quadriceps and is week to week. Allen has 19 carries for 61 and a touchdown on the year, so the case is the job, not the tape. Left guard Dylan Parham (knee) also sat Wednesday.",
-        "verdict": "RB27 for me, a high-end RB3, a flex play; he moves into the RB2 range the minute Friday rules Hall out.",
-        "action": "FLEX"
+        "why": "He played all 17 snaps after Breece Hall left at DET, and Isaiah Davis has not taken an offensive snap this season. Hall missed every practice with the quadriceps and was ruled out Friday. Allen has 19 carries for 61 and a touchdown on the year, so the case is the job, not the tape. Left guard Dylan Parham (knee) also sat Wednesday.",
+        "verdict": "RB20 for me this week, an RB2, now that Hall is ruled out; the backfield is his.",
+        "action": "START",
+        "slot": "RB2"
       },
       {
         "player": "Josh Downs",
@@ -116,7 +117,7 @@
         "pos": "WR",
         "opp": "@WAS",
         "why": "Targets 3, 9, 11 since Alec Pierce went down, 24 on 91 routes, and Downs, Tyler Warren and Keenan Allen took 30 of 36 attempts vs HOU. Washington has allowed 280 passing yards a game and 11 passing touchdowns, the most in the league. The London forecast that read 90 percent rain on Wednesday now reads mostly dry with a light wind, so the weather is no longer part of the case either way; the slot target is.",
-        "verdict": "WR21 for me this week, a WR2; 11 targets last week and 30 of 36 throws inside a three-man tree is the case, dry or wet.",
+        "verdict": "WR15 for me this week, a WR2; 11 targets last week and 30 of 36 throws inside a three-man tree is the case, dry or wet.",
         "action": "START",
         "slot": "WR2"
       },
@@ -126,7 +127,7 @@
         "pos": "WR",
         "opp": "@TB",
         "why": "An 83 percent route share, 25 percent of the targets and 40 percent of the air yards through three games, two of them with Jayden Reed active, and 44 routes on 55 dropbacks vs ATL. Love has 124 attempts in three games. Reed is out for the season, so the slot work splits among depth players, not away from Golden.",
-        "verdict": "WR22 for me this week, a WR2; he already had the routes before Reed went down, and the air yards are his.",
+        "verdict": "WR19 for me this week, a WR2; he already had the routes before Reed went down, and the air yards are his.",
         "action": "START",
         "slot": "WR2"
       },
@@ -136,9 +137,9 @@
         "pos": "WR",
         "opp": "@CAR",
         "why": "4 of 4 for 49 vs NYJ and about 4 targets a game since Week 1, so the volume is thin. Carolina put Jaycee Horn and Mike Jackson, both starting corners, on IR Wednesday, and Sunday night is the pass funnel of the week. The forecast has rain tapering by the Sunday night kickoff.",
-        "verdict": "WR24 for me this week, a WR2, on the matchup more than the targets; four a game is the floor and Carolina's corners are the ceiling.",
+        "verdict": "WR28 for me, a high-end WR3, a flex play, on the matchup more than the targets; four a game is the floor and Carolina's corners are the ceiling.",
         "action": "START",
-        "slot": "WR2"
+        "slot": "WR3"
       },
       {
         "player": "DJ Moore",
@@ -146,9 +147,9 @@
         "pos": "WR",
         "opp": "vs NE",
         "why": "A team-high 10 targets, 6 for 67, on 42 snaps (64 percent) vs LAC while playing through the shoulder; Khalil Shakir drew 3 on 73 percent of the snaps. Buffalo is a touchdown favorite at home with a 48.5 total.",
-        "verdict": "WR26 for me, a high-end WR3, a flex play; ten targets on 64 percent of the snaps is the kind of number that holds when the snaps go up.",
+        "verdict": "WR23 for me this week, a WR2; ten targets on 64 percent of the snaps is the kind of number that holds when the snaps go up.",
         "action": "START",
-        "slot": "WR3"
+        "slot": "WR2"
       },
       {
         "player": "Tyler Warren",
@@ -156,7 +157,7 @@
         "pos": "TE",
         "opp": "@WAS",
         "why": "10 targets, 9 for 55, vs HOU with Alec Pierce on IR, and 22 targets on 93 routes for the season. The tree is three players deep (30 of 36 attempts in Week 3). The London forecast has turned mostly dry since Wednesday, so this is a volume call, not a weather call.",
-        "verdict": "TE7 for me this week; a 10-target tight end in a three-man tree.",
+        "verdict": "TE4 for me this week; a 10-target tight end in a three-man tree.",
         "action": "START",
         "slot": "TE1"
       },
@@ -166,7 +167,7 @@
         "pos": "TE",
         "opp": "@TB",
         "why": "8 targets on 39 routes vs ATL, a 71 percent route share, in a 55-dropback game. His season share is 14 percent, so the Week 3 number is the high end; the volume in this passing game (124 attempts) is what makes it repeatable.",
-        "verdict": "TE8 for me this week; the routes were there before the injury news, and the volume in Green Bay's passing game is what pays them.",
+        "verdict": "TE11 for me, a borderline start this week; the routes were there before the injury news, and the volume in Green Bay's passing game is what pays them.",
         "action": "START",
         "slot": "TE1"
       },
@@ -176,7 +177,7 @@
         "pos": "QB",
         "opp": "vs DET",
         "why": "939 yards on 121 attempts through three games, 51 dropbacks at CLE, and Detroit has allowed the most PPR points to quarterbacks. The other side: he is pressured on 47 percent of dropbacks, the most in the league, and left guard Damien Lewis (elbow) is out, a third backup lineman. He practiced in full Thursday, and Jalen Coker (quad) was upgraded to limited.",
-        "verdict": "QB12 for me, a borderline start this week; the volume is there and the protection is not, and Detroit's pass defense is the reason to lean in.",
+        "verdict": "QB10 for me this week; the volume is there and the protection is not, and Detroit's pass defense is the reason to lean in.",
         "action": "START",
         "slot": "QB1"
       }
@@ -188,7 +189,7 @@
         "pos": "QB",
         "opp": "@BUF",
         "why": "1 touchdown pass, 6 interceptions, 9 sacks and a best game of 12.8 PPR points, with a fourth-quarter benching at JAX. Vrabel kept him as the starter and he was added to Wednesday's report with the right shoulder as a full participant. Buffalo is a 6.5-point favorite.",
-        "verdict": "QB9 on the Menu with the order moving Friday, and the row already reads sit; sit him at BUF for any streamer on the Menu's stream line.",
+        "verdict": "QB18 for me, outside my top 12; sit him at BUF for any streamer ranked ahead of him.",
         "action": "SIT"
       },
       {
@@ -196,8 +197,8 @@
         "team": "MIN",
         "pos": "QB",
         "opp": "vs MIA",
-        "why": "15 of 29 for 168 with 3 sacks at TB in an offense that scored one touchdown, his first full game as a Viking. Justin Jefferson did not practice Wednesday and is day to day with the ankle.",
-        "verdict": "QB13 for me, borderline by rank and a sit by the tape until Jefferson practices; sit him for any streamer on the Menu.",
+        "why": "15 of 29 for 168 with 3 sacks at TB in an offense that scored one touchdown, his first full game as a Viking. Justin Jefferson missed every practice with the ankle and was ruled out Friday.",
+        "verdict": "QB13 for me, borderline by rank and a sit by the tape with Jefferson ruled out; sit him for any streamer on the Menu.",
         "action": "SIT"
       },
       {
@@ -206,7 +207,7 @@
         "pos": "RB",
         "opp": "@SEA",
         "why": "Snap share 58, 63, 42 percent by week. Vs BUF he ran 6 routes and drew 1 target while Keaton Mitchell ran 14 and Kimani Vidal 13; he has 3 targets all season and 50 carries at 3.9 with 2 lost fumbles. Seattle's Sam Darnold threw 45 times at WAS, so a trailing script for the Chargers puts the other two backs on the field.",
-        "verdict": "RB20 on this week's Menu, an RB2 by rank, and the rank is the tension: the usage says a 42 percent back with no passing-down role. Sit him for any RB2 who catches passes; Friday's Prep Notes move the order.",
+        "verdict": "RB27 for me, a high-end RB3 by rank, and the usage says lower: a 42 percent back with no passing-down role. Sit him for any RB2 who catches passes.",
         "action": "SIT"
       },
       {
@@ -215,7 +216,7 @@
         "pos": "RB",
         "opp": "@BUF",
         "why": "23 snaps to Rhamondre Stevenson's 33 at JAX, 8 carries for 23, and Stevenson took most of the passing-situation and short-yardage snaps, 3 catches to 1. Week 2 was the other way (33 to 20), so the split moves week to week, and Buffalo is favored by a touchdown.",
-        "verdict": "RB26 for me, a high-end RB3 by rank and a sit this week; sit him for any back with a passing-down role, and keep him for the Week 2 version.",
+        "verdict": "RB28 for me, a high-end RB3 by rank and a sit this week; sit him for any back with a passing-down role, and keep him for the Week 2 version.",
         "action": "SIT"
       },
       {
@@ -224,7 +225,7 @@
         "pos": "RB",
         "opp": "vs LAC",
         "why": "6 touches on 19 snaps and 11 routes at WAS, third of the three backs; the fumble came on his third carry and he did not carry again until the third quarter, 2 lost fumbles on 32 touches. Macdonald says the ball keeps coming. Emanuel Wilson and George Holani each played 24 snaps. He was limited Wednesday and did not practice Thursday with a chest injury. Seattle opened Zach Charbonnet's practice window Thursday; he is eligible Week 5 and takes the short-yardage and goal-line snaps when active, so the window for Price to earn the job is closing.",
-        "verdict": "RB30 for me, a high-end RB3 by rank and a sit; the first-quarter carries have to come back before he is a flex play again, and Charbonnet's window makes that a short clock.",
+        "verdict": "RB31 for me, a low-end RB3 by rank and a sit; the first-quarter carries have to come back before he is a flex play again, and Charbonnet's window makes that a short clock.",
         "action": "SIT"
       },
       {
@@ -233,7 +234,7 @@
         "pos": "WR",
         "opp": "vs GB",
         "why": "Snap share 86, 86, 62 percent; he was third among the receivers vs MIN behind Ted Hurst III (52 snaps) and Emeka Egbuka (51), 3 for 25. He did not practice Wednesday (ankle) and returned Thursday, an undrafted rookie starts at quarterback, and Tampa carries a 43 percent chance of rain.",
-        "verdict": "WR43 for me, a low-end flex play to a dart throw, and a sit; sit him for any receiver inside my top 36.",
+        "verdict": "Outside the receivers I rank this week, and a sit; sit him for any receiver inside my top 36.",
         "action": "SIT"
       },
       {
@@ -242,7 +243,7 @@
         "pos": "WR",
         "opp": "@CIN",
         "why": "23 of 62 snaps vs NE, 13 to 15 routes (under half the dropbacks) and 1 target; he is off the field in two-tight-end sets and rookie Josh Cameron matched his snaps. 13 targets on the season to Parker Washington's 23.",
-        "verdict": "WR45 for me, a dart throw, and a sit; the name is the only reason he is in a lineup.",
+        "verdict": "Outside the receivers I rank this week, a dart throw at best, and a sit; the name is the only reason he is in a lineup.",
         "action": "SIT"
       },
       {
@@ -251,7 +252,7 @@
         "pos": "TE",
         "opp": "@HOU",
         "why": "Snap share 76, 60, 69 percent while Brevyn Spann-Ford went 22, 38, 38; 11 targets in three games, fifth on the team behind Ryan Flournoy's 18, and 3 touchdowns carrying the line. He lost a fumble on the opening drive in Rio.",
-        "verdict": "TE15 for me, outside my top 12 and a streamer at best; sit him for any tight end inside my top 12.",
+        "verdict": "TE20 for me, outside my top 12; sit him for any tight end inside my top 12.",
         "action": "SIT"
       },
       {
@@ -260,7 +261,7 @@
         "pos": "TE",
         "opp": "@NO",
         "why": "6 targets in three games (1, 3, 2), 2 catches for 20 yards, and 1 of 2 for 5 on 19 routes at GB with fewer snaps than Charlie Woerner. Penix's first start was 25 dropbacks on 66 plays, and 10 of them went to Drake London.",
-        "verdict": "TE18 for me, outside my top 12; sit him, Monday night or not, for any streamer on the Menu.",
+        "verdict": "Outside the tight ends I rank this week; sit him, Monday night or not, for any streamer on the Menu.",
         "action": "SIT"
       },
       {
@@ -269,7 +270,7 @@
         "pos": "WR",
         "opp": "vs NE",
         "why": "3 targets and 1 catch for 6 on 48 snaps (73 percent) vs LAC while DJ Moore drew 10. The snaps are there; the volume went to Moore.",
-        "verdict": "WR39 for me, a low-end flex play to a dart throw, and a sit; sit him for any receiver inside my top 36 until the targets come back.",
+        "verdict": "WR46 for me, a low-end flex play to a dart throw, and a sit; sit him for any receiver inside my top 36 until the targets come back.",
         "action": "SIT"
       }
     ],
@@ -279,11 +280,11 @@
         "team": "MIN",
         "pos": "WR",
         "opp": "vs MIA",
-        "why": "9 targets, 5 for 90 and a touchdown at TB after Jefferson left on his seventh snap; Jauan Jennings and Tai Felton had 2 targets each, so the share funneled to Addison, not down the depth chart. Jefferson did not practice Wednesday and was not seen at Thursday's open session; he is day to day with no designation until Friday. The cap is Murray's 15 of 29.",
-        "verdict": "WR30 for me, a high-end WR3, a flex play, and the lean is up while Jefferson sits out practice.",
+        "why": "9 targets, 5 for 90 and a touchdown at TB after Jefferson left on his seventh snap; Jauan Jennings and Tai Felton had 2 targets each, so the share funneled to Addison, not down the depth chart. Jefferson did not practice all week and was ruled out Friday. The cap is Murray's 15 of 29.",
+        "verdict": "WR25 for me, a high-end WR3, a flex play, and the lean is up with Jefferson ruled out.",
         "action": "START",
         "slot": "WR3",
-        "flip_if": "Jefferson practices in full Friday and plays; then Addison is a low-end flex play"
+        "flip_if": "you have a receiver inside my top 24; Murray's 15 of 29 at TB is the cap on this passing game"
       },
       {
         "player": "Nico Collins",
@@ -291,7 +292,7 @@
         "pos": "WR",
         "opp": "vs DAL",
         "why": "Limited Wednesday and Thursday, then practiced Friday, three straight sessions after the hamstring strain that cost him Weeks 2 and 3. Dallas has allowed 7 passing touchdowns in three games and lost two defensive backs in Rio. Dallas announced the trade for Joey Porter Jr. Thursday morning; he has not played a snap in 2026 with the back, and a chance he debuts Sunday is a chance, not a cornerback who has practiced with the group. While he was out nobody in the Houston receiver room played 70 percent of the snaps, so the share comes straight back to him if he is active without a cap.",
-        "verdict": "WR11 for me this week, borderline WR1/WR2, with three practices in the book; the lean is to play him and check Sunday's inactives.",
+        "verdict": "WR13 for me, borderline WR1/WR2 this week, with three practices in the book; the lean is to play him and check Sunday's inactives.",
         "action": "START",
         "slot": "WR2",
         "flip_if": "he is inactive Sunday or the team talks about a snap count; then he is a flex at best and the backup plays",
@@ -303,7 +304,7 @@
         "pos": "TE",
         "opp": "@CHI",
         "why": "38 snaps (57.6 percent) at DET, a 58 percent route share, 8 of 37 targets and 7 for 105 with a touchdown. Mason Taylor and Adonai Mitchell are ruled out, so the route share should hold. Sadiq himself was limited Wednesday and Thursday with a back injury and is questionable.",
-        "verdict": "TE12 for me, a borderline start this week, and the lean is to play him over any tight end outside my top 10 if he is active.",
+        "verdict": "TE13 for me, a borderline start this week, and the lean is to play him over any tight end outside my top 12 if he is active.",
         "action": "START",
         "flip_if": "he is inactive Sunday; then any streamer in my top 16 plays",
         "slot": "TE1",
@@ -325,9 +326,9 @@
         "pos": "TE",
         "opp": "vs NYJ",
         "why": "A 10 percent target share on 71 percent of the routes this season, catches 0, 1, 4 by week, and 4 of 4 for 31 vs PHI. Luther Burden (25 percent) and Kalif Raymond (23 percent) hold the targets, and Chicago has not said whether Bagent or Keenum starts.",
-        "verdict": "TE12 for me, a borderline start this week by rank, and the lean is sit for any tight end with a target share above 15 percent; the routes are there, the ball is not.",
+        "verdict": "TE15 for me, a streamer by rank, and the lean is sit for any tight end with a target share above 15 percent; the routes are there, the ball is not.",
         "action": "SIT",
-        "flip_if": "your alternative is outside my top 14; then the 71 percent route share is enough to play"
+        "flip_if": "your alternative is outside my top 16; then the 71 percent route share is enough to play"
       },
       {
         "player": "David Montgomery",
