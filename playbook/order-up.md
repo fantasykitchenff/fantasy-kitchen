@@ -44,7 +44,7 @@ Envelope: `title` "Order Up, Week N", `dek` the day's biggest surprise so far (u
 
 ## Posts (queued by FK Kitchen, posted by the FK Order Up task)
 
-One short thread per window (2 to 4 posts): post 1 is the hook (the window, the biggest surprise, the closer, the hashtags of the teams named), the middle posts carry the inactives, one player per line with his pivot on the same line and the team hashtags on their own last line, and the last post is the link to `orderup.html?week=N` (appended by the tool). If nothing surprising happened and every relevant Questionable player is active, the thread is two posts: the hook saying so ("Early window: everyone relevant is active. The lineup you set stands. Let's go.") and the link.
+One thread per kickoff window, 10 to 25 posts, naming every team in the window: post 1 is the hook (the window, the biggest surprise, the closer, the hashtags of the teams named). Then game by game, one game per post or two: the inactives with each pivot on the same line, every Questionable player who is active with his rank and tier, and the one usage or matchup note from the week's pieces and the pantry board that matters most for each team. The last post is the close with the follow line and the link to `orderup.html?week=N` (appended by the tool). A quiet window still gets the full game-by-game thread: who is active, each team's top call and rank.
 
 One player per line in every post (`_standards.md`). Queue it with `--at now`, `--not-after` the window's kickoff time (ISO), and `--link "orderup.html?week=N"`. Do not post it; the FK Order Up task is waiting for it. Push as soon as the piece validates, because every minute counts before kickoff.
 

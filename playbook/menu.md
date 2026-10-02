@@ -55,13 +55,13 @@ Envelope: `title` "The Menu, Week N", `dek` one sentence with the week's biggest
 
 ## Posts
 
-One thread, 6 to 9 posts, `--at "Wed 13:20"`, `--not-after "Thu 18:00"`, `--link "menu.html?week=N"`:
+One thread, 15 to 25 posts (aim for 22 or more), naming at least 14 teams and as many of the teams playing as the tiers reach, `--at "Wed 13:20"`, `--not-after "Thu 18:00"`, `--link "menu.html?week=N"`. Each position runs through tiers 1 to 3 at least (QB and TE through the top 15), across as many posts as the five-hashtag cap needs, and the thread adds a team-by-team run of the pantry board's role changes with each player's rank. The Friday refresh rewrites the thread with `--replace <id>` only if it has not posted. The outline below is the order:
 
 1. Hook: the one thing that changed this week and the headline verdict. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
-2. QB: tiers 1 and 2, a tier line ("Tier 1") then one name per line with his rank ("1. Allen"), one sentence on the biggest mover.
-3. RB: tiers 1 and 2.
-4. WR: tiers 1 and 2.
-5. TE: tier 1 and the one streamer, with his rank.
+2. QB: tiers 1 to 3, a tier line ("Tier 1") then one name per line with his rank ("1. Allen"), one sentence on the biggest mover.
+3. RB: tiers 1 to 3.
+4. WR: tiers 1 to 3.
+5. TE: the top 15, with the streamers marked.
 6. Specials: 3 matchup plays, one player per line, each with one deployment number and his rank and tier.
 7. Close: "Full menu, all tiers, updated Friday with the injury report." plus the link (the tool appends it).
 

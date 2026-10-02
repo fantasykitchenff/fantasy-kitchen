@@ -44,7 +44,7 @@ Envelope: `title` "Serve or Sit, Week N", `dek` one sentence with the boldest ca
 
 ## Posts
 
-One thread, 6 to 8 posts, `--at "Thu 13:20"`, `--not-after "Sun 11:00"`, `--link "line.html?week=N"`:
+One thread, 15 to 25 posts (aim for 20 or more), naming at least 14 teams and every team with a call on the site, `--at "Thu 13:20"`, `--not-after "Sun 11:00"`, `--link "line.html?week=N"`. Every call on the site goes in the thread, game by game where it helps a reader find his team. The Thursday night game leads it, so there is no separate Thursday night thread. The outline below is the order:
 
 1. Hook: the boldest call up and the boldest call down, one number each, each player on his own line and the closer on its own line. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
 2. Thursday night calls.
@@ -56,7 +56,7 @@ One thread, 6 to 8 posts, `--at "Thu 13:20"`, `--not-after "Sun 11:00"`, `--link
 
 One player per line in every post, the team hashtags on their own last line, no start commands (`_standards.md`).
 
-Also queue a 2-post thread with `--at "Thu 18:20"`, `--not-after "Thu 20:15"`, `--series line --kind thread --link "line.html?week=N"`: post 1 is the Thursday night lineup-lock hook (both teams' hashtags, a closer), post 2 is the top two calls from the game, each on his own line with his rank and tier, then the link post is appended by the tool as post 3 only if you include it; keep it to hook, calls, link.
+No second thread. The Thursday night calls (with the lineup lock time) are posts 2 and 3 of this thread; if a later run before 1:20 PM changes them, rewrite the thread with `--replace <id>`.
 
 ## Finish
 

@@ -58,11 +58,11 @@ Butcher Shop and Heat Check are not frozen on Tuesday. Every pantry filing and e
 
 ## Posts
 
-Two threads, both `--not-after "Wed 12:00"`. Each hook ends with a closer from `_standards.md` on its own line; every post but the last ends with the official hashtag of each team it names on its own last line. One player per line in every post with an empty line between players, no start commands (`_standards.md`). The threads carry the best calls; the site carries every player, and each close says how many ("All 26 trade calls are on the site.").
+Two content items, so two threads (one each, never more), both `--not-after "Wed 12:00"`, each 15 to 25 posts naming at least 14 teams. Every buy and sell goes in the Butcher Shop thread and every riser and faller in the Heat Check thread, one or two teams per post, with the pantry board's usage and crowd lines behind each call. If a thread has not posted when a later run adds players, rewrite it with `--replace <id>`. Each hook ends with a closer from `_standards.md` on its own line; every post but the last ends with the official hashtag of each team it names on its own last line. One player per line in every post with an empty line between players, no start commands (`_standards.md`). The threads carry every call on the site.
 
-Butcher Shop thread, 6 to 8 posts, `--at "Tue 18:20"`, `--link "butcher.html?week=N"`: hook (best buy, one number), the top buys in two posts (one player per line: name, the number, the price), the top sells in two posts, the one trade to make today, close plus link.
+Butcher Shop thread, 15 to 25 posts, `--at "Tue 18:20"`, `--link "butcher.html?week=N"`: hook (best buy, one number), every buy (one player per line: name, the number, the price), every sell, the one trade to make today, close plus link.
 
-Heat Check thread, 5 to 7 posts, `--at "Tue 18:22"`, `--link "heat.html?week=N"`: hook (biggest riser and the number), the top risers in two posts (one player per line: name, the stat, verdict), the top fallers in two posts, close plus link.
+Heat Check thread, 15 to 25 posts, `--at "Tue 18:22"`, `--link "heat.html?week=N"`: hook (biggest riser and the number), every riser (one player per line: name, the stat, verdict), every faller, close plus link.
 
 ## Finish
 

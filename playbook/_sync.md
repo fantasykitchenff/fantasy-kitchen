@@ -148,7 +148,7 @@ The site shows these notes under "What changed" at the top of each piece and kee
 
 ## Step 6. Queue the posts
 
-Write each post or thread as a queue item with the tool so ids, timing and validation are consistent:
+Each content item gets exactly one thread (`_standards.md`, "One long thread per content item"): 15 to 25 posts for a weekly series, 10 to 25 for the daily Kitchen Notes thread and each Order Up window, covering as many teams as the piece touches, built from the piece, the pantry board, the team notes and the owner's rankings. Write it as a queue item with the tool so ids, timing and validation are consistent:
 
 ```
 python3 tools/fk.py queue add --series menu --week 4 --kind thread \
@@ -159,6 +159,8 @@ python3 tools/fk.py queue add --series menu --week 4 --kind thread \
 `--at` and `--not-after` take a weekday and Eastern time inside the content week ("Wed 10:20"), `now`, `+6h`, or an ISO timestamp. The poster runs at 10:25, 13:25, 18:25 and 20:25 ET, so schedule posts a few minutes before one of those. Nothing ever posts before 10:00 AM ET: `queue add` moves an earlier `--at` to 10:00 AM that day (and one after 8:30 PM, past the last poster run, to 10:00 AM the next day), a relative `--not-after` (`+8h`) counts from that time, `queue list --due` returns nothing before 10:00 AM ET, and `validate` rejects a pending item scheduled earlier. An item whose `--not-after` falls before 10:00 AM gets a warning and will expire unposted.
 
 `--texts-file` is a JSON array of strings, one per post. Everything except a reply is a thread: post 1 is the hook and ends with a closer ("Let's dive in." and the others in `_standards.md`), every post but the last carries the official hashtag of each team it names (`kitchen/hashtags.json`), the last post ends with the follow line ("Follow @handle for the rest of the week's calls, and repost this for your league."), and the tool appends the site link after it (replies use `--kind post --no-link` and end with "Follow @handle for more."). Items post at or after `--at` the next time the poster runs and are skipped forever after `--not-after`. Sunday-morning content must carry a tight `--not-after` (kickoff), rankings can carry a day. Add the item's id to the piece's `posts` array.
+
+Update runs: if the piece's thread is still in `queue/pending/`, rewrite it in place with `--replace <id>` (same flags otherwise) so the new facts and ranks go out in the one thread. If it is already in `queue/posted/`, update the site only and queue nothing; `queue add` and `validate` reject a second thread for the same content item.
 
 ## Step 7. Validate, build the manifest, commit, push
 

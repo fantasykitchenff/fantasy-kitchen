@@ -305,6 +305,50 @@ def after_plain_cutoff(ts):
     d = parse_iso(ts) if ts else None
     return bool(d) and d >= PLAIN_CUTOFF
 
+# ---------------------------------------------------------------- owner rules of 2026-10-02, evening
+# One thread per content item, and a long one. Every piece goes out on X as exactly one thread of THREAD_MIN to
+# THREAD_MAX posts that names as many teams as the piece covers (at least TEAM_MIN distinct team hashtags across
+# the thread). The weekly series queue one thread per week; an update run rewrites its pending thread in place
+# (queue add --replace) and never queues a second once it has posted. Kitchen Notes is one thread a day, queued by
+# the evening run (NOTES_THREAD_FROM_ET or later). Order Up is one thread per kickoff window. Applies to queue
+# items created on or after THREAD_CUTOFF; older items keep the 2 to 12 post rule.
+THREAD_CUTOFF = dt.datetime(2026, 10, 2, 21, 0, tzinfo=dt.timezone.utc)   # Fri Oct 2, 5:00 PM ET
+THREAD_MAX = 25                          # X's cap on one composed thread
+THREAD_MIN = {"notes": 10, "orderup": 10}
+THREAD_MIN_DEFAULT = 15
+TEAM_MIN = {"notes": 8, "orderup": 4}
+TEAM_MIN_DEFAULT = 14
+NOTES_THREAD_FROM_ET = dt.time(17, 30)
+ONE_PER_WEEK = {"menu", "market", "butcher", "heat", "line", "prep", "leftovers"}
+DEAD_STATUSES = {"expired", "failed"}
+
+def after_thread_cutoff(ts):
+    d = parse_iso(ts) if ts else None
+    return bool(d) and d >= THREAD_CUTOFF
+
+def thread_teams(texts):
+    return {m.group(2).lower() for t in texts for m in HASHTAG.finditer(t) if m.group(2).lower() in OFFICIAL}
+
+def sibling_threads(q):
+    """Other live items (pending or posted, created under the one-thread rule) for the same content item as q."""
+    out = []
+    series, created = q.get("series"), parse_iso(q.get("createdAt")) if q.get("createdAt") else None
+    for state in ("pending", "posted"):
+        for path in glob.glob(os.path.join(QUEUE, state, "*.json")):
+            try:
+                o = load(path)
+            except Exception:
+                continue
+            if o.get("id") == q.get("id") or o.get("series") != series or o.get("kind") != "thread":
+                continue
+            if o.get("status") in DEAD_STATUSES or not after_thread_cutoff(o.get("createdAt")):
+                continue
+            if series in ONE_PER_WEEK and o.get("week") == q.get("week"):
+                out.append(o)
+            elif series == "notes" and created and parse_iso(o.get("createdAt")).astimezone(ET).date() == created.astimezone(ET).date():
+                out.append(o)
+    return out
+
 def check_page_talk(text, where, errors):
     """Rule of 2026-10-02: say what happened to the player; never describe the page, its cards, rows, lines or flags."""
     if not isinstance(text, str) or not text:
@@ -554,12 +598,25 @@ def validate_queue_item(path, errors, warnings):
     texts = q.get("texts") or []
     if not texts:
         errors.append(f"{rel}: no texts")
-    if q.get("series") != "reply" and q.get("kind") != "thread":
-        errors.append(f"{rel}: everything but a reply goes out as a thread (kind: thread, 2 to 12 posts)")
+    series = q.get("series")
+    long_rule = q.get("kind") == "thread" and after_thread_cutoff(q.get("createdAt"))
+    if series != "reply" and q.get("kind") != "thread":
+        errors.append(f"{rel}: everything but a reply goes out as a thread (kind: thread)")
     if q.get("kind") == "post" and len(texts) != 1:
         errors.append(f"{rel}: a post has exactly one text")
-    if q.get("kind") == "thread" and not (2 <= len(texts) <= 12):
-        errors.append(f"{rel}: a thread has 2 to 12 posts")
+    if q.get("kind") == "thread":
+        lo, hi = (THREAD_MIN.get(series, THREAD_MIN_DEFAULT), THREAD_MAX) if long_rule else (2, 12)
+        if not (lo <= len(texts) <= hi):
+            errors.append(f"{rel}: a {series} thread has {lo} to {hi} posts (this one has {len(texts)}); one long thread per content item")
+    if long_rule:
+        need = TEAM_MIN.get(series, TEAM_MIN_DEFAULT)
+        teams = thread_teams(texts)
+        if len(teams) < need:
+            errors.append(f"{rel}: the thread names {len(teams)} teams; a {series} thread covers at least {need} (as many teams as the piece touches)")
+        if series == "notes" and parse_iso(q.get("createdAt")).astimezone(ET).time() < NOTES_THREAD_FROM_ET:
+            errors.append(f"{rel}: Kitchen Notes queues its one thread of the day from the evening run (5:30 PM ET or later); earlier runs update the site only")
+        for o in sibling_threads(q):
+            errors.append(f"{rel}: {o.get('id')} ({o.get('status')}) is already this {series} content item's thread; one thread per content item (rewrite a pending one with queue add --replace)")
     if q.get("kind") == "thread" and texts and not HOOK_CLOSER_RE.search(texts[0].strip()):
         errors.append(f"{rel}: the hook (text[0]) must end with one of: " + ", ".join(HOOK_CLOSERS) + " (hashtags may follow it)")
     handle = site_handle()
@@ -676,7 +733,7 @@ def cmd_queue_add(a):
     if not_after and parse_iso(not_after) <= parse_iso(at):
         print(f"WARNING: not-after {not_after} is before the 10:00 AM ET posting floor ({at}); this item will expire unposted")
     wk = a.week if a.week else content_week()["week"]
-    qid = a.id or f"{SEASON}w{int(wk):02d}-{a.series}-{a.kind}-{uuid.uuid4().hex[:4]}"
+    qid = a.replace or a.id or f"{SEASON}w{int(wk):02d}-{a.series}-{a.kind}-{uuid.uuid4().hex[:4]}"
     item = {
         "id": qid, "series": a.series, "week": int(wk), "kind": a.kind, "texts": texts,
         "scheduledFor": at, "notAfter": not_after,
@@ -684,13 +741,27 @@ def cmd_queue_add(a):
         "attempts": 0, "postedAt": None, "url": None, "notes": a.notes,
     }
     path = os.path.join(QUEUE, "pending", qid + ".json")
-    if os.path.exists(path):
+    previous = None
+    if a.replace:
+        # rewrite this content item's pending thread in place (an update run); a posted thread is never replaced
+        if os.path.exists(os.path.join(QUEUE, "posted", qid + ".json")):
+            sys.exit(f"{qid} has already posted; one thread per content item, so update the site and queue nothing")
+        if not os.path.exists(path):
+            sys.exit(f"no pending item {qid} to replace")
+        previous = load(path)
+        if previous.get("series") != a.series:
+            sys.exit(f"{qid} is a {previous.get('series')} item, not {a.series}")
+        item["week"] = previous.get("week", item["week"])
+    elif os.path.exists(path):
         sys.exit(f"queue item {qid} already exists")
     errors, warnings = [], []
     save(path, item)
     validate_queue_item(path, errors, warnings)
     if errors:
-        os.remove(path)
+        if previous is not None:
+            save(path, previous)
+        else:
+            os.remove(path)
         for e in errors:
             print("ERROR:", e)
         sys.exit(1)
@@ -905,6 +976,7 @@ def main():
     qa.add_argument("--link"); qa.add_argument("--no-link", dest="no_link", action="store_true")
     qa.add_argument("--texts-file", dest="texts_file"); qa.add_argument("--text")
     qa.add_argument("--id"); qa.add_argument("--notes")
+    qa.add_argument("--replace", metavar="ID", help="rewrite this pending thread in place (same id) instead of queueing a second one")
     qa.set_defaults(fn=cmd_queue_add)
     ql = qs.add_parser("list"); ql.add_argument("--due", action="store_true"); ql.add_argument("--json", action="store_true"); ql.set_defaults(fn=cmd_queue_list)
     qp = qs.add_parser("mark-posted"); qp.add_argument("--id", required=True); qp.add_argument("--url", required=True); qp.set_defaults(fn=cmd_queue_mark_posted)

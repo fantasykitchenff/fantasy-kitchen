@@ -48,6 +48,7 @@ If the built-in browser tools are unavailable, use the Chrome extension: `tabs_c
 0. Profile check as in 3.0.
 1. `navigate` to `https://x.com/compose/post`. Click the "Post text" editor and `type` post 1.
 2. `find` "Add post" (the plus button under the editor; accessible name "Add post" or "Add another post") and click it. A second editor appears and takes focus. `type` post 2. Repeat for each remaining post: click "Add post", type.
+   Threads now run up to 25 posts. Typing a team hashtag opens X's hashtag suggestion box, and the first click on "Add post" after it only closes the box: after each click, check that a new editor appeared (count the `[role="textbox"][contenteditable="true"]` elements inside the composer, or `data-testid` `tweetTextarea_N`) and click again if not. If clicking the "Post text" ref does not focus the composer, click the editor by its screenshot coordinates.
 3. Screenshot at scale 0.5 to confirm the number of editors equals the number of posts, none has a red counter, and each editor holds its post's line breaks (one player per line, an empty line between players, the hashtags on their own last line). If an editor collapsed the breaks, clear it and type that post again before posting.
 4. `find` "Post all" and click it. Wait 4 seconds.
 5. Get the URL of the first post as in step 3.6. Add `posted <id> <url>` to the ledger.

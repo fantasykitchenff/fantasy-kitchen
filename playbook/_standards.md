@@ -132,15 +132,27 @@ Series and the language that belongs to each:
 
 Tier labels on the Menu are exactly: Tier 1 "Chef's table", Tier 2 "Entrees", Tier 3 "Sides", Tier 4 "Snacks", Tier 5 "Pantry", Tier 6 "Scraps". Use tier numbers in posts; the labels live on the site.
 
+## One long thread per content item (hard)
+
+The owner's rule from Fri Oct 2: every piece of content goes out on X as exactly one thread, and that thread is long and covers the league.
+
+- One thread per content item. The Menu, Market Run, Butcher Shop, Heat Check, Serve or Sit, Prep Notes and Leftovers each get one thread a week. Kitchen Notes gets one thread a day, from the 6:00 PM run. Order Up gets one thread per kickoff window. No side threads, no second thread on the same piece, no separate Thursday night reminder: everything the piece says on X goes in its one thread.
+- An update run that changes a piece whose thread has not posted yet rewrites that thread in place (`tools/fk.py queue add --replace <id>`, same id). Once the thread has posted, an update changes the site only; it never queues a second thread for the same piece.
+- Length: 15 to 25 posts for the weekly series (aim for 20 or more), 10 to 25 for the daily Kitchen Notes thread and for each Order Up window. 25 is X's cap on one thread.
+- Breadth: name as many teams as the piece touches. Aim for every team playing that week. A weekly thread names at least 14 teams, a Kitchen Notes thread at least 8 and an Order Up thread every team in its window. Count by the team hashtags in the thread. Reach the count with real calls, not filler: a team with no headline gets its most useful usage number and its call.
+- Build every thread from everything the kitchen has: the week's piece, the pantry board (`kitchen/pantry/<season>-week-NN.md`, the checked podcast intelligence: ripples, crowd lines, watch items), the kitchen notes for each team, this week's notes items, and the owner's final rankings (`kitchen/rankings/`). Ranks come only from the Menu and the rankings files; facts come only from those sources and confirmed news.
+- Order inside the thread: the biggest call first, then team by team or game by game so a reader can find his team. Each post carries one or two teams (three when it is a ranked list) with each team's hashtag on the last line.
+- `tools/fk.py validate` enforces the length, the team count and the one-thread rule for items created from Fri Oct 2, 5:00 PM ET.
+
 ## X formatting
 
-- Every post that goes out under the kitchen's name is a thread, except replies. That includes the Sunday inactives, the Thursday night reminder and the daily notes: a short thread of 2 or 3 posts is still a thread. Replies are single posts (see the poster playbook).
+- Every post that goes out under the kitchen's name is a thread, except replies. That includes the Sunday inactives and the daily notes. Replies are single posts (see the poster playbook).
 - Every single post is at most 275 characters (count links as 23, hashtags at their real length). The validator enforces this.
 - The hook (post 1) is the pitch: who and what this thread is about in one or two plain sentences, the headline call, then it ends with exactly one of these closers as its last sentence: "Let's dive in." "Let's look into it." "Let's get to it." "Let's get into it." "Let's go." Rotate them; do not use the same closer two threads in a row. No link in the hook. No "a thread" or "1/".
 - Organized: one idea per post, in the order a reader would act on it (the biggest call first, the deeper cuts later). Each post names its player or team plainly (no "he" carried over from the previous post). Rankings posts list one name per line with his rank under a tier line; everything else is one player per line, a sentence or two plus the call (see "One player per line in thread posts").
 - Every post that names a player or a team ends with the official hashtag of each team mentioned in that post, from `kitchen/hashtags.json`, space separated, on their own last line after the text with nothing after them (for example: "... Claim him, 25 to 35 percent." then a line break, then "#PhinsUp"). One hashtag per team, no duplicates in a post, no other hashtags. A post about a whole position (the QB list) carries the hashtags of the teams named, up to five; if more than five teams are named, split the post.
 - The last post of every thread is the close: one line on what is on the site, the follow line ("Follow @handle for the rest of the week's calls, and repost this for your league."), then the deep link to the piece (site URL from `docs/data/site.json`, appended by the queue tool). It needs no hashtag. Links appear nowhere else.
-- Threads: 3 to 10 posts. Single-topic threads (the inactives, a news reaction) are 2 or 3 posts: hook, the facts with the action, the link.
+- Threads: 15 to 25 posts for the weekly series, 10 to 25 for Kitchen Notes and Order Up (see "One long thread per content item"). No 2 or 3 post threads.
 - Replies: 1 to 3 sentences, add a number the original post did not have, the action, then "Follow @handle for more." No hashtags, no link, no closer. Never quote the original. Never argue about rankings for their own sake. Never reply to a reply.
 - Line breaks separate ideas. No trailing questions ("Thoughts?").
 - No links to other creators. The only links are to the kitchen's own site.

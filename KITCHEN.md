@@ -34,7 +34,7 @@ All times Eastern. Nothing posts to X before 10:00 AM ET; `tools/fk.py` enforces
 | Thu 7:52 AM | Serve or Sit (called On the Line through Week 4) | `playbook/on-the-line.md` | 10:25 AM, TNF reminder 6:25 PM |
 | Fri 5:45 PM | Prep Notes (+ Menu refresh) | `playbook/prep-notes.md` | 6:25 PM |
 | Sun 11:36 AM, 3:36 PM | Order Up (FK Kitchen researches and queues; the computer-attached task posts it as soon as it lands) | `playbook/order-up.md` | immediately |
-| Daily 12:12 PM, 7:12 PM | Kitchen Notes | `playbook/kitchen-notes.md` | 1:25 PM, 8:25 PM |
+| Daily 12:00 PM, 6:00 PM (FK Daily; the FK Kitchen Notes task also fires 12:12 and 7:12 PM) | Kitchen Notes: the site at every run, plus the day's one thread from the first run at 5:30 PM ET or later | `playbook/kitchen-notes.md` | 6:25 PM (8:25 PM if late) |
 | 10:25 AM, 1:25, 6:25, 8:25 PM | Poster (computer attached) + reply mode at 1:25 and 8:25 PM | `playbook/poster.md` | n/a |
 
 ## Data flow
@@ -85,4 +85,4 @@ Open `http://localhost:8000/index.html?sample=1` for the layout with sample data
 
 ## Validation
 
-`python3 tools/fk.py validate` runs on every push through GitHub Actions and fails the check when a piece breaks the standards: em dashes, arrows, emoji, analyst names, projected numbers, bot phrasing, missing or incomplete actions, a non-reply that is not a thread, a hook without its closer, a post without its team hashtags or with a hashtag that is not official (`kitchen/hashtags.json`), over-length posts, links anywhere but the last post, a thread or reply that does not end by telling people to follow.
+`python3 tools/fk.py validate` runs on every push through GitHub Actions and fails the check when a piece breaks the standards: em dashes, arrows, emoji, analyst names, projected numbers, bot phrasing, missing or incomplete actions, a non-reply that is not a thread, a thread outside 15 to 25 posts (10 to 25 for Kitchen Notes and Order Up) or naming too few teams, a second thread for the same content item, a Kitchen Notes thread queued before 5:30 PM ET, a hook without its closer, a post without its team hashtags or with a hashtag that is not official (`kitchen/hashtags.json`), over-length posts, links anywhere but the last post, a thread or reply that does not end by telling people to follow.
