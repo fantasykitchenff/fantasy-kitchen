@@ -6,19 +6,42 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-01T23:30:00Z",
+  "updatedAt": "2026-10-02T16:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
       {
-        "at": "2026-10-01T23:30:00Z",
-        "text": "Breece Hall (NYJ) missed Thursday's practice too, his second straight DNP with the quad, and he is week to week. Braelon Allen played every snap after Hall left at DET, and Isaiah Davis has no offensive snap this season. Allen is RB21 for me this week, an RB2 @CHI, and Hall's Friday designation only firms it up.",
-        "url": "https://www.cbssports.com/fantasy/football/news/jets-breece-hall-remains-sidelined-by-quad-injury/",
+        "at": "2026-10-02T16:15:00Z",
+        "player": "Marcus Mariota",
+        "action": "STREAM",
+        "url": "https://www.fantasypros.com/nfl/news/611823/jayden-daniels-elbow-out-week-4.php",
+        "text": "Dan Quinn ruled Jayden Daniels (WAS) out Friday for the London game vs IND; the dislocated left elbow gets a full week of practice before Washington decides on Week 5. Marcus Mariota makes his second straight start after every snap and 3 touchdowns vs SEA. Mariota is QB19 for me, a streamer, and Daniels managers pivot to him or any QB in my top 18."
+      },
+      {
+        "at": "2026-10-02T16:15:00Z",
+        "player": "Rachaad White",
+        "action": "MONITOR",
+        "watch": "Washington's final injury report Friday; an out or doubtful makes Croskey-Merritt the lead back",
+        "url": "https://www.rotoballer.com/player-news/rachaad-white-not-practicing-on-friday/1956029",
+        "text": "Rachaad White (WAS) did not practice Friday in London either, three straight missed sessions with the shoulder he hurt vs SEA. Jacory Croskey-Merritt played 57 percent of the snaps with 19 carries Sunday and has 58 percent of Washington's carries, with Austin Ekeler on the receiving downs. Croskey-Merritt is RB24 for me this week, an RB2. White: monitor Washington's final injury report Friday."
+      },
+      {
+        "at": "2026-10-02T16:15:00Z",
         "player": "Braelon Allen",
         "action": "START",
-        "slot": "RB2"
+        "slot": "RB2",
+        "url": "https://www.yardbarker.com/nfl/articles/jets_rule_out_four_players_for_week_4_including_rb_breece_hall/s1_17039_44378499",
+        "text": "Aaron Glenn ruled Breece Hall (NYJ) out Friday with the quad, along with Adonai Mitchell (finger). Braelon Allen played every snap after Hall left at DET, and Isaiah Davis has no offensive snap this season. Allen is RB21 for me this week, an RB2 @CHI."
+      },
+      {
+        "at": "2026-10-02T16:15:00Z",
+        "player": "Kenyon Sadiq",
+        "action": "MONITOR",
+        "watch": "the Jets' Friday designation; questionable with a full Friday keeps him TE12",
+        "url": "https://www.rotowire.com/football/headlines/mason-taylor-injury-ruled-out-for-week-4-640281",
+        "text": "The Jets ruled Mason Taylor (NYJ) out Friday with the thumb, his second straight missed game. Kenyon Sadiq was limited Wednesday and Thursday with the back; at DET he ran a route on 58 percent of the dropbacks and drew 8 of 37 targets, 7 for 105. He is TE12 for me, a borderline start this week. Monitor Sadiq; the Friday designation."
       },
       {
         "at": "2026-10-01T22:15:00Z",
@@ -176,35 +199,12 @@
         "faab": "2-5%"
       },
       {
-        "player": "Kenyon Sadiq",
-        "action": "MONITOR",
-        "text": "Kenyon Sadiq (NYJ) was limited Wednesday with a back injury, his first listing of the season, while Mason Taylor (thumb) did not practice and Jeremy Ruckert (knee) was limited, so all three tight ends are on the report. At DET he ran a route on 58 percent of the dropbacks and drew 8 of 37 targets, 7 for 105. He is TE12 for me, a borderline start this week, with the flag. Monitor; Thursday and Friday practice lines, then the Friday designation.",
-        "at": "2026-10-01T20:50:00Z",
-        "watch": "Thursday and Friday practice lines and the Friday designation"
-      },
-      {
         "at": "2026-10-01T20:50:00Z",
         "text": "Darren Waller (CAR) led Carolina with 8 targets on 28 routes and 39 of 77 snaps at CLE, 5 catches for 51, with Jalen Coker and Xavier Legette out. Coker (quad) was upgraded to limited Thursday after a Wednesday DNP and a game-time decision is possible; Legette did not practice. Waller is outside the Menu's top 20 tight ends, so this is a streamer's call. Monitor Coker's Friday designation; Waller is a stream vs DET only if Coker is out.",
         "url": "",
         "player": "Darren Waller",
         "action": "MONITOR",
         "watch": "Jalen Coker's Friday designation"
-      },
-      {
-        "at": "2026-10-01T20:50:00Z",
-        "player": "Jayden Daniels",
-        "action": "MONITOR",
-        "url": "https://www.espn.com/nfl/story/_/id/50068247/commanders-jayden-daniels-limited-practice-status-air",
-        "text": "Jayden Daniels (WAS) practiced Thursday in London in a brace on his left, non-throwing elbow, and Dan Quinn says the starter will be settled by Friday; the offensive coordinator called it fluid. Marcus Mariota, every snap and 3 touchdowns vs SEA, is QB19 for me, a streamer, and only if Daniels is ruled out. Monitor Daniels; the Friday decision.",
-        "watch": "Friday's starter decision"
-      },
-      {
-        "at": "2026-10-01T16:45:00Z",
-        "text": "Rachaad White (WAS) did not practice Thursday in London, his second straight missed session with the shoulder he hurt vs SEA, and two DNPs ahead of a Friday designation usually end in doubtful or out. He played 43 percent of the snaps Sunday while Jacory Croskey-Merritt played 57 percent with 19 carries, and Croskey-Merritt has 58 percent of Washington's carries through three games; Austin Ekeler traveled with the team and takes the receiving downs if White sits. Croskey-Merritt is RB24 for me this week, an RB2, and the case gets stronger with White out. White: monitor; Friday's designation.",
-        "url": "",
-        "player": "Rachaad White",
-        "action": "MONITOR",
-        "watch": "Friday's designation from London"
       },
       {
         "at": "2026-10-01T13:45:00Z",
@@ -319,12 +319,6 @@
         "text": "Tre' Harris (LAC) had his best game, 6 of 7 for 76 vs BUF, on his smallest snap share of the season: 58 percent after 75 and 82, because Ladd McConkey came back to 88 percent of the snaps and Quentin Johnston played 87. The targets grew while the role shrank, so he moves from the Market Run adds to the stashes. Stash him, 1 to 3 percent of FAAB; he needs a starter to miss time.",
         "at": "2026-09-30T19:45:00Z",
         "url": ""
-      },
-      {
-        "player": "Braelon Allen",
-        "action": "FLEX",
-        "text": "Breece Hall (NYJ) sat out Wednesday's practice with the quadriceps and is week to week. Braelon Allen played every snap after Hall left at DET, 4 carries for 14 and 3 catches for 3 yards, and Isaiah Davis has no offensive snap this season; Hall's catches went to Garrett Wilson and Sadiq, not to Allen. Flex Allen at CHI, and if Hall is ruled out Friday, start him as a low RB2.",
-        "at": "2026-09-30T19:40:00Z"
       },
       {
         "player": "DK Metcalf",
@@ -471,6 +465,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2105425679474917529"
+    },
+    {
+      "id": "2026w04-notes-thread-5eac",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }
