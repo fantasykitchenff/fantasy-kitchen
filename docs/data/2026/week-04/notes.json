@@ -6,12 +6,58 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-02T22:15:00Z",
+  "updatedAt": "2026-10-02T23:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-02T23:30:00Z",
+        "player": "Keaton Mitchell",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "2-4%",
+        "text": "Keaton Mitchell (LAC) played 38 percent of the snaps in Week 3 with 8 carries for 52, and he is at 5.0 a carry on the season, while Omarion Hampton's snap share has gone 58, 63 and 42 percent. RB46 rest of season for me. Stash Mitchell, 2 to 4 percent of FAAB."
+      },
+      {
+        "at": "2026-10-02T23:30:00Z",
+        "player": "Mike Washington Jr.",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "1-3%",
+        "text": "Mike Washington Jr. (LV) has 15 carries for 102, and his head coach said on Sep 11 and again on Sep 28 that he earned more work. Ashton Jeanty still has 63 of the two backs' 78 carries and 16 targets and is RB9 for me vs KC. Washington is RB43 rest of season for me. Stash him, 1 to 3 percent of FAAB."
+      },
+      {
+        "at": "2026-10-02T23:30:00Z",
+        "player": "David Montgomery",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB2",
+        "text": "Houston's backfield is closer to even than Week 3 said: the snaps were about level in Week 1, 42 to 38 in Week 2 and 34 to 20 in Week 3, and Woody Marks has 8 targets to David Montgomery's (HOU) 7. Montgomery is at 2.8 a carry. RB22 for me this week vs DAL, an RB2; Marks is RB33, a low-end RB3."
+      },
+      {
+        "at": "2026-10-02T23:30:00Z",
+        "player": "Brian Thomas Jr.",
+        "pos": "WR",
+        "action": "SIT",
+        "text": "Brian Thomas Jr. (JAX) was on the field for 23 of 62 snaps vs NE, 13 to 15 routes, and comes off it in two-tight-end sets. He is outside my top 50 receivers this week @CIN; sit him. WR40 rest of season for me."
+      },
+      {
+        "at": "2026-10-02T23:30:00Z",
+        "player": "Isaiah Likely",
+        "pos": "TE",
+        "action": "START",
+        "slot": "TE1",
+        "text": "Isaiah Likely (NYG) has gone 49, 69 and 84 percent of the snaps, with 22 routes on 27 dropbacks in Week 3. TE9 for me this week vs ARI."
+      },
+      {
+        "at": "2026-10-02T23:30:00Z",
+        "player": "Jake Ferguson",
+        "pos": "TE",
+        "action": "SIT",
+        "text": "Jake Ferguson (DAL) has 11 targets on 105 throws, and his snap share has gone 76, 60 and 69 percent while Brevyn Spann-Ford climbed to 38. TE20 for me @HOU, outside my top 12; sit him."
+      },
       {
         "at": "2026-10-02T22:15:00Z",
         "text": "Jakobi Meyers (JAX) was limited Wednesday and Thursday with the thumb he has played through all season and has no designation for Sunday @CIN. He caught 7 for 64 and a touchdown vs NE on 81 percent of the snaps. WR31 for me, a low-end WR3, a low-end flex play.",
@@ -398,47 +444,6 @@
         "text": "Justin Jefferson did not practice Wednesday, and Kyler Murray (MIN) went 15 of 29 for 168 yards with 3 sacks at TB in an offense that scored one touchdown; the defense and special teams won the game. He comes off the Menu's stream line. Sit him vs MIA unless Jefferson practices by Friday.",
         "at": "2026-09-30T19:45:00Z",
         "url": ""
-      },
-      {
-        "player": "Tre' Harris",
-        "action": "STASH",
-        "faab": "1-3%",
-        "text": "Tre' Harris (LAC) had his best game, 6 of 7 for 76 vs BUF, on his smallest snap share of the season: 58 percent after 75 and 82, because Ladd McConkey came back to 88 percent of the snaps and Quentin Johnston played 87. The targets grew while the role shrank, so he moves from the Market Run adds to the stashes. Stash him, 1 to 3 percent of FAAB; he needs a starter to miss time.",
-        "at": "2026-09-30T19:45:00Z",
-        "url": ""
-      },
-      {
-        "player": "DK Metcalf",
-        "action": "FLEX",
-        "text": "DK Metcalf (PIT) had 5 targets vs CIN even with Roman Wilson benched for the second half, and he has 98 yards on 24 targets in three games while Pittsburgh leaned on two tight ends (Darnell Washington 47 of 62 snaps). The targets did not consolidate, so both Menu lists now say the same thing. Flex him at CLE Thursday; he is not a WR3 start.",
-        "at": "2026-09-30T19:40:00Z"
-      },
-      {
-        "player": "Emeka Egbuka",
-        "action": "FLEX",
-        "text": "Emeka Egbuka (TB) has 13 catches for 141 on 20 targets in three games, and his snap share fell from 86 to 74 percent vs MIN while Baker Mayfield was sacked 6 times behind this line; undrafted rookie Jalon Daniels starts vs GB. The Menu's receiver list said start and the flex list said sit; both now say flex. Flex him vs GB, and sit him in 10-team leagues.",
-        "at": "2026-09-30T19:40:00Z"
-      },
-      {
-        "player": "Wan'Dale Robinson",
-        "action": "CLAIM",
-        "faab": "2-5%",
-        "text": "Wan'Dale Robinson (TEN) drew a game-high 11 targets at NYG, 7 for 57 and a touchdown, on 29 routes, 81 percent of the dropbacks. The Heat Check and the Menu said his snaps went from 28 to 38; a second snap source has 36, so both pages now cite the route share instead. Claim him, 2 to 5 percent of FAAB; a PPR flex at BAL if the routes hold.",
-        "at": "2026-09-30T19:40:00Z"
-      },
-      {
-        "at": "2026-09-30T19:35:00Z",
-        "player": "Jayden Reed",
-        "action": "DROP",
-        "url": "",
-        "text": "Matt LaFleur said Wednesday that Jayden Reed (GB) will have neck surgery and miss the rest of 2026, and Reed went on injured reserve the same day. An IR slot buys nothing in a redraft league now, and nobody inherits his job: the third receiver vs ATL was a three-man rotation, Skyy Moore 27 routes, J. Michael Sturdivant 19 and Bo Melton 19 on 55 dropbacks. Drop Reed in every redraft format."
-      },
-      {
-        "at": "2026-09-30T19:35:00Z",
-        "player": "David Montgomery",
-        "action": "FLEX",
-        "url": "",
-        "text": "The Menu had David Montgomery (HOU) as an RB2 start off one game, 34 snaps to Woody Marks' 20 vs IND. Over three games the snaps are close to even: about level in Week 1, 42 to 38 in Week 2, then 34 to 20. Montgomery is at 2.8 yards a carry and has been hit at or behind the line on 68 percent of his runs, the highest rate in the league. Marks has more targets, 8 to 7. Both Menu lists now read the same. Flex Montgomery vs DAL; he is not an RB2 this week."
       }
     ]
   },
@@ -466,6 +471,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2106074399644258665"
+    },
+    {
+      "id": "2026w04-notes-thread-2749",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }
