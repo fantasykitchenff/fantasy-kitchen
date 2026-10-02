@@ -77,6 +77,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Omarion Hampton / Keaton Mitchell / Kimani Vidal: Snap share by week: Hampton 58% (32), 63% (43), 42% (29); Mitchell 31% (17), 25% (17), 38% (26); Vidal 7% (4), 10% (7), 25% (17); FB Alec Ingold 38%, 41%, 45%. Routes through three games: Mitchell 33, Hampton 26 (10, 10, 6), Vidal 21. [pod 9-29, deployment]
 - 2026-09-27: Omarion Hampton: 50 carries for 193 yards (3.9) and 2 touchdowns with 2 lost fumbles through three games (12-43-1, 23-94-1, 15-56); 3 targets all season, a 3.4% share. [pod 9-29, deployment]
 - 2026-09-27: Keaton Mitchell / Kimani Vidal: Over Weeks 2-3 Mitchell ran 22 routes and Vidal 18 to Hampton's 16. Mitchell has 17 carries at 5.0 a carry; at BUF his 3 catches lost 5 yards, including the 1-yard touchdown. Vidal had 1 catch for 14 on 3 targets and 1 carry at BUF. [pod 9-29, deployment]
+- 2026-09-27: Omarion Hampton had 25 touches for 115 yards in Week 2, then 15 carries for 56 and no catch in Week 3. [pod 10-2, deployment]
 
 ## Receivers
 
@@ -111,6 +112,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Tre' Harris: 6 of 7 targets, 76 yards vs BUF in Week 3, all team highs and career highs; ran a route on 27 of 43 dropbacks. 10 of 16 targets for 149 yards through three games. Quentin Johnston ran a route on 37 of 43 dropbacks, 3 of 6 for 40 (reports).
 - 2026-09-27: Tre' Harris: 7 of 33 team targets (21%), 6 for 76, routes on 27 of 43 dropbacks; Quentin Johnston 3 of 6 for 40 on 37 of 43 dropbacks; Ladd McConkey 4 for 66 on 5 targets as a full participant after the rib injury. [pod 9-29, deployment]
 - 2026-09-27: Johnston / Harris / McConkey: Snap share by week: Johnston 78%, 81%, 87% (60 snaps, a season high); Harris 75%, 82%, 58%; McConkey 49%, 46%, 88% (61). Season targets Johnston 17 (6-64-0, 35.3% caught), Harris 16 (10-149-0, 9.3 a target), McConkey 15 (12-183-1). [pod 9-29, deployment]
+- 2026-09-27: Tre Harris: 6 catches for 76 on 7 targets in Week 3; he has led the Chargers in receiving yards two straight games. [pod 10-2, deployment]
 
 ## Tight ends
 
@@ -170,6 +172,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Tyler Biadasz: The Chargers placed newly signed center Biadasz on injured reserve, ending his season. [8-24 embarrased to love players]
 - 2026-09-25: Ladd McConkey: Cracked a rib in Week 1; practiced in full on 9/23 and was left off the final Week 3 injury report, then played 88% of the snaps at BUF. [pod 9-29, official]
 - 2026-09-30: Ladd McConkey: Limited Wednesday with a foot injury, a new listing after the rib (NBC Sports, CBS); Trey Lance (groin) and Derwin James (hamstring) also limited, seven Chargers did not practice.
+- 2026-10-02: Ladd McConkey: limited Wednesday, did not practice Thursday (foot), questionable for Week 4 at SEA. [pod 10-2, official]
 
 ## Other
 

@@ -6,9 +6,9 @@
   "dek": "Jeremiyah Love is a borderline RB1 after one game as the lead, Omarion Hampton is a sit at RB20 until the Menu catches up to his usage, and Jaylen Warren is the Thursday night back.",
   "format": "PPR",
   "publishedAt": "2026-10-01T12:00:00Z",
-  "updatedAt": "2026-10-01T20:50:00Z",
+  "updatedAt": "2026-10-02T21:00:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Thu 4:50 PM ET: Thursday practice lines on the Collins, Addison, Sadiq, Godwin and Young cards, Charbonnet's practice window on the Price card, and Carolina's IR moves were Wednesday, not Tuesday; no lean changes.\n\nUpdated Thu 11:20 AM ET: Dallas announced the Joey Porter Jr. trade Thursday morning and he may debut vs HOU, so the Nico Collins coin flip carries it; the lean does not move. Thursday practice reports were not out at run time; no call changes.\n\nThursday is for the players you are agonizing over. Studs are not on the line. Every call below is the player's rank on this week's [Menu](menu.html?week=4) and the tier it falls in, PPR scoring, and the reader decides. The Menu order itself does not move until Friday's Prep Notes, so where the usage disagrees with a rank, the card says so.\n\nThursday night first: Steelers at Browns carries the lowest total of the week at 38.5, Rico Dowdle is out, and Cleveland's center is out. Then the twelve the week favors, the ten it does not, and six coin flips where a Friday practice report picks the side.",
+  "intro_md": "Updated Fri 5:00 PM ET: Jaylen Wright practiced in full and is listed first in Miami, so Ollie Gordon II is a firm sit at RB35; Nico Collins practiced Friday and is WR11 for me, borderline WR1/WR2; Kenyon Sadiq is questionable with Mason Taylor out and is TE12, a borderline start; Jadarian Price missed Thursday with a chest injury and stays a sit.\n\nUpdated Thu 4:50 PM ET: Thursday practice lines on the Collins, Addison, Sadiq, Godwin and Young cards, Charbonnet's practice window on the Price card, and Carolina's IR moves were Wednesday, not Tuesday; no lean changes.\n\nUpdated Thu 11:20 AM ET: Dallas announced the Joey Porter Jr. trade Thursday morning and he may debut vs HOU, so the Nico Collins coin flip carries it; the lean does not move. Thursday practice reports were not out at run time; no call changes.\n\nThursday is for the players you are agonizing over. Studs are not on the line. Every call below is the player's rank on this week's [Menu](menu.html?week=4) and the tier it falls in, PPR scoring, and the reader decides. The Menu order itself does not move until Friday's Prep Notes, so where the usage disagrees with a rank, the card says so.\n\nThursday night first: Steelers at Browns carries the lowest total of the week at 38.5, Rico Dowdle is out, and Cleveland's center is out. Then the twelve the week favors, the ten it does not, and six coin flips where a Friday practice report picks the side.",
   "outro_md": "Prep Notes reconciles the ranks Friday after the final injury report. Sunday morning, Order Up carries the inactives and the pivots as each window's reports drop.",
   "data": {
     "tnf": [
@@ -223,7 +223,7 @@
         "team": "SEA",
         "pos": "RB",
         "opp": "vs LAC",
-        "why": "6 touches on 19 snaps and 11 routes at WAS, third of the three backs; the fumble came on his third carry and he did not carry again until the third quarter, 2 lost fumbles on 32 touches. Macdonald says the ball keeps coming. Emanuel Wilson and George Holani each played 24 snaps. Seattle opened Zach Charbonnet's practice window Thursday; he is eligible Week 5 and takes the short-yardage and goal-line snaps when active, so the window for Price to earn the job is closing.",
+        "why": "6 touches on 19 snaps and 11 routes at WAS, third of the three backs; the fumble came on his third carry and he did not carry again until the third quarter, 2 lost fumbles on 32 touches. Macdonald says the ball keeps coming. Emanuel Wilson and George Holani each played 24 snaps. He was limited Wednesday and did not practice Thursday with a chest injury. Seattle opened Zach Charbonnet's practice window Thursday; he is eligible Week 5 and takes the short-yardage and goal-line snaps when active, so the window for Price to earn the job is closing.",
         "verdict": "RB30 for me, a high-end RB3 by rank and a sit; the first-quarter carries have to come back before he is a flex play again, and Charbonnet's window makes that a short clock.",
         "action": "SIT"
       },
@@ -290,31 +290,34 @@
         "team": "HOU",
         "pos": "WR",
         "opp": "vs DAL",
-        "why": "Limited on Wednesday and on the field again Thursday, his first two sessions since the hamstring strain that cost him Weeks 2 and 3, and Ryans is hopeful he plays. Dallas has allowed 7 passing touchdowns in three games and lost two defensive backs in Rio. Dallas announced the trade for Joey Porter Jr. Thursday morning; he has not played a snap in 2026 with the back, and a chance he debuts Sunday is a chance, not a cornerback who has practiced with the group. While he was out nobody in the Houston receiver room played 70 percent of the snaps, so the share comes straight back to him if he is active without a cap.",
-        "verdict": "WR15 for me this week, a WR2, with two practices in the book; the lean is to play him and carry a backup until Friday's designation.",
+        "why": "Limited Wednesday and Thursday, then practiced Friday, three straight sessions after the hamstring strain that cost him Weeks 2 and 3. Dallas has allowed 7 passing touchdowns in three games and lost two defensive backs in Rio. Dallas announced the trade for Joey Porter Jr. Thursday morning; he has not played a snap in 2026 with the back, and a chance he debuts Sunday is a chance, not a cornerback who has practiced with the group. While he was out nobody in the Houston receiver room played 70 percent of the snaps, so the share comes straight back to him if he is active without a cap.",
+        "verdict": "WR11 for me this week, borderline WR1/WR2, with three practices in the book; the lean is to play him and check Sunday's inactives.",
         "action": "START",
         "slot": "WR2",
-        "flip_if": "he is questionable Friday or the team talks about a snap count; then he is a flex at best and the backup plays"
+        "flip_if": "he is inactive Sunday or the team talks about a snap count; then he is a flex at best and the backup plays",
+        "watch": "Sunday's inactives"
       },
       {
         "player": "Kenyon Sadiq",
         "team": "NYJ",
         "pos": "TE",
         "opp": "@CHI",
-        "why": "38 snaps (57.6 percent) at DET, a 58 percent route share, 8 of 37 targets and 7 for 105 with a touchdown, 32 percent targets per route. Mason Taylor did not practice Wednesday and is expected to miss a second game; Adonai Mitchell is week to week. Through Week 2 Sadiq's route share was 40 percent. Sadiq himself was limited Wednesday with a back injury, his first listing of the season, so the Thursday and Friday lines matter for him too.",
-        "verdict": "TE16 for me on the Menu, a streamer by rank, and the lean is up over any tight end outside my top 10 while Taylor stays out; the rank moves Friday.",
-        "action": "STREAM",
-        "flip_if": "Mason Taylor practices Thursday or Friday; then Sadiq goes back to a 40 percent route share"
+        "why": "38 snaps (57.6 percent) at DET, a 58 percent route share, 8 of 37 targets and 7 for 105 with a touchdown. Mason Taylor and Adonai Mitchell are ruled out, so the route share should hold. Sadiq himself was limited Wednesday and Thursday with a back injury and is questionable.",
+        "verdict": "TE12 for me, a borderline start this week, and the lean is to play him over any tight end outside my top 10 if he is active.",
+        "action": "START",
+        "flip_if": "he is inactive Sunday; then any streamer in my top 16 plays",
+        "slot": "TE1",
+        "watch": "Sunday's inactives"
       },
       {
         "player": "Ollie Gordon II",
         "team": "MIA",
         "pos": "RB",
         "opp": "@MIN",
-        "why": "61 snaps (84 percent) after Achane left, 17 for 41 and a touchdown plus 3 of 3 for 14; 20 carries for 48 on the season, 2.4 a carry. Jaylen Wright was limited Wednesday with the foot and had been working ahead of Gordon before the injury, and Hafley said every back will have a role. Minnesota has allowed the fewest PPR points to backs, and Miami has scored 13, 13 and 10.",
-        "verdict": "RB33 for me, a low-end RB3, and the lean is sit; 2.4 a carry in an offense that has not reached 14 points, against the defense allowing the fewest to backs.",
+        "why": "Gordon played 82 percent of the snaps vs KC after Achane left, with 17 carries for 41 and a touchdown plus 3 targets on a 58 percent route share; 20 carries for 48 on the season, 2.4 a carry. Jaylen Wright practiced in full Thursday, is expected to play and is listed first on the depth chart, with the staff signaling a shared workload. Minnesota has allowed the fewest PPR points to backs, and Miami has scored 13, 13 and 10.",
+        "verdict": "RB35 for me, a low-end RB3, and the lean is now a firm sit; Wright is back and listed first, so the 82 percent snap share is gone.",
         "action": "SIT",
-        "flip_if": "Wright is ruled out Friday; then Gordon is a low-end flex play on volume alone"
+        "flip_if": "Wright is a surprise inactive Sunday; then Gordon is a low-end flex play on volume alone"
       },
       {
         "player": "Colston Loveland",

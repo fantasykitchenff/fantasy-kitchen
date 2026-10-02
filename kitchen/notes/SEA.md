@@ -92,6 +92,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Jaxon Smith-Njigba: Smith-Njigba set the Seahawks' single-season receiving record and led the NFL in receiving yards in 2025 with a target share near 37% in an offense Klint Kubiak built around him while Arroyo and Horton were hurt. [8-18 WR rankings]
 - 2026-08-18: Rashid Shaheed: Shaheed, acquired midseason in 2025, now has a full offseason and preseason in the Seattle offense, and camp reports on him have been positive. [8-18 WR rankings]
 - 2026-09-29: Jaxon Smith-Njigba leads the NFL with a 37.9% target share (next 33.3%), 36 targets, 27 for 405, 10-128-2 in Week 3; Rashid Shaheed 31 snaps (46%). [pod 9-28, deployment]
+- 2026-09-27: Jaxon Smith-Njigba has 120-plus yards and a TD in each of Weeks 1 to 3 (122, 155, 128). [pod 10-2, deployment]
 
 ## Tight ends
 
@@ -126,6 +127,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Zach Charbonnet: Charbonnet was expected back from injury around Weeks 4-6, on a similar timeline to Jordyn Tyson. [8-23 highstakes draft]
 - 2026-09-24: Zach Charbonnet: PUP (torn ACL in the January playoff at SF), eligible Week 5 at the earliest; Mike Macdonald said the window is not opening this week. [pod 9-29, official]
 - 2026-10-01: Zach Charbonnet: Seattle opened his 21-day practice window off reserve/PUP (torn ACL, January playoff); he must miss the first four games, so Week 5 is the earliest he can play, and the team can activate him any time within the window. [pod 10-1, official]
+- 2026-10-01: Jadarian Price was limited Wednesday and did not practice Thursday (chest); Zach Charbonnet was limited in his first practice back, Week 5 at the earliest. [pod 10-2, official]
 
 ## Other
 

@@ -18,6 +18,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Kevin O'Connell says the lesson from 2025 is to rely on the defense and run better; the staff changed the scheme the day after the season ended to a vertical wide-zone (49ers-style) system to fit its personnel. [8-18 sleeper picks]
 - 2026-08-22: Jordan Mason: Minnesota's run game is being retooled toward outside zone, the concept Mason broke out in with San Francisco; he projects as the early-down and goal-line back with Kyler Murray at quarterback. [8-22 10 players we cant stop drafting]
 - 2026-08-24: Kevin O'Connell installed a vertical wide-zone run scheme this offseason modeled on San Francisco's and hired Frank Smith from Miami; he has said the team must commit more to the run game. [8-24 adp adjustments]
+- 2026-09-28: Minnesota is last in the league at 238.3 yards a game with a minus-244 yard margin, the second worst for a 3-0 team; its Week 3 success rate was the lowest of the O'Connell era. [pod 10-1, aggregation]
 
 ## Quarterback
 
@@ -123,6 +124,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-15: T.J. Hockenson: He is 29 and two years removed from his ACL; he is the third option behind Jefferson and Addison, and Kyler Murray supported a top fantasy tight end in Arizona. [8-15 talk with injury expert]
 - 2026-09-28: Josh Oliver: Torn biceps, surgery, likely out for the season (reports).
 - 2026-09-30: Josh Oliver placed on IR Tuesday 9/29 (torn biceps); T.J. Hockenson and Gavin Bartholomew are the only tight ends on the roster. Hockenson ran a route on 29 of 37 dropbacks vs TB in Week 3, 2 of 4 targets for 11 yards. Vikings signed RBs Devin Neal and Audric Estime to the practice squad (team, reports).
+- 2026-09-27: T.J. Hockenson caught 2 of 4 targets for 11 at TB. [pod 10-1, deployment]
 
 ## Offensive line
 
@@ -144,6 +146,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Justin Jefferson: not seen in the open portion of Thursday practice after a Wednesday DNP (ankle sprain); no game designation until Friday. [pod 10-1, beat]
 - 2026-09-16: Jordan Mason: on IR since 9/16 with a fractured thumb; misses Weeks 2-5, Minnesota's bye is Week 6, first eligible Week 7 vs IND. [pod 9-30, official]
 - 2026-10-01: Justin Jefferson: officially did not practice Thursday, second straight DNP with the ankle sprain (official report).
+- 2026-10-02: Justin Jefferson (ankle) did not practice all week and is out vs MIA; Kevin O'Connell still calls him day to day. [pod 10-2, official]
 
 ## Other
 

@@ -173,6 +173,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-25: Jayden Daniels: Dislocated left elbow late in the first half of Week 2 at DAL; the team ruled out surgery and injured reserve and lists him week to week. He dislocated the same elbow in 2025 and re-aggravated it in his first game back. [pod 9-29, official]
 - 2026-10-01: Rachaad White (shoulder) did not practice Thursday in London, his second straight DNP; Jacory Croskey-Merritt has 58% of the team's carries through three games, and Austin Ekeler traveled with the team (reports).
 - 2026-10-02: Jayden Daniels ruled out Friday for Week 4 vs IND in London (dislocated left elbow); Dan Quinn will assess next week after a full week of practice. Marcus Mariota makes his second straight start. Rachaad White (shoulder) did not practice Friday, three straight DNPs (NFL.com, FantasyPros, Rotoballer).
+- 2026-10-02: Rachaad White (shoulder) did not practice all week and is out for Week 4; Terry McLaurin (hamstring) was a new listing Friday, limited, and is questionable; Chig Okonkwo (hamstring) was limited all week and has no designation after missing Weeks 2 and 3; guard Sam Cosmi is out. [pod 10-2, official]
 
 ## Other
 

@@ -29,6 +29,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Drew Allar: Rookie Drew Allar had a big preseason debut behind Aaron Rodgers. [8-16 preseason week 1 recap]
 - 2026-08-20: Aaron Rodgers: Aaron Rodgers no longer helps the line as much as he used to. [8-20 Offensive Line Rankings]
 - 2026-09-27: Aaron Rodgers: 19 of 34 for 292 yards, 3 TD, 1 INT vs CIN with completions of 47, 38 and 23 yards; he was 0 for 9 on throws of 20-plus yards in Weeks 1-2, when the offense averaged a league-worst 3.8 yards a play. Week 3: 411 yards on 59 plays (7.0). [pod 9-29, deployment]
+- 2026-10-01: Aaron Rodgers: 22 of 40 for 299, 3 TD, 2 INT and 5 sacks at CLE, after 292 yards and 3 TD in Week 3. [pod 10-2, deployment]
 
 ## Backfield
 
@@ -56,6 +57,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jaylen Warren 17 for 127 and 3 catches for 49, 20 touches, 90% snaps with Rico Dowdle (right toe) inactive; Dowdle did not practice Tuesday 9/29 and is likely out Thursday vs CLE unless he practices Wednesday. [pod 9-28, deployment]
 - 2026-09-30: Rico Dowdle (toe) did not practice Monday (an estimated line from the walkthrough) or Tuesday on the Week 4 report, and no Wednesday line had posted when checked Wednesday afternoon (an earlier line called the Monday report Wednesday's and counted three DNPs, corrected 9/30); Jalen Ramsey (wrist) and Brandin Echols (concussion) estimated limited, Joey Porter Jr. full (team report).
 - 2026-10-01: Jaylen Warren 17 carries for 93 at CLE with Rico Dowdle (toe) inactive; PIT lost 27-24 in the snow (Yahoo, Steelers.com).
+- 2026-10-01: Jaylen Warren: 97% of the snaps and 126 scrimmage yards at CLE with Rico Dowdle out, including 3 catches for 33 on 6 targets. [pod 10-2, deployment]
 
 ## Receivers
 
@@ -79,6 +81,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Roman Wilson: 3 of 6 targets, 60 yards and a 38-yard TD in Week 3 vs CIN; exactly 6 targets in each of the first three games; snap share fell to 38.7 percent (reports).
 - 2026-09-27: Roman Wilson 3 of 6 for 60 with a 38-yard touchdown, 39% snaps; benched in the second half after a drop that became an interception, 2 snaps after halftime. [pod 9-28, deployment]
 - 2026-09-27: DK Metcalf: 24 targets in three games (10, 9, 5) for 98 yards and 1 TD, about 4.1 yards a target; Roman Wilson 18 targets (6 each week) for 114 and a TD; Pat Freiermuth 14 (5, 5, 4) for 108 and a TD. [pod 9-29, deployment]
+- 2026-10-01: DK Metcalf: 5 catches for 115 on 9 targets (23%) at CLE, 87% of the routes; his targets by week are 10, 9, 5 and 9. [pod 10-2, deployment]
+- 2026-10-01: Roman Wilson: 3 catches for 74 and a 12-yard TD on 6 targets at CLE, on only 30% of the snaps and 40% of the routes. [pod 10-2, deployment]
+- 2026-10-01: Michael Pittman Jr.: 2 catches for 15 on 4 targets at CLE, 60% of the routes; a national report has him managing a plantar fascia flare-up. [pod 10-2, deployment]
 
 ## Tight ends
 

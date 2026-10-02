@@ -82,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Bhayshul Tuten: With Travis Etienne gone, Tuten and Chris Rodriguez are the goal-line candidates; Tuten had a strong receiving season as a junior at Virginia Tech. [8-24 QB Rankings]
 - 2026-09-27: Bhayshul Tuten 15 for 73 and a touchdown plus 2 catches for 17; Chris Rodriguez Jr. a 5-yard touchdown; JAX 35, NE 6. [pod 9-28, deployment]
 - 2026-09-27: Bhayshul Tuten: Between 48.4% and 50.0% of the snaps in each of the first three games; 43 carries for 204 and 2 TDs (15-66, 13-65-1, 15-73-1). Vs NE: 49% of snaps and 15 of 26 RB carries; Chris Rodriguez Jr. 24% and 8 for 37 with a 5-yard TD; LeQuint Allen 18% with all of the two-minute snaps; Ameer Abdullah 4 snaps. [pod 9-29, deployment]
+- 2026-09-27: Bhayshul Tuten: 15 carries for 73 and a TD, 2 targets, 8 routes, 48% of the snaps vs NE. [pod 10-1, deployment]
 
 ## Receivers
 
@@ -137,6 +138,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Brian Thomas Jr.: Ran 13 to 15 routes (44 to 47% of dropbacks, depending on the charting source) on 23 snaps vs NE; he was on 76.7% of the 11-personnel snaps and off the field in 12 personnel. Season: 50 routes, 13 targets (3, 9, 1), 7 catches for 88, no TDs. [pod 9-29, deployment]
 - 2026-09-27: Jakobi Meyers: Targets 2, 1 and 8 in Weeks 1 to 3; 10 catches on 11 targets for 132 and 2 TDs; team-high 75 routes (Parker Washington 73 with 23 targets). Washington was 3 for 40 and a TD on 5 targets vs NE. [pod 9-29, deployment]
 - 2026-09-27: Travis Hunter: Played 5 offensive snaps with no target for a second straight game; 45 defensive snaps (71%) with his first career interception. [pod 9-29, deployment]
+- 2026-09-27: Josh Cameron and Brian Thomas Jr. played 23 snaps each vs NE. [pod 10-1, deployment]
 
 ## Tight ends
 

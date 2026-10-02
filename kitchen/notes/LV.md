@@ -121,6 +121,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Brock Bowers: 13 of 30 team targets (43%), 10 for 116 and a touchdown in his season debut, 75% snaps, 95% route participation. [pod 9-28, deployment]
 - 2026-09-27: Brock Bowers: Week 3 alignment: 45 of 55 snaps in the slot or out wide, 9 inline, 1 in the backfield; routes 15 slot, 9 wide, 8 inline, 1 backfield. 55 snaps is 79% of the offense. 40.2% of the air yards, 3 red-zone targets, a 4-yard touchdown. [pod 9-29, deployment]
 - 2026-09-27: Michael Mayer: 61 snaps (87%) at NO, 29 routes (about 74%), 3 targets; the Raiders played 52 two-tight-end snaps, with Ian Thomas in on 9 of them. [pod 9-29, deployment]
+- 2026-09-27: Brock Bowers ran 35 routes on 92% of the dropbacks and drew 13 targets in his first game back. [pod 10-2, deployment]
 
 ## Offensive line
 
@@ -159,6 +160,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Jack Bech: broken left forearm, placed on IR, minimum four weeks, not season-ending per Klint Kubiak. [pod 9-28, official]
 - 2026-09-29: Ashton Jeanty: A Raiders beat site reported extra taping on his ankle during the game at NO and that he tweaked the ankle in the second half of Week 1; he visited the trainers at NO and finished with 19 carries. No official listing found. [pod 9-29, beat]
 - 2026-09-30: Ashton Jeanty: On the Wednesday report with an ankle, full participation (team report).
+- 2026-10-01: Ashton Jeanty practiced in full Wednesday and Thursday; local radio said on 9/29 that he is not 100%. [pod 10-2, official]
 
 ## Other
 

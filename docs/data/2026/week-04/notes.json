@@ -6,12 +6,155 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-02T16:15:00Z",
+  "updatedAt": "2026-10-02T21:00:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Justin Jefferson",
+        "action": "PIVOT",
+        "to": "Jordan Addison",
+        "text": "Minnesota ruled Justin Jefferson (MIN) out vs MIA Friday after he missed every practice with the ankle sprain; Kevin O'Connell still calls him day to day. Jordan Addison drew 9 of Kyler Murray's 29 throws at TB and is WR29 for me this week, a high-end WR3. Pivot to Addison.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "DeVonta Smith",
+        "action": "PIVOT",
+        "to": "Dontayvion Wicks",
+        "text": "Philadelphia ruled DeVonta Smith (PHI) out vs LAR after three missed practices with the hamstring, and league sources expect him to miss two to three games. Dontayvion Wicks ran 81 percent of the routes at CHI and is WR40 for me, a low-end flex play to a dart throw. Pivot to Wicks in deep leagues.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Dallas Goedert",
+        "action": "PIVOT",
+        "to": "Juwan Johnson",
+        "text": "Dallas Goedert (PHI) is ruled out vs LAR with the sprained MCL, along with Hollywood Brown, so Mundt and Ertz split the tight end snaps. Juwan Johnson is TE7 for me this week. Pivot to Johnson.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Ollie Gordon II",
+        "action": "SIT",
+        "text": "Jaylen Wright (MIA) practiced in full Thursday, is expected to play at MIN and is listed first on the depth chart, with the staff signaling a shared workload. Ollie Gordon II played 82 percent of the snaps vs KC with Wright out. Gordon is RB35 for me, a low-end RB3; sit him.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Jaylen Wright",
+        "action": "STASH",
+        "faab": "5-10%",
+        "text": "Jaylen Wright (MIA) is back at full practice and listed as Miami's RB1 for Sunday at MIN, ahead of Ollie Gordon II, in a split the staff has already signaled. Stash him, 5 to 10 percent of FAAB, until the first-quarter carries show the lead role.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Terry McLaurin",
+        "action": "MONITOR",
+        "watch": "Washington's inactives Sunday morning ET in London",
+        "text": "Terry McLaurin (WAS) is a new hamstring listing Friday, limited and questionable for London vs IND with Marcus Mariota at quarterback. He is WR26 for me if active, a high-end WR3. Monitor Washington's inactives Sunday morning ET and have Stefon Diggs or a backup ready.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Keenan Allen",
+        "action": "MONITOR",
+        "watch": "Indianapolis inactives Sunday morning ET in London",
+        "text": "Keenan Allen (IND) is questionable (rest, groin) for London vs WAS after 20 targets in three games with Alec Pierce on IR. He is WR33 for me if active, a low-end WR3. Monitor the inactives Sunday morning ET.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Ladd McConkey",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives at SEA",
+        "text": "Ladd McConkey (LAC) did not practice Thursday after a limited Wednesday with the foot and is questionable @SEA. He is WR24 for me if active, a WR2. Monitor Sunday's inactives and have a backup ready.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Bucky Irving",
+        "action": "START",
+        "slot": "RB2",
+        "text": "Bucky Irving (TB) practiced in full Friday after two limited days with the glute and has no designation. RB19 for me this week vs GB, an RB2.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Puka Nacua",
+        "action": "START",
+        "slot": "WR2",
+        "text": "Puka Nacua (LAR) has no designation for Sunday @PHI, though Sean McVay said his snaps may be limited in his first game since Week 1. WR13 for me, borderline WR1/WR2 this week.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Nico Collins",
+        "action": "START",
+        "slot": "WR1",
+        "text": "Nico Collins (HOU) practiced Friday after limited sessions Wednesday and Thursday with the hamstring. WR11 for me, borderline WR1/WR2 this week vs DAL.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Kenyon Sadiq",
+        "action": "START",
+        "slot": "TE1",
+        "text": "Kenyon Sadiq (NYJ) is questionable @CHI with the back after limited practices Wednesday and Thursday, and Mason Taylor and Adonai Mitchell are out. He ran 58 percent of the routes at DET. TE12 for me, a borderline start this week if he is active.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Darren Waller",
+        "action": "MONITOR",
+        "watch": "Carolina's inactives Sunday night",
+        "text": "Jalen Coker (CAR) is questionable with the quad after limited practices Thursday and Friday. Darren Waller's snap share has gone 35, 44 and 51 percent with a team-high 8 targets in Week 3. Waller is TE17 for me; monitor Carolina's inactives Sunday night and stream him vs DET if Coker sits.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Tyler Higbee",
+        "action": "STREAM",
+        "text": "Terrance Ferguson (LAR) is ruled out with the ankle and Colby Parkinson is questionable, not out. Tyler Higbee caught 8 of 11 targets at DEN once Ferguson got hurt. Stream Higbee @PHI and check Parkinson's status at Sunday's inactives.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Jadarian Price",
+        "action": "SIT",
+        "text": "Jadarian Price (SEA) was limited Wednesday and did not practice Thursday with a chest injury, after 6 touches on 19 snaps at WAS. RB30 for me by rank, a high-end RB3, but sit him.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Tony Pollard",
+        "action": "FLEX",
+        "text": "Tony Pollard (TEN) has no designation for Sunday at BAL and Tyjae Spears (ankle) is questionable. Pollard played 53 percent of the snaps with 80 percent of the early downs. RB28 for me, a high-end RB3, a high-end flex play.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "D'Andre Swift",
+        "action": "START",
+        "slot": "RB2",
+        "text": "D'Andre Swift (CHI) missed Thursday with the knee, practiced in full Friday and has no designation; Kyle Monangai stays the change of pace. Swift is RB16 for me this week vs NYJ, an RB2.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Jacory Croskey-Merritt",
+        "action": "START",
+        "slot": "RB2",
+        "text": "Washington ruled Rachaad White (WAS) out for London after he missed every practice with the shoulder. Jacory Croskey-Merritt played 57 percent of the snaps with 19 carries vs SEA, with Austin Ekeler on passing downs. Croskey-Merritt is RB24 for me this week, an RB2.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Carnell Tate",
+        "action": "TRADE_FOR",
+        "price": "a bench WR",
+        "text": "Carnell Tate (TEN) ran a route on 92 percent of the dropbacks and drew 9 targets, 26 percent, vs NYG, the full-time role next to Wan'Dale Robinson. WR34 rest of season for me. Trade for him; offer a bench WR.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Denzel Boston",
+        "action": "TRADE_FOR",
+        "price": "a bench WR",
+        "text": "Denzel Boston (CLE) played 95 percent of the snaps and ran 92 percent of the routes vs PIT, 4 for 89 on 7 targets, and has 52 percent of Cleveland's air yards this season. WR46 rest of season for me. Trade for him; offer a bench WR.",
+        "at": "2026-10-02T21:00:00Z"
+      },
+      {
+        "player": "Roman Wilson",
+        "action": "MONITOR",
+        "watch": "his route share in Week 5",
+        "text": "Roman Wilson (PIT) scored on 3 catches for 74 at CLE, but he played 30 percent of the snaps and ran 40 percent of the routes. WR104 rest of season for me; do not chase the touchdown. Monitor his route share in Week 5.",
+        "at": "2026-10-02T21:00:00Z"
+      },
       {
         "at": "2026-10-02T16:15:00Z",
         "player": "Marcus Mariota",
@@ -21,27 +164,11 @@
       },
       {
         "at": "2026-10-02T16:15:00Z",
-        "player": "Rachaad White",
-        "action": "MONITOR",
-        "watch": "Washington's final injury report Friday; an out or doubtful makes Croskey-Merritt the lead back",
-        "url": "https://www.rotoballer.com/player-news/rachaad-white-not-practicing-on-friday/1956029",
-        "text": "Rachaad White (WAS) did not practice Friday in London either, three straight missed sessions with the shoulder he hurt vs SEA. Jacory Croskey-Merritt played 57 percent of the snaps with 19 carries Sunday and has 58 percent of Washington's carries, with Austin Ekeler on the receiving downs. Croskey-Merritt is RB24 for me this week, an RB2. White: monitor Washington's final injury report Friday."
-      },
-      {
-        "at": "2026-10-02T16:15:00Z",
         "player": "Braelon Allen",
         "action": "START",
         "slot": "RB2",
         "url": "https://www.yardbarker.com/nfl/articles/jets_rule_out_four_players_for_week_4_including_rb_breece_hall/s1_17039_44378499",
         "text": "Aaron Glenn ruled Breece Hall (NYJ) out Friday with the quad, along with Adonai Mitchell (finger). Braelon Allen played every snap after Hall left at DET, and Isaiah Davis has no offensive snap this season. Allen is RB21 for me this week, an RB2 @CHI."
-      },
-      {
-        "at": "2026-10-02T16:15:00Z",
-        "player": "Kenyon Sadiq",
-        "action": "MONITOR",
-        "watch": "the Jets' Friday designation; questionable with a full Friday keeps him TE12",
-        "url": "https://www.rotowire.com/football/headlines/mason-taylor-injury-ruled-out-for-week-4-640281",
-        "text": "The Jets ruled Mason Taylor (NYJ) out Friday with the thumb, his second straight missed game. Kenyon Sadiq was limited Wednesday and Thursday with the back; at DET he ran a route on 58 percent of the dropbacks and drew 8 of 37 targets, 7 for 105. He is TE12 for me, a borderline start this week. Monitor Sadiq; the Friday designation."
       },
       {
         "at": "2026-10-01T22:15:00Z",
@@ -67,35 +194,12 @@
         "watch": "Friday's practice line and designation"
       },
       {
-        "player": "Justin Jefferson",
-        "action": "MONITOR",
-        "text": "Justin Jefferson (MIN) was officially a non-participant Thursday, his second straight missed practice with the ankle sprain; Friday is his last chance before a designation vs MIA. When he left at TB the targets went to Jordan Addison first, 9 of Kyler Murray's 29 attempts, 5 for 90 and a touchdown. Addison is WR31 for me, a low-end WR3, a low-end flex play, with more room if Jefferson sits. Monitor Jefferson; Friday practice and the designation.",
-        "at": "2026-10-01T22:15:00Z",
-        "url": "https://www.fantasypros.com/nfl/news/611757/justin-jefferson-ankle-officially-doesnt-practice-thursday.php",
-        "watch": "Friday practice and the game designation"
-      },
-      {
-        "player": "Tony Pollard",
-        "action": "FLEX",
-        "text": "Tony Pollard (TEN) practiced in full Thursday after a Wednesday DNP with the foot, while Tyjae Spears (ankle) was limited. Pollard had 53 percent of the snaps and 80 percent of the early downs at NYG with no third-down snap. His flag comes off. RB28 for me, a high-end RB3, a flex play @BAL.",
-        "at": "2026-10-01T22:15:00Z",
-        "url": "https://www.tennesseetitans.com/news/quick-hits-on-the-titans-from-thursday-of-ravens-week-x7922"
-      },
-      {
         "at": "2026-10-01T22:15:00Z",
         "text": "DJ Moore (BUF) was limited Wednesday and Thursday with the shoulder, the same as last week, when he played and drew a team-high 10 targets, 6 for 67, on 64 percent of the snaps vs LAC. The Menu rows keep the flag. WR24 for me this week, a WR2 vs NE.",
         "url": "",
         "player": "DJ Moore",
         "action": "START",
         "slot": "WR2"
-      },
-      {
-        "at": "2026-10-01T22:15:00Z",
-        "player": "Bucky Irving",
-        "action": "MONITOR",
-        "watch": "Friday practice line and designation",
-        "text": "Bucky Irving (TB) was limited again Thursday with the glute he hurt on the last two drives vs MIN. He is RB19 for me this week, an RB2, with a rookie quarterback handing off vs GB. Monitor; Friday's practice line and designation, and have a backup ready.",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-30/bucky-irving-glute-limited-to-begin-week-4"
       },
       {
         "at": "2026-10-01T22:15:00Z",
@@ -106,11 +210,12 @@
         "slot": "WR2"
       },
       {
-        "player": "Tyjae Spears",
-        "action": "MONITOR",
-        "watch": "Friday practice line and designation",
-        "text": "Tyjae Spears (TEN) was limited Thursday after a Wednesday DNP with the ankle; last week he did not practice until Friday. He runs more routes than Tony Pollard and owns the third downs when active. Monitor Spears; Friday's practice line and designation.",
-        "at": "2026-10-01T22:15:00Z"
+        "at": "2026-10-01T20:50:00Z",
+        "player": "Jadarian Price",
+        "action": "TRADE_AWAY",
+        "price": "a flex-level receiver, or a bench back with a clearer path",
+        "url": "line.html?week=4",
+        "text": "Seattle opened Zach Charbonnet's 21-day practice window Thursday; he must sit the first four games, so Week 5 is the earliest he plays, and he takes the short-yardage, goal-line and pass-protection snaps when active. Jadarian Price (SEA) had 6 touches on 19 snaps at WAS, third of the three backs, with 2 lost fumbles on 32 touches. RB30 for me, a high-end RB3 by rank and a sit vs LAC. Trade him away now; ask for a flex-level receiver."
       },
       {
         "at": "2026-10-01T20:50:00Z",
@@ -119,14 +224,6 @@
         "slot": "WR1",
         "url": "",
         "text": "Christian Watson (GB) was not on Wednesday's injury report and was not mentioned Thursday, so the hamstring listing after Week 3 did not carry into Week 4. He has 24 percent of the targets, 80 percent of the routes and a touchdown in every game, and Jayden Reed is on IR. WR11 for me, borderline WR1/WR2 this week at TB."
-      },
-      {
-        "at": "2026-10-01T20:50:00Z",
-        "player": "Jadarian Price",
-        "action": "TRADE_AWAY",
-        "price": "a flex-level receiver, or a bench back with a clearer path",
-        "url": "line.html?week=4",
-        "text": "Seattle opened Zach Charbonnet's 21-day practice window Thursday; he must sit the first four games, so Week 5 is the earliest he plays, and he takes the short-yardage, goal-line and pass-protection snaps when active. Jadarian Price (SEA) had 6 touches on 19 snaps at WAS, third of the three backs, with 2 lost fumbles on 32 touches. RB30 for me, a high-end RB3 by rank and a sit vs LAC. Trade him away now; ask for a flex-level receiver."
       },
       {
         "at": "2026-10-01T20:50:00Z",
@@ -160,30 +257,6 @@
         "text": "Both of Green Bay's starting guards, Aaron Banks (knee, toe) and Jacob Monk (quad), missed Wednesday and Thursday, and the two veterans signed this week, Laken Tomlinson and Kevin Zeitler, took the first-team work Thursday with Mekhi Becton on the practice squad. Jordan Love (GB) has been hit 20 times in three games on a league-low 2.4 seconds to throw, and the run game is last in the league at 48.7 yards a game, so the volume (124 attempts) stays. QB12 for me, a borderline start this week at TB."
       },
       {
-        "at": "2026-10-01T20:50:00Z",
-        "text": "DeVonta Smith (PHI) did not practice Thursday, his second straight DNP with the hamstring, the same arc as last week when he missed Wednesday and Thursday, went limited Friday and played every snap at CHI. He has 33 percent of the targets on the season and is WR10 on the Menu with the flag. If he sits, Dontayvion Wicks is WR42 for me, a low-end flex play to a dart throw. Monitor; a limited or full Friday means he plays.",
-        "url": "",
-        "player": "DeVonta Smith",
-        "action": "MONITOR",
-        "watch": "Friday practice line and the designation"
-      },
-      {
-        "at": "2026-10-01T20:50:00Z",
-        "text": "Dallas Goedert (PHI) did not practice Wednesday or Thursday with the sprained MCL, still week to week with no timeline and no IR move. Johnny Mundt (26 snaps, 10 routes) and Zach Ertz (19 snaps, 11 routes) split the job at CHI and neither drew more than 2 targets, so neither is a play. He stays off the Menu with Juwan Johnson as the pivot. Monitor; Friday's designation.",
-        "url": "",
-        "player": "Dallas Goedert",
-        "action": "MONITOR",
-        "watch": "Friday's designation; an out keeps the Juwan Johnson pivot"
-      },
-      {
-        "at": "2026-10-01T20:50:00Z",
-        "text": "Nico Collins (HOU) practiced again Thursday after a limited Wednesday, his first two sessions since the hamstring strain that cost him Weeks 2 and 3, and he is trending toward playing vs DAL. While he was out nobody in the receiver room played 70 percent of the snaps, so the share comes back to him whole. WR12 for me, borderline WR1/WR2 this week, and the flag stays until Friday's designation; carry a backup.",
-        "url": "line.html?week=4",
-        "player": "Nico Collins",
-        "action": "START",
-        "slot": "WR1"
-      },
-      {
         "player": "Chris Godwin",
         "action": "SIT",
         "text": "Chris Godwin (TB) returned to practice Thursday after sitting out Wednesday with the ankle; the participation level was not posted. He had slipped to 62 percent of the snaps vs MIN, third among the receivers behind Ted Hurst III, 3 for 25, and he has 10 catches for 111 on the season. WR57 for me, a dart throw; sit him for any receiver inside my top 36 whether or not he plays.",
@@ -199,14 +272,6 @@
         "faab": "2-5%"
       },
       {
-        "at": "2026-10-01T20:50:00Z",
-        "text": "Darren Waller (CAR) led Carolina with 8 targets on 28 routes and 39 of 77 snaps at CLE, 5 catches for 51, with Jalen Coker and Xavier Legette out. Coker (quad) was upgraded to limited Thursday after a Wednesday DNP and a game-time decision is possible; Legette did not practice. Waller is outside the Menu's top 20 tight ends, so this is a streamer's call. Monitor Coker's Friday designation; Waller is a stream vs DET only if Coker is out.",
-        "url": "",
-        "player": "Darren Waller",
-        "action": "MONITOR",
-        "watch": "Jalen Coker's Friday designation"
-      },
-      {
         "at": "2026-10-01T13:45:00Z",
         "text": "The London forecast for IND at WAS (Sunday 9:30 AM ET) has moved from a 90 percent chance of rain on Wednesday to mostly dry, high 60s, wind under 10 miles an hour, by Thursday morning. Josh Downs (IND) has 3, 9 and 11 targets since Alec Pierce went on IR, and he is WR17 for me this week, a WR2; the call was the targets, not the weather. Tyler Warren is TE4 for me.",
         "url": "",
@@ -216,26 +281,10 @@
       },
       {
         "at": "2026-09-30T23:30:00Z",
-        "text": "Ladd McConkey (LAC) was limited Wednesday with a foot injury, a new listing; the cracked rib held him to 49 and 46 percent of the snaps in Weeks 1 and 2 before he played 88 percent at BUF, 4 of 5 for 66. The Menu row now carries the flag and he stays WR20. Start him as a WR2 at SEA if Thursday's line says limited or full, and have a backup ready for Friday's designation.",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-30/ladd-mcconkey-foot-limited-in-wednesday-practice",
-        "player": "Ladd McConkey",
-        "action": "START",
-        "slot": "WR2"
-      },
-      {
-        "at": "2026-09-30T23:30:00Z",
         "text": "Cleveland ruled center Elgton Jenkins (concussion) out for Thursday night vs PIT, so Luke Wypler starts in the middle, and Tylan Wallace (knee) and guard Teven Jenkins (back) are out too. Quinshon Judkins (CLE) has 42 carries for 124 yards, 3.0 a carry, with no touchdown, and ran 11 routes to Raheim Sanders' 16 last week. Flex Judkins vs PIT; he is not an RB2 behind that line.",
         "url": "https://www.clevelandbrowns.com/news/elgton-jenkins-out-for-week-4-against-the-steelers-injury-report",
         "player": "Quinshon Judkins",
         "action": "FLEX"
-      },
-      {
-        "at": "2026-09-30T22:20:00Z",
-        "player": "Puka Nacua",
-        "action": "MONITOR",
-        "watch": "Thursday and Friday practice lines and the Friday designation",
-        "text": "Puka Nacua (LAR) practiced Wednesday as a limited participant, his first session in about two weeks with the groin, and Sean McVay said he expects him to play at PHI. Davante Adams drew 13 targets at DEN without him. Nacua is not on the Menu; the Friday run ranks him if he practices Thursday. Monitor; Thursday's and Friday's practice lines and the Friday designation.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/rams-expect-puka-nacua-to-play-in-week-4"
       },
       {
         "at": "2026-09-30T22:20:00Z",
@@ -305,14 +354,6 @@
         "url": ""
       },
       {
-        "player": "Jaylen Wright",
-        "action": "STASH",
-        "faab": "5-10%",
-        "text": "Jaylen Wright (MIA) was limited at Wednesday's practice with the foot after sitting out Week 3, and he had been working ahead of Ollie Gordon II before he was hurt. Jeff Hafley says every back will have a role. Wright has 3 carries this season. Stash him, 5 to 10 percent of FAAB; Thursday and Friday decide whether he is back in the split at MIN.",
-        "at": "2026-09-30T19:45:00Z",
-        "url": ""
-      },
-      {
         "player": "Tre' Harris",
         "action": "STASH",
         "faab": "1-3%",
@@ -324,12 +365,6 @@
         "player": "DK Metcalf",
         "action": "FLEX",
         "text": "DK Metcalf (PIT) had 5 targets vs CIN even with Roman Wilson benched for the second half, and he has 98 yards on 24 targets in three games while Pittsburgh leaned on two tight ends (Darnell Washington 47 of 62 snaps). The targets did not consolidate, so both Menu lists now say the same thing. Flex him at CLE Thursday; he is not a WR3 start.",
-        "at": "2026-09-30T19:40:00Z"
-      },
-      {
-        "player": "Jadarian Price",
-        "action": "SIT",
-        "text": "Jadarian Price (SEA) had 6 touches on 19 snaps and 11 routes at WAS, third of the three backs in carries and routes, and his fumble came on his third carry with no carry again until the third quarter; he has 2 lost fumbles on 32 touches. Mike Macdonald said Monday the team keeps giving him the ball, but the usage does not support a flex yet. Sit him vs LAC until the first-quarter carries come back.",
         "at": "2026-09-30T19:40:00Z"
       },
       {
@@ -351,14 +386,6 @@
         "action": "DROP",
         "url": "",
         "text": "Matt LaFleur said Wednesday that Jayden Reed (GB) will have neck surgery and miss the rest of 2026, and Reed went on injured reserve the same day. An IR slot buys nothing in a redraft league now, and nobody inherits his job: the third receiver vs ATL was a three-man rotation, Skyy Moore 27 routes, J. Michael Sturdivant 19 and Bo Melton 19 on 55 dropbacks. Drop Reed in every redraft format."
-      },
-      {
-        "at": "2026-09-30T19:35:00Z",
-        "player": "Nico Collins",
-        "action": "MONITOR",
-        "watch": "Thursday's practice and Friday's designation",
-        "url": "",
-        "text": "Nico Collins (HOU) practiced Wednesday as a limited participant, his first session since the hamstring strain that cost him Weeks 2 and 3, and DeMeco Ryans is hopeful he plays vs DAL. He stays WR15 on the Menu with the Q flag, and Dallas has allowed 7 passing touchdowns in three games. Monitor Collins; Thursday's practice and Friday's designation decide it."
       },
       {
         "at": "2026-09-30T19:35:00Z",
@@ -410,46 +437,6 @@
         "player": "Bryce Young",
         "action": "MONITOR",
         "watch": "Thursday and Friday practice for Young's foot and for Coker"
-      },
-      {
-        "at": "2026-09-30T19:30:00Z",
-        "text": "Jeremiyah Love (ARI) out-snapped Tyler Allgeier for the first time in Week 3, 56 snaps (64 percent) to 31, after Allgeier led 60 to 43 percent in Weeks 1 and 2: 21 of the backs' 23 carries for 90, 5 of 5 targets for 19 and a receiving touchdown, 22 routes. Allgeier kept 3 of the 5 goal-line snaps, and the game was a 54-dropback trailing script. Start Love as your RB2 @NYG and watch the first-half split and the goal line.",
-        "url": "",
-        "player": "Jeremiyah Love",
-        "action": "START",
-        "slot": "RB2"
-      },
-      {
-        "at": "2026-09-30T19:30:00Z",
-        "text": "Harold Fannin Jr. (CLE) drew 9 targets, a 30 percent share, with 45 percent of the air yards, 7 catches for 51 and 2 touchdowns vs CAR on 87 percent of the snaps and 77 percent of the routes; his targets have gone 3, 6, 9 by week. Jerry Jeudy ran 23 routes with no target. Start Fannin as your TE1 vs PIT on Thursday.",
-        "url": "",
-        "player": "Harold Fannin Jr.",
-        "action": "START",
-        "slot": "TE1"
-      },
-      {
-        "at": "2026-09-30T19:30:00Z",
-        "text": "Kalif Raymond (CHI) has 23 percent of the targets on 66 percent of the routes and 214 receiving yards through three games, with 9 or more PPR points in each, on more than 60 percent of the snaps every week. The usage is real; the quarterback may change to Tyson Bagent, and the share was built with Case Keenum. Add him in PPR, 2 to 5 percent of FAAB, as a WR4 with a floor, not a starter until you see him with Bagent.",
-        "url": "",
-        "player": "Kalif Raymond",
-        "action": "ADD",
-        "faab": "2-5%"
-      },
-      {
-        "at": "2026-09-30T18:20:00Z",
-        "text": "Mike Washington Jr. (LV) has 15 carries for 102 yards, 6.8 a carry, with 5 for 54 and a 36-yard touchdown @NO, and the coach has said twice that he earned more opportunities. He has no receiving role. Jeanty still has 81 percent of the backs' carries, so this is a handcuff with a rising early-down share, and the yards per carry back it. Stash him, 3 to 8 percent of FAAB, if you own Jeanty or have a deep bench.",
-        "url": "",
-        "player": "Mike Washington Jr.",
-        "action": "STASH",
-        "faab": "3-8%"
-      },
-      {
-        "at": "2026-09-30T16:20:00Z",
-        "player": "Malik Nabers",
-        "action": "HOLD",
-        "url": "https://sports.yahoo.com/articles/giants-j-j-mccarthy-trade-171132548.html",
-        "text": "John Harbaugh said Jameis Winston starts vs ARI and that J.J. McCarthy, acquired from MIN for a 2027 fifth-round pick, is the No. 2 while he learns the offense, since Jake Haener was waived the day of the trade. Malik Nabers (NYG) drew 27 percent of the targets in Winston's first start, a nor'easter with 22 team attempts, but caught 5 of 6 for 26 yards at an average depth of target of 1.0. Hold Nabers as a WR2 on volume; what changes the call is McCarthy taking the job, and Week 6 vs NO is the first realistic date for that.",
-        "why": "27 percent of the targets holds even with a 1.0 average depth of target; the call changes only if McCarthy takes the job, Week 6 vs NO at the earliest."
       }
     ]
   },

@@ -42,6 +42,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Deshaun Watson: Named the Week 1 starter over Shedeur Sanders days after calling out fans who booed him in the preseason; cutting him now would hurt the 2027 cap. Cleveland opens with two road games before a Week 3 home game. [8-26 rankings and news updates]
 - 2026-09-27: Deshaun Watson: 11 carries for 45. [pod 9-29, deployment]
 - 2026-09-27: Deshaun Watson: 16 of 30 for 144 yards, 2 TD, 0 INT and 11 rushes for 45 (6 of them scrambles) in the 21-18 win over CAR. Through three starts: 205, 238 and 144 passing yards; 38, 22 and 45 rushing yards (105); about 15, 20 and 20 fantasy points. [pod 9-29, deployment]
+- 2026-10-01: Deshaun Watson: 24 of 33 for 268 and 1 TD, plus 22 rushing yards, vs PIT. [pod 10-2, deployment]
 
 ## Backfield
 
@@ -69,6 +70,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Quinshon Judkins: The last four backs to return from a similar fibula fracture averaged 6.5 fewer fantasy points per game the next year as less explosive players; nothing negative on his health has come out of camp. [8-19 RBs drafting and fading]
 - 2026-09-27: Rocket Sanders: 4 of 5 as the No. 2 behind Quinshon Judkins (18 carries, recently back from injury). [pod 9-29, deployment]
 - 2026-09-27: Quinshon Judkins, Raheim Sanders: Judkins: 42 carries for 124 yards (3.0) and no touchdowns through three games (12-33, 12-21, 18-70). Week 3 he played 54% of the snaps and ran 11 routes; Sanders played 41%, ran 16 routes and had 5 targets (4 for 34) plus one carry for 17. [pod 9-29, deployment]
+- 2026-10-01: Quinshon Judkins: 17 carries for 53 and a TD plus 6 catches for 43 on 7 targets (21%) vs PIT, 65% of the snaps and 38% of the routes; Raheim Sanders played 35% of the snaps. [pod 10-2, deployment]
 
 ## Receivers
 
@@ -100,6 +102,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: KC Concepcion: Camp buzz has shifted from Denzel Boston to Concepcion; he is expected to run a lot of high-percentage routes under Todd Monken, making him somewhat quarterback-proof. [8-26 rankings and news updates]
 - 2026-09-27: KC Concepcion: 20 targets, 12 catches, 80 yards, no touchdown through three games (5 targets for 43, 6 for 28, 9 for 9); Week 3 87% snaps and a 30% target share. [pod 9-29, deployment]
 - 2026-09-27: Denzel Boston, Jerry Jeudy: Boston: 87% snaps, 32 routes, 4 targets, 2 for 41 (28 and 13 yards, both in the fourth quarter) plus a two-point catch; season 9-195-2 on 15 targets. Jeudy: 32 snaps, 23 routes, no targets; 5 targets in three games. [pod 9-29, deployment]
+- 2026-10-01: Denzel Boston: 4 catches for 89 on 7 targets vs PIT, 95% of the snaps and 92% of the routes; 52% of Cleveland's air yards on the season. [pod 10-2, deployment]
+- 2026-10-01: KC Concepcion: 5 catches for 64 on 8 targets (24%) vs PIT, a route on every dropback. [pod 10-2, deployment]
+- 2026-10-01: Jerry Jeudy: 3 catches for 36 on 3 targets vs PIT, 37% of the snaps and 51% of the routes as the third receiver. [pod 10-2, deployment]
 
 ## Tight ends
 
@@ -120,6 +125,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Harold Fannin Jr.: Concepcion's easy-button touches look like the role Fannin filled for Kevin Stefanski in 2025, a threat to Fannin's target volume under Monken. [8-16 preseason week 1 recap]
 - 2026-08-24: Harold Fannin: Fannin is expected to hold steady target volume in the Browns offense even with Deshaun Watson starting. [8-24 embarrased to love players]
 - 2026-09-27: Harold Fannin Jr.: 9 targets (30% share), 7 catches, 51 yards and 2 TD vs CAR on 87% of the snaps and 77% of the routes, with 45% of the air yards; the second score won the game with 1:48 left. Targets by week: 3, 6, 9; season 14-126-2. [pod 9-29, deployment]
+- 2026-10-01: Harold Fannin Jr.: 3 catches for 27 and a 2-yard TD on 5 targets vs PIT, 89% of the routes. [pod 10-2, deployment]
 
 ## Offensive line
 

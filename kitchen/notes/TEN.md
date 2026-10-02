@@ -80,6 +80,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Wan'Dale Robinson: game-high 11 targets @NYG in Week 3, 7 for 57 and a TD; snaps up from 28 to 38; 13-104-1 on 18 targets through three games (reports).
 - 2026-09-27: Carnell Tate: 50 snaps (88%), 33 routes (92%), 6 catches for 58 on 9 targets at NYG. Wan'Dale Robinson 36 snaps (63%), 29 routes (81%), 7-57-1 on 11 targets; Calvin Ridley 18 snaps, 9 routes, 1 target. [pod 9-30, deployment]
 - 2026-09-27: Carnell Tate: 9 of 36 team pass attempts (25%) in Week 3, 6 catches for 58. [pod 10-1, deployment]
+- 2026-09-27: Wan'Dale Robinson drew a season-high 11 targets (31%) on 81% of the routes vs NYG; Carnell Tate drew 9 (26%) on 92% of the routes. [pod 10-2, deployment]
 
 ## Tight ends
 
@@ -121,6 +122,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Tony Pollard: did not practice Wednesday (foot), with Tyjae Spears (ankle) also out; the head coach said he is not worried about either for Sunday at BAL. [pod 10-1, official]
 - 2026-10-01: Tony Pollard: full practice Thursday after a Wednesday DNP (foot) (team site, reports).
 - 2026-10-01: Tyjae Spears: limited Thursday after a Wednesday DNP (ankle) (reports).
+- 2026-10-02: Tony Pollard has no game designation; Tyjae Spears is questionable (ankle) for Week 4 at BAL. [pod 10-2, official]
 
 ## Other
 

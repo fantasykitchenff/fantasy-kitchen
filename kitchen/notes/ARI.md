@@ -86,6 +86,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Tyler Allgeier: Coaches are comfortable giving Allgeier the ball at the goal line; he is the direct backup to Jeremiyah Love. [8-19 RBs drafting and fading]
 - 2026-09-27: Jeremiyah Love: 21 carries for 90 yards, a career high; the team recap does not credit him a receiving touchdown. [pod 9-28, deployment]
 - 2026-09-27: Jeremiyah Love: Out-snapped Tyler Allgeier for the first time, 56 (64%) to 31 (36%), after Allgeier led 60% to 43% in Weeks 1-2; 21 carries for 90, 5 of 5 targets for 19 and a 1-yard receiving touchdown in the fourth quarter (78% of the rushes, 22 routes); Allgeier 2 carries for -1 and 4 catches for 10, with 3 of the 5 goal-line snaps. [pod 9-29, deployment]
+- 2026-09-27: Jeremiyah Love had 78% of the rushes and 63% of the snaps vs SF (21 carries, 22 routes, 5 targets); Tyler Allgeier had 5 carries on 31 snaps. [pod 10-1, deployment]
 
 ## Receivers
 
@@ -118,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Michael Wilson: 17 targets, 11 catches, 89 yards and a touchdown in the 36-30 loss to SF; Marvin Harrison Jr. 3 of 5 for 40, 9 targets in three games. [pod 9-28, deployment]
 - 2026-09-27: Michael Wilson: 31 targets, 18 catches, 163 yards and a touchdown through three games (7, 7 and 17 targets), a 58% catch rate; 81 of 87 snaps (93%) in Week 3. [pod 9-29, deployment]
 - 2026-09-27: Marvin Harrison Jr.: 67 of 87 snaps (77%) in Week 3, under 80% in all three games; 9 targets through three games. Kendrick Bourne played 48 snaps (55%). [pod 9-29, deployment]
+- 2026-09-30: The "quality Day 3 pick" trade value for Marvin Harrison Jr. was one rival team's forecast in a national report, not Arizona's asking price. [pod 10-2, beat]
 
 ## Tight ends
 
@@ -176,6 +178,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Jeremiyah Love: Injured in preseason and not expected to play again before the season; his Week 1 availability is in question, with Tyler Allgeier the fill-in if he misses time. [8-20 buying or selling rookie hype]
 - 2026-08-30: James Conner: opened the season on injured reserve (ankle), out at least the first four games, eligible to return in Week 5 (NBC Sports). [pod 9-29, official]
 - 2026-09-23: Will Johnson (CB): Neck injury in the fourth quarter vs SEA on Sep 20, placed on IR Sep 23; Mike LaFleur said he could miss the whole season. Denzel Burke starts in his place. [pod 10-1, official]
+- 2026-10-01: Jeremiyah Love was slow to get up after a rep in Thursday's open practice and returned to work; he is not on the injury report. [pod 10-2, beat]
 
 ## Other
 

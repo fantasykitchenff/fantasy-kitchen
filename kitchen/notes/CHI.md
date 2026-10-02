@@ -43,6 +43,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Ben Johnson said Tyson Bagent starts vs NYJ if he gets a full week of practice; Keenum's Week 3 start does not change the depth chart (reports).
 - 2026-09-30: Ben Johnson said Tuesday 'we'll see how it plays out all week' on the Week 4 starter; Bagent gets the start if he gets a full week of practice (reports).
 - 2026-09-30: Ben Johnson: Said the Bears have three quarterbacks under consideration and know their direction but will not name the Week 4 starter; Caleb Williams is improving daily and sat out Wednesday's walkthrough. [pod 10-1, coach]
+- 2026-10-02: Ben Johnson did not name Tyson Bagent or Case Keenum as the Week 4 starter after Friday's practice. [pod 10-2, coach]
 
 ## Backfield
 
@@ -173,6 +174,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Luther Burden III: Burden returned to practice on Aug. 26 after his groin injury. [8-26 myguys episode]
 - 2026-09-28: Caleb Williams: Grade 2 hamstring, 3 to 4 weeks, reported by Schefter and Rapoport from league sources, not a team statement. [pod 9-28, beat]
 - 2026-09-30: Quarterback: Johnson said the Week 4 starter vs NYJ is decided and will not name Keenum or Bagent; Bagent is cleared from the concussion, Caleb Williams (grade 2 hamstring) sat out the walkthrough (Sun-Times, 670 The Score).
+- 2026-10-02: D'Andre Swift: did not practice Thursday (knee), full practice Friday, no game designation. [pod 10-2, official]
+- 2026-10-02: Caleb Williams (hamstring) ruled out for Week 4 vs NYJ; left tackle Braxton Jones (knee) ruled out. [pod 10-2, official]
 
 ## Other
 

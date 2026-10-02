@@ -70,6 +70,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Jameson Williams: Historically LaPorta's on/off splits have affected Williams; after Dan Campbell took play-calling from John Morton midway through 2025 Williams was dominant in the second half. [8-26 rankings and news updates]
 - 2026-09-27: Jameson Williams 4 of 4 for 49 vs NYJ; Sam LaPorta 3 for 44; Jahmyr Gibbs 164 scrimmage yards and 3 touchdowns. [pod 9-28, deployment]
 - 2026-09-27: Isaac TeSlaa: 3 catches for 66 yards vs NYJ, including a 49-yarder that set up the winning touchdown. [pod 9-29, deployment]
+- 2026-09-28: Jameson Williams has 10 catches for 127 yards and no TD through three games (4-45, 2-33, 4-49). [pod 10-2, deployment]
 
 ## Tight ends
 
@@ -121,3 +122,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Detroit is favored in 14 of 17 games; Sean Tucker, Blake Corum, Croskey-Merritt, Chris Rodriguez and Rhamondre Stevenson all had more carries inside the 5 than Gibbs or Bijan Robinson in 2025. [8-12 top 10 rb rankings]
 - 2026-09-30: Defense allowed the most fantasy points to quarterbacks through two weeks: both opposing quarterbacks threw three touchdowns and combined for 700-plus passing yards (reports).
 - 2026-09-27: Lions defense: Allowed Geno Smith 31 of 37 for 321 yards and 3 TD in Week 3 while recording 5 sacks; 28th in defensive DVOA through Week 2 (run defense 31st, pass defense 19th). [pod 9-29, deployment]
+- 2026-09-28: Detroit's defense has allowed the most fantasy points to quarterbacks and tight ends through Week 3. [pod 10-2, aggregation]

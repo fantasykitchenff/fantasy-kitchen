@@ -156,6 +156,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Chris Godwin: DNP Wednesday (ankle); 10 catches for 111 on the season. Ko Kieft (elbow) also DNP (NBC Sports, official report).
 - 2026-10-01: Chris Godwin: returned to practice Thursday (ankle) after a Wednesday DNP; participation level not yet posted. [pod 10-1, beat]
 - 2026-10-01: Bucky Irving: limited Thursday again (glute) (reports).
+- 2026-10-02: Bucky Irving (glute) practiced in full Friday after two limited days and has no game designation. [pod 10-2, official]
 
 ## Other
 

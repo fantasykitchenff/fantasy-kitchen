@@ -174,6 +174,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: DeVonta Smith: Did not practice Thursday (hamstring), his second straight DNP this week; last week he missed Wednesday and Thursday, was limited Friday and played at CHI. [pod 10-1, official]
 - 2026-10-01: Dallas Goedert: Did not practice Wednesday or Thursday (knee); the MCL sprain is still called week to week with no reported timeline and no IR move. [pod 9-30, official]
 - 2026-10-01: Hollywood Brown (ankle), Zack Baun (concussion) and RT Fred Johnson (knee) missed Thursday's practice again; Will Shipley (foot) returned to practice after a Wednesday DNP. [pod 10-1, official]
+- 2026-10-02: DeVonta Smith (hamstring) did not practice all week and is out vs LAR, with league sources expecting him to miss two to three games; Dallas Goedert, Hollywood Brown, Zack Baun and tackle Fred Johnson are also out. [pod 10-2, official]
 
 ## Other
 

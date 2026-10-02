@@ -32,6 +32,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Lamar Jackson: Playing through injury in 2025 he had a four-game stretch with three games under 15 rushing yards; he has said he wants to dial back his running to stay healthy, and Derrick Henry handles the goal line. [8-24 QB Rankings]
 - 2026-09-30: Lamar Jackson: Not at the start of Wednesday's practice minutes after his press conference; no injury or illness was mentioned and he spoke as if he will play vs TEN. Week 3: 15 of 20 for 186 and 2 TD, 6 carries for 50. [pod 9-30, beat]
 - 2026-10-01: Lamar Jackson: On the field at the start of Thursday's practice after a limited Wednesday with a back injury the head coach called minor (beat report). [pod 10-1, beat]
+- 2026-09-27: Lamar Jackson: 25, 31 and 20 pass attempts in Weeks 1 to 3. [pod 10-2, deployment]
 
 ## Backfield
 
@@ -102,6 +103,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Matthew Hibner: Rookie (6'4, 251, 91st-percentile 40, 87th-percentile vertical) looked good in preseason; the Ravens need an inline presence and Durham Smythe came from Chicago with Declan Doyle. [8-20 buying or selling rookie hype]
 - 2026-08-24: Mark Andrews: Aging and not showing improvement; the Ravens drafted tight end Matthew Hibner and another rookie but have no clear replacement for the Isaiah Likely role. [8-24 QB Rankings]
 - 2026-09-30: Mark Andrews: Hand injury in the second quarter in Rio, returned, 33 of 64 snaps (Durham Smythe also 33, Matthew Hibner 21); not among the players missing from Wednesday's practice. [pod 9-29, beat]
+- 2026-09-27: Durham Smythe: played 33 of 64 snaps in Week 3 and 108 snaps through three games; he was not inactive. [pod 10-2, deployment]
 
 ## Offensive line
 
@@ -141,6 +143,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Zay Flowers: Listed hamstring, limited Wednesday; Humphrey (hamstring), Chris Moore (ankle), John Simpson (groin), Durham Smythe (heel) and Ronnie Stanley (toe) also limited (official report).
 - 2026-10-01: Lamar Jackson: full practice Thursday after a limited Wednesday (back); Jesse Minter called it something small (team site).
 - 2026-10-01: Zay Flowers: full practice Thursday after a limited Wednesday (hamstring) (reports).
+- 2026-10-02: Lamar Jackson (back) and Zay Flowers (hamstring): full practice Thursday and Friday, no game designation; Trey Hendrickson (finger) ruled out; Ronnie Stanley (toe) limited Thursday and Friday. [pod 10-2, official]
 
 ## Other
 

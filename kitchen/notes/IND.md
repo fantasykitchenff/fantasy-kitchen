@@ -104,6 +104,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Josh Downs: targets 3, 9 and 11 in Weeks 1 to 3; 7 of 9 for 72 in Week 2 after Alec Pierce left, 5 of 11 for 77 vs HOU in Week 3. Pierce (heel) is on IR (reports).
 - 2026-09-27: Keenan Allen: 6 of 9 for 63 and a touchdown, 52 of 71 snaps (73%), 20 targets in three games; Week 3 targets Downs 11 (5 for 77), Warren 10 (9 for 55), Allen 9, Treadwell 1; Laquon Treadwell led receivers with 56 snaps as the primary X. [pod 9-29, deployment]
 - 2026-09-27: Keenan Allen: Through three games: 20 targets on 75 routes (26.7% targets per route); Downs 24 on 91 (26.4%), Warren 22 on 93 (23.7%), Laquon Treadwell 5 on 65 (7.7%). [pod 9-29, deployment]
+- 2026-09-27: Josh Downs drew a team-high 11 targets for 5 catches and 77 yards vs TEN; his targets have risen every week. [pod 10-1, deployment]
 
 ## Tight ends
 
@@ -194,6 +195,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Alec Pierce: Shane Steichen said Pierce did not have surgery on the left heel and is rehabbing (cast and scooter to keep weight off); on IR with no return timeline. [pod 9-29, coach]
 - 2026-09-15: Keenan Allen: Charged on 9/15 after an 8/30 arrest. League policy carries a minimum three-game suspension; none has been announced, the next court date is 10/26, and he remains eligible. [pod 9-29, official]
 - 2026-10-01: Thursday in London: Jonathan Taylor, Keenan Allen and Charvarius Ward limited on scheduled rest days for a second day, Mo Alie-Cox (illness) and Ashton Dulin (ankle) DNP, Akeem Davis-Gaither (knee) limited, K Spencer Shrader (groin) full (team report).
+- 2026-10-02: Keenan Allen is questionable (rest, groin) for Week 4 vs WAS in London. [pod 10-2, official]
 
 ## Other
 

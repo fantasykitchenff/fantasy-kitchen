@@ -46,6 +46,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Blake Corum: The Rams offense lacks explosiveness in the backfield and at receiver, which is cited as a reason Corum could take another step in 2026. [8-26 rankings and news updates]
 - 2026-09-27: Kyren Williams 15 for 88 and 6 catches for 70 on 71% snaps; Blake Corum 6 for 15 and 2 catches for 0 on 29%. [pod 9-28, deployment]
 - 2026-09-27: Kyren Williams: 6 catches on 7 targets for 70 yards @DEN; 11 catches on 12 targets through three games, 5.6 yards per carry, one rushing and one receiving touchdown. [pod 9-29, deployment]
+- 2026-09-27: Kyren Williams played 71% of the snaps with 22 of the 32 running back opportunities and 158 scrimmage yards at DEN. [pod 10-2, deployment]
 
 ## Receivers
 
@@ -124,6 +125,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Colby Parkinson: DNP Wednesday (shoulder) (Rotowire).
 - 2026-09-30: Aaron Donald: Did not practice Wednesday (back); Sean McVay called the back "a little bit sore." TE Terrance Ferguson (ankle), TE Colby Parkinson (knee/shoulder) and CB Jaylen Watson (shoulder) also did not practice. [pod 10-1, official]
 - 2026-09-27: Puka Nacua: The report that he has not felt his usual explosiveness came from a source in a beat report, not from Nacua himself; surgery was described as not expected but not ruled out. [pod 10-1, beat]
+- 2026-10-02: Puka Nacua has no game designation and is set to play, though Sean McVay said his snaps may be limited; Terrance Ferguson (ankle) is out; Colby Parkinson is questionable, not out; Aaron Donald (back) is out. [pod 10-2, official]
 
 ## Other
 

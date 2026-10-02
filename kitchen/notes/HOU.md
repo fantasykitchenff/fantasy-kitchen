@@ -51,6 +51,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-03: Woody Marks: A Houston Chronicle beat report said the Marks-Montgomery split would be close to even, if not exactly 50-50, after the two were used at similar rates in camp. [pod 9-29, beat]
 - 2026-09-30: Woody Marks: a national beat report says Houston is expected to give Marks more work; season to date Marks 22 carries for 65 (3.0), David Montgomery 37 for 103 (2.8). [pod 9-30, beat]
 - 2026-09-27: David Montgomery: 44 of the backs' 73 touches through three games (60%). [pod 9-30, deployment]
+- 2026-09-30: David Montgomery has 37 carries for 103 (2.8 a carry) and Woody Marks 22 for 65 (3.0) with a TD through Week 3; a national report says Houston plans more work for Marks. [pod 10-2, beat]
+- 2026-09-27: Woody Marks played 37% of the snaps (20) vs IND. [pod 10-1, deployment]
 
 ## Receivers
 
@@ -125,6 +127,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Nico Collins: DeMeco Ryans said he is hopeful Collins plays Week 4 vs DAL; Collins has not practiced since the grade 1 hamstring strain and needs a limited session at least to have a chance (reports).
 - 2026-09-30: Nico Collins: Returned to practice as a limited participant on Wednesday, his first session since the hamstring strain that cost him Weeks 2 and 3; DeMeco Ryans is hopeful he plays vs DAL. [pod 9-29, official]
 - 2026-10-01: Nico Collins: practiced again Thursday after a limited Wednesday, his first two sessions since the hamstring strain that cost Weeks 2 and 3; trending toward playing vs DAL. [pod 10-1, beat]
+- 2026-10-02: Nico Collins practiced Friday after limited sessions Wednesday and Thursday (hamstring). [pod 10-2, beat]
+- 2026-09-30: Jayden Higgins tore his ACL in training camp and is out for the season. [pod 10-1, official]
 
 ## Other
 

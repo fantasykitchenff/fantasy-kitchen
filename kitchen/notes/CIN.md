@@ -59,6 +59,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Samaje Perine: Perine's camp snaps indicate he is not going away as a rotational back behind Chase Brown, a minor workload concern for Brown. [8-23 highstakes draft]
 - 2026-09-27: Chase Brown 13 carries for 61 at PIT; Samaje Perine 3 for 9. [pod 9-29, deployment]
 - 2026-09-27: Chase Brown, Samaje Perine: At PIT Brown played 40 snaps with 13 carries and 2 targets (2 for 8); Perine played 18 snaps with 3 carries and 3 targets (1 for 5), one carry after halftime. Brown's season: 49 carries, 197 yards, 1 rushing TD. [pod 9-29, deployment]
+- 2026-09-27: Chase Brown: 13 carries for 61 and 2 targets on 40 snaps; Samaje Perine 3 carries and 3 targets on 18 snaps at PIT. [pod 10-2, deployment]
 
 ## Receivers
 
@@ -106,6 +107,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Ja'Marr Chase: Chase left a preseason game with a knee injury but told reporters he was fine, tried to go back out and was held out by the coaches. [8-26 myguys episode]
 - 2026-09-29: Colbie Young: knee on the opening play at PIT, will miss Week 4 per Zac Taylor, who is hopeful it is not long-term; Dohnte Meyers 3 of 5 for 29 in his place. [pod 9-28, coach]
 - 2026-09-30: Bryan Cook, Kyle Dugger: Both safeties are day to day and did not practice Wednesday; DT B.J. Hill has a sore Achilles. [pod 9-30, coach]
+- 2026-09-30: Colbie Young (knee, hurt on the first snap of Week 3) ruled out for Week 4; Andrei Iosivas is on IR (thumb). [pod 10-2, coach]
 
 ## Other
 

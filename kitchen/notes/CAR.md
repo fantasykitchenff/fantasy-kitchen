@@ -102,6 +102,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Darren Waller: Carolina brought in Darren Waller; when healthy he is expected to be a downfield and red zone target rather than a blocker, adding TE targets the Panthers rarely used. [8-20 WRs talk]
 - 2026-09-27: Darren Waller: 5 catches for 51; his routes and targets per route have risen each week. [pod 9-29, deployment]
 - 2026-09-27: Darren Waller: Team-high 8 targets (19%) for 5 catches and 51 yards on 28 routes (55% of dropbacks) and 39 of 77 snaps (51%); snaps by week 24, 29, 39. [pod 9-29, deployment]
+- 2026-09-27: Darren Waller's snap share went 35%, 44% and 51% in Weeks 1 to 3 (24, 29 and 39 snaps). [pod 10-2, deployment]
 
 ## Offensive line
 
@@ -146,6 +147,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Bryce Young: Had his foot stepped on by left tackle Rasheed Walker in the second quarter at CLE, was checked in the tent and did not miss a snap; imaging was ordered and Canales expects him to play vs DET. [pod 9-30, coach]
 - 2026-09-30: Jalen Coker, Xavier Legette: Both DNP Wednesday's walkthrough; Dave Canales called Coker day to day and questionable, Legette week to week. Damien Lewis (elbow) and RT Monroe Freeling (concussion) DNP; Chuba Hubbard and Darren Waller rest days (team site).
 - 2026-10-01: Jalen Coker: limited in Thursday practice (quad) after a Wednesday DNP; a game-time decision Sunday is possible. Xavier Legette (knee) and Damien Lewis (elbow) DNP Thursday, Monroe Freeling (concussion) limited, Bryce Young full. [pod 10-1, official]
+- 2026-10-02: Jalen Coker (quad) was limited Thursday and Friday and is questionable; Xavier Legette (knee) and left guard Damien Lewis (elbow) are out. [pod 10-2, official]
 
 ## Other
 
@@ -154,3 +156,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Defense has allowed the most fantasy points to running backs through Week 3, 1.07 points per carry (next closest 0.85) and the most rushing yards per game (reports).
 - 2026-09-29: Carolina's bye is Week 5, directly after the DET game. [pod 9-30, official]
 - 2026-10-01: DET at CAR is Sunday Night Football on Oct 4; the local forecast has steady rain Saturday night into Sunday, tapering by Sunday evening. [pod 9-30, official]
+- 2026-10-01: Detroit at Carolina is the Week 4 Sunday night game. [pod 10-1, aggregation]

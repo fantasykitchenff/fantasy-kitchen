@@ -31,6 +31,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Geno Smith: OC Frank Reich said he has been 'so impressed' with Geno Smith's play in camp. [8-26 myguys episode]
 - 2026-09-29: Geno Smith: 31 of 37, 321 yards, 3 TDs (Garrett Wilson, Sadiq, Jeremy Ruckert) in the 31-24 Week 3 loss at DET; sacked 5 times, lost a fumble on the final drive (box score).
 - 2026-09-27: Geno Smith: 75.5% completions and no interceptions through three games (team site). [pod 9-29, deployment]
+- 2026-09-29: Geno Smith leads the NFL with a 75.5% completion rate through Week 3. [pod 10-2, aggregation]
 
 ## Backfield
 
@@ -140,6 +141,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Breece Hall: Did not practice Thursday (quad), his second straight DNP; still week to week, Friday designation pending (CBS, reports).
 - 2026-09-19: Omar Cooper Jr.: On injured reserve since Sep 19 with the Week 1 high-ankle sprain, so the earliest he can play is Week 7. [pod 9-30, official]
 - 2026-10-02: Aaron Glenn ruled out Breece Hall (quad), Adonai Mitchell (finger), OL Dylan Parham and LB Kiko Mauigoa for Week 4 at CHI; Mason Taylor (thumb) is also out. Kenyon Sadiq (back) was limited Wednesday and Thursday, Friday designation pending (Yardbarker, Rotowire, NBC Sports).
+- 2026-10-02: Kenyon Sadiq (back) is questionable for Week 4 at CHI after limited practices Wednesday and Thursday; Breece Hall, Adonai Mitchell and Mason Taylor are out. [pod 10-2, official]
+- 2026-09-19: Omar Cooper Jr. placed on IR (ankle). [pod 10-1, official]
+- 2026-09-30: Adonai Mitchell (finger) is week to week per the head coach; no fracture or surgery has been reported. [pod 10-2, coach]
 
 ## Other
 

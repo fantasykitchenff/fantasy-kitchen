@@ -110,6 +110,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Rashee Rice: targets 2, 6 and 9 in Weeks 1 to 3; 7 of 9 for 88, team highs, in Week 3 @MIA; target share 9.5 percent through two games, 18.7 percent in Week 3 (reports).
 - 2026-09-27: Rashee Rice: 9 of 22 team targets (41%), 7 for 88; season targets 2, 6, 9 (17 of 91, 18.7%). The 18.7% is the three-game share, not the Week 3 share. [pod 9-28, deployment]
 - 2026-09-27: Xavier Worthy: 10 catches for 63 yards and 1 TD on 15 targets through three games (18, 25 and 20 yards); in Week 3 he ran 19 routes on Kansas City's 24 dropbacks (79%), level with Kelce, and drew 2 targets. [pod 9-29, deployment]
+- 2026-09-27: Rashee Rice: 7 catches for 88 on 9 targets (39%) and 75% of the routes; his targets went 2, 6, 9 in Weeks 1 to 3. [pod 10-2, deployment]
 
 ## Tight ends
 
@@ -118,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Travis Kelce: Averaged a career-low 1.47 yards per route in 2025, though that still ranked 22nd among 49 qualifying tight ends. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-09-27: Travis Kelce: 18 targets, 14-231-2 through three games (19.8% of team targets). [pod 9-29, deployment]
 - 2026-09-27: Travis Kelce: Week 3 at MIA: 2 targets, 2 catches, 59 yards, 1 TD on 38 snaps (78%) and 19 routes (79%); a 48-yard catch on the opening play and an 11-yard touchdown with 2:55 left. His 18 season targets split 16 in Weeks 1-2 and 2 in Week 3. [pod 9-29, deployment]
+- 2026-09-27: Travis Kelce: 2 targets (9%) on 78% of the routes in Week 3. [pod 10-2, deployment]
 
 ## Offensive line
 

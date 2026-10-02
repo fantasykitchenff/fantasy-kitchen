@@ -54,6 +54,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Rhamondre Stevenson 33 snaps (52%), 7 for 22; TreVeyon Henderson 23 snaps (37%), 8 for 23; Kiner 8; Week 2 was Henderson 33 to 20. [pod 9-28, deployment]
 - 2026-09-27: Rhamondre Stevenson: At JAX the early downs were split evenly with TreVeyon Henderson, and Stevenson took most of the passing-situation and short-yardage snaps; he caught 3 for 16 to Henderson's 1 for 6. [pod 9-29, deployment]
 - 2026-09-20: TreVeyon Henderson: 16 carries for 76 and a 39-yard touchdown in the 20-3 win over PIT in Week 2; Stevenson lost a fumble in Steelers territory in that game. [pod 9-29, deployment]
+- 2026-09-27: Rhamondre Stevenson played 53% of the snaps with 7 carries and 3 targets; TreVeyon Henderson 35% with 8 carries and 1 target at JAX. [pod 10-2, deployment]
 
 ## Receivers
 
@@ -85,6 +86,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Mack Hollins: Week 3 targets at JAX on 38 dropbacks: Hollins 9 (6 for 87), DeMario Douglas 5 (1 for 38), Romeo Doubs 4 (3 for 49), Kyle Williams 3 (1 for 34), Efton Chism III 2 (1 for 1). [pod 9-30, deployment]
 - 2026-09-20: Romeo Doubs: 3 catches for 96 yards vs PIT in Week 2, including a 63-yarder; with Week 3 he has 6 for 145 in the two games without A.J. Brown. [pod 9-30, deployment]
 - 2026-09-27: Mack Hollins: Leads the Patriots with 16 targets through three games (5, 2, 9); DeMario Douglas has 14 and Romeo Doubs 11 (3, 4, 4), with no game above 4 targets for Doubs. [pod 10-1, deployment]
+- 2026-09-27: Mack Hollins: 77% of the snaps, 68% of the routes and 9 targets (30%) at JAX; Romeo Doubs 4 targets; Kyle Williams 42% of the routes. [pod 10-1, deployment]
 
 ## Tight ends
 
@@ -127,6 +129,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Drake Maye: Asked about his right shoulder after the JAX loss and on Monday radio, Maye said 'I wouldn't say there's a problem with my shoulder'; Mike Vrabel said he knows of no lingering injury, the team had not listed him on the injury report, and Greg Bedard reported team sources say nothing is wrong. The shoulder was hurt in January's AFC title game and he did not have surgery. [pod 9-29, beat]
 - 2026-09-30: Drake Maye: Added to the Wednesday report with the right shoulder, full participant; says it has not affected his arm or decisions. Gonzalez (shoulder), Barmore (shoulder) and Morgan Moses (foot) DNP (team report, Rotowire).
 - 2026-09-11: A.J. Brown: On injured reserve since Sep 11 with the high-ankle sprain from Week 1 at SEA; the earliest he can return is Week 6. [pod 9-30, official]
+- 2026-10-02: Drake Maye practiced in full all week and was removed from the injury report; Christian Gonzalez and Christian Barmore ruled out; right tackle Morgan Moses (foot) and TE Eli Raridon (thigh) questionable. [pod 10-2, official]
 
 ## Other
 

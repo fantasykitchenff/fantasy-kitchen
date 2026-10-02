@@ -93,6 +93,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Dalton Kincaid: Camp reports say Kincaid has been at every practice with a healthy knee for the first time in years and is more involved in every facet. He posted 2.73 YPRR in 2025, best among tight ends, on only about 30% of snaps. [8-24 embarrased to love players]
 - 2026-09-27: Dawson Knox 46 snaps (70%) to Dalton Kincaid 44 (67%). [pod 9-28, deployment]
 - 2026-09-27: Dalton Kincaid: 2 catches on 3 targets for 38 yards and a lost fumble vs LAC. Season: 17 targets, 14 catches, 263 yards, 1 touchdown (5 for 130 on 6 at HOU, 7 for 95 and a score on 8 vs DET). Jackson Hawes played 25 snaps (38%). [pod 9-29, deployment]
+- 2026-09-27: Dalton Kincaid: 2 catches for 38 on 3 targets with a lost fumble vs LAC. [pod 10-2, deployment]
 
 ## Offensive line
 

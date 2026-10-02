@@ -72,6 +72,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Ollie Gordon II: Ran 25 routes on 43 dropbacks (58%) and drew 3 targets vs KC. Career through Week 3: 90 carries for 247 yards, 10 catches for 46 on 12 targets, 5 touchdowns on 100 touches, no fumbles, 2.9 yards a touch; 2026: 20 carries for 48. He played 3 of 56 snaps in Week 1. [pod 9-29, deployment]
 - 2026-09-27: Jaylen Wright: Career through Week 3: 141 carries for 547 yards (3.9), 8 catches for 52, 2 touchdowns on 149 touches, 3 fumbles (2 lost). 2025: 70 for 288 (4.1), 2 TDs. 2026: 3 carries for 10 in two games. [pod 9-29, deployment]
 - 2026-09-13: Jaylen Wright: In Week 1 at LV, De'Von Achane played 48 snaps while Wright and Ollie Gordon II played 8 combined (Gordon 3), so the two backups did not share a real role behind Achane. [pod 9-30, deployment]
+- 2026-09-27: Ollie Gordon II: 82% of the snaps, 58% of the routes and 3 targets vs KC. [pod 10-1, deployment]
 
 ## Receivers
 
@@ -100,6 +101,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Caleb Douglas: Douglas is competing for a starting role in a Dolphins receiver room that also includes Tutu Atwell and Malik Washington and lacks an established No. 1 after Jaylen Waddle's departure. [8-24 embarrased to love players]
 - 2026-09-27: Malik Washington: 34 routes (79%), a game-high 10 targets, 5 for 56, 2 carries; Chris Bell: 52 snaps (72%, up from 41%), 25 routes (58%), 4 of 7 for 67. [pod 9-28, deployment]
 - 2026-09-27: Malik Washington: his 2 carries vs KC went for 5 yards. [pod 9-29, deployment]
+- 2026-09-27: Malik Washington: 85% of the snaps, 84% of the routes and 10 targets (27%) vs KC. [pod 10-1, deployment]
 
 ## Tight ends
 
@@ -120,6 +122,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-11: Miami's receiver and tight end group is regarded as one of the weakest entering a season in recent memory, with De'Von Achane the only established weapon. [8-11 Fantasy Target Debate]
 - 2026-08-11: Miami's receiver group is Malik Washington, Jalen Tolbert, Caleb Douglas and rookie Chris Bell, none a proven threat, raising the risk of loaded boxes; a mobile Malik Willis could also cut into Achane's checkdown volume. [8-11 RB rankings]
+- 2026-09-30: Jaylen Wright is listed as the RB1 and Ollie Gordon II as the RB2, with the staff signaling a shared workload. [pod 10-2, beat]
 
 ## Rookies
 
@@ -147,6 +150,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Caleb Douglas: ankle, out Week 3, day-to-day and could practice Wednesday per Hafley. [pod 9-28, coach]
 - 2026-09-30: Jaylen Wright: Limited at Wednesday's practice with the foot injury after sitting out Week 3 (foot, stinger); he had been working ahead of Ollie Gordon before he was hurt. [pod 9-29, official]
 - 2026-09-30: Caleb Douglas: Did not practice Wednesday (ankle); Jeff Hafley said he needs a full practice by Friday to go into the MIN game without a designation. [pod 9-29, official]
+- 2026-10-02: Caleb Douglas (ankle) is out for Week 4 at MIN; Jaylen Wright (foot) practiced in full Thursday and is expected to play. [pod 10-2, official]
 
 ## Other
 

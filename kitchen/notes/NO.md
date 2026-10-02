@@ -39,6 +39,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Tyler Shough 29 of 42, 255, 4 TD, 1 INT, a 36-yard run and 2 lost fumbles in the 35-27 loss to LV. [pod 9-28, deployment]
 - 2026-09-27: Tyler Shough: 917 passing yards through three games, second in the NFL. [pod 9-29, deployment]
 - 2026-09-27: Tyler Shough: 132 pass attempts through three games (44 a game) for 917 yards; 6 of his touchdown passes have come from inside the 10. He had 3 of the team's 4 turnovers vs LV (an interception and 2 lost fumbles). [pod 9-29, deployment]
+- 2026-09-28: Tyler Shough has 132 attempts and 91 completions, the most among quarterbacks with three games played. [pod 10-2, aggregation]
 
 ## Backfield
 
@@ -72,6 +73,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Alvin Kamara: Moves into the lead role with Travis Etienne Jr. ruled out for Week 4 vs ATL (Monday night) and expected to miss an extended stretch; Kendre Miller and CJ Donaldson slated for more work. Kamara about 43 percent rostered (reports).
 - 2026-09-27: After Etienne left, carries went Kamara 6 and Miller 4; second-half snaps Kamara 20 and Miller 14 (PFF); CJ Donaldson stayed the third-down back; over the final five possessions Kamara had 6 touches and Miller 5. [pod 9-29, deployment]
 - 2026-09-27: Alvin Kamara: Week 3 snaps: Etienne 28 (38%) before leaving, Kamara 24 (32%), Kendre Miller 14 (19%), CJ Donaldson 12 (16%). Kamara ran 9 times for 36 and caught 1 for 5. By week: Etienne 59%, 54%, 38%; Kamara inactive, 29%, 32%; Miller 29%, inactive, 19%; Donaldson 17%, 29%, 16%. [pod 9-29, deployment]
+- 2026-10-01: Kellen Moore said Alvin Kamara and Kendre Miller will handle the load, with CJ Donaldson finding a specific role; he named no single lead back. [pod 10-2, coach]
 
 ## Receivers
 
@@ -170,6 +172,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-25: Travis Etienne Jr.: Was limited Wednesday and Thursday and full Friday with the hamstring before Week 3, then aggravated it in the third quarter. [pod 9-29, official]
 - 2026-10-01: Jordyn Tyson: on IR since 8/30 with a four-game minimum, so not eligible for Week 4; no practice-window opening found through Thursday. [pod 10-1, official]
 - 2026-10-01: Travis Etienne Jr.: placed on injured reserve Thursday (hamstring), out at least four games, no surgery; Kellen Moore said "we'll see" on returning near four games (ESPN).
+- 2026-10-01: Travis Etienne Jr. went on IR (hamstring); Kellen Moore said at least four weeks, no surgery. [pod 10-2, official]
+- 2026-10-01: Kellen Moore does not expect Jordyn Tyson to begin practicing next week. [pod 10-2, coach]
 
 ## Other
 

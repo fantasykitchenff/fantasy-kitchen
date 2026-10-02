@@ -19,6 +19,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Brock Purdy: Has thrown a TD on 7% or more of his passes in three of his four seasons; the league average is 4.4%. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-14: Kurtis Rourke: QB3 Kurtis Rourke (6'4, 220) made some nice plays in the preseason opener. [8-14 things we learned from pre season games]
 - 2026-09-27: Brock Purdy: 15 of 27 for 297 yards and 4 touchdowns, 2 carries for 34, in the 36-30 win over ARI. [pod 9-29, deployment]
+- 2026-09-28: Brock Purdy has 9 TD passes through Week 3, tied with Kirk Cousins for the league lead. [pod 10-2, aggregation]
 
 ## Backfield
 
@@ -151,6 +152,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-11: Deebo Samuel: The 49ers brought Samuel back at the start of training camp to shore up receiver depth. [8-11 Fantasy Target Debate]
 - 2026-08-14: The 49ers signed Mike Evans and used draft picks on De'Zhaun Stribling and other pass-catchers as reinforcements. [8-14 changed minds about players]
 - 2026-08-23: Deebo Samuel: The 49ers brought Deebo Samuel back at the start of camp after Ricky Pearsall was lost for the season, a move described as pure depth desperation. [8-23 highstakes draft]
+- 2026-10-01: Brandin Cooks was promoted from the practice squad to the 53-man roster; Dante Pettis signed to the practice squad on 9/29. [pod 10-2, official]
 
 ## Injuries and status
 
@@ -204,6 +206,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: KhaDarel Hodge (knee), Nick Bosa (knee, calf), Dre Greenlaw (quad) and Mike Evans (ribs) DNP Wednesday; Christian McCaffrey and Trent Williams (neck) listed as rest; Shanahan on Evans practicing: not Wednesday, hopefully later in the week (team report).
 - 2026-10-01: Mike Evans: General manager John Lynch said Evans will make every attempt to play vs DEN after missing Wednesday's practice with the rib injury. [pod 10-1, beat]
 - 2026-10-01: Mike Evans: did not practice Thursday (ribs), worked on the side; second straight DNP (reports).
+- 2026-10-01: Mike Evans (ribs) did not practice Wednesday or Thursday; John Lynch says Evans will make every attempt to play. [pod 10-2, official]
 
 ## Other
 

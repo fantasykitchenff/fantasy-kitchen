@@ -141,6 +141,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-26: Malachi Fields: Camp reports say the rookie is beating out Darius Slayton and Darnell Mooney and could open as the X receiver opposite Nabers, likely in a rotation with Mooney and Slayton at first. [8-26 rankings and news updates]
 - 2026-08-26: Malachi Fields: At Notre Dame he was used almost exclusively as a vertical field stretcher with a very high aDOT and low target volume, then showed a fuller route tree at the Senior Bowl. [8-26 rankings and news updates]
+- 2026-09-28: Malachi Fields: 2 catches for 19 on 2 targets in Week 3 vs TEN. [pod 10-1, deployment]
 
 ## Transactions and contracts
 
@@ -173,6 +174,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Brian Burns: Torn ACL in the right knee in the fourth quarter vs TEN, confirmed by John Harbaugh; placed on injured reserve Sep 29, season over. [pod 9-30, official]
 - 2026-09-21: Malik Nabers: The Week 2 injury was a right shoulder dislocation at LAR that he put back in himself; he returned to the game, was limited Sep 23 and carried no designation into Week 3, where he played about 80% of the snaps. [pod 9-30, beat]
 - 2026-09-30: Tyrone Tracy Jr. (knee) and LT Andrew Thomas (groin) DNP Wednesday; John Harbaugh called Tracy day to day; Cam Skattebo full and Malik Nabers not listed (team report).
+- 2026-10-01: Tyrone Tracy Jr. did not practice Wednesday and was limited Thursday (knee); the head coach does not think it is serious. [pod 10-2, official]
 
 ## Other
 

@@ -6,9 +6,9 @@
   "dek": "Chris Olave has 36 targets and one touchdown. That price will not last, so go get him today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T17:20:00Z",
-  "updatedAt": "2026-10-02T02:46:30Z",
+  "updatedAt": "2026-10-02T21:00:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Thu 10:45 PM ET: added Justin Jefferson, Puka Nacua, Nico Collins, Jalen Hurts, Chase Brown, Malik Nabers, Colston Loveland, Tucker Kraft, Ladd McConkey and Breece Hall as buys, and Derrick Henry, Davante Adams, Jaylen Warren, David Montgomery, Michael Wilson, Mark Andrews, Kyler Murray and Kalif Raymond as sells. Omarion Hampton is RB12 rest of season for me, so the ask goes up to a top-15 RB who catches passes or a WR2.\n\nUpdated Wed 3:45 PM ET: Omarion Hampton's snap share has gone 58, 63 and 42 percent; the sell call stands.\n\nUpdated Wed 2:20 PM ET: Klint Kubiak said Monday that Mike Washington Jr. earned more opportunities, Ashton Jeanty's last 40 carries went for 104 yards and he visited the trainers @NO; the trade-for call on Jeanty stands, with the first-half carry split vs KC as the check.\n\nThree weeks in, the box scores and the usage are telling two different stories, and the trade market reads the box scores. The buys below are getting the ball and not the points yet. The sells are getting the points without the ball, or are about to lose the role. Every price is written for 12-team PPR leagues; scale it to your league.",
+  "intro_md": "Updated Fri 5:00 PM ET: Justin Jefferson is ruled out vs MIA and stays a buy at WR5 rest of season; Puka Nacua has no designation with McVay limiting his snaps; Nico Collins practiced Friday; Ladd McConkey missed Thursday and is questionable, and the buy calls stand.\n\nUpdated Thu 10:45 PM ET: added Justin Jefferson, Puka Nacua, Nico Collins, Jalen Hurts, Chase Brown, Malik Nabers, Colston Loveland, Tucker Kraft, Ladd McConkey and Breece Hall as buys, and Derrick Henry, Davante Adams, Jaylen Warren, David Montgomery, Michael Wilson, Mark Andrews, Kyler Murray and Kalif Raymond as sells. Omarion Hampton is RB12 rest of season for me, so the ask goes up to a top-15 RB who catches passes or a WR2.\n\nUpdated Wed 3:45 PM ET: Omarion Hampton's snap share has gone 58, 63 and 42 percent; the sell call stands.\n\nUpdated Wed 2:20 PM ET: Klint Kubiak said Monday that Mike Washington Jr. earned more opportunities, Ashton Jeanty's last 40 carries went for 104 yards and he visited the trainers @NO; the trade-for call on Jeanty stands, with the first-half carry split vs KC as the check.\n\nThree weeks in, the box scores and the usage are telling two different stories, and the trade market reads the box scores. The buys below are getting the ball and not the points yet. The sells are getting the points without the ball, or are about to lose the role. Every price is written for 12-team PPR leagues; scale it to your league.",
   "outro_md": "Heat Check has the usage trends behind these calls, and the Menu lands Wednesday with every one of them ranked.",
   "data": {
     "buy": [
@@ -18,8 +18,8 @@
         "pos": "WR",
         "action": "TRADE_FOR",
         "price": "a WR2 and a bench RB",
-        "why": "Jefferson sprained his ankle in Week 3 and finished with 2 catches for 32 on 7 snaps, then missed practice Wednesday and Thursday. The sprain is not a high one and Kevin O'Connell calls him day to day, so his manager is selling a scare.",
-        "verdict": "He is WR5 rest of season for me. Trade for him while the ankle has his manager nervous; offer a WR2 and a bench RB."
+        "why": "Jefferson sprained his ankle in Week 3 and finished with 2 catches for 32 on 7 snaps, then missed every practice and was ruled out Friday vs MIA. The sprain is not a high one and Kevin O'Connell still calls him day to day, so his manager is selling a one-week scare.",
+        "verdict": "He is WR5 rest of season for me. Trade for him while he sits this week; offer a WR2 and a bench RB."
       },
       {
         "player": "Puka Nacua",
@@ -27,8 +27,8 @@
         "pos": "WR",
         "action": "TRADE_FOR",
         "price": "a WR2",
-        "why": "Nacua has not played since Week 1 with the groin, and he was limited Wednesday in his first practice in about two weeks. Sean McVay expects him to play @PHI, and Davante Adams drew 13 targets on 57 routes @DEN with him out.",
-        "verdict": "He is WR6 rest of season for me. Trade for him before he plays a full game; offer a WR2."
+        "why": "Nacua has not played since Week 1 with the groin. He has no designation for Sunday @PHI, though Sean McVay said his snaps may be limited, and Davante Adams drew 13 targets on 57 routes @DEN with him out.",
+        "verdict": "He is WR6 rest of season for me. Trade for him before a full game shows the price; offer a WR2."
       },
       {
         "player": "Nico Collins",
@@ -36,7 +36,7 @@
         "pos": "WR",
         "action": "TRADE_FOR",
         "price": "a WR2",
-        "why": "Collins missed Weeks 2 and 3 with a grade 1 hamstring strain and practiced Wednesday and Thursday, his first two sessions back. Kayshon Boutte led the Houston receivers at 69 percent of the snaps in Week 3 without him.",
+        "why": "Collins missed Weeks 2 and 3 with a grade 1 hamstring strain, was limited Wednesday and Thursday and practiced Friday. Kayshon Boutte led the Houston receivers at 69 percent of the snaps in Week 3 without him.",
         "verdict": "He is WR8 rest of season for me. Trade for him before he plays vs DAL; offer a WR2."
       },
       {
@@ -117,7 +117,7 @@
         "pos": "WR",
         "action": "TRADE_FOR",
         "price": "a WR3",
-        "why": "McConkey played 49 and 46 percent of the snaps around a rib injury, then 88 percent @BUF in Week 3, and he has 12 catches for 183 on 15 targets. He was limited Wednesday with a new foot injury, which keeps the price down.",
+        "why": "McConkey played 49 and 46 percent of the snaps around a rib injury, then 88 percent @BUF in Week 3, and he has 12 catches for 183 on 15 targets. A new foot injury had him limited Wednesday, out of practice Thursday and questionable @SEA, which keeps the price down.",
         "verdict": "He is WR23 rest of season for me. Trade for him; offer a WR3."
       },
       {
