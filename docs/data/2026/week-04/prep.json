@@ -1,0 +1,330 @@
+{
+  "series": "prep",
+  "season": 2026,
+  "week": 4,
+  "title": "Prep Notes, Week 4",
+  "dek": "Jadarian Price is out, so Emanuel Wilson takes the Seattle backfield with George Holani; Keenan Allen missed Friday's practice and is a true London decision.",
+  "format": "PPR",
+  "publishedAt": "2026-10-02T21:45:00Z",
+  "updatedAt": "2026-10-02T21:45:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Friday's final reports are in. Eleven fantasy-relevant players are out, nobody is doubtful, and seven are questionable. The late surprise is in Seattle: Jadarian Price is out with the chest, so Emanuel Wilson moves up to RB31 in a split with George Holani. Nico Collins and DJ Moore have no designation and play. Rankings are for full PPR.\n\nThe true Sunday decisions are Keenan Allen and Terry McLaurin in London (inactives at 8:00 AM ET), Ladd McConkey and Mike Evans in the 4:25 PM window, and Jalen Coker on Sunday night. Have a 1 PM backup ready for anyone you play in London or late.",
+  "data": {
+    "report": [
+      {
+        "player": "Caleb Williams",
+        "team": "CHI",
+        "pos": "QB",
+        "status": "O",
+        "injury": "hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Grade 2 hamstring, three to four weeks; the backup starts vs NYJ.",
+        "verdict": "Out. Pivot to Jared Goff, QB8 for me against CAR's depleted secondary.",
+        "action": "PIVOT",
+        "to": "Jared Goff"
+      },
+      {
+        "player": "Justin Jefferson",
+        "team": "MIN",
+        "pos": "WR",
+        "status": "O",
+        "injury": "ankle",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Missed every practice; O'Connell still calls him day to day. Addison drew 9 of Kyler Murray's 29 throws at TB.",
+        "verdict": "Out. Pivot to Jordan Addison, WR25 for me this week, a high-end WR3.",
+        "action": "PIVOT",
+        "to": "Jordan Addison"
+      },
+      {
+        "player": "Adonai Mitchell",
+        "team": "NYJ",
+        "pos": "WR",
+        "status": "O",
+        "injury": "finger",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Ruled out with Hall and Mason Taylor; Garrett Wilson and Kenyon Sadiq take the targets.",
+        "verdict": "Out. Sit him and use any WR3 from the Menu.",
+        "action": "SIT"
+      },
+      {
+        "player": "Breece Hall",
+        "team": "NYJ",
+        "pos": "RB",
+        "status": "O",
+        "injury": "quad",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Ruled out after three missed practices; week to week. Braelon Allen played every snap after Hall left at DET.",
+        "verdict": "Out. Pivot to Braelon Allen, RB20 for me this week, an RB2.",
+        "action": "PIVOT",
+        "to": "Braelon Allen"
+      },
+      {
+        "player": "Mason Taylor",
+        "team": "NYJ",
+        "pos": "TE",
+        "status": "O",
+        "injury": "thumb",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "His second straight missed game; Sadiq had 8 of 37 targets at DET without him.",
+        "verdict": "Out. Pivot to Juwan Johnson, TE8 for me this week, if Sadiq's back worries you.",
+        "action": "PIVOT",
+        "to": "Juwan Johnson"
+      },
+      {
+        "player": "Dallas Goedert",
+        "team": "PHI",
+        "pos": "TE",
+        "status": "O",
+        "injury": "knee",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Sprained MCL, week to week; Mundt and Ertz split the tight end snaps.",
+        "verdict": "Out. Pivot to Juwan Johnson, TE8 for me this week.",
+        "action": "PIVOT",
+        "to": "Juwan Johnson"
+      },
+      {
+        "player": "DeVonta Smith",
+        "team": "PHI",
+        "pos": "WR",
+        "status": "O",
+        "injury": "hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Missed every practice; two to three games expected.",
+        "verdict": "Out. Pivot to Dontayvion Wicks, WR33 for me, a low-end WR3.",
+        "action": "PIVOT",
+        "to": "Dontayvion Wicks"
+      },
+      {
+        "player": "Hollywood Brown",
+        "team": "PHI",
+        "pos": "WR",
+        "status": "O",
+        "injury": "ankle",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Out with Smith and Goedert; Wicks ran 81 percent of the routes at CHI.",
+        "verdict": "Out. Pivot to Dontayvion Wicks, WR33 for me.",
+        "action": "PIVOT",
+        "to": "Dontayvion Wicks"
+      },
+      {
+        "player": "Jadarian Price",
+        "team": "SEA",
+        "pos": "RB",
+        "status": "O",
+        "injury": "chest",
+        "practice": [
+          "LP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Mike Macdonald said he reinjured the chest Wednesday. Charbonnet is Week 5 at the earliest, so Wilson and Holani split it.",
+        "verdict": "Out. Pivot to Emanuel Wilson, RB31 for me, a low-end RB3.",
+        "action": "PIVOT",
+        "to": "Emanuel Wilson"
+      },
+      {
+        "player": "Jayden Daniels",
+        "team": "WAS",
+        "pos": "QB",
+        "status": "O",
+        "injury": "elbow",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "Dislocated left elbow; practiced in a brace all week and was ruled out. Marcus Mariota threw 3 TD vs SEA.",
+        "verdict": "Out. Pivot to Marcus Mariota, QB17 for me, a streamer vs IND.",
+        "action": "PIVOT",
+        "to": "Marcus Mariota"
+      },
+      {
+        "player": "Rachaad White",
+        "team": "WAS",
+        "pos": "RB",
+        "status": "O",
+        "injury": "shoulder",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Three missed practices. Jacory Croskey-Merritt has 58 percent of the team's carries.",
+        "verdict": "Out. Pivot to Jacory Croskey-Merritt, RB24 for me this week, an RB2.",
+        "action": "PIVOT",
+        "to": "Jacory Croskey-Merritt"
+      },
+      {
+        "player": "Jalen Coker",
+        "team": "CAR",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "quad",
+        "practice": [
+          "DNP",
+          "LP",
+          "LP"
+        ],
+        "read": "Limited Thursday and Friday; a true Sunday night decision. Darren Waller led CAR with 8 targets in Week 3 on a 51 percent snap share.",
+        "verdict": "Outside my top 50 receivers even if he plays; sit him. If he is inactive, Darren Waller is a streamer at tight end.",
+        "action": "MONITOR",
+        "watch": "Sunday night inactives at 6:50 PM ET"
+      },
+      {
+        "player": "Keenan Allen",
+        "team": "IND",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "groin",
+        "practice": [
+          "LP",
+          "LP",
+          "DNP"
+        ],
+        "read": "Went the wrong way Friday: limited Wednesday (rest) and Thursday, then no practice. Pierce is on IR, so Downs and Warren take the targets if he sits.",
+        "verdict": "WR36 for me, a low-end WR3 if he plays; with a 9:30 AM ET kickoff in London, have a 1 PM receiver ready.",
+        "action": "MONITOR",
+        "watch": "London inactives at 8:00 AM ET"
+      },
+      {
+        "player": "Ladd McConkey",
+        "team": "LAC",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "foot",
+        "practice": [
+          "LP",
+          "DNP",
+          "LP"
+        ],
+        "read": "Back to limited Friday but did not run routes in the open portion. Quentin Johnston ran routes on 37 of 43 dropbacks vs BUF.",
+        "verdict": "WR40 for me, a low-end flex play; keep a 1 PM option off your bench until the 4:25 PM inactives.",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives at 2:55 PM ET"
+      },
+      {
+        "player": "Kenyon Sadiq",
+        "team": "NYJ",
+        "pos": "TE",
+        "status": "Q",
+        "injury": "back",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "Limited all week from the landing on his Week 3 touchdown; 58 percent of the routes and 21.6 percent of the targets.",
+        "verdict": "TE14 for me, a borderline start this week if he is active.",
+        "action": "START",
+        "watch": "Sunday's inactives at 11:30 AM ET",
+        "slot": "TE1"
+      },
+      {
+        "player": "Mike Evans",
+        "team": "SF",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "ribs",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Three missed practices, side work only Friday. John Lynch says he will make every attempt to play; Brandin Cooks was promoted for depth.",
+        "verdict": "Outside my top 50 receivers with the ribs, a dart throw at best; sit him. George Kittle and Christian McCaffrey take the targets either way.",
+        "action": "SIT",
+        "watch": "Sunday's inactives at 2:55 PM ET"
+      },
+      {
+        "player": "Tyjae Spears",
+        "team": "TEN",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "ankle",
+        "practice": [
+          "DNP",
+          "LP",
+          "FP"
+        ],
+        "read": "Full practice Friday, so he should play; Tony Pollard has no designation and 80 percent of early downs.",
+        "verdict": "RB39 for me, a dart throw behind Pollard; sit him.",
+        "action": "SIT",
+        "watch": "Sunday's inactives at 11:30 AM ET"
+      },
+      {
+        "player": "Terry McLaurin",
+        "team": "WAS",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "hamstring",
+        "practice": [
+          "FP",
+          "FP",
+          "LP"
+        ],
+        "read": "A new hamstring listing Friday, limited; Mariota starts again. Stefon Diggs is the next man up.",
+        "verdict": "WR41 for me, a low-end flex play to a dart throw; have Diggs or a 1 PM backup ready.",
+        "action": "MONITOR",
+        "watch": "London inactives at 8:00 AM ET"
+      }
+    ],
+    "reversals": [
+      {
+        "player": "Jadarian Price",
+        "was": "RB31, a sit",
+        "now": "Out. Pivot to Emanuel Wilson, RB31 for me."
+      },
+      {
+        "player": "Keenan Allen",
+        "was": "WR32, a low-end WR3",
+        "now": "WR36 after a Friday DNP; a low-end WR3 only if he is active in London."
+      }
+    ],
+    "gtd": [
+      "Keenan Allen",
+      "Terry McLaurin",
+      "Ladd McConkey",
+      "Jalen Coker"
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w04-prep-thread-2730",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

@@ -148,3 +148,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Other
 
 - 2026-08-20: Jets' bye is Week 13; their fantasy-playoff-week opponents include the Patriots and Vikings. [8-20 buying or selling rookie hype]
+- 2026-10-02: Kenyon Sadiq (back) limited Friday, his third limited practice; questionable at CHI (Jets.com Friday report).

@@ -217,3 +217,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Defense has allowed the fewest fantasy points to tight ends through Week 3 (reports).
 - 2026-09-30: Schedule: DEN at home in Week 4, then @SEA, WAS, @ATL, bye in Week 8, LV, @DAL. [pod 9-29, official]
 
+- 2026-10-02: Mike Evans (ribs) questionable for Week 4 vs DEN after three missed practices, side work only Friday; Nick Bosa (calf) out (49erswebzone, NBC Sports).

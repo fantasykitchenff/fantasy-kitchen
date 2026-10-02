@@ -135,3 +135,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Kenneth Walker missed no games in 2025 yet averaged only about 12 fantasy ppg in this offense; Greg Zabel was drafted last year to improve the line. [8-5 rookie RBs and TEs to watch]
 - 2026-09-30: Defense has allowed the fewest fantasy points to wide receivers through Week 3 and is top five against running backs; Week 4 vs LAC is at Lumen Field, 4:25 PM ET (reports, team site).
 - 2026-09-27: SEA defense: Allowed 33 points @WAS but only 258 yards at 4.0 a play; the three Seattle turnovers led to 20 of the points, including a 50-yard interception return. [pod 9-30, deployment]
+- 2026-10-02: Jadarian Price (chest) ruled out for Week 4 vs LAC after a limited Wednesday and a Thursday DNP; Mike Macdonald said he reinjured it Wednesday. Emanuel Wilson and George Holani split the backfield (NBC Sports, DraftSharks).

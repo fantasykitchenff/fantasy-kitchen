@@ -6,12 +6,40 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-02T21:15:00Z",
+  "updatedAt": "2026-10-02T21:45:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Jadarian Price",
+        "action": "PIVOT",
+        "to": "Emanuel Wilson",
+        "text": "Seattle ruled Jadarian Price (SEA) out vs LAC Friday with the chest injury he reinjured Wednesday. Zach Charbonnet is Week 5 at the earliest, so Emanuel Wilson and George Holani split the backfield; Wilson ran for 92 yards on 21 carries in Week 2 when Price left. Wilson is RB31 for me, a low-end RB3. Pivot to Wilson.",
+        "at": "2026-10-02T21:45:00Z"
+      },
+      {
+        "player": "Keenan Allen",
+        "action": "MONITOR",
+        "watch": "London inactives at 8:00 AM ET",
+        "text": "Keenan Allen (IND) did not practice Friday after two limited days and is questionable with the groin for the 9:30 AM ET kickoff in London. He drops to WR36 for me, a low-end WR3 if he plays. Monitor the inactives at 8:00 AM ET and have a 1 PM receiver ready.",
+        "at": "2026-10-02T21:45:00Z"
+      },
+      {
+        "player": "Nico Collins",
+        "action": "START",
+        "slot": "WR2",
+        "text": "Nico Collins (HOU) practiced in full Friday after limited sessions Wednesday and Thursday and has no designation for DAL, his first game back from the hamstring. WR13 for me, borderline WR1/WR2 this week.",
+        "at": "2026-10-02T21:45:00Z"
+      },
+      {
+        "player": "DJ Moore",
+        "action": "START",
+        "slot": "WR2",
+        "text": "DJ Moore (BUF) was limited all week with the shoulder but has no designation for NE. He led Buffalo with 10 targets on 64 percent of the snaps last week. WR23 for me this week, a WR2.",
+        "at": "2026-10-02T21:45:00Z"
+      },
       {
         "player": "Justin Jefferson",
         "action": "PIVOT",

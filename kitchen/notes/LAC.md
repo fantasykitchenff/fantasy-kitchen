@@ -181,3 +181,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: LAC lost 24-16 at BUF after scoring 14 vs LV in Week 2. [pod 9-28, official]
 - 2026-09-30: Defense has allowed the ninth-most fantasy points to tight ends through Week 3 (reports).
 - 2026-09-27: Team: 0-3 with 14, 14 and 16 points (44). At BUF the defense forced five takeaways and the offense scored one touchdown on four red-zone trips. Schedule: at SEA, DEN, at KC, bye Week 7, at LAR, HOU, at BAL. [pod 9-29, official]
+- 2026-10-02: Ladd McConkey (foot) limited Friday after a Thursday DNP; questionable at SEA, did not run routes in the open portion Friday (NBC Sports, DraftSharks).
