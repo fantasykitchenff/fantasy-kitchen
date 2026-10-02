@@ -55,6 +55,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Rico Dowdle: Dowdle has shown he can handle a huge workload and has a path to the Steelers' goal-line role, but Jaylen Warren is expected to catch far more passes. [8-23 highstakes draft]
 - 2026-09-27: Jaylen Warren 17 for 127 and 3 catches for 49, 20 touches, 90% snaps with Rico Dowdle (right toe) inactive; Dowdle did not practice Tuesday 9/29 and is likely out Thursday vs CLE unless he practices Wednesday. [pod 9-28, deployment]
 - 2026-09-30: Rico Dowdle (toe) did not practice Monday (an estimated line from the walkthrough) or Tuesday on the Week 4 report, and no Wednesday line had posted when checked Wednesday afternoon (an earlier line called the Monday report Wednesday's and counted three DNPs, corrected 9/30); Jalen Ramsey (wrist) and Brandin Echols (concussion) estimated limited, Joey Porter Jr. full (team report).
+- 2026-10-01: Jaylen Warren 17 carries for 93 at CLE with Rico Dowdle (toe) inactive; PIT lost 27-24 in the snow (Yahoo, Steelers.com).
 
 ## Receivers
 

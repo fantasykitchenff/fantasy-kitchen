@@ -6,7 +6,7 @@
   "dek": "The order is refreshed for Sunday: Jared Goff is a top-8 quarterback against CAR's depleted secondary, Patrick Mahomes is QB5, Jeremiyah Love is a top-8 back, and Puka Nacua and Justin Jefferson are back on the board with flags.",
   "format": "PPR",
   "publishedAt": "2026-09-30T10:00:00Z",
-  "updatedAt": "2026-10-02T16:15:00Z",
+  "updatedAt": "2026-10-02T16:30:00Z",
   "author": "Chef Hazy",
   "intro_md": "Updated Fri 12:15 PM ET: Jayden Daniels is out for the London game, so Marcus Mariota (QB19) is a streamer vs IND; Breece Hall and Mason Taylor are out, leaving Braelon Allen at RB21 and Kenyon Sadiq at TE12 pending his Friday designation; Rachaad White missed a third practice. No rank moves.\n\nUpdated Thu 7:00 PM ET: The order is refreshed for Sunday. Jared Goff moves to QB8 and Patrick Mahomes to QB5, Drake Maye drops to QB15, Jeremiyah Love is RB8 and James Cook III RB11, Saquon Barkley falls to RB17, Christian Watson is WR11 and Davante Adams WR20, Tyler Warren is TE4, and Puka Nacua (WR14) and Justin Jefferson (WR29) are back on the board with flags and a backup ready until Friday's report.\n\nUpdated Thu 6:15 PM ET: Lamar Jackson, Zay Flowers and Tony Pollard practiced in full Thursday and lose their flags, Bucky Irving and DJ Moore were limited again and keep theirs, Justin Jefferson missed a second practice, and Travis Etienne went on IR; no rank moves.\n\nUpdated Thu 4:50 PM ET: Colston Loveland's TE12 row reads sit on the usage, Kenyon Sadiq, DJ Moore and Tony Pollard carry flags after limited or missed Wednesdays, DeVonta Smith's row carries a second DNP, Nico Collins practiced again, Watson is off the report, and A.J. Brown is eligible Week 6; no rank moves.\n\nUpdated Thu 12:45 PM ET: Rachaad White sat a second straight practice in London, and his row and Jacory Croskey-Merritt's carry it; no rank moves.\n\nWeek 4 has no byes and a lot of empty chairs. Caleb Williams, Baker Mayfield and Jaxson Dart are out at quarterback, De'Von Achane and Jordan Mason are on IR, Travis Etienne is out for Monday night, Rico Dowdle has not practiced on a short week, and Breece Hall is week to week. Every one of them has a pivot listed under Off the Menu. Rankings are for full PPR.\n\nThe biggest moves come from the snap counts, not the box scores. Warren is a top-10 back with 90 percent of the snaps and 20 touches in Dowdle's absence before Thursday's game at CLE. Chuba Hubbard (RB12) and Aaron Jones Sr. (RB13) sit on the RB1/RB2 line on deployment: 19 carries and 84 percent of the snaps for Hubbard, 78 percent of Minnesota's carries for Jones against the defense that has allowed the most points to running backs. Omarion Hampton lost his passing downs, Emeka Egbuka and Chris Godwin have an undrafted rookie at quarterback, and Brian Thomas Jr. is playing 37 percent of the snaps.\n\nNico Collins carries a flag at WR12: he practiced Wednesday and Thursday for the first time since the hamstring, and Friday decides it. Prep Notes revisits every flag Friday after the final injury report and updates this page.",
   "outro_md": "Tiers are courses. The top of a tier is the safest plate; the bottom is where the flags live. A questionable player keeps his action and carries the flag until Friday. Specials are matchup plays outside the top tiers, and Off the Menu names the pivot for every player who is out.",
@@ -2392,6 +2392,16 @@
           "note": "On IR for the season with the knee. Winston starts, McCarthy is the backup.",
           "action": "PIVOT",
           "to": "Jared Goff"
+        },
+        {
+          "player": "Jayden Daniels",
+          "team": "WAS",
+          "pos": "QB",
+          "opp": "vs IND",
+          "flag": "OUT",
+          "note": "Dislocated left elbow; ruled out Friday after limited practices in a brace. Mariota starts in London.",
+          "action": "PIVOT",
+          "to": "Marcus Mariota"
         }
       ],
       "RB": [
@@ -2444,6 +2454,16 @@
           "note": "Ruled out Wednesday for Thursday night: toe, walking boot, no practice all week.",
           "action": "PIVOT",
           "to": "Jaylen Warren"
+        },
+        {
+          "player": "Breece Hall",
+          "team": "NYJ",
+          "pos": "RB",
+          "opp": "@CHI",
+          "flag": "OUT",
+          "note": "Quad; ruled out Friday after missing Wednesday and Thursday, week to week. Allen took every snap after he left at DET.",
+          "action": "PIVOT",
+          "to": "Braelon Allen"
         }
       ],
       "WR": [
@@ -2478,6 +2498,16 @@
           "note": "Sprained MCL, DNP Wednesday and Thursday, week to week, not on IR. Mundt and Ertz split the tight end snaps if he sits again.",
           "action": "PIVOT",
           "to": "Juwan Johnson"
+        },
+        {
+          "player": "Mason Taylor",
+          "team": "NYJ",
+          "pos": "TE",
+          "opp": "@CHI",
+          "flag": "OUT",
+          "note": "Thumb; ruled out Friday, his second straight missed game. Sadiq had 8 of 37 targets at DET without him.",
+          "action": "PIVOT",
+          "to": "Kenyon Sadiq"
         }
       ]
     },
