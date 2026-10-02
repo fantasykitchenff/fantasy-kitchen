@@ -18,6 +18,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Scheme and tendencies
 
 - 2026-08-13: Drew Petzing's offense is expected to blend with the existing Campbell/Johnson-style passing game, with the tight end getting a lot of first-read looks. [8-13 TE talk]
+- 2026-09-27: Detroit Lions: Scored 31 points in each of the first three games; 31-24 over NYJ with Goff 25 of 32 for 269 and 2 TD. [pod 9-29, deployment]
 
 ## Quarterback
 
@@ -43,6 +44,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Jahmyr Gibbs: Gibbs has a new play-caller and lost short-yardage specialist David Montgomery; he edged Bijan Robinson in high-value touches per game and HVT share in 2025. [8-12 high value touches RBs]
 - 2026-08-12: Jahmyr Gibbs: Gibbs ended his hold-in with a three-year, $51.5 million extension, $1 million more than Bijan Robinson's deal. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Jahmyr Gibbs: After Dan Campbell took over play-calling midway through 2025 his targets rose from 3.9 to 7.0 per game and PPR points from 18.2 to 24.8 per game, with carries steady around 14. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
+- 2026-09-27: Jahmyr Gibbs: 20 carries for 99 yards and 2 TD plus 7 catches for 65 and a TD vs NYJ (164 scrimmage yards); through three games he has 300+ rushing yards, 4 rushing TD, 150+ receiving yards and 2 receiving TD. Sione Vaki 6 for 26. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -66,6 +68,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Jameson Williams: Williams was unproductive through Week 8 of 2025 but exploded after the play-calling change and LaPorta's injury, finishing as a top-10 fantasy receiver. [8-20 bust and value picks for 2026]
 - 2026-08-24: Jameson Williams: Williams finished as the half-PPR WR9 in 2025 after a slow start; from Week 10 on, after Dan Campbell took over play-calling, he was the WR5 on a 1,400-yard pace. Drew Petzing is OC under Campbell's vision. [8-24 adp adjustments]
 - 2026-08-26: Jameson Williams: Historically LaPorta's on/off splits have affected Williams; after Dan Campbell took play-calling from John Morton midway through 2025 Williams was dominant in the second half. [8-26 rankings and news updates]
+- 2026-09-27: Jameson Williams 4 of 4 for 49 vs NYJ; Sam LaPorta 3 for 44; Jahmyr Gibbs 164 scrimmage yards and 3 touchdowns. [pod 9-28, deployment]
+- 2026-09-27: Isaac TeSlaa: 3 catches for 66 yards vs NYJ, including a 49-yarder that set up the winning touchdown. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -115,3 +119,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-18: The Lions went 9-8 in 2025 as the second-most injured team (most injured on defense); they have the easiest 2026 strength of schedule, including the Giants, Titans and Cardinals. [7-18 nfc north breakdown]
 - 2026-08-12: Detroit is favored in 14 of 17 games; Sean Tucker, Blake Corum, Croskey-Merritt, Chris Rodriguez and Rhamondre Stevenson all had more carries inside the 5 than Gibbs or Bijan Robinson in 2025. [8-12 top 10 rb rankings]
+- 2026-09-30: Defense allowed the most fantasy points to quarterbacks through two weeks: both opposing quarterbacks threw three touchdowns and combined for 700-plus passing yards (reports).
+- 2026-09-27: Lions defense: Allowed Geno Smith 31 of 37 for 321 yards and 3 TD in Week 3 while recording 5 sacks; 28th in defensive DVOA through Week 2 (run defense 31st, pass defense 19th). [pod 9-29, deployment]

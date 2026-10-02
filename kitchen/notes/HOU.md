@@ -20,6 +20,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: C.J. Stroud: C.J. Stroud looks more comfortable in the offense and is taking better care of the football; one bad game in poor conditions late in 2025 colored perception of him. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: C.J. Stroud: His adjusted completion rate and PFF passing grade have declined in each of his first three seasons. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-20: C.J. Stroud: C.J. Stroud has shown signs of pressure affecting his play; the line is projected to improve from worst to roughly 25th. [8-20 Offensive Line Rankings]
+- 2026-09-27: C.J. Stroud: 16 of 27 for 167, 1 TD, 0 INT at IND; targets Hutchinson 6, Moreau 4, Schultz 3, Boutte 2. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -44,6 +45,12 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Woody Marks: Marks had a strong preseason game and beat reporting expects him to see a workload close to David Montgomery's. [8-24 embarrased to love players]
 - 2026-08-26: David Montgomery: One beat report said the split with Woody Marks might be close to 50/50, while many earlier reports described Montgomery as a full three-down workhorse; camp reps may be lightened because he is aging. [8-26 rankings and news updates]
 - 2026-08-26: Woody Marks: Averaged 3.6 yards per carry in 2025 and had a strong preseason game; he is a capable handcuff with some standalone value behind Montgomery. [8-26 rankings and news updates]
+- 2026-09-27: David Montgomery 34 snaps (63%), 11 carries and 2 catches for 48; Woody Marks 20 snaps (37%), 5 carries and 1 catch for 21 and a touchdown. [pod 9-28, deployment]
+- 2026-09-27: David Montgomery: Through three games: 37 carries for 103 (2.8 per carry), 7 catches for 48, 44 touches, 56 routes; Woody Marks 22 for 65 and a TD, 7 for 31 on 8 targets, 29 touches, 50 routes. Snaps were about even in Week 1, 42 to 38 in Week 2 and 34 to 20 in Week 3. [pod 9-29, deployment]
+- 2026-09-27: Woody Marks: Scored Houston's 1-yard rushing touchdown in the fourth quarter at IND; Montgomery was stopped on a fourth down in Colts territory and was hit at or behind the line on 68% of his runs this season, the highest rate in the league. [pod 9-29, deployment]
+- 2026-09-03: Woody Marks: A Houston Chronicle beat report said the Marks-Montgomery split would be close to even, if not exactly 50-50, after the two were used at similar rates in camp. [pod 9-29, beat]
+- 2026-09-30: Woody Marks: a national beat report says Houston is expected to give Marks more work; season to date Marks 22 carries for 65 (3.0), David Montgomery 37 for 103 (2.8). [pod 9-30, beat]
+- 2026-09-27: David Montgomery: 44 of the backs' 73 touches through three games (60%). [pod 9-30, deployment]
 
 ## Receivers
 
@@ -79,6 +86,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-12: Dalton Schultz: Dalton Schultz remains the clear TE1 and should keep a meaningful role. [8-12 130 training camp storylines and league updates]
 - 2026-08-19: Dalton Schultz: Dalton Schultz is a candidate to absorb secondary targets with Higgins out. [8-19 Offenses to look out for]
+- 2026-09-27: Foster Moreau 31 snaps (57%) to Dalton Schultz 29, Stover 24. [pod 9-28, deployment]
+- 2026-09-27: Dalton Schultz: Targets 8, 14 and 3 through three games (4-35, 12-140, 3-30); in Week 3 he played 15.4% of the 12-personnel snaps and 58.3% of the 13-personnel snaps, and Foster Moreau caught the 1-yard touchdown. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -112,7 +121,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jayden Higgins: Jayden Higgins was lost for the season with an injury in the week before Aug. 24, leaving Houston needing a starting outside receiver. [8-24 adp adjustments]
 - 2026-08-26: Jayden Higgins: Suffered a torn ACL in camp, prompting the Texans to trade for Kayshon Boutte. [8-26 rankings and news updates]
 - 2026-08-26: Tank Dell: Reportedly has not been able to sustain any type of practice schedule since his devastating knee injury; his roster spot is in jeopardy. [8-26 rankings and news updates]
+- 2026-09-26: Nico Collins: hamstring, out Week 3 (second straight), no timetable; Kayshon Boutte 37 snaps (69%), Wayne 33, Hutchinson 29. [pod 9-28, beat]
+- 2026-09-28: Nico Collins: DeMeco Ryans said he is hopeful Collins plays Week 4 vs DAL; Collins has not practiced since the grade 1 hamstring strain and needs a limited session at least to have a chance (reports).
+- 2026-09-30: Nico Collins: Returned to practice as a limited participant on Wednesday, his first session since the hamstring strain that cost him Weeks 2 and 3; DeMeco Ryans is hopeful he plays vs DAL. [pod 9-29, official]
+- 2026-10-01: Nico Collins: practiced again Thursday after a limited Wednesday, his first two sessions since the hamstring strain that cost Weeks 2 and 3; trending toward playing vs DAL. [pod 10-1, beat]
 
 ## Other
 
 - 2026-07-09: Houston went 12-5, winning its last nine, with an offense 19th in yards and 13th in points that was terrible in the red zone; their line ranked last in run-block win rate and they face the seventh-hardest 2026 schedule. [7-9 afc south breakdown]
+- 2026-09-30: Defense has allowed the most fantasy points to wide receivers through three weeks (reports).
+- 2026-09-30: Week 4 is at home vs DAL; early-week line HOU -2.5 with a 47.5 total (about 25 implied points). HOU is 0-3: 31-36 BUF, 6-20 CIN, 17-19 at IND. [pod 9-29, official]

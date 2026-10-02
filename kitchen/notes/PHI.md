@@ -23,6 +23,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Sean Mannion called the tush push extremely effective; Hurts has doubled down on under-center footwork, and the offensive operation looks cleaner than in 2025. [8-12 Camp Updates Article]
 - 2026-08-19: Under Kevin Patullo the Eagles dropped back from under center at the league's third-lowest rate in 2025; the first play of camp under the new staff was a 12-personnel under-center toss to Barkley. [8-19 RBs drafting and fading]
 - 2026-08-24: Jalen Hurts: Officials called more alignment penalties on the tush push last year and defenses attacked the ball, limiting its use; Hurts' rushing success rate has dropped each of the past four years. [8-24 QB Rankings]
+- 2026-09-28: Seven points at CHI, the only score a quarterback sneak on the last play of the first half; two straight three-and-outs in the third quarter. [pod 9-29, deployment]
 
 ## Quarterback
 
@@ -41,6 +42,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jalen Hurts: Lost AJ Brown via trade; rookies Makai Lemon and Eli Stowers have had shaky camps and Lemon is injured, so Dontayvion Wicks may open as the WR2. Dallas Goedert remains a key red-zone piece. [8-24 QB Rankings]
 - 2026-08-24: Jalen Hurts: Reports of interceptions in joint practices with New England came with DeVonta Smith practicing but not in team drills and rookie Makhi Lemon still working back; the offense is expected to be whole by Week 1. [8-24 adp adjustments]
 - 2026-08-24: Jalen Hurts: Hurts rushed for 421 yards and 8 TDs in 2025 after four straight seasons of 600+ rushing yards and 10+ rushing TDs; he was QB8 in 2025 after QB6, QB2, QB1 and QB7 finishes. [8-24 adp adjustments]
+- 2026-09-28: Jalen Hurts: 16 of 25 for 153 yards and 1 interception @CHI; Andy Dalton threw the other interception on his only attempt (corrected 9/30). [pod 9-29, deployment]
+- 2026-09-28: Jalen Hurts: 16 of 25 for 153 yards, no TD and 1 interception at CHI, plus 4 rushes for 25 and a 1-yard sneak TD; Andy Dalton threw the other interception on his one attempt. Through three games Hurts has 16 rushes for 87 yards (46, 16, 25) and one rushing TD. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -71,6 +74,10 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Tank Bigsby: Bigsby is viewed as a clean handcuff who would inherit the full Barkley role if Barkley were hurt; some expect him to earn a larger share regardless. [8-19 RBs drafting and fading]
 - 2026-08-23: Tank Bigsby: Bigsby is the Eagles' primary backup to Saquon Barkley and would step into a large role if Barkley were hurt. [8-23 highstakes draft]
 - 2026-08-24: Saquon Barkley: A review of his 2025 carries inside the five found three to five stopped at the inch line, sometimes overturned, with Hurts scoring the next play; he could easily have had two or three more rushing TDs. [8-24 QB Rankings]
+- 2026-09-29: Saquon Barkley: 82 rushing yards on 15 carries in the 27-7 Week 3 loss at CHI (team recap; an earlier line said 56, corrected 9/30).
+- 2026-09-29: Saquon Barkley: 15 carries for 82 yards @CHI in Week 3, 73 of them on 11 first-half carries; 1 catch on 2 targets for minus 2 yards (CBS).
+- 2026-09-29: Saquon Barkley: 0 TDs through three games; 15, 4 and 15 carries; stinger limited him to 12 snaps in Week 2 (reports).
+- 2026-09-28: Saquon Barkley: After a 14-yard run to the 1 in the second quarter he was stopped for minus 1 and no gain on the next two snaps with Andy Dalton at quarterback, and Dalton was intercepted in the end zone on third down. Barkley finished 15 for 82 on 36 of 50 snaps (72%); snap share by week 71%, 16%, 72%. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -106,6 +113,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Makai Lemon: Rookie is back at practice after missing offseason time with injury. Dontayvion Wicks is expected to hold the two-WR set role early, with Lemon pushing for it as the season goes on. [8-20 buying or selling rookie hype]
 - 2026-08-24: Dontayvion Wicks: Camp reports are very positive on Wicks, who has been getting the reps while Makhi Lemon works back from injuries dating to OTAs. [8-24 adp adjustments]
 - 2026-08-24: Hollywood Brown: Hollywood Brown was the target on a viral camp interception by Quinyon Mitchell; he reportedly flattened the route, and he is not expected to be a top-three option. [8-24 adp adjustments]
+- 2026-09-28: DeVonta Smith: 8 targets (32%), 6 for 65 on 97% of the routes @CHI, a 33% target share on the season. Dontayvion Wicks: 5 targets, 2 for 32, 81% routes. Makai Lemon: 4 targets, 3 for 29, 84% routes on 68% of the snaps, an 11% share on the season. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -125,6 +133,10 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Eli Stowers: Camp reporting suggests Stowers is not expected to be a major factor in the Eagles passing game in 2026. [8-13 Fantasy Draft Values And Injury Shifts]
 - 2026-08-14: Eli Stowers: Listed as co-TE3 on the first unofficial depth chart behind Dallas Goedert and blocker Johnny Mundt; camp reports universally say he is off to a slow start. Goedert is on a one-year deal. [8-14 changed minds about players]
 - 2026-08-16: Eli Stowers: Rookie Stowers was called for holding and pulled up on a split block; he has not stood out in camp and could see almost no snaps. [8-16 preseason week 1 recap]
+- 2026-09-29: Dallas Goedert: Ruled out of Week 3 at CHI with a knee injury (team report).
+- 2026-09-28: Week 3 @CHI: Johnny Mundt 24 snaps (51%), 10 routes, 1 target; Zach Ertz 18 snaps (38%), 11 routes, 2 targets, 1 catch for 9. PHI ran 47 offensive snaps. [pod 9-29, deployment]
+- 2026-09-28: Johnny Mundt: Two snap-count sources have PHI at 50 offensive snaps at CHI with Mundt 26 (52%), Ertz 19 (38%) and E.J. Jenkins 13 (26%); a third has 47, 24 and 18. [pod 9-30, deployment]
+- 2026-09-28: Zach Ertz: Age 35, ten months removed from a right ACL tear (Dec 7, 2025); signed to the practice squad Sep 21 and elevated for his 2026 debut in Week 3 at CHI. [pod 9-30, official]
 
 ## Offensive line
 
@@ -132,14 +144,17 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Lane Johnson and Landon Dickerson carry health concerns, and the Eagles lost renowned offensive line coach Jeff Stoutland this offseason. [8-19 RBs drafting and fading]
 - 2026-08-20: Jordan Mailata is an elite run blocker; Lane Johnson, likely in his final year, will miss part of the season to suspension; RG Tyler Steen is the weak link. [8-20 Offensive Line Rankings]
 - 2026-08-24: Philadelphia's line was banged up all of 2025; when healthy it is rated a top-five unit, and the offense has had very different splits without Lane Johnson. [8-24 adp adjustments]
+- 2026-09-14: Landon Dickerson: Placed on injured reserve with a knee bone bruise after playing all of Week 1; out at least four games (Weeks 2 to 5). Drew Kendall played all 50 line snaps at CHI in the starting five. [pod 9-29, official]
 
 ## Rookies
 
 - 2026-08-05: Makai Lemon: First-round pick Lemon won the Biletnikoff with 79 catches, 1,156 yards and 11 TDs plus two rushing scores; he was dealing with a nagging hamstring but is healthy and profiles as a compact slot/gadget receiver. [8-5 rookies to watch out for pt.2]
+- 2026-09-28: Makai Lemon: 38 receiving yards through three games: 7 catches on 9 targets (3 for minus 5, 1 for 14, 3 for 29) on 118 snaps (64%, 63%, 70%). [pod 9-29, deployment]
 
 ## Transactions and contracts
 
 - 2026-07-20: Philadelphia used its first three picks on offense (WR Makai Lemon, TE Eli Stowers, OL Markell Bell) and signed Hollywood Brown after losing AJ Brown; last year the tush push drew more false starts and was stripped. [7-20 coaching change talk]
+- 2026-09-21: Zach Ertz signed to the practice squad after Dallas Goedert's MCL sprain (hurt in Week 2 vs TEN). Eli Stowers and Grant Calcaterra are on injured reserve (NBC Sports Philadelphia, ESPN). [pod 9-29, official]
 
 ## Injuries and status
 
@@ -151,9 +166,19 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Makai Lemon: Rookie receiver Lemon is banged up and not practicing enough to lock in an early-season role, so his start to the year may be slow. [8-13 Fantasy Draft Values And Injury Shifts]
 - 2026-08-15: Makai Lemon: Missing practices with a hamstring issue the Eagles have not clarified as tightness or strain; DeVonta Smith has also missed practice with a hamstring issue. [8-15 talk with injury expert]
 - 2026-08-20: Makai Lemon: Rookie Makai Lemon was set to return to practice Thursday from a hamstring injury. [8-20 bust and value picks for 2026]
+- 2026-09-29: Dallas Goedert: sprained MCL, week to week; not expected to go on IR, so Week 4 vs LAR is possible (Athlon, Yahoo).
+- 2026-09-28: Jalen Hurts: Evaluated for a concussion after a late hit out of bounds in the second quarter at CHI, cleared and returned; he missed four snaps (46 of 50) and was not diagnosed with a concussion. [pod 9-29, beat]
+- 2026-09-30: DeVonta Smith: DNP Wednesday's walkthrough (hamstring), an estimated report; he followed the same pattern last week (DNP Wed and Thu, limited Fri, full Sat) and played at CHI (team report, reports).
+- 2026-09-30: Dallas Goedert (knee), Hollywood Brown (ankle), Will Shipley (foot), OT Fred Johnson (knee) and LB Zack Baun (concussion) also DNP Wednesday; Jalen Carter (wrist, reported hairline fracture), Tank Bigsby (abdomen), Darius Cooper (knee), Jonathan Greenard (pectoral) and Byron Young (toe) were full (team report, reports).
+- 2026-09-30: Wednesday walkthrough estimate vs LAR: DNP DeVonta Smith (hamstring), Dallas Goedert (knee), Marquise Brown (ankle), Will Shipley (foot), Zack Baun (concussion), Fred Johnson (knee); limited Jihaad Campbell (knee), Jordan Davis (calf), Moro Ojomo (calf, elbow); full Tank Bigsby (abdomen), Jalen Carter (wrist, reported hairline fracture), Darius Cooper, Jonathan Greenard, Byron Young. Smith also sat Wednesday in Week 3 and played Monday (team report, reports).
+- 2026-10-01: DeVonta Smith: Did not practice Thursday (hamstring), his second straight DNP this week; last week he missed Wednesday and Thursday, was limited Friday and played at CHI. [pod 10-1, official]
+- 2026-10-01: Dallas Goedert: Did not practice Wednesday or Thursday (knee); the MCL sprain is still called week to week with no reported timeline and no IR move. [pod 9-30, official]
+- 2026-10-01: Hollywood Brown (ankle), Zack Baun (concussion) and RT Fred Johnson (knee) missed Thursday's practice again; Will Shipley (foot) returned to practice after a Wednesday DNP. [pod 10-1, official]
 
 ## Other
 
 - 2026-07-23: Philadelphia was 24th in yards per game and 19th in points in 2025 despite being one of the healthiest teams, and looked different whenever Lane Johnson (missed about 10 games) was out. [7-23 nfc east breakdown]
 - 2026-08-09: Opens vs. Commanders, Titans and Bears, then Rams and a 9:30 a.m. Europe game vs. Jaguars in Week 5. [8-9 QB preview]
 - 2026-08-24: Philadelphia opens vs. Washington, Tennessee and Chicago, a soft early stretch while the new offense gets its receivers back. [8-24 adp adjustments]
+- 2026-09-30: Defense has allowed the fewest fantasy points to tight ends through Week 3 (reports).
+

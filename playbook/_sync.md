@@ -8,6 +8,7 @@ Every scheduled kitchen task follows this file first, then its series playbook. 
 | --- | --- | --- |
 | Site, data, playbooks, tools, queue | GitHub repo `OWNER/fantasy-kitchen` (public), branch `claude/kitchen` | FK Kitchen clones and pushes it; Cowork tasks clone it read-only (see Step 1) |
 | Projection workbook | GitHub repo `OWNER/fantasy-kitchen-model` (private), the projection workbook (the `*_Team_Projections.xlsx` file) at the root | cloned by FK Kitchen; read with `tools/extract_projections.py` |
+| Owner rankings | the same repo, `owner_rankings/<season>-week-NN_FK_Rankings.xlsx`, one file per week when the owner makes one | read and blended with `tools/owner_rankings.py` (Step 3) |
 | Editorial doctrine | `playbook/_standards.md` in the repo (mirrors project memory) | read it every run |
 | Running facts about players, teams, coaches | `kitchen/notes/<TEAM>.md` in the repo (seeded from the project's research docs) | read the teams you write about; append what you learned |
 | Preseason research docs (about 100) and past-season stat workbooks | the Fantasy football project on claude.ai | Projects tool: `project_search`, `project_read`; `tools/project_stats.py` for the workbooks |
@@ -36,6 +37,35 @@ In a Cowork task (the poster, FK Order Up):
 1. `git clone --depth 20 --branch claude/kitchen https://github.com/OWNER/fantasy-kitchen.git "$SCRATCH/fk"` (public, no credentials needed) and `cd "$SCRATCH/fk"`. Do not clone the model repo; it is private and these tasks do not need it.
 2. The checkout is read-only scratch. Tools like `queue expire` may change files locally, but nothing is committed or pushed from a Cowork task; the ledger is how its results reach the repo.
 
+## The day's clock
+
+Nothing runs before 10:00 AM ET. The pantry reads the owner's saved podcast transcripts on the owner's computer, so it cannot run until the machine is on, and every other run is timed off it. All times Eastern.
+
+| Time | Run | Where |
+|---|---|---|
+| 10:00 AM | Pantry 1 (`job: pantry` to FK Kitchen when it has new lines) | owner's computer |
+| 10:25 AM | Poster | owner's computer |
+| 11:00 AM | FK Daily: the day's series, Leftovers Mon, Market Run Tue, Menu Wed, On the Line Thu | FK Kitchen |
+| 11:36 AM | Order Up, first run (Sunday) | FK Kitchen and owner's computer |
+| 12:00 PM | FK Daily: Kitchen Notes, news run | FK Kitchen |
+| 1:00 PM | Pantry 2 | owner's computer |
+| 1:25 PM | Poster, with reply mode | owner's computer |
+| 2:00 PM | FK Daily: Butcher Shop and Heat Check (Tuesday) | FK Kitchen |
+| 3:36 PM | Order Up, second run (Sunday) | FK Kitchen and owner's computer |
+| 4:00 PM | Pantry 3 | owner's computer |
+| 5:00 PM | FK Daily: Prep Notes (Friday), after the final injury report | FK Kitchen |
+| 6:25 PM | Poster | owner's computer |
+| 7:00 PM | Pantry 4 | owner's computer |
+| 6:00 PM | FK Daily: Kitchen Notes, news run | FK Kitchen |
+| 8:25 PM | Poster, with reply mode | owner's computer |
+| 10:00 PM | Pantry 5, only when the machine is still on | owner's computer |
+
+One scheduled task can start every FK Kitchen run above. Give it the payload `job: daily` and fire it at 11:00 AM, 12:00 PM, 2:00 PM, 5:00 PM and 6:00 PM ET every day (the task form takes one time each, so it is five tasks named FK Daily with the same instructions; none of them requires the owner's computer). On `job: daily`, FK Kitchen runs `python3 tools/fk.py clock`, which names the job for this weekday and time from the table in `tools/fk.py` (`CLOCK_SLOTS`; a slot matches within 30 minutes of the start), and runs it as if the payload had said `job: <that>`; on `"job": "none"` (a Wednesday 2:00 PM, a Monday 5:00 PM) it ends at once. Order Up keeps its own Sunday tasks because it posts through the browser. The pantry and the poster are Cowork tasks with their own schedules.
+
+A series runs an hour after a pantry so that step 4a finds the payload filed; the filings take under ten minutes each once the payload arrives. If the pantry itself takes longer than 45 minutes on the owner's machine, swap the two morning FK Daily times (Kitchen Notes at 11:00 AM, the series at 12:00 PM, with the thread slots moved to 1:20 PM still) rather than moving the pantry earlier than 10:00 AM.
+
+A pantry filing does not end with the notes and the pantry page. After filing and fixing the published calls the facts make wrong, FK Kitchen runs the Kitchen Notes method over the payload (`kitchen-notes.md`), so a new call reaches the site within the hour instead of waiting for the weekly piece: every ripple, crowd line or fact that changes a lineup, waiver or trade decision and is not yet an item becomes an item in this week's `notes.json` with `player`, `action` and the action's required field. The usage numbers must back it and the text says so; a crowd lean alone never makes an item; no show or analyst is named; a thread is queued only under the Kitchen Notes rules. The log line then carries "d notes items" before the threads count.
+
 ## Step 2. Know what week it is
 
 `python3 tools/fk.py week` prints the content week (Tuesday through Monday cycle, Eastern time) and the dates of its Tuesday, Thursday, Sunday and Monday. On Monday it still returns the week that just finished, which is what Leftovers wants. Never hardcode a week number. `python3 tools/fk.py when "Wed 10:20"` converts a weekday and Eastern time inside the content week to the UTC timestamp the queue uses; `now` and `+6h` work too.
@@ -44,7 +74,10 @@ In a Cowork task (the poster, FK Order Up):
 
 1. The workbook is the `*_Team_Projections.xlsx` file at the root of the `fantasy-kitchen-model` checkout (`ls *_Team_Projections.xlsx`). (If that repo is unavailable but the Claude Project lists a file of that name, `project_read` it instead; the bytes land in a local file.)
 2. `python3 tools/extract_projections.py "<path to xlsx>" --out "$SCRATCH/projections.json"`. If it reports that it could not find the player table, run it with `--inspect`, read the sheet and header list it prints, and pass the right sheet with `--sheet` and column names with `--map` (the flags are documented in the script). Do not guess player values; if extraction fails twice, stop and log it.
-3. `projections.json` holds, per player: name, team, position, rest-of-season per-game projection, weekly projection when the workbook carries one, and any owner flags. These numbers are inputs. They are never published, never written to notes, never committed to the public repo. Rankings are ordered by them, then adjusted by this week's news per the series playbook, and only ranks and tiers leave the kitchen.
+   `tools/workbook_map.json` pins the owner's workbook: the four Rankings sheets are the projections, the position is the sheet's, the team comes from the 32 team sheets, and `ppg` is the season number divided by 17 because the workbook has no games column (the file says so in `ppg_basis`). Do not pass `--sheet` or `--map` while that file matches the workbook.
+3. The owner's own rankings, when they exist for the week: `owner_rankings/<season>-week-NN_FK_Rankings.xlsx` in the model repo (one overall superflex PPR list; the POS column carries the position and the rank within it). `python3 tools/owner_rankings.py extract "<path>" --out "$SCRATCH/owner.json"`, then `python3 tools/owner_rankings.py blend --projections "$SCRATCH/projections.json" --owner "$SCRATCH/owner.json" --out "$SCRATCH/blended.json"`. The blend turns each owner rank into a value on the model's scale and mixes it with the projection at the weight in `tools/workbook_map.json` (`owner_rankings.weight`, 0.8 today: the owner's list carries most of the order until the kitchen's notes cover essentially every player, and the owner lowers it as that research fills in). A player the owner left out gets the owner's floor at his position, so leaving a player out is how the owner marks him as having no role or as out. When the file for the week exists, every rankings-bearing series orders by `blended.json` instead of the raw projection; the blended values are as private as the projections.
+4. The owner's final rankings override everything above when present: `kitchen/rankings/<season>-week-NN.csv` (the week's overall list; RK, PLAYER NAME, TEAM, POS with the rank inside the position like WR17, OPP) and `kitchen/rankings/<season>-ros.csv` (rest of season), written by `job: rankings`. When the week's file exists, every rankings-bearing series (Menu, On the Line, Prep Notes, Order Up, Market Run, Butcher Shop, Heat Check) orders players by it at full weight instead of `blended.json` or the raw projection; this week's news after its as-of date (injuries, ruled out, role changes) still adjusts it the way each playbook says. Every rest-of-season rank in copy (trade, add, drop, hold calls, game notes, Kitchen Notes) comes from the ros file. Never mention the owner's list or a blend in copy; the ranks are public, any number behind them is not.
+5. `projections.json` holds, per player: name, team, position, rest-of-season per-game projection, weekly projection when the workbook carries one, and any owner flags. These numbers are inputs. They are never published, never written to notes, never committed to the public repo. Rankings are ordered by them, then adjusted by this week's news per the series playbook, and only ranks and tiers leave the kitchen.
 
 ## Step 4. Research
 
@@ -103,7 +136,7 @@ Write each post or thread as a queue item with the tool so ids, timing and valid
 
 ```
 python3 tools/fk.py queue add --series menu --week 4 --kind thread \
-  --at "Wed 10:20" --not-after "Thu 18:00" \
+  --at "Wed 13:20" --not-after "Thu 18:00" \
   --link "menu.html?week=4" --texts-file "$SCRATCH/menu-thread.json"
 ```
 

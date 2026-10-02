@@ -30,6 +30,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Lamar Jackson: In Declan Doyle's offense Jackson is working from under center often and aggressively throwing downfield, sometimes off play-action; Baltimore wants chunk plays. Jesse Minter is head coach. [8-12 Camp Updates Article]
 - 2026-08-14: Lamar Jackson: Averaged 41.5 rushing yards per game before his Week 4 hamstring injury in 2025 and just 20.3 over his final nine games. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-24: Lamar Jackson: Playing through injury in 2025 he had a four-game stretch with three games under 15 rushing yards; he has said he wants to dial back his running to stay healthy, and Derrick Henry handles the goal line. [8-24 QB Rankings]
+- 2026-09-30: Lamar Jackson: Not at the start of Wednesday's practice minutes after his press conference; no injury or illness was mentioned and he spoke as if he will play vs TEN. Week 3: 15 of 20 for 186 and 2 TD, 6 carries for 50. [pod 9-30, beat]
+- 2026-10-01: Lamar Jackson: On the field at the start of Thursday's practice after a limited Wednesday with a back injury the head coach called minor (beat report). [pod 10-1, beat]
 
 ## Backfield
 
@@ -45,6 +47,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Adam Randall: Rookie Adam Randall looked like a sneaky RB insurance option in the preseason opener. [8-16 preseason week 1 recap]
 - 2026-08-19: Derrick Henry: Henry turns 33 in January; observers see no signs yet that his production is slipping, and the new offense is hoped to produce lighter boxes for him. [8-19 RBs drafting and fading]
 - 2026-08-20: Adam Randall: Rookie is viewed only as a speculative backup to Derrick Henry; the owner reportedly pushed for the pick. [8-20 buying or selling rookie hype]
+- 2026-09-27: Derrick Henry: 26 carries for 89 yards (3.4) and 2 TD vs DAL on 43 of 64 snaps (67%); Justice Hill 31 snaps; Keaton Mitchell none. Season: 301 rushing yards and 6 TD in three games. Inside runs vs DAL went 11 for 23, and he was stopped on two fourth-and-1 runs. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -78,6 +81,10 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Zay Flowers: Has not missed a game since entering the league; behind him Rashod Bateman and Jacoby Lane are the top receivers now that Isaiah Likely is gone. [8-24 QB Rankings]
 - 2026-08-24: Zay Flowers: Flowers' target share rose each season to 29% in 2025 (86 catches, ~1,200 yards) with low TD totals; Baltimore gave him a big extension and new OC Declan Doyle comes from Ben Johnson's tree. [8-24 adp adjustments]
 - 2026-08-24: Zay Flowers: Flowers posted a 90th-percentile success rate vs. zone coverage in 2023, 98th in 2024 and 91st in 2025, while also improving significantly against press. [8-24 adp adjustments]
+- 2026-09-26: Zay Flowers: hamstring, on a snap count, 21 snaps, 5 of 6 for 84 in the 34-31 win over DAL in Brazil; the head coach expects a full workload vs TEN. [pod 9-28, beat]
+- 2026-09-26: Zay Flowers: 234 receiving yards in two partial games: 150 and a touchdown in the first half of Week 1 vs IND before he aggravated the hamstring, no game in Week 2, then 5 of 6 for 84 plus one carry for 20 on 21 snaps vs DAL in Week 3. [pod 9-29, deployment]
+- 2026-09-27: Zay Flowers: 15 routes on 21 of 64 snaps vs DAL, 5 of 6 for 84. Season: 234 yards on 26 routes, 9.0 yards per route, a 48% target rate per route and 19.5 yards per target, all league highs among players with 25 or more routes (Baltimore Banner, 9/30). [pod 9-29, deployment]
+- 2026-09-27: Rashod Bateman: 56 of 64 snaps (88%) vs DAL; Chris Moore 35, Devontez Walker 17, LaJohntay Wester 11. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -94,6 +101,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Mark Andrews: Reportedly not doing anything in camp; the departed Isaiah Likely had been the Ravens' productive red-zone option. [8-20 buying or selling rookie hype]
 - 2026-08-20: Matthew Hibner: Rookie (6'4, 251, 91st-percentile 40, 87th-percentile vertical) looked good in preseason; the Ravens need an inline presence and Durham Smythe came from Chicago with Declan Doyle. [8-20 buying or selling rookie hype]
 - 2026-08-24: Mark Andrews: Aging and not showing improvement; the Ravens drafted tight end Matthew Hibner and another rookie but have no clear replacement for the Isaiah Likely role. [8-24 QB Rankings]
+- 2026-09-30: Mark Andrews: Hand injury in the second quarter in Rio, returned, 33 of 64 snaps (Durham Smythe also 33, Matthew Hibner 21); not among the players missing from Wednesday's practice. [pod 9-29, beat]
 
 ## Offensive line
 
@@ -102,6 +110,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Baltimore lost center Tyler Linderbaum in free agency. [8-13 TEs]
 - 2026-08-20: Baltimore lost C Tyler Linderbaum (elite run blocker) and signed Ethan Pocic; John Simpson returns at guard and a first-round rookie guard starts, so three new interior linemen. [8-20 Offensive Line Rankings]
 - 2026-08-20: Ronnie Stanley: Ronnie Stanley's health is year-to-year and drives how the Ravens line performs. [8-20 Offensive Line Rankings]
+- 2026-09-30: Jovaughn Gwyn, the starting center, fractured his fibula in Brazil and will likely need surgery; reported out until November or December (reports).
+- 2026-09-28: Jovaughn Gwyn, Ethan Pocic, Vega Ioane: Both centers were lost in Rio: Gwyn (ankle on the team report) and Pocic (knee); Minter said both look a little bit long term. First-round rookie guard Vega Ioane moved to center in the game and stays there vs TEN, with Andrew Vorhees at right guard. Jackson said he would take extra snaps from Ioane this week. [pod 9-30, coach]
+- 2026-09-30: Ronnie Stanley: Inactive vs DAL with a toe injury (Carson Vinson played all 64 snaps at left tackle); back at practice Wednesday. [pod 9-29, beat]
 
 ## Rookies
 
@@ -124,8 +135,15 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-10: Zay Flowers: Flowers has a quad contusion. [8-10 top 10 WR rankings]
 - 2026-08-12: Zay Flowers: Zay Flowers picked up a quad contusion (day-to-day) and returned to practice in a limited fashion. [8-12 130 training camp storylines and league updates]
 - 2026-08-26: Zay Flowers: Flowers did not practice Monday or Wednesday and was working on the side; the team has not disclosed what the issue is. [8-26 myguys episode]
+- 2026-09-30: Mark Andrews: hand injury in the second quarter in Brazil, returned, 33 of 64 snaps, 3 for 24 on 5 targets; no Week 4 designation reported as of 9/29 (reports).
+- 2026-09-30: Zay Flowers: Practiced Wednesday, the first session of TEN week. [pod 9-30, beat]
+- 2026-09-30: Lamar Jackson: Limited Wednesday with a back injury, first report listing this season; Minter called it something small and expects him to play vs TEN (NBC Sports, official report).
+- 2026-09-30: Zay Flowers: Listed hamstring, limited Wednesday; Humphrey (hamstring), Chris Moore (ankle), John Simpson (groin), Durham Smythe (heel) and Ronnie Stanley (toe) also limited (official report).
+- 2026-10-01: Lamar Jackson: full practice Thursday after a limited Wednesday (back); Jesse Minter called it something small (team site).
+- 2026-10-01: Zay Flowers: full practice Thursday after a limited Wednesday (hamstring) (reports).
 
 ## Other
 
 - 2026-07-07: Baltimore went 2-5 in one-score games in 2025 while ranking 10th in points per game; its 2026 win total is 11.5 with the 6th-easiest schedule, and it is favored in each of its first six games. [7-7 afc north breakdown]
 - 2026-08-22: The Ravens are favored in each of their first seven games of 2026 and sit tied for second in Super Bowl odds. [8-22 10 players we cant stop drafting]
+- 2026-10-01: Week 4 vs TEN: BAL favored by 11.5 with a 43.5 total; a 46 percent chance of rain in the Thursday forecasts (odds and weather pages).

@@ -12,6 +12,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-04: The Colts averaged 32.1 points per game through the first 10 games of 2025, most in the NFL, before Jones' injury. [8-4 Training Camp News And Rankings]
 - 2026-08-05: The Colts averaged nearly 30 points per game in Daniel Jones' 12 starts; Jones threw to his first read 77% of the time, by far the highest rate in the NFL, a credit to Shane Steichen's play design. [8-5 fantasy takeaways from all 32 teams]
 - 2026-08-19: The Colts averaged over 30 points per game in the first half of 2025 before falling off in the last third; Shane Steichen changes how the offense attacks week to week. [8-19 Offenses to look out for]
+- 2026-09-27: Josh Downs: Downs' snap rate in 12 personnel fell to 50% in Week 3 from 88.6% before, per a charting recap. [pod 9-30, deployment]
 
 ## Quarterback
 
@@ -40,6 +41,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Daniel Jones: Jones is practicing in full after his Achilles tear but said publicly there is still work to do to feel right for week one; his right leg has looked to drag on outside throws, which may limit under-center work. [8-19 Offenses to look out for]
 - 2026-08-19: Daniel Jones: Jones is returning from a torn Achilles; with him healthy through mid-2025 the Colts had the league's best offense statistically. The Colts return one of the league's better offensive lines. [8-19 RBs drafting and fading]
 - 2026-08-24: Daniel Jones: Daniel Jones returns from injury; he may not be 100% but the Colts will have him instead of the late-season replacements (Rivers, Leonard) who played out 2025. [8-24 adp adjustments]
+- 2026-09-27: Daniel Jones: 24 of 36 for 235, 1 TD, 1 INT in the 19-17 win over HOU; 30 of the 36 attempts went to Downs (11), Warren (10) and Allen (9). [pod 9-29, deployment]
 
 ## Backfield
 
@@ -59,6 +61,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Jonathan Taylor: Taylor's production dropped sharply whenever the Colts fell behind in 2025; his output is closely tied to Indianapolis playing with leads. [8-19 RBs drafting and fading]
 - 2026-08-24: Jonathan Taylor: With Daniel Jones healthy through Week 13 of 2025, Taylor averaged 23 fantasy points per game and led all backs; he caught 46 passes. Michael Pittman was traded and Alec Pierce is recovering from an ankle. [8-24 adp adjustments]
 - 2026-08-26: Seth McGowan: Holds the No. 2 running back job behind Jonathan Taylor in Indianapolis. [8-26 rankings and news updates]
+- 2026-09-27: Jonathan Taylor: 23 carries for 68 vs HOU; Seth McGowan 4 for 14. [pod 9-30, deployment]
 
 ## Receivers
 
@@ -97,6 +100,10 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Josh Downs: Downs' route areas overlap with Warren's and Keenan Allen's; without Pierce stretching the field the offense could get congested. [8-19 Offenses to look out for]
 - 2026-08-26: Josh Downs: The coach reportedly wants Downs in two-receiver sets and he has done nothing in camp or preseason to lose that role; at 171 pounds his run blocking is the main question versus Keenan Allen. [8-26 rankings and news updates]
 - 2026-08-26: Keenan Allen: Expected to open behind Alec Pierce and Josh Downs as the primary receivers, adding another short-area target alongside Tyler Warren and Downs. [8-26 rankings and news updates]
+- 2026-09-29: Keenan Allen: 6 of 9 targets, 63 yards, 1 TD in the Week 3 win over HOU with Alec Pierce (heel) out; 20 targets through three games (box score).
+- 2026-09-29: Josh Downs: targets 3, 9 and 11 in Weeks 1 to 3; 7 of 9 for 72 in Week 2 after Alec Pierce left, 5 of 11 for 77 vs HOU in Week 3. Pierce (heel) is on IR (reports).
+- 2026-09-27: Keenan Allen: 6 of 9 for 63 and a touchdown, 52 of 71 snaps (73%), 20 targets in three games; Week 3 targets Downs 11 (5 for 77), Warren 10 (9 for 55), Allen 9, Treadwell 1; Laquon Treadwell led receivers with 56 snaps as the primary X. [pod 9-29, deployment]
+- 2026-09-27: Keenan Allen: Through three games: 20 targets on 75 routes (26.7% targets per route); Downs 24 on 91 (26.4%), Warren 22 on 93 (23.7%), Laquon Treadwell 5 on 65 (7.7%). [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -146,6 +153,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Keenan Allen: Keenan Allen reportedly landed with the Colts in August; the Colts are expected to try Josh Downs in two-receiver sets, with doubts about the 171-pound Downs holding up all season. [8-23 highstakes draft]
 - 2026-08-26: Keenan Allen: Signed a one-year deal worth up to $8M with the Colts, reuniting with Shane Steichen; he is 34 and showed decline late in 2025 but still commanded targets. [8-26 rankings and news updates]
 - 2026-08-26: Keenan Allen: The Colts signed Keenan Allen in late August because Alec Pierce, Josh Downs and Tyler Warren were all dealing with injuries; he is expected to be heavily involved early in the season. [8-26 myguys episode]
+- 2026-09-22: Darius Slayton signed (released by NYG 9/7), inactive Week 3. [pod 9-28, official]
 
 ## Injuries and status
 
@@ -182,7 +190,15 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Josh Downs: Downs has a calf injury he called very minor and said he expects to resume practicing soon. [8-26 myguys episode]
 - 2026-08-26: Tyler Warren: Dealing with a groin issue; expected to sit out practice this week but the team still says he will be fine for Week 1. [8-26 rankings and news updates]
 - 2026-08-26: Tyler Warren: Warren is dealing with a groin injury, one of several injuries among Colts pass catchers along with Downs and Alec Pierce. [8-26 myguys episode]
+- 2026-09-23: Alec Pierce aggravated the surgically repaired left heel in Week 2 at KC and was placed on IR on 9/23; minimum four games, no timeline, another surgery possible per Shane Steichen. [pod 9-29, official]
+- 2026-09-28: Alec Pierce: Shane Steichen said Pierce did not have surgery on the left heel and is rehabbing (cast and scooter to keep weight off); on IR with no return timeline. [pod 9-29, coach]
+- 2026-09-15: Keenan Allen: Charged on 9/15 after an 8/30 arrest. League policy carries a minimum three-game suspension; none has been announced, the next court date is 10/26, and he remains eligible. [pod 9-29, official]
+- 2026-10-01: Thursday in London: Jonathan Taylor, Keenan Allen and Charvarius Ward limited on scheduled rest days for a second day, Mo Alie-Cox (illness) and Ashton Dulin (ankle) DNP, Akeem Davis-Gaither (knee) limited, K Spencer Shrader (groin) full (team report).
 
 ## Other
 
 - 2026-07-09: The Colts' first five 2026 games are Baltimore, Kansas City, Houston, at Washington and at Pittsburgh, all as underdogs, before two Jacksonville games and another Houston game later. [7-9 afc south breakdown]
+- 2026-09-27: IND 19, HOU 17. [pod 9-28, official]
+- 2026-09-30: Defense allowed 294 rushing yards on 56 running back carries through two games (5.3 per carry) and the fifth-most fantasy points to tight ends (reports).
+- 2026-10-01: Week 4 vs WAS in London: IND favored by 3.5 with a 47.5 total; a 90 percent chance of rain at kickoff in the Thursday forecasts (odds and weather pages).
+- 2026-10-01: IND at WAS, London, Sunday 9:30 AM ET: the forecast moved from about a 90 percent chance of rain at kickoff (Wednesday's read) to mostly dry, high 60s, wind under 10 mph by Thursday morning; one Tottenham-specific page still showed afternoon showers (weather pages via search results).

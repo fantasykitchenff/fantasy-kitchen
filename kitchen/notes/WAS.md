@@ -32,6 +32,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-11: Jayden Daniels: Daniels was docked slightly after the Tunsil news; the Week 1 point spread moved about half a point and Washington's team total is expected to come down. [8-11 news and risers and fallers - rankings update]
 - 2026-08-12: Jayden Daniels: Jayden Daniels says he is fully healthy and is re-mastering David Blough's system. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Jayden Daniels: A league-high 10.9% of his passes were dropped in 2025. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
+- 2026-09-27: Marcus Mariota played every snap, 19 of 31, 183, 3 TD, 0 INT in the 33-31 win over SEA; Drew Lock did not play. Dan Quinn said Monday that Jayden Daniels travels to London and is expected to practice this week ahead of IND. [pod 9-29, coach]
+- 2026-10-01: Jayden Daniels: Practiced Thursday in London wearing a brace on his left (non-throwing) elbow; Dan Quinn said the starter will be settled by Friday, and the offensive coordinator called the situation fluid. [pod 10-1, coach]
 
 ## Backfield
 
@@ -71,6 +73,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Kaytron Allen: Rookie is battling for the Commanders' RB3 job in what remains an ambiguous backfield; he could become the starter at some point. [8-20 buying or selling rookie hype]
 - 2026-08-22: Jacory Croskey-Merritt: Croskey-Merritt closed 2025 with four TDs in the final three games at 6.1 yards per carry, one of seven rookie backs in five years with a 54%+ rush success rate; beat reports now emphasize passing-down work. [8-22 10 players we cant stop drafting]
 - 2026-08-22: Rachaad White: Washington added Rachaad White, described as historically inefficient, plus a sixth-round rookie back to a backfield committee with Jacory Croskey-Merritt. [8-22 10 players we cant stop drafting]
+- 2026-09-27: Rachaad White: shoulder, questionable during the game, returned and finished, 30 snaps (43%), 35 rushing yards, a receiving touchdown and a 19-yard run under two minutes. Jacory Croskey-Merritt 39 snaps (57%), 19 for 36 with a 48-yard touchdown wiped out by penalty. [pod 9-29, deployment]
+- 2026-09-27: Jacory Croskey-Merritt: Week 3 vs SEA was 19 carries for 36 (long of 9) plus 1 catch on 1 target for 7, 20 opportunities; season totals 47 carries for 142 and 1 TD. [pod 10-1, deployment]
 
 ## Receivers
 
@@ -98,6 +102,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Antonio Williams: Rookie is not looking like an impact player this year per camp observations. [8-20 buying or selling rookie hype]
 - 2026-08-20: Stefon Diggs: In 2025 with New England Diggs posted 2.42 yards per route run (7th among WRs) and was WR28 in PPG while running routes on only about 70% of dropbacks as the Patriots rested him with leads. [8-20 WRs talk]
 - 2026-08-21: Stefon Diggs: Topped 1,000 yards in 2025 coming off a torn ACL and signed with the Commanders, where volume is expected. [8-21 mayhem mock draft]
+- 2026-09-27: Terry McLaurin 6 for 77 and a touchdown on 52 snaps (75%); Diggs 4 for 33; Treylon Burks 2 for 13 and a touchdown. [pod 9-28, deployment]
+- 2026-09-27: Terry McLaurin: 9 targets vs SEA, 9 of Marcus Mariota's 31 attempts (29%). Receiver snaps: McLaurin 52 (75%), Stefon Diggs 41 (59%), Antonio Williams 28 (41%), Treylon Burks 25 (36%), Dyami Brown 21 (30%), Jaylin Lane 5. Tight end snaps: John Bates 37, Ben Sinnott 34 (team site). [pod 9-29, deployment]
+- 2026-09-27: Terry McLaurin: McLaurin and Stefon Diggs each have 22 targets through three games: McLaurin 10 for 141 and a TD, Diggs 13 for 135 and 3 TDs; Antonio Williams 11 targets, 9 for 103 and a TD. In Week 3 McLaurin ran a route on 87% of dropbacks (9 targets), Diggs on 65% (7 targets, 4 for 33, 63% of his snaps in the slot). [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -147,6 +154,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-11: Stefon Diggs: Diggs signed a one-year deal with Washington worth up to $12 million; the Chiefs, Dolphins and Raiders had also reached out. Last year he posted 2.42 yards per route run on just 57% of snaps coming off an ACL tear. [8-11 news and risers and fallers - rankings update]
 - 2026-08-18: Stefon Diggs: Diggs signed with the Commanders and is expected to take the slot and off-the-line layup targets in the offense; he is still regarded as a productive technician despite his age. [8-18 WR targets and avoids]
 - 2026-08-20: Stefon Diggs: Diggs signed with the Commanders; Terry McLaurin remains the WR1, Deebo Samuel left, and Diggs could work the middle of the field with McLaurin drawing coverage deep. [8-20 WRs talk]
+- 2026-09-28: Austin Ekeler signed to the 53-man roster Monday after a workout; he had planned to join Carolina's practice squad. [pod 9-28, official]
 
 ## Injuries and status
 
@@ -157,8 +165,19 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Laremy Tunsil: Tunsil, regarded as a top-three left tackle, was lost to injury, moving the Commanders' offensive line from interesting to possibly bad. Brandon Coleman, who started all of 2024 as a rookie, is the fill-in candidate. [8-18 WR targets and avoids]
 - 2026-08-21: Rachaad White: Hamstring injury is keeping him off the practice field; reports say it is not serious or long-term. [8-21 mayhem mock draft]
 - 2026-08-26: Jacory Croskey-Merritt: Croskey-Merritt did not practice Wednesday, Aug. 26 (undisclosed). [8-26 myguys episode]
+- 2026-09-28: Leo Chenal: fractured neck, surgery, season over. [pod 9-28, official]
+- 2026-09-29: Jayden Daniels: traveled to London with the team Tuesday night; scheduled to practice Wednesday through Friday in an elbow brace, status vs IND to be decided after the staff sees him practice (Dan Quinn).
+- 2026-09-30: Jayden Daniels was a limited participant in Wednesday's jog-through session in London, his first practice since the elbow; Rachaad White (shoulder) did not participate (reports).
+- 2026-09-30: Jayden Daniels: Dan Quinn says there is a chance he starts vs IND and the team will have a definite determination by Friday; he would wear a brace on the left elbow. Rachaad White is getting treatment for the shoulder; he played 43% of the snaps vs SEA and returned after the injury; Austin Ekeler traveled to London (Quinn, reports).
+- 2026-09-30: Jayden Daniels: Dan Quinn said Wednesday it is 'too early to call' whether Daniels starts vs IND; he gets more reps Thursday and Friday with a decision by Friday, and would wear a brace on the left elbow. Rachaad White (shoulder, hurt vs SEA after 8 carries and a TD catch) sat out Wednesday (reports).
+- 2026-09-25: Jayden Daniels: Dislocated left elbow late in the first half of Week 2 at DAL; the team ruled out surgery and injured reserve and lists him week to week. He dislocated the same elbow in 2025 and re-aggravated it in his first game back. [pod 9-29, official]
+- 2026-10-01: Rachaad White (shoulder) did not practice Thursday in London, his second straight DNP; Jacory Croskey-Merritt has 58% of the team's carries through three games, and Austin Ekeler traveled with the team (reports).
 
 ## Other
 
 - 2026-07-23: Washington had nine starters miss 7+ games in 2025 (third-most adjusted games lost); Daniels and McLaurin played only about three games together. [7-23 nfc east breakdown]
 - 2026-08-04: Washington's defense projects poorly, which should mean negative game scripts and more passing. [8-4 ADP Risers and Fallers lately]
+- 2026-09-30: Week 4 vs IND is in London at 9:30 AM ET with WAS as the designated home team (schedule).
+- 2026-09-30: Defense has allowed the ninth-most fantasy points to wide receivers through Week 3 (reports).
+- 2026-09-27: Pass defense through three games: 841 yards allowed (280.3 a game, 31st), 11 passing TDs (most in the league), 8.5 yards per attempt (27th), 70.3% completions (29th). Sam Darnold threw for 393 in Week 3 and SEA gained 437 yards; Washington won on a plus-3 turnover margin. [pod 9-29, deployment]
+- 2026-09-30: Week 4 opponent Indianapolis ranks 29th in rushing yards allowed (141.3 a game): 5.3 yards a carry to Derrick Henry and Kenneth Walker in Weeks 1-2, then 16 carries for 48 by HOU in Week 3. [pod 9-29, deployment]

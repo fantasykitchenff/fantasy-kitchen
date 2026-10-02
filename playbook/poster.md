@@ -35,7 +35,7 @@ If the built-in browser tools are unavailable, use the Chrome extension: `tabs_c
 1. `navigate` to `https://x.com/compose/post`.
 2. `find` "Post text" to get the editor ref (it is a contenteditable with the accessible name "Post text"). Click it.
 3. `type` the full text. Line breaks in the text are typed as line breaks.
-4. Take a screenshot at scale 0.5 and confirm the composer shows the text and the character counter is not red.
+4. Take a screenshot at scale 0.5 and confirm the composer shows the text with its line breaks and the character counter is not red.
 5. `find` "Post" and click the button whose role is button and name is exactly "Post" (the submit button, not the sidebar "Post" link). Wait 3 seconds.
 6. Get the URL: `navigate` to `https://x.com/<handle>` (handle from `docs/data/site.json`), wait 3 seconds, then run this in `javascript_tool`:
    ```
@@ -48,7 +48,7 @@ If the built-in browser tools are unavailable, use the Chrome extension: `tabs_c
 0. Profile check as in 3.0.
 1. `navigate` to `https://x.com/compose/post`. Click the "Post text" editor and `type` post 1.
 2. `find` "Add post" (the plus button under the editor; accessible name "Add post" or "Add another post") and click it. A second editor appears and takes focus. `type` post 2. Repeat for each remaining post: click "Add post", type.
-3. Screenshot at scale 0.5 to confirm the number of editors equals the number of posts and none has a red counter.
+3. Screenshot at scale 0.5 to confirm the number of editors equals the number of posts, none has a red counter, and each editor holds its post's line breaks (one player per line, an empty line between players, the hashtags on their own last line). If an editor collapsed the breaks, clear it and type that post again before posting.
 4. `find` "Post all" and click it. Wait 4 seconds.
 5. Get the URL of the first post as in step 3.6. Add `posted <id> <url>` to the ledger.
 6. Fallback if "Add post" is not found: post the first text as a single post, open its URL, then for each remaining post: `find` "Reply" (the reply action under the post), click, type the text into the reply editor ("Post your reply"), click the "Reply" submit button, wait 3 seconds, reload the thread page. The thread URL is still the first post's URL.

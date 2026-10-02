@@ -34,6 +34,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Bo Nix: Nix led the league in pass attempts in 2025 and finished QB7 then QB6 in his first two seasons; Denver traded for Jaylen Waddle to join his returning receivers. [8-20 bust and value picks for 2026]
 - 2026-08-21: Bo Nix: Finished QB6 in 2025 and QB7 as a rookie, and now adds Jaylen Waddle. [8-21 mayhem mock draft]
 - 2026-08-24: Bo Nix: Nix had offseason ankle surgery but looked healthy in the Aug. 22 weekend preseason game, connecting with Jaylen Waddle; he finished QB7 as a rookie and QB6 in 2025 while leading the NFL in pass attempts. [8-24 adp adjustments]
+- 2026-09-27: Bo Nix: 17 of 33, 186, 2 TD, 1 INT in the 30-26 win over LAR. [pod 9-28, deployment]
+- 2026-09-27: Bo Nix: 12 carries for 15 yards through three games (3-2, 5-6, 4-7) with one rushing touchdown, the 1-yard winner with 47 seconds left vs LAR. Passing 56 of 93 for 605, 4 TD, 3 INT. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -80,6 +82,10 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: J.K. Dobbins: Beat reporters said all offseason Dobbins, not R.J. Harvey, would start; Dobbins averaged 5.0 YPC in 2025 (5.2 career) before his injury while Harvey averaged under 4.0 behind the same line. [8-24 adp adjustments]
 - 2026-08-24: Jonah Coleman: Rookie fourth-round pick Jonah Coleman is viewed as the main threat to Dobbins' role and the likely next man up if Dobbins gets hurt. [8-24 adp adjustments]
 - 2026-08-24: R.J. Harvey: After Dobbins went down in 2025, Harvey struggled on the ground and Bo Nix ended up leading the NFL in pass attempts; Harvey is expected to keep passing-down work. [8-24 adp adjustments]
+- 2026-09-27: JK Dobbins 17 for 49; RJ Harvey 2 carries for 6 and 6 catches for 41, a concussion evaluation and returned. [pod 9-28, deployment]
+- 2026-09-27: J.K. Dobbins / RJ Harvey / Tyler Badie: Week 3 vs LAR with Coleman out: Dobbins 31 snaps (52%), 17 of the backs' 20 carries for 49, 5 routes, 2 targets; Harvey 20 snaps (33%), 2 for 6, 16 routes on 34 dropbacks (47%), 7 targets, 6 for 41; Badie 11 snaps (18%), 1 for 2 and 1 catch for 12. [pod 9-29, deployment]
+- 2026-09-27: J.K. Dobbins: 35 carries for 121 yards (3.5 a carry) and no touchdown through three games, by game 8-36, 10-36, 17-49; 1 catch on 2 targets. He left the Week 2 game and was limited in practice on 9/23. [pod 9-30, deployment]
+- 2026-09-27: RJ Harvey: Missed Week 2 (held out of practice 9/23; hamstring, per a charting report). In two games: 5 carries for 24, 10 catches for 64 on 11 targets. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -129,6 +135,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Pat Bryant: Pat Bryant has drawn praise all offseason and is ahead of Troy Franklin in Denver's receiver pecking order. [8-24 adp adjustments]
 - 2026-08-26: Jaylen Waddle: Broncos starters played the first preseason drive with Waddle and Courtland Sutton as the every-down receivers; Waddle had a big gain. Sean Payton gave up a first- and third-round pick for him. [8-26 rankings and news updates]
 - 2026-08-26: Pat Bryant: Came on in three-receiver sets, mostly in a slot role, with the starters in the preseason game; speculation that he steals snaps from Sutton is not expected to play out early. [8-26 rankings and news updates]
+- 2026-09-27: Pat Bryant: 40 snaps (67%), 2 targets, 2-44-1; receiver snaps Sutton 52, Waddle 42, Bryant 40, Franklin 11; targets Sutton 7, Waddle 7, Harvey 6, Bryant 2. [pod 9-29, deployment]
+- 2026-09-27: Jaylen Waddle: 2 of 7 for 10 plus a 14-yard carry vs LAR. [pod 9-28, deployment]
+- 2026-09-27: Sutton / Waddle / Bryant / Engram: Week 3 routes on 34 dropbacks: Sutton 32 (94%), Waddle 28 (82%), Bryant 25 (74%), Engram 24 (71%); Engram 34 snaps (57%), 2 targets, 0 yards. [pod 9-30, deployment]
 
 ## Tight ends
 
@@ -158,6 +167,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-11: J.K. Dobbins: Left practice with a trainer after getting hurt; Sean Payton said he will be fine and guaranteed he will not miss a game, and Dobbins was back on the field in pads the same day. [8-11 20-11 ranked RBs]
 - 2026-08-12: J.K. Dobbins: Dobbins returned to individual drills on Aug. 12. [8-12 top 10 rb rankings]
+- 2026-09-30: Marvin Mims Jr.: out for Week 4 at SF (reports).
+- 2026-09-26: Jonah Coleman: Placed on injured reserve with a high-ankle sprain suffered in the Week 2 win over JAX; out at least four games, earliest return Week 7 at ARI (Oct 25). He did not practice Thursday 9/24. The move opened a roster spot for LS Mitchell Fraboni. [pod 9-29, official]
+- 2026-09-30: Jaylen Waddle: Wore a walking boot after the Week 3 win at LAR as a precaution, then practiced in full Wednesday; Sean Payton said he is fine. [pod 9-30, official]
 
 ## Other
 
@@ -165,3 +177,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-07-14: Favored in just one of its first six games (at KC, JAX, LAR, SF, LAC, SEA) but favored in the next eight. [7-14 afc west breakdown]
 - 2026-08-04: First six games: at KC, JAX, LAR, at SF, at LAC, SEA, an extremely tough opening slate. [8-4 QB Talk article]
 - 2026-08-20: Denver opens against the Chiefs, Jaguars, Rams, 49ers and Chargers, a difficult early slate of quality defenses. [8-20 bust and value picks for 2026]
+- 2026-09-27: Pat Surtain II / Riley Moss: Defense vs LAR: Surtain played all 86 snaps, was targeted 11 times and allowed 6 catches for 88; Moss allowed a touchdown and a pass-interference penalty. The Rams ran 82 plays without Nacua. [pod 9-30, deployment]

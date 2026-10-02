@@ -50,6 +50,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: J.J. McCarthy: Lost the starting job to Murray and could be traded; Carson Wentz and Max Brosmer are also on the roster. [8-24 QB Rankings]
 - 2026-08-24: Kyler Murray: Named the Week 1 starter several weeks before the preseason began, reportedly so he gets all the first-team reps; he has not lit up camp. He was terrible in 2025 and is a few years removed from an ACL. [8-24 QB Rankings]
 - 2026-08-24: Kyler Murray: Camp reports on Kyler Murray were not glowing; he was viewed as winning the job mainly by outplaying McCarthy, and observers note he became more skittish in the pocket after his knee injury in Arizona. [8-24 adp adjustments]
+- 2026-09-27: Kyler Murray: 15 of 29 for 168 yards, 1 TD, 1 INT, sacked 3 times, 2 carries for 17 in the 23-16 win at TB, his first full game as a Viking; the offense scored one touchdown. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -84,6 +85,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Jordan Mason: Since 2022 only Achane and Gibbs top Mason's 5.1 yards per carry; among 55 qualifying backs last year he was 9th in rush success rate, 4th in 10+ yard run rate and 9th in forced missed tackle rate. [8-22 10 players we cant stop drafting]
 - 2026-08-23: Deon Claybourne: Claybourne is not expected to have a role at the start of the season; he is viewed as a contingency behind Aaron Jones and Jordan Mason. [8-23 highstakes draft]
 - 2026-08-24: Jordan Mason: Mason, a tackle-breaker who thrived in the 49ers' zone scheme, was cited at 10.5+ half-PPR points per game in 2025 games J.J. McCarthy did not start; he is viewed as the starter over an aging Aaron Jones. [8-24 adp adjustments]
+- 2026-09-29: Aaron Jones Sr.: 17 carries for 58 yards and 5 catches for 34 @TB in Week 3 (22 touches) after 23 carries in Week 2; Jordan Mason on IR (fractured thumb) and eligible to return in Week 7 (team site, reports).
+- 2026-09-27: Aaron Jones Sr. 17 for 58 and 5 catches for 34 (22 touches), 80% snaps; Jordan Mason on IR (thumb), eligible Week 7. [pod 9-28, deployment]
+- 2026-09-30: Aaron Jones Sr.: 78% of the team's rush attempts in the two games without Mason and a 24% target share in Week 3; working through a knee issue (reports).
 
 ## Receivers
 
@@ -109,12 +113,16 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Tai Felton: Tai Felton (6'1, 183, 4.37) is a speed role player unlikely to command many targets. [8-17 updates and camp news]
 - 2026-08-18: Jordan Addison: Camp reports describe a strong connection between Addison and new quarterback Kyler Murray. [8-18 WR rankings]
 - 2026-09-28: Justin Jefferson: Left ankle sprain on a first-quarter screen in Week 3 at TB; imaging clean, could play Week 4 vs MIA per O'Connell (ESPN).
+- 2026-09-27: Jordan Addison 5 for 90 and a touchdown on 9 targets. [pod 9-28, deployment]
+- 2026-09-27: Justin Jefferson: 2 catches for 32 before the ankle sprain on his seventh play at TB; 11 catches for 147 and 2 TD through three games. [pod 9-30, deployment]
+- 2026-09-27: Jordan Addison: 9 targets on Kyler Murray's 29 attempts at TB (31%), 5 for 90 and a TD. [pod 9-30, deployment]
 
 ## Tight ends
 
 - 2026-08-06: T.J. Hockenson: Hockenson has not been a real part of the game plan since his injury and is not viewed as a factor. [8-6 1st round picks downsides]
 - 2026-08-15: T.J. Hockenson: He is 29 and two years removed from his ACL; he is the third option behind Jefferson and Addison, and Kyler Murray supported a top fantasy tight end in Arizona. [8-15 talk with injury expert]
 - 2026-09-28: Josh Oliver: Torn biceps, surgery, likely out for the season (reports).
+- 2026-09-30: Josh Oliver placed on IR Tuesday 9/29 (torn biceps); T.J. Hockenson and Gavin Bartholomew are the only tight ends on the roster. Hockenson ran a route on 29 of 37 dropbacks vs TB in Week 3, 2 of 4 targets for 11 yards. Vikings signed RBs Devin Neal and Audric Estime to the practice squad (team, reports).
 
 ## Offensive line
 
@@ -127,7 +135,19 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-17: Jauan Jennings: Jennings signed a one-year deal (max $13M, $6M guaranteed, $4.5M signing bonus); he is expected to make the roster but not be a big factor. [8-17 updates and camp news]
 - 2026-09-28: J.J. McCarthy: Traded to NYG for a 2027 fifth-round pick (team site).
+- 2026-09-28: J.J. McCarthy traded to NYG for a 2027 fifth-round pick, pending a physical; Kyler Murray starts, Carson Wentz is the No. 2. [pod 9-28, official]
+
+## Injuries and status
+- 2026-09-30: Justin Jefferson: Day to day with the ankle sprain and did not practice Wednesday, per Adam Schefter. [pod 9-29, beat]
+- 2026-09-30: Aaron Jones Sr.: Limited Wednesday, listed not injury related, a rest day (team report).
+- 2026-09-30: Justin Jefferson: DNP Wednesday (ankle sprain, not high); O'Connell calls him day to day and will not say what it means for Sunday (team report, O'Connell).
+- 2026-10-01: Justin Jefferson: not seen in the open portion of Thursday practice after a Wednesday DNP (ankle sprain); no game designation until Friday. [pod 10-1, beat]
+- 2026-09-16: Jordan Mason: on IR since 9/16 with a fractured thumb; misses Weeks 2-5, Minnesota's bye is Week 6, first eligible Week 7 vs IND. [pod 9-30, official]
+- 2026-10-01: Justin Jefferson: officially did not practice Thursday, second straight DNP with the ankle sprain (official report).
 
 ## Other
 
 - 2026-07-18: The Vikings went 9-8 in 2025 (4-8 then five straight wins, four with McCarthy), played the most games vs. winning teams, and ranked 26th in points and 28th in yards; schedule rated 17th toughest. [7-18 nfc north breakdown]
+- 2026-09-27: MIN 23, TB 16; the Vikings are 3-0. [pod 9-28, official]
+- 2026-09-30: Defense has allowed 14.2 fantasy points per game to running backs, the fewest in the league, with no rushing touchdown allowed through Week 3 (reports).
+- 2026-09-27: Will Reichard: Four field goals at TB including a 56-yarder late in the fourth quarter; Myles Price returned a punt 86 yards for a touchdown. [pod 9-29, deployment]

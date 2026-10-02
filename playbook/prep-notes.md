@@ -1,6 +1,6 @@
 # Prep Notes (Friday): the injury report, read for lineups, and the Menu refresh
 
-Runs Friday 5:45 PM ET. Posts at 6:25 PM ET. Week = current content week.
+Runs Friday 5:00 PM ET (FK Daily), after the 4:00 PM pantry and the final injury report. Posts at 6:25 PM ET. Week = current content week.
 
 ## What it is
 
@@ -21,7 +21,7 @@ The final Friday designations (Out, Doubtful, Questionable) for every fantasy-re
 
 1. Report rows: every player with a designation who is in the Menu's rankable pool or is a starter at his position. Practice log as three entries in order Wed, Thu, Fri using "DNP", "LP", "FP" (or "--" when a team held a walkthrough with no data).
 2. Read: what the pattern means. Full Friday practice after two limited days is a play. DNP Friday with a Questionable tag is usually out. Doubtful is out. Out is out.
-3. Verdict: the lineup action, including the pivot by name for every Out or Doubtful starter.
+3. Verdict: the lineup call in rank language (the Menu rank and its tier, `_standards.md`; never "start him"), including the pivot by name for every Out or Doubtful starter. A Questionable player who is expected to play gets his rank and tier with the watch; a Doubtful or Out player gets the pivot.
 4. Menu refresh, in `menu.json`:
    - Out or Doubtful: remove from `positions`, add to `off_menu` with the pivot in `note`. Doubtful players who might play stay off the menu with note "Doubtful. If he plays, ranks around RB2x." (rank in words, no number from the model).
    - Questionable: set `flag` "Q"; move down within tier if Friday was DNP or LP with a soft-tissue injury; no move for FP.
@@ -34,7 +34,7 @@ The final Friday designations (Out, Doubtful, Questionable) for every fantasy-re
 
 ```json
 { "report": [ { "player": "", "team": "", "pos": "", "status": "Q", "injury": "hamstring", "practice": ["DNP","LP","FP"], "read": "", "verdict": "", "action": "START", "watch": "inactives at 11:30 AM ET" } ],
-  "reversals": [ { "player": "", "was": "Start as a WR2", "now": "Out. Pivot to ..." } ],
+  "reversals": [ { "player": "", "was": "WR18, a WR2", "now": "Out. Pivot to ..." } ],
   "gtd": [ "names that are true Sunday morning decisions" ] }
 ```
 
@@ -49,12 +49,14 @@ Envelope: `title` "Prep Notes, Week N", `dek` the biggest designation and its pi
 One thread, 6 to 9 posts, `--at "Fri 18:20"`, `--not-after "Sun 11:30"`, `--link "prep.html?week=N"`:
 
 1. Hook: the biggest out and the pivot. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
-2. Ruled out, with pivots (up to two posts).
+2. Ruled out, with pivots (up to two posts), one player per line with his pivot on the same line.
 3. Doubtful.
-4. Questionable, the ones that matter, with the Friday practice status.
+4. Questionable, the ones that matter, with the Friday practice status and each his rank and tier, one player per line.
 5. Sunday morning decisions to watch, with the time each team's inactives drop.
-6. Menu changes in one post: who moved up, who moved off.
+6. Menu changes in one post: who moved up, who moved off, one player per line.
 7. Close plus link.
+
+One player per line in every post with an empty line between players, the team hashtags on their own last line, no start commands (`_standards.md`).
 
 ## Finish
 

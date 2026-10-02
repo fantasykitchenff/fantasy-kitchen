@@ -18,6 +18,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Drake Maye: Drake Maye has had an up-and-down start to camp despite new weapons, with no internal concern. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Drake Maye: Ranked 1st among 42 qualifying QBs in 2025 in completion rate, yards per attempt and completion rate over expected, 3rd in aDOT and 4th in PFF pass grade; his 8.9 YPA was the 17th-best mark in NFL history. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-20: Drake Maye: Was the most efficient quarterback in the NFL in 2025 and nearly won MVP; the situation Mendoza enters in Las Vegas is considered better than Maye's rookie one. [8-20 buying or selling rookie hype]
+- 2026-09-27: Drake Maye: 14 of 25, 199, 0 TD, 2 INT, 2 fumbles (1 lost), benched for Tommy DeVito in the fourth quarter of the 35-6 loss at JAX; 6 interceptions and 7 turnovers through three games. The nine-fumble, ten-interception line making the rounds is a rolling seven-game span, not this season. [pod 9-28, deployment]
+- 2026-09-27: Drake Maye: Through three games: 51 of 80 (63.8%) for 585 yards, 7.3 an attempt, 1 touchdown, 6 interceptions, 9 sacks, a 58.6 rating, 15 rushes for 82. His 2025 line was 72.0%, 8.9, 113.5, 31 touchdowns and 8 interceptions. He played 48 of 60 snaps at JAX before Tommy DeVito took the last 12. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -48,6 +50,10 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: TreVeyon Henderson: The Patriots shelved Henderson and played Stevenson in crunch time of last season's Super Bowl. [8-24 adp adjustments]
 - 2026-08-26: Rhamondre Stevenson: Has reportedly done everything right in camp and will open the season with the better role in the Patriots backfield. [8-26 rankings and news updates]
 - 2026-08-26: TreVeyon Henderson: Seems to have struggled in training camp, including in pass protection, though he topped 1,000 scrimmage yards with 10 TDs as a rookie; he is expected to open with the lesser role behind Stevenson. [8-26 rankings and news updates]
+- 2026-09-29: TreVeyon Henderson: 33 snaps to Rhamondre Stevenson's 20 in Week 2, then 23 to Stevenson's 33 @JAX in Week 3; 8 carries for 23 yards in Week 3, Stevenson 7 for 22 (snap counts, reports).
+- 2026-09-27: Rhamondre Stevenson 33 snaps (52%), 7 for 22; TreVeyon Henderson 23 snaps (37%), 8 for 23; Kiner 8; Week 2 was Henderson 33 to 20. [pod 9-28, deployment]
+- 2026-09-27: Rhamondre Stevenson: At JAX the early downs were split evenly with TreVeyon Henderson, and Stevenson took most of the passing-situation and short-yardage snaps; he caught 3 for 16 to Henderson's 1 for 6. [pod 9-29, deployment]
+- 2026-09-20: TreVeyon Henderson: 16 carries for 76 and a 39-yard touchdown in the 20-3 win over PIT in Week 2; Stevenson lost a fumble in Steelers territory in that game. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -75,6 +81,10 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Kyle Williams: The Boutte trade opened a clearer path to snaps for second-year WR Kyle Williams in New England. [8-24 adp adjustments]
 - 2026-08-24: Romeo Doubs: With Boutte traded, Romeo Doubs has a clearer role in New England, though observers doubt he lines up as the primary X and expect him to move around. [8-24 adp adjustments]
 - 2026-08-26: Romeo Doubs: The Boutte trade solidifies him as a true every-down player outside with some slot; AJ Brown and Doubs are expected on almost every snap with Pop Douglas the main slot receiver. [8-26 rankings and news updates]
+- 2026-09-27: Mack Hollins 48 snaps (76%) led the receivers; Doubs 46, Douglas 37. [pod 9-28, deployment]
+- 2026-09-27: Mack Hollins: Week 3 targets at JAX on 38 dropbacks: Hollins 9 (6 for 87), DeMario Douglas 5 (1 for 38), Romeo Doubs 4 (3 for 49), Kyle Williams 3 (1 for 34), Efton Chism III 2 (1 for 1). [pod 9-30, deployment]
+- 2026-09-20: Romeo Doubs: 3 catches for 96 yards vs PIT in Week 2, including a 63-yarder; with Week 3 he has 6 for 145 in the two games without A.J. Brown. [pod 9-30, deployment]
+- 2026-09-27: Mack Hollins: Leads the Patriots with 16 targets through three games (5, 2, 9); DeMario Douglas has 14 and Romeo Doubs 11 (3, 4, 4), with no game above 4 targets for Doubs. [pod 10-1, deployment]
 
 ## Tight ends
 
@@ -85,10 +95,14 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Eli Raridon: Rookie TE Eli Raridon has drawn positive camp notes as the clear starter in two-TE sets. [8-14 things we learned from pre season games]
 - 2026-08-14: Hunter Henry: Ranked top five among tight ends in 2025 in TDs (7), expected TDs (6.6) and red-zone targets (25). [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-20: Eli Raridon: Rookie has been lighting up camp with buzz that he will play over Hunter Henry in some situations; Henry got a contract extension. [8-20 buying or selling rookie hype]
+- 2026-09-27: Hunter Henry played 44 snaps (70%). [pod 9-28, deployment]
+- 2026-09-27: Hunter Henry: 2 targets, 1 catch for 5 at JAX on 41-44 snaps (68-70%); Eli Raridon was inactive with a thigh injury. Henry had 3 for 40 in Week 2. [pod 9-30, deployment]
+- 2026-09-30: Eli Raridon: Limited Wednesday with the thigh injury that kept him inactive in Week 3. [pod 9-30, official]
 
 ## Offensive line
 
 - 2026-08-20: New England's line jumped to 11th in 2025 but Will Campbell struggled in the playoffs; G Alijah Vera-Tucker was added but has played only 29 games in four years. [8-20 Offensive Line Rankings]
+- 2026-09-27: New England Patriots: Maye was pressured on 43.5 percent of dropbacks entering Week 3, fourth-highest among starting quarterbacks, and has taken 9 sacks in three games. [pod 9-30, deployment]
 
 ## Depth chart
 
@@ -107,6 +121,12 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: A.J. Brown: Brown dislocated his thumb in camp but it is not expected to be a long-term issue. [8-5 32 team update and breakdown]
 - 2026-08-13: A.J. Brown: Brown, 29, is coming off career lows in yards per target, yards per catch and success rate and missed time with hamstring injuries each of the last two years; the Rams reportedly backed out of a trade over knee concerns. [8-13 2026 man vs machine]
 - 2026-08-24: TreVeyon Henderson: Henderson left practice early on Monday, Aug. 24, after slipping during a cut and had his right ankle, foot and leg examined. He had also missed the previous Saturday's practice for unstated reasons. [8-24 embarrased to love players]
+- 2026-09-11: A.J. Brown: high ankle sprain in Week 1 vs SEA, on IR, about six weeks per Rapoport; will not play at BUF in Week 4. [pod 9-29, official]
+- 2026-09-30: A.J. Brown: placed on IR with a high-ankle sprain, out at least four games; Drake Maye stays the starter on the Week 4 depth chart with Tommy DeVito second (team depth chart, reports).
+- 2026-09-30: Drake Maye: Mike Vrabel confirmed him as the starter at BUF ('Drake's our quarterback') after the fourth-quarter benching for Tommy DeVito vs JAX; 1 TD pass, 6 INT, 7 turnovers through three games (reports).
+- 2026-09-29: Drake Maye: Asked about his right shoulder after the JAX loss and on Monday radio, Maye said 'I wouldn't say there's a problem with my shoulder'; Mike Vrabel said he knows of no lingering injury, the team had not listed him on the injury report, and Greg Bedard reported team sources say nothing is wrong. The shoulder was hurt in January's AFC title game and he did not have surgery. [pod 9-29, beat]
+- 2026-09-30: Drake Maye: Added to the Wednesday report with the right shoulder, full participant; says it has not affected his arm or decisions. Gonzalez (shoulder), Barmore (shoulder) and Morgan Moses (foot) DNP (team report, Rotowire).
+- 2026-09-11: A.J. Brown: On injured reserve since Sep 11 with the high-ankle sprain from Week 1 at SEA; the earliest he can return is Week 6. [pod 9-30, official]
 
 ## Other
 

@@ -29,6 +29,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Geno Smith: Geno Smith is the Jets' starting quarterback in 2026, replacing Justin Fields and Tyrod Taylor; he is expected to check down to Breece Hall more than his predecessors. [8-23 highstakes draft]
 - 2026-08-26: Geno Smith: Training camp reports on him have been somewhat ugly; the next quarterbacks on the depth chart are Cade Klubnik and Brady Cook. [8-26 rankings and news updates]
 - 2026-08-26: Geno Smith: OC Frank Reich said he has been 'so impressed' with Geno Smith's play in camp. [8-26 myguys episode]
+- 2026-09-29: Geno Smith: 31 of 37, 321 yards, 3 TDs (Garrett Wilson, Sadiq, Jeremy Ruckert) in the 31-24 Week 3 loss at DET; sacked 5 times, lost a fumble on the final drive (box score).
+- 2026-09-27: Geno Smith: 75.5% completions and no interceptions through three games (team site). [pod 9-29, deployment]
 
 ## Backfield
 
@@ -45,6 +47,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Breece Hall: Hall played 10 of 11 snaps before Braelon Allen entered, feature-back usage the Jets have not shown in a long time. [8-16 preseason week 1 recap]
 - 2026-08-17: Isaiah Davis: Isaiah Davis has a knee injury and is expected back in a couple of weeks; Braelon Allen has a runway while Davis and Hall are out. [8-17 updates and camp news]
 - 2026-08-19: Breece Hall: Hall is banged up but was just paid; Isaiah Davis has barely practiced in camp, leaving Braelon Allen as the healthy backup. [8-19 Offenses to look out for]
+- 2026-09-29: Braelon Allen: Played all 17 offensive snaps after Breece Hall left Week 3; 19 carries for 61 yards on the season. Isaiah Davis has not played an offensive snap through three games (reports).
+- 2026-09-27: Braelon Allen took every snap after Hall left (17 per reports), 4 for 14 and 3 catches for 3 in the game; season 19 for 61 and a touchdown, 4 catches for 11 on 5 targets; Isaiah Davis has zero offensive snaps this season (16 special-teams snaps in Week 3). [pod 9-29, deployment]
+- 2026-09-27: Breece Hall: 13 carries for 32 and 3 catches for 23 at DET before the fourth-quarter exit; the Jets have rushed for 152, 67 and 58 yards in their three games. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -77,6 +82,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Garrett Wilson: Played every preseason snap with Geno Smith; he and Adonai Mitchell look locked in as every-down receivers. [8-26 rankings and news updates]
 - 2026-08-26: Garrett Wilson: OC Frank Reich called Wilson the offense's bell cow, bringing him up unprompted when asked about Omar Cooper Jr.; the passing game is described as consolidated around him. [8-26 myguys episode]
 - 2026-08-26: Garrett Wilson: Wilson averaged a 28% target share over four seasons and 30% in seven 2025 games; he was the WR5 before his injury with four top-15 weeks in the first five games. [8-26 myguys episode]
+- 2026-09-27: Garrett Wilson: 10 of 13 for 107 and a 23-yard touchdown @DET, 13 of 37 team targets (35%); season 21 catches for 243 yards and 2 touchdowns. Wilson and Kenyon Sadiq together drew 21 of 37 targets (57%), 212 of 321 passing yards and 2 of the 3 touchdowns. [pod 9-29, deployment]
+- 2026-09-27: New York Jets: With Mitchell inactive at DET, Isaiah Williams was a full-time starter (2 targets, 1 for 21), practice-squad call-up Sterling Shepard was the main third receiver (1 for 3) and Malik McClain rotated in. Jeremy Ruckert caught all 5 of his targets for 39 and a touchdown. [pod 9-29, deployment]
+- 2026-09-20: Adonai Mitchell: 15 targets in Weeks 1 and 2 (3, then 12 vs GB), 9 catches for 123, before the finger injury kept him out of Week 3. [pod 9-30, deployment]
 
 ## Tight ends
 
@@ -89,6 +97,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Kenyon Sadiq: Sadiq is trying to get back by week one. [8-14 preseaon hype and fantasy curses]
 - 2026-08-19: Kenyon Sadiq: Kenyon Sadiq is still hurt; Mason Taylor is the Jets tight end expected to have a role, and Geno Smith has featured tight ends when he had one. [8-19 Offenses to look out for]
 - 2026-08-20: Kenyon Sadiq: Rookie is injured and likely behind; he profiles as a move tight end and competes for snaps with Mason Taylor and Omar Cooper Jr. [8-20 buying or selling rookie hype]
+- 2026-09-29: Kenyon Sadiq: 7 of 8 targets, 105 yards, 1 TD in Week 3 at DET on a season-high 38 snaps with Mason Taylor out (thumb). Route share was 40 percent through Week 2 (box score, reports).
+- 2026-09-27: Kenyon Sadiq: 7 of 8 for 105 and a 24-yard touchdown, 38 snaps (48% snap share), 58% route share, 48% of snaps in the slot, 32% inline, 16% wide, 8 of 37 targets (21.6%), 32% targets per route; Weeks 1 and 2: 5 for 38 on 6 targets at a 40% route share. [pod 9-29, deployment]
+- 2026-09-27: Kenyon Sadiq: Played a season-high 57.6 percent of the offensive snaps (38) at DET and ran a route on 58.1 percent of pass plays, with a 32 percent target rate per route. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -96,6 +107,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-11: Some evaluators believe the Jets' offensive line is considerably better than the market credits, which supports Breece Hall's outlook. [8-11 Fantasy Target Debate]
 - 2026-08-19: The Jets' line has talent: tackles Olu Fashanu and Armand Membou plus a good interior with Tippmann and Myers. [8-19 Offenses to look out for]
 - 2026-08-20: The Jets' last two first-round picks are tackles Olu Fashanu and Armand Membou; the concern is Frank Reich, whose previous stops saw lines and offenses improve after he left. [8-20 Offensive Line Rankings]
+- 2026-09-30: Dylan Parham: Did not practice Wednesday with a knee injury; Glenn would not say whether surgery or injured reserve is in play. [pod 9-30, official]
 
 ## Depth chart
 
@@ -120,6 +132,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Breece Hall: Hall suffered a groin strain described as a one-and-a-half to two-week injury; he is expected back in roughly two to three weeks, well before Week 1. [8-19 RBs drafting and fading]
 - 2026-08-23: Breece Hall: Hall was dealing with a groin issue as of Aug 21. His advanced rushing and evasion metrics rebounded last year; his receiving numbers were depressed playing with Justin Fields and Tyrod Taylor. [8-23 highstakes draft]
 - 2026-09-28: Breece Hall: Thigh/quad injury on a goal-line carry in Week 3 vs DET; MRI better than feared, week-to-week. Braelon Allen had 6 touches on the final two drives (CBS, reports).
+- 2026-09-25: Mason Taylor: thumb, out Week 3. Adonai Mitchell: finger caught in a jersey at Thursday practice, inactive at DET. Omar Cooper Jr.: IR, high ankle sprain (9/19). Arian Smith: out for the season (ACL). [pod 9-29, official]
+- 2026-09-30: Breece Hall: quad, week to week per Aaron Glenn, MRI showed nothing long-term; expected to miss Week 4 at CHI with Braelon Allen starting and Isaiah Davis next (ESPN, reports).
+- 2026-09-30: Mason Taylor: Did not practice Wednesday and remains week to week with the thumb; he is expected to miss a second straight game at CHI. Adonai Mitchell (finger) is also week to week. [pod 9-29, beat]
+- 2026-09-30: Kenyon Sadiq: Listed with a back injury and limited at Wednesday's practice, his first appearance on the report this season; Mason Taylor (thumb) did not practice and Jeremy Ruckert (knee) was limited, so all three tight ends are on the report. [pod 10-1, official]
+- 2026-09-30: Breece Hall: Did not practice Wednesday (quad); Aaron Glenn called him week to week, gave no Week 4 ruling and said the picture clears after Thursday and Friday practice. He has not been ruled out. [pod 9-30, official]
+- 2026-10-01: Breece Hall: Did not practice Thursday (quad), his second straight DNP; still week to week, Friday designation pending (CBS, reports).
+- 2026-09-19: Omar Cooper Jr.: On injured reserve since Sep 19 with the Week 1 high-ankle sprain, so the earliest he can play is Week 7. [pod 9-30, official]
 
 ## Other
 

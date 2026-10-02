@@ -11,6 +11,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Luther Burden III: Ben Johnson has repeatedly raved about Burden, invoking Amon-Ra St. Brown and Jerry Rice comparisons; DJ Moore is gone from Chicago. [8-13 2026 man vs machine]
 - 2026-08-24: Ben Johnson takes an unusually hands-on role in installing the run game each week; Chicago leaned heavily on the run coming out of its early bye (Week 6 vs. NO) in 2025. [8-24 adp adjustments]
 - 2026-08-26: Head coach Ben Johnson called Loveland the sun of the Bears' solar system and has said his goal is to set the NFL single-season scoring record. [8-26 myguys episode]
+- 2026-09-29: Ben Johnson has not named a Week 4 starter vs NYJ and noted Bagent ended camp as the No. 2. [pod 9-29, coach]
 
 ## Scheme and tendencies
 
@@ -36,6 +37,12 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Caleb Williams: Williams changed his diet, lost weight and camp accuracy reports are very good; last year only J.J. McCarthy and Shedeur Sanders were less accurate (~58% completions), with 27 passing TDs. [8-14 preseaon hype and fantasy curses]
 - 2026-08-17: Caleb Williams: Caleb Williams said during the preseason broadcast that when he sees man coverage pre-snap, Burden is the receiver he trusts to beat it. [8-17 updates and camp news]
 - 2026-08-26: Caleb Williams: Williams reportedly dropped 15 pounds this offseason; in 2025 he had the 4th-most end zone pass attempts and the Bears jumped from 28th to 9th in points per game in Ben Johnson's first year. [8-26 myguys episode]
+- 2026-09-29: Case Keenum: Started Week 3 vs PHI (Williams hamstring, Bagent concussion); 24 of 34, 247 yards, 2 TD passes and a QB sneak TD, no sacks, in a 27-7 win. Caleb Williams has a Grade 2 hamstring strain, 3 to 4 week timeline; Tyson Bagent the likely Week 4 starter vs NYJ (box score, ESPN).
+- 2026-09-29: Case Keenum: 24 of 34 for 247 yards, 2 TD and a 1-yard rushing TD in the 27-7 Week 3 win over PHI; Ben Johnson did not name a Week 4 starter and noted Tyson Bagent ended camp as the No. 2 (Sun-Times, SI).
+- 2026-09-28: Case Keenum: 24 of 34, 247, 2 TD, 0 INT and a rushing touchdown in the 27-7 win over PHI; Tyson Bagent had cleared concussion protocol but had too few practice reps to start. [pod 9-29, deployment]
+- 2026-09-30: Ben Johnson said Tyson Bagent starts vs NYJ if he gets a full week of practice; Keenum's Week 3 start does not change the depth chart (reports).
+- 2026-09-30: Ben Johnson said Tuesday 'we'll see how it plays out all week' on the Week 4 starter; Bagent gets the start if he gets a full week of practice (reports).
+- 2026-09-30: Ben Johnson: Said the Bears have three quarterbacks under consideration and know their direction but will not name the Week 4 starter; Caleb Williams is improving daily and sat out Wednesday's walkthrough. [pod 10-1, coach]
 
 ## Backfield
 
@@ -59,6 +66,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Kyle Monangai: Monangai is expected to see some work behind D'Andre Swift, who remains the lead back in the Bears' timeshare. [8-22 10 players we cant stop drafting]
 - 2026-08-24: D'Andre Swift: Swift set career highs in rushing yards, rushing TDs, rush success rate and scrimmage yards in 2025. [8-24 embarrased to love players]
 - 2026-08-24: D'Andre Swift: Swift is coming off career highs in yardage; only he and Derrick Henry have finished as top-24 fantasy RBs in each of the last six years. Kyle Monangai is dealing with a hyperextended knee. [8-24 adp adjustments]
+- 2026-09-29: D'Andre Swift: 20 carries for 84 yards in the Week 3 win over PHI (Bears and Bleacher Nation recaps; corrects an earlier line that said over 100 yards and a TD).
+- 2026-09-28: D'Andre Swift: 20 carries for 84, 2 catches for 4, 70% snaps. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -94,6 +103,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Luther Burden III: Over his final eight 2025 games Burden averaged just over 50 yards on 52% of snaps with one TD (WR24 in PPG from Week 11 on); DJ Moore is gone, leaving Odunze and Loveland as the main competition. [8-20 WRs talk]
 - 2026-08-24: Rome Odunze: In 2025 Odunze led the Bears in first-read targets and in first-read target share when Caleb Williams was pressured. Through week 8 he was on pace for 136 targets, 75 catches, 1,150 yards and 12 TDs. [8-24 embarrased to love players]
 - 2026-08-24: Rome Odunze: A foot injury appeared on the report before week 9 of 2025; he played poorly on it (pace of 44 catches, 639 yards) and was then shut down. He had 27 end-zone targets in his first two seasons, 7th most among receivers. [8-24 embarrased to love players]
+- 2026-09-29: Rome Odunze: Dropped a wide-open touchdown in Week 3 vs PHI (reports).
+- 2026-09-29: Rome Odunze: 3 catches for 44 yards on 6 targets vs PHI in Week 3, with a dropped TD (reports).
+- 2026-09-28: Luther Burden III: 11 targets (32%), 7-61-1, 42 snaps (61%), 26 routes (74%); season 25% target share, 28% targets per route. [pod 9-29, deployment]
+- 2026-09-28: Kalif Raymond: 52 snaps (75%), 24 routes (69%), 7 targets (21%), 6-90-1; season 67% snaps, 66% routes, 23% target share, 27% targets per route. [pod 9-29, deployment]
+- 2026-09-28: Rome Odunze: 3 of 6 for 44 on 59 snaps (86%) with a dropped touchdown; he has led the receivers in snaps two straight weeks. [pod 9-29, deployment]
+- 2026-09-28: Kalif Raymond: 214 receiving yards through three games, 71 a game. [pod 9-29, deployment]
+- 2026-09-28: Kalif Raymond: 21 targets through three games (9, 5, 7), 19 catches, 214 yards and 1 touchdown; he leads the Bears in receiving yards. [pod 9-30, deployment]
 
 ## Tight ends
 
@@ -114,6 +130,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Colston Loveland: As a 21-year-old rookie the 10th overall pick led the Bears in receiving yards, the first rookie TE to do so for the franchise since Mike Ditka. [8-26 myguys episode]
 - 2026-08-26: Colston Loveland: Over the final four 2025 games (Weeks 17-18 plus two playoff games) Loveland drew 49 targets with four straight double-digit target games, including 8-137-1 in the wild card win at Green Bay. [8-26 myguys episode]
 - 2026-08-26: Colston Loveland: In that four-game stretch he was targeted on 35% of routes and 7 of the 49 targets came in the red zone; the Bears lined him up in the slot and out wide, not only inline. [8-26 myguys episode]
+- 2026-09-29: Colston Loveland: 4 catches on 4 targets for 31 yards vs PHI in Week 3 (corrected 9/30: 34 was his season total on 5 catches); a 6-yard TD was overturned at the goal line (reports).
+- 2026-09-28: Colston Loveland: 4 of 4 for 31 yards vs PHI on 22 routes (63%) and 55 snaps (80%); 34 is his season total on 5 catches, which corrects the 9/29 line. Season: 10% target share and 11% targets per route on 71% of the routes. Cole Kmet: 42 snaps, 13 routes, 1 target. [pod 9-29, deployment]
+- 2026-09-28: Colston Loveland: 9 targets, 5 catches and 34 yards through three games (0, 3 and 31 yards by week). [pod 9-30, deployment]
 
 ## Offensive line
 
@@ -125,6 +144,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: C Drew Dalman retired early and must be replaced; Ozzy Trapilo may return at LT sooner than expected; RT Darnell Wright signed a big extension and the right side is the league's best run-blocking side. [8-20 Offensive Line Rankings]
 - 2026-08-24: Chicago overhauled its offensive line under Ben Johnson last offseason and reportedly improved in every offensive-line category in 2025. [8-24 adp adjustments]
 - 2026-08-26: The Bears rebuilt the offensive line after Williams' record-level sack total as a rookie, and his pressure-to-sack ratio improved in 2025. [8-26 myguys episode]
+- 2026-09-28: Braxton Jones: Left the PHI game with a knee injury after 46% of the snaps; Theo Benedet played the other 54% at left tackle. The other four linemen played all 72 snaps. [pod 9-29, deployment]
+- 2026-09-30: Braxton Jones: Week to week with the knee injury from Week 3, per Ben Johnson, and did not practice Wednesday; Theo Benedet played the rest of that game at left tackle. Jonah Jackson missed Wednesday for a personal reason. [pod 9-30, coach]
 
 ## Rookies
 
@@ -150,6 +171,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Kyle Monangai: Monangai was dealing with an injury as of Aug 21, which was cited as a boost to D'Andre Swift's early-season workload. [8-23 highstakes draft]
 - 2026-08-24: Kyle Monangai: Monangai hyperextended his knee and will miss multiple weeks; his Week 1 status is unknown, leaving D'Andre Swift as the clear lead back. [8-24 embarrased to love players]
 - 2026-08-26: Luther Burden III: Burden returned to practice on Aug. 26 after his groin injury. [8-26 myguys episode]
+- 2026-09-28: Caleb Williams: Grade 2 hamstring, 3 to 4 weeks, reported by Schefter and Rapoport from league sources, not a team statement. [pod 9-28, beat]
+- 2026-09-30: Quarterback: Johnson said the Week 4 starter vs NYJ is decided and will not name Keenum or Bagent; Bagent is cleared from the concussion, Caleb Williams (grade 2 hamstring) sat out the walkthrough (Sun-Times, 670 The Score).
 
 ## Other
 
@@ -162,3 +185,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Bears camp has featured lots of injuries; Ben Johnson publicly said they will have the highest-scoring offense in NFL history. [8-14 changed minds about players]
 - 2026-08-17: The Bears defense continues to deteriorate (they signed Marcus Davenport); the team profiles as a juggernaut offense paired with a bad defense. [8-17 updates and camp news]
 - 2026-08-24: The Bears open 2026 against Carolina, Minnesota, Philadelphia and the Jets, and are favored in five of their first six games. [8-24 embarrased to love players]
+- 2026-09-30: Bears run defense: 24th in run-defense DVOA (-1.7%) and 21st in pass-defense DVOA on FTN's team page, a window that covers Weeks 1 and 2; Saquon Barkley ran 15 times for 82 in Week 3. [pod 9-29, deployment]
+- 2026-10-01: Week 4 vs NYJ: CHI favored by 3.5 with a 42.5 total (odds pages).

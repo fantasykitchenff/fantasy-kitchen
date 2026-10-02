@@ -18,6 +18,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: The 2025 Steelers ranked 28th in plays per game and only 47% of Aaron Rodgers' attempts came with three-plus receivers on the field; Mike McCarthy's Dallas offenses used three-plus receivers a league-high 83%. [8-5 fantasy takeaways from all 32 teams]
 - 2026-08-11: Pittsburgh has one of the best offensive lines, runs the ball at the goal line and schemes receptions to the backfield because Aaron Rodgers does not want to get hit. [8-11 Fav Pick in each round]
 - 2026-08-12: Pittsburgh spent an install day under center in multiple-TE sets; the 2026 identity is expected to match 2025's run-heavy approach, using play-action to create explosives for Aaron Rodgers. [8-12 Camp Updates Article]
+- 2026-09-27: Steelers offense: Leaned on two-tight-end sets vs CIN: Darnell Washington played 47 of 62 snaps; Germie Bernard 17, Ben Skowronek 11 (23-yard TD). The same five linemen played every snap. [pod 9-29, deployment]
 
 ## Quarterback
 
@@ -27,6 +28,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-08: Aaron Rodgers: Enters 2026 in a Mike McCarthy offense with Pittsburgh; the Steelers open at home against Atlanta. [8-8 Late and Cheap QBs]
 - 2026-08-16: Drew Allar: Rookie Drew Allar had a big preseason debut behind Aaron Rodgers. [8-16 preseason week 1 recap]
 - 2026-08-20: Aaron Rodgers: Aaron Rodgers no longer helps the line as much as he used to. [8-20 Offensive Line Rankings]
+- 2026-09-27: Aaron Rodgers: 19 of 34 for 292 yards, 3 TD, 1 INT vs CIN with completions of 47, 38 and 23 yards; he was 0 for 9 on throws of 20-plus yards in Weeks 1-2, when the offense averaged a league-worst 3.8 yards a play. Week 3: 411 yards on 59 plays (7.0). [pod 9-29, deployment]
 
 ## Backfield
 
@@ -51,6 +53,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Kaleb Johnson: Johnson did not play until midway through the third quarter, behind Travis Homer and Lew Nichols. [8-16 preseason week 1 recap]
 - 2026-08-23: Jaylen Warren: Warren is expected to step into the role Kenneth Gainwell had in Pittsburgh last year, when Gainwell had about 1,200 scrimmage yards, eight touchdowns and 40-plus catches. [8-23 highstakes draft]
 - 2026-08-23: Rico Dowdle: Dowdle has shown he can handle a huge workload and has a path to the Steelers' goal-line role, but Jaylen Warren is expected to catch far more passes. [8-23 highstakes draft]
+- 2026-09-27: Jaylen Warren 17 for 127 and 3 catches for 49, 20 touches, 90% snaps with Rico Dowdle (right toe) inactive; Dowdle did not practice Tuesday 9/29 and is likely out Thursday vs CLE unless he practices Wednesday. [pod 9-28, deployment]
+- 2026-09-30: Rico Dowdle (toe) did not practice Monday (an estimated line from the walkthrough) or Tuesday on the Week 4 report, and no Wednesday line had posted when checked Wednesday afternoon (an earlier line called the Monday report Wednesday's and counted three DNPs, corrected 9/30); Jalen Ramsey (wrist) and Brandin Echols (concussion) estimated limited, Joey Porter Jr. full (team report).
 
 ## Receivers
 
@@ -71,6 +75,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: DK Metcalf: Metcalf has an established rapport with Aaron Rodgers from 2025; Rodgers historically targets receivers he trusts, and safety-valve back Kenneth Gainwell is gone. [8-18 WR rankings]
 - 2026-08-18: Michael Pittman Jr.: Pittman is in his first year in the Steelers offense with Aaron Rodgers and profiles as the over-the-middle target; he, Rodgers and DK Metcalf are dealing with injuries and may all sit the entire preseason. [8-18 WR rankings]
 - 2026-08-20: Jeremy Bernard: Rookie has reportedly carved out a real role in the Steelers' receiver rotation. [8-20 buying or selling rookie hype]
+- 2026-09-29: Roman Wilson: 3 of 6 targets, 60 yards and a 38-yard TD in Week 3 vs CIN; exactly 6 targets in each of the first three games; snap share fell to 38.7 percent (reports).
+- 2026-09-27: Roman Wilson 3 of 6 for 60 with a 38-yard touchdown, 39% snaps; benched in the second half after a drop that became an interception, 2 snaps after halftime. [pod 9-28, deployment]
+- 2026-09-27: DK Metcalf: 24 targets in three games (10, 9, 5) for 98 yards and 1 TD, about 4.1 yards a target; Roman Wilson 18 targets (6 each week) for 114 and a TD; Pat Freiermuth 14 (5, 5, 4) for 108 and a TD. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -85,11 +92,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-12: Troy Fautanu and Mason McCormick were flipped from the right side to the left this offseason; with Zach Frazier they form a strong young core, and Max Iheanachor is competing at right tackle. [8-12 Camp Updates Article]
 - 2026-08-20: Pittsburgh is moving its right guard and right tackle to the left side, may start a rookie RT, and has a new OL coach; C Zach Frazier is a strength. [8-20 Offensive Line Rankings]
+- 2026-09-27: Max Iheanachor: rookie made his first career start at right tackle in Week 3 vs CIN, with Brock Hoffman at right guard. [pod 9-30, official]
 
 ## Depth chart
 
 - 2026-08-04: Kenneth Gainwell's 73 receptions from 2025 left with him, and Jonnu Smith is also gone, freeing receiving work for Jaylen Warren behind DK Metcalf and new addition Michael Pittman. [8-4 important training camp battles]
 - 2026-08-05: Roman Wilson: Roman Wilson has reportedly been running ahead of rookie Jeremy Bernard as the third receiver behind Michael Pittman and DK Metcalf on the outside. [8-5 32 team update and breakdown]
+- 2026-09-29: Travis Homer: Signed from the practice squad before Week 3 and is the change-of-pace back behind Warren while Dowdle is out. [pod 9-29, beat]
 
 ## Transactions and contracts
 
@@ -101,3 +110,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-07: Pittsburgh's 2026 first-place schedule includes games at New England and at Philadelphia plus Denver. [7-7 afc north breakdown]
 - 2026-08-12: Riley Nowakowski: Fifth-round rookie Riley Nowakowski is getting significant fullback reps and the staff keeps expanding his role. [8-12 Camp Updates Article]
+- 2026-09-30: Defense has allowed the second-fewest fantasy points to wide receivers through Week 3 (reports).
+- 2026-10-01: Steelers: Week 4 is at CLE, Thursday Oct 1, 8:15 PM ET. [pod 9-29, official]
+- 2026-10-01: Steelers at Browns: PIT favored by 2.5 with a 38.5 total, the lowest of Week 4; Jalen Ramsey (wrist) and Brandin Echols (concussion) questionable on the final report (odds pages, final injury report).
+
+## Injuries and status
+
+- 2026-09-29: Rico Dowdle: Toe: DNP on Monday's walkthrough estimate and DNP Tuesday on the Week 4 report. No Wednesday line or game status had posted on the report page checked Wednesday afternoon. [pod 9-29, official]
+- 2026-09-30: Rico Dowdle: Ruled out Wednesday for Thursday night at CLE (toe); no practice all week, right foot in a walking boot. Warren is the lead back (NBC Sports, team report).
+- 2026-10-01: Steelers traded CB Joey Porter Jr. to DAL on Wednesday Sep 30 for a 2027 sixth and a 2028 second; he had not played a snap in 2026 after the PUP stint and a stalled extension (team announcement, reports).
+- 2026-10-01: PIT at CLE Thursday night forecast: dry during the game, mid to upper 70s, southwest wind 8 to 13 mph, rain arriving after midnight (weather pages via search results).

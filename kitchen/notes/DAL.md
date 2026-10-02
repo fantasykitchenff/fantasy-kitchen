@@ -12,6 +12,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Cowboys games averaged 59 combined points in 2025, sixth highest of any team in 25 years; Dallas ran a league-leading 744 plays from 11 personnel and the three-receiver structure remains. [8-5 fantasy takeaways from all 32 teams]
 - 2026-08-14: The Cowboys have finished top four in plays in each of the last three seasons under Brian Schottenheimer. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-20: Klayton Adams' run scheme, Dak Prescott's pressure handling and the Tyler Smith/Tyler Booker interior are Dallas' strengths; edge pass protection is a real weak spot and Dak's pressure count is high. [8-20 Offensive Line Rankings]
+- 2026-09-27: Dallas ran 71 plays for 415 yards in the 34-31 loss to BAL in Rio; Baltimore ran 58 for 378. [pod 9-29, deployment]
 
 ## Quarterback
 
@@ -52,6 +53,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Jaydon Blue: After heavy offseason hype from the Cowboys, Blue was reportedly falling behind in the backfield competition by late August. [8-23 highstakes draft]
 - 2026-08-26: Javonte Williams: The Cowboys have not settled on a No. 2 back; if Williams went down the expectation is a lot of Malik Davis with some Blue and Mafah mixed in. [8-26 rankings and news updates]
 - 2026-08-26: Jaydon Blue: Reports say he is losing momentum in the RB2 battle with Malik Davis and Phil Mafah; coaches have called him out and talked up Davis, and Blue could be inactive in Week 1. [8-26 rankings and news updates]
+- 2026-09-15: Tyler Goodson signed off the ATL practice squad (Israel Abanikanda waived); in Week 3 he was the No. 2 behind Javonte Williams (75% snaps on the season) ahead of Emari Demercado. The injured back was Malik Davis (season-ending hip surgery); Blue and Mafah were cut in camp. [pod 9-28, official]
+- 2026-09-30: Malik Davis: hip injury in Week 3; Emari Demercado is the only back behind Javonte Williams on the active roster (reports).
+- 2026-09-27: Javonte Williams: 19 carries for 98 and a TD, 2 catches for 5 on 3 targets, 56 snaps (76%) vs BAL; 12 targets in three games (5, 4, 3), 10 for 56 and a TD; 43 carries for 169 and 2 TDs. Tyler Goodson made his Dallas debut as the No. 2 with 11 snaps (15%), 6 carries for 22; Emari Demercado did not play a snap. [pod 9-30, deployment]
 
 ## Receivers
 
@@ -70,6 +74,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Ryan Flournoy: Ryan Flournoy is the trusted WR3 and would be a factor if Lamb or Pickens were injured. [8-12 Camp Updates Article]
 - 2026-08-14: CeeDee Lamb: Scored on a career-low 4.0% of his receptions in 2025 after a 7.7% TD rate over his first five seasons. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-23: Ryan Flournoy: Flournoy has a path to be third on the Cowboys in targets ahead of Jake Ferguson, with large contingent upside if George Pickens or CeeDee Lamb is hurt. [8-23 highstakes draft]
+- 2026-09-27: Ryan Flournoy: Third on the team with 18 targets through three games (9 catches for 67), ahead of Javonte Williams 12 and Jake Ferguson 11; 8 targets (20%) and 2 for 22 vs BAL on 49 of 74 snaps (66%); snap share 71%, 76%, 66% by week. [pod 9-29, deployment]
+- 2026-09-27: George Pickens: 11 targets, 7 for 82 vs BAL on 85% of the snaps; CeeDee Lamb 8 targets, 7 for 112 on 82%. Through three games each has 25 targets: Lamb 20-309-3, Pickens 16-150-0. Prescott 25 of 40 for 276 and a TD; 105 attempts in three games. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -82,6 +88,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Jake Ferguson: Led all tight ends in PPR points per game in four 2025 games without CeeDee Lamb but ranked 14th in points per game and 11th in expected points with Lamb. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-15: Jake Ferguson: Ferguson had 8 TDs and 100+ targets in 2025 but did not reach double-digit fantasy points from Week 8 on once CeeDee Lamb returned, drawing a 13% target share in that span behind Lamb and George Pickens. [8-15 Tips]
 - 2026-08-17: Jake Ferguson: There has been no positive camp buzz on Jake Ferguson, who was among the least efficient TEs last year; Ryan Flournoy has drawn buzz for the third receiving role and Brevyn Spann-Ford has camp hype. [8-17 updates and camp news]
+- 2026-09-29: Jake Ferguson: 9 catches for 72 yards and 3 TDs on 11 targets through Week 3 (2, 4, 5 targets); 3 of 5 for 23 and a TD vs BAL in Week 3 (reports).
+- 2026-09-27: Jake Ferguson: Snap share 76%, 60%, 69% in Weeks 1 to 3 (44, 33, 51 snaps); Brevyn Spann-Ford 22%, 38%, 38% (13, 21, 28) and Luke Schoonmaker 22%, 29%, 22% (13, 16, 16). Ferguson lost a fumble on the opening drive in Rio and went 3 of 5 for 23 and a TD. [pod 9-29, deployment]
+- 2026-09-27: Jake Ferguson: His 3 touchdowns came 0, 2 and 1 by week (two vs WAS in Week 2, one vs BAL in Week 3), on 11 targets. [pod 10-1, deployment]
 
 ## Offensive line
 
@@ -96,6 +105,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-05: George Pickens: Pickens is practicing on his franchise tag and is not expected to hold out. [8-5 32 team update and breakdown]
 - 2026-08-11: Javonte Williams: Dallas re-signed Williams to a three-year, $24 million deal with $16 million guaranteed as its second transaction of the offseason and added no running back in the draft or free agency. He turned 26 in April. [8-11 Fantasy Target Debate]
+- 2026-10-01: Dallas acquired CB Joey Porter Jr. from PIT for a 2027 sixth-round pick and a 2028 second-round pick, announced Thursday Oct 1; he had not played a snap in 2026 (back, PUP, a stalled extension in Pittsburgh) and a league source said there is a chance he debuts Sunday vs HOU (team announcement, reports).
 
 ## Other
 
@@ -105,3 +115,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-10: Dallas added Caleb Downs and Dexter Lawrence to its defense this offseason. [8-10 top 10 WR rankings]
 - 2026-08-12: Drew Shelton: Rookie tackle Drew Shelton may get a role as a jumbo tight end in certain packages. [8-12 Camp Updates Article]
 - 2026-08-23: Brandon Aubrey: Aubrey is trusted to attempt 60-plus-yard field goals consistently, and with the new kickoff rules he gets far more chances from within 65 yards; he has outscored other top kickers by roughly 1.5-2 points a game. [8-23 highstakes draft]
+- 2026-09-27: Defense: 28, 20 and 34 points allowed in Weeks 1 to 3 and 7 passing TDs (Dart 3, Mariota 2, Jackson 2). In Rio S Jalen Thompson (hamstring) and CB Shavon Revel (knee) left the game and DBs P.J. Locke, Malik Hooker and Cobie Durant did not travel. [pod 9-29, deployment]

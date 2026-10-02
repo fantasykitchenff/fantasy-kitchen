@@ -17,6 +17,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Cardinals coaches reportedly believe rookie RBs need preseason snaps to adjust to game speed, which is why first-year coach Mike LaFleur played Love deep into the first half. [8-16 preseason week 1 recap]
 - 2026-08-19: Mike LaFleur's Jets offenses used heavy pony personnel with Breece Hall and Michael Carter and moved Garrett Wilson across the formation as a slot/Z weapon; similar creativity is expected in Arizona. [8-19 Offenses to look out for]
 - 2026-08-22: Marvin Harrison Jr.: New head coach Mike LaFleur has reportedly worked one-on-one with Harrison on run blocking and release packages this offseason. [8-22 10 players we cant stop drafting]
+- 2026-09-18: Jeremiyah Love: Mike LaFleur's "You're not going to take the hot hand out" line was said before Week 2 about the two-back rotation in general, not as a description of Week 3. [pod 10-1, coach]
 
 ## Scheme and tendencies
 
@@ -47,6 +48,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-15: Carson Beck: Rookie Carson Beck could take over at QB late in the season, a risk for Arizona pass-catchers in the fantasy playoffs. [8-15 Tips]
 - 2026-08-18: Jacoby Brissett: Brissett was named the Cardinals' starting quarterback after Kyler Murray's departure to Minnesota. [8-18 WR rankings]
 - 2026-08-20: Carson Beck: Third-round rookie could get starts; he profiles as a low-upside game manager who would lean on Trey McBride and swing passes to Love, hurting Harrison and Wilson. Cardinals expected to draft a QB in 2027. [8-20 buying or selling rookie hype]
+- 2026-09-27: Jacoby Brissett started (38 of 52, 280, 2 TD); Kyler Murray plays for Minnesota in 2026. [pod 9-28, deployment]
+- 2026-09-27: Jacoby Brissett: 54 dropbacks @SF (52 attempts, 2 sacks) on 87 offensive snaps, the team's most since 2022; 38 of 52 for 280 and 2 TD. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -81,6 +84,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Jeremiyah Love: Love was treated as a bell-cow in his preseason debut and was left in for many touches, which contributed to his ankle injury. [8-19 Offenses to look out for]
 - 2026-08-19: Tyler Allgeier: Tyler Allgeier had productive touches in the preseason game vs the Raiders and is viewed as one of the best handcuffs in the league behind Love. [8-19 Offenses to look out for]
 - 2026-08-19: Tyler Allgeier: Coaches are comfortable giving Allgeier the ball at the goal line; he is the direct backup to Jeremiyah Love. [8-19 RBs drafting and fading]
+- 2026-09-27: Jeremiyah Love: 21 carries for 90 yards, a career high; the team recap does not credit him a receiving touchdown. [pod 9-28, deployment]
+- 2026-09-27: Jeremiyah Love: Out-snapped Tyler Allgeier for the first time, 56 (64%) to 31 (36%), after Allgeier led 60% to 43% in Weeks 1-2; 21 carries for 90, 5 of 5 targets for 19 and a 1-yard receiving touchdown in the fourth quarter (78% of the rushes, 22 routes); Allgeier 2 carries for -1 and 4 catches for 10, with 3 of the 5 goal-line snaps. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -109,6 +114,10 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Michael Wilson: Wilson finished WR12 in 2025 largely while Marvin Harrison Jr. was out. Camp buzz has him in the 'Puka Nacua role' of the new offense, besting Harrison in practice, and he has rapport with Jacoby Brissett. [8-18 WR rankings]
 - 2026-08-22: Marvin Harrison Jr.: When Harrison, Michael Wilson and Trey McBride were all on the field last year, Harrison led with a 26% target share versus 25% for McBride and 16% for Wilson. [8-22 10 players we cant stop drafting]
 - 2026-08-24: Michael Wilson: Was very productive with Jacoby Brissett running the offense in 2025, while Marvin Harrison Jr. did not develop into the alpha that would fix the offense. [8-24 QB Rankings]
+- 2026-09-29: Marvin Harrison Jr.: 4 targets on 62 routes in Weeks 1 and 2, then 3 of 5 for 40 in the Week 3 loss to SF (under 10 percent of targets); Michael Wilson drew 14 targets on 67 routes in Weeks 1 and 2 (reports).
+- 2026-09-27: Michael Wilson: 17 targets, 11 catches, 89 yards and a touchdown in the 36-30 loss to SF; Marvin Harrison Jr. 3 of 5 for 40, 9 targets in three games. [pod 9-28, deployment]
+- 2026-09-27: Michael Wilson: 31 targets, 18 catches, 163 yards and a touchdown through three games (7, 7 and 17 targets), a 58% catch rate; 81 of 87 snaps (93%) in Week 3. [pod 9-29, deployment]
+- 2026-09-27: Marvin Harrison Jr.: 67 of 87 snaps (77%) in Week 3, under 80% in all three games; 9 targets through three games. Kendrick Bourne played 48 snaps (55%). [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -127,6 +136,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Trey McBride: McBride played only one snap in the preseason opener. [8-14 things we learned from pre season games]
 - 2026-08-15: Trey McBride: All 11 of McBride's 2025 TDs came in the red zone, seven from between the 11 and 20, tying 2018 Eric Ebron for the most since 2012; Arizona tied the Rams for the most red-zone dropbacks per game. [8-15 Tips]
 - 2026-08-21: Trey McBride: Broke the tight end receptions record in 2025, aided by several games of extra routes; he was also very good in 2024. [8-21 mayhem mock draft]
+- 2026-09-27: Trey McBride: 9 of 11 for 75 @SF on 79 snaps (91%); 34 targets, 26 catches, 211 yards and 2 TD through three games, the team lead in targets, with at least 8 catches and 10 targets in every game. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -152,6 +162,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-28: Jacoby Brissett: Brissett signed a 1-year, $15.5M deal after the Cardinals moved on from Kyler Murray; he gets a full camp as the starter with Carson Beck and Gardner Minshew behind him. [7-28 Training Camp Rankings Update]
 - 2026-08-05: Jacoby Brissett: Brissett received a new contract and will remain the Cardinals' starting quarterback. [8-5 32 team update and breakdown]
+- 2026-09-30: Marvin Harrison Jr.: ESPN's Jeremy Fowler reported that teams watching Harrison's situation put his trade value at possibly a quality Day 3 pick. [pod 9-30, beat]
 
 ## Injuries and status
 
@@ -163,6 +174,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Jeremiyah Love: Love got 14 carries in the preseason game vs. the Raiders and suffered an ankle sprain on a hip-drop tackle on the last one; it looks like a high ankle sprain and the team is hopeful for Week 1 vs. the Chargers. [8-17 Breakouts and Injury stuff]
 - 2026-08-19: Jeremiyah Love: Love has a high ankle sprain from the preseason and the team has made no commitment that he will be ready for Week 1; the injury is prone to aggravation and sapped effectiveness. [8-19 RBs drafting and fading]
 - 2026-08-20: Jeremiyah Love: Injured in preseason and not expected to play again before the season; his Week 1 availability is in question, with Tyler Allgeier the fill-in if he misses time. [8-20 buying or selling rookie hype]
+- 2026-08-30: James Conner: opened the season on injured reserve (ankle), out at least the first four games, eligible to return in Week 5 (NBC Sports). [pod 9-29, official]
+- 2026-09-23: Will Johnson (CB): Neck injury in the fourth quarter vs SEA on Sep 20, placed on IR Sep 23; Mike LaFleur said he could miss the whole season. Denzel Burke starts in his place. [pod 10-1, official]
 
 ## Other
 
@@ -172,3 +185,6 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-10: The Cardinals' bye week is Week 14, inside the fantasy playoffs for many leagues. [8-10 mock draft]
 - 2026-08-14: Arizona's win total dropped from 4.5 to 3.5, the lowest for a 17-game season. [8-14 preseaon hype and fantasy curses]
 - 2026-08-17: Arizona faces one of the hardest schedules ever seen; the organization's decisions, including playing Love heavily in preseason, are viewed as poorly run. [8-17 updates and camp news]
+- 2026-09-27: The defense had zero sacks and zero interceptions of Purdy. [pod 9-29, deployment]
+- 2026-09-30: Defense has allowed the sixth-most fantasy points to wide receivers through Week 3 (reports).
+- 2026-10-01: Week 4 at NYG: a 28 percent chance of rain in the Thursday forecasts (weather pages).

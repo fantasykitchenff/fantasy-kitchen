@@ -40,6 +40,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Dillon Gabriel: Dillon Gabriel, a 2025 third-round pick (94th overall), generated no reported buzz in the Browns' quarterback competition. [8-24 adp adjustments]
 - 2026-08-24: Shedeur Sanders: Sanders was named the Week 1 backup despite reportedly outplaying Watson in the preseason; Cleveland opens at JAX and at TB before hosting CAR in Week 3. [8-24 adp adjustments]
 - 2026-08-26: Deshaun Watson: Named the Week 1 starter over Shedeur Sanders days after calling out fans who booed him in the preseason; cutting him now would hurt the 2027 cap. Cleveland opens with two road games before a Week 3 home game. [8-26 rankings and news updates]
+- 2026-09-27: Deshaun Watson: 11 carries for 45. [pod 9-29, deployment]
+- 2026-09-27: Deshaun Watson: 16 of 30 for 144 yards, 2 TD, 0 INT and 11 rushes for 45 (6 of them scrambles) in the 21-18 win over CAR. Through three starts: 205, 238 and 144 passing yards; 38, 22 and 45 rushing yards (105); about 15, 20 and 20 fantasy points. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -65,6 +67,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Dylan Sampson: Sampson was one of only three RBs to average 2.0 yards per route run in 2025 (with Bijan Robinson and Jaylen Warren); receiving was his calling card coming out of college. [8-19 RBs drafting and fading]
 - 2026-08-19: Quinshon Judkins: Judkins was targeted on 23% of his routes after being activated in Week 2 of 2025; he is returning from a fibula fracture that some consider worse than Cam Skattebo's. [8-19 RBs drafting and fading]
 - 2026-08-19: Quinshon Judkins: The last four backs to return from a similar fibula fracture averaged 6.5 fewer fantasy points per game the next year as less explosive players; nothing negative on his health has come out of camp. [8-19 RBs drafting and fading]
+- 2026-09-27: Rocket Sanders: 4 of 5 as the No. 2 behind Quinshon Judkins (18 carries, recently back from injury). [pod 9-29, deployment]
+- 2026-09-27: Quinshon Judkins, Raheim Sanders: Judkins: 42 carries for 124 yards (3.0) and no touchdowns through three games (12-33, 12-21, 18-70). Week 3 he played 54% of the snaps and ran 11 routes; Sanders played 41%, ran 16 routes and had 5 targets (4 for 34) plus one carry for 17. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -94,6 +98,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: KC Concepcion: First-round rookie KC Concepcion reportedly looks excellent in camp, but he is tied to a poor quarterback situation in Cleveland. [8-24 adp adjustments]
 - 2026-08-26: Denzel Boston: Expected to run lower-percentage routes as the X receiver behind a poor offensive line with shaky quarterback play; his camp buzz has faded relative to Concepcion. [8-26 rankings and news updates]
 - 2026-08-26: KC Concepcion: Camp buzz has shifted from Denzel Boston to Concepcion; he is expected to run a lot of high-percentage routes under Todd Monken, making him somewhat quarterback-proof. [8-26 rankings and news updates]
+- 2026-09-27: KC Concepcion: 20 targets, 12 catches, 80 yards, no touchdown through three games (5 targets for 43, 6 for 28, 9 for 9); Week 3 87% snaps and a 30% target share. [pod 9-29, deployment]
+- 2026-09-27: Denzel Boston, Jerry Jeudy: Boston: 87% snaps, 32 routes, 4 targets, 2 for 41 (28 and 13 yards, both in the fourth quarter) plus a two-point catch; season 9-195-2 on 15 targets. Jeudy: 32 snaps, 23 routes, no targets; 5 targets in three games. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -113,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Harold Fannin: Led all tight ends in targets per route run in 2025. Cleveland's WR unit was dead last in 2025 fantasy production and among the worst of the decade, leaving little room for his share to rise. [8-14 changed minds about players]
 - 2026-08-16: Harold Fannin Jr.: Concepcion's easy-button touches look like the role Fannin filled for Kevin Stefanski in 2025, a threat to Fannin's target volume under Monken. [8-16 preseason week 1 recap]
 - 2026-08-24: Harold Fannin: Fannin is expected to hold steady target volume in the Browns offense even with Deshaun Watson starting. [8-24 embarrased to love players]
+- 2026-09-27: Harold Fannin Jr.: 9 targets (30% share), 7 catches, 51 yards and 2 TD vs CAR on 87% of the snaps and 77% of the routes, with 45% of the air yards; the second score won the game with 1:48 left. Targets by week: 3, 6, 9; season 14-126-2. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -152,6 +159,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: KC Concepcion: Concepcion injured his shoulder but is expected to be fine. [8-5 top 10 QB rankings]
 - 2026-08-20: Quinshon Judkins: Judkins enters the season not fully healthy after a broken leg/ankle. [8-20 WRs talk]
 - 2026-08-21: Quinshon Judkins: Did not practice Wednesday or Thursday with an undisclosed injury; Todd Monken said he was not worried, calling it nagging. [8-21 mayhem mock draft]
+- 2026-09-29: Elgton Jenkins, Tylan Wallace: Center Elgton Jenkins (concussion) did not practice Monday or Tuesday and is expected to miss Thursday, with Luke Wypler starting; Tylan Wallace (knee) DNP both days; Teven Jenkins (back) and Tytus Howard (knee) limited Tuesday. [pod 9-30, official]
+- 2026-09-30: Elgton Jenkins: Ruled out Wednesday for Thursday vs PIT (concussion), Luke Wypler starts at center; Tylan Wallace (knee) and Teven Jenkins (back) out; Tyson Campbell back from the ankle (team, final report).
+- 2026-10-01: Final Thursday report: Elgton Jenkins (concussion), Teven Jenkins (back) and Tylan Wallace (knee) out; Tyson Campbell, Grant Delpit and Tytus Howard full; Luke Wypler starts at center (final injury report).
 
 ## Other
 
@@ -162,3 +172,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Cleveland lost Myles Garrett this offseason, and observers expect the Browns to trail more often and throw more behind a shaky offensive line. [8-13 TEs]
 - 2026-08-13: The Browns' defense lost Myles Garrett; their 2025 games were mostly one-score affairs, and Todd Monken is expected to raise the passing game's ceiling. [8-13 h2h mock draft]
 - 2026-08-19: The Browns have a revolving door at quarterback, a questionable offensive line and a roster not built to score much; new play caller Todd Monken is reportedly excited about Quinshon Judkins. [8-19 RBs drafting and fading]
+- 2026-10-01: Browns: Week 4 is PIT at CLE, Thursday Oct 1, 8:15 PM ET at Huntington Bank Field. Week 3 was the home opener vs CAR. [pod 9-29, official]

@@ -14,6 +14,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: The Packers played more up-tempo in the preseason and are expected to use more 11 personnel in 2026, which would add snaps for Jayden Reed, Christian Watson and Matthew Golden. [8-18 WR targets and avoids]
 - 2026-08-26: With a thin tight end room and Dontayvion Wicks and Romeo Doubs gone, the Packers are expected to run a very high rate of three-receiver sets with little rotation among Reed, Watson and Golden. [8-26 rankings and news updates]
 - 2026-08-26: Camp talk has the Packers more balanced, playing more under center with more play action than in recent seasons; they ranked 28th in pass rate in 2025. [8-26 myguys episode]
+- 2026-09-24: Green Bay Packers: 55 dropbacks on 63 plays vs ATL, 10.8% over the expected pass rate; Love 28 of 53 for 312, 2 TD, 1 INT; 124 attempts through three games. [pod 9-29, deployment]
+- 2026-09-24: Packers offense: 10 of 36 on third down (27.8%) through three games; 11 dropped passes, most in the league. [pod 9-30, deployment]
 
 ## Quarterback
 
@@ -25,6 +27,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Jordan Love: Jordan Love is focused on trimming mistakes; the Packers have been clear they do not need a true No. 1 receiver and manage his volume. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Jordan Love: Completed 70.9% at 8.4 yards per attempt with Tucker Kraft through Week 8 of 2025, then 61.9% at 7.0 yards per attempt without Kraft from Week 9 on. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-26: Jordan Love: Among 38 QBs with 200+ dropbacks in 2025 Love was 1st in EPA from a clean pocket, 6th in passer rating, 7th in completion percentage over expectation and 4th in pressure-to-sack ratio. [8-26 myguys episode]
+- 2026-09-29: Jordan Love: 124 attempts in three games, 844 yards, 6 TD, 2 INT, 52.4 percent completions; 28 of 53 for 312, 2 TD, 1 INT in the 35-14 Week 3 loss to ATL (reports).
+- 2026-09-24: Jordan Love: hit 20 times in three games (his most in a full season is 49); league-low 2.4 seconds average time to throw through Week 3. [pod 9-30, deployment]
 
 ## Backfield
 
@@ -59,6 +63,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: MarShawn Lloyd: Lloyd, after being injured for most of his first two seasons, started and played in the preseason. The Packers have shown more wide-zone runs this preseason, which fit Lloyd better than Josh Jacobs. [8-24 embarrased to love players]
 - 2026-08-26: MarShawn Lloyd: Looked good in the preseason, scoring a touchdown on an arrow route out of the backfield, and has stayed healthy through camp. [8-26 rankings and news updates]
 - 2026-08-26: MarShawn Lloyd: Lloyd is the backup positioned to benefit if Jacobs is suspended; he has been healthy in camp after an injury-ruined start to his career. [8-26 myguys episode]
+- 2026-09-24: Snaps vs ATL: Chris Brooks 26, Kaleb Johnson 22, MarShawn Lloyd 15; Johnson and Lloyd 4 carries each (Johnson 4 for 6 and 1 catch for 10). [pod 9-29, deployment]
+- 2026-09-25: Packers run game: 146 rushing yards in three games (48.7 a game, last in the league), 3.0 a carry, no rushing TD, 17 yards in Week 3; last in rush EPA. [pod 9-30, deployment]
 
 ## Receivers
 
@@ -98,6 +104,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Christian Watson: Watson will play the Z role and be used in motion; the room is consolidated with Watson and Matthew Golden starting and Jayden Reed in the slot after Romeo Doubs and Dontayvion Wicks departed. [8-26 myguys episode]
 - 2026-08-26: Christian Watson: From Week 11 on in 2025 Watson was the WR11, 2nd in yards per route run (behind Luther Burden), tied for 3rd in targets per route run and 1st in first downs per route run. [8-26 myguys episode]
 - 2026-08-26: Christian Watson: Watson's horizontal-breaking out routes rose from 7.7% of routes in 2022-24 to 35% in 2025, a real change in how the Packers used him. [8-26 myguys episode]
+- 2026-09-24: Matthew Golden / Christian Watson: Through three games Golden has an 83% route share, 25% of the targets and 40% of the air yards (15 catches, 253 yards, 1 TD); Watson 80%, 24% and 29% (17 catches, 284 yards, 4 TD, a score in every game). Vs ATL each ran 44 routes on 55 dropbacks; Golden 5-100-1 on 12 targets, Watson 7-96-1 on 10. [pod 9-29, deployment]
+- 2026-09-24: Skyy Moore: Third-receiver routes vs ATL: Skyy Moore 27 (32 snaps, 7 targets, 3-31), J. Michael Sturdivant 19 (3-22 on 3 targets), Bo Melton 19 (1 target, no catch); Jonnu Smith 15 routes, 2-16. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -118,6 +126,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Tucker Kraft: Kraft has a chance to lead the Packers in targets if his injury is fully behind him. [8-18 WR rankings]
 - 2026-08-26: Luke Musgrave: Beat writers expect him to start the year on PUP; roster projections have the Packers keeping only three tight ends: Tucker Kraft (off an ACL), Josh Whyle and Drake Dabney. [8-26 rankings and news updates]
 - 2026-08-26: Tucker Kraft: Said the team planned to ease him in for the first half of the season, but the thin tight end room and offensive line issues may force him into a full blocking and receiving role immediately. [8-26 rankings and news updates]
+- 2026-09-24: Tucker Kraft: 8 targets on 39 routes (71%), 49 snaps. [pod 9-28, deployment]
+- 2026-09-24: Tucker Kraft: 4 of 8 for 26 with two drops vs ATL (8 of 53 attempts, 15.1%); 9 catches on 17 targets for 106 and no TD through three games; 45 of 68 snaps (66%) in Week 1 at MIN; not on the Week 4 injury report Wednesday or Thursday. [pod 9-30, deployment]
 
 ## Offensive line
 
@@ -126,6 +136,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-07: Both projected Packers guards graded poorly as run blockers in 2025: converted tackle Anthony Belton (backed up by rookie Jager Burton) and Aaron Banks (56.3 run-block grade). [8-7 RB to possibly fade]
 - 2026-08-07: Center Sean Rhyan ranked 19th among centers as a run blocker in 2025, and the right tackle was Green Bay's only above-average run blocker. [8-7 RB to possibly fade]
 - 2026-08-20: Green Bay's line is viewed as bottom-five: Zach Tom is the only good lineman and is coming off a patella tear; the disappointing Jordan Morgan is moving to LT. [8-20 Offensive Line Rankings]
+- 2026-09-21: The right tackle carted off in Week 2 is out long-term per LaFleur, with Anthony Belton starting; Zach Tom is not on the injury report (his 2025 patellar injury was Week 15). [pod 9-28, official]
+- 2026-09-24: Packers offensive line: Allowed 28 pressures vs ATL with Morgan, Burton, Rhyan, Monk and Belton; RG Jacob Monk left hurt after 59 of 66 snaps. Kevin Zeitler signed a one-year deal on 9/30. [pod 9-29, deployment]
+- 2026-09-28: Packers offensive line: signed G Laken Tomlinson and OL Mekhi Becton (Becton to the practice squad); in Thursday's 10/1 practice Tomlinson worked at left guard, Kevin Zeitler (signed 9/30) at right guard, and Becton at right guard and right tackle. [pod 9-30, official]
 
 ## Depth chart
 
@@ -141,6 +154,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Josh Jacobs: Jacobs is still being investigated by the league with a suspension unresolved, and he also has a groin injury. [8-13 h2h mock draft]
 - 2026-08-26: Christian Watson: Watson signed a four-year extension entering his fifth season. [8-26 myguys episode]
 - 2026-08-26: Josh Jacobs: The Packers GM said the team is preparing for a possible Jacobs suspension while the NFL investigation continues, saying they could sustain it and might claim a running back if it happens, possibly midseason. [8-26 myguys episode]
+- 2026-09-30: Kevin Zeitler signed a one-year deal; he started 16 games at guard for TEN in 2025 (team move).
 
 ## Injuries and status
 
@@ -160,9 +174,20 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Tucker Kraft: Kraft practiced for the first time since his ACL tear and said the team will probably keep him on a snap count until about halfway through the season. [8-17 Breakouts and Injury stuff]
 - 2026-08-18: Josh Jacobs: Dealing with a groin injury; Matt LaFleur said he returns to practice today. A possible suspension is still unresolved. [8-18 sleeper picks]
 - 2026-08-20: Micah Parsons: Micah Parsons is not expected to play for a while, weakening the defense and likely game scripts. [8-20 Offensive Line Rankings]
+- 2026-09-28: Josh Jacobs: on the Commissioner's Exempt List; the NFL filed a records request for video after a judge denied motions to seal it; games on the list count toward any suspension; no return imminent per Rapoport. [pod 9-28, official]
+- 2026-09-24: Christian Watson: hamstring listed after the Thursday game, 51 snaps; no follow-up report as of 9/29. [pod 9-28, beat]
+- 2026-09-21: Jayden Reed: neck (helmet-to-helmet hit in Week 2), kept overnight, missed Week 3, expected to go to IR. [pod 9-28, beat]
+- 2026-09-29: Jayden Reed: Matt LaFleur confirmed a neck injury (not back), said Reed is 'doing OK' and that it is too early to tell whether he plays again this season; not on IR yet, no timeline. RT Zach Bako-Bewele out for the season (knee) (reports).
+- 2026-09-30: Jayden Reed: the Packers are placing him on IR Wednesday with the neck injury, out indefinitely, no return date (Schefter, reports).
+- 2026-09-30: Jayden Reed: placed on injured reserve Wednesday (neck); out at least four games, no word on a return this season. G Kevin Zeitler signed the same day (reports).
+- 2026-09-30: Jayden Reed: Matt LaFleur said Reed will have neck surgery and miss the rest of the 2026 season; he went on injured reserve the same day. [pod 9-29, coach]
+- 2026-10-01: Aaron Banks (knee/toe) and Jacob Monk (quad): did not practice Wednesday 9/30 or Thursday 10/1. [pod 10-1, official]
+- 2026-09-30: Christian Watson: not on the Wednesday 9/30 injury report and not mentioned in Thursday's report; the hamstring listing after Week 3 did not carry into Week 4. [pod 10-1, official]
 
 ## Other
 
 - 2026-07-18: Green Bay was 9-4-1 before Jordan Love's Week 16 concussion and the Micah Parsons injury; Parsons is expected to start 2026 on PUP and take his time. Their schedule is rated 14th toughest. [7-18 nfc north breakdown]
 - 2026-07-18: Green Bay opens at Minnesota, at the Jets, then Atlanta, Tampa Bay, Chicago and Dallas. [7-18 nfc north breakdown]
 - 2026-08-11: Micah Parsons is expected to miss about the first month of the season, which could push the Packers toward more passing early. [8-11 Fav Pick in each round]
+- 2026-09-24: Packers defense: Atlanta's backs ran for 244 yards and 3 TD at Lambeau: Bijan Robinson 194 and 2 TD, Brian Robinson Jr. 10 for 50 and a TD. Micah Parsons is on PUP and first eligible in Week 5 vs CHI. [pod 9-29, deployment]
+- 2026-09-24: Packers defense: has allowed the most fantasy points to running backs through Week 3. [pod 10-1, aggregation]

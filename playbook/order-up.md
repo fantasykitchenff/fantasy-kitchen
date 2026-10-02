@@ -27,7 +27,7 @@ For each kickoff window: the official inactives that matter, the surprises, and 
 1. Window name and time: "Early window" (1:00 PM ET), "Late window" (4:05 and 4:25 PM ET), "Sunday night" (8:20 PM ET) or the international window. Include only games in that window.
 2. `inactives`: every inactive player who is in the Menu's rankable pool or is a starter, with a note for surprises.
 3. `pivots`: for each inactive starter, the replacement people should slot, with one sentence on why (route share, backup role, matchup). Prefer players people already roster; a waiver-wire pivot is still named.
-4. `updates`: time-stamped one-liners as they were confirmed, newest first. Each update that names a player ends in the action ("Pivot to Jalen McMillan.", "Active. Start him.").
+4. `updates`: time-stamped one-liners as they were confirmed, newest first. Each update that names a player ends in the action ("Pivot to Jalen McMillan.", "Active. RB14 for me, borderline RB1/RB2."). An active player who was in doubt gets his Menu rank and its tier (`_standards.md`, rank language), never "start him".
 5. Actions: every inactive row is PIVOT with `to` set to the replacement (or SIT with a note when there is no pivot worth naming).
 6. Append this window to the week's `orderup.json` (create it on the first run of the day). Keep earlier windows untouched.
 
@@ -44,9 +44,9 @@ Envelope: `title` "Order Up, Week N", `dek` the day's biggest surprise so far (u
 
 ## Posts (queued by FK Kitchen, posted by the FK Order Up task)
 
-One short thread per window (2 to 4 posts): post 1 is the hook (the window, the biggest surprise, the closer, the hashtags of the teams named), the middle posts carry the inactives and the pivot for each with the team hashtags, and the last post is the link to `orderup.html?week=N` (appended by the tool). If nothing surprising happened and every relevant Questionable player is active, the thread is two posts: the hook saying so ("Early window: everyone relevant is active. Start who you planned to start. Let's go.") and the link.
+One short thread per window (2 to 4 posts): post 1 is the hook (the window, the biggest surprise, the closer, the hashtags of the teams named), the middle posts carry the inactives, one player per line with his pivot on the same line and the team hashtags on their own last line, and the last post is the link to `orderup.html?week=N` (appended by the tool). If nothing surprising happened and every relevant Questionable player is active, the thread is two posts: the hook saying so ("Early window: everyone relevant is active. The lineup you set stands. Let's go.") and the link.
 
-Queue it with `--at now`, `--not-after` the window's kickoff time (ISO), and `--link "orderup.html?week=N"`. Do not post it; the FK Order Up task is waiting for it. Push as soon as the piece validates, because every minute counts before kickoff.
+One player per line in every post (`_standards.md`). Queue it with `--at now`, `--not-after` the window's kickoff time (ISO), and `--link "orderup.html?week=N"`. Do not post it; the FK Order Up task is waiting for it. Push as soon as the piece validates, because every minute counts before kickoff.
 
 ## The FK Order Up task (Cowork, the owner's computer)
 

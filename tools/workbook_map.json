@@ -1,0 +1,66 @@
+{
+  "_comment": "Pins tools/extract_projections.py to the owner's Hazelton_2026_Team_Projections.xlsx layout. Projections come from the four Rankings sheets (columns A-B: Player, Points, one row per player; column G: Position). Team comes from the 32 team sheets, whose tables carry Player and Positional Rank. The workbook has no games column, so ppg is season points divided by season_games.",
+  "sheets": [
+    "QB Rankings",
+    "RB Rankings",
+    "WR Rankings",
+    "TE Rankings"
+  ],
+  "columns": {
+    "player": "Player",
+    "points": "Points",
+    "pos": "Position"
+  },
+  "team_sheets": [
+    "ARI",
+    "ATL",
+    "BAL",
+    "BUF",
+    "CAR",
+    "CHI",
+    "CIN",
+    "CLE",
+    "DAL",
+    "DEN",
+    "DET",
+    "GB",
+    "HOU",
+    "IND",
+    "JAC",
+    "KC",
+    "LAC",
+    "LAR",
+    "LVR",
+    "MIA",
+    "MIN",
+    "NE",
+    "NO",
+    "NYG",
+    "NYJ",
+    "PHI",
+    "PIT",
+    "SF",
+    "SEA",
+    "TB",
+    "TEN",
+    "WAS"
+  ],
+  "team_aliases": {
+    "JAC": "JAX",
+    "LVR": "LV"
+  },
+  "season_games": 17,
+  "owner_rankings": {
+    "_comment": "The owner's own weekly rankings, one overall superflex PPR list with RK, PLAYER NAME, TEAM, POS (position plus rank within it) and OPP. Read with tools/owner_rankings.py extract, blended with the projections by tools/owner_rankings.py blend at this weight (owner share of the blended value). Series that load the model order by the blended value when a file for the week exists. The owner set 0.8 on 2026-09-30: the owner's list carries most of the order until the kitchen's notes cover essentially every player; lower it as the notes fill in, with the owner's say-so.",
+    "folder": "owner_rankings",
+    "file_pattern": "*_FK_Rankings.xlsx",
+    "weight": 0.8,
+    "columns": {
+      "rank": "RK",
+      "player": "PLAYER NAME",
+      "team": "TEAM",
+      "pos": "POS",
+      "opp": "OPP"
+    }
+  }
+}

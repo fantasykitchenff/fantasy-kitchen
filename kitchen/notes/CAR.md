@@ -16,6 +16,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Bryce Young: His 6.0 yards per attempt over the last three seasons ranks 36th of 37 QBs with 500+ attempts. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-18: Bryce Young: Young has averaged about 190 passing yards per game for his career and remains the starter; the Panthers are expected to be somewhat more pass-heavy and spread the field more in 2026. [8-18 WR targets and avoids]
 - 2026-08-20: Bryce Young: Carolina had the 4th-lowest pass rate over expected in 2025; Young's 6.3-yard aDOT was 4th-lowest among qualifiers and only 9% of his throws went 20+ yards downfield (4th-lowest). [8-20 WRs talk]
+- 2026-09-27: Bryce Young: 26 of 48 for 291 yards, 1 TD, 1 INT and 3 sacks at CLE with no rush attempts; 51 dropbacks on 74 plays (69%). Through three games: 939 passing yards (first in the NFL) on 121 attempts, the first Panther with 280 or more in each of the first three games. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -58,6 +59,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Chuba Hubbard: Hubbard had no runs of 15-plus yards in 2025 and just one carry inside the five as goal-line work went to Rico Dowdle. [8-20 bust and value picks for 2026]
 - 2026-08-24: Chuba Hubbard: Head coach Dave Canales said that if Hubbard is good to go for Week 1, the Panthers will use a running back committee. Hubbard's availability for Week 1 is still in question. [8-24 embarrased to love players]
 - 2026-08-24: Jonathan Brooks: Brooks, after a long injury layoff, started and played in the preseason for Carolina. [8-24 embarrased to love players]
+- 2026-09-27: Chuba Hubbard: 20 carries and every first-half snap; AJ Dillon 4 carries. (corrected 9/30: the box score has 19 carries for 82 on 65 of 77 snaps). [pod 9-28, deployment]
+- 2026-09-30: Chuba Hubbard is ninth among running backs in fantasy points after three weeks (reports).
+- 2026-09-27: Chuba Hubbard: 19 carries for 82 yards and 4 catches on 4 targets for 28 on 65 of 77 snaps (84%) with 31 routes; AJ Dillon had 4 carries and 12 snaps. Snap shares by week: 71%, 65%, 84%. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -87,12 +91,17 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Tetairoa McMillan: McMillan had about 1,000 yards, 70 catches and 7 TDs as a rookie and was a fringe WR2/3 in the second half once Jalen Coker returned from a quad injury that cost him the first half. [8-20 WRs talk]
 - 2026-08-20: Tetairoa McMillan: Rookie Chris Brazzell was supposed to be the sacrificial X that moved McMillan into the slot for easier targets; with Brazzell out for the year that plan is in doubt. [8-20 WRs talk]
 - 2026-08-26: Tetairoa McMillan: His slot rate was 15% as a 2025 rookie but 41% across two preseason games; with both starting tackles out, higher-percentage middle-of-field work is the plan. [8-26 rankings and news updates]
+- 2026-09-27: Tetairoa McMillan: 5 targets, 2 catches for 17; Dave Canales said the coaches have to put him in better positions after CLE played two-high zone to take him away. [pod 9-29, coach]
+- 2026-09-27: Brycen Tremayne: Took Coker's outside snaps: 62 snaps (81%), 39 routes, 6 targets, 4 catches for 83 (career highs). John Metchie III played 43 snaps (56%) with 5 targets and an 8-yard touchdown. Xavier Legette was inactive (knee, day to day). [pod 9-29, deployment]
+- 2026-09-27: Tetairoa McMillan: 47 routes (92%) and 73 snaps (95%) at CLE for 5 targets (12%) and 2 catches for 17. [pod 9-29, deployment]
 
 ## Tight ends
 
 - 2026-08-05: Mitchell Evans: Evans, dealing with an ankle injury, had been trending toward a large role as a tight end who blocks well and has soft hands. [8-5 32 team update and breakdown]
 - 2026-08-13: Mitchell Evans: Was already a plus blocker as a rookie on a run-centric team; he had an injury at the start of camp but is healthy, another Panthers tight end is out for the season, and Bryce Young is a checkdown-heavy passer. [8-13 TE talk]
 - 2026-08-20: Darren Waller: Carolina brought in Darren Waller; when healthy he is expected to be a downfield and red zone target rather than a blocker, adding TE targets the Panthers rarely used. [8-20 WRs talk]
+- 2026-09-27: Darren Waller: 5 catches for 51; his routes and targets per route have risen each week. [pod 9-29, deployment]
+- 2026-09-27: Darren Waller: Team-high 8 targets (19%) for 5 catches and 51 yards on 28 routes (55% of dropbacks) and 39 of 77 snaps (51%); snaps by week 24, 29, 39. [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -101,6 +110,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-09: The health of the Panthers' tackles is a question heading into the season. [8-9 QB preview]
 - 2026-08-20: Carolina may be missing both starting tackles indefinitely: Ikem Ekwonu (Achilles in playoffs) and Taylor Moton (blood clots in lungs); both guards are banged up. They drafted a first-round T and signed Rasheed Walker. [8-20 Offensive Line Rankings]
 - 2026-08-26: Both starting offensive tackles are out heading into the season. [8-26 rankings and news updates]
+- 2026-09-29: Bryce Young: Most-pressured quarterback in the NFL through three games at 47% of dropbacks; CLE pressured him on 51% in Week 3 (team count). [pod 9-29, deployment]
 
 ## Rookies
 
@@ -110,6 +120,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-02: Jalen Coker: Signed a large contract and remains a starter alongside McMillan; Xavier Legette is still on the roster. [8-2 players we need in every draft]
 - 2026-08-13: Darren Waller: The Panthers signed Darren Waller (33) to a one-year deal; he caught six TDs last year and is considered an upgrade over Ja'Tavion Sanders. [8-13 h2h mock draft]
+- 2026-09-28: Austin Ekeler was never on the 2026 roster (a reported workout only); he signed with Washington. [pod 9-28, official]
+- 2026-09-30: CB Jaycee Horn and CB Mike Jackson placed on injured reserve Wednesday; Will Lee III, Akayleb Evans and Chau Smith-Wade are the corners on the 53 for DET Sunday night (team, reports).
+- 2026-09-30: WR David Moore and RB Anthony Tyus III signed to the active roster from the practice squad; both were elevated for Week 3 at CLE, Tyus returned two kickoffs for 47 (team).
 
 ## Injuries and status
 
@@ -124,8 +137,20 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-16: Chuba Hubbard: Hubbard is week-to-week with a hamstring injury suffered the prior week. [8-16 preseason week 1 recap]
 - 2026-08-17: Carolina lost pass rusher Nick Scourton for the season, RT Taylor Moton is out indefinitely and Ikem Ekwonu is likely done as a Panther; poor game scripts are expected. [8-17 updates and camp news]
 - 2026-08-17: Chuba Hubbard: Chuba Hubbard pulled his hamstring and is week-to-week, opening reps for Jonathon Brooks. [8-17 updates and camp news]
+- 2026-09-27: Jalen Coker: quad, left early in the third quarter at CLE and did not return; he called it minor; no timeline; he had also carried an ankle issue that week. [pod 9-29, beat]
+- 2026-09-29: Jaycee Horn: quad, 6 to 12 weeks per ESPN's Jeremy Fowler; Mike Jackson: groin, left in the first half, tests Monday, Week 4 status not reported. [pod 9-28, beat]
+- 2026-09-23: Jonathon Brooks: core-muscle surgery, placed on IR, out at least six weeks. [pod 9-28, official]
+- 2026-09-28: Jalen Coker: Dave Canales called it a minor quad strain ('his quad lit up on him'); questionable for Week 4 vs DET (reports).
+- 2026-09-30: Jaycee Horn (quad) and Mike Jackson (groin) were both placed on injured reserve Wednesday; Horn could miss the rest of the season (reports).
+- 2026-09-29: Damien Lewis: Left guard Damien Lewis has a UCL tear in his elbow (Garafolo), is getting a second opinion and is out vs DET, with 'a few weeks' the reported range; Corey Bullock makes his first career start. Carolina is already on backups at both tackles (Rasheed Walker for Ekwonu, a rookie for Moton). [pod 9-29, beat]
+- 2026-09-28: Bryce Young: Had his foot stepped on by left tackle Rasheed Walker in the second quarter at CLE, was checked in the tent and did not miss a snap; imaging was ordered and Canales expects him to play vs DET. [pod 9-30, coach]
+- 2026-09-30: Jalen Coker, Xavier Legette: Both DNP Wednesday's walkthrough; Dave Canales called Coker day to day and questionable, Legette week to week. Damien Lewis (elbow) and RT Monroe Freeling (concussion) DNP; Chuba Hubbard and Darren Waller rest days (team site).
+- 2026-10-01: Jalen Coker: limited in Thursday practice (quad) after a Wednesday DNP; a game-time decision Sunday is possible. Xavier Legette (knee) and Damien Lewis (elbow) DNP Thursday, Monroe Freeling (concussion) limited, Bryce Young full. [pod 10-1, official]
 
 ## Other
 
 - 2026-07-21: Carolina went 8-9 and won the NFC South in 2025 going 7-3 in one-score games against a 6.5 preseason win total; it ranked 27th in PPG and has the 3rd-hardest 2026 schedule, opening at CHI, at ATL, vs CLE. [7-21 nfc south breakdown]
 - 2026-08-20: Carolina drew a first-place schedule rated the third hardest in the league for 2026. [8-20 bust and value picks for 2026]
+- 2026-09-30: Defense has allowed the most fantasy points to running backs through Week 3, 1.07 points per carry (next closest 0.85) and the most rushing yards per game (reports).
+- 2026-09-29: Carolina's bye is Week 5, directly after the DET game. [pod 9-30, official]
+- 2026-10-01: DET at CAR is Sunday Night Football on Oct 4; the local forecast has steady rain Saturday night into Sunday, tapering by Sunday evening. [pod 9-30, official]

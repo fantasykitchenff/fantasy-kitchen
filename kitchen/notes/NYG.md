@@ -38,6 +38,10 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Jaxson Dart: Camp reports say the Giants offense has struggled; Nagy said Dart is talented but really struggling in the new system. Dart was on a 17-game pace for about 700 rushing yards as a rookie. [8-20 bust and value picks for 2026]
 - 2026-08-20: Jaxson Dart: Dart is listed at 6-foot-2, 223 pounds, comparable in size to Jayden Daniels and Lamar Jackson. [8-20 bust and value picks for 2026]
 - 2026-08-26: Jaxson Dart: Had the highest passing aDOT in the nation in his final Ole Miss season; he does not have the strongest arm but throws deep and runs a lot. [8-26 rankings and news updates]
+- 2026-09-24: Jaxson Dart: knee on the opening drive of Week 2 at LAR, placed on IR 9/24, out for the season per John Harbaugh. [pod 9-28, official]
+- 2026-09-28: Jameis Winston relieved Dart in Week 2 and made his first start in Week 3 (12-7 over TEN); Harbaugh said he starts Week 4 vs ARI. J.J. McCarthy was acquired from MIN for a 2027 fifth-round pick; Jake Haener was signed from the practice squad 9/26. [pod 9-28, official]
+- 2026-09-29: Jameis Winston: John Harbaugh said Winston starts Week 4 vs ARI and 'for as long as I can see into the future'; J.J. McCarthy is the No. 2 or 3 while he learns the offense. Winston's first start: 12-7 over TEN, Nabers 5 of 6 for 26 on a 27% target share, aDOT 1.0 (reports).
+- 2026-09-27: Jameis Winston: First start: 14 of 22 for 118 yards, no interception, in a 12-7 win over TEN played in a nor'easter; 27 dropbacks on 58 plays (47%), three receivers on 40% of snaps, four field goals and no touchdown. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -73,6 +77,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Devin Singletary: Before the Najee Harris signing some beat writers expected Singletary to have a role as a back the coaches trust to pass protect. [8-26 rankings and news updates]
 - 2026-08-26: Najee Harris: His skill set overlaps heavily with Cam Skattebo (both 220-230 pound backs who pass protect and catch), so he could play a lot early at Skattebo's expense. [8-26 rankings and news updates]
 - 2026-08-26: Tyrone Tracy: Has had a very poor preseason and may have played himself off the Giants roster; if he stays he projects as no better than the third back. [8-26 rankings and news updates]
+- 2026-09-29: Cam Skattebo: snap share 60, 58 and 76 percent in Weeks 1 to 3; 20 carries for 60 and 3 catches for 40 vs TEN in Week 3, every first-quarter snap (reports).
+- 2026-09-27: Cam Skattebo 20 for 60 (74 after contact) and 3 catches for 40, 76% snaps (60, 58, 76 by week); Najee Harris 9 for 52 as the No. 2. [pod 9-28, deployment]
+- 2026-09-27: Najee Harris: No. 2 back in Week 3 with 9 carries for 52 on about 21% of the snaps (0, 8, 14 snaps by week); Devin Singletary (25 and 15 snaps in Weeks 1-2) was a healthy scratch. Skattebo ran 18 routes and drew 4 targets. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -97,6 +104,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Malik Nabers: Nabers led the entire NFL with a 35% target share as a 2024 rookie, finishing WR7 with just over 1,200 yards and 7 TDs, and was on a similar pace in 2025 before the injury. [8-18 WR rankings]
 - 2026-08-20: Darnell Mooney: Reportedly in trade rumors after rookie Malachi Fields moved ahead of him on the depth chart. [8-20 buying or selling rookie hype]
 - 2026-08-20: Malachi Fields: Rookie has emerged as the likely starting outside receiver next to Malik Nabers over Darius Slayton and Darnell Mooney; the Giants traded up for him and John Harbaugh called him after the pick. [8-20 buying or selling rookie hype]
+- 2026-09-27: Malik Nabers: shoulder in Week 2, limited then full, cleared for Week 3; Week 3 average depth of target 1.0 (20.5 the week before), 5 of 6 for 26. [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -114,6 +122,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Isaiah Likely: Likely's per-route production in Baltimore was mediocre and John Harbaugh never featured him heavily there, tempering expectations under Matt Nagy. [8-17 updates and camp news]
 - 2026-08-17: Isaiah Likely: Team reports say Likely has been the Giants' No. 1 target with Malik Nabers off the field; John Harbaugh said the numbers weren't there in Baltimore because of the supporting cast and it will be a big year. [8-17 Breakouts and Injury stuff]
 - 2026-08-17: Isaiah Likely: Jaxson Dart named Likely as the main target he looks to; in Baltimore, Likely came in on passing downs and never put his hand in the dirt while Theo Johnson blocked. [8-17 Breakouts and Injury stuff]
+- 2026-09-27: Isaiah Likely: 23 targets in three games (8, 10, 5) for 15 catches, 124 yards and 2 TDs; 8 of 8 for 78 and both TDs came in Week 1 with Dart, 7 of 15 for 46 since. Snap share 49%, 69%, 84%; in Week 3 he ran 22 routes on 27 dropbacks (81%) and drew 5 targets (24%). [pod 9-29, deployment]
 
 ## Offensive line
 
@@ -142,6 +151,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Najee Harris: Harris signed a veteran-minimum deal with no guarantees; his workout was arranged before Tyrone Tracy's badly missed preseason block, and he looked good in limited drill film. [8-20 bust and value picks for 2026]
 - 2026-08-26: Najee Harris: Signed a one-year, $1.2M deal with the Giants with zero guaranteed money; he is 28 and coming off an Achilles tear and an eye injury. [8-26 rankings and news updates]
 - 2026-09-28: J.J. McCarthy: Acquired from MIN for a 2027 fifth-round pick, pending a physical; opens as backup to Jameis Winston with Jaxson Dart out for the season (team site).
+- 2026-09-29: Odell Beckham Jr. released after 19 snaps, one target and no catches in three games; Braxton Berrios signed to the active roster off the practice squad (NFL Network, ESPN).
+- 2026-09-29: J.J. McCarthy acquired from MIN for a 2027 fifth-round pick after Jaxson Dart (knee) went on IR for the season; Odell Beckham Jr. released, Braxton Berrios signed to the active roster (reports).
+- 2026-09-28: J.J. McCarthy: Acquired from MIN for a 2027 fifth-round pick, pending a physical; Jake Haener was waived the same day, two days after being signed from the practice squad. [pod 9-29, official]
 
 ## Injuries and status
 
@@ -158,8 +170,12 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-21: Malik Nabers: Coming off an ACL tear; the expectation is that he is healthy for Week 1, though that is not certain. [8-21 mayhem mock draft]
 - 2026-08-26: Malik Nabers: Shed the non-contact jersey and is taking contact; the head coach said it is reasonable to assume he plays Week 1. He avoided PUP, practiced from day one of camp and has had no reported setbacks. [8-26 rankings and news updates]
 - 2026-08-26: Malik Nabers: Coming off an ACL tear plus a meniscus tear; he just turned 23 and is entering his third NFL season. [8-26 rankings and news updates]
+- 2026-09-28: Brian Burns: Torn ACL in the right knee in the fourth quarter vs TEN, confirmed by John Harbaugh; placed on injured reserve Sep 29, season over. [pod 9-30, official]
+- 2026-09-21: Malik Nabers: The Week 2 injury was a right shoulder dislocation at LAR that he put back in himself; he returned to the game, was limited Sep 23 and carried no designation into Week 3, where he played about 80% of the snaps. [pod 9-30, beat]
+- 2026-09-30: Tyrone Tracy Jr. (knee) and LT Andrew Thomas (groin) DNP Wednesday; John Harbaugh called Tracy day to day; Cam Skattebo full and Malik Nabers not listed (team report).
 
 ## Other
 
 - 2026-07-23: The Giants went 4-13 (1-7 in one-score games), lost nine straight after beating PHI in Week 6, and replaced Brian Daboll and Mike Kafka with John Harbaugh and OC Matt Nagy. [7-23 nfc east breakdown]
 - 2026-08-20: The Giants' schedule is manageable through six weeks (Rams in LA in Week 2) but the final 11 games include trips to Houston, Philadelphia, Seattle and Detroit plus Cleveland, Jacksonville and San Francisco. [8-20 bust and value picks for 2026]
+- 2026-09-30: The Giants' bye is Week 8; before it they host ARI and NO and visit WAS and HOU. [pod 9-29, official]

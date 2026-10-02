@@ -18,6 +18,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-09: Brock Purdy: Team is old and injury-prone: Ricky Pearsall hurt, Trent Williams aging, Mike Evans not practicing, Kittle off an Achilles, and McCaffrey and Deebo Samuel are late-career players. [8-9 QB preview]
 - 2026-08-14: Brock Purdy: Has thrown a TD on 7% or more of his passes in three of his four seasons; the league average is 4.4%. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-14: Kurtis Rourke: QB3 Kurtis Rourke (6'4, 220) made some nice plays in the preseason opener. [8-14 things we learned from pre season games]
+- 2026-09-27: Brock Purdy: 15 of 27 for 297 yards and 4 touchdowns, 2 carries for 34, in the 36-30 win over ARI. [pod 9-29, deployment]
 
 ## Backfield
 
@@ -35,6 +36,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Christian McCaffrey: McCaffrey is 30 and coming off a career high in carries and touches (10th-most touches in a season this century); his rushing efficiency has quietly dipped three consecutive seasons. [8-19 RBs drafting and fading]
 - 2026-08-24: Jordan James: James, viewed entering the offseason as the likely McCaffrey backup, has been injured for the whole of camp, leaving the No. 2 job unsettled. [8-24 embarrased to love players]
 - 2026-08-26: Kaleb Black: Returned to practice before Jordan James and reportedly played well; James got back Saturday so the RB2 competition is back on. [8-26 rankings and news updates]
+- 2026-09-27: Christian McCaffrey: 45 of 54 snaps (83%), 15 carries and 5 targets vs ARI, 116 scrimmage yards and a touchdown; Kaelon Black 8 snaps (15%), 4 carries for 17 and 1 target, the only other back to play. [pod 9-29, deployment]
 
 ## Receivers
 
@@ -91,6 +93,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: De'Zhaun Stribling: Brock Purdy called Stribling a really smart player who has shown he understands everything; camp buzz has been strong with Ricky Pearsall out and Christian Kirk hurt. [8-26 myguys episode]
 - 2026-08-26: Deebo Samuel: Expected to open the season around a 40-60% snap share and take a few running back carries per game, more if McCaffrey were out. [8-26 rankings and news updates]
 - 2026-08-26: Demarcus Robinson: Trusted by the coaches and has logged big playing-time percentages before; he is in the mix for snaps behind Evans and Samuel. [8-26 rankings and news updates]
+- 2026-09-27: KhaDarel Hodge played 30 of 54 snaps (56%) after Mike Evans left, ran 13 routes and was not targeted. Deebo Samuel led the receivers with 40 snaps, had zero targets and was still credited with 80 receiving yards and a touchdown. [pod 9-29, deployment]
+- 2026-09-27: Mike Evans: Played 18 of 54 snaps before the rib injury; receiver snaps after that went Samuel 41, Hodge 30, Cowing 17, Watkins 15. Evans had also been limited by a hip injury (54% of the snaps in Week 2, questionable for Week 3). [pod 9-29, deployment]
 
 ## Tight ends
 
@@ -107,11 +111,14 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Jake Tonges: Jake Tonges produced when Kittle was out last year and would be a strong starter if Kittle misses time; a snap-count scenario would limit both. [8-17 Breakouts and Injury stuff]
 - 2026-08-21: George Kittle: All signs point to him having a real shot at playing in Week 1 after his Achilles injury. [8-21 mayhem mock draft]
 - 2026-08-26: Jake Tonges: Could start Week 1 if Kittle is held out; when Kittle returns the 49ers could use a lot of two-tight-end sets with both. [8-26 rankings and news updates]
+- 2026-09-27: George Kittle 6 for 82 and 2 touchdowns, both in the final nine minutes. [pod 9-28, deployment]
+- 2026-09-27: George Kittle: 46 of 54 snaps (85%) and 25 routes on 27 dropbacks vs ARI, 6 of 7 for 82 and 2 TD; his route rate was 46% in Week 1 and 56% in Week 2 (4 of 4 for 80 and a TD vs MIA). [pod 9-29, deployment]
 
 ## Offensive line
 
 - 2026-08-20: If Trent Williams goes down the 49ers line is viewed as immediately bottom-10; Shanahan's scheme and Purdy's pocket navigation help the unit. [8-20 Offensive Line Rankings]
 - 2026-08-20: Trent Williams: Trent Williams (38) has played 14+ games in five of the last six seasons; still an elite run blocker with slipping pass protection. Brock Purdy is 44-10 with him and 2-7 without. [8-20 Offensive Line Rankings]
+- 2026-09-27: Trent Williams: Vederian Lowe played 22 snaps at left tackle after Williams' stinger; Williams is listed questionable (neck). [pod 9-30, deployment]
 
 ## Depth chart
 
@@ -189,6 +196,14 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Mike Evans: Has sat out a lot of camp practice with a quad issue and veteran rest; he will turn 33 and is expected to be an every-down player when healthy. [8-26 rankings and news updates]
 - 2026-08-26: Mike Evans: Evans has barely been on the practice field in late August with his quad issue, adding to the 49ers' thin receiver picture. [8-26 myguys episode]
 - 2026-09-28: Mike Evans: Rib injury in Week 3 vs ARI; Shanahan called it day-to-day, not long term, could play Week 4 vs DEN (NBC Sports Bay Area).
+- 2026-09-30: Mike Evans: no practice Wednesday while managing the rib injury; Kyle Shanahan expects him to play vs DEN. Trent Williams: rest day Wednesday for the stinger, expected back Thursday (Shanahan, reports).
+- 2026-09-27: Mike Evans: rib strain per Rapoport, carted to the locker room late in the first half at ARI after taking a helmet from Budda Baker on the prior play, out at halftime; Kyle Shanahan called him day-to-day with a chance to play vs DEN. Trent Williams: stinger in the third quarter, carted, did not return. [pod 9-28, beat]
+- 2026-09-26: Demarcus Robinson: Placed on IR 9/26 with a high ankle sprain from Week 2, eligible to return Oct 25 vs ATL; he joins Ricky Pearsall (PCL, season), Christian Kirk (calf) and De'Zhaun Stribling (ankle surgery 9/19, about ten weeks) on IR. [pod 9-29, official]
+- 2026-09-27: Nick Bosa: Calf strain in warmups on 9/24, out vs ARI, expected to miss a few weeks, not placed on IR (Schefter 9/27); he was the sixth defensive lineman lost. James Thompson Jr. (high ankle) is out and five other linemen are on IR. [pod 9-29, beat]
+- 2026-09-30: Mike Evans: DNP Wednesday (ribs); Shanahan said Evans, Trent Williams (stinger) and Dre Greenlaw (quad) should be good to go by Thursday (Shanahan, NBC Sports).
+- 2026-09-30: KhaDarel Hodge (knee), Nick Bosa (knee, calf), Dre Greenlaw (quad) and Mike Evans (ribs) DNP Wednesday; Christian McCaffrey and Trent Williams (neck) listed as rest; Shanahan on Evans practicing: not Wednesday, hopefully later in the week (team report).
+- 2026-10-01: Mike Evans: General manager John Lynch said Evans will make every attempt to play vs DEN after missing Wednesday's practice with the rib injury. [pod 10-1, beat]
+- 2026-10-01: Mike Evans: did not practice Thursday (ribs), worked on the side; second straight DNP (reports).
 
 ## Other
 
@@ -196,3 +211,6 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-04: The 49ers core is old and banged up: Evans 32-33 with soft-tissue issues, Kittle 33 off an Achilles, McCaffrey 30, Trent Williams among the oldest LTs, Kirk hurt; Stribling has also dealt with injury. [8-4 Training Camp News And Rankings]
 - 2026-08-06: The 49ers' offense is seen as the most fragile of the Shanahan era, reliant on old and injured players; Trent Williams is aging, and the line looks weak across the board. [8-6 1st round picks downsides]
 - 2026-08-12: The 49ers open against the Rams in Melbourne and will fly out eight days early; the Rams plan to fly in the day before. [8-12 Camp Updates Article]
+- 2026-09-30: Defense has allowed the fewest fantasy points to tight ends through Week 3 (reports).
+- 2026-09-30: Schedule: DEN at home in Week 4, then @SEA, WAS, @ATL, bye in Week 8, LV, @DAL. [pod 9-29, official]
+
