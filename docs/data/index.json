@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-10-02T20:51:20Z",
+  "updatedAt": "2026-10-02T20:59:33Z",
   "pieces": [
+    {
+      "series": "menu",
+      "week": 4,
+      "path": "2026/week-04/menu.json",
+      "title": "The Menu, Week 4",
+      "dek": "Refreshed after Friday's injury report: C.J. Stroud is QB12, Puka Nacua WR11, Dontayvion Wicks WR33 with DeVonta Smith out, and the questionable Ladd McConkey and Terry McLaurin slide into the flex range.",
+      "publishedAt": "2026-09-30T10:00:00Z",
+      "updatedAt": "2026-10-02T21:15:00Z"
+    },
     {
       "series": "butcher",
       "week": 4,
@@ -37,15 +46,6 @@
       "title": "Market Run, Week 4",
       "dek": "Ollie Gordon II took 84 percent of Miami's snaps after Achane's ACL, and he is the first name on this week's list.",
       "publishedAt": "2026-09-29T14:20:00Z",
-      "updatedAt": "2026-10-02T21:00:00Z"
-    },
-    {
-      "series": "menu",
-      "week": 4,
-      "path": "2026/week-04/menu.json",
-      "title": "The Menu, Week 4",
-      "dek": "The order is refreshed for Sunday: Jared Goff is a top-8 quarterback against CAR's depleted secondary, Patrick Mahomes is QB5, Jeremiyah Love is a top-8 back, and Puka Nacua and Justin Jefferson are back on the board with flags.",
-      "publishedAt": "2026-09-30T10:00:00Z",
       "updatedAt": "2026-10-02T21:00:00Z"
     },
     {
