@@ -24,3 +24,34 @@ For a rest-of-season call (trade for, trade away, hold, drop, buy low, sell high
 ## Layout
 
 Replies keep their own layout: 1 to 3 sentences, one number the original post did not have, the call, then "Follow @handle for more." (handle from `docs/data/site.json`). No hashtags, no link, no hook closer, never quote the original. The one-player-per-line rule for threads does not apply to replies.
+
+## News scan: send what the big accounts break to the pantry
+
+Every FK Replies run already reads the accounts in `kitchen/targets.md`. On every run, before or after the replies, also take news notes from the same pages and send what is new to FK Kitchen as a pantry filing. The replies rules above do not change; this is a second job on the same page loads.
+
+1. **Collect.** From the posts you read (last 8 hours, skip retweets, promos, polls and betting), keep only items that could change a lineup, waiver or trade call:
+   - FACTS: injury news and designations, practice participation, players ruled out or activated, IR moves, signings, releases, trades, suspensions, depth chart and starter changes, a coach's statement about a role, inactives. Mostly from the news accounts.
+   - FACTS with usage: snap, route, target or carry numbers posted with a number and a game (from any account).
+   - CROWD: a fantasy account's add, drop, buy, sell, start or fade lean on a named player. Record the lean only, never who said it.
+2. **Drop what the kitchen already has.** In your read-only clone (`git pull` first), read `kitchen/pantry/<season>-week-NN.md` (week from `python3 tools/fk.py week`, two digits), this week's `docs/data/2026/week-NN/notes.json`, and `kitchen/notes/<TEAM>.md` for each team in the batch. Drop every item already there with the same fact, and drop items you already sent this run.
+3. **Decide whether to send.** Send now if the batch has a breaking item: a fantasy starter ruled out, doubtful, placed on IR, traded, released or suspended, a new starting quarterback, or a Sunday inactive. Otherwise send only if the newest "X feed" line in `kitchen/log.md` is more than 60 minutes old (so FK Kitchen runs at most about once an hour from this feed). If you do not send, the items wait for the next run, which reads the pages again. Never send an empty batch.
+4. **Send.** Call `fire_trigger` (claude-code-remote; load it with ToolSearch if it is deferred) with the FK Kitchen trigger ID from your task prompt and this text, one line per item, no account handles, no show or analyst names, no projected numbers:
+   ```
+   job: pantry
+   week NN
+   part X <time ET>
+   FACTS
+   - TEAM | Player | the fact | source: insider report, team report, or usage data | posted <time ET>
+   RIPPLES
+   - TEAM | change | who gains | what share moves | how long | what to watch
+   CROWD
+   - Player | TEAM | add, drop, buy, sell, start or fade | 1 of 1 (this feed) | the usage number for or against, if the post had one
+   WATCH
+   - Player | TEAM | what to watch | when
+   CALLCHECK
+   REPLIES
+   ```
+   Leave a section empty (keep its heading) when there is nothing for it. RIPPLES only when the post itself says who gains. Put every reply you posted this run under REPLIES as one line (the reply URL), so the kitchen keeps the reply angles in one place.
+5. Say in the run summary how many items you sent, or that you held them and why.
+
+FK Kitchen files a part starting "X" by `_sync.md`, "Filings from the X feed".
