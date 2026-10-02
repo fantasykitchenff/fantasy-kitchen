@@ -6,12 +6,21 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-02T21:50:00Z",
+  "updatedAt": "2026-10-02T22:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-02T22:15:00Z",
+        "text": "Jakobi Meyers (JAX) was limited Wednesday and Thursday with the thumb he has played through all season and has no designation for Sunday @CIN. He caught 7 for 64 and a touchdown vs NE on 81 percent of the snaps. WR31 for me, a low-end WR3, a low-end flex play.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-02/jakobi-meyers-thumb-clears-injury-report-again",
+        "player": "Jakobi Meyers",
+        "action": "START",
+        "slot": "WR3",
+        "pos": "WR"
+      },
       {
         "player": "Zay Flowers",
         "action": "START",
@@ -430,50 +439,6 @@
         "action": "FLEX",
         "url": "",
         "text": "The Menu had David Montgomery (HOU) as an RB2 start off one game, 34 snaps to Woody Marks' 20 vs IND. Over three games the snaps are close to even: about level in Week 1, 42 to 38 in Week 2, then 34 to 20. Montgomery is at 2.8 yards a carry and has been hit at or behind the line on 68 percent of his runs, the highest rate in the league. Marks has more targets, 8 to 7. Both Menu lists now read the same. Flex Montgomery vs DAL; he is not an RB2 this week."
-      },
-      {
-        "at": "2026-09-30T19:35:00Z",
-        "player": "Woody Marks",
-        "action": "FLEX",
-        "url": "",
-        "text": "Woody Marks (HOU) has 8 targets and 50 routes in three games, and 37 percent of the snaps was Week 3 only; the split was about even in Week 1 and 42 to 38 in Week 2. His role grows when Houston trails, 6 targets in the 20-6 loss to CIN, and he took the goal-line score at IND. Flex him vs DAL in PPR."
-      },
-      {
-        "at": "2026-09-30T19:35:00Z",
-        "player": "Brian Thomas Jr.",
-        "action": "SIT",
-        "url": "",
-        "text": "Brian Thomas Jr. (JAX) ran 13 to 15 routes vs NE, under half of the dropbacks, on 23 of 62 snaps; he was on the field for 77 percent of the three-receiver snaps and off it in two-tight-end sets. Rookie Josh Cameron matched his 23 snaps and scored. The Menu had Thomas as a flex while the Market Run and Heat Check said drop; the Menu row now reads sit. Sit him @CIN, and in 12-team leagues cut him for any add on the Market Run list."
-      },
-      {
-        "at": "2026-09-30T19:35:00Z",
-        "player": "Jake Ferguson",
-        "action": "SIT",
-        "url": "",
-        "text": "Jake Ferguson (DAL) is TE15 on the Menu and the row now reads sit instead of stream. His snap share went 76, 60 and 69 percent by week while Brevyn Spann-Ford went 22, 38 and 38, he is fifth on his own team with 11 targets, and he lost a fumble on the opening drive vs BAL. The 3 touchdowns are the whole line, and the Butcher Shop already has him as a sell. Sit him @HOU for any tight end with a steadier target share."
-      },
-      {
-        "at": "2026-09-30T19:35:00Z",
-        "player": "Keenan Allen",
-        "action": "CLAIM",
-        "faab": "3-6%",
-        "url": "",
-        "text": "Keenan Allen (IND) faces possible league discipline after a September charge from an August arrest; league policy carries a three-game minimum, none has been announced, the next court date is Oct 26 and he is eligible now. He has 20 targets on 75 routes, 26.7 percent, and took 9 of 36 attempts vs HOU. Claim him, 3 to 6 percent of FAAB, and know a ban could land in season."
-      },
-      {
-        "at": "2026-09-30T19:30:00Z",
-        "text": "Khalil Shakir (BUF) drew 3 targets and caught 1 for 6 yards on 73 percent of the snaps vs LAC while DJ Moore drew a team-high 10. The Menu row said the volume was coming his way; it did not. Sit him vs NE; he comes down the receiver list on Friday's Prep Notes.",
-        "url": "",
-        "player": "Khalil Shakir",
-        "action": "SIT"
-      },
-      {
-        "at": "2026-09-30T19:30:00Z",
-        "text": "Left guard Damien Lewis (CAR) has a UCL tear in his elbow and is out vs DET, so Corey Bullock makes his first start and Carolina has three backup linemen in front of Bryce Young, the most-pressured quarterback in the league at 47 percent of dropbacks. Young had his foot stepped on at CLE, did not miss a snap, and Dave Canales expects him to play. He stays QB12 on the Menu with 939 passing yards behind him; monitor Thursday and Friday practice for his foot and for Jalen Coker before you commit.",
-        "url": "",
-        "player": "Bryce Young",
-        "action": "MONITOR",
-        "watch": "Thursday and Friday practice for Young's foot and for Coker"
       }
     ]
   },
