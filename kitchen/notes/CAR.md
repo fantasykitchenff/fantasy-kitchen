@@ -148,6 +148,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Jalen Coker, Xavier Legette: Both DNP Wednesday's walkthrough; Dave Canales called Coker day to day and questionable, Legette week to week. Damien Lewis (elbow) and RT Monroe Freeling (concussion) DNP; Chuba Hubbard and Darren Waller rest days (team site).
 - 2026-10-01: Jalen Coker: limited in Thursday practice (quad) after a Wednesday DNP; a game-time decision Sunday is possible. Xavier Legette (knee) and Damien Lewis (elbow) DNP Thursday, Monroe Freeling (concussion) limited, Bryce Young full. [pod 10-1, official]
 - 2026-10-02: Jalen Coker (quad) was limited Thursday and Friday and is questionable; Xavier Legette (knee) and left guard Damien Lewis (elbow) are out. [pod 10-2, official]
+- 2026-10-03: Jalen Coker (quad, questionable): Carolina elevated WR Ja'Seem Reed from the practice squad Saturday for DET; Canales had said Reed would be called up if Coker could not play (NBC Sports, team move).
 
 ## Other
 
