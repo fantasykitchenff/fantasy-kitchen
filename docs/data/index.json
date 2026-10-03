@@ -1,17 +1,8 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-10-03T22:16:42Z",
+  "updatedAt": "2026-10-03T23:14:04Z",
   "pieces": [
-    {
-      "series": "menu",
-      "week": 4,
-      "path": "2026/week-04/menu.json",
-      "title": "The Menu, Week 4",
-      "dek": "Refreshed after Friday's injury report: C.J. Stroud is QB12, Puka Nacua WR11, Dontayvion Wicks WR33 with DeVonta Smith out, and the questionable Ladd McConkey and Terry McLaurin slide into the flex range.",
-      "publishedAt": "2026-09-30T10:00:00Z",
-      "updatedAt": "2026-10-03T22:25:00Z"
-    },
     {
       "series": "notes",
       "week": 4,
@@ -19,6 +10,15 @@
       "title": "Kitchen notes, Week 4",
       "dek": "What moved today.",
       "publishedAt": "2026-09-29T16:30:00Z",
+      "updatedAt": "2026-10-03T23:20:00Z"
+    },
+    {
+      "series": "menu",
+      "week": 4,
+      "path": "2026/week-04/menu.json",
+      "title": "The Menu, Week 4",
+      "dek": "Refreshed after Friday's injury report: C.J. Stroud is QB12, Puka Nacua WR11, Dontayvion Wicks WR33 with DeVonta Smith out, and the questionable Ladd McConkey and Terry McLaurin slide into the flex range.",
+      "publishedAt": "2026-09-30T10:00:00Z",
       "updatedAt": "2026-10-03T22:25:00Z"
     },
     {

@@ -6,12 +6,20 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-03T22:25:00Z",
+  "updatedAt": "2026-10-03T23:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-03T23:20:00Z",
+        "text": "Carolina put Xavier Legette (CAR) on injured reserve Saturday with the knee he hurt in Week 2, so he misses at least four games and is not back before Nov 8 vs DEN. He has not played since Week 2 and is WR106 rest of season for me. Drop him for any add on the list.",
+        "url": "https://www.espn.com/nfl/story/_/id/50093238/panthers-place-wr-xavier-legette-ir-knee-injury",
+        "player": "Xavier Legette",
+        "pos": "WR",
+        "action": "DROP"
+      },
       {
         "at": "2026-10-03T22:25:00Z",
         "text": "Carolina elevated receiver Ja'Seem Reed from the practice squad Saturday, the move Dave Canales said would come if Jalen Coker (CAR) could not play with the quad. Coker is outside my top 50 receivers either way; Darren Waller, with a team-high 8 targets in Week 3, is TE18 for me vs DET, a streamer Sunday night.",
@@ -441,13 +449,6 @@
         "player": "Tyson Bagent",
         "action": "MONITOR",
         "watch": "Friday practice report and Sunday inactives"
-      },
-      {
-        "player": "TreVeyon Henderson",
-        "action": "SIT",
-        "text": "At JAX the early downs were an even split, and Rhamondre Stevenson, not TreVeyon Henderson (NE), took most of the passing-situation and short-yardage snaps: 33 snaps to 23 and 3 catches to 1. The passing-down case for Henderson does not hold this week. Sit him at BUF; Stevenson stays a RB2.",
-        "at": "2026-09-30T19:45:00Z",
-        "url": ""
       }
     ]
   },
