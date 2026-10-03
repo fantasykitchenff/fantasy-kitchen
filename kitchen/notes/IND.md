@@ -196,6 +196,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-15: Keenan Allen: Charged on 9/15 after an 8/30 arrest. League policy carries a minimum three-game suspension; none has been announced, the next court date is 10/26, and he remains eligible. [pod 9-29, official]
 - 2026-10-01: Thursday in London: Jonathan Taylor, Keenan Allen and Charvarius Ward limited on scheduled rest days for a second day, Mo Alie-Cox (illness) and Ashton Dulin (ankle) DNP, Akeem Davis-Gaither (knee) limited, K Spencer Shrader (groin) full (team report).
 - 2026-10-02: Keenan Allen is questionable (rest, groin) for Week 4 vs WAS in London. [pod 10-2, official]
+- 2026-10-03: Keenan Allen: ruled out Saturday for Week 4 vs WAS in London (groin) after a Friday DNP; WR Nick Westbrook-Ikhine elevated from the practice squad (AP, PFT).
 
 ## Other
 

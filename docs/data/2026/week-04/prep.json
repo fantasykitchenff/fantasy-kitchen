@@ -6,9 +6,9 @@
   "dek": "Jadarian Price is out, so Emanuel Wilson takes the Seattle backfield with George Holani; Keenan Allen missed Friday's practice and is a true London decision.",
   "format": "PPR",
   "publishedAt": "2026-10-02T21:20:00Z",
-  "updatedAt": "2026-10-02T21:50:00Z",
+  "updatedAt": "2026-10-03T16:25:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Fri 5:50 PM ET: Zay Flowers (hamstring) is questionable after a limited Friday practice the Ravens listed as rest, following a full Thursday. He stays WR9 for me vs TEN; check Sunday's inactives at 11:30 AM ET.\n\nFriday's final reports are in. Eleven fantasy-relevant players are out, nobody is doubtful, and eight are questionable. The late surprise is in Seattle: Jadarian Price is out with the chest, so Emanuel Wilson moves up to RB31 in a split with George Holani. Nico Collins and DJ Moore have no designation and play. Rankings are for full PPR.\n\nThe true Sunday decisions are Keenan Allen and Terry McLaurin in London (inactives at 8:00 AM ET), Ladd McConkey and Mike Evans in the 4:25 PM window, and Jalen Coker on Sunday night. Have a 1 PM backup ready for anyone you play in London or late.",
+  "intro_md": "Updated Sat 12:25 PM ET: Keenan Allen is ruled out for London; pivot to Wan'Dale Robinson. Terry McLaurin is still questionable, but Washington's beat reporting says he is likely to miss; plan on a 1 PM receiver and check the 8:00 AM ET inactives.\n\nUpdated Fri 5:50 PM ET: Zay Flowers (hamstring) is questionable after a limited Friday practice the Ravens listed as rest, following a full Thursday. He stays WR9 for me vs TEN; check Sunday's inactives at 11:30 AM ET.\n\nFriday's final reports are in. Eleven fantasy-relevant players are out, nobody is doubtful, and eight are questionable. The late surprise is in Seattle: Jadarian Price is out with the chest, so Emanuel Wilson moves up to RB31 in a split with George Holani. Nico Collins and DJ Moore have no designation and play. Rankings are for full PPR.\n\nThe true Sunday decisions are Keenan Allen and Terry McLaurin in London (inactives at 8:00 AM ET), Ladd McConkey and Mike Evans in the 4:25 PM window, and Jalen Coker on Sunday night. Have a 1 PM backup ready for anyone you play in London or late.",
   "data": {
     "report": [
       {
@@ -223,17 +223,17 @@
         "player": "Keenan Allen",
         "team": "IND",
         "pos": "WR",
-        "status": "Q",
+        "status": "OUT",
         "injury": "groin",
         "practice": [
           "LP",
           "LP",
           "DNP"
         ],
-        "read": "Went the wrong way Friday: limited Wednesday (rest) and Thursday, then no practice. Pierce is on IR, so Downs and Warren take the targets if he sits.",
-        "verdict": "WR36 for me, a low-end WR3 if he plays; with a 9:30 AM ET kickoff in London, have a 1 PM receiver ready.",
-        "action": "MONITOR",
-        "watch": "London inactives at 8:00 AM ET"
+        "read": "Went the wrong way Friday: limited Wednesday and Thursday, then no practice. The Colts ruled him out Saturday and elevated Nick Westbrook-Ikhine, so Downs and Warren take the targets.",
+        "verdict": "Out for London. Pivot to Wan'Dale Robinson (WR38).",
+        "action": "PIVOT",
+        "to": "Wan'Dale Robinson"
       },
       {
         "player": "Ladd McConkey",
@@ -311,8 +311,8 @@
           "FP",
           "LP"
         ],
-        "read": "A new hamstring listing Friday, limited; Mariota starts again. Stefon Diggs is the next man up.",
-        "verdict": "WR41 for me, a low-end flex play to a dart throw; have Diggs or a 1 PM backup ready.",
+        "read": "A new hamstring listing Friday, limited. Washington's beat reporting Saturday says he is now likely to miss London, with Mariota at quarterback. Stefon Diggs is the next man up.",
+        "verdict": "WR40 for me only if active, a low-end flex play to a dart throw; plan on a 1 PM receiver.",
         "action": "MONITOR",
         "watch": "London inactives at 8:00 AM ET"
       }

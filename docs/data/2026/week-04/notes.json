@@ -6,12 +6,36 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-02T23:30:00Z",
+  "updatedAt": "2026-10-03T16:25:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-03T16:25:00Z",
+        "text": "The Colts ruled out Keenan Allen (IND) for London vs WAS with the groin after a Friday DNP and elevated Nick Westbrook-Ikhine from the practice squad. Pierce is on IR too, so Josh Downs and Tyler Warren are the targets. Pivot to Wan'Dale Robinson (WR38).",
+        "url": "https://www.washingtontimes.com/news/2026/oct/3/colts-wr-keenan-allen-ruled-london-game-groin-injury/",
+        "player": "Keenan Allen",
+        "action": "PIVOT",
+        "to": "Wan'Dale Robinson"
+      },
+      {
+        "at": "2026-10-03T16:25:00Z",
+        "text": "Josh Downs (IND) has seen 3, 9 and 11 targets since Alec Pierce went down, and Keenan Allen is ruled out for London. WR15 for me this week @WAS, a WR2.",
+        "url": "",
+        "player": "Josh Downs",
+        "action": "START",
+        "slot": "WR2"
+      },
+      {
+        "at": "2026-10-03T16:25:00Z",
+        "text": "Terry McLaurin (WAS) is questionable with the hamstring, and Washington's beat reporting Saturday says he is now likely to miss London vs IND. WR40 for me only if active; Stefon Diggs is WR27, a high-end WR3. Monitor the 8:00 AM ET inactives.",
+        "url": "https://www.hogshaven.com/washington-commanders-injuries/445984/commanders-injury-update-terry-mclaurin-unlikely-to-play-vs-colts",
+        "player": "Terry McLaurin",
+        "action": "MONITOR",
+        "watch": "London inactives at 8:00 AM ET Sunday"
+      },
       {
         "at": "2026-10-02T23:30:00Z",
         "player": "Keaton Mitchell",
@@ -84,13 +108,6 @@
         "at": "2026-10-02T21:20:00Z"
       },
       {
-        "player": "Keenan Allen",
-        "action": "MONITOR",
-        "watch": "London inactives at 8:00 AM ET",
-        "text": "Keenan Allen (IND) did not practice Friday after two limited days and is questionable with the groin for the 9:30 AM ET kickoff in London. He drops to WR36 for me, a low-end WR3 if he plays. Monitor the inactives at 8:00 AM ET and have a 1 PM receiver ready.",
-        "at": "2026-10-02T21:20:00Z"
-      },
-      {
         "player": "Nico Collins",
         "action": "START",
         "slot": "WR2",
@@ -136,20 +153,6 @@
         "action": "STASH",
         "faab": "5-10%",
         "text": "Jaylen Wright (MIA) is back at full practice and listed as Miami's RB1 for Sunday at MIN, ahead of Ollie Gordon II, in a split the staff has already signaled. Stash him, 5 to 10 percent of FAAB, until the first-quarter carries show the lead role.",
-        "at": "2026-10-02T21:00:00Z"
-      },
-      {
-        "player": "Terry McLaurin",
-        "action": "MONITOR",
-        "watch": "Washington's inactives Sunday morning ET in London",
-        "text": "Terry McLaurin (WAS) is a new hamstring listing Friday, limited and questionable for London vs IND with Marcus Mariota at quarterback. He is WR26 for me if active, a high-end WR3. Monitor Washington's inactives Sunday morning ET and have Stefon Diggs or a backup ready.",
-        "at": "2026-10-02T21:00:00Z"
-      },
-      {
-        "player": "Keenan Allen",
-        "action": "MONITOR",
-        "watch": "Indianapolis inactives Sunday morning ET in London",
-        "text": "Keenan Allen (IND) is questionable (rest, groin) for London vs WAS after 20 targets in three games with Alec Pierce on IR. He is WR33 for me if active, a low-end WR3. Monitor the inactives Sunday morning ET.",
         "at": "2026-10-02T21:00:00Z"
       },
       {
