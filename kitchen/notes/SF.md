@@ -207,6 +207,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Mike Evans: General manager John Lynch said Evans will make every attempt to play vs DEN after missing Wednesday's practice with the rib injury. [pod 10-1, beat]
 - 2026-10-01: Mike Evans: did not practice Thursday (ribs), worked on the side; second straight DNP (reports).
 - 2026-10-01: Mike Evans (ribs) did not practice Wednesday or Thursday; John Lynch says Evans will make every attempt to play. [pod 10-2, official]
+- 2026-10-03: Kyle Shanahan called Mike Evans (ribs, questionable) a game-time decision for Week 4 vs DEN; Evans plans to play in a padded compression shirt (PFT).
 
 ## Other
 

@@ -6,12 +6,20 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-03T16:25:00Z",
+  "updatedAt": "2026-10-03T16:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-03T16:30:00Z",
+        "text": "Kyle Shanahan calls Mike Evans (SF) a game-time decision with the ribs after side work only Friday, and Evans says he will try to play in a padded shirt. Monitor; SF inactives Sunday at 2:55 PM ET for the 4:25 PM ET kickoff vs DEN.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-evans-is-going-to-try-to-play-through-his-injured-ribs",
+        "player": "Mike Evans",
+        "action": "MONITOR",
+        "watch": "SF inactives Sunday at 2:55 PM ET"
+      },
       {
         "at": "2026-10-03T16:25:00Z",
         "text": "The Colts ruled out Keenan Allen (IND) for London vs WAS with the groin after a Friday DNP and elevated Nick Westbrook-Ikhine from the practice squad. Pierce is on IR too, so Josh Downs and Tyler Warren are the targets. Pivot to Wan'Dale Robinson (WR38).",
@@ -438,13 +446,6 @@
         "player": "Romeo Doubs",
         "action": "FLEX",
         "text": "Mack Hollins drew 9 targets (6 for 87) at JAX to Romeo Doubs' 4 (3 for 49) and led the New England receivers in snaps, so Hollins is the A.J. Brown pivot on the Menu and Doubs (NE) comes down from a WR3. Doubs has 6 catches for 145 in the two games without Brown, 3 catches in each. Flex Doubs; do not start him as a WR3.",
-        "at": "2026-09-30T19:45:00Z",
-        "url": ""
-      },
-      {
-        "player": "Kyler Murray",
-        "action": "SIT",
-        "text": "Justin Jefferson did not practice Wednesday, and Kyler Murray (MIN) went 15 of 29 for 168 yards with 3 sacks at TB in an offense that scored one touchdown; the defense and special teams won the game. He comes off the Menu's stream line. Sit him vs MIA unless Jefferson practices by Friday.",
         "at": "2026-09-30T19:45:00Z",
         "url": ""
       }
