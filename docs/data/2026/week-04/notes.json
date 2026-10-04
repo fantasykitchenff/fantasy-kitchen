@@ -6,14 +6,14 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-04T23:35:00Z",
+  "updatedAt": "2026-10-04T23:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
       {
-        "at": "2026-10-04T23:30:00Z",
+        "at": "2026-10-04T23:20:00Z",
         "player": "Rashee Rice",
         "pos": "WR",
         "action": "MONITOR",
@@ -22,7 +22,7 @@
         "url": "https://abc7news.com/post/chiefs-rule-rashee-rice-doubtful-return-injury/19908181/"
       },
       {
-        "at": "2026-10-04T23:30:00Z",
+        "at": "2026-10-04T23:20:00Z",
         "player": "Ladd McConkey",
         "pos": "WR",
         "action": "MONITOR",
@@ -31,7 +31,7 @@
         "url": "https://www.boltsfromtheblue.com/los-angeles-chargers-injuries/66013/ladd-mcconkey-exits-chargers-vs-seahawks-game-with-foot-injury"
       },
       {
-        "at": "2026-10-04T23:30:00Z",
+        "at": "2026-10-04T23:20:00Z",
         "player": "Darren Waller",
         "pos": "TE",
         "action": "STREAM",
