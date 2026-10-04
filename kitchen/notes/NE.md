@@ -130,6 +130,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Drake Maye: Added to the Wednesday report with the right shoulder, full participant; says it has not affected his arm or decisions. Gonzalez (shoulder), Barmore (shoulder) and Morgan Moses (foot) DNP (team report, Rotowire).
 - 2026-09-11: A.J. Brown: On injured reserve since Sep 11 with the high-ankle sprain from Week 1 at SEA; the earliest he can return is Week 6. [pod 9-30, official]
 - 2026-10-02: Drake Maye practiced in full all week and was removed from the injury report; Christian Gonzalez and Christian Barmore ruled out; right tackle Morgan Moses (foot) and TE Eli Raridon (thigh) questionable. [pod 10-2, official]
+- 2026-10-04: Mack Hollins left the 29-26 win at BUF early in the third quarter with a non-contact calf injury, 3 catches on 4 targets for 53; Maye 22 of 37, 269, 3 TD, 1 INT, 54 rushing; Efton Chism 23-yard winning TD (CBS, CBS Boston).
 
 ## Other
 

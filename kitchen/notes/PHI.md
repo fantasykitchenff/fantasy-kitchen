@@ -175,6 +175,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Dallas Goedert: Did not practice Wednesday or Thursday (knee); the MCL sprain is still called week to week with no reported timeline and no IR move. [pod 9-30, official]
 - 2026-10-01: Hollywood Brown (ankle), Zack Baun (concussion) and RT Fred Johnson (knee) missed Thursday's practice again; Will Shipley (foot) returned to practice after a Wednesday DNP. [pod 10-1, official]
 - 2026-10-02: DeVonta Smith (hamstring) did not practice all week and is out vs LAR, with league sources expecting him to miss two to three games; Dallas Goedert, Hollywood Brown, Zack Baun and tackle Fred Johnson are also out. [pod 10-2, official]
+- 2026-10-04: Saquon Barkley hurt his right hamstring on a 6-yard run in the first quarter vs LAR, ruled out before halftime (2 carries, 8 yards); walked out normally after the 24-20 loss (Inquirer, NBC Sports Philadelphia).
+- 2026-10-04: Tank Bigsby 14 carries for 55 after Barkley left, needed help off late in the fourth quarter; Will Shipley 6 for 23 (game reports).
 
 ## Other
 

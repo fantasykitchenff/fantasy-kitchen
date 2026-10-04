@@ -108,6 +108,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Colbie Young: knee on the opening play at PIT, will miss Week 4 per Zac Taylor, who is hopeful it is not long-term; Dohnte Meyers 3 of 5 for 29 in his place. [pod 9-28, coach]
 - 2026-09-30: Bryan Cook, Kyle Dugger: Both safeties are day to day and did not practice Wednesday; DT B.J. Hill has a sore Achilles. [pod 9-30, coach]
 - 2026-09-30: Colbie Young (knee, hurt on the first snap of Week 3) ruled out for Week 4; Andrei Iosivas is on IR (thumb). [pod 10-2, coach]
+- 2026-10-04: Ja'Marr Chase left in the second quarter vs JAX with a concussion after a facemask tackle (3 catches, 27 yards); Burrow 39 of 54 for 428, Tee Higgins 11 for 157 in the 22-17 loss (bengals.com, NBC Sports).
 
 ## Other
 

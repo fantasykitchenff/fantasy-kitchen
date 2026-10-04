@@ -6,12 +6,75 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-04T16:30:00Z",
+  "updatedAt": "2026-10-04T22:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-04T22:20:00Z",
+        "player": "Lamar Jackson",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "text": "Lamar Jackson (BAL) hurt his ankle on a sack on the last play of the first half vs TEN and did not return, after completing 15 of 20 for 222 yards and two touchdowns. Jesse Minter called him day-to-day after the 24-18 win, and Tyler Huntley finished the game; leave Huntley on the wire until Jackson's status is known. Jackson is QB2 rest of season for me. Monitor; Wednesday's practice report.",
+        "url": "https://www.baltimoreravens.com/news/lamar-jackson-ankle-injury-ravens-titans-tyler-huntley"
+      },
+      {
+        "at": "2026-10-04T22:20:00Z",
+        "player": "Saquon Barkley",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "text": "Saquon Barkley (PHI) hurt his right hamstring on a 6-yard run in the first quarter vs LAR and was ruled out before halftime, with 2 carries for 8 yards. He walked out of the stadium normally after the 24-20 loss, per NBC Sports Philadelphia. RB8 rest of season for me; hold him. Monitor; Wednesday's practice report.",
+        "url": "https://www.espn.com/nfl/story/_/id/50101243/eagles-rb-saquon-barkley-leaves-game-hamstring-injury"
+      },
+      {
+        "at": "2026-10-04T22:20:00Z",
+        "player": "Tank Bigsby",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "5-10%",
+        "text": "Tank Bigsby (PHI) took 14 carries for 55 yards after Saquon Barkley left, to Will Shipley's 6 for 23, then needed help off the field late in the fourth quarter. Bigsby is RB55 rest of season for me and the back to own if Barkley misses time; Shipley stays on the wire. Claim Bigsby, 5 to 10 percent of FAAB.",
+        "url": "https://www.rotowire.com/football/headlines/tank-bigsby-injury-exits-sundays-game-640650"
+      },
+      {
+        "at": "2026-10-04T22:20:00Z",
+        "player": "Ja'Marr Chase",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "the concussion protocol and Wednesday's practice report",
+        "text": "Ja'Marr Chase (CIN) left the 22-17 loss to JAX in the second quarter with a concussion after a facemask tackle, with 3 catches for 27 yards. Joe Burrow still threw 54 times for 428 yards, and Tee Higgins caught 11 for 157; hold Higgins, WR16 rest of season for me. Chase is WR1 rest of season. Monitor; the concussion protocol and Wednesday's practice report.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-04/jamarr-chase-concussion-ruled-out-week-4"
+      },
+      {
+        "at": "2026-10-04T22:20:00Z",
+        "player": "DJ Moore",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "text": "DJ Moore (BUF) left the 29-26 loss to NE late in the second quarter with the same shoulder that knocked him out of the Week 2 game and limited him in practice all week. He is WR24 rest of season for me. Khalil Shakir is WR53 rest of season; leave him where he is. Monitor Moore; Wednesday's practice report.",
+        "url": "https://www.buffalobills.com/news/bills-issue-injury-update-on-wr-dj-moore-vs-patriots-week-4"
+      },
+      {
+        "at": "2026-10-04T22:20:00Z",
+        "player": "Mack Hollins",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "text": "Mack Hollins (NE) left the 29-26 win at BUF early in the third quarter with a non-contact calf injury after catching 3 of 4 targets for 53 yards. He led New England with 16 targets through three games. Efton Chism caught the winning 23-yard touchdown, but he had two catches all season before Sunday; leave Chism on the wire. Monitor Hollins; Wednesday's practice report.",
+        "url": "https://www.cbssports.com/fantasy/football/news/patriots-mack-hollins-exits-game-with-calf-injury/"
+      },
+      {
+        "at": "2026-10-04T22:15:00Z",
+        "player": "Mike Evans",
+        "pos": "WR",
+        "action": "HOLD",
+        "why": "A rib setback that keeps him out of Wednesday's practice would change the call.",
+        "text": "Mike Evans (SF) is active vs DEN after a week of side work with the ribs, and Ladd McConkey (LAC) is active @SEA with the foot. Evans is WR25 rest of season for me; hold him through the ribs. McConkey stays WR39 for me this week, a low-end flex play to a dart throw.",
+        "url": "https://www.49erswebzone.com/articles/203853-announce-inactive-players-broncos-active/"
+      },
       {
         "at": "2026-10-04T16:30:00Z",
         "player": "Zay Flowers",
@@ -395,59 +458,6 @@
         "slot": "WR2",
         "url": "",
         "text": "Jaylen Waddle (DEN) wore a walking boot after the win at LAR as a precaution, then practiced in full Wednesday, and Sean Payton says he is fine. He ran 82 percent of the routes and drew 7 targets in that game, 2 catches for 10. WR20 for me this week, a WR2 at SF."
-      },
-      {
-        "at": "2026-10-01T20:50:00Z",
-        "player": "Jordan Love",
-        "action": "START",
-        "slot": "QB1",
-        "url": "",
-        "text": "Both of Green Bay's starting guards, Aaron Banks (knee, toe) and Jacob Monk (quad), missed Wednesday and Thursday, and the two veterans signed this week, Laken Tomlinson and Kevin Zeitler, took the first-team work Thursday with Mekhi Becton on the practice squad. Jordan Love (GB) has been hit 20 times in three games on a league-low 2.4 seconds to throw, and the run game is last in the league at 48.7 yards a game, so the volume (124 attempts) stays. QB14 for me, a borderline start this week at TB."
-      },
-      {
-        "player": "Chris Godwin",
-        "action": "SIT",
-        "text": "Chris Godwin (TB) returned to practice Thursday after sitting out Wednesday with the ankle; the participation level was not posted. He had slipped to 62 percent of the snaps vs MIN, third among the receivers behind Ted Hurst III, 3 for 25, and he has 10 catches for 111 on the season. Outside the receivers I rank this week, a dart throw; sit him for any receiver inside my top 36 whether or not he plays.",
-        "at": "2026-10-01T20:50:00Z",
-        "url": "https://www.cbssports.com/fantasy/football/news/buccaneers-chris-godwin-not-practicing-due-to-ankle-injury/"
-      },
-      {
-        "player": "Mack Hollins",
-        "action": "ADD",
-        "text": "Mack Hollins (NE) leads the Patriots with 16 targets through three games (5, 2, 9) to DeMario Douglas' 14 and Romeo Doubs' 11, and Doubs has not had a game above 4. A.J. Brown is on IR since Sep 11 and eligible to return Week 6, not Week 7, so the volume is open for two more games at least. Hollins is not ranked on the Menu. Add him, 2 to 5 percent of FAAB.",
-        "at": "2026-10-01T20:50:00Z",
-        "url": "",
-        "faab": "2-5%"
-      },
-      {
-        "at": "2026-10-01T13:45:00Z",
-        "text": "The London forecast for IND at WAS (Sunday 9:30 AM ET) has moved from a 90 percent chance of rain on Wednesday to mostly dry, high 60s, wind under 10 miles an hour, by Thursday morning. Josh Downs (IND) has 3, 9 and 11 targets since Alec Pierce went on IR, and he is WR15 for me this week, a WR2; the call was the targets, not the weather. Tyler Warren is TE4 for me.",
-        "url": "",
-        "player": "Josh Downs",
-        "action": "START",
-        "slot": "WR2"
-      },
-      {
-        "at": "2026-09-30T23:30:00Z",
-        "text": "Cleveland ruled center Elgton Jenkins (concussion) out for Thursday night vs PIT, so Luke Wypler starts in the middle, and Tylan Wallace (knee) and guard Teven Jenkins (back) are out too. Quinshon Judkins (CLE) has 42 carries for 124 yards, 3.0 a carry, with no touchdown, and ran 11 routes to Raheim Sanders' 16 last week. Flex Judkins vs PIT; he is not an RB2 behind that line.",
-        "url": "https://www.clevelandbrowns.com/news/elgton-jenkins-out-for-week-4-against-the-steelers-injury-report",
-        "player": "Quinshon Judkins",
-        "action": "FLEX"
-      },
-      {
-        "at": "2026-09-30T22:20:00Z",
-        "player": "Keon Coleman",
-        "action": "SIT",
-        "text": "Keon Coleman (BUF) did not practice Wednesday with the ankle that had him questionable last week, when he played 48 percent of the snaps vs LAC and caught 1 of 2 for 37. DJ Moore drew a team-high 10 targets in that game. Joshua Palmer gets the snaps if Coleman sits. Sit Coleman vs NE either way.",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-30/keon-coleman-ankle-dnp-on-wednesday"
-      },
-      {
-        "at": "2026-09-30T22:20:00Z",
-        "player": "Ashton Jeanty",
-        "action": "START",
-        "slot": "RB1",
-        "text": "Ashton Jeanty (LV) is on Wednesday's report with the ankle he had taped at NO and practiced in full. He has 20 or more touches in every game and 16 targets, and Mike Washington Jr. has 15 carries for 102 behind him. Start Jeanty as an RB1 vs KC.",
-        "url": "https://www.raiders.com/news/las-vegas-raiders-kansas-city-chiefs-week-4-injury-report-2026-season-nfl"
       }
     ]
   },
@@ -487,6 +497,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2106514081901613368"
+    },
+    {
+      "id": "2026w04-notes-thread-12b8",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }
