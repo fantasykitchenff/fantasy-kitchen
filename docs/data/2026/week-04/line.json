@@ -6,9 +6,9 @@
   "dek": "Jeremiyah Love is RB11 after one game as the lead, Omarion Hampton is a sit at RB27 on his usage, and Braelon Allen is an RB2 with Breece Hall out.",
   "format": "PPR",
   "publishedAt": "2026-10-01T12:00:00Z",
-  "updatedAt": "2026-10-02T21:20:00Z",
+  "updatedAt": "2026-10-04T16:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Fri 5:20 PM ET: Jadarian Price is out, so pivot to Emanuel Wilson (RB31); Kenyon Sadiq is questionable after three limited practices and sits at TE14, still the lean if he is active.\n\nUpdated Fri 5:15 PM ET: The Menu order is refreshed after Friday's injury report. Braelon Allen moves up to RB20 with Breece Hall ruled out, Jordan Addison to WR25 with Justin Jefferson out, Jeremiyah Love to RB11, Josh Downs to WR15 and Tyler Warren to TE4; Drake Maye drops to QB18 and Omarion Hampton to RB27, both still sits; Nico Collins is WR13 and Kenyon Sadiq TE13, both questionable with the lean to play.\n\nUpdated Fri 5:00 PM ET: Jaylen Wright practiced in full and is listed first in Miami, so Ollie Gordon II is a firm sit at RB35; Nico Collins practiced Friday and is WR11 for me, borderline WR1/WR2; Kenyon Sadiq is questionable with Mason Taylor out and is TE12, a borderline start; Jadarian Price missed Thursday with a chest injury and stays a sit.\n\nUpdated Thu 4:50 PM ET: Thursday practice lines on the Collins, Addison, Sadiq, Godwin and Young cards, Charbonnet's practice window on the Price card, and Carolina's IR moves were Wednesday, not Tuesday; no lean changes.\n\nUpdated Thu 11:20 AM ET: Dallas announced the Joey Porter Jr. trade Thursday morning and he may debut vs HOU, so the Nico Collins coin flip carries it; the lean does not move. Thursday practice reports were not out at run time; no call changes.\n\nThursday is for the players you are agonizing over. Studs are not on the line. Every call below is the player's rank on this week's [Menu](menu.html?week=4) and the tier it falls in, PPR scoring, and the reader decides. Where the usage disagrees with a rank, the call says so.\n\nThursday night first: Steelers at Browns carries the lowest total of the week at 38.5, Rico Dowdle is out, and Cleveland's center is out. Then the twelve the week favors, the ten it does not, and six coin flips where a Friday practice report picks the side.",
+  "intro_md": "Updated Sun 12:30 PM ET: Kenyon Sadiq is active @CHI, so the lean to play him at TE14 stands.\n\nUpdated Fri 5:20 PM ET: Jadarian Price is out, so pivot to Emanuel Wilson (RB31); Kenyon Sadiq is questionable after three limited practices and sits at TE14, still the lean if he is active.\n\nUpdated Fri 5:15 PM ET: The Menu order is refreshed after Friday's injury report. Braelon Allen moves up to RB20 with Breece Hall ruled out, Jordan Addison to WR25 with Justin Jefferson out, Jeremiyah Love to RB11, Josh Downs to WR15 and Tyler Warren to TE4; Drake Maye drops to QB18 and Omarion Hampton to RB27, both still sits; Nico Collins is WR13 and Kenyon Sadiq TE13, both questionable with the lean to play.\n\nUpdated Fri 5:00 PM ET: Jaylen Wright practiced in full and is listed first in Miami, so Ollie Gordon II is a firm sit at RB35; Nico Collins practiced Friday and is WR11 for me, borderline WR1/WR2; Kenyon Sadiq is questionable with Mason Taylor out and is TE12, a borderline start; Jadarian Price missed Thursday with a chest injury and stays a sit.\n\nUpdated Thu 4:50 PM ET: Thursday practice lines on the Collins, Addison, Sadiq, Godwin and Young cards, Charbonnet's practice window on the Price card, and Carolina's IR moves were Wednesday, not Tuesday; no lean changes.\n\nThursday is for the players you are agonizing over. Studs are not on the line. Every call below is the player's rank on this week's [Menu](menu.html?week=4) and the tier it falls in, PPR scoring, and the reader decides. Where the usage disagrees with a rank, the call says so.\n\nThursday night first: Steelers at Browns carries the lowest total of the week at 38.5, Rico Dowdle is out, and Cleveland's center is out. Then the twelve the week favors, the ten it does not, and six coin flips where a Friday practice report picks the side.",
   "outro_md": "Prep Notes reconciles the ranks Friday after the final injury report. Sunday morning, Order Up carries the inactives and the pivots as each window's reports drop.",
   "data": {
     "tnf": [
@@ -303,12 +303,11 @@
         "team": "NYJ",
         "pos": "TE",
         "opp": "@CHI",
-        "why": "38 snaps (57.6 percent) at DET, a 58 percent route share, 8 of 37 targets and 7 for 105 with a touchdown. Mason Taylor and Adonai Mitchell are ruled out, so the route share should hold. Sadiq himself was limited Wednesday and Thursday with a back injury and is questionable.",
-        "verdict": "TE14 for me, a borderline start this week after three limited practices with the back; the lean is to play him over any tight end outside my top 12 if he is active.",
+        "why": "38 snaps (57.6 percent) at DET, a 58 percent route share, 8 of 37 targets and 7 for 105 with a touchdown. Mason Taylor and Adonai Mitchell are inactive, so the route share should hold, and Sadiq is active after a week of limited practices with the back.",
+        "verdict": "TE14 for me, a borderline start this week; the lean is to play him over any tight end outside my top 12.",
         "action": "START",
-        "flip_if": "he is inactive Sunday; then any streamer in my top 16 plays",
-        "slot": "TE1",
-        "watch": "Sunday's inactives"
+        "flip_if": "he leaves early with the back; then any streamer in my top 16 is the next call",
+        "slot": "TE1"
       },
       {
         "player": "Ollie Gordon II",

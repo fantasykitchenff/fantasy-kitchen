@@ -6,12 +6,27 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-04T16:25:00Z",
+  "updatedAt": "2026-10-04T16:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-04T16:30:00Z",
+        "player": "Zay Flowers",
+        "action": "START",
+        "slot": "WR1",
+        "text": "Zay Flowers (BAL) is active vs TEN after the questionable tag, and left tackle Ronnie Stanley (toe) is active too. Flowers caught 5 of 6 for 84 on 21 snaps in Week 3. WR9 for me this week.",
+        "url": "https://www.baltimorebeatdown.com/baltimore-ravens-game-information/85894/ravens-titans-inactives-ronnie-stanley-zay-flowers-to-play"
+      },
+      {
+        "at": "2026-10-04T16:30:00Z",
+        "player": "Kenyon Sadiq",
+        "action": "STREAM",
+        "text": "Kenyon Sadiq (NYJ) is active @CHI after a week of limited practices with the back, and Mason Taylor, Adonai Mitchell and Breece Hall are inactive. Sadiq ran 58 percent of the routes at DET with Taylor out. TE14 for me, a borderline start this week.",
+        "url": "https://thejetpress.com/jets-inactives-list-week-4-game-vs-bears-kenyon-sadiq-injury-status-revealed-01m43mfk37tp"
+      },
       {
         "at": "2026-10-04T16:25:00Z",
         "text": "Washington made Terry McLaurin (WAS) inactive in London vs IND with the hamstring he hurt in Friday's practice, along with Rachaad White. Stefon Diggs (WAS) is WR27 for me, a high-end WR3. Pivot to Diggs.",
@@ -433,21 +448,6 @@
         "slot": "RB1",
         "text": "Ashton Jeanty (LV) is on Wednesday's report with the ankle he had taped at NO and practiced in full. He has 20 or more touches in every game and 16 targets, and Mike Washington Jr. has 15 carries for 102 behind him. Start Jeanty as an RB1 vs KC.",
         "url": "https://www.raiders.com/news/las-vegas-raiders-kansas-city-chiefs-week-4-injury-report-2026-season-nfl"
-      },
-      {
-        "at": "2026-09-30T22:20:00Z",
-        "player": "Aaron Jones Sr.",
-        "action": "START",
-        "slot": "RB2",
-        "text": "Aaron Jones Sr. (MIN) was listed limited Wednesday as a rest day, not injury related, so the knee from Week 2 is off the report. He has 78 percent of the carries and a 24 percent target share since Jordan Mason went on IR, and MIA has allowed the most points to running backs. Start him as your RB2 vs MIA.",
-        "url": "https://www.vikings.com/news/dolphins-injury-report-week-4-2026-nfl-season"
-      },
-      {
-        "player": "Drake Maye",
-        "action": "SIT",
-        "text": "Drake Maye (NE) was added to the injury report Wednesday with the right shoulder and practiced in full; he says it has not affected his arm or his decisions. The line is the problem: 1 touchdown pass, 6 interceptions and 9 sacks in three games, under 13 fantasy points in each. Sit him at BUF.",
-        "at": "2026-09-30T22:20:00Z",
-        "url": "https://www.rotowire.com/football/headlines/drake-maye-news-on-injury-report-but-practices-fully-640021"
       }
     ]
   },

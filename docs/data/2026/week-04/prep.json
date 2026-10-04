@@ -6,9 +6,9 @@
   "dek": "Jadarian Price is out, so Emanuel Wilson takes the Seattle backfield with George Holani; Keenan Allen missed Friday's practice and is a true London decision.",
   "format": "PPR",
   "publishedAt": "2026-10-02T21:20:00Z",
-  "updatedAt": "2026-10-04T16:25:00Z",
+  "updatedAt": "2026-10-04T16:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Sun 12:25 PM ET: Terry McLaurin is inactive in London; pivot to Stefon Diggs. Ladd McConkey (foot) is expected to play at SEA, WR39 for me. Tyjae Spears (ankle) is active at BAL.\n\nUpdated Sat 6:25 PM ET: Carolina elevated Ja'Seem Reed Saturday, which points to Jalen Coker (quad) sitting vs DET; Darren Waller is TE18 for me, a streamer Sunday night.\n\nUpdated Sat 12:25 PM ET: Keenan Allen is ruled out for London; pivot to Wan'Dale Robinson. Terry McLaurin is still questionable, but Washington's beat reporting says he is likely to miss; plan on a 1 PM receiver and check the 8:00 AM ET inactives.\n\nUpdated Fri 5:50 PM ET: Zay Flowers (hamstring) is questionable after a limited Friday practice the Ravens listed as rest, following a full Thursday. He stays WR9 for me vs TEN; check Sunday's inactives at 11:30 AM ET.\n\nFriday's final reports are in. Eleven fantasy-relevant players are out, nobody is doubtful, and eight are questionable. The late surprise is in Seattle: Jadarian Price is out with the chest, so Emanuel Wilson moves up to RB31 in a split with George Holani. Nico Collins and DJ Moore have no designation and play. Rankings are for full PPR.\n\nThe true Sunday decisions are Keenan Allen and Terry McLaurin in London (inactives at 8:00 AM ET), Ladd McConkey and Mike Evans in the 4:25 PM window, and Jalen Coker on Sunday night. Have a 1 PM backup ready for anyone you play in London or late.",
+  "intro_md": "Updated Sun 12:25 PM ET: Terry McLaurin is inactive in London; pivot to Stefon Diggs. Ladd McConkey (foot) is expected to play at SEA, WR39 for me. Tyjae Spears (ankle) is active at BAL. Zay Flowers (WR9) and Kenyon Sadiq (TE14, a borderline start) are active.\n\nUpdated Sat 6:25 PM ET: Carolina elevated Ja'Seem Reed Saturday, which points to Jalen Coker (quad) sitting vs DET; Darren Waller is TE18 for me, a streamer Sunday night.\n\nUpdated Sat 12:25 PM ET: Keenan Allen is ruled out for London; pivot to Wan'Dale Robinson. Terry McLaurin is still questionable, but Washington's beat reporting says he is likely to miss; plan on a 1 PM receiver and check the 8:00 AM ET inactives.\n\nUpdated Fri 5:50 PM ET: Zay Flowers (hamstring) is questionable after a limited Friday practice the Ravens listed as rest, following a full Thursday. He stays WR9 for me vs TEN; check Sunday's inactives at 11:30 AM ET.\n\nFriday's final reports are in. Eleven fantasy-relevant players are out, nobody is doubtful, and eight are questionable. The late surprise is in Seattle: Jadarian Price is out with the chest, so Emanuel Wilson moves up to RB31 in a split with George Holani. Nico Collins and DJ Moore have no designation and play. Rankings are for full PPR.\n\nThe true Sunday decisions are Keenan Allen and Terry McLaurin in London (inactives at 8:00 AM ET), Ladd McConkey and Mike Evans in the 4:25 PM window, and Jalen Coker on Sunday night. Have a 1 PM backup ready for anyone you play in London or late.",
   "data": {
     "report": [
       {
@@ -198,10 +198,9 @@
           "LP"
         ],
         "read": "Full Thursday, then limited Friday with rest listed beside the hamstring. He played 21 snaps in Week 3 coming back and caught 5 of 6 for 84.",
-        "verdict": "WR9 for me vs TEN with the questionable tag; have a 1 PM receiver ready until the inactives.",
+        "verdict": "Active, with left tackle Ronnie Stanley (toe) active too. WR9 for me vs TEN.",
         "action": "START",
-        "slot": "WR1",
-        "watch": "Sunday's inactives at 11:30 AM ET"
+        "slot": "WR1"
       },
       {
         "player": "Jalen Coker",
@@ -263,9 +262,8 @@
           "LP"
         ],
         "read": "Limited all week from the landing on his Week 3 touchdown; 58 percent of the routes and 21.6 percent of the targets.",
-        "verdict": "TE14 for me, a borderline start this week if he is active.",
+        "verdict": "Active, with Mason Taylor and Adonai Mitchell inactive. TE14 for me, a borderline start this week.",
         "action": "START",
-        "watch": "Sunday's inactives at 11:30 AM ET",
         "slot": "TE1"
       },
       {
@@ -335,7 +333,6 @@
     ],
     "gtd": [
       "Keenan Allen",
-      "Terry McLaurin",
       "Ladd McConkey",
       "Jalen Coker"
     ]
