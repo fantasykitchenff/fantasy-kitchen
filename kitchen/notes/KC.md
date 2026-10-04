@@ -163,6 +163,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Kenneth Walker III: Walker did not practice Tuesday and was shut down with what was called a minor foot injury. [8-26 myguys episode]
 - 2026-09-27: Xavier Worthy: Seen limping off at MIA; Andy Reid said after the game there were no injuries to report. [pod 9-30, coach]
 - 2026-09-30: Josh Simmons: DNP Wednesday, bulging disc in the lower back per Reid; not expected to play at LV (ESPN, Reid).
+- 2026-10-04: Rashee Rice: hamstring in the first quarter @LV, pulled up after a 7-yard catch; questionable then doubtful to return. Week 5 is the bye (team, ABC7, NBC Sports).
 
 ## Other
 

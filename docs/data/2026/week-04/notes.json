@@ -6,12 +6,38 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-04T22:20:00Z",
+  "updatedAt": "2026-10-04T23:35:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-04T23:30:00Z",
+        "player": "Rashee Rice",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Andy Reid's Monday update on the hamstring; Kansas City is off in Week 5",
+        "text": "Rashee Rice (KC) hurt his hamstring in the first quarter @LV, pulling up after a 7-yard catch, and the Chiefs called him doubtful to return. Kansas City has its bye in Week 5, so he has two weeks before the next game. WR17 rest of season for me; monitor Andy Reid's Monday update.",
+        "url": "https://abc7news.com/post/chiefs-rule-rashee-rice-doubtful-return-injury/19908181/"
+      },
+      {
+        "at": "2026-10-04T23:30:00Z",
+        "player": "Ladd McConkey",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "text": "Ladd McConkey (LAC) played @SEA through the foot, aggravated it in the first half and was ruled out for the rest of the game with no catches on 2 targets. He did not practice Thursday this week. WR23 rest of season for me; monitor Wednesday's practice report.",
+        "url": "https://www.boltsfromtheblue.com/los-angeles-chargers-injuries/66013/ladd-mcconkey-exits-chargers-vs-seahawks-game-with-foot-injury"
+      },
+      {
+        "at": "2026-10-04T23:30:00Z",
+        "player": "Darren Waller",
+        "pos": "TE",
+        "action": "STREAM",
+        "text": "Jalen Coker (CAR) is inactive vs DET tonight with the quad, as the Saturday elevation of Ja'Seem Reed pointed to. Darren Waller, with a team-high 8 targets in Week 3 on a 51 percent snap share, is TE18 for me, a streamer tonight.",
+        "url": "https://www.panthers.com/news/week-4-inactives-vs-detroit-jalen-coker-out-this-week-sunday-night-football-lions"
+      },
       {
         "at": "2026-10-04T22:20:00Z",
         "player": "Lamar Jackson",
@@ -435,29 +461,6 @@
         "slot": "WR1",
         "url": "",
         "text": "Christian Watson (GB) was not on Wednesday's injury report and was not mentioned Thursday, so the hamstring listing after Week 3 did not carry into Week 4. He has 24 percent of the targets, 80 percent of the routes and a touchdown in every game, and Jayden Reed is on IR. WR10 for me this week at TB."
-      },
-      {
-        "at": "2026-10-01T20:50:00Z",
-        "player": "Zach Charbonnet",
-        "action": "STASH",
-        "faab": "3-5%",
-        "url": "",
-        "text": "Zach Charbonnet (SEA) is back at practice off reserve/PUP with the window open Thursday; the ACL was in the January playoff, Week 5 is the earliest he can play, and Seattle can activate him any time in 21 days. The backfield he returns to is a three-way rotation, Emanuel Wilson 24 snaps, George Holani 24 and Price 19 at WAS, with no back over 9 carries. Stash him, 3 to 5 percent of FAAB, where he is available."
-      },
-      {
-        "at": "2026-10-01T20:50:00Z",
-        "player": "Colston Loveland",
-        "action": "SIT",
-        "url": "menu.html?week=4",
-        "text": "Colston Loveland (CHI) has 9 targets, 5 catches and 34 yards in three games (0, 3 and 31 by week) on 71 percent of the routes, while slot receiver Kalif Raymond has 21 targets and a team-high 214 yards, and Chicago has still not named a quarterback for Sunday. The Menu has him TE15, a streamer at best. TE15 for me, a streamer by rank, and the lean is sit for any tight end with a target share above 15 percent."
-      },
-      {
-        "at": "2026-10-01T20:50:00Z",
-        "player": "Jaylen Waddle",
-        "action": "START",
-        "slot": "WR2",
-        "url": "",
-        "text": "Jaylen Waddle (DEN) wore a walking boot after the win at LAR as a precaution, then practiced in full Wednesday, and Sean Payton says he is fine. He ran 82 percent of the routes and drew 7 targets in that game, 2 catches for 10. WR20 for me this week, a WR2 at SF."
       }
     ]
   },
