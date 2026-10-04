@@ -6,12 +6,35 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-03T23:20:00Z",
+  "updatedAt": "2026-10-04T16:25:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-04T16:25:00Z",
+        "text": "Washington made Terry McLaurin (WAS) inactive in London vs IND with the hamstring he hurt in Friday's practice, along with Rachaad White. Stefon Diggs (WAS) is WR27 for me, a high-end WR3. Pivot to Diggs.",
+        "url": "https://sports.yahoo.com/articles/commanders-wr-terry-mclaurin-inactive-132625546.html",
+        "player": "Terry McLaurin",
+        "action": "PIVOT",
+        "to": "Stefon Diggs"
+      },
+      {
+        "at": "2026-10-04T16:25:00Z",
+        "text": "Ladd McConkey (LAC) is expected to play @SEA despite the questionable tag, per NFL Network's Ian Rapoport, after a limited Friday with the foot. He played 88 percent of the snaps in Week 3. WR39 for me, a low-end flex play to a dart throw. Monitor; LAC inactives at 2:55 PM ET.",
+        "url": "https://www.cbssports.com/fantasy/football/news/chargers-ladd-mcconkey-likely-to-play-sunday/",
+        "player": "Ladd McConkey",
+        "action": "MONITOR",
+        "watch": "LAC inactives at 2:55 PM ET"
+      },
+      {
+        "at": "2026-10-04T16:25:00Z",
+        "text": "Tyjae Spears (TEN) is active @BAL with the ankle, so the Titans keep the split. Tony Pollard (TEN) played 53 percent of the snaps with 80 percent of the early downs; RB29 for me, a high-end RB3 and a flex play.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-04/tyjae-spears-ankle-active-for-week-4-vs-ravens",
+        "player": "Tony Pollard",
+        "action": "FLEX"
+      },
       {
         "at": "2026-10-03T23:20:00Z",
         "text": "Carolina put Xavier Legette (CAR) on injured reserve Saturday with the knee he hurt in Week 2, so he misses at least four games and is not back before Nov 8 vs DEN. He has not played since Week 2 and is WR106 rest of season for me. Drop him for any add on the list.",
@@ -50,14 +73,6 @@
         "player": "Josh Downs",
         "action": "START",
         "slot": "WR2"
-      },
-      {
-        "at": "2026-10-03T16:25:00Z",
-        "text": "Terry McLaurin (WAS) is questionable with the hamstring, and Washington's beat reporting Saturday says he is now likely to miss London vs IND. WR40 for me only if active; Stefon Diggs is WR27, a high-end WR3. Monitor the 8:00 AM ET inactives.",
-        "url": "https://www.hogshaven.com/washington-commanders-injuries/445984/commanders-injury-update-terry-mclaurin-unlikely-to-play-vs-colts",
-        "player": "Terry McLaurin",
-        "action": "MONITOR",
-        "watch": "London inactives at 8:00 AM ET Sunday"
       },
       {
         "at": "2026-10-02T23:30:00Z",
@@ -433,22 +448,6 @@
         "text": "Drake Maye (NE) was added to the injury report Wednesday with the right shoulder and practiced in full; he says it has not affected his arm or his decisions. The line is the problem: 1 touchdown pass, 6 interceptions and 9 sacks in three games, under 13 fantasy points in each. Sit him at BUF.",
         "at": "2026-09-30T22:20:00Z",
         "url": "https://www.rotowire.com/football/headlines/drake-maye-news-on-injury-report-but-practices-fully-640021"
-      },
-      {
-        "player": "Jaylen Warren",
-        "action": "START",
-        "slot": "RB1",
-        "text": "Rico Dowdle (PIT) was ruled out Wednesday for Thursday night at CLE with the toe; he did not practice all week and his right foot was in a walking boot. Jaylen Warren played 90 percent of the snaps and had 20 touches the last time Dowdle sat, and Pittsburgh ran two tight ends on most snaps vs CIN, so the checkdowns run through him. Start Warren as an RB1.",
-        "at": "2026-09-30T22:20:00Z",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-30/steelers-rule-out-rico-dowdle-toe-for-week-4"
-      },
-      {
-        "at": "2026-09-30T22:20:00Z",
-        "text": "Ben Johnson said Wednesday the Bears have picked their starter vs NYJ and will not say whether it is Tyson Bagent (CHI) or Case Keenum; Bagent is cleared from the concussion and Caleb Williams (hamstring) sat out the walkthrough. Keenum threw for the win at PHI on Monday night. Neither is a fantasy start. Monitor; the Friday practice report and the Sunday inactives for who takes first-team reps.",
-        "url": "https://chicago.suntimes.com/bears/2026/09/30/bears-jets-quaterback-caleb-williams-case-keenum-tyson-bagent-ben-johnson-who-will-play-not-saying",
-        "player": "Tyson Bagent",
-        "action": "MONITOR",
-        "watch": "Friday practice report and Sunday inactives"
       }
     ]
   },

@@ -173,6 +173,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-25: Ladd McConkey: Cracked a rib in Week 1; practiced in full on 9/23 and was left off the final Week 3 injury report, then played 88% of the snaps at BUF. [pod 9-29, official]
 - 2026-09-30: Ladd McConkey: Limited Wednesday with a foot injury, a new listing after the rib (NBC Sports, CBS); Trey Lance (groin) and Derwin James (hamstring) also limited, seven Chargers did not practice.
 - 2026-10-02: Ladd McConkey: limited Wednesday, did not practice Thursday (foot), questionable for Week 4 at SEA. [pod 10-2, official]
+- 2026-10-04: Ladd McConkey (foot, questionable) expected to play at SEA per Ian Rapoport (CBS Sports).
 
 ## Other
 
