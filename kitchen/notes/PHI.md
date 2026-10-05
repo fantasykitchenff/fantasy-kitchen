@@ -180,6 +180,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Saquon Barkley hurt his right hamstring on a 6-yard run in the first quarter vs LAR, ruled out before halftime (2 carries, 8 yards); walked out normally after the 24-20 loss (Inquirer, NBC Sports Philadelphia).
 - 2026-10-04: Tank Bigsby 14 carries for 55 after Barkley left, needed help off late in the fourth quarter; Will Shipley 6 for 23 (game reports).
 - 2026-10-05: Saquon Barkley tests Monday on the right hamstring; not believed to be overly serious (Rapoport via CBS Sports, Yahoo).
+- 2026-10-05: Tank Bigsby: core muscle surgery for the abdominal injury aggravated late in Week 4 vs LAR; headed to IR, about six weeks (Philly Sports Reports, multiple outlets).
+- 2026-10-05: Saquon Barkley: hamstring tests Monday; Nick Sirianni says more answers probably Wednesday before London vs JAX; not believed overly serious (NFL Network). Will Shipley the only other RB on the active roster.
 
 ## Other
 

@@ -180,6 +180,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: D'Andre Swift: did not practice Thursday (knee), full practice Friday, no game designation. [pod 10-2, official]
 - 2026-10-02: Caleb Williams (hamstring) ruled out for Week 4 vs NYJ; left tackle Braxton Jones (knee) ruled out. [pod 10-2, official]
 - 2026-10-05: Kyle Monangai's thumb is being evaluated per Ben Johnson; Week 5 vs GB status open (CBS Sports).
+- 2026-10-05: Caleb Williams: Grade 2 hamstring strain from Sep 20, will not practice in Week 5, still week to week; Tyson Bagent starts @GB, Case Keenum the backup (Chicago Sun-Times).
+- 2026-10-05: Kyle Monangai: right thumb imaging showed nothing concerning; Ben Johnson calls it day to day and expects him to be fine for GB (CBS Sports).
 
 ## Other
 
