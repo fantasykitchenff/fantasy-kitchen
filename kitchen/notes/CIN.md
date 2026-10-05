@@ -75,6 +75,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: The Bengals did very little to address WR3 or tight end this offseason, leaving Chase Brown as the de facto third receiving option behind Ja'Marr Chase and Tee Higgins. [8-19 RBs drafting and fading]
 - 2026-08-24: Tee Higgins: The Bengals kept Higgins, so Burrow again has Chase and Higgins; the offensive line is expected to be improved. [8-24 QB Rankings]
 - 2026-09-23: Andrei Iosivas placed on IR (fractured thumb, Week 2). [pod 9-28, official]
+- 2026-10-04: Dohnte Meyers: 7 catches for 82 vs JAX after Ja'Marr Chase left with a concussion in the second quarter. [pod 10-5, deployment]
 
 ## Tight ends
 

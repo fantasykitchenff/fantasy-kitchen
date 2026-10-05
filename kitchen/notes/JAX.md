@@ -192,3 +192,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-06: B.J. Green II: Second-year DE B.J. Green had three sacks and two TFLs against backup linemen while filling in for Josh Hines-Allen; Zach Durfee gave the right tackles fits. [8-6 Jags camp report from]
 - 2026-08-06: Cam Little: Cam Little missed his first kick of camp, an extra point. [8-6 Jags camp report from]
 - 2026-08-15: Jacksonville faces a difficult early-season schedule in 2026. [8-15 Tips]
+- 2026-10-04: Defense: 21 straight games without allowing a 75-yard rusher; CIN ran for 23 yards total in the 22-17 JAX win. [pod 10-5, deployment]

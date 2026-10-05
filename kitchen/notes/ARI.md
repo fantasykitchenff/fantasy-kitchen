@@ -50,6 +50,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Carson Beck: Third-round rookie could get starts; he profiles as a low-upside game manager who would lean on Trey McBride and swing passes to Love, hurting Harrison and Wilson. Cardinals expected to draft a QB in 2027. [8-20 buying or selling rookie hype]
 - 2026-09-27: Jacoby Brissett started (38 of 52, 280, 2 TD); Kyler Murray plays for Minnesota in 2026. [pod 9-28, deployment]
 - 2026-09-27: Jacoby Brissett: 54 dropbacks @SF (52 attempts, 2 sacks) on 87 offensive snaps, the team's most since 2022; 38 of 52 for 280 and 2 TD. [pod 9-29, deployment]
+- 2026-10-04: Jacoby Brissett: 21 of 35 for 166, 2 TD and 3 INT in the 36-24 loss at NYG, the last a 98-yard pick-six on the final play; first two picks were tipped at the line. Mike LaFleur said no when asked about a benching; Brissett starts Week 5 vs DET. [pod 10-5, coach]
 
 ## Backfield
 
@@ -140,6 +141,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-15: Trey McBride: All 11 of McBride's 2025 TDs came in the red zone, seven from between the 11 and 20, tying 2018 Eric Ebron for the most since 2012; Arizona tied the Rams for the most red-zone dropbacks per game. [8-15 Tips]
 - 2026-08-21: Trey McBride: Broke the tight end receptions record in 2025, aided by several games of extra routes; he was also very good in 2024. [8-21 mayhem mock draft]
 - 2026-09-27: Trey McBride: 9 of 11 for 75 @SF on 79 snaps (91%); 34 targets, 26 catches, 211 yards and 2 TD through three games, the team lead in targets, with at least 8 catches and 10 targets in every game. [pod 9-29, deployment]
+- 2026-10-04: Trey McBride: 7 of 12 for 31 at NYG, his fourth straight game with 10 or more targets. [pod 10-5, deployment]
 
 ## Offensive line
 

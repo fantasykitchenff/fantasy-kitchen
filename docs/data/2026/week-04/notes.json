@@ -6,12 +6,60 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-05T16:40:00Z",
+  "updatedAt": "2026-10-05T19:10:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-05T19:10:00Z",
+        "text": "Carnell Tate (TEN) caught 9 for 145 @BAL on 12 targets, about 39 percent of Tennessee's targets, a week after 9 targets and a route on 92 percent of the dropbacks vs NYG. WR34 rest of season for me, and the price only goes up from here. Trade for him; offer a WR3.",
+        "player": "Carnell Tate",
+        "action": "TRADE_FOR",
+        "price": "a WR3"
+      },
+      {
+        "at": "2026-10-05T19:10:00Z",
+        "text": "Dohnte Meyers (CIN) caught 7 for 82 vs JAX after Ja'Marr Chase left with a concussion in the second quarter, and Tee Higgins' adductor usually costs two to three weeks. With Andrei Iosivas on IR, Meyers is the outside receiver who plays until they are back. Claim him, 8 to 15 percent of FAAB.",
+        "player": "Dohnte Meyers",
+        "action": "CLAIM",
+        "faab": "8-15%"
+      },
+      {
+        "at": "2026-10-05T19:10:00Z",
+        "text": "David Montgomery (HOU) ran 10 times for 24 yards on 56 percent of the snaps vs DAL, and Woody Marks has scored in two straight weeks. RB19 rest of season for me, with the role shrinking. Trade him away; ask for a WR3 with a full-time route share.",
+        "player": "David Montgomery",
+        "action": "TRADE_AWAY",
+        "price": "a WR3 with a full-time route share"
+      },
+      {
+        "at": "2026-10-05T19:10:00Z",
+        "text": "Tyler Huntley (BAL) is the backup behind Lamar Jackson, who has an MRI on the sprained left ankle Monday. A backup start would lift Baltimore's run share and cut the pass volume. In superflex, stash Huntley, 3 to 6 percent of FAAB; in one-QB leagues leave him on the wire.",
+        "player": "Tyler Huntley",
+        "action": "STASH",
+        "faab": "3-6%"
+      },
+      {
+        "at": "2026-10-05T19:10:00Z",
+        "text": "Michael Mayer (LV) has 10 targets working in two-tight-end sets, and Brock Bowers, Mayer and Ian Thomas combined for 16 catches, 200 yards and 2 touchdowns vs KC. Bowers has 16 catches in two games back, so Mayer stays the second tight end. TE36 rest of season for me. Add him in TE-premium leagues only, 0 to 2 percent of FAAB.",
+        "player": "Michael Mayer",
+        "action": "ADD",
+        "faab": "0-2%"
+      },
+      {
+        "at": "2026-10-05T19:10:00Z",
+        "text": "Nico Collins (HOU) caught 7 for 118 and two touchdowns on 69 percent of the snaps vs DAL in his first game back from the hamstring, and he is WR8 rest of season for me. Xavier Hutchinson (HOU) gives back the targets he picked up in Weeks 2 and 3 and is WR110 rest of season for me. Drop Hutchinson for any add on the list.",
+        "player": "Xavier Hutchinson",
+        "action": "DROP"
+      },
+      {
+        "at": "2026-10-05T19:10:00Z",
+        "text": "Marcus Mariota (WAS) re-sprained the right MCL and misses multiple weeks, so the Week 5 start goes to Jayden Daniels (WAS) if the left elbow is cleared, otherwise to rookie Athan Kaliakmanis. Daniels is QB18 rest of season for me. Monitor; Daniels' practice reps Wednesday to Friday before NYG.",
+        "player": "Jayden Daniels",
+        "action": "MONITOR",
+        "watch": "Daniels' practice reps Wednesday to Friday before NYG"
+      },
       {
         "at": "2026-10-05T16:40:00Z",
         "player": "Marcus Mariota",
@@ -299,20 +347,6 @@
         "at": "2026-10-02T21:20:00Z"
       },
       {
-        "player": "Justin Jefferson",
-        "action": "PIVOT",
-        "to": "Jordan Addison",
-        "text": "Minnesota ruled Justin Jefferson (MIN) out vs MIA Friday after he missed every practice with the ankle sprain; Kevin O'Connell still calls him day to day. Jordan Addison drew 9 of Kyler Murray's 29 throws at TB and is WR25 for me this week, a high-end WR3. Pivot to Addison.",
-        "at": "2026-10-02T21:00:00Z"
-      },
-      {
-        "player": "DeVonta Smith",
-        "action": "PIVOT",
-        "to": "Dontayvion Wicks",
-        "text": "Philadelphia ruled DeVonta Smith (PHI) out vs LAR after three missed practices with the hamstring, and league sources expect him to miss two to three games. Dontayvion Wicks ran 81 percent of the routes at CHI and is WR40 for me, a low-end flex play to a dart throw. Pivot to Wicks in deep leagues.",
-        "at": "2026-10-02T21:00:00Z"
-      },
-      {
         "player": "Dallas Goedert",
         "action": "PIVOT",
         "to": "Juwan Johnson",
@@ -426,44 +460,6 @@
         "watch": "his route share in Week 5",
         "text": "Roman Wilson (PIT) scored on 3 catches for 74 at CLE, but he played 30 percent of the snaps and ran 40 percent of the routes. WR104 rest of season for me; do not chase the touchdown. Monitor his route share in Week 5.",
         "at": "2026-10-02T21:00:00Z"
-      },
-      {
-        "at": "2026-10-02T16:15:00Z",
-        "player": "Marcus Mariota",
-        "action": "STREAM",
-        "url": "https://www.fantasypros.com/nfl/news/611823/jayden-daniels-elbow-out-week-4.php",
-        "text": "Dan Quinn ruled Jayden Daniels (WAS) out Friday for the London game vs IND; the dislocated left elbow gets a full week of practice before Washington decides on Week 5. Marcus Mariota makes his second straight start after every snap and 3 touchdowns vs SEA. Mariota is QB17 for me, a streamer, and Daniels managers pivot to him or any QB in my top 18."
-      },
-      {
-        "at": "2026-10-02T16:15:00Z",
-        "player": "Braelon Allen",
-        "action": "START",
-        "slot": "RB2",
-        "url": "https://www.yardbarker.com/nfl/articles/jets_rule_out_four_players_for_week_4_including_rb_breece_hall/s1_17039_44378499",
-        "text": "Aaron Glenn ruled Breece Hall (NYJ) out Friday with the quad, along with Adonai Mitchell (finger). Braelon Allen played every snap after Hall left at DET, and Isaiah Davis has no offensive snap this season. Allen is RB20 for me this week, an RB2 @CHI."
-      },
-      {
-        "at": "2026-10-01T22:15:00Z",
-        "player": "Alvin Kamara",
-        "action": "FLEX",
-        "url": "https://www.espn.com/nfl/story/_/id/50079185/saints-putting-rb-travis-etienne-hamstring-ir",
-        "text": "New Orleans put Travis Etienne Jr. (NO) on IR Thursday with the hamstring, so he is out at least four games and Week 8 is the earliest return. After Etienne left in Week 3, Alvin Kamara took 6 of the next 10 carries and 20 of 34 second-half snaps, with Kendre Miller next and CJ Donaldson on short yardage. Kamara is RB25 for me vs ATL, a high-end RB3, a high-end flex play."
-      },
-      {
-        "at": "2026-10-01T22:15:00Z",
-        "text": "Lamar Jackson (BAL) practiced in full Thursday after a limited Wednesday with the back, and Jesse Minter called it something small. Both centers are still out, so a rookie guard snaps to him. The Menu flag comes off; he stays QB2 for me vs TEN.",
-        "url": "https://www.baltimoreravens.com/news/lamar-jackson-injury-report-practicing-back-limited-ravens-titans",
-        "player": "Lamar Jackson",
-        "action": "START",
-        "slot": "QB1"
-      },
-      {
-        "at": "2026-10-01T22:15:00Z",
-        "player": "Mike Evans",
-        "action": "MONITOR",
-        "url": "https://www.49erswebzone.com/articles/203793-trent-williams-returns-49ers-practice/",
-        "text": "Mike Evans (SF) missed Thursday's practice too and worked on the side with the ribs; general manager John Lynch said he will make every attempt to play vs DEN. He left the ARI game in the second quarter after the hit and is not ranked on the Menu until he practices. Monitor; Friday's practice line and designation.",
-        "watch": "Friday's practice line and designation"
       }
     ]
   },

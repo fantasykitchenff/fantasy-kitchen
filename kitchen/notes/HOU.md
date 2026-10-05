@@ -21,6 +21,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: C.J. Stroud: His adjusted completion rate and PFF passing grade have declined in each of his first three seasons. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-20: C.J. Stroud: C.J. Stroud has shown signs of pressure affecting his play; the line is projected to improve from worst to roughly 25th. [8-20 Offensive Line Rankings]
 - 2026-09-27: C.J. Stroud: 16 of 27 for 167, 1 TD, 0 INT at IND; targets Hutchinson 6, Moreau 4, Schultz 3, Boutte 2. [pod 9-29, deployment]
+- 2026-10-04: C.J. Stroud: 347 passing yards vs DAL in the 34-30 loss; Houston is 0-4. [pod 10-5, deployment]
 
 ## Backfield
 
@@ -84,6 +85,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Jalen Noel: Best case is a slot-plus role; the Texans still like Xavier Hutchinson ahead of him for outside snaps. [8-26 rankings and news updates]
 - 2026-08-26: Kayshon Boutte: Expected to rotate with Xavier Hutchinson opposite Nico Collins; Boutte is the better receiver and deep threat, Hutchinson the better run blocker, and both have low career targets per route run. [8-26 rankings and news updates]
 - 2026-08-26: Nico Collins: With Higgins out and low-target-rate players around him, Collins is positioned for a huge target and air-yard share, though the Texans are expected to be a defense- and run-oriented team. [8-26 rankings and news updates]
+- 2026-10-04: Nico Collins: 7 for 118 and 2 TD on 69 percent of the snaps vs DAL in his return from the hamstring strain that cost Weeks 2 and 3. [pod 10-5, deployment]
 
 ## Tight ends
 

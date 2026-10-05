@@ -123,6 +123,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Michael Mayer: 61 snaps (87%) at NO, 29 routes (about 74%), 3 targets; the Raiders played 52 two-tight-end snaps, with Ian Thomas in on 9 of them. [pod 9-29, deployment]
 - 2026-09-27: Brock Bowers ran 35 routes on 92% of the dropbacks and drew 13 targets in his first game back. [pod 10-2, deployment]
 - 2026-10-05: Week 4 vs KC: Brock Bowers 6 for 86 and a TD on a team-high 11 targets; Michael Mayer 8 for 82 on 10 targets (NBC, RotoWire). Ashton Jeanty 15 for 58, 6 of 8 for 68.
+- 2026-10-04: Brock Bowers, Michael Mayer and Ian Thomas combined for 16 catches, 200 yards and 2 TD vs KC; Bowers has 16 catches for 202 and 2 TD in two games since returning from knee surgery. [pod 10-5, deployment]
 
 ## Offensive line
 

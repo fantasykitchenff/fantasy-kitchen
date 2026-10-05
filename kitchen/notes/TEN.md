@@ -109,6 +109,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Carnell Tate: Tate, the fourth overall pick, gives the Titans a size-speed X receiver; he had about a 20% target share but 30% of receiving yards in his final Ohio State season alongside Jeremiah Smith. [8-5 rookies to watch out for pt.2]
 - 2026-08-13: Nick Singleton: Rookie Singleton likely would have been drafted higher without a Senior Bowl foot injury; he has good size and speed and an 80th-percentile-plus college receiving profile. [8-13 Fantasy Draft Values And Injury Shifts]
 - 2026-08-26: Carnell Tate: At Ohio State Tate led the nation in passer rating when targeted, had 875 yards and 9 TDs (five of 40+ yards) despite missing three games, caught 12 of 14 contested targets and had no drops. [8-26 myguys episode]
+- 2026-10-04: Carnell Tate: 9 for 145 came on 12 targets, about 39 percent of the team's targets, at BAL. [pod 10-5, deployment]
 
 ## Transactions and contracts
 
