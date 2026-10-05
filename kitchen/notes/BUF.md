@@ -95,6 +95,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Dawson Knox 46 snaps (70%) to Dalton Kincaid 44 (67%). [pod 9-28, deployment]
 - 2026-09-27: Dalton Kincaid: 2 catches on 3 targets for 38 yards and a lost fumble vs LAC. Season: 17 targets, 14 catches, 263 yards, 1 touchdown (5 for 130 on 6 at HOU, 7 for 95 and a score on 8 vs DET). Jackson Hawes played 25 snaps (38%). [pod 9-29, deployment]
 - 2026-09-27: Dalton Kincaid: 2 catches for 38 on 3 targets with a lost fumble vs LAC. [pod 10-2, deployment]
+- 2026-10-05: Dalton Kincaid: Buffalo beat coverage after the NE loss put the onus on Joe Brady to get him more involved (Buffalo News). [pod 10-5, beat]
 
 ## Offensive line
 

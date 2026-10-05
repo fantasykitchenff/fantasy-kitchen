@@ -88,6 +88,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jeremiyah Love: 21 carries for 90 yards, a career high; the team recap does not credit him a receiving touchdown. [pod 9-28, deployment]
 - 2026-09-27: Jeremiyah Love: Out-snapped Tyler Allgeier for the first time, 56 (64%) to 31 (36%), after Allgeier led 60% to 43% in Weeks 1-2; 21 carries for 90, 5 of 5 targets for 19 and a 1-yard receiving touchdown in the fourth quarter (78% of the rushes, 22 routes); Allgeier 2 carries for -1 and 4 catches for 10, with 3 of the 5 goal-line snaps. [pod 9-29, deployment]
 - 2026-09-27: Jeremiyah Love had 78% of the rushes and 63% of the snaps vs SF (21 carries, 22 routes, 5 targets); Tyler Allgeier had 5 carries on 31 snaps. [pod 10-1, deployment]
+- 2026-10-04: Jeremiyah Love said after the NYG loss that the coaches are managing his workload and that he told them Tyler Allgeier and Bam Knight should play; he called it the longest year of his life (NBC Sports, Yahoo). [pod 10-5, coach]
 
 ## Receivers
 
@@ -182,6 +183,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-30: James Conner: opened the season on injured reserve (ankle), out at least the first four games, eligible to return in Week 5 (NBC Sports). [pod 9-29, official]
 - 2026-09-23: Will Johnson (CB): Neck injury in the fourth quarter vs SEA on Sep 20, placed on IR Sep 23; Mike LaFleur said he could miss the whole season. Denzel Burke starts in his place. [pod 10-1, official]
 - 2026-10-01: Jeremiyah Love was slow to get up after a rep in Thursday's open practice and returned to work; he is not on the injury report. [pod 10-2, beat]
+- 2026-10-05: Jeremiyah Love: Mike LaFleur said Love tweaked his other ankle Sunday at NYG (NBC Sports). [pod 10-5, coach]
 
 ## Other
 

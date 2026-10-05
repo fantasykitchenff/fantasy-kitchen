@@ -156,6 +156,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Tyler Biadasz: Biadasz is out indefinitely with a knee injury and could miss at least half the season; rookie second-round C Jake Slaughter is the fallback at center. [8-20 Offensive Line Rankings]
 - 2026-08-26: The Chargers' new free-agent center was injured in camp, but tackles Joe Alt and Rashawn Slater are both back after neither played in 2025. [8-26 myguys episode]
 - 2026-09-24: Awosika / Pipkins / Strange / Slater: Before Week 3: LG Kayode Awosika in a walking boot and expected to miss time, Trey Pipkins not practicing since Week 1, RG Cole Strange limited, LT Rashawn Slater limited and on the report for the first time. The 9/29 depth chart lists Slater, Awosika, rookie Jake Slaughter, Strange and Joe Alt. [pod 9-30, beat]
+- 2026-10-05: Rashawn Slater: believed to have a high-ankle sprain from Week 4 at SEA and will miss time; Joe Alt also left that game with a neck injury (NBC Sports, National Football Post). [pod 10-5, beat]
 
 ## Transactions and contracts
 
@@ -186,3 +187,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Defense has allowed the ninth-most fantasy points to tight ends through Week 3 (reports).
 - 2026-09-27: Team: 0-3 with 14, 14 and 16 points (44). At BUF the defense forced five takeaways and the offense scored one touchdown on four red-zone trips. Schedule: at SEA, DEN, at KC, bye Week 7, at LAR, HOU, at BAL. [pod 9-29, official]
 - 2026-10-02: Ladd McConkey (foot) limited Friday after a Thursday DNP; questionable at SEA, did not run routes in the open portion Friday (NBC Sports, DraftSharks).
+- 2026-10-04: Week 4 at SEA: Seattle 30, LAC 23, the Chargers' fourth straight loss. [pod 10-5, deployment]

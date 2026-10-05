@@ -114,6 +114,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Transactions and contracts
 
 - 2026-08-05: Rashid Shaheed: Signed a three-year, $51M extension after being acquired midseason in 2025; no Seahawks pass catcher other than Smith-Njigba is being drafted in the first 12 rounds despite the team being favored in 14 of 17 games. [8-5 fantasy takeaways from all 32 teams]
+- 2026-10-05: Joe Mixon: Seattle is signing him after a workout, with Jadarian Price on IR (chest) and Zach Charbonnet's practice window open off PUP (ESPN, Bleacher Report). [pod 10-5, beat]
 
 ## Injuries and status
 

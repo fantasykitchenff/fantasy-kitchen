@@ -50,6 +50,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Fernando Mendoza: No. 1 overall pick took snaps under center in preseason, which he did not do in college, and showed layered throws and mobility. Expectation is Kirk Cousins starts, with Mendoza taking over around Oct/Nov. [8-20 buying or selling rookie hype]
 - 2026-08-20: Kirk Cousins: Looked sharp in the preseason opener and knows Clint Kubiak's offense well; he is expected to open the season as the starter. [8-20 buying or selling rookie hype]
 - 2026-09-27: Kirk Cousins 22 of 33, 248, 3 TD, 0 INT; three touchdown passes in each of three games. [pod 9-29, deployment]
+- 2026-10-04: Kirk Cousins: 365 passing yards, 2 TD and 1 INT in the 30-27 loss to KC (NBC Sports, RotoWire). [pod 10-5, deployment]
 
 ## Backfield
 

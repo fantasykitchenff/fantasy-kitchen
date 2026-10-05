@@ -88,6 +88,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-20: Romeo Doubs: 3 catches for 96 yards vs PIT in Week 2, including a 63-yarder; with Week 3 he has 6 for 145 in the two games without A.J. Brown. [pod 9-30, deployment]
 - 2026-09-27: Mack Hollins: Leads the Patriots with 16 targets through three games (5, 2, 9); DeMario Douglas has 14 and Romeo Doubs 11 (3, 4, 4), with no game above 4 targets for Doubs. [pod 10-1, deployment]
 - 2026-09-27: Mack Hollins: 77% of the snaps, 68% of the routes and 9 targets (30%) at JAX; Romeo Doubs 4 targets; Kyle Williams 42% of the routes. [pod 10-1, deployment]
+- 2026-10-04: Romeo Doubs: 2 TD in the 29-26 win at BUF, with A.J. Brown on IR (high-ankle, earliest Week 6) and Mack Hollins out after the third quarter with the calf (NBC Sports). [pod 10-5, deployment]
 
 ## Tight ends
 

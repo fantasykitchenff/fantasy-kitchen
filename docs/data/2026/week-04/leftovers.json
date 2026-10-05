@@ -6,9 +6,9 @@
   "dek": "Kansas City lost Rashee Rice and Tyquan Thornton @LV, Kyle Monangai ran away with Chicago's backfield, and Emanuel Wilson is Seattle's back for now.",
   "format": "PPR",
   "publishedAt": "2026-10-05T11:40:00Z",
-  "updatedAt": "2026-10-05T15:25:00Z",
+  "updatedAt": "2026-10-05T23:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Mon 11:25 AM ET: Lamar Jackson is believed to be week to week pending Monday's MRI, and he is still QB2 rest of season for me. Rashee Rice could miss several weeks, Tyquan Thornton is out indefinitely, and Tee Higgins has a groin strain; monitor all three. Saquon Barkley's hamstring is not believed to be serious.\n\nWhat's still good from Week 4, PPR scoring, every game through Sunday night. Atlanta at New Orleans plays Monday night and goes into Tuesday's Market Run. Four contenders lost a star, two backfields changed hands, and Carolina found a WR1. Ranks are rest of season for me; the Week 5 Menu comes Wednesday.",
+  "intro_md": "Updated Mon 7:30 PM ET: Tank Bigsby needs core muscle surgery and goes to IR, so drop him and claim Will Shipley, 3 to 6 percent of FAAB. Seattle is signing Joe Mixon with Zach Charbonnet's window open, so Emanuel Wilson is a claim at 8 to 12 percent, down from 15 to 25.\n\nUpdated Mon 11:25 AM ET: Lamar Jackson is believed to be week to week pending Monday's MRI, and he is still QB2 rest of season for me. Rashee Rice could miss several weeks, Tyquan Thornton is out indefinitely, and Tee Higgins has a groin strain; monitor all three. Saquon Barkley's hamstring is not believed to be serious.\n\nWhat's still good from Week 4, PPR scoring, every game through Sunday night. Atlanta at New Orleans plays Monday night and goes into Tuesday's Market Run. Four contenders lost a star, two backfields changed hands, and Carolina found a WR1. Ranks are rest of season for me; the Week 5 Menu comes Wednesday.",
   "outro_md": "The misses, owned. Drake Maye was QB18 and a sit for me at BUF; he threw for 269 and 3 TDs and ran for 54. Ollie Gordon II was a firm sit at RB35; he ran for 100 and a TD. Josh Downs was WR15 for me with two Colts receivers out; he caught 3 of 4 for 16. Khalil Shakir was WR46 and a sit; he caught 7 of 8 for 82. The lesson: a rushing quarterback's floor and a thin receiver room's target share beat the box score I expected, and the Menu weighs both from Wednesday on.",
   "data": {
     "takeaways": [
@@ -51,18 +51,18 @@
       },
       {
         "headline": "Emanuel Wilson is Seattle's back for now",
-        "text": "Emanuel Wilson (SEA) ran 21 times for 81 and a TD vs LAC and caught 3 for 39 and a second TD on a screen, with Jadarian Price on IR and Zach Charbonnet on PUP. Charbonnet's practice window opened Oct 1, so this lasts until he is activated. Claim Wilson, 15 to 25 percent of FAAB.",
+        "text": "Emanuel Wilson (SEA) ran 21 times for 81 and a TD vs LAC and caught 3 for 39 and a second TD on a screen, with Jadarian Price on IR and Zach Charbonnet on PUP. Charbonnet's practice window opened Oct 1, and Seattle is signing Joe Mixon after a Monday workout, so this lead lasts a week or two. Claim Wilson, 8 to 12 percent of FAAB.",
         "actions": [
           {
             "player": "Emanuel Wilson",
             "action": "CLAIM",
-            "faab": "15-25%"
+            "faab": "8-12%"
           }
         ]
       },
       {
         "headline": "Philadelphia's backfield is down to whoever is standing",
-        "text": "Saquon Barkley (PHI) played 4 snaps before the right hamstring took him out vs LAR. Tank Bigsby (PHI) played 29 snaps and ran 14 times for 55, then needed help off in the fourth quarter. Will Shipley (PHI) played 28 snaps, ran 6 times for 23 and finished as the only healthy back. Philadelphia plays JAX in London in Week 5. Monday's tests were not believed to show anything overly serious. Barkley is RB8 rest of season for me; monitor Wednesday's practice report. Claim Bigsby, 5 to 10 percent of FAAB. Stash Shipley, 1 to 3 percent.",
+        "text": "Saquon Barkley (PHI) played 4 snaps before the right hamstring took him out vs LAR. Tank Bigsby (PHI) played 29 snaps and ran 14 times for 55, then needed help off in the fourth quarter. Will Shipley (PHI) played 28 snaps, ran 6 times for 23 and finished as the only healthy back. Philadelphia plays JAX in London in Week 5. Monday's tests were not believed to show anything overly serious. Bigsby needs core muscle surgery and goes to IR for about six weeks, so Shipley is the only other back on the active roster. Barkley is RB8 rest of season for me; monitor Wednesday's practice report. Drop Bigsby for any add on the list. Claim Shipley, 3 to 6 percent of FAAB.",
         "actions": [
           {
             "player": "Saquon Barkley",
@@ -71,13 +71,12 @@
           },
           {
             "player": "Tank Bigsby",
-            "action": "CLAIM",
-            "faab": "5-10%"
+            "action": "DROP"
           },
           {
             "player": "Will Shipley",
-            "action": "STASH",
-            "faab": "1-3%"
+            "action": "CLAIM",
+            "faab": "3-6%"
           }
         ]
       },

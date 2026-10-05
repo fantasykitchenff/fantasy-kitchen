@@ -1,17 +1,8 @@
 {
   "season": 2026,
   "currentWeek": 4,
-  "updatedAt": "2026-10-05T23:14:18Z",
+  "updatedAt": "2026-10-05T23:22:30Z",
   "pieces": [
-    {
-      "series": "notes",
-      "week": 4,
-      "path": "2026/week-04/notes.json",
-      "title": "Kitchen notes, Week 4",
-      "dek": "What moved today.",
-      "publishedAt": "2026-09-29T16:30:00Z",
-      "updatedAt": "2026-10-05T23:20:00Z"
-    },
     {
       "series": "leftovers",
       "week": 4,
@@ -19,7 +10,16 @@
       "title": "Leftovers, Week 4",
       "dek": "Kansas City lost Rashee Rice and Tyquan Thornton @LV, Kyle Monangai ran away with Chicago's backfield, and Emanuel Wilson is Seattle's back for now.",
       "publishedAt": "2026-10-05T11:40:00Z",
-      "updatedAt": "2026-10-05T15:25:00Z"
+      "updatedAt": "2026-10-05T23:30:00Z"
+    },
+    {
+      "series": "notes",
+      "week": 4,
+      "path": "2026/week-04/notes.json",
+      "title": "Kitchen notes, Week 4",
+      "dek": "What moved today.",
+      "publishedAt": "2026-09-29T16:30:00Z",
+      "updatedAt": "2026-10-05T23:30:00Z"
     },
     {
       "series": "menu",

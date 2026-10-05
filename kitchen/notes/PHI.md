@@ -44,6 +44,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jalen Hurts: Hurts rushed for 421 yards and 8 TDs in 2025 after four straight seasons of 600+ rushing yards and 10+ rushing TDs; he was QB8 in 2025 after QB6, QB2, QB1 and QB7 finishes. [8-24 adp adjustments]
 - 2026-09-28: Jalen Hurts: 16 of 25 for 153 yards and 1 interception @CHI; Andy Dalton threw the other interception on his only attempt (corrected 9/30). [pod 9-29, deployment]
 - 2026-09-28: Jalen Hurts: 16 of 25 for 153 yards, no TD and 1 interception at CHI, plus 4 rushes for 25 and a 1-yard sneak TD; Andy Dalton threw the other interception on his one attempt. Through three games Hurts has 16 rushes for 87 yards (46, 16, 25) and one rushing TD. [pod 9-29, deployment]
+- 2026-10-04: Jalen Hurts was held under 100 passing yards in the 24-20 loss to LAR without DeVonta Smith (Yahoo, CBS Sports). [pod 10-5, deployment]
 
 ## Backfield
 

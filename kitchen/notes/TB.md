@@ -10,6 +10,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Zac Robinson: Tampa Bay's run game shifts from Liam Coen's scheme to new coordinator Zac Robinson's, which relied heavily on tight-end blocking with Bijan Robinson in Atlanta. [8-13 mock draft 3.0]
 - 2026-08-18: Zac Robinson is the Buccaneers' new offensive coordinator; in Atlanta his 2024 takeover moved Drake London from 85% and 82% on-the-line snaps under Arthur Smith to 47% and 47% in 2024-25, his two best seasons. [8-18 WR targets and avoids]
 - 2026-08-20: Zac Robinson is Tampa Bay's fourth new play caller in four years and brings a different run scheme; the line may need time to gel with it for Bucky Irving and Kenneth Gainwell. [8-20 Offensive Line Rankings]
+- 2026-10-01: The Bucs' offensive coordinator said he wants to get Sean Tucker more involved (NBC Sports). [pod 10-5, coach]
 
 ## Quarterback
 
@@ -163,3 +164,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-09-27: Rookies Rueben Bain Jr. and Josiah Trotter did not play vs MIN; Tampa's bye is Week 10. [pod 9-29, official]
 - 2026-10-01: Week 4 vs GB: a 43 percent chance of rain in the Thursday forecasts (weather pages).
+- 2026-10-04: Week 4 vs GB: Green Bay 17, Tampa Bay 14 in rookie Jalon Daniels' first start. [pod 10-5, deployment]
