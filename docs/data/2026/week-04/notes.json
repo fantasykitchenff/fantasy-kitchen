@@ -6,12 +6,21 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-05T22:16:00Z",
+  "updatedAt": "2026-10-05T23:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-05T23:20:00Z",
+        "player": "Juwan Johnson",
+        "pos": "TE",
+        "action": "START",
+        "slot": "TE1",
+        "text": "Noah Fant (NO) is inactive vs ATL tonight with the abdominal injury that limited him in practice all week. Juwan Johnson (NO) caught 8 for 48 and two scores vs LV and has the tight end snaps to himself, and he is TE8 for me tonight.",
+        "url": "https://www.nfl.com/news/week-4-monday-night-inactives-atlanta-falcons-at-new-orleans-saints"
+      },
       {
         "player": "Tank Bigsby",
         "pos": "RB",
@@ -140,15 +149,6 @@
         "action": "DROP",
         "text": "Marcus Mariota (WAS) sprained the right MCL again in the first quarter in London, the knee he hurt in August, and is expected to miss multiple weeks. Rookie Athan Kaliakmanis finished 15 of 33 for 186. QB34 rest of season for me. Drop Mariota in one-QB leagues.",
         "url": "https://www.hogshaven.com/washington-commanders-news/446176/commanders-injury-update-marcus-mariota-knee-colts-jayden-daniels"
-      },
-      {
-        "at": "2026-10-05T16:40:00Z",
-        "player": "Juwan Johnson",
-        "pos": "TE",
-        "action": "START",
-        "slot": "TE1",
-        "text": "Noah Fant (NO) is questionable for Monday night vs ATL. Juwan Johnson (NO) caught 8 for 48 and two scores vs LV, and he is TE8 for me tonight.",
-        "url": "https://www.thefalcoholic.com/atlanta-falcons-injuries/96923/falcons-vs-saints-injury-report-divine-deablo-samson-ebukam-questionable-for-monday-night"
       },
       {
         "at": "2026-10-05T16:30:00Z",

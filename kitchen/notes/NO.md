@@ -175,6 +175,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Travis Etienne Jr. went on IR (hamstring); Kellen Moore said at least four weeks, no surgery. [pod 10-2, official]
 - 2026-10-01: Kellen Moore does not expect Jordyn Tyson to begin practicing next week. [pod 10-2, coach]
 - 2026-10-05: Noah Fant questionable for Monday night vs ATL; LBs Kaden Elliss, Carl Granderson and Anfernee Jennings ruled out (The Falcoholic, Bleacher Nation).
+- 2026-10-05: Noah Fant (abdominal) inactive Monday night vs ATL after limited practices all week (NFL.com inactives, NBC Sports).
 
 ## Other
 
