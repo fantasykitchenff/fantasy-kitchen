@@ -76,6 +76,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Ryan Flournoy: Flournoy has a path to be third on the Cowboys in targets ahead of Jake Ferguson, with large contingent upside if George Pickens or CeeDee Lamb is hurt. [8-23 highstakes draft]
 - 2026-09-27: Ryan Flournoy: Third on the team with 18 targets through three games (9 catches for 67), ahead of Javonte Williams 12 and Jake Ferguson 11; 8 targets (20%) and 2 for 22 vs BAL on 49 of 74 snaps (66%); snap share 71%, 76%, 66% by week. [pod 9-29, deployment]
 - 2026-09-27: George Pickens: 11 targets, 7 for 82 vs BAL on 85% of the snaps; CeeDee Lamb 8 targets, 7 for 112 on 82%. Through three games each has 25 targets: Lamb 20-309-3, Pickens 16-150-0. Prescott 25 of 40 for 276 and a TD; 105 attempts in three games. [pod 9-29, deployment]
+- 2026-10-05: Week 4 @HOU: CeeDee Lamb 17 for 189 and the winning TD; Javonte Williams 19 for 62 and 3 TD, 5 of 5 for 21 (CBS, NBC).
 
 ## Tight ends
 

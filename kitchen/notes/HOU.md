@@ -53,6 +53,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: David Montgomery: 44 of the backs' 73 touches through three games (60%). [pod 9-30, deployment]
 - 2026-09-30: David Montgomery has 37 carries for 103 (2.8 a carry) and Woody Marks 22 for 65 (3.0) with a TD through Week 3; a national report says Houston plans more work for Marks. [pod 10-2, beat]
 - 2026-09-27: Woody Marks played 37% of the snaps (20) vs IND. [pod 10-1, deployment]
+- 2026-10-05: Week 4 vs DAL: David Montgomery 32 snaps, 10 for 24; Woody Marks 20 snaps, 6 for 22 and a TD, his second straight week with a score (SI, CBS, NBC).
 
 ## Receivers
 

@@ -176,6 +176,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Rachaad White (shoulder) did not practice all week and is out for Week 4; Terry McLaurin (hamstring) was a new listing Friday, limited, and is questionable; Chig Okonkwo (hamstring) was limited all week and has no designation after missing Weeks 2 and 3; guard Sam Cosmi is out. [pod 10-2, official]
 - 2026-10-03: Terry McLaurin: questionable (hamstring) for Week 4 vs IND in London; beat writer Ben Standig reports he is now likely to miss. RB Craig Reynolds elevated from the practice squad.
 - 2026-10-04: Terry McLaurin (hamstring, hurt in Friday practice) inactive for Week 4 vs IND in London; Rachaad White, Luke McCaffrey and Sam Cosmi also inactive (Yahoo, Hogs Haven).
+- 2026-10-05: Week 4 vs IND (London): Marcus Mariota sprained his right MCL in the first quarter, MRI Monday, multiple weeks expected; third-string rookie Athan Kaliakmanis finished 15 of 33 for 186 (Yahoo, CBS).
 
 ## Other
 

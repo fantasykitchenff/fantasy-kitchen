@@ -114,6 +114,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Jake Tonges: Could start Week 1 if Kittle is held out; when Kittle returns the 49ers could use a lot of two-tight-end sets with both. [8-26 rankings and news updates]
 - 2026-09-27: George Kittle 6 for 82 and 2 touchdowns, both in the final nine minutes. [pod 9-28, deployment]
 - 2026-09-27: George Kittle: 46 of 54 snaps (85%) and 25 routes on 27 dropbacks vs ARI, 6 of 7 for 82 and 2 TD; his route rate was 46% in Week 1 and 56% in Week 2 (4 of 4 for 80 and a TD vs MIA). [pod 9-29, deployment]
+- 2026-10-05: Week 4 vs DEN: George Kittle 4 for 70 and a 56-yard TD, a franchise tight end TD record; Mike Evans 5 of 8 for 76 back from the ribs (49ers.com).
 
 ## Offensive line
 

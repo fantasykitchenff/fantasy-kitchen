@@ -51,6 +51,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Braelon Allen: Played all 17 offensive snaps after Breece Hall left Week 3; 19 carries for 61 yards on the season. Isaiah Davis has not played an offensive snap through three games (reports).
 - 2026-09-27: Braelon Allen took every snap after Hall left (17 per reports), 4 for 14 and 3 catches for 3 in the game; season 19 for 61 and a touchdown, 4 catches for 11 on 5 targets; Isaiah Davis has zero offensive snaps this season (16 special-teams snaps in Week 3). [pod 9-29, deployment]
 - 2026-09-27: Breece Hall: 13 carries for 32 and 3 catches for 23 at DET before the fourth-quarter exit; the Jets have rushed for 152, 67 and 58 yards in their three games. [pod 9-29, deployment]
+- 2026-10-05: Week 4 @CHI: Braelon Allen took all 14 running back carries for 59 with Breece Hall out; NYJ ran 32 plays to CHI's 89 (Yahoo, Jetsxfactor).
 
 ## Receivers
 

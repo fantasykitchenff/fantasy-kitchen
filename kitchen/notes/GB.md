@@ -65,6 +65,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: MarShawn Lloyd: Lloyd is the backup positioned to benefit if Jacobs is suspended; he has been healthy in camp after an injury-ruined start to his career. [8-26 myguys episode]
 - 2026-09-24: Snaps vs ATL: Chris Brooks 26, Kaleb Johnson 22, MarShawn Lloyd 15; Johnson and Lloyd 4 carries each (Johnson 4 for 6 and 1 catch for 10). [pod 9-29, deployment]
 - 2026-09-25: Packers run game: 146 rushing yards in three games (48.7 a game, last in the league), 3.0 a carry, no rushing TD, 17 yards in Week 3; last in rush EPA. [pod 9-30, deployment]
+- 2026-10-05: Week 4 @TB: Chris Brooks left with an ankle injury (4 for 30); Kaleb Johnson 8 for 42 with a goal-line fumble; MarShawn Lloyd 7 for 13, 5 catches for 36 and a fumble; LaFleur said fumblers will sit (RotoBaller, Athlon).
 
 ## Receivers
 

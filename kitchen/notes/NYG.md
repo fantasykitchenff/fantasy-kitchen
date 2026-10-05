@@ -105,6 +105,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Darnell Mooney: Reportedly in trade rumors after rookie Malachi Fields moved ahead of him on the depth chart. [8-20 buying or selling rookie hype]
 - 2026-08-20: Malachi Fields: Rookie has emerged as the likely starting outside receiver next to Malik Nabers over Darius Slayton and Darnell Mooney; the Giants traded up for him and John Harbaugh called him after the pick. [8-20 buying or selling rookie hype]
 - 2026-09-27: Malik Nabers: shoulder in Week 2, limited then full, cleared for Week 3; Week 3 average depth of target 1.0 (20.5 the week before), 5 of 6 for 26. [pod 9-29, deployment]
+- 2026-10-05: Week 4 vs ARI: Malik Nabers 6 of 7 for 112 and a TD through a right shoulder hit, said afterward the shoulder feels good; Isaiah Likely 7 of 12 for 66; Cam Skattebo 18 for 58 (NBC, Yahoo).
 
 ## Tight ends
 

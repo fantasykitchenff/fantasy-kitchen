@@ -72,6 +72,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Kenneth Walker III: In 2025 Walker had 10 runs of 20+ yards (the Chiefs had one as a team), 15% of his carries gained 10+ yards (3rd among RBs) and he led RBs in forced missed tackle rate. [8-26 myguys episode]
 - 2026-08-26: Kenneth Walker III: In Seattle's three 2025 playoff games Walker had 74 touches for 417 scrimmage yards, nearly 25 touches per game. [8-26 myguys episode]
 - 2026-09-27: Emmett Johnson 6 for 17 and no targets; Kenneth Walker 18-70-1 plus a receiving touchdown. [pod 9-28, deployment]
+- 2026-10-05: Week 4 @LV: Kenneth Walker III 22 carries for 177 and 2 TD, a 76-yard run, 45 of 60 snaps (75%), 13 routes (DraftSharks, NBC).
 
 ## Receivers
 
@@ -164,6 +165,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Xavier Worthy: Seen limping off at MIA; Andy Reid said after the game there were no injuries to report. [pod 9-30, coach]
 - 2026-09-30: Josh Simmons: DNP Wednesday, bulging disc in the lower back per Reid; not expected to play at LV (ESPN, Reid).
 - 2026-10-04: Rashee Rice: hamstring in the first quarter @LV, pulled up after a 7-yard catch; questionable then doubtful to return. Week 5 is the bye (team, ABC7, NBC Sports).
+- 2026-10-05: Week 4 @LV: Tyquan Thornton dislocated his left ankle on a 55-yard catch in the fourth quarter (5 for 111, 2 TD on 8 targets), carted off; Andy Reid said it does not look good, full evaluation and a second opinion Monday (Rapoport, Fox4KC). Rashee Rice left in the first quarter with a hamstring (box score reports).
 
 ## Other
 

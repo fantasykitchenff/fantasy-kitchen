@@ -78,6 +78,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Saquon Barkley: 15 carries for 82 yards @CHI in Week 3, 73 of them on 11 first-half carries; 1 catch on 2 targets for minus 2 yards (CBS).
 - 2026-09-29: Saquon Barkley: 0 TDs through three games; 15, 4 and 15 carries; stinger limited him to 12 snaps in Week 2 (reports).
 - 2026-09-28: Saquon Barkley: After a 14-yard run to the 1 in the second quarter he was stopped for minus 1 and no gain on the next two snaps with Andy Dalton at quarterback, and Dalton was intercepted in the end zone on third down. Barkley finished 15 for 82 on 36 of 50 snaps (72%); snap share by week 71%, 16%, 72%. [pod 9-29, deployment]
+- 2026-10-05: Week 4 vs LAR snaps (61): Tank Bigsby 29 (48%), Will Shipley 28 (46%), Saquon Barkley 4 (7%); Bigsby left late with a lower-body injury and Shipley was the only healthy back (Yahoo snap counts, RotoWire).
 
 ## Receivers
 
@@ -114,6 +115,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Dontayvion Wicks: Camp reports are very positive on Wicks, who has been getting the reps while Makhi Lemon works back from injuries dating to OTAs. [8-24 adp adjustments]
 - 2026-08-24: Hollywood Brown: Hollywood Brown was the target on a viral camp interception by Quinyon Mitchell; he reportedly flattened the route, and he is not expected to be a top-three option. [8-24 adp adjustments]
 - 2026-09-28: DeVonta Smith: 8 targets (32%), 6 for 65 on 97% of the routes @CHI, a 33% target share on the season. Dontayvion Wicks: 5 targets, 2 for 32, 81% routes. Makai Lemon: 4 targets, 3 for 29, 84% routes on 68% of the snaps, an 11% share on the season. [pod 9-29, deployment]
+- 2026-10-05: Week 4 vs LAR snaps: Dontayvion Wicks 56 (92%), Darius Cooper 55 (90%), Makai Lemon 45 (74%); Cooper 3 for 33 and 2 TD on a team-high 7 targets; TE Johnny Mundt 49 snaps (80%) (Yahoo snap counts, CBS).
 
 ## Tight ends
 

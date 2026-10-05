@@ -146,6 +146,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Lamar Jackson (back) and Zay Flowers (hamstring): full practice Thursday and Friday, no game designation; Trey Hendrickson (finger) ruled out; Ronnie Stanley (toe) limited Thursday and Friday. [pod 10-2, official]
 - 2026-10-02: Zay Flowers: correction to the line above. The final Friday report lists him limited Friday (rest, hamstring) and questionable vs TEN after a full Thursday; Lamar Jackson has no designation (team injury report, NBC Sports, CBS Sports).
 - 2026-10-04: Lamar Jackson hurt his ankle on a sack on the last play of the first half vs TEN (15 of 20, 222 yards, 2 TD) and did not return; Tyler Huntley finished the 24-18 win; Minter: day-to-day (Baltimore Sun, ravens.com).
+- 2026-10-05: Week 4 vs TEN: Lamar Jackson sprained his left ankle on the last play of the first half (15 of 20, 222, 2 TD), left in a walking boot, MRI Monday (CBS Baltimore, PFT). Zay Flowers 8 of 10 for 118 and a TD.
 
 ## Other
 

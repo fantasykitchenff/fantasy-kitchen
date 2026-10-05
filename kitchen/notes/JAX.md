@@ -83,6 +83,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Bhayshul Tuten 15 for 73 and a touchdown plus 2 catches for 17; Chris Rodriguez Jr. a 5-yard touchdown; JAX 35, NE 6. [pod 9-28, deployment]
 - 2026-09-27: Bhayshul Tuten: Between 48.4% and 50.0% of the snaps in each of the first three games; 43 carries for 204 and 2 TDs (15-66, 13-65-1, 15-73-1). Vs NE: 49% of snaps and 15 of 26 RB carries; Chris Rodriguez Jr. 24% and 8 for 37 with a 5-yard TD; LeQuint Allen 18% with all of the two-minute snaps; Ameer Abdullah 4 snaps. [pod 9-29, deployment]
 - 2026-09-27: Bhayshul Tuten: 15 carries for 73 and a TD, 2 targets, 8 routes, 48% of the snaps vs NE. [pod 10-1, deployment]
+- 2026-10-05: Week 4 @CIN: Bhayshul Tuten out-snapped Chris Rodriguez 36 to 15, 17 for 73, two TDs called back for holding, hobbled off in the third quarter; Brenton Strange 7 for 95 on a team-high 8 targets (NBC).
 
 ## Receivers
 

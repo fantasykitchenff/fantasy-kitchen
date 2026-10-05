@@ -73,6 +73,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jaylen Wright: Career through Week 3: 141 carries for 547 yards (3.9), 8 catches for 52, 2 touchdowns on 149 touches, 3 fumbles (2 lost). 2025: 70 for 288 (4.1), 2 TDs. 2026: 3 carries for 10 in two games. [pod 9-29, deployment]
 - 2026-09-13: Jaylen Wright: In Week 1 at LV, De'Von Achane played 48 snaps while Wright and Ollie Gordon II played 8 combined (Gordon 3), so the two backups did not share a real role behind Achane. [pod 9-30, deployment]
 - 2026-09-27: Ollie Gordon II: 82% of the snaps, 58% of the routes and 3 targets vs KC. [pod 10-1, deployment]
+- 2026-10-05: Week 4 @MIN: Ollie Gordon II 9 for 100 and a TD (a 53-yard run); Jaylen Wright 5 for 7 (Yahoo).
 
 ## Receivers
 

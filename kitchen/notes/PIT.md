@@ -58,6 +58,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Rico Dowdle (toe) did not practice Monday (an estimated line from the walkthrough) or Tuesday on the Week 4 report, and no Wednesday line had posted when checked Wednesday afternoon (an earlier line called the Monday report Wednesday's and counted three DNPs, corrected 9/30); Jalen Ramsey (wrist) and Brandin Echols (concussion) estimated limited, Joey Porter Jr. full (team report).
 - 2026-10-01: Jaylen Warren 17 carries for 93 at CLE with Rico Dowdle (toe) inactive; PIT lost 27-24 in the snow (Yahoo, Steelers.com).
 - 2026-10-01: Jaylen Warren: 97% of the snaps and 126 scrimmage yards at CLE with Rico Dowdle out, including 3 catches for 33 on 6 targets. [pod 10-2, deployment]
+- 2026-10-05: Week 4 @CLE (Thu): Jaylen Warren 69 of 71 snaps, 17 for 93, 3 of 6 for 33, routes on 87% of pass plays (NBC, CBS).
 
 ## Receivers
 

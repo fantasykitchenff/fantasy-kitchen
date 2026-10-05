@@ -44,6 +44,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Ben Johnson said Tuesday 'we'll see how it plays out all week' on the Week 4 starter; Bagent gets the start if he gets a full week of practice (reports).
 - 2026-09-30: Ben Johnson: Said the Bears have three quarterbacks under consideration and know their direction but will not name the Week 4 starter; Caleb Williams is improving daily and sat out Wednesday's walkthrough. [pod 10-1, coach]
 - 2026-10-02: Ben Johnson did not name Tyson Bagent or Case Keenum as the Week 4 starter after Friday's practice. [pod 10-2, coach]
+- 2026-10-05: Week 4 vs NYJ: Tyson Bagent started (Caleb Williams out, hamstring), 25 of 34 for 268, 0 TD, 1 INT (box score reports).
 
 ## Backfield
 
@@ -69,6 +70,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: D'Andre Swift: Swift is coming off career highs in yardage; only he and Derrick Henry have finished as top-24 fantasy RBs in each of the last six years. Kyle Monangai is dealing with a hyperextended knee. [8-24 adp adjustments]
 - 2026-09-29: D'Andre Swift: 20 carries for 84 yards in the Week 3 win over PHI (Bears and Bleacher Nation recaps; corrects an earlier line that said over 100 yards and a TD).
 - 2026-09-28: D'Andre Swift: 20 carries for 84, 2 catches for 4, 70% snaps. [pod 9-29, deployment]
+- 2026-10-05: Week 4 vs NYJ: Kyle Monangai 30 carries for 146 and 2 TD after D'Andre Swift (15 for 58) lost a fumble at the CHI 28 in the third quarter and sat the rest; CHI ran 49 times for 232; Monangai left in the fourth with a thumb injury, checked Monday (CBS, Sun-Times).
 
 ## Receivers
 

@@ -66,6 +66,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jadarian Price 5 for 15 with a lost fumble (second straight game), held out until the second half, 19 snaps (28%); George Holani 24 snaps (36%), 5 catches and 3 carries for 58; Emanuel Wilson 24 snaps (36%), and 21 for 92 in Week 2 when Price left early. [pod 9-29, deployment]
 - 2026-09-27: Jadarian Price: Six touches @WAS (5 for 15 rushing, 1 catch for 7 on 1 target), 19 snaps and 11 routes; the lost fumble came on his third carry in the first quarter and he did not carry again until the third. Emanuel Wilson 9 for 14 on 24 snaps and 14 routes; George Holani 3 for 10 and 5 of 5 for 48 on 24 snaps and 15 routes. Two lost fumbles on 32 touches this season. [pod 9-29, deployment]
 - 2026-09-28: Jadarian Price: Mike Macdonald, asked whether Price would be benched, said the team will continue to give him the ball and that he will work through the fumbling; no update on Zach Charbonnet, who is not eligible until Week 5. [pod 9-30, coach]
+- 2026-10-05: Week 4 vs LAC: Emanuel Wilson 21 carries for 81 and a TD, 3 catches for 39 and a TD on a screen, with Jadarian Price on IR and Zach Charbonnet on PUP (CBS, Seahawks.com).
 
 ## Receivers
 

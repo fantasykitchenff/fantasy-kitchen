@@ -47,6 +47,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Kyren Williams 15 for 88 and 6 catches for 70 on 71% snaps; Blake Corum 6 for 15 and 2 catches for 0 on 29%. [pod 9-28, deployment]
 - 2026-09-27: Kyren Williams: 6 catches on 7 targets for 70 yards @DEN; 11 catches on 12 targets through three games, 5.6 yards per carry, one rushing and one receiving touchdown. [pod 9-29, deployment]
 - 2026-09-27: Kyren Williams played 71% of the snaps with 22 of the 32 running back opportunities and 158 scrimmage yards at DEN. [pod 10-2, deployment]
+- 2026-10-05: Week 4 @PHI: Kyren Williams 70 snaps to Blake Corum's 13, 16 for 80 and 2 TD, 10 of 13 targets for 67 (RotoWire, NBC). Puka Nacua 9 for 125 in his first game since Week 1.
 
 ## Receivers
 

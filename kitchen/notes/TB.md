@@ -29,6 +29,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Jalon Daniels: 0 for 3 with a game-ending interception in relief of Mayfield in Week 3; named the starter (ESPN, team site).
 - 2026-09-30: Easton Stick is elevated as Jalon Daniels' backup vs GB; Bucky Irving is not on the Week 4 injury report per Todd Bowles (reports).
 - 2025: Jalon Daniels: final Kansas season 12 games, 2,531 passing yards, 22 TD, 62.1% completions, 404 rushing yards and 4 rushing TD; 1,439 rushing yards and 23 rushing TD in 49 college games. [pod 9-30, college stats]
+- 2026-10-05: Week 4 vs GB: rookie Jalon Daniels' first start, 19 of 27 for 148, 1 TD, 2 INT, 8 carries for 56 (BucsNation, AP).
 
 ## Backfield
 

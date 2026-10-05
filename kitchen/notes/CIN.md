@@ -109,6 +109,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Bryan Cook, Kyle Dugger: Both safeties are day to day and did not practice Wednesday; DT B.J. Hill has a sore Achilles. [pod 9-30, coach]
 - 2026-09-30: Colbie Young (knee, hurt on the first snap of Week 3) ruled out for Week 4; Andrei Iosivas is on IR (thumb). [pod 10-2, coach]
 - 2026-10-04: Ja'Marr Chase left in the second quarter vs JAX with a concussion after a facemask tackle (3 catches, 27 yards); Burrow 39 of 54 for 428, Tee Higgins 11 for 157 in the 22-17 loss (bengals.com, NBC Sports).
+- 2026-10-05: Week 4 vs JAX: Ja'Marr Chase concussion in the second quarter (3 for 27); Tee Higgins hurt his adductor late after 11 for 157 (Zac Taylor postgame, Bengals.com). Burrow 39 of 54 for 428; Chase Brown 8 for 9, 10 catches for 62.
 
 ## Other
 

@@ -75,6 +75,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: DJ Moore (shoulder) was limited Wednesday, a game-time decision, and played 42 snaps (64%); Keon Coleman (ankle, DNP Wednesday) had 1 catch for 37 on 32 snaps (48%). [pod 9-28, official]
 - 2026-09-27: DJ Moore: Team-high 10 targets, 6 catches for 67 vs LAC on 42 snaps (64%) after a questionable tag (shoulder). Khalil Shakir: 1 catch for 6 on 3 targets on 48 snaps (73%). Joshua Palmer 21 snaps (32%). [pod 9-29, deployment]
 - 2026-09-17: DJ Moore: In Week 2 at DET he had no catch on no target and one carry for -1 yard before hurting his left shoulder late in the second quarter. [pod 10-1, deployment]
+- 2026-10-05: Week 4 vs NE: Keon Coleman 46 of 59 snaps, routes on 31 of 40 dropbacks, 6 of 7 for 116 and a TD after DJ Moore left with the shoulder; James Cook a season-low 59.3% of snaps, Ty Johnson 15 routes on 19 snaps (DraftSharks).
 
 ## Tight ends
 

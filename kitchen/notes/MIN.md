@@ -125,6 +125,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Josh Oliver: Torn biceps, surgery, likely out for the season (reports).
 - 2026-09-30: Josh Oliver placed on IR Tuesday 9/29 (torn biceps); T.J. Hockenson and Gavin Bartholomew are the only tight ends on the roster. Hockenson ran a route on 29 of 37 dropbacks vs TB in Week 3, 2 of 4 targets for 11 yards. Vikings signed RBs Devin Neal and Audric Estime to the practice squad (team, reports).
 - 2026-09-27: T.J. Hockenson caught 2 of 4 targets for 11 at TB. [pod 10-1, deployment]
+- 2026-10-05: Week 4 vs MIA: T.J. Hockenson 13 catches on 13 targets for 119 with Justin Jefferson out; O'Connell's goal is Jefferson back for Week 5 vs NO (vikings.com, NBC).
 
 ## Offensive line
 

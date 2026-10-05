@@ -81,6 +81,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Carnell Tate: 50 snaps (88%), 33 routes (92%), 6 catches for 58 on 9 targets at NYG. Wan'Dale Robinson 36 snaps (63%), 29 routes (81%), 7-57-1 on 11 targets; Calvin Ridley 18 snaps, 9 routes, 1 target. [pod 9-30, deployment]
 - 2026-09-27: Carnell Tate: 9 of 36 team pass attempts (25%) in Week 3, 6 catches for 58. [pod 10-1, deployment]
 - 2026-09-27: Wan'Dale Robinson drew a season-high 11 targets (31%) on 81% of the routes vs NYG; Carnell Tate drew 9 (26%) on 92% of the routes. [pod 10-2, deployment]
+- 2026-10-05: Week 4 @BAL: Carnell Tate 9 for 145, his first 100-yard game; Tony Pollard 16 for 48 and a TD, Tyjae Spears 2 for 7 (Titans.com).
 
 ## Tight ends
 

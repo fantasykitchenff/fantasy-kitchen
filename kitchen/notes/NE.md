@@ -55,6 +55,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Rhamondre Stevenson: At JAX the early downs were split evenly with TreVeyon Henderson, and Stevenson took most of the passing-situation and short-yardage snaps; he caught 3 for 16 to Henderson's 1 for 6. [pod 9-29, deployment]
 - 2026-09-20: TreVeyon Henderson: 16 carries for 76 and a 39-yard touchdown in the 20-3 win over PIT in Week 2; Stevenson lost a fumble in Steelers territory in that game. [pod 9-29, deployment]
 - 2026-09-27: Rhamondre Stevenson played 53% of the snaps with 7 carries and 3 targets; TreVeyon Henderson 35% with 8 carries and 1 target at JAX. [pod 10-2, deployment]
+- 2026-10-05: Week 4 @BUF: Rhamondre Stevenson 35 snaps (67%), 13 for 47 and a TD; TreVeyon Henderson 25 snaps, 14 for 42, 0 of 2 targets (Yahoo snap counts). Drake Maye 22 of 37, 269, 3 TD, 1 INT, 54 rushing yards.
 
 ## Receivers
 

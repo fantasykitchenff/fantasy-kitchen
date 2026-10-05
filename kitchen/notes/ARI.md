@@ -120,6 +120,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Michael Wilson: 31 targets, 18 catches, 163 yards and a touchdown through three games (7, 7 and 17 targets), a 58% catch rate; 81 of 87 snaps (93%) in Week 3. [pod 9-29, deployment]
 - 2026-09-27: Marvin Harrison Jr.: 67 of 87 snaps (77%) in Week 3, under 80% in all three games; 9 targets through three games. Kendrick Bourne played 48 snaps (55%). [pod 9-29, deployment]
 - 2026-09-30: The "quality Day 3 pick" trade value for Marvin Harrison Jr. was one rival team's forecast in a national report, not Arizona's asking price. [pod 10-2, beat]
+- 2026-10-05: Week 4 @NYG: Michael Wilson 7 of 13 for 95, 30 targets in two games; Trey McBride 7 of 12 for 31; Jeremiyah Love 14 for 63, Tyler Allgeier 8 for 42 and a TD (NBC, CBS).
 
 ## Tight ends
 

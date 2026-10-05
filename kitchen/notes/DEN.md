@@ -86,6 +86,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: J.K. Dobbins / RJ Harvey / Tyler Badie: Week 3 vs LAR with Coleman out: Dobbins 31 snaps (52%), 17 of the backs' 20 carries for 49, 5 routes, 2 targets; Harvey 20 snaps (33%), 2 for 6, 16 routes on 34 dropbacks (47%), 7 targets, 6 for 41; Badie 11 snaps (18%), 1 for 2 and 1 catch for 12. [pod 9-29, deployment]
 - 2026-09-27: J.K. Dobbins: 35 carries for 121 yards (3.5 a carry) and no touchdown through three games, by game 8-36, 10-36, 17-49; 1 catch on 2 targets. He left the Week 2 game and was limited in practice on 9/23. [pod 9-30, deployment]
 - 2026-09-27: RJ Harvey: Missed Week 2 (held out of practice 9/23; hamstring, per a charting report). In two games: 5 carries for 24, 10 catches for 64 on 11 targets. [pod 9-29, deployment]
+- 2026-10-05: Week 4 @SF: RJ Harvey 10 catches for 68 (career highs), 7 for 25; J.K. Dobbins 11 for 40 on 42.2% of the snaps (NBC, DraftSharks).
 
 ## Receivers
 

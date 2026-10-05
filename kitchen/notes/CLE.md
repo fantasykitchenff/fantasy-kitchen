@@ -105,6 +105,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Denzel Boston: 4 catches for 89 on 7 targets vs PIT, 95% of the snaps and 92% of the routes; 52% of Cleveland's air yards on the season. [pod 10-2, deployment]
 - 2026-10-01: KC Concepcion: 5 catches for 64 on 8 targets (24%) vs PIT, a route on every dropback. [pod 10-2, deployment]
 - 2026-10-01: Jerry Jeudy: 3 catches for 36 on 3 targets vs PIT, 37% of the snaps and 51% of the routes as the third receiver. [pod 10-2, deployment]
+- 2026-10-05: Week 4 vs PIT (Thu) snaps: Denzel Boston 61 (95%), KC Concepcion 59 (92%), Harold Fannin Jr. 57 (89%), Quinshon Judkins 42 (66%); Boston 4 of 7 for 89, Concepcion 5 of 8 for 64, Judkins 6 of 7 for 43 (Dawgs By Nature, NBC).
 
 ## Tight ends
 

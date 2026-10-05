@@ -1,0 +1,280 @@
+{
+  "series": "leftovers",
+  "season": 2026,
+  "week": 4,
+  "title": "Leftovers, Week 4",
+  "dek": "Kansas City lost Rashee Rice and Tyquan Thornton @LV, Kyle Monangai ran away with Chicago's backfield, and Emanuel Wilson is Seattle's back for now.",
+  "format": "PPR",
+  "publishedAt": "2026-10-05T11:40:00Z",
+  "updatedAt": "2026-10-05T11:40:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "What's still good from Week 4, PPR scoring, every game through Sunday night. Atlanta at New Orleans plays Monday night and goes into Tuesday's Market Run. Four contenders lost a star, two backfields changed hands, and Carolina found a WR1. Ranks are rest of season for me; the Week 5 Menu comes Wednesday.",
+  "outro_md": "The misses, owned. Drake Maye was QB18 and a sit for me at BUF; he threw for 269 and 3 TDs and ran for 54. Ollie Gordon II was a firm sit at RB35; he ran for 100 and a TD. Josh Downs was WR15 for me with two Colts receivers out; he caught 3 of 4 for 16. Khalil Shakir was WR46 and a sit; he caught 7 of 8 for 82. The lesson: a rushing quarterback's floor and a thin receiver room's target share beat the box score I expected, and the Menu weighs both from Wednesday on.",
+  "data": {
+    "takeaways": [
+      {
+        "headline": "Kansas City lost two receivers in one afternoon",
+        "text": "Rashee Rice (KC) tweaked his hamstring in the first quarter @LV and did not return, and Tyquan Thornton (KC) dislocated his left ankle on a 55-yard catch in the fourth after catching 5 of 8 for 111 and 2 TDs. Andy Reid said Thornton's injury does not look good; he gets a full evaluation and a second opinion. Kansas City is off in Week 5, so Rice gets two weeks. Xavier Worthy (KC) caught 4 for 70 and is the receiver left standing. Rice is WR17 rest of season for me; monitor Reid's update this week. Monitor Thornton's second opinion. Worthy is WR55 rest of season for me; hold him through the bye.",
+        "actions": [
+          {
+            "player": "Rashee Rice",
+            "action": "MONITOR",
+            "watch": "Andy Reid's update this week, before the Week 6 practice report"
+          },
+          {
+            "player": "Tyquan Thornton",
+            "action": "MONITOR",
+            "watch": "the second opinion on the ankle this week"
+          },
+          {
+            "player": "Xavier Worthy",
+            "action": "HOLD",
+            "why": "With Rice and Thornton hurt he is the top healthy receiver after the bye; a quick Rice return puts him back to two targets a game, and that is what would change the call."
+          }
+        ]
+      },
+      {
+        "headline": "Kyle Monangai took Chicago's backfield",
+        "text": "Kyle Monangai (CHI) ran 30 times for 146 yards and 2 TDs vs NYJ after D'Andre Swift (CHI) lost a fumble at his own 28 in the third quarter and sat the rest of the game. Chicago ran 49 times for 232 and held the ball for 42:45. Monangai left in the fourth with a thumb injury that gets checked Monday. Claim Monangai, 10 to 20 percent of FAAB. Swift is RB13 rest of season for me; hold him.",
+        "actions": [
+          {
+            "player": "Kyle Monangai",
+            "action": "CLAIM",
+            "faab": "10-20%"
+          },
+          {
+            "player": "D'Andre Swift",
+            "action": "HOLD",
+            "why": "If Monangai's thumb costs him Week 5 vs GB, Swift gets the work back; a second straight game on the bench with Monangai healthy is what would change the call."
+          }
+        ]
+      },
+      {
+        "headline": "Emanuel Wilson is Seattle's back for now",
+        "text": "Emanuel Wilson (SEA) ran 21 times for 81 and a TD vs LAC and caught 3 for 39 and a second TD on a screen, with Jadarian Price on IR and Zach Charbonnet on PUP. Charbonnet's practice window opened Oct 1, so this lasts until he is activated. Claim Wilson, 15 to 25 percent of FAAB.",
+        "actions": [
+          {
+            "player": "Emanuel Wilson",
+            "action": "CLAIM",
+            "faab": "15-25%"
+          }
+        ]
+      },
+      {
+        "headline": "Philadelphia's backfield is down to whoever is standing",
+        "text": "Saquon Barkley (PHI) played 4 snaps before the right hamstring took him out vs LAR. Tank Bigsby (PHI) played 29 snaps and ran 14 times for 55, then needed help off in the fourth quarter. Will Shipley (PHI) played 28 snaps, ran 6 times for 23 and finished as the only healthy back. Philadelphia plays JAX in London in Week 5. Barkley is RB8 rest of season for me; monitor Wednesday's practice report. Claim Bigsby, 5 to 10 percent of FAAB. Stash Shipley, 1 to 3 percent.",
+        "actions": [
+          {
+            "player": "Saquon Barkley",
+            "action": "MONITOR",
+            "watch": "Wednesday's practice report"
+          },
+          {
+            "player": "Tank Bigsby",
+            "action": "CLAIM",
+            "faab": "5-10%"
+          },
+          {
+            "player": "Will Shipley",
+            "action": "STASH",
+            "faab": "1-3%"
+          }
+        ]
+      },
+      {
+        "headline": "Cincinnati's top two receivers both got hurt",
+        "text": "Ja'Marr Chase (CIN) left in the second quarter vs JAX with a concussion after 3 catches for 27. Tee Higgins (CIN) caught 11 for 157, then hurt his adductor late in the fourth. Joe Burrow still threw 54 times for 428. Chase Brown (CIN) ran 8 times for 9 and caught 10 for 62. Cincinnati hosts MIA on Oct 11. Chase is WR1 rest of season for me; monitor the concussion protocol. Higgins is WR16; monitor Wednesday's practice report. Brown is RB6 rest of season for me; hold him.",
+        "actions": [
+          {
+            "player": "Ja'Marr Chase",
+            "action": "MONITOR",
+            "watch": "the concussion protocol and Wednesday's practice report"
+          },
+          {
+            "player": "Tee Higgins",
+            "action": "MONITOR",
+            "watch": "Wednesday's practice report"
+          },
+          {
+            "player": "Chase Brown",
+            "action": "HOLD",
+            "why": "Ten catches are the floor while the receivers are hurt; a third straight game under 15 carries with both receivers back is what would change the call."
+          }
+        ]
+      },
+      {
+        "headline": "Two quarterbacks went down",
+        "text": "Lamar Jackson (BAL) sprained his left ankle on a sack on the last play of the first half vs TEN, after going 15 of 20 for 222 and 2 TDs, and left in a walking boot; an MRI is set for Monday and Baltimore plays @ATL on Sunday night. Marcus Mariota (WAS) sprained his right MCL in the first quarter in London, and Washington finished with its third quarterback. Jackson is QB2 rest of season for me; monitor Monday's MRI. Drop Mariota.",
+        "actions": [
+          {
+            "player": "Lamar Jackson",
+            "action": "MONITOR",
+            "watch": "Monday's MRI and Wednesday's practice report"
+          },
+          {
+            "player": "Marcus Mariota",
+            "action": "DROP"
+          }
+        ]
+      }
+    ],
+    "usage": [
+      {
+        "player": "Jaylen Warren",
+        "team": "PIT",
+        "pos": "RB",
+        "stat": "69 of 71 snaps, 17 carries for 93, 6 targets",
+        "read": "The whole backfield while Rico Dowdle is out, and he ran a route on 87% of the pass plays.",
+        "action": "HOLD",
+        "why": "Dowdle's return is the only thing that changes it; until then he is a full-time back."
+      },
+      {
+        "player": "Kyren Williams",
+        "team": "LAR",
+        "pos": "RB",
+        "stat": "70 snaps to Corum's 13, 16 for 80 and 2 TDs, 10 of 13 targets",
+        "read": "A career-high 10 catches and the go-ahead score; Blake Corum is a breather.",
+        "action": "TRADE_FOR",
+        "price": "a WR3 and a bench RB"
+      },
+      {
+        "player": "Denzel Boston",
+        "team": "CLE",
+        "pos": "WR",
+        "stat": "95% snaps, 7 targets, 4 for 89",
+        "read": "Cleveland's leading receiver in three of four games, on the field for 61 of the snaps Thursday.",
+        "action": "TRADE_FOR",
+        "price": "a bench RB"
+      },
+      {
+        "player": "Michael Wilson",
+        "team": "ARI",
+        "pos": "WR",
+        "stat": "13 targets, 7 for 95",
+        "read": "Thirty targets in two games; Marvin Harrison Jr. had 3.",
+        "action": "TRADE_FOR",
+        "price": "a bench WR3"
+      },
+      {
+        "player": "RJ Harvey",
+        "team": "DEN",
+        "pos": "RB",
+        "stat": "10 catches for 68, 7 carries for 25",
+        "read": "Career highs in targets and catches while J.K. Dobbins played 42% of the snaps.",
+        "action": "ADD",
+        "faab": "2-5%"
+      },
+      {
+        "player": "Keon Coleman",
+        "team": "BUF",
+        "pos": "WR",
+        "stat": "46 of 59 snaps, routes on 31 of 40 dropbacks, 6 for 116 and a TD",
+        "read": "The routes came with DJ Moore out of the game; Moore is day to day.",
+        "action": "CLAIM",
+        "faab": "3-6%"
+      },
+      {
+        "player": "Rhamondre Stevenson",
+        "team": "NE",
+        "pos": "RB",
+        "stat": "35 snaps (67%), 13 for 47 and a TD",
+        "read": "Out-snapped TreVeyon Henderson 35 to 25 and took the score and the two-point try.",
+        "action": "HOLD",
+        "why": "Henderson out-snapping him in a game is what changes it."
+      },
+      {
+        "player": "Bhayshul Tuten",
+        "team": "JAX",
+        "pos": "RB",
+        "stat": "36 snaps to Rodriguez's 15, 17 for 73",
+        "read": "Two TDs called back for holding; he hobbled off in the third quarter.",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report"
+      },
+      {
+        "player": "Brenton Strange",
+        "team": "JAX",
+        "pos": "TE",
+        "stat": "8 targets, 7 for 95",
+        "read": "Team-high targets and season highs in catches and yards.",
+        "action": "ADD",
+        "faab": "2-4%"
+      },
+      {
+        "player": "Darius Cooper",
+        "team": "PHI",
+        "pos": "WR",
+        "stat": "55 of 61 snaps, 7 targets, 3 for 33 and 2 TDs",
+        "read": "The team-high targets with DeVonta Smith out two to three games.",
+        "action": "ADD",
+        "faab": "2-5%"
+      },
+      {
+        "player": "Quinshon Judkins",
+        "team": "CLE",
+        "pos": "RB",
+        "stat": "42 snaps (66%), 17 for 53 and a TD, 6 of 7 targets",
+        "read": "Career highs in catches and receiving yards; the passing work showed up.",
+        "action": "HOLD",
+        "why": "The 3.0 a carry before Thursday is the worry; a game where the targets dry up again changes it."
+      },
+      {
+        "player": "Michael Mayer",
+        "team": "LV",
+        "pos": "TE",
+        "stat": "10 targets, 8 for 82",
+        "read": "Brock Bowers had 11; Las Vegas ran two tight ends all day.",
+        "action": "ADD",
+        "faab": "0-2%"
+      }
+    ],
+    "overreactions": [
+      {
+        "take": "Tetairoa McMillan is a WR1 now",
+        "verdict": "buy",
+        "why": "14 catches on 16 targets for 192 and 2 TDs vs DET, after 92% of the routes in Week 3, with Jalen Coker inactive and Xavier Legette on IR. Carolina is off in Week 5. Trade for him during the bye; offer a WR2.",
+        "player": "Tetairoa McMillan",
+        "action": "TRADE_FOR",
+        "price": "a WR2"
+      },
+      {
+        "take": "Puka Nacua is all the way back",
+        "verdict": "buy",
+        "why": "9 catches for 125 in his first game since Week 1, while Davante Adams caught 4 of 9. Trade for him; offer a WR2 and an RB3.",
+        "player": "Puka Nacua",
+        "action": "TRADE_FOR",
+        "price": "a WR2 and an RB3"
+      },
+      {
+        "take": "Woody Marks has taken over Houston's backfield",
+        "verdict": "sell",
+        "why": "Marks scored for the second straight week on 6 carries, but David Montgomery out-snapped him 32 to 20 and out-carried him 10 to 6. Montgomery is RB19 rest of season for me; hold him. Marks out-snapping him for a full game is what would change it.",
+        "player": "David Montgomery",
+        "action": "HOLD"
+      },
+      {
+        "take": "T.J. Hockenson is a TE1 again",
+        "verdict": "sell",
+        "why": "13 catches on 13 targets for 119 came with Justin Jefferson out, and the goal is Jefferson back for Week 5 vs NO. Hockenson is TE26 rest of season for me. Trade him away; ask for a WR3.",
+        "player": "T.J. Hockenson",
+        "action": "TRADE_AWAY",
+        "price": "a WR3 with a full-time role"
+      },
+      {
+        "take": "Ollie Gordon II won Miami's backfield",
+        "verdict": "buy",
+        "why": "9 carries for 100 and a TD to Jaylen Wright's 5 for 7. A 53-yard run is half the yards, so the carry count is the number that matters. Hold Gordon. Wright out-carrying him in Week 5 is what would change it.",
+        "player": "Ollie Gordon II",
+        "action": "HOLD"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w04-leftovers-thread-c5ce",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}
