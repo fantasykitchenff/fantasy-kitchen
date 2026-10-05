@@ -178,6 +178,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Quarterback: Johnson said the Week 4 starter vs NYJ is decided and will not name Keenum or Bagent; Bagent is cleared from the concussion, Caleb Williams (grade 2 hamstring) sat out the walkthrough (Sun-Times, 670 The Score).
 - 2026-10-02: D'Andre Swift: did not practice Thursday (knee), full practice Friday, no game designation. [pod 10-2, official]
 - 2026-10-02: Caleb Williams (hamstring) ruled out for Week 4 vs NYJ; left tackle Braxton Jones (knee) ruled out. [pod 10-2, official]
+- 2026-10-05: Kyle Monangai's thumb is being evaluated per Ben Johnson; Week 5 vs GB status open (CBS Sports).
 
 ## Other
 

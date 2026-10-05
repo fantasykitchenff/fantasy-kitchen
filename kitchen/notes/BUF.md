@@ -123,6 +123,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: DJ Moore: Limited Wednesday with the shoulder for a second straight week; Christian Benford (toe) and Keon Coleman (ankle) did not practice and Josh Allen is not listed. [pod 10-1, official]
 - 2026-10-01: DJ Moore: limited Thursday again (shoulder) (reports).
 - 2026-10-04: DJ Moore left the 29-26 loss to NE late in the second quarter with the shoulder (AC joint), his second exit with it this season after Week 2 (buffalobills.com).
+- 2026-10-05: DJ Moore aggravated the shoulder (first hurt Week 2) and left Week 4 vs NE in the second quarter; not considered long term per ESPN, day to day per Buffalo News.
 
 ## Other
 

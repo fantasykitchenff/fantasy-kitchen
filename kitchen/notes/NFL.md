@@ -28,6 +28,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Transactions and contracts
 
 - 2026-08-23: James Conner: As of Aug 21 Conner was described as an unsigned free agent still recovering from a serious foot injury suffered last season. [8-23 highstakes draft]
+- 2026-10-05: Tyreek Hill (free agent, released by MIA in February; torn ACL and dislocated left knee in Week 4 of 2025) expected to sign within days per his agent to ESPN; KC among the teams in contact; targeting a November return.
 
 ## Other
 

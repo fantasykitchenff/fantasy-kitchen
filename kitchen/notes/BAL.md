@@ -148,6 +148,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Lamar Jackson hurt his ankle on a sack on the last play of the first half vs TEN (15 of 20, 222 yards, 2 TD) and did not return; Tyler Huntley finished the 24-18 win; Minter: day-to-day (Baltimore Sun, ravens.com).
 - 2026-10-05: Week 4 vs TEN: Lamar Jackson sprained his left ankle on the last play of the first half (15 of 20, 222, 2 TD), left in a walking boot, MRI Monday (CBS Baltimore, PFT). Zay Flowers 8 of 10 for 118 and a TD.
 - 2026-10-05: Lamar Jackson believed to be week to week pending Monday's MRI on the left ankle (PFT); day-to-day per Minter Sunday.
+- 2026-10-05: Lamar Jackson left the stadium in a walking boot; MRI on the left ankle Monday; the Ravens are hopeful he plays Week 5 vs ATL (CBS Sports, Yahoo).
 
 ## Other
 
