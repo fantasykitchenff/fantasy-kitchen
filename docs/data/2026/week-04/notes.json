@@ -6,12 +6,29 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-09-29T16:30:00Z",
-  "updatedAt": "2026-10-05T16:30:00Z",
+  "updatedAt": "2026-10-05T16:40:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-05T16:40:00Z",
+        "player": "Marcus Mariota",
+        "pos": "QB",
+        "action": "DROP",
+        "text": "Marcus Mariota (WAS) sprained the right MCL again in the first quarter in London, the knee he hurt in August, and is expected to miss multiple weeks. Rookie Athan Kaliakmanis finished 15 of 33 for 186. QB34 rest of season for me. Drop Mariota in one-QB leagues.",
+        "url": "https://www.hogshaven.com/washington-commanders-news/446176/commanders-injury-update-marcus-mariota-knee-colts-jayden-daniels"
+      },
+      {
+        "at": "2026-10-05T16:40:00Z",
+        "player": "Juwan Johnson",
+        "pos": "TE",
+        "action": "START",
+        "slot": "TE1",
+        "text": "Noah Fant (NO) is questionable for Monday night vs ATL. Juwan Johnson (NO) caught 8 for 48 and two scores vs LV, and he is TE8 for me tonight.",
+        "url": "https://www.thefalcoholic.com/atlanta-falcons-injuries/96923/falcons-vs-saints-injury-report-divine-deablo-samson-ebukam-questionable-for-monday-night"
+      },
       {
         "at": "2026-10-05T16:30:00Z",
         "player": "Lamar Jackson",
@@ -447,22 +464,6 @@
         "url": "https://www.49erswebzone.com/articles/203793-trent-williams-returns-49ers-practice/",
         "text": "Mike Evans (SF) missed Thursday's practice too and worked on the side with the ribs; general manager John Lynch said he will make every attempt to play vs DEN. He left the ARI game in the second quarter after the hit and is not ranked on the Menu until he practices. Monitor; Friday's practice line and designation.",
         "watch": "Friday's practice line and designation"
-      },
-      {
-        "at": "2026-10-01T22:15:00Z",
-        "text": "DJ Moore (BUF) was limited Wednesday and Thursday with the shoulder, the same as last week, when he played and drew a team-high 10 targets, 6 for 67, on 64 percent of the snaps vs LAC. The Menu rows keep the flag. WR23 for me this week, a WR2 vs NE.",
-        "url": "",
-        "player": "DJ Moore",
-        "action": "START",
-        "slot": "WR2"
-      },
-      {
-        "at": "2026-10-01T22:15:00Z",
-        "text": "Zay Flowers (BAL) practiced in full Thursday after a limited Wednesday with the hamstring, so the 21-snap pitch count from Brazil should lift. On 26 routes this season he has 234 yards and a target on 48 percent of them. The flag comes off; WR9 for me vs TEN.",
-        "url": "https://www.rotoballer.com/player-news/zay-flowers-practices-in-full-on-thursday/1955669",
-        "player": "Zay Flowers",
-        "action": "START",
-        "slot": "WR2"
       }
     ]
   },
