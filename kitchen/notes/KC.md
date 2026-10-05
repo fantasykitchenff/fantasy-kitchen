@@ -166,6 +166,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Josh Simmons: DNP Wednesday, bulging disc in the lower back per Reid; not expected to play at LV (ESPN, Reid).
 - 2026-10-04: Rashee Rice: hamstring in the first quarter @LV, pulled up after a 7-yard catch; questionable then doubtful to return. Week 5 is the bye (team, ABC7, NBC Sports).
 - 2026-10-05: Week 4 @LV: Tyquan Thornton dislocated his left ankle on a 55-yard catch in the fourth quarter (5 for 111, 2 TD on 8 targets), carted off; Andy Reid said it does not look good, full evaluation and a second opinion Monday (Rapoport, Fox4KC). Rashee Rice left in the first quarter with a hamstring (box score reports).
+- 2026-10-05: Tyquan Thornton is out indefinitely with the dislocated left ankle (Yahoo/AP); Rashee Rice could miss several weeks with the hamstring per a Monday report (NBC Sports), Reid called it a tweak.
 
 ## Other
 

@@ -6,15 +6,15 @@
   "dek": "Kansas City lost Rashee Rice and Tyquan Thornton @LV, Kyle Monangai ran away with Chicago's backfield, and Emanuel Wilson is Seattle's back for now.",
   "format": "PPR",
   "publishedAt": "2026-10-05T11:40:00Z",
-  "updatedAt": "2026-10-05T11:40:00Z",
+  "updatedAt": "2026-10-05T15:25:00Z",
   "author": "Chef Hazy",
-  "intro_md": "What's still good from Week 4, PPR scoring, every game through Sunday night. Atlanta at New Orleans plays Monday night and goes into Tuesday's Market Run. Four contenders lost a star, two backfields changed hands, and Carolina found a WR1. Ranks are rest of season for me; the Week 5 Menu comes Wednesday.",
+  "intro_md": "Updated Mon 11:25 AM ET: Lamar Jackson is believed to be week to week pending Monday's MRI, and he is still QB2 rest of season for me. Rashee Rice could miss several weeks, Tyquan Thornton is out indefinitely, and Tee Higgins has a groin strain; monitor all three. Saquon Barkley's hamstring is not believed to be serious.\n\nWhat's still good from Week 4, PPR scoring, every game through Sunday night. Atlanta at New Orleans plays Monday night and goes into Tuesday's Market Run. Four contenders lost a star, two backfields changed hands, and Carolina found a WR1. Ranks are rest of season for me; the Week 5 Menu comes Wednesday.",
   "outro_md": "The misses, owned. Drake Maye was QB18 and a sit for me at BUF; he threw for 269 and 3 TDs and ran for 54. Ollie Gordon II was a firm sit at RB35; he ran for 100 and a TD. Josh Downs was WR15 for me with two Colts receivers out; he caught 3 of 4 for 16. Khalil Shakir was WR46 and a sit; he caught 7 of 8 for 82. The lesson: a rushing quarterback's floor and a thin receiver room's target share beat the box score I expected, and the Menu weighs both from Wednesday on.",
   "data": {
     "takeaways": [
       {
         "headline": "Kansas City lost two receivers in one afternoon",
-        "text": "Rashee Rice (KC) tweaked his hamstring in the first quarter @LV and did not return, and Tyquan Thornton (KC) dislocated his left ankle on a 55-yard catch in the fourth after catching 5 of 8 for 111 and 2 TDs. Andy Reid said Thornton's injury does not look good; he gets a full evaluation and a second opinion. Kansas City is off in Week 5, so Rice gets two weeks. Xavier Worthy (KC) caught 4 for 70 and is the receiver left standing. Rice is WR17 rest of season for me; monitor Reid's update this week. Monitor Thornton's second opinion. Worthy is WR55 rest of season for me; hold him through the bye.",
+        "text": "Rashee Rice (KC) tweaked his hamstring in the first quarter @LV and did not return, and Tyquan Thornton (KC) dislocated his left ankle on a 55-yard catch in the fourth after catching 5 of 8 for 111 and 2 TDs. Andy Reid said Thornton's injury does not look good, and he is out indefinitely. A Monday report says Rice could miss several weeks. Kansas City is off in Week 5, so Rice gets two weeks. Xavier Worthy (KC) caught 4 for 70 and is the receiver left standing. Rice is WR17 rest of season for me; monitor Reid's update this week. Monitor Thornton's official diagnosis. Worthy is WR55 rest of season for me; hold him through the bye.",
         "actions": [
           {
             "player": "Rashee Rice",
@@ -24,7 +24,7 @@
           {
             "player": "Tyquan Thornton",
             "action": "MONITOR",
-            "watch": "the second opinion on the ankle this week"
+            "watch": "the official diagnosis; he is out indefinitely"
           },
           {
             "player": "Xavier Worthy",
@@ -62,7 +62,7 @@
       },
       {
         "headline": "Philadelphia's backfield is down to whoever is standing",
-        "text": "Saquon Barkley (PHI) played 4 snaps before the right hamstring took him out vs LAR. Tank Bigsby (PHI) played 29 snaps and ran 14 times for 55, then needed help off in the fourth quarter. Will Shipley (PHI) played 28 snaps, ran 6 times for 23 and finished as the only healthy back. Philadelphia plays JAX in London in Week 5. Barkley is RB8 rest of season for me; monitor Wednesday's practice report. Claim Bigsby, 5 to 10 percent of FAAB. Stash Shipley, 1 to 3 percent.",
+        "text": "Saquon Barkley (PHI) played 4 snaps before the right hamstring took him out vs LAR. Tank Bigsby (PHI) played 29 snaps and ran 14 times for 55, then needed help off in the fourth quarter. Will Shipley (PHI) played 28 snaps, ran 6 times for 23 and finished as the only healthy back. Philadelphia plays JAX in London in Week 5. Monday's tests were not believed to show anything overly serious. Barkley is RB8 rest of season for me; monitor Wednesday's practice report. Claim Bigsby, 5 to 10 percent of FAAB. Stash Shipley, 1 to 3 percent.",
         "actions": [
           {
             "player": "Saquon Barkley",
@@ -83,7 +83,7 @@
       },
       {
         "headline": "Cincinnati's top two receivers both got hurt",
-        "text": "Ja'Marr Chase (CIN) left in the second quarter vs JAX with a concussion after 3 catches for 27. Tee Higgins (CIN) caught 11 for 157, then hurt his adductor late in the fourth. Joe Burrow still threw 54 times for 428. Chase Brown (CIN) ran 8 times for 9 and caught 10 for 62. Cincinnati hosts MIA on Oct 11. Chase is WR1 rest of season for me; monitor the concussion protocol. Higgins is WR16; monitor Wednesday's practice report. Brown is RB6 rest of season for me; hold him.",
+        "text": "Ja'Marr Chase (CIN) left in the second quarter vs JAX with a concussion after 3 catches for 27. Tee Higgins (CIN) caught 11 for 157, then strained his groin late in the fourth; a strain like it usually costs two to three weeks. Joe Burrow still threw 54 times for 428. Chase Brown (CIN) ran 8 times for 9 and caught 10 for 62. Cincinnati hosts MIA on Oct 11. Chase is WR1 rest of season for me; monitor the concussion protocol. Higgins is WR16; monitor Wednesday's practice report. Brown is RB6 rest of season for me; hold him.",
         "actions": [
           {
             "player": "Ja'Marr Chase",
@@ -104,7 +104,7 @@
       },
       {
         "headline": "Two quarterbacks went down",
-        "text": "Lamar Jackson (BAL) sprained his left ankle on a sack on the last play of the first half vs TEN, after going 15 of 20 for 222 and 2 TDs, and left in a walking boot; an MRI is set for Monday and Baltimore plays @ATL on Sunday night. Marcus Mariota (WAS) sprained his right MCL in the first quarter in London, and Washington finished with its third quarterback. Jackson is QB2 rest of season for me; monitor Monday's MRI. Drop Mariota.",
+        "text": "Lamar Jackson (BAL) sprained his left ankle on a sack on the last play of the first half vs TEN, after going 15 of 20 for 222 and 2 TDs, and left in a walking boot; he is believed to be week to week pending Monday's MRI, and Baltimore plays @ATL on Sunday night. Marcus Mariota (WAS) sprained his right MCL in the first quarter in London, and Washington finished with its third quarterback. Jackson is QB2 rest of season for me; monitor Monday's MRI. Drop Mariota.",
         "actions": [
           {
             "player": "Lamar Jackson",
