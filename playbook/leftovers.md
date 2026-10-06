@@ -43,7 +43,7 @@ Envelope: `title` "Leftovers, Week N", `dek` the single biggest takeaway, `intro
 
 One thread, 15 to 25 posts (aim for 22 or more), covering every team that played, `--at "Mon 13:20"`, `--not-after +20h`, `--link "leftovers.html?week=N"`. After the top takeaways, run game by game: each game gets the usage number that matters most from each side and the call it changes. The outline below is the order:
 
-1. Hook: the biggest takeaway with its number. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
+1. Hook: a general intro to what Sunday told us, with the biggest takeaways as highlights (one player per line). No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
 2. to 4. One takeaway per post (the top three).
 5. Usage notes, game by game, one name per line with one number and one call each, an empty line between players (as many posts as the games need).
 6. Overreactions: two "real", two "noise", each with the number, one player per line.

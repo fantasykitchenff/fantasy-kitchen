@@ -326,6 +326,19 @@ def after_thread_cutoff(ts):
     d = parse_iso(ts) if ts else None
     return bool(d) and d >= THREAD_CUTOFF
 
+# ---------------------------------------------------------------- owner rule of 2026-10-06
+# The hook is a general intro to what the thread covers and may call out the highlights; it needs no action of
+# its own. A closer ("Let's dive in." and the others in HOOK_CLOSERS) is never required and is allowed only as the
+# last sentence of the hook of a thread of CLOSER_MIN_POSTS or more posts; never in any other post or a reply.
+# Applies to queue items created on or after HOOK_RULE_CUTOFF; older items keep the hook-closer requirement.
+CLOSER_MIN_POSTS = 20
+HOOK_RULE_CUTOFF = dt.datetime(2026, 10, 7, 0, 0, tzinfo=dt.timezone.utc)   # Tue Oct 6, 8:00 PM ET
+CLOSER_ANY_RE = re.compile(r"let['’]s (dive in|look into it|get to it|get into it|go)\b", re.I)
+
+def after_hook_rule_cutoff(ts):
+    d = parse_iso(ts) if ts else None
+    return bool(d) and d >= HOOK_RULE_CUTOFF
+
 def thread_teams(texts):
     return {m.group(2).lower() for t in texts for m in HASHTAG.finditer(t) if m.group(2).lower() in OFFICIAL}
 
@@ -617,7 +630,19 @@ def validate_queue_item(path, errors, warnings):
             errors.append(f"{rel}: Kitchen Notes queues its one thread of the day from the evening run (5:30 PM ET or later); earlier runs update the site only")
         for o in sibling_threads(q):
             errors.append(f"{rel}: {o.get('id')} ({o.get('status')}) is already this {series} content item's thread; one thread per content item (rewrite a pending one with queue add --replace)")
-    if q.get("kind") == "thread" and texts and not HOOK_CLOSER_RE.search(texts[0].strip()):
+    hook_rule = after_hook_rule_cutoff(q.get("createdAt"))
+    is_thread = q.get("kind") == "thread"
+    if hook_rule:
+        for i, t in enumerate(texts):
+            if is_thread and i == 0:
+                hook = t.strip()
+                if HOOK_CLOSER_RE.search(hook) and len(texts) < CLOSER_MIN_POSTS:
+                    errors.append(f"{rel}: a closer (Let's dive in and the like) goes only on the hook of a thread of {CLOSER_MIN_POSTS} or more posts")
+                if CLOSER_ANY_RE.search(HOOK_CLOSER_RE.sub("", hook)):
+                    errors.append(f"{rel}: text[0] uses a closer somewhere other than the hook's last sentence")
+            elif CLOSER_ANY_RE.search(t):
+                errors.append(f"{rel}: text[{i}] uses a closer (Let's dive in and the like); closers go only on the hook of a thread of {CLOSER_MIN_POSTS} or more posts")
+    elif is_thread and texts and not HOOK_CLOSER_RE.search(texts[0].strip()):
         errors.append(f"{rel}: the hook (text[0]) must end with one of: " + ", ".join(HOOK_CLOSERS) + " (hashtags may follow it)")
     handle = site_handle()
     follow_re = re.compile(r"\bfollow\b", re.I)
@@ -662,7 +687,7 @@ def validate_queue_item(path, errors, warnings):
             errors.append(f"{rel}: text[{i}] uses a thread marker or counter (drop it; the first post stands alone)")
         if re.search(r"\d%", t):
             warnings.append(f"{rel}: text[{i}] uses '%'; posts say 'percent'")
-        if i < len(texts) - 1 and not ACTION_OR_RANK.search(t):
+        if i < len(texts) - 1 and not ACTION_OR_RANK.search(t) and not (hook_rule and is_thread and i == 0):
             errors.append(f"{rel}: text[{i}] names no action or rank call (the Menu rank and tier, sit, claim with FAAB, drop, hold, trade for, trade away, monitor, pivot)")
 
 def cmd_validate(a):

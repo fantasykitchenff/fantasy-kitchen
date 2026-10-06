@@ -48,7 +48,7 @@ Envelope: `title` "Market Run, Week N", `dek` the top add and why in one sentenc
 
 One thread, 15 to 25 posts (aim for 20 or more), naming at least 14 teams and as many as the adds, stashes, drops and pantry ripples reach, `--at "Tue 13:20"`, `--not-after "Wed 12:00"`, `--link "market.html?week=N"`. Every add, stash and drop on the site goes in the thread, one or two teams per post, plus the pantry board's role changes that make or break a waiver call. The outline below is the order, not the length; an item with more players runs as many posts as it needs:
 
-1. Hook: the number one add and the FAAB range. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
+1. Hook: a general intro to this week's waiver wire, with the top adds and their FAAB ranges as highlights (one player per line). No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
 2. Adds 1 to 3, one player per line with an empty line between players: name, team, position, the deployment number, then the action with the FAAB range ("Claim, 25 to 35 percent").
 3. Adds 4 to 6.
 4. Adds 7 to 10 (or "deeper adds").

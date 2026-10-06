@@ -46,7 +46,7 @@ Envelope: `title` "Serve or Sit, Week N", `dek` one sentence with the boldest ca
 
 One thread, 15 to 25 posts (aim for 20 or more), naming at least 14 teams and every team with a call on the site, `--at "Thu 13:20"`, `--not-after "Sun 11:00"`, `--link "line.html?week=N"`. Every call on the site goes in the thread, game by game where it helps a reader find his team. The Thursday night game leads it, so there is no separate Thursday night thread. The outline below is the order:
 
-1. Hook: the boldest call up and the boldest call down, one number each, each player on his own line and the closer on its own line. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
+1. Hook: a general intro to the week's lineup calls, with the boldest call up and the boldest call down as highlights, each player on his own line. No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
 2. Thursday night calls.
 3. The week favors them, part one (name, rank and tier, number), one player per line with an empty line between players.
 4. The week favors them, part two.

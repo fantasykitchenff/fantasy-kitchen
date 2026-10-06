@@ -57,7 +57,7 @@ Envelope: `title` "The Menu, Week N", `dek` one sentence with the week's biggest
 
 One thread, 15 to 25 posts (aim for 22 or more), naming at least 14 teams and as many of the teams playing as the tiers reach, `--at "Wed 13:20"`, `--not-after "Thu 18:00"`, `--link "menu.html?week=N"`. Each position runs through tiers 1 to 3 at least (QB and TE through the top 15), across as many posts as the five-hashtag cap needs, and the thread adds a team-by-team run of the pantry board's role changes with each player's rank. The Friday refresh rewrites the thread with `--replace <id>` only if it has not posted. The outline below is the order:
 
-1. Hook: the one thing that changed this week and the headline verdict. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
+1. Hook: a general intro to this week's Menu, what moved, with a few highlights (one player per line). No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
 2. QB: tiers 1 to 3, a tier line ("Tier 1") then one name per line with his rank ("1. Allen"), one sentence on the biggest mover.
 3. RB: tiers 1 to 3.
 4. WR: tiers 1 to 3.
@@ -65,7 +65,7 @@ One thread, 15 to 25 posts (aim for 22 or more), naming at least 14 teams and as
 6. Specials: 3 matchup plays, one player per line, each with one deployment number and his rank and tier.
 7. Close: "Full menu, all tiers, updated Friday with the injury report." plus the link (the tool appends it).
 
-Every post at most 275 characters. One player per line (`_standards.md`, "One player per line in thread posts"): a ranked list is a tier line then one name per line with his rank ("1. Allen"), an empty line between tiers; the team hashtags for the teams named go on their own last line (up to five per post; split a position across two posts when a tier list names more than five teams). A questionable player carries "(Q)". The specials post gives each his rank and tier ("WR28 for me, a high-end WR3"). No "start him", "start as a" or "must-start" anywhere (`_standards.md`, "Rank language for lineup calls"). The hook ends with a closer from `_standards.md` on its own line.
+Every post at most 275 characters. One player per line (`_standards.md`, "One player per line in thread posts"): a ranked list is a tier line then one name per line with his rank ("1. Allen"), an empty line between tiers; the team hashtags for the teams named go on their own last line (up to five per post; split a position across two posts when a tier list names more than five teams). A questionable player carries "(Q)". The specials post gives each his rank and tier ("WR28 for me, a high-end WR3"). No "start him", "start as a" or "must-start" anywhere (`_standards.md`, "Rank language for lineup calls"). The hook is a general intro with highlights, a closer only if the thread runs 20 or more posts, per `_standards.md`, on its own line when used.
 
 ## Finish
 

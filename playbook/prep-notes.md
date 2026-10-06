@@ -48,7 +48,7 @@ Envelope: `title` "Prep Notes, Week N", `dek` the biggest designation and its pi
 
 One thread, 15 to 25 posts (aim for 22 or more), covering every team playing Sunday and Monday, `--at "Fri 18:20"`, `--not-after "Sun 11:30"`, `--link "prep.html?week=N"`. If an earlier run this week already queued the Prep Notes thread and it has not posted, rewrite it with `--replace <id>`; if it has posted, queue nothing.
 
-1. Hook: how many are out, doubtful and questionable, the biggest out and the pivot. No link. (The hook ends with a closer from `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
+1. Hook: a general intro to the injury report (how many are out, doubtful and questionable), with the biggest outs and their pivots as highlights (one player per line). No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
 2. Then team by team, one or two teams per post, ordered by how much the news changes lineups: every Out and Doubtful player with his pivot and the pivot's rank and tier; every Questionable player with his Wed/Thu/Fri practice, his rank and tier if active, and the time his team's inactives drop; the players who cleared (practiced in full, no designation) with their rank; and the teammates whose role grows, with the usage number behind it.
 3. Teams with no fantasy designation still get a post: the most useful injury or availability fact from the pantry board or the team notes (an IR window, a line injury, a player back at practice) and the call it changes.
 4. Close plus link.
