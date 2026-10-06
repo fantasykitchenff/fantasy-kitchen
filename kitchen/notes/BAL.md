@@ -33,6 +33,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Lamar Jackson: Not at the start of Wednesday's practice minutes after his press conference; no injury or illness was mentioned and he spoke as if he will play vs TEN. Week 3: 15 of 20 for 186 and 2 TD, 6 carries for 50. [pod 9-30, beat]
 - 2026-10-01: Lamar Jackson: On the field at the start of Thursday's practice after a limited Wednesday with a back injury the head coach called minor (beat report). [pod 10-1, beat]
 - 2026-09-27: Lamar Jackson: 25, 31 and 20 pass attempts in Weeks 1 to 3. [pod 10-2, deployment]
+- 2026-10-06: Lamar Jackson: sprained left ankle, only an outside chance to play Week 5 @ATL and could miss multiple games (NFL Network via NFL.com, CBS Sports). Tyler Huntley 8 of 9 for 63 in relief vs TEN, 0 points on five drives.
 
 ## Backfield
 

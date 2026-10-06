@@ -6,9 +6,9 @@
   "dek": "Kyle Monangai took Chicago's backfield with 30 carries, and he is the first claim of the week.",
   "format": "PPR",
   "publishedAt": "2026-10-06T14:30:00Z",
-  "updatedAt": "2026-10-06T14:30:00Z",
+  "updatedAt": "2026-10-06T16:15:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Four contenders lost a starter in Week 4, and the shop is full of running backs again. Chicago, Seattle, Philadelphia and Arizona all have a new name taking work. Two receivers stepped into Cincinnati's and Buffalo's injuries behind them.\n\nPass on Austin Ekeler (WAS): he played 17 snaps, 27 percent, with 5 touches in his first game, and Rachaad White's shoulder is the only reason he played that many. Leave him on waivers.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Kansas City and Carolina are on bye. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
+  "intro_md": "Updated Tue 12:15 PM ET: Saquon Barkley is week to week and almost certainly out in London, so Will Shipley is the lead back and his claim goes up to 10 to 15 percent. Lamar Jackson has only an outside chance to play @ATL; Tyler Huntley's superflex stash goes up to 6 to 10 percent.\n\nFour contenders lost a starter in Week 4, and the shop is full of running backs again. Chicago, Seattle, Philadelphia and Arizona all have a new name taking work. Two receivers stepped into Cincinnati's and Buffalo's injuries behind them.\n\nPass on Austin Ekeler (WAS): he played 17 snaps, 27 percent, with 5 touches in his first game, and Rachaad White's shoulder is the only reason he played that many. Leave him on waivers.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Kansas City and Carolina are on bye. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
   "outro_md": "The Menu lands Wednesday with every one of these players ranked for Week 5. Claims first, lineups after.",
   "data": {
     "adds": [
@@ -51,10 +51,10 @@
         "team": "PHI",
         "pos": "RB",
         "action": "CLAIM",
-        "faab": "3-6%",
+        "faab": "10-15%",
         "rostered": "",
-        "why": "Shipley played 28 of 61 snaps vs LAR and finished as Philadelphia's only healthy back. Tank Bigsby needs core muscle surgery and goes to IR for about six weeks, and Saquon Barkley's hamstring tests were not believed to show anything serious, with answers due Wednesday before London.",
-        "verdict": "Claim him, 3 to 6 percent of FAAB. He is Barkley's only backup for six weeks, and the lead back @JAX if Barkley sits."
+        "why": "Shipley played 28 of 61 snaps vs LAR and finished as Philadelphia's only healthy back. Tank Bigsby needs core muscle surgery and goes to IR for about six weeks, and Saquon Barkley is week to week with the hamstring, which almost certainly keeps him out vs JAX in London.",
+        "verdict": "Claim him, 10 to 15 percent of FAAB. He is the lead back in London and Barkley's only backup for six weeks."
       },
       {
         "priority": 5,
@@ -169,9 +169,9 @@
         "team": "BAL",
         "pos": "QB",
         "action": "STASH",
-        "faab": "3-6%",
-        "why": "Huntley is the backup behind Lamar Jackson, whose left ankle sprain had no diagnosis after Monday's MRI; Jesse Minter does not expect it to be long. Baltimore plays @ATL Sunday night.",
-        "verdict": "Stash him in superflex, 3 to 6 percent of FAAB. One-QB leagues pass."
+        "faab": "6-10%",
+        "why": "Huntley is the backup behind Lamar Jackson, whose sprained left ankle gives him only an outside chance to play @ATL Sunday night, per NFL Network, and could cost more than one game. Huntley went 8 of 9 for 63 in relief vs TEN.",
+        "verdict": "Stash him in superflex, 6 to 10 percent of FAAB. One-QB leagues pass."
       },
       {
         "player": "RJ Harvey",

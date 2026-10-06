@@ -80,6 +80,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Saquon Barkley: 0 TDs through three games; 15, 4 and 15 carries; stinger limited him to 12 snaps in Week 2 (reports).
 - 2026-09-28: Saquon Barkley: After a 14-yard run to the 1 in the second quarter he was stopped for minus 1 and no gain on the next two snaps with Andy Dalton at quarterback, and Dalton was intercepted in the end zone on third down. Barkley finished 15 for 82 on 36 of 50 snaps (72%); snap share by week 71%, 16%, 72%. [pod 9-29, deployment]
 - 2026-10-05: Week 4 vs LAR snaps (61): Tank Bigsby 29 (48%), Will Shipley 28 (46%), Saquon Barkley 4 (7%); Bigsby left late with a lower-body injury and Shipley was the only healthy back (Yahoo snap counts, RotoWire).
+- 2026-10-06: Saquon Barkley reported week to week with the hamstring, almost certainly out vs JAX in London; not considered long term. Will Shipley the lead back with Tank Bigsby on IR (Yahoo, Inquirer).
 
 ## Receivers
 

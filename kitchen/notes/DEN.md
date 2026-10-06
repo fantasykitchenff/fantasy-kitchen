@@ -140,6 +140,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jaylen Waddle: 2 of 7 for 10 plus a 14-yard carry vs LAR. [pod 9-28, deployment]
 - 2026-09-27: Sutton / Waddle / Bryant / Engram: Week 3 routes on 34 dropbacks: Sutton 32 (94%), Waddle 28 (82%), Bryant 25 (74%), Engram 24 (71%); Engram 34 snaps (57%), 2 targets, 0 yards. [pod 9-30, deployment]
 - 2026-09-27: Jaylen Waddle: 1 catch for 2 yards in Week 1 and 2 for 10 on 7 targets in Week 3. [pod 10-2, deployment]
+- 2026-10-06: Pat Bryant: sprained ankle from Week 4 @SF, high-ankle suspected, expected to miss a few weeks (ESPN via PFT, Mile High Report).
 
 ## Tight ends
 

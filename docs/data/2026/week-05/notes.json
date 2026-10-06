@@ -1,0 +1,61 @@
+{
+  "series": "notes",
+  "season": 2026,
+  "week": 5,
+  "title": "Kitchen notes, Week 5",
+  "dek": "What moved today.",
+  "format": "PPR",
+  "publishedAt": "2026-10-06T16:15:00Z",
+  "updatedAt": "2026-10-06T16:15:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "items": [
+      {
+        "at": "2026-10-06T16:15:00Z",
+        "player": "Saquon Barkley",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report before London",
+        "text": "Saquon Barkley (PHI) is week to week with the hamstring he hurt vs LAR, which almost certainly keeps him out of Sunday's 9:30 AM ET game vs JAX in London. The injury is not considered long term. He is RB8 rest of season for me. Monitor Friday's injury report; Will Shipley is the lead back if Barkley sits.",
+        "url": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-rb-saquon-barkley-reportedly-week-to-week-with-hamstring-injury-rb-tank-bigsby-headed-to-ir-after-core-muscle-surgery-211127860.html"
+      },
+      {
+        "at": "2026-10-06T16:15:00Z",
+        "player": "Will Shipley",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "10-15%",
+        "text": "Will Shipley (PHI) played 28 of 61 snaps vs LAR and is the only other back on Philadelphia's active roster, with Tank Bigsby on IR and Barkley week to week. That makes him the lead back in London, not a backup. Claim him, 10 to 15 percent of FAAB.",
+        "url": "https://www.inquirer.com/eagles/nfl-week-5-london-jaguars-running-back-injuries-20261006.html"
+      },
+      {
+        "at": "2026-10-06T16:15:00Z",
+        "player": "Lamar Jackson",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "text": "Lamar Jackson (BAL) has a sprained left ankle and only an outside chance to play @ATL Sunday night, per NFL Network, and it could cost him more than one game. He left Week 4 vs TEN at halftime after going 15 of 20 for 222 and 2 TDs. QB2 rest of season for me. Monitor Wednesday's practice report.",
+        "url": "https://www.nfl.com/news/nfl-network-lamar-jackson-dealing-with-ankle-sprain-outside-chance-to-play-in-week-5"
+      },
+      {
+        "at": "2026-10-06T16:15:00Z",
+        "player": "Tyler Huntley",
+        "pos": "QB",
+        "action": "STASH",
+        "faab": "6-10%",
+        "text": "Tyler Huntley (BAL) gets his first start of the season @ATL if Jackson sits. He went 8 of 9 for 63 in relief Sunday, and Baltimore scored no points on his five drives. Superflex only: stash him, 6 to 10 percent of FAAB. One-QB leagues pass."
+      },
+      {
+        "at": "2026-10-06T16:15:00Z",
+        "player": "Pat Bryant",
+        "pos": "WR",
+        "action": "DROP",
+        "text": "Pat Bryant (DEN) sprained his ankle @SF, a suspected high-ankle sprain, and is expected to miss a few weeks, per ESPN. He played 67 percent of the snaps the week before. WR63 rest of season for me. Drop him for any add on the list.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-wr-pat-bryant-is-expected-to-miss-time-with-sprained-ankle"
+      }
+    ]
+  },
+  "posts": []
+}
