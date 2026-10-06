@@ -155,6 +155,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Chase Bisontis: The Cardinals lost projected starting right guard Chase Bisontis, the 34th overall pick, for the season, further weakening an already shaky offensive line. [8-19 RBs drafting and fading]
 - 2026-08-20: Arizona's line has ranked 22nd or worse five straight years; No. 34 pick G Chase Bisontis is out for the season and the run game slipped after losing Klayton Adams a year ago. [8-20 Offensive Line Rankings]
 - 2026-08-20: The Cardinals' offensive line reportedly looked good in preseason, and the new scheme is said to help its linemen more than last year's unit did. [8-20 buying or selling rookie hype]
+- 2026-10-06: Paris Johnson Jr. (left tackle) tore his biceps and is out for the season (azcardinals.com, Arizona Sports). [pod 10-6, official]
 
 ## Depth chart
 

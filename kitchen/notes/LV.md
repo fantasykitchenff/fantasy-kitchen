@@ -83,6 +83,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Ashton Jeanty 19 for 56 and 3 catches for 37; season 3.3 yards per carry, 13-97-2 receiving on 16 targets; Mike Washington 5 for 54 and his first career touchdown. [pod 9-28, deployment]
 - 2026-09-27: Ashton Jeanty: 63 carries for 206 yards through three games, by game 23 for 102, 21 for 48 and 19 for 56, so his last 40 carries went for 104 yards (2.6 a carry); long run 15, no rushing touchdown; he visited the trainers during the game @NO. [pod 9-29, deployment]
 - 2026-09-27: Mike Washington Jr.: 15 carries for 102 yards (6.8 a carry) through three games; 5 for 54 with a 36-yard touchdown @NO in Week 3. [pod 9-29, deployment]
+- 2026-10-04: Ashton Jeanty's ankle cut into his playing time vs KC (15 for 58, 6 of 8 for 68), and the Las Vegas beat calls the ankle a concern going into Week 5 (Yahoo snap observations, Las Vegas Review-Journal). [pod 10-6, beat]
 
 ## Receivers
 

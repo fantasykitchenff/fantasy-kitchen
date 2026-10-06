@@ -149,6 +149,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Jordan Mailata is an elite run blocker; Lane Johnson, likely in his final year, will miss part of the season to suspension; RG Tyler Steen is the weak link. [8-20 Offensive Line Rankings]
 - 2026-08-24: Philadelphia's line was banged up all of 2025; when healthy it is rated a top-five unit, and the offense has had very different splits without Lane Johnson. [8-24 adp adjustments]
 - 2026-09-14: Landon Dickerson: Placed on injured reserve with a knee bone bruise after playing all of Week 1; out at least four games (Weeks 2 to 5). Drew Kendall played all 50 line snaps at CHI in the starting five. [pod 9-29, official]
+- 2026-10-04: Lane Johnson was a surprise inactive vs LAR for personal reasons; his Week 5 status in London was still unclear Tuesday. Talk that he could retire is not confirmed, and the Inquirer says a former teammate's comments on it were twisted (ESPN, Yahoo, Inquirer). [pod 10-6, beat]
 
 ## Rookies
 

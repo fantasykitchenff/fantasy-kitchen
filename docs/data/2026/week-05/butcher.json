@@ -6,9 +6,9 @@
   "dek": "Ja'Marr Chase is in the concussion protocol with Joe Burrow throwing 54 times. Buy the scare.",
   "format": "PPR",
   "publishedAt": "2026-10-06T17:01:00Z",
-  "updatedAt": "2026-10-06T17:01:00Z",
+  "updatedAt": "2026-10-06T21:10:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Week 4 hurt a lot of stars and handed out a lot of touchdowns, and the trade market reads both the wrong way. The buys are good players with a short-term scare or a box score that lags their role. The sells scored on volume that is not theirs to keep. Ranks are rest of season for me, PPR scoring, prices written for 12-team leagues.",
+  "intro_md": "Updated Tue 5:10 PM ET: Puka Nacua has what a sideline report called a pre-hernia that could need surgery later, so the price drops to a WR2 alone; he is still WR6 rest of season for me. Tyquan Thornton needs ankle surgery and misses 12 to 16 weeks, which keeps Rashee Rice a buy for a WR3.\n\nWeek 4 hurt a lot of stars and handed out a lot of touchdowns, and the trade market reads both the wrong way. The buys are good players with a short-term scare or a box score that lags their role. The sells scored on volume that is not theirs to keep. Ranks are rest of season for me, PPR scoring, prices written for 12-team leagues.",
   "outro_md": "Heat Check has the usage trends behind these calls, and the Menu lands Wednesday with every one of them ranked for Week 5.",
   "data": {
     "buy": [
@@ -53,9 +53,9 @@
         "team": "LAR",
         "pos": "WR",
         "action": "TRADE_FOR",
-        "price": "a WR2 and an RB3",
-        "why": "Nacua caught 9 for 125 @PHI in his first game since Week 1, while Davante Adams caught 4 of 9. The groin cost him Weeks 2 and 3 and did not show in Week 4.",
-        "verdict": "WR6 rest of season for me. Trade for him before Monday night vs BUF; offer a WR2 and an RB3."
+        "price": "a WR2",
+        "why": "Nacua caught 9 for 125 @PHI in his first game since Week 1, while Davante Adams caught 4 of 9. The groin cost him Weeks 2 and 3. A sideline report says he has a pre-hernia that could worsen into one that needs surgery; he said he felt fine after the game, and that risk is why the price drops.",
+        "verdict": "WR6 rest of season for me. Trade for him before Monday night vs BUF; offer a WR2 and keep your RB3."
       },
       {
         "player": "Justin Jefferson",
@@ -90,7 +90,7 @@
         "pos": "WR",
         "action": "TRADE_FOR",
         "price": "a WR3",
-        "why": "Rice left Week 4 @LV in the first quarter with a hamstring that was called relatively minor Monday, and Kansas City is on bye in Week 5. He drew 9 targets in Week 3, and Tyquan Thornton, who caught 5 for 111 and 2 TDs, is out indefinitely.",
+        "why": "Rice left Week 4 @LV in the first quarter with a hamstring that was called relatively minor Monday, and Kansas City is on bye in Week 5. He drew 9 targets in Week 3, and Tyquan Thornton, who caught 5 for 111 and 2 TDs, needs ankle surgery and is out 12 to 16 weeks.",
         "verdict": "WR17 rest of season for me. Trade for him over the bye; offer a WR3."
       },
       {

@@ -40,6 +40,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Tyler Shough: 917 passing yards through three games, second in the NFL. [pod 9-29, deployment]
 - 2026-09-27: Tyler Shough: 132 pass attempts through three games (44 a game) for 917 yards; 6 of his touchdown passes have come from inside the 10. He had 3 of the team's 4 turnovers vs LV (an interception and 2 lost fumbles). [pod 9-29, deployment]
 - 2026-09-28: Tyler Shough has 132 attempts and 91 completions, the most among quarterbacks with three games played. [pod 10-2, aggregation]
+- 2026-10-05: Tyler Shough hurt his left hand in the Monday night loss to ATL; no severity reported Tuesday (Yahoo, Heavy). [pod 10-6, beat]
 
 ## Backfield
 
@@ -102,6 +103,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Jordyn Tyson: When healthy in camp he reportedly looked like the best player on the field; with him out, Chris Olave, Devaughn Vele and Juwan Johnson absorb the early-season targets. [8-26 rankings and news updates]
 - 2026-09-29: Chris Olave: 13, 10 and 13 targets in Weeks 1 to 3 (36 total), 27 catches for 375 yards, 1 TD; 9 of 13 for 107 vs LV in Week 3 with three near-TDs (reports).
 - 2026-09-27: Devaughn Vele: Receiver snap shares by week: Vele 91%, 96%, 88%; Chris Olave 86%, 84%, 84%; Bryce Lance 69%, 79%, 72%. [pod 9-30, deployment]
+- 2026-10-05: Chris Olave limped off after a late hit in the fourth quarter of the 45-24 Monday night loss to ATL; Tuesday reports say he avoided a major injury (Yahoo, Heavy, Athlon). [pod 10-6, beat]
 
 ## Tight ends
 

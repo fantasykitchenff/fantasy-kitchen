@@ -6,12 +6,75 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-06T16:15:00Z",
+  "updatedAt": "2026-10-06T21:10:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-06T21:10:00Z",
+        "player": "Tyquan Thornton",
+        "pos": "WR",
+        "action": "DROP",
+        "text": "Tyquan Thornton (KC) tore ligaments along with the dislocated left ankle and needs surgery that will cost him 12 to 16 weeks, with a postseason return possible. He caught 5 for 111 and 2 TDs in the game he got hurt. Drop him unless you have an open IR spot."
+      },
+      {
+        "at": "2026-10-06T21:10:00Z",
+        "player": "Emanuel Wilson",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "10-15%",
+        "text": "Mike Macdonald said Zach Charbonnet (knee) will not play vs SF, so Emanuel Wilson (SEA) has the whole Seattle backfield again after 21 carries and 2 TDs vs LAC. Charbonnet stays a stash until Week 6 at the earliest. Claim Wilson, 10 to 15 percent of FAAB."
+      },
+      {
+        "at": "2026-10-06T21:10:00Z",
+        "player": "Jayden Daniels",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "text": "Dan Quinn said Washington plans to have Jayden Daniels back as the starter (WAS) vs NYG after a full week of practice on the left elbow. Athan Kaliakmanis went 15 of 33 in London, so drop Kaliakmanis in superflex. Daniels is QB18 rest of season for me. Monitor Friday's injury report."
+      },
+      {
+        "at": "2026-10-06T21:10:00Z",
+        "player": "Puka Nacua",
+        "pos": "WR",
+        "action": "TRADE_FOR",
+        "price": "a WR2",
+        "text": "Puka Nacua (LAR) caught 9 for 125 @PHI in his first game back, and a sideline report says he has a pre-hernia that could worsen into one that needs surgery; he said he felt fine. WR6 rest of season for me. Trade for him, and offer a WR2 alone."
+      },
+      {
+        "at": "2026-10-06T21:10:00Z",
+        "player": "Ashton Jeanty",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Wednesday's injury report",
+        "text": "Ashton Jeanty (LV) ran 15 times for 58 and caught 6 of 8 for 68 vs KC, but the ankle cut into his snaps and the Las Vegas beat calls it a concern for Week 5. RB9 rest of season for me. Monitor Wednesday's injury report."
+      },
+      {
+        "at": "2026-10-06T21:10:00Z",
+        "player": "Chris Olave",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "text": "Chris Olave (NO) limped off after a late hit in the fourth quarter of Monday's 45-24 loss to ATL, and Tuesday reports say he avoided a major injury. WR7 rest of season for me. Monitor Wednesday's practice report."
+      },
+      {
+        "at": "2026-10-06T21:10:00Z",
+        "player": "Tyler Shough",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "text": "Tyler Shough (NO) hurt his left hand in Monday's loss to ATL, and no severity was reported Tuesday. QB12 rest of season for me. Monitor Wednesday's practice report."
+      },
+      {
+        "at": "2026-10-06T21:10:00Z",
+        "player": "Tyler Higbee",
+        "pos": "TE",
+        "action": "ADD",
+        "faab": "0-2%",
+        "text": "Tyler Higbee (LAR) caught 5 for 67 @PHI and led the Rams tight ends in snaps for a second straight game with the two tight ends ahead of him hurt. TE44 rest of season for me. In TE-premium and deep leagues, add him, 0 to 2 percent of FAAB."
+      },
       {
         "at": "2026-10-06T16:15:00Z",
         "player": "Saquon Barkley",

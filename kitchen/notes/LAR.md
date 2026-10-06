@@ -99,6 +99,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Tyler Higbee: 8 of 11 targets, 62 yards, 1 TD at DEN in Week 3 after Terrance Ferguson hurt his ankle (Ferguson 15.6 percent route share). Ferguson unlikely for Week 4; Colby Parkinson has an AC sprain (reports).
 - 2026-09-27: Tyler Higbee: 8 of 11 for 62 and a touchdown, 60 snaps (73%). [pod 9-28, deployment]
 - 2026-09-27: Tyler Higbee: 47 routes and 11 targets @DEN (8 for 62 and a TD); Konata Mumpfield 46 routes and 8 targets; Davante Adams 57 routes and 13 targets. [pod 9-29, deployment]
+- 2026-10-04: Tyler Higbee caught 5 for 67 @PHI and again led the LAR tight ends in snaps with Terrance Ferguson and Colby Parkinson hurt (NBC Sports, DraftSharks). [pod 10-6, deployment]
 
 ## Offensive line
 
@@ -128,6 +129,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Aaron Donald: Did not practice Wednesday (back); Sean McVay called the back "a little bit sore." TE Terrance Ferguson (ankle), TE Colby Parkinson (knee/shoulder) and CB Jaylen Watson (shoulder) also did not practice. [pod 10-1, official]
 - 2026-09-27: Puka Nacua: The report that he has not felt his usual explosiveness came from a source in a beat report, not from Nacua himself; surgery was described as not expected but not ruled out. [pod 10-1, beat]
 - 2026-10-02: Puka Nacua has no game designation and is set to play, though Sean McVay said his snaps may be limited; Terrance Ferguson (ankle) is out; Colby Parkinson is questionable, not out; Aaron Donald (back) is out. [pod 10-2, official]
+- 2026-10-04: Puka Nacua has what a sideline report called a "pre-hernia" that could worsen into one needing surgery; he said he felt fine after catching 9 for 125 @PHI. This updates the 9-28 "not hernia-related" line (NBC Sports, Yahoo). [pod 10-6, beat]
 
 ## Other
 

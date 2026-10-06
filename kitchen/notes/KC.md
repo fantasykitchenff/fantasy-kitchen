@@ -128,6 +128,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: The Chiefs' offensive line is viewed as a top-10 unit entering 2026. [8-19 RBs drafting and fading]
 - 2026-08-20: Losing Jawaan Taylor (frequent false starts) is addition by subtraction; Trey Smith, C Creed Humphrey (viewed as the best center in the league) and second-year LT Josh Simmons anchor a top-10 line. [8-20 Offensive Line Rankings]
 - 2026-09-30: Josh Simmons: Andy Reid said the left tackle has a bulging disc in his lower back and would not practice Wednesday; he is not on IR and an undrafted rookie continues to start at left tackle. Simmons was also a non-participant (back) on the Week 3 Wednesday report. Every other player on the 53 was due to practice in some capacity. [pod 9-30, coach]
+- 2026-10-04: Kingsley Suamataia was benched in Week 4 @LV and Andy Reid's explanation left the reason unclear; Josh Simmons remains out with the bulging disc Reid described 9-30 (Yahoo, Arrowhead Pride). [pod 10-6, beat]
 
 ## Depth chart
 
@@ -168,6 +169,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @LV: Tyquan Thornton dislocated his left ankle on a 55-yard catch in the fourth quarter (5 for 111, 2 TD on 8 targets), carted off; Andy Reid said it does not look good, full evaluation and a second opinion Monday (Rapoport, Fox4KC). Rashee Rice left in the first quarter with a hamstring (box score reports).
 - 2026-10-05: Tyquan Thornton is out indefinitely with the dislocated left ankle (Yahoo/AP); Rashee Rice could miss several weeks with the hamstring per a Monday report (NBC Sports), Reid called it a tweak.
 - 2026-10-05: Rashee Rice: hamstring called relatively minor Monday (NFL Network), with a chance he misses no games over the Week 5 bye; a Sunday report said several weeks.
+- 2026-10-05: Tyquan Thornton tore ligaments along with the dislocated left ankle, will have surgery and is expected to miss 12 to 16 weeks, with a postseason return possible (NFL Network via NBC Sports, Washington Times). This replaces the 10-5 "out indefinitely" line. [pod 10-6, beat]
 
 ## Other
 

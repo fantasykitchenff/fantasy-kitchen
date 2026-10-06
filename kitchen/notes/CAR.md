@@ -113,6 +113,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Carolina may be missing both starting tackles indefinitely: Ikem Ekwonu (Achilles in playoffs) and Taylor Moton (blood clots in lungs); both guards are banged up. They drafted a first-round T and signed Rasheed Walker. [8-20 Offensive Line Rankings]
 - 2026-08-26: Both starting offensive tackles are out heading into the season. [8-26 rankings and news updates]
 - 2026-09-29: Bryce Young: Most-pressured quarterback in the NFL through three games at 47% of dropbacks; CLE pressured him on 51% in Week 3 (team count). [pod 9-29, deployment]
+- 2026-10-04: Right tackle Monroe Freeling left Week 4 vs DET and did not return; Dave Canales is hopeful he is back after the Week 5 bye (NBC Sports, Yahoo). [pod 10-6, coach]
 
 ## Rookies
 

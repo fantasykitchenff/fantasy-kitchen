@@ -34,6 +34,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Jayden Daniels: A league-high 10.9% of his passes were dropped in 2025. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-09-27: Marcus Mariota played every snap, 19 of 31, 183, 3 TD, 0 INT in the 33-31 win over SEA; Drew Lock did not play. Dan Quinn said Monday that Jayden Daniels travels to London and is expected to practice this week ahead of IND. [pod 9-29, coach]
 - 2026-10-01: Jayden Daniels: Practiced Thursday in London wearing a brace on his left (non-throwing) elbow; Dan Quinn said the starter will be settled by Friday, and the offensive coordinator called the situation fluid. [pod 10-1, coach]
+- 2026-10-05: Dan Quinn said Washington plans to start Jayden Daniels vs NYG in Week 5 after a full week of practice on the left elbow (Yahoo, CBS Sports). [pod 10-6, coach]
 
 ## Backfield
 
