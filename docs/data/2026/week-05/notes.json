@@ -6,12 +6,29 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-06T21:10:00Z",
+  "updatedAt": "2026-10-06T22:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-06T22:20:00Z",
+        "text": "Lane Johnson (PHI) retired Tuesday, four games into his 14th season, two days after he was inactive for personal reasons vs LAR. Philadelphia goes to London vs JAX without its right tackle, Saquon Barkley, Tank Bigsby, DeVonta Smith and Dallas Goedert. Jalen Hurts is QB3 rest of season for me. Hold him.",
+        "url": "https://www.cbssports.com/nfl/news/eagles-lane-johnson-retires-from-nfl-after-week-4-absence/",
+        "player": "Jalen Hurts",
+        "pos": "QB",
+        "action": "HOLD",
+        "why": "Two bad weeks behind the rebuilt line would change the call; one game in London will not."
+      },
+      {
+        "at": "2026-10-06T22:20:00Z",
+        "text": "Seattle passed on Joe Mixon after his physical Tuesday and will sign Robert Henry Jr. instead. Mixon stays a free agent after missing all of 2025 with the foot. Emanuel Wilson leads vs SF and Zach Charbonnet is the stash behind him. Drop Mixon.",
+        "url": "https://www.nfl.com/news/report-seahawks-opt-against-signing-rb-joe-mixon-following-physical",
+        "player": "Joe Mixon",
+        "pos": "RB",
+        "action": "DROP"
+      },
       {
         "at": "2026-10-06T21:10:00Z",
         "player": "Tyquan Thornton",
@@ -120,5 +137,12 @@
       }
     ]
   },
-  "posts": []
+  "posts": [
+    {
+      "id": "2026w05-notes-thread-93c6",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
 }
