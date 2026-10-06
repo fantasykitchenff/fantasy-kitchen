@@ -56,6 +56,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Brian Robinson Jr.: Robinson is a handcuff only behind Bijan in Atlanta. [8-12 high value touches RBs]
 - 2026-08-14: Bijan Robinson: Among 51 RBs with 90+ carries in 2025 he ranked 4th in yards per carry, 7th in rush yards over expected per carry, 2nd in yards after contact per carry and 1st in missed tackles forced per carry. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-09-24: Bijan Robinson: 29 carries for 194 yards and 2 TD plus 2 catches for 19 on about 72% of the snaps, with all five carries inside the 5. Brian Robinson: 10 for 50 and a 7-yard TD on about 27% of the snaps. Snap shares by week: Bijan 77%, 51%, 72%; Brian 25%, 48%, 27%. [pod 9-29, deployment]
+- 2026-10-06: Week 4 @NO (Monday night, 45-24 win): Bijan Robinson 145 rushing yards and 2 TD; Brian Robinson Jr. 62 yards and 3 short TDs; five rushing TDs ties the team record (Audacy, NBC Sports, Yahoo).
 
 ## Receivers
 
@@ -78,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-24: Drake London: 10 targets on 24 routes (42%), 96% route share. [pod 9-28, deployment]
 - 2026-09-24: Drake London: 9 catches on 10 targets for 194 yards and no touchdown at GB; 40% of the 25 pass attempts (43% of charted targets), 24 routes on 25 dropbacks. [pod 9-29, deployment]
 - 2025-11-16: Drake London: In nine 2025 games with Penix: 94 targets (10.4 a game), 60 catches, 810 yards (90.0 a game), 6 TD. Weeks 4 to 11 (six games): 651 yards (108.5 a game), touchdowns in four of the six. [pod 9-30, deployment]
+- 2026-10-06: Week 4 @NO: Michael Penix Jr. 15 of 20 for 223 and a TD; Drake London 5 for 96; Jahan Dotson 2 for 54 and a 31-yard TD (Bleacher Report, Yahoo).
 
 ## Tight ends
 

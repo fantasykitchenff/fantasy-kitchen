@@ -1,0 +1,246 @@
+{
+  "series": "market",
+  "season": 2026,
+  "week": 5,
+  "title": "Market Run, Week 5",
+  "dek": "Kyle Monangai took Chicago's backfield with 30 carries, and he is the first claim of the week.",
+  "format": "PPR",
+  "publishedAt": "2026-10-06T14:30:00Z",
+  "updatedAt": "2026-10-06T14:30:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Four contenders lost a starter in Week 4, and the shop is full of running backs again. Chicago, Seattle, Philadelphia and Arizona all have a new name taking work. Two receivers stepped into Cincinnati's and Buffalo's injuries behind them.\n\nPass on Austin Ekeler (WAS): he played 17 snaps, 27 percent, with 5 touches in his first game, and Rachaad White's shoulder is the only reason he played that many. Leave him on waivers.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Kansas City and Carolina are on bye. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
+  "outro_md": "The Menu lands Wednesday with every one of these players ranked for Week 5. Claims first, lineups after.",
+  "data": {
+    "adds": [
+      {
+        "priority": 1,
+        "player": "Kyle Monangai",
+        "team": "CHI",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "10-20%",
+        "rostered": "",
+        "why": "Monangai ran 30 times for 146 yards and 2 TDs vs NYJ after D'Andre Swift lost a fumble at his own 28 in the third quarter and never came back; Chicago ran 49 times and held the ball for 42:45. The thumb he hurt in the fourth showed nothing concerning on imaging, and Ben Johnson called him day to day and fine for GB.",
+        "verdict": "Claim him, 10 to 20 percent of FAAB. He is the Chicago back to own @GB until Swift wins carries back."
+      },
+      {
+        "priority": 2,
+        "player": "Dohnte Meyers",
+        "team": "CIN",
+        "pos": "WR",
+        "action": "CLAIM",
+        "faab": "8-15%",
+        "rostered": "",
+        "why": "Meyers caught 7 for 82 vs JAX after Ja'Marr Chase left with a concussion in the second quarter. Tee Higgins strained his adductor on the final drive, a strain that usually costs two to three weeks, and Andrei Iosivas is on IR, so Meyers is the next outside receiver for a quarterback who just threw 54 times.",
+        "verdict": "Claim him, 8 to 15 percent of FAAB. The window is Higgins' two to three weeks, longer if Chase stays in the protocol @MIA."
+      },
+      {
+        "priority": 3,
+        "player": "Emanuel Wilson",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "10-15%",
+        "rostered": "",
+        "why": "Wilson ran 21 times for 81 and a TD vs LAC and caught 3 for 39 and a second TD on a screen, with Jadarian Price on IR. Joe Mixon signed to Seattle's practice squad, not the active roster, and Zach Charbonnet's practice window opened Oct 1 with a week or two still to go, so the lead job is Wilson's vs SF.",
+        "verdict": "Claim him, 10 to 15 percent of FAAB. The lead is a two-week window; Charbonnet's activation ends it."
+      },
+      {
+        "priority": 4,
+        "player": "Will Shipley",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "3-6%",
+        "rostered": "",
+        "why": "Shipley played 28 of 61 snaps vs LAR and finished as Philadelphia's only healthy back. Tank Bigsby needs core muscle surgery and goes to IR for about six weeks, and Saquon Barkley's hamstring tests were not believed to show anything serious, with answers due Wednesday before London.",
+        "verdict": "Claim him, 3 to 6 percent of FAAB. He is Barkley's only backup for six weeks, and the lead back @JAX if Barkley sits."
+      },
+      {
+        "priority": 5,
+        "player": "Keaton Mitchell",
+        "team": "LAC",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "4-8%",
+        "rostered": "",
+        "why": "Mitchell touched the ball 15 times @SEA (10 carries for 39, 5 catches for 24) to Omarion Hampton's 9, a week after 8 carries for 52 on 38 percent of the snaps. Hampton scored, but the touches have gone Mitchell's way two weeks running.",
+        "verdict": "Claim him, 4 to 8 percent of FAAB. He holds half of the work vs DEN, and the passing-down half in PPR."
+      },
+      {
+        "priority": 6,
+        "player": "Keon Coleman",
+        "team": "BUF",
+        "pos": "WR",
+        "action": "CLAIM",
+        "faab": "3-6%",
+        "rostered": "4%",
+        "why": "Coleman played 46 of 59 snaps and ran a route on 31 of 40 dropbacks vs NE, catching 6 of 7 for 116 and a TD after DJ Moore left with the shoulder. Moore is day to day with the same AC joint he hurt in Week 2.",
+        "verdict": "Claim him, 3 to 6 percent of FAAB. If Moore sits @LAR Monday night, Coleman is a flex play."
+      },
+      {
+        "priority": 7,
+        "player": "Tyler Allgeier",
+        "team": "ARI",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "3-6%",
+        "rostered": "",
+        "why": "Allgeier ran 8 times for 42 and a TD @NYG and took 3 of 5 goal-line snaps in Week 3. Mike LaFleur said Jeremiyah Love tweaked his other ankle, and Love said the staff is managing his workload.",
+        "verdict": "Claim him, 3 to 6 percent of FAAB. He gets the short scores vs DET while Love's ankles are managed."
+      },
+      {
+        "priority": 8,
+        "player": "KC Concepcion Jr.",
+        "team": "CLE",
+        "pos": "WR",
+        "action": "CLAIM",
+        "faab": "2-5%",
+        "rostered": "",
+        "why": "Concepcion played 59 snaps (92 percent) vs PIT and led Cleveland with 8 targets, catching 5 for 64, career highs in both. His average target comes 1.8 yards downfield, so he needs the volume to pay off.",
+        "verdict": "Claim him, 2 to 5 percent of FAAB. WR41 rest of season for me, a bench receiver with a full-time role."
+      },
+      {
+        "priority": 9,
+        "player": "Darius Cooper",
+        "team": "PHI",
+        "pos": "WR",
+        "action": "ADD",
+        "faab": "1-3%",
+        "rostered": "",
+        "why": "Cooper played 55 of 61 snaps vs LAR and led Philadelphia with 7 targets, catching 3 for 33 and 2 TDs. DeVonta Smith is out two to three games, so the role holds through London.",
+        "verdict": "Add him, 1 to 3 percent of FAAB. A deep-league flex @JAX while Smith is out."
+      },
+      {
+        "priority": 10,
+        "player": "Romeo Doubs",
+        "team": "NE",
+        "pos": "WR",
+        "action": "ADD",
+        "faab": "1-3%",
+        "rostered": "",
+        "why": "Doubs caught 2 TDs @BUF with A.J. Brown on IR until Week 6 at the earliest, and Mack Hollins left in the third quarter with the calf. Hollins led New England with 16 targets through three games, so his practice status decides Doubs' share.",
+        "verdict": "Add him, 1 to 3 percent of FAAB. WR50 rest of season for me; play him vs LV only if Hollins sits."
+      },
+      {
+        "priority": 11,
+        "player": "Kirk Cousins",
+        "team": "LV",
+        "pos": "QB",
+        "action": "STREAM",
+        "faab": "2-4%",
+        "rostered": "",
+        "why": "Cousins threw for 365 yards, 2 TDs and 1 pick vs KC and has multiple touchdown passes in three straight games. Brock Bowers is back to 11 targets and Michael Mayer added 10.",
+        "verdict": "Stream him @NE, 2 to 4 percent of FAAB, if your quarterback is Jackson, Daniels or a bye."
+      },
+      {
+        "priority": 12,
+        "player": "Brenton Strange",
+        "team": "JAX",
+        "pos": "TE",
+        "action": "STREAM",
+        "faab": "1-3%",
+        "rostered": "",
+        "why": "Strange caught 7 for 95 on a team-high 8 targets @CIN, season highs in catches and yards.",
+        "verdict": "Stream him vs PHI in London, 1 to 3 percent of FAAB. TE18 rest of season for me, a one-week tight end."
+      }
+    ],
+    "stashes": [
+      {
+        "player": "Zach Charbonnet",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "3-6%",
+        "why": "Charbonnet's practice window off PUP opened Oct 1 after last season's knee injury, and he could need another week or two before Seattle activates him. Price is on IR and Mixon is on the practice squad.",
+        "verdict": "Stash him, 3 to 6 percent of FAAB. He is the back who takes over from Wilson."
+      },
+      {
+        "player": "Tyreek Hill",
+        "team": "FA",
+        "pos": "WR",
+        "action": "STASH",
+        "faab": "2-5%",
+        "why": "Hill's agent said Monday he could sign in the next few days, and Kansas City, without Rashee Rice and Tyquan Thornton, is one of the teams talking to him. He is coming back from the dislocated knee and torn ACL from Week 4 of 2025, and the target is November. He is on 22 percent of rosters.",
+        "verdict": "Stash him, 2 to 5 percent of FAAB, if you have a bench spot to wait a month."
+      },
+      {
+        "player": "Tyler Huntley",
+        "team": "BAL",
+        "pos": "QB",
+        "action": "STASH",
+        "faab": "3-6%",
+        "why": "Huntley is the backup behind Lamar Jackson, whose left ankle sprain had no diagnosis after Monday's MRI; Jesse Minter does not expect it to be long. Baltimore plays @ATL Sunday night.",
+        "verdict": "Stash him in superflex, 3 to 6 percent of FAAB. One-QB leagues pass."
+      },
+      {
+        "player": "RJ Harvey",
+        "team": "DEN",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "1-3%",
+        "why": "Harvey caught 10 for 68 @SF, career highs, while J.K. Dobbins played 42 percent of the snaps. Pat Bryant was carted off in the same game, and the short throws went to Harvey.",
+        "verdict": "Stash him, 1 to 3 percent of FAAB. He is a PPR flex the week Dobbins misses time."
+      },
+      {
+        "player": "Brian Robinson Jr.",
+        "team": "ATL",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "0-1%",
+        "why": "Robinson ran for 62 yards and three touchdowns at NO Monday night, all from close range, behind Bijan Robinson's 145 and two.",
+        "verdict": "Stash him in 14-team leagues only, 0 to 1 percent of FAAB. He is a touchdown handcuff."
+      }
+    ],
+    "drops": [
+      {
+        "player": "Tank Bigsby",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "Core muscle surgery and IR for about six weeks.",
+        "verdict": "Drop him for any add on this list."
+      },
+      {
+        "player": "Marcus Mariota",
+        "team": "WAS",
+        "pos": "QB",
+        "action": "DROP",
+        "why": "He re-sprained the right MCL in London and misses multiple weeks, and Jayden Daniels is practicing in full this week to take the job back.",
+        "verdict": "Drop him."
+      },
+      {
+        "player": "Tyquan Thornton",
+        "team": "KC",
+        "pos": "WR",
+        "action": "DROP",
+        "why": "He dislocated his left ankle @LV after catching 5 for 111 and 2 TDs, and Andy Reid called him out indefinitely. Kansas City is also on bye.",
+        "verdict": "Drop him unless you have an open IR spot."
+      },
+      {
+        "player": "Xavier Hutchinson",
+        "team": "HOU",
+        "pos": "WR",
+        "action": "DROP",
+        "why": "Nico Collins came back to 69 percent of the snaps and caught 7 for 118 and 2 TDs vs DAL. The Weeks 2 and 3 targets go back to Collins.",
+        "verdict": "Drop him."
+      }
+    ],
+    "mnf": [
+      {
+        "text": "Atlanta ran for five touchdowns in a 45-24 win at NO. Bijan Robinson ran for 145 and two scores, Brian Robinson Jr. took three from close range, and Michael Penix Jr. was 15 of 20 for 223. Stash Brian Robinson Jr. in 14-team leagues only, 0 to 1 percent of FAAB."
+      },
+      {
+        "text": "Alvin Kamara (NO) scored from 3 and 5 yards out, and Juwan Johnson (NO) caught 6 for 59 with Noah Fant inactive. Johnson is TE11 rest of season for me; hold him. Kamara stays in lineups as a flex while Travis Etienne Jr. is out; hold him."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w05-market-thread-dcb9",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

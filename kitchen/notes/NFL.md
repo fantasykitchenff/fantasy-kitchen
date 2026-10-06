@@ -62,3 +62,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Week 4 has no byes; PIT at CLE Thursday 8:15 PM ET, IND at WAS in London 9:30 AM ET, DET at CAR Sunday night, ATL at NO Monday night; nine 1:00 PM games, one 4:05 and three 4:25 (schedule).
 - 2026-09-30: Through Week 3, most fantasy points allowed to running backs: CAR and MIA; fewest: MIN. Most to receivers: HOU; fewest: SEA, PIT, KC. Fewest to tight ends: SF, PHI. Most to quarterbacks: DET; fewest: KC (public points-allowed pages).
 - 2026-10-01: Week 4 odds: PIT -2.5 at CLE (38.5), IND -3.5 vs WAS (47.5), LAR -3 at PHI (43.5), BUF -6.5 vs NE (48.5), CHI -3.5 vs NYJ (42.5), BAL -11.5 vs TEN (43.5), SF -2.5 vs DEN (48.5), NO -2.5 vs ATL (48.5) (odds pages, Thursday morning).
+- 2026-10-06: Tyreek Hill (free agent) on 22% of fantasy rosters; agent expects a signing within days, KC among interested teams, November return target (ESPN, NBC Sports).
+- 2026-10-06: Week 5: KC and CAR on bye; TB @DAL Thursday; PHI @JAX London 9:30 AM ET; DEN @LAC 4:05, DET @ARI and SF @SEA 4:25; BAL @ATL Sunday night; BUF @LAR Monday night (schedule).

@@ -74,6 +74,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: After Etienne left, carries went Kamara 6 and Miller 4; second-half snaps Kamara 20 and Miller 14 (PFF); CJ Donaldson stayed the third-down back; over the final five possessions Kamara had 6 touches and Miller 5. [pod 9-29, deployment]
 - 2026-09-27: Alvin Kamara: Week 3 snaps: Etienne 28 (38%) before leaving, Kamara 24 (32%), Kendre Miller 14 (19%), CJ Donaldson 12 (16%). Kamara ran 9 times for 36 and caught 1 for 5. By week: Etienne 59%, 54%, 38%; Kamara inactive, 29%, 32%; Miller 29%, inactive, 19%; Donaldson 17%, 29%, 16%. [pod 9-29, deployment]
 - 2026-10-01: Kellen Moore said Alvin Kamara and Kendre Miller will handle the load, with CJ Donaldson finding a specific role; he named no single lead back. [pod 10-2, coach]
+- 2026-10-06: Week 4 vs ATL: Alvin Kamara rushing TDs from 3 and 5 yards in the 45-24 loss (Audacy, Yahoo).
 
 ## Receivers
 
@@ -118,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Juwan Johnson: 19 targets, 15 catches, 173 yards and 3 touchdowns through three games; 4 of 4 for 66 in Week 2 and 8 of 8 with 2 touchdowns in Week 3. [pod 9-29, deployment]
 - 2026-09-27: Juwan Johnson: Tight end snap shares by week: Johnson 84%, 53%, 62%; Noah Fant 41%, 44%, 57%; Oscar Delp 0, 13%, 19%. Johnson's two Week 3 touchdowns were from 1 and 2 yards and he lost a fumble. [pod 9-29, deployment]
 - 2026-09-28: Juwan Johnson: TE3 in fantasy points through three weeks in one major site's scoring; Week 3 was 8 catches on 8 targets for 53 and 2 TD. [pod 10-1, aggregation]
+- 2026-10-06: Week 4 vs ATL: Juwan Johnson 6 for 59 with Noah Fant inactive (Bleacher Report).
 
 ## Offensive line
 

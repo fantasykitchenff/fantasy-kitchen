@@ -1,8 +1,17 @@
 {
   "season": 2026,
-  "currentWeek": 4,
-  "updatedAt": "2026-10-05T23:22:30Z",
+  "currentWeek": 5,
+  "updatedAt": "2026-10-06T14:26:52Z",
   "pieces": [
+    {
+      "series": "market",
+      "week": 5,
+      "path": "2026/week-05/market.json",
+      "title": "Market Run, Week 5",
+      "dek": "Kyle Monangai took Chicago's backfield with 30 carries, and he is the first claim of the week.",
+      "publishedAt": "2026-10-06T14:30:00Z",
+      "updatedAt": "2026-10-06T14:30:00Z"
+    },
     {
       "series": "leftovers",
       "week": 4,

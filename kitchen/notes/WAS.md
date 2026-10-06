@@ -75,6 +75,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Rachaad White: Washington added Rachaad White, described as historically inefficient, plus a sixth-round rookie back to a backfield committee with Jacory Croskey-Merritt. [8-22 10 players we cant stop drafting]
 - 2026-09-27: Rachaad White: shoulder, questionable during the game, returned and finished, 30 snaps (43%), 35 rushing yards, a receiving touchdown and a 19-yard run under two minutes. Jacory Croskey-Merritt 39 snaps (57%), 19 for 36 with a 48-yard touchdown wiped out by penalty. [pod 9-29, deployment]
 - 2026-09-27: Jacory Croskey-Merritt: Week 3 vs SEA was 19 carries for 36 (long of 9) plus 1 catch on 1 target for 7, 20 opportunities; season totals 47 carries for 142 and 1 TD. [pod 10-1, deployment]
+- 2026-10-06: Week 4 vs IND (London): Jacory Croskey-Merritt 29 snaps (45%), 9 for 15, 2 for 35; Austin Ekeler 17 snaps (27%), 4 for 29, 1 of 2 for 11 in his first game after signing; Kaytron Allen 12 snaps; Rachaad White inactive (shoulder) (CBS, NBC Sports).
 
 ## Receivers
 
