@@ -56,6 +56,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-15: Tyler Goodson signed off the ATL practice squad (Israel Abanikanda waived); in Week 3 he was the No. 2 behind Javonte Williams (75% snaps on the season) ahead of Emari Demercado. The injured back was Malik Davis (season-ending hip surgery); Blue and Mafah were cut in camp. [pod 9-28, official]
 - 2026-09-30: Malik Davis: hip injury in Week 3; Emari Demercado is the only back behind Javonte Williams on the active roster (reports).
 - 2026-09-27: Javonte Williams: 19 carries for 98 and a TD, 2 catches for 5 on 3 targets, 56 snaps (76%) vs BAL; 12 targets in three games (5, 4, 3), 10 for 56 and a TD; 43 carries for 169 and 2 TDs. Tyler Goodson made his Dallas debut as the No. 2 with 11 snaps (15%), 6 carries for 22; Emari Demercado did not play a snap. [pod 9-30, deployment]
+- 2026-10-06: Javonte Williams: 62 carries for 231 (3.7 a carry) and 5 rushing TD in four games after 19 for 62 and 3 TD @HOU (season totals from weekly reports).
 
 ## Receivers
 

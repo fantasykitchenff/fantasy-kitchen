@@ -1,8 +1,26 @@
 {
   "season": 2026,
   "currentWeek": 5,
-  "updatedAt": "2026-10-06T16:16:26Z",
+  "updatedAt": "2026-10-06T17:01:16Z",
   "pieces": [
+    {
+      "series": "butcher",
+      "week": 5,
+      "path": "2026/week-05/butcher.json",
+      "title": "Butcher Shop, Week 5",
+      "dek": "Ja'Marr Chase is in the concussion protocol with Joe Burrow throwing 54 times. Buy the scare.",
+      "publishedAt": "2026-10-06T17:01:00Z",
+      "updatedAt": "2026-10-06T17:01:00Z"
+    },
+    {
+      "series": "heat",
+      "week": 5,
+      "path": "2026/week-05/heat.json",
+      "title": "Heat Check, Week 5",
+      "dek": "Michael Wilson has 30 targets in two weeks. The stove's on in Arizona.",
+      "publishedAt": "2026-10-06T17:01:00Z",
+      "updatedAt": "2026-10-06T17:01:00Z"
+    },
     {
       "series": "market",
       "week": 5,

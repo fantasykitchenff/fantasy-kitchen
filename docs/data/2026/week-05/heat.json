@@ -1,0 +1,246 @@
+{
+  "series": "heat",
+  "season": 2026,
+  "week": 5,
+  "title": "Heat Check, Week 5",
+  "dek": "Michael Wilson has 30 targets in two weeks. The stove's on in Arizona.",
+  "format": "PPR",
+  "publishedAt": "2026-10-06T17:01:00Z",
+  "updatedAt": "2026-10-06T17:01:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Heat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR.",
+  "outro_md": "Butcher Shop turns these trends into trade offers, and the Menu ranks every one of them for Week 5 on Wednesday.",
+  "data": {
+    "risers": [
+      {
+        "player": "Michael Wilson",
+        "team": "ARI",
+        "pos": "WR",
+        "stat": "Targets 7, 7, 17, 13",
+        "why": "Wilson has 44 targets in four games, 30 of them in the last two, and caught 7 of 13 for 95 @NYG. He played 93 percent of the snaps in Week 3 while Marvin Harrison Jr. drew 9 targets all season.",
+        "verdict": "WR44 rest of season for me. Trade for him; offer a bench WR3.",
+        "action": "TRADE_FOR",
+        "price": "a bench WR3"
+      },
+      {
+        "player": "Kyren Williams",
+        "team": "LAR",
+        "pos": "RB",
+        "stat": "Targets 7 to 13; 70 snaps to Corum's 13",
+        "why": "Williams caught 10 of 13 targets @PHI, a career high in catches, with 16 carries for 80 and 2 TDs. Blake Corum played 13 snaps, a breather and nothing more.",
+        "verdict": "RB16 rest of season for me. Trade for him; offer a WR3 and a bench RB.",
+        "action": "TRADE_FOR",
+        "price": "a WR3 and a bench RB"
+      },
+      {
+        "player": "Tetairoa McMillan",
+        "team": "CAR",
+        "pos": "WR",
+        "stat": "Targets 5 to 16",
+        "why": "McMillan ran a route on 92 percent of the dropbacks @CLE for 5 targets, then caught 14 of 16 for 192 and 2 TDs vs DET. Jalen Coker was inactive and Xavier Legette is on IR, so the targets have nowhere else to go.",
+        "verdict": "WR20 rest of season for me. Trade for him during the Week 5 bye; offer a WR2.",
+        "action": "TRADE_FOR",
+        "price": "a WR2"
+      },
+      {
+        "player": "Carnell Tate",
+        "team": "TEN",
+        "pos": "WR",
+        "stat": "Targets 9 to 12; 39% of the targets in Week 4",
+        "why": "Tate ran a route on 92 percent of the dropbacks in Week 3 and drew 9 targets, then 12 @BAL for 9 catches and 145 yards. The rookie is the first read now.",
+        "verdict": "WR34 rest of season for me. Trade for him; offer a bench RB or a WR4.",
+        "action": "TRADE_FOR",
+        "price": "a bench RB or a WR4"
+      },
+      {
+        "player": "Isaiah Likely",
+        "team": "NYG",
+        "pos": "TE",
+        "stat": "Snap share 49%, 69%, 84%; 12 targets in Week 4",
+        "why": "Likely's snap share rose three straight weeks, and vs ARI he drew 12 targets and caught 7 for 66. He has 35 targets in four games.",
+        "verdict": "TE13 rest of season for me. Trade for him; offer a TE in the 14 to 18 range and a bench piece.",
+        "action": "TRADE_FOR",
+        "price": "a TE in the 14 to 18 range and a bench piece"
+      },
+      {
+        "player": "Brock Bowers",
+        "team": "LV",
+        "pos": "TE",
+        "stat": "13 and 11 targets, team highs both games back",
+        "why": "Bowers drew 13 of 30 targets in his first game back from knee surgery, then a team-high 11 vs KC with 6 for 86 and a TD. He has 16 catches for 202 and 2 TDs in two games.",
+        "verdict": "TE2 rest of season for me. Trade for him; offer a WR2 and a TE in the 10 to 14 range.",
+        "action": "TRADE_FOR",
+        "price": "a WR2 and a TE in the 10 to 14 range"
+      },
+      {
+        "player": "Kyle Monangai",
+        "team": "CHI",
+        "pos": "RB",
+        "stat": "30 carries in Week 4",
+        "why": "Monangai ran 30 times for 146 and 2 TDs vs NYJ after D'Andre Swift fumbled in the third quarter and never came back. The thumb imaging was clean and Ben Johnson expects him to be fine @GB.",
+        "verdict": "RB36 rest of season for me. Claim him, 10 to 20 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "10-20%"
+      },
+      {
+        "player": "Keaton Mitchell",
+        "team": "LAC",
+        "pos": "RB",
+        "stat": "Snap share 25% to 38%; 15 touches to Hampton's 9 in Week 4",
+        "why": "Mitchell played 38 percent of the snaps in Week 3, then touched the ball 15 times @SEA with 10 carries for 39 and 5 catches for 24. He out-ran Omarion Hampton in routes 33 to 26 over the first three weeks.",
+        "verdict": "Claim him, 4 to 8 percent of FAAB. He holds half of the work vs DEN.",
+        "action": "CLAIM",
+        "faab": "4-8%"
+      },
+      {
+        "player": "Will Shipley",
+        "team": "PHI",
+        "pos": "RB",
+        "stat": "28 of 61 snaps in Week 4, the last healthy back",
+        "why": "Shipley played 28 snaps vs LAR and finished as the only healthy back, and Tank Bigsby is on IR after core muscle surgery. Saquon Barkley is week to week, almost certainly out @JAX in London.",
+        "verdict": "Claim him, 10 to 15 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "10-15%"
+      },
+      {
+        "player": "Denzel Boston",
+        "team": "CLE",
+        "pos": "WR",
+        "stat": "Snap share 87% to 95%",
+        "why": "Boston played 61 snaps vs PIT and caught 4 of 7 for 89, Cleveland's leading receiver in three of four games. Jerry Jeudy had 5 targets in the first three.",
+        "verdict": "WR46 rest of season for me. Trade for him; offer a bench RB.",
+        "action": "TRADE_FOR",
+        "price": "a bench RB"
+      },
+      {
+        "player": "Darius Cooper",
+        "team": "PHI",
+        "pos": "WR",
+        "stat": "55 of 61 snaps, a team-high 7 targets",
+        "why": "Cooper played 90 percent of the snaps vs LAR and caught 3 for 33 and 2 TDs. DeVonta Smith is out two to three games, so the role holds @JAX.",
+        "verdict": "Add him, 1 to 3 percent of FAAB.",
+        "action": "ADD",
+        "faab": "1-3%"
+      },
+      {
+        "player": "Michael Mayer",
+        "team": "LV",
+        "pos": "TE",
+        "stat": "10 targets in Week 4",
+        "why": "Mayer caught 8 for 82 on 10 targets vs KC as Las Vegas ran two tight ends all day, next to Bowers' 11. One week of volume, so this is a TE-premium add.",
+        "verdict": "Add him in TE-premium leagues, 0 to 2 percent of FAAB.",
+        "action": "ADD",
+        "faab": "0-2%"
+      }
+    ],
+    "fallers": [
+      {
+        "player": "Omarion Hampton",
+        "team": "LAC",
+        "pos": "RB",
+        "stat": "Snap share 58%, 63%, 42%; 9 touches to Mitchell's 15 in Week 4",
+        "why": "Hampton ran 9 times for 41 and a TD @SEA while Keaton Mitchell touched the ball 15 times. He has 3 targets all season.",
+        "verdict": "RB12 rest of season for me. Trade him away; ask for a top-15 RB who catches passes, or a WR2.",
+        "action": "TRADE_AWAY",
+        "price": "a top-15 RB who catches passes, or a WR2"
+      },
+      {
+        "player": "D'Andre Swift",
+        "team": "CHI",
+        "pos": "RB",
+        "stat": "15 carries, then the bench after a third-quarter fumble",
+        "why": "Swift ran 15 times for 58 vs NYJ, lost a fumble at his own 28 in the third quarter and did not carry again while Kyle Monangai took 30. Monangai's thumb is expected to be fine for GB.",
+        "verdict": "RB13 rest of season for me. Monitor the carry split @GB Sunday; a second game on the bench with Monangai healthy makes him a sell.",
+        "action": "MONITOR",
+        "watch": "the carry split @GB Sunday"
+      },
+      {
+        "player": "Marvin Harrison Jr.",
+        "team": "ARI",
+        "pos": "WR",
+        "stat": "9 targets in three games, under 80% of the snaps each week",
+        "why": "Harrison drew 4 targets on 62 routes in Weeks 1 and 2 and 5 in Week 3, while Michael Wilson drew 30 in the last two games. A national report put his trade value at possibly a quality Day 3 pick.",
+        "verdict": "WR43 rest of season for me. Trade him away; ask for a bench WR3 with a full-time role.",
+        "action": "TRADE_AWAY",
+        "price": "a bench WR3 with a full-time role"
+      },
+      {
+        "player": "Josh Downs",
+        "team": "IND",
+        "pos": "WR",
+        "stat": "Targets 3, 9, 11, then 4",
+        "why": "Downs caught 3 of 4 for 16 vs WAS in London with Alec Pierce on IR and Keenan Allen out, after 9 and 11 targets the two weeks before. His snap rate in two-tight-end sets fell to 50 percent in Week 3 from 88.6 before.",
+        "verdict": "WR35 rest of season for me. Monitor his targets Sunday; another game under 5 makes him a sell.",
+        "action": "MONITOR",
+        "watch": "his target count Sunday"
+      },
+      {
+        "player": "Jeremiyah Love",
+        "team": "ARI",
+        "pos": "RB",
+        "stat": "Carries 21 to 14",
+        "why": "Love ran 14 times for 63 @NYG after 21 carries on 64 percent of the snaps vs SF, and Tyler Allgeier scored on 8 carries. Mike LaFleur said Love tweaked his other ankle, and Love said the staff is managing his workload.",
+        "verdict": "RB14 rest of season for me. Monitor Wednesday's practice report before DET.",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report"
+      },
+      {
+        "player": "J.K. Dobbins",
+        "team": "DEN",
+        "pos": "RB",
+        "stat": "Snap share 52% to 42%",
+        "why": "Dobbins played 42 percent of the snaps @SF and ran 11 times for 40 while RJ Harvey caught 10 passes. He has 46 carries for 161 in four games, 3.5 a carry.",
+        "verdict": "RB32 rest of season for me. Trade him away; ask for a bench RB with a clearer role.",
+        "action": "TRADE_AWAY",
+        "price": "a bench RB with a clearer role"
+      },
+      {
+        "player": "Jacory Croskey-Merritt",
+        "team": "WAS",
+        "pos": "RB",
+        "stat": "Snap share 57% to 45%",
+        "why": "Croskey-Merritt played 29 snaps vs IND and ran 9 times for 15, and Austin Ekeler took 17 snaps in his first game. Rachaad White (shoulder) is the third back when healthy.",
+        "verdict": "RB35 rest of season for me. Trade him away; ask for a bench WR with a role.",
+        "action": "TRADE_AWAY",
+        "price": "a bench WR with a role"
+      },
+      {
+        "player": "James Cook III",
+        "team": "BUF",
+        "pos": "RB",
+        "stat": "Snap share 67% to a season-low 59.3%",
+        "why": "Cook played a season-low 59.3 percent of the snaps vs NE, and Ty Johnson ran 15 routes on 19 snaps. Cook drew 1 target in Week 3, so the passing work is going elsewhere.",
+        "verdict": "RB7 rest of season for me. Monitor his snap share @LAR Monday night.",
+        "action": "MONITOR",
+        "watch": "his snap share @LAR Monday night"
+      },
+      {
+        "player": "TreVeyon Henderson",
+        "team": "NE",
+        "pos": "RB",
+        "stat": "Snaps 33, 23, 25",
+        "why": "Henderson played 25 snaps to Rhamondre Stevenson's 35 @BUF and ran 14 times for 42 with no catch on 2 targets. Stevenson has out-snapped him two weeks running and took the score and the two-point try.",
+        "verdict": "RB24 rest of season for me. Monitor the snap split vs LV Sunday.",
+        "action": "MONITOR",
+        "watch": "the snap split vs LV Sunday"
+      },
+      {
+        "player": "Xavier Hutchinson",
+        "team": "HOU",
+        "pos": "WR",
+        "stat": "Nico Collins back at 69% of the snaps",
+        "why": "Collins returned from the hamstring vs DAL and caught 7 for 118 and 2 TDs on 69 percent of the snaps. The targets Hutchinson saw in Weeks 2 and 3 go back to Collins.",
+        "verdict": "Drop him for any add on the Market Run list.",
+        "action": "DROP"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w05-heat-thread-cb8c",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

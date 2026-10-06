@@ -123,6 +123,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Marvin Harrison Jr.: 67 of 87 snaps (77%) in Week 3, under 80% in all three games; 9 targets through three games. Kendrick Bourne played 48 snaps (55%). [pod 9-29, deployment]
 - 2026-09-30: The "quality Day 3 pick" trade value for Marvin Harrison Jr. was one rival team's forecast in a national report, not Arizona's asking price. [pod 10-2, beat]
 - 2026-10-05: Week 4 @NYG: Michael Wilson 7 of 13 for 95, 30 targets in two games; Trey McBride 7 of 12 for 31; Jeremiyah Love 14 for 63, Tyler Allgeier 8 for 42 and a TD (NBC, CBS).
+- 2026-10-06: Michael Wilson: 44 targets in four games (7, 7, 17, 13), 30 in Weeks 3 and 4; Marvin Harrison Jr. 9 targets in Weeks 1 to 3 (season totals from weekly reports).
 
 ## Tight ends
 
@@ -143,6 +144,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-21: Trey McBride: Broke the tight end receptions record in 2025, aided by several games of extra routes; he was also very good in 2024. [8-21 mayhem mock draft]
 - 2026-09-27: Trey McBride: 9 of 11 for 75 @SF on 79 snaps (91%); 34 targets, 26 catches, 211 yards and 2 TD through three games, the team lead in targets, with at least 8 catches and 10 targets in every game. [pod 9-29, deployment]
 - 2026-10-04: Trey McBride: 7 of 12 for 31 at NYG, his fourth straight game with 10 or more targets. [pod 10-5, deployment]
+- 2026-10-06: Trey McBride: 46 targets in four games, 10 or more in every game, 2 TD (season totals from weekly reports).
 
 ## Offensive line
 
