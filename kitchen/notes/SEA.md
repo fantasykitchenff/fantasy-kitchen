@@ -134,6 +134,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-24: Zach Charbonnet: PUP (torn ACL in the January playoff at SF), eligible Week 5 at the earliest; Mike Macdonald said the window is not opening this week. [pod 9-29, official]
 - 2026-10-01: Zach Charbonnet: Seattle opened his 21-day practice window off reserve/PUP (torn ACL, January playoff); he must miss the first four games, so Week 5 is the earliest he can play, and the team can activate him any time within the window. [pod 10-1, official]
 - 2026-10-01: Jadarian Price was limited Wednesday and did not practice Thursday (chest); Zach Charbonnet was limited in his first practice back, Week 5 at the earliest. [pod 10-2, official]
+- 2026-10-07: Zach Charbonnet: the knee that keeps him out for Week 5 vs SF is the ACL he had surgically repaired in the offseason; his practice window opened Oct 1 (team site, NBC Sports). [pod 10-7, official]
 
 ## Other
 
