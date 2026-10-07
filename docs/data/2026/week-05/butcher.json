@@ -6,9 +6,9 @@
   "dek": "Ja'Marr Chase is in the concussion protocol with Joe Burrow throwing 54 times. Buy the scare.",
   "format": "PPR",
   "publishedAt": "2026-10-06T17:01:00Z",
-  "updatedAt": "2026-10-06T21:10:00Z",
+  "updatedAt": "2026-10-07T15:12:39Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 5:10 PM ET: Puka Nacua has what a sideline report called a pre-hernia that could need surgery later, so the price drops to a WR2 alone; he is still WR6 rest of season for me. Tyquan Thornton needs ankle surgery and misses 12 to 16 weeks, which keeps Rashee Rice a buy for a WR3.\n\nWeek 4 hurt a lot of stars and handed out a lot of touchdowns, and the trade market reads both the wrong way. The buys are good players with a short-term scare or a box score that lags their role. The sells scored on volume that is not theirs to keep. Ranks are rest of season for me, PPR scoring, prices written for 12-team leagues.",
+  "intro_md": "Updated Wed 11:15 AM ET: rest-of-season ranks refreshed. Kyren Williams moves up to RB12 and stays a buy; George Kittle moves up to TE7, so sell him only for a TE in the 4 to 6 range; Jaylen Warren is RB23, still a sell before Rico Dowdle returns; Omarion Hampton drops to RB14.\n\nUpdated Tue 5:10 PM ET: Puka Nacua has what a sideline report called a pre-hernia that could need surgery later, so the price drops to a WR2 alone; he is still WR5 rest of season for me. Tyquan Thornton needs ankle surgery and misses 12 to 16 weeks, which keeps Rashee Rice a buy for a WR3.\n\nWeek 4 hurt a lot of stars and handed out a lot of touchdowns, and the trade market reads both the wrong way. The buys are good players with a short-term scare or a box score that lags their role. The sells scored on volume that is not theirs to keep. Ranks are rest of season for me, PPR scoring, prices written for 12-team leagues.",
   "outro_md": "Heat Check has the usage trends behind these calls, and the Menu lands Wednesday with every one of them ranked for Week 5.",
   "data": {
     "buy": [
@@ -28,7 +28,7 @@
         "action": "TRADE_FOR",
         "price": "a WR2",
         "why": "McBride has drawn 10 or more targets in all four games, 46 in total, and caught 7 of 12 for 31 @NYG. He has 2 touchdowns on that volume, so the scoring is behind the usage.",
-        "verdict": "TE1 rest of season for me. Trade for him after the 31-yard day; offer a WR2."
+        "verdict": "TE2 rest of season for me. Trade for him after the 31-yard day; offer a WR2."
       },
       {
         "player": "Kyren Williams",
@@ -37,7 +37,7 @@
         "action": "TRADE_FOR",
         "price": "a WR3 and a bench RB",
         "why": "Williams played 70 snaps to Blake Corum's 13 @PHI and caught 10 of 13 targets to go with 16 carries for 80 and 2 TDs. He has 21 catches on 25 targets in four games, a three-down role.",
-        "verdict": "RB16 rest of season for me. Trade for him; offer a WR3 and a bench RB."
+        "verdict": "RB12 rest of season for me. Trade for him; offer a WR3 and a bench RB."
       },
       {
         "player": "Tetairoa McMillan",
@@ -46,7 +46,7 @@
         "action": "TRADE_FOR",
         "price": "a WR2",
         "why": "McMillan caught 14 of 16 targets for 192 and 2 TDs vs DET, a week after running a route on 92 percent of the dropbacks @CLE. Carolina is off in Week 5, so his manager has a week with no points to look at.",
-        "verdict": "WR20 rest of season for me. Trade for him during the bye; offer a WR2."
+        "verdict": "WR19 rest of season for me. Trade for him during the bye; offer a WR2."
       },
       {
         "player": "Puka Nacua",
@@ -55,7 +55,7 @@
         "action": "TRADE_FOR",
         "price": "a WR2",
         "why": "Nacua caught 9 for 125 @PHI in his first game since Week 1, while Davante Adams caught 4 of 9. The groin cost him Weeks 2 and 3. A sideline report says he has a pre-hernia that could worsen into one that needs surgery; he said he felt fine after the game, and that risk is why the price drops.",
-        "verdict": "WR6 rest of season for me. Trade for him before Monday night vs BUF; offer a WR2 and keep your RB3."
+        "verdict": "WR5 rest of season for me. Trade for him before Monday night vs BUF; offer a WR2 and keep your RB3."
       },
       {
         "player": "Justin Jefferson",
@@ -64,7 +64,7 @@
         "action": "TRADE_FOR",
         "price": "a WR2 and a bench RB",
         "why": "Jefferson missed Week 4 vs MIA with the ankle, after 2 catches on 7 snaps in Week 3, and T.J. Hockenson caught 13 of 13 in his place. Kevin O'Connell's goal is Jefferson back for Week 5 vs NO.",
-        "verdict": "WR5 rest of season for me. Trade for him before Wednesday's practice report; offer a WR2 and a bench RB."
+        "verdict": "WR6 rest of season for me. Trade for him before Wednesday's practice report; offer a WR2 and a bench RB."
       },
       {
         "player": "Saquon Barkley",
@@ -73,7 +73,7 @@
         "action": "TRADE_FOR",
         "price": "an RB2 who plays this week and a bench WR",
         "why": "Barkley played 4 snaps vs LAR before the right hamstring took him out, and he is week to week, almost certainly out vs JAX in London. The injury is not considered long term, and Tank Bigsby on IR means the backfield is all his when he is back.",
-        "verdict": "RB8 rest of season for me. Trade for him while he sits; offer an RB2 who plays this week and a bench WR."
+        "verdict": "RB9 rest of season for me. Trade for him while he sits; offer an RB2 who plays this week and a bench WR."
       },
       {
         "player": "Lamar Jackson",
@@ -91,7 +91,7 @@
         "action": "TRADE_FOR",
         "price": "a WR3",
         "why": "Rice left Week 4 @LV in the first quarter with a hamstring that was called relatively minor Monday, and Kansas City is on bye in Week 5. He drew 9 targets in Week 3, and Tyquan Thornton, who caught 5 for 111 and 2 TDs, needs ankle surgery and is out 12 to 16 weeks.",
-        "verdict": "WR17 rest of season for me. Trade for him over the bye; offer a WR3."
+        "verdict": "WR20 rest of season for me. Trade for him over the bye; offer a WR3."
       },
       {
         "player": "Chase Brown",
@@ -109,7 +109,7 @@
         "action": "TRADE_FOR",
         "price": "a bench WR3",
         "why": "Wilson drew 17 targets vs SF and 13 more @NYG, 44 in four games, and played 93 percent of the snaps in Week 3. Last week I sold him on a 58 percent catch rate; two more weeks of this volume make the role the thing to buy.",
-        "verdict": "WR44 rest of season for me. Trade for him while he costs a bench piece; offer a bench WR3."
+        "verdict": "WR40 rest of season for me. Trade for him while he costs a bench piece; offer a bench WR3."
       },
       {
         "player": "Carnell Tate",
@@ -118,7 +118,7 @@
         "action": "TRADE_FOR",
         "price": "a bench RB or a WR4",
         "why": "Tate drew 12 targets @BAL, about 39 percent of Tennessee's, and caught 9 for 145, his first 100-yard game. He ran a route on 92 percent of the dropbacks in Week 3, so the role came before the big day.",
-        "verdict": "WR34 rest of season for me. Trade for him; offer a bench RB or a WR4."
+        "verdict": "WR32 rest of season for me. Trade for him; offer a bench RB or a WR4."
       },
       {
         "player": "Denzel Boston",
@@ -127,7 +127,7 @@
         "action": "TRADE_FOR",
         "price": "a bench RB",
         "why": "Boston played 61 snaps (95 percent) vs PIT and caught 4 of 7 for 89, Cleveland's leading receiver in three of four games. His snap share went from 87 percent in Week 3 to 95 in Week 4.",
-        "verdict": "WR46 rest of season for me. Trade for him; offer a bench RB."
+        "verdict": "WR45 rest of season for me. Trade for him; offer a bench RB."
       }
     ],
     "sell": [
@@ -147,7 +147,7 @@
         "action": "TRADE_AWAY",
         "price": "a bench WR with a full-time role",
         "why": "Marks scored for the second straight week on 6 carries vs DAL, while David Montgomery out-snapped him 32 to 20 and out-carried him 10 to 6. A national report says Houston plans more work for him, but four games in he has 28 carries.",
-        "verdict": "RB45 rest of season for me. Trade him away while the touchdowns show; ask for a bench WR with a full-time role."
+        "verdict": "RB40 rest of season for me. Trade him away while the touchdowns show; ask for a bench WR with a full-time role."
       },
       {
         "player": "T.J. Hockenson",
@@ -156,7 +156,7 @@
         "action": "TRADE_AWAY",
         "price": "a WR3 with a full-time role",
         "why": "Hockenson caught 13 of 13 targets for 119 vs MIA with Justin Jefferson out. A week earlier he caught 2 of 4 for 11, and Kevin O'Connell's goal is Jefferson back vs NO.",
-        "verdict": "TE26 rest of season for me. Trade him away; ask for a WR3 with a full-time role."
+        "verdict": "TE21 rest of season for me. Trade him away; ask for a WR3 with a full-time role."
       },
       {
         "player": "Omarion Hampton",
@@ -165,7 +165,7 @@
         "action": "TRADE_AWAY",
         "price": "a top-15 RB who catches passes, or a WR2",
         "why": "Hampton's snap share went 58, 63 and 42 percent in Weeks 1 to 3, and @SEA he touched the ball 9 times to Keaton Mitchell's 15. He scored, but Mitchell out-ran him in routes 33 to 26 over the first three games.",
-        "verdict": "RB12 rest of season for me on the carries. Trade him away; ask for a top-15 RB who catches passes, or a WR2."
+        "verdict": "RB14 rest of season for me on the carries. Trade him away; ask for a top-15 RB who catches passes, or a WR2."
       },
       {
         "player": "Jaylen Warren",
@@ -174,7 +174,7 @@
         "action": "TRADE_AWAY",
         "price": "an RB2 with a three-down role",
         "why": "Warren played 69 of 71 snaps @CLE and touched the ball 20 times, his second straight game as the whole backfield with Rico Dowdle out with the toe. Dowdle has missed two games, and his return splits the work again.",
-        "verdict": "RB26 rest of season for me. Trade him away while he is the only back; ask for an RB2 with a three-down role."
+        "verdict": "RB23 rest of season for me. Trade him away while he is the only back; ask for an RB2 with a three-down role."
       },
       {
         "player": "Drake Maye",
@@ -183,7 +183,7 @@
         "action": "TRADE_AWAY",
         "price": "a QB2 with a steadier floor and a WR3",
         "why": "Maye threw 3 TDs @BUF and ran for 54, after 1 TD, 6 INTs and 9 sacks in the first three games. A.J. Brown is on IR until Week 6 at the earliest and Mack Hollins, who led New England in targets through three games, left with the calf.",
-        "verdict": "QB10 rest of season for me. Trade him away after his best game; ask for a QB2 with a steadier floor and a WR3."
+        "verdict": "QB11 rest of season for me. Trade him away after his best game; ask for a QB2 with a steadier floor and a WR3."
       },
       {
         "player": "Jacory Croskey-Merritt",
@@ -192,7 +192,7 @@
         "action": "TRADE_AWAY",
         "price": "a bench WR with a role",
         "why": "Croskey-Merritt played 29 snaps (45 percent) vs IND in London and ran 9 times for 15, down from 57 percent in Week 3. Austin Ekeler played 17 snaps in his first game, and Rachaad White (shoulder) is the third back when healthy.",
-        "verdict": "RB35 rest of season for me. Trade him away; ask for a bench WR with a role."
+        "verdict": "RB31 rest of season for me. Trade him away; ask for a bench WR with a role."
       },
       {
         "player": "J.K. Dobbins",
@@ -201,7 +201,7 @@
         "action": "TRADE_AWAY",
         "price": "a bench RB with a clearer role",
         "why": "Dobbins played 42 percent of the snaps @SF and ran 11 times for 40, while RJ Harvey caught 10 passes. He has 46 carries for 161 in four games, 3.5 a carry.",
-        "verdict": "RB32 rest of season for me. Trade him away; ask for a bench RB with a clearer role."
+        "verdict": "RB36 rest of season for me. Trade him away; ask for a bench RB with a clearer role."
       },
       {
         "player": "Marvin Harrison Jr.",
@@ -217,9 +217,9 @@
         "team": "SF",
         "pos": "TE",
         "action": "TRADE_AWAY",
-        "price": "a TE in the 6 to 9 range",
+        "price": "a TE in the 4 to 6 range",
         "why": "Kittle caught 4 for 70 vs DEN, and 56 of the yards came on one touchdown. He played under half the snaps in Weeks 1 and 2 coming off the Achilles before 85 percent in Week 3, so the role is back but Week 4 was one play.",
-        "verdict": "TE10 rest of season for me. Trade him away after the long score; ask for a TE in the 6 to 9 range."
+        "verdict": "TE7 rest of season for me. Trade him away after the long score; ask for a TE in the 4 to 6 range."
       }
     ]
   },

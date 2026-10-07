@@ -6,7 +6,7 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-06T22:20:00Z",
+  "updatedAt": "2026-10-07T15:12:39Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
@@ -14,7 +14,7 @@
     "items": [
       {
         "at": "2026-10-06T22:20:00Z",
-        "text": "Lane Johnson (PHI) retired Tuesday, four games into his 14th season, two days after he was inactive for personal reasons vs LAR. Philadelphia goes to London vs JAX without its right tackle, Saquon Barkley, Tank Bigsby, DeVonta Smith and Dallas Goedert. Jalen Hurts is QB3 rest of season for me. Hold him.",
+        "text": "Lane Johnson (PHI) retired Tuesday, four games into his 14th season, two days after he was inactive for personal reasons vs LAR. Philadelphia goes to London vs JAX without its right tackle, Saquon Barkley, Tank Bigsby, DeVonta Smith and Dallas Goedert. Jalen Hurts is QB9 rest of season for me. Hold him.",
         "url": "https://www.cbssports.com/nfl/news/eagles-lane-johnson-retires-from-nfl-after-week-4-absence/",
         "player": "Jalen Hurts",
         "pos": "QB",
@@ -50,7 +50,7 @@
         "pos": "QB",
         "action": "MONITOR",
         "watch": "Friday's injury report",
-        "text": "Dan Quinn said Washington plans to have Jayden Daniels back as the starter (WAS) vs NYG after a full week of practice on the left elbow. Athan Kaliakmanis went 15 of 33 in London, so drop Kaliakmanis in superflex. Daniels is QB18 rest of season for me. Monitor Friday's injury report."
+        "text": "Dan Quinn said Washington plans to have Jayden Daniels back as the starter (WAS) vs NYG after a full week of practice on the left elbow. Athan Kaliakmanis went 15 of 33 in London, so drop Kaliakmanis in superflex. Daniels is QB17 rest of season for me. Monitor Friday's injury report."
       },
       {
         "at": "2026-10-06T21:10:00Z",
@@ -58,7 +58,7 @@
         "pos": "WR",
         "action": "TRADE_FOR",
         "price": "a WR2",
-        "text": "Puka Nacua (LAR) caught 9 for 125 @PHI in his first game back, and a sideline report says he has a pre-hernia that could worsen into one that needs surgery; he said he felt fine. WR6 rest of season for me. Trade for him, and offer a WR2 alone."
+        "text": "Puka Nacua (LAR) caught 9 for 125 @PHI in his first game back, and a sideline report says he has a pre-hernia that could worsen into one that needs surgery; he said he felt fine. WR5 rest of season for me. Trade for him, and offer a WR2 alone."
       },
       {
         "at": "2026-10-06T21:10:00Z",
@@ -66,7 +66,7 @@
         "pos": "RB",
         "action": "MONITOR",
         "watch": "Wednesday's injury report",
-        "text": "Ashton Jeanty (LV) ran 15 times for 58 and caught 6 of 8 for 68 vs KC, but the ankle cut into his snaps and the Las Vegas beat calls it a concern for Week 5. RB9 rest of season for me. Monitor Wednesday's injury report."
+        "text": "Ashton Jeanty (LV) ran 15 times for 58 and caught 6 of 8 for 68 vs KC, but the ankle cut into his snaps and the Las Vegas beat calls it a concern for Week 5. RB8 rest of season for me. Monitor Wednesday's injury report."
       },
       {
         "at": "2026-10-06T21:10:00Z",
@@ -90,7 +90,7 @@
         "pos": "TE",
         "action": "ADD",
         "faab": "0-2%",
-        "text": "Tyler Higbee (LAR) caught 5 for 67 @PHI and led the Rams tight ends in snaps for a second straight game with the two tight ends ahead of him hurt. TE44 rest of season for me. In TE-premium and deep leagues, add him, 0 to 2 percent of FAAB."
+        "text": "Tyler Higbee (LAR) caught 5 for 67 @PHI and led the Rams tight ends in snaps for a second straight game with the two tight ends ahead of him hurt. TE38 rest of season for me. In TE-premium and deep leagues, add him, 0 to 2 percent of FAAB."
       },
       {
         "at": "2026-10-06T16:15:00Z",
@@ -98,7 +98,7 @@
         "pos": "RB",
         "action": "MONITOR",
         "watch": "Friday's injury report before London",
-        "text": "Saquon Barkley (PHI) is week to week with the hamstring he hurt vs LAR, which almost certainly keeps him out of Sunday's 9:30 AM ET game vs JAX in London. The injury is not considered long term. He is RB8 rest of season for me. Monitor Friday's injury report; Will Shipley is the lead back if Barkley sits.",
+        "text": "Saquon Barkley (PHI) is week to week with the hamstring he hurt vs LAR, which almost certainly keeps him out of Sunday's 9:30 AM ET game vs JAX in London. The injury is not considered long term. He is RB9 rest of season for me. Monitor Friday's injury report; Will Shipley is the lead back if Barkley sits.",
         "url": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-rb-saquon-barkley-reportedly-week-to-week-with-hamstring-injury-rb-tank-bigsby-headed-to-ir-after-core-muscle-surgery-211127860.html"
       },
       {
@@ -132,7 +132,7 @@
         "player": "Pat Bryant",
         "pos": "WR",
         "action": "DROP",
-        "text": "Pat Bryant (DEN) sprained his ankle @SF, a suspected high-ankle sprain, and is expected to miss a few weeks, per ESPN. He played 67 percent of the snaps the week before. WR63 rest of season for me. Drop him for any add on the list.",
+        "text": "Pat Bryant (DEN) sprained his ankle @SF, a suspected high-ankle sprain, and is expected to miss a few weeks, per ESPN. He played 67 percent of the snaps the week before. WR62 rest of season for me. Drop him for any add on the list.",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-wr-pat-bryant-is-expected-to-miss-time-with-sprained-ankle"
       }
     ]

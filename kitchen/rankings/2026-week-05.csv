@@ -1,0 +1,300 @@
+RK,PLAYER NAME,TEAM,POS,OPP
+1,Jahmyr Gibbs,DET,RB1,at ARI
+2,Josh Allen,BUF,QB1,at LAR
+3,Bijan Robinson,ATL,RB2,vs. BAL
+4,Jaxon Smith-Njigba,SEA,WR1,vs. SF
+5,Jared Goff,DET,QB2,at ARI
+6,Amon-Ra St. Brown,DET,WR2,at ARI
+7,Drake London,ATL,WR3,vs. BAL
+8,Puka Nacua,LAR,WR4,vs. BUF
+9,Joe Burrow,CIN,QB3,at MIA
+10,Matthew Stafford,LAR,QB4,vs. BUF
+11,Trey McBride,ARI,TE1,vs. DET
+12,Jonathan Taylor,IND,RB3,at PIT
+13,Dak Prescott,DAL,QB5,vs. TB
+14,Trevor Lawrence,JAC,QB6,vs. PHI
+15,Drake Maye,NE,QB7,vs. LV
+16,Kyren Williams,LAR,RB4,vs. BUF
+17,Jacoby Brissett,ARI,QB8,vs. DET
+18,Chase Brown,CIN,RB5,at MIA
+19,Brock Purdy,SF,QB9,at SEA
+20,Jordan Love,GB,QB10,vs. CHI
+21,Jayden Daniels,WAS,QB11,vs. NYG
+22,Tyler Shough,NO,QB12,vs. MIN
+23,Bo Nix,DEN,QB13,at LAC
+24,CeeDee Lamb,DAL,WR5,vs. TB
+25,Kyler Murray,MIN,QB14,at NO
+26,Jalen Hurts,PHI,QB15,at JAC
+27,C.J. Stroud,HOU,QB16,at TEN
+28,Derrick Henry,BAL,RB6,at ATL
+29,Christian McCaffrey,SF,RB7,at SEA
+30,Sam Darnold,SEA,QB17,vs. SF
+31,Aaron Rodgers,PIT,QB18,vs. IND
+32,Jaylen Warren,PIT,RB8,vs. IND
+33,Nico Collins,HOU,WR6,at TEN
+34,Tyson Bagent,CHI,QB19,at GB
+35,Chris Olave,NO,WR7,vs. MIN
+36,Michael Wilson,ARI,WR8,vs. DET
+37,Brock Bowers,LV,TE2,at NE
+38,James Cook III,BUF,RB9,at LAR
+39,Jameis Winston,NYG,QB20,at WAS
+40,Zay Flowers,BAL,WR9,at ATL
+41,Deshaun Watson,CLE,QB21,at NYJ
+42,Malik Nabers,NYG,WR10,at WAS
+43,Garrett Wilson,NYJ,WR11,vs. CLE
+44,Michael Penix Jr.,ATL,QB22,vs. BAL
+45,Javonte Williams,DAL,RB10,vs. TB
+46,Christian Watson,GB,WR12,vs. CHI
+47,Ashton Jeanty,LV,RB11,at NE
+48,Davante Adams,LAR,WR13,vs. BUF
+49,Aaron Jones Sr.,MIN,RB12,at NO
+50,Kirk Cousins,LV,QB23,at NE
+51,Parker Washington,JAC,WR14,vs. PHI
+52,D'Andre Swift,CHI,RB13,at GB
+53,Geno Smith,NYJ,QB24,vs. CLE
+54,George Pickens,DAL,WR15,vs. TB
+55,Jalon Daniels,TB,QB25,at DAL
+56,Lamar Jackson,BAL,QB26,at ATL
+57,Jeremiyah Love,ARI,RB14,vs. DET
+58,Matthew Golden,GB,WR16,vs. CHI
+59,Jaylen Waddle,DEN,WR17,at LAC
+60,Sam LaPorta,DET,TE3,at ARI
+61,Justin Herbert,LAC,QB27,vs. DEN
+62,Tyler Huntley,BAL,QB28,at ATL
+63,Bhayshul Tuten,JAC,RB15,vs. PHI
+64,George Kittle,SF,TE4,at SEA
+65,Malik Willis,MIA,QB29,vs. CIN
+66,Quinshon Judkins,CLE,RB16,at NYJ
+67,DK Metcalf,PIT,WR18,vs. IND
+68,Daniel Jones,IND,QB30,at PIT
+69,Emanuel Wilson,SEA,RB17,vs. SF
+70,Tyler Warren,IND,TE5,at PIT
+71,Luther Burden III,CHI,WR19,at GB
+72,Kyle Monangai,CHI,RB18,at GB
+73,Cam Skattebo,NYG,RB19,at WAS
+74,Braelon Allen,NYJ,RB20,vs. CLE
+75,Jameson Williams,DET,WR20,at ARI
+76,Cam Ward,TEN,QB31,vs. HOU
+77,Josh Downs,IND,WR21,at PIT
+78,Carnell Tate,TEN,WR22,vs. HOU
+79,Stefon Diggs,WAS,WR23,vs. NYG
+80,Dalton Kincaid,BUF,TE6,at LAR
+81,Mike Evans,SF,WR24,at SEA
+82,Jordan Addison,MIN,WR25,at NO
+83,Devaughn Vele,NO,WR26,vs. MIN
+84,Romeo Doubs,NE,WR27,vs. LV
+85,Deebo Samuel Sr.,SF,WR28,at SEA
+86,Denzel Boston,CLE,WR29,at NYJ
+87,Omarion Hampton,LAC,RB21,vs. DEN
+88,Tucker Kraft,GB,TE7,vs. CHI
+89,Rome Odunze,CHI,WR30,at GB
+90,Colston Loveland,CHI,TE8,at GB
+91,Will Shipley,PHI,RB22,at JAC
+92,Bucky Irving,TB,RB23,at DAL
+93,Malik Washington,MIA,WR31,vs. CIN
+94,Isaiah Likely,NYG,TE9,at WAS
+95,Rhamondre Stevenson,NE,RB24,vs. LV
+96,Alvin Kamara,NO,RB25,vs. MIN
+97,Dontayvion Wicks,PHI,WR32,at JAC
+98,Jacory Croskey-Merritt,WAS,RB26,vs. NYG
+99,Juwan Johnson,NO,TE10,vs. MIN
+100,Mike Gesicki,CIN,TE11,at MIA
+101,RJ Harvey,DEN,RB27,at LAC
+102,Harold Fannin Jr.,CLE,TE12,at NYJ
+103,Ladd McConkey,LAC,WR33,vs. DEN
+104,KC Concepcion Jr.,CLE,WR34,at NYJ
+105,Kalif Raymond,CHI,WR35,at GB
+106,David Montgomery,HOU,RB28,at TEN
+107,Tony Pollard,TEN,RB29,vs. HOU
+108,Tre Tucker,LV,WR36,at NE
+109,Mark Andrews,BAL,TE13,at ATL
+110,Ollie Gordon II,MIA,RB30,vs. CIN
+111,Jakobi Meyers,JAC,WR37,vs. PHI
+112,Khalil Shakir,BUF,WR38,at LAR
+113,Keon Coleman,BUF,WR39,at LAR
+114,Makai Lemon,PHI,WR40,at JAC
+115,T.J. Hockenson,MIN,TE14,at NO
+116,Emeka Egbuka,TB,WR41,at DAL
+117,TreVeyon Henderson,NE,RB31,vs. LV
+118,Marvin Harrison Jr.,ARI,WR42,vs. DET
+119,Hunter Henry,NE,TE15,vs. LV
+120,Wan'Dale Robinson,TEN,WR43,vs. HOU
+121,Case Keenum,CHI,QB32,at GB
+122,J.K. Dobbins,DEN,RB32,at LAC
+123,Jake Ferguson,DAL,TE16,vs. TB
+124,Tyler Allgeier,ARI,RB33,vs. DET
+125,Kenyon Sadiq,NYJ,TE17,vs. CLE
+126,Courtland Sutton,DEN,WR44,at LAC
+127,Tyler Higbee,LAR,TE18,vs. BUF
+128,Ja'Marr Chase,CIN,WR45,at MIA
+129,Keaton Mitchell,LAC,RB34,vs. DEN
+130,Antonio Williams,WAS,WR46,vs. NYG
+131,Dalton Schultz,HOU,TE19,at TEN
+132,Chris Godwin Jr.,TB,WR47,at DAL
+133,Dohnte Meyers,CIN,WR48,at MIA
+134,Woody Marks,HOU,RB35,at TEN
+135,Pat Freiermuth,PIT,TE20,vs. IND
+136,Kyle Pitts Sr.,ATL,TE21,vs. BAL
+137,Brian Thomas Jr.,JAC,WR49,vs. PHI
+138,DJ Moore,BUF,WR50,at LAR
+139,Rashod Bateman,BAL,WR51,at ATL
+140,Michael Pittman Jr.,PIT,WR52,vs. IND
+141,Oronde Gadsden II,LAC,TE22,vs. DEN
+142,Tre' Harris,LAC,WR53,vs. DEN
+143,Blake Corum,LAR,RB36,vs. BUF
+144,Chris Bell,MIA,WR54,vs. CIN
+145,Quentin Johnston,LAC,WR55,vs. DEN
+146,Mike Washington Jr.,LV,RB37,at NE
+147,Roman Wilson,PIT,WR56,vs. IND
+148,Shedeur Sanders,CLE,QB33,at NYJ
+149,Brenton Strange,JAC,TE23,vs. PHI
+150,MarShawn Lloyd,GB,RB38,vs. CHI
+151,Justin Jefferson,MIN,WR57,at NO
+152,Kendrick Bourne,ARI,WR58,vs. DET
+153,Ryan Flournoy,DAL,WR59,vs. TB
+154,Malachi Fields,NYG,WR60,at WAS
+155,AJ Barner,SEA,TE24,vs. SF
+156,Tee Higgins,CIN,WR61,at MIA
+157,Cade Otton,TB,TE25,at DAL
+158,Rashid Shaheed,SEA,WR62,vs. SF
+159,Chris Rodriguez Jr.,JAC,RB39,vs. PHI
+160,Kendre Miller,NO,RB40,vs. MIN
+161,Brian Robinson Jr.,ATL,RB41,vs. BAL
+162,Isaac TeSlaa,DET,WR63,at ARI
+163,Isaiah Williams,NYJ,WR64,vs. CLE
+164,Darnell Washington,PIT,TE26,vs. IND
+165,Kayshon Boutte,HOU,WR65,at TEN
+166,Greg Dulcich,MIA,TE27,vs. CIN
+167,Michael Mayer,LV,TE28,at NE
+168,Mack Hollins,NE,WR66,vs. LV
+169,Kaelon Black,SF,RB42,at SEA
+170,Jaylen Wright,MIA,RB43,vs. CIN
+171,Cooper Kupp,SEA,WR67,vs. SF
+172,Xavier Hutchinson,HOU,WR68,at TEN
+173,Chig Okonkwo,WAS,TE29,vs. NYG
+174,DeMario Douglas,NE,WR69,vs. LV
+175,Jauan Jennings,MIN,WR70,at NO
+176,Evan Engram,DEN,TE30,at LAC
+177,George Holani,SEA,RB44,vs. SF
+178,Jalen Nailor,LV,WR71,at NE
+179,Darius Cooper,PHI,WR72,at JAC
+180,Ted Hurst III,TB,WR73,at DAL
+181,Kenny Gainwell,TB,RB45,at DAL
+182,Tyjae Spears,TEN,RB46,vs. HOU
+183,Kaleb Johnson,GB,RB47,vs. CHI
+184,Gunnar Helm,TEN,TE31,vs. HOU
+185,Jaylin Noel,HOU,WR74,at TEN
+186,Noah Fant,NO,TE32,vs. MIN
+187,Samaje Perine,CIN,RB48,at MIA
+188,Mitch Tinsley,CIN,WR75,at MIA
+189,Justice Hill,BAL,RB49,at ATL
+190,Terry McLaurin,WAS,WR76,vs. NYG
+191,Kimani Vidal,LAC,RB50,vs. DEN
+192,Cody White,LV,WR77,at NE
+193,Ty Johnson,BUF,RB51,at LAR
+194,Josh Cameron,JAC,WR78,vs. PHI
+195,Saquon Barkley,PHI,RB52,at JAC
+196,Isaiah Davis,NYJ,RB53,vs. CLE
+197,Chris Brooks,GB,RB54,vs. CHI
+198,Najee Harris,NYG,RB55,at WAS
+199,Laquon Treadwell,IND,WR79,at PIT
+200,Raheim Sanders,CLE,RB56,at NYJ
+201,Jahan Dotson,ATL,WR80,vs. BAL
+202,Jerry Jeudy,CLE,WR81,at NYJ
+203,Zach Ertz,PHI,TE33,at JAC
+204,Bryce Lance,NO,WR82,vs. MIN
+205,Theo Johnson,NYG,TE34,at WAS
+206,Rachaad White,WAS,RB57,vs. NYG
+207,Matt Hibner,BAL,TE35,at ATL
+208,Sean Tucker,TB,RB58,at DAL
+209,Darnell Mooney,NYG,WR83,at WAS
+210,Joshua Palmer,BUF,WR84,at LAR
+211,Kevin Coleman Jr.,MIA,WR85,vs. CIN
+212,Troy Franklin,DEN,WR86,at LAC
+213,Olamide Zaccheaus,ATL,WR87,vs. BAL
+214,Germie Bernard,PIT,WR88,vs. IND
+215,Zachariah Branch,ATL,WR89,vs. BAL
+216,Elic Ayomanor,TEN,WR90,vs. HOU
+217,Kyle Williams,NE,WR91,vs. LV
+218,Treylon Burks,WAS,WR92,vs. NYG
+219,Chimere Dike,TEN,WR93,vs. HOU
+220,Tory Horton,SEA,WR94,vs. SF
+221,Calvin Ridley,TEN,WR95,vs. HOU
+222,Konata Mumpfield,LAR,WR96,vs. BUF
+223,Malik Benson,LV,WR97,at NE
+224,Elijah Sarratt,BAL,WR98,at ATL
+225,Travis Hunter,JAC,WR99,vs. PHI
+226,Jalen Tolbert,MIA,WR100,vs. CIN
+227,Demond Claiborne,MIN,RB59,at NO
+228,Tez Johnson,TB,WR101,at DAL
+229,Tyler Badie,DEN,RB60,at LAC
+230,Dyami Brown,WAS,WR102,vs. NYG
+231,Austin Ekeler,WAS,RB61,vs. NYG
+232,Carson Wentz,MIN,QB34,at NO
+233,Isaiah Bond,CLE,WR103,at NYJ
+234,Skyy Moore,GB,WR104,vs. CHI
+235,Ray Davis,BUF,RB62,at LAR
+236,KaVontae Turpin,DAL,WR105,vs. TB
+237,Tyrone Tracy Jr.,NYG,RB63,at WAS
+238,Tutu Atwell,LAR,WR106,vs. BUF
+239,Kaytron Allen,WAS,RB64,vs. NYG
+240,Sione Vaki,DET,RB65,at ARI
+241,Nicholas Singleton,TEN,RB66,vs. HOU
+242,Fernando Mendoza,LV,QB35,at NE
+243,Roschon Johnson,CHI,RB67,at GB
+244,LeQuint Allen Jr.,JAC,RB68,vs. PHI
+245,Seth McGowan,IND,RB69,at PIT
+246,Tahj Brooks,CIN,RB70,at MIA
+247,Joshua Dobbs,DET,QB36,at ARI
+248,Mitchell Trubisky,TEN,QB37,vs. HOU
+249,Nick Mullens,JAC,QB38,vs. PHI
+250,Graham Mertz,HOU,QB39,at TEN
+251,Ty Simpson,LAR,QB40,vs. BUF
+252,Hendon Hooker,TEN,QB41,vs. HOU
+253,Carson Beck,ARI,QB42,vs. DET
+254,Sam Howell,DAL,QB43,vs. TB
+255,Drew Lock,SEA,QB44,vs. SF
+256,Spencer Rattler,NO,QB45,vs. MIN
+257,Kyle McCord,MIA,QB46,vs. CIN
+258,Trey Lance,LAC,QB47,vs. DEN
+259,Riley Leonard,IND,QB48,at PIT
+260,Devin Leary,FA,QB49,-
+261,Mac Jones,SF,QB50,at SEA
+262,Jarrett Stidham,DEN,QB51,at LAC
+263,Mason Rudolph,PIT,QB52,vs. IND
+264,Cooper Rush,ATL,QB53,vs. BAL
+265,Will Howard,PIT,QB54,vs. IND
+266,Athan Kaliakmanis,WAS,QB55,vs. NYG
+267,Collin Hill,FA,QB56,-
+268,Marcus Mariota,WAS,QB57,vs. NYG
+269,Cade Klubnik,NYJ,QB58,vs. CLE
+270,Bryce Young,CAR,QB59,-
+271,Taylen Green,CLE,QB60,at NYJ
+272,Gardner Minshew II,ARI,QB61,vs. DET
+273,Chris Oladokun,FA,QB62,-
+274,Brady Cook,MIA,QB63,vs. CIN
+275,Anthony Richardson Sr.,IND,QB64,at PIT
+276,Zach Wilson,NO,QB65,vs. MIN
+277,Tyrod Taylor,GB,QB66,vs. CHI
+278,Max Brosmer,MIN,QB67,at NO
+279,Jalen Milroe,SEA,QB68,vs. SF
+280,Jake Haener,NYG,QB69,at WAS
+281,Andy Dalton,PHI,QB70,at JAC
+282,Joe Milton III,DAL,QB71,vs. TB
+283,Patrick Mahomes II,KC,QB72,-
+284,Tua Tagovailoa,ATL,QB73,vs. BAL
+285,Jake Browning,FA,QB74,-
+286,Dillon Gabriel,CLE,QB75,at NYJ
+287,Kurtis Rourke,SF,QB76,at SEA
+288,Tanner McKee,PHI,QB77,at JAC
+289,Tommy DeVito,NE,QB78,vs. LV
+290,Matt Barkley,FA,QB79,-
+291,Matt Corral,FA,QB80,-
+292,Desmond Ridder,FA,QB81,-
+293,Davis Mills,HOU,QB82,at TEN
+294,Seth Henigan,FA,QB83,-
+295,Jimmy Garoppolo,LAR,QB84,vs. BUF
+296,Aidan O'Connell,LV,QB85,at NE
+297,Behren Morton,NE,QB86,vs. LV
+298,Brandon Allen,FA,QB87,-
+299,Garrett Nussmeier,KC,QB88,-
