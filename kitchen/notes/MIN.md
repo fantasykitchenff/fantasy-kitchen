@@ -139,6 +139,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Jauan Jennings: Jennings signed a one-year deal (max $13M, $6M guaranteed, $4.5M signing bonus); he is expected to make the roster but not be a big factor. [8-17 updates and camp news]
 - 2026-09-28: J.J. McCarthy: Traded to NYG for a 2027 fifth-round pick (team site).
 - 2026-09-28: J.J. McCarthy traded to NYG for a 2027 fifth-round pick, pending a physical; Kyler Murray starts, Carson Wentz is the No. 2. [pod 9-28, official]
+- 2026-10-07: Odell Beckham Jr. and Jeshaun Jones signed to the practice squad; Beckham played 19 snaps in three games for NYG with no catch. No Vikings receiver other than Jefferson and Addison has more than two catches (ESPN, NFL.com).
 
 ## Injuries and status
 - 2026-09-30: Justin Jefferson: Day to day with the ankle sprain and did not practice Wednesday, per Adam Schefter. [pod 9-29, beat]

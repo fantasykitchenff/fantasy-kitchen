@@ -6,12 +6,21 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-07T15:12:39Z",
+  "updatedAt": "2026-10-07T16:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-07T16:20:00Z",
+        "text": "Minnesota signed Odell Beckham Jr. to the practice squad Wednesday with Justin Jefferson (MIN) still working back from the ankle sprain that kept him out vs MIA. Beckham played 19 snaps for the Giants this year without a catch, so pass on him in every format. Jefferson stays off my Week 5 receivers @NO until he practices, and he is WR6 rest of season for me. Monitor Wednesday's practice report.",
+        "url": "https://www.espn.com/nfl/story/_/id/50125332/odell-beckham-jr-signs-vikings-practice-squad",
+        "player": "Justin Jefferson",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report"
+      },
       {
         "at": "2026-10-06T22:20:00Z",
         "text": "Lane Johnson (PHI) retired Tuesday, four games into his 14th season, two days after he was inactive for personal reasons vs LAR. Philadelphia goes to London vs JAX without its right tackle, Saquon Barkley, Tank Bigsby, DeVonta Smith and Dallas Goedert. Jalen Hurts is QB9 rest of season for me. Hold him.",
