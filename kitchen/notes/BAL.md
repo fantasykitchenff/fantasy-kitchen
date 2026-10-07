@@ -117,6 +117,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Jovaughn Gwyn, the starting center, fractured his fibula in Brazil and will likely need surgery; reported out until November or December (reports).
 - 2026-09-28: Jovaughn Gwyn, Ethan Pocic, Vega Ioane: Both centers were lost in Rio: Gwyn (ankle on the team report) and Pocic (knee); Minter said both look a little bit long term. First-round rookie guard Vega Ioane moved to center in the game and stays there vs TEN, with Andrew Vorhees at right guard. Jackson said he would take extra snaps from Ioane this week. [pod 9-30, coach]
 - 2026-09-30: Ronnie Stanley: Inactive vs DAL with a toe injury (Carson Vinson played all 64 snaps at left tackle); back at practice Wednesday. [pod 9-29, beat]
+- 2026-10-07: Cam Jurgens acquired from PHI (2028 second and 2027 fifth for Jurgens and a 2027 seventh) after Gwyn, Pocic and a third center went on IR; expected back at center, where rookie Vega Ioane had filled in (ESPN, baltimoreravens.com).
 
 ## Rookies
 

@@ -151,6 +151,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-14: Landon Dickerson: Placed on injured reserve with a knee bone bruise after playing all of Week 1; out at least four games (Weeks 2 to 5). Drew Kendall played all 50 line snaps at CHI in the starting five. [pod 9-29, official]
 - 2026-10-04: Lane Johnson was a surprise inactive vs LAR for personal reasons; his Week 5 status in London was still unclear Tuesday. Talk that he could retire is not confirmed, and the Inquirer says a former teammate's comments on it were twisted (ESPN, Yahoo, Inquirer). [pod 10-6, beat]
 - 2026-10-06: Lane Johnson retired Tuesday, four games into his 14th season, two days after he was inactive for personal reasons vs LAR (team site, CBS Sports).
+- 2026-10-07: Cam Jurgens traded to BAL with a 2027 seventh for a 2028 second and a 2027 fifth. He had played left guard since Week 2 with Dickerson on IR and struggled there; Philadelphia is without Johnson, Jurgens and Dickerson up front for London (ESPN, team sites).
 
 ## Rookies
 
