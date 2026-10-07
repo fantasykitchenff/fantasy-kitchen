@@ -6,9 +6,9 @@
   "dek": "Ja'Marr Chase is in the concussion protocol with Joe Burrow throwing 54 times. Buy the scare.",
   "format": "PPR",
   "publishedAt": "2026-10-06T17:01:00Z",
-  "updatedAt": "2026-10-07T15:12:39Z",
+  "updatedAt": "2026-10-07T20:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 11:15 AM ET: rest-of-season ranks refreshed. Kyren Williams moves up to RB12 and stays a buy; George Kittle moves up to TE7, so sell him only for a TE in the 4 to 6 range; Jaylen Warren is RB23, still a sell before Rico Dowdle returns; Omarion Hampton drops to RB14.\n\nUpdated Tue 5:10 PM ET: Puka Nacua has what a sideline report called a pre-hernia that could need surgery later, so the price drops to a WR2 alone; he is still WR5 rest of season for me. Tyquan Thornton needs ankle surgery and misses 12 to 16 weeks, which keeps Rashee Rice a buy for a WR3.\n\nWeek 4 hurt a lot of stars and handed out a lot of touchdowns, and the trade market reads both the wrong way. The buys are good players with a short-term scare or a box score that lags their role. The sells scored on volume that is not theirs to keep. Ranks are rest of season for me, PPR scoring, prices written for 12-team leagues.",
+  "intro_md": "Updated Wed 4:20 PM ET: Zac Taylor calls Tee Higgins day to day, not out two to three weeks, and the Week 6 bye follows, so Chase Brown stays a buy for an RB2 and a bench WR. Added Bhayshul Tuten as a buy after he out-snapped Chris Rodriguez Jr. 36 to 15.\n\nUpdated Wed 11:15 AM ET: rest-of-season ranks refreshed. Kyren Williams moves up to RB12 and stays a buy; George Kittle moves up to TE7, so sell him only for a TE in the 4 to 6 range; Jaylen Warren is RB23, still a sell before Rico Dowdle returns; Omarion Hampton drops to RB14.\n\nUpdated Tue 5:10 PM ET: Puka Nacua has what a sideline report called a pre-hernia that could need surgery later, so the price drops to a WR2 alone; he is still WR5 rest of season for me. Tyquan Thornton needs ankle surgery and misses 12 to 16 weeks, which keeps Rashee Rice a buy for a WR3.\n\nWeek 4 hurt a lot of stars and handed out a lot of touchdowns, and the trade market reads both the wrong way. The buys are good players with a short-term scare or a box score that lags their role. The sells scored on volume that is not theirs to keep. Ranks are rest of season for me, PPR scoring, prices written for 12-team leagues.",
   "outro_md": "Heat Check has the usage trends behind these calls, and the Menu lands Wednesday with every one of them ranked for Week 5.",
   "data": {
     "buy": [
@@ -99,7 +99,7 @@
         "pos": "RB",
         "action": "TRADE_FOR",
         "price": "an RB2 and a bench WR",
-        "why": "Brown caught 10 passes for 62 vs JAX on a day he ran 8 times for 9 yards, and the rushing is what his manager sees. With Chase in the protocol and Tee Higgins out two to three weeks with the adductor, the short targets keep coming to him.",
+        "why": "Brown caught 10 passes for 62 vs JAX on a day he ran 8 times for 9 yards, and the rushing is what his manager sees. Chase is in the protocol, and Zac Taylor calls Tee Higgins day to day with the adductor, a strain that usually costs two to three weeks, with the Week 6 bye right behind @MIA. Either way the short targets keep coming to Brown.",
         "verdict": "RB6 rest of season for me. Trade for him; offer an RB2 and a bench WR."
       },
       {
@@ -128,6 +128,15 @@
         "price": "a bench RB",
         "why": "Boston played 61 snaps (95 percent) vs PIT and caught 4 of 7 for 89, Cleveland's leading receiver in three of four games. His snap share went from 87 percent in Week 3 to 95 in Week 4.",
         "verdict": "WR45 rest of season for me. Trade for him; offer a bench RB."
+      },
+      {
+        "player": "Bhayshul Tuten",
+        "team": "JAX",
+        "pos": "RB",
+        "action": "TRADE_FOR",
+        "price": "a WR3 or a bench RB with a smaller role",
+        "why": "Tuten out-snapped Chris Rodriguez Jr. 36 to 15 @CIN and ran 17 times for 73, and two touchdowns came back on holding calls. His manager sees a quiet box score; the snaps say he has the backfield. He hobbled off in the third quarter, so check Friday's report before you send the offer.",
+        "verdict": "RB18 rest of season for me. Trade for him; offer a WR3 or a bench RB with a smaller role."
       }
     ],
     "sell": [

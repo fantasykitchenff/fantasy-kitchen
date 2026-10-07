@@ -1,17 +1,8 @@
 {
   "season": 2026,
   "currentWeek": 5,
-  "updatedAt": "2026-10-07T16:15:31Z",
+  "updatedAt": "2026-10-07T20:12:48Z",
   "pieces": [
-    {
-      "series": "notes",
-      "week": 5,
-      "path": "2026/week-05/notes.json",
-      "title": "Kitchen notes, Week 5",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-06T16:15:00Z",
-      "updatedAt": "2026-10-07T16:20:00Z"
-    },
     {
       "series": "butcher",
       "week": 5,
@@ -19,7 +10,7 @@
       "title": "Butcher Shop, Week 5",
       "dek": "Ja'Marr Chase is in the concussion protocol with Joe Burrow throwing 54 times. Buy the scare.",
       "publishedAt": "2026-10-06T17:01:00Z",
-      "updatedAt": "2026-10-07T15:12:39Z"
+      "updatedAt": "2026-10-07T20:20:00Z"
     },
     {
       "series": "heat",
@@ -28,7 +19,7 @@
       "title": "Heat Check, Week 5",
       "dek": "Michael Wilson has 30 targets in two weeks. The stove's on in Arizona.",
       "publishedAt": "2026-10-06T17:01:00Z",
-      "updatedAt": "2026-10-07T15:12:39Z"
+      "updatedAt": "2026-10-07T20:20:00Z"
     },
     {
       "series": "market",
@@ -37,7 +28,16 @@
       "title": "Market Run, Week 5",
       "dek": "Kyle Monangai took Chicago's backfield with 30 carries, and he is the first claim of the week.",
       "publishedAt": "2026-10-06T14:30:00Z",
-      "updatedAt": "2026-10-07T15:12:39Z"
+      "updatedAt": "2026-10-07T20:20:00Z"
+    },
+    {
+      "series": "notes",
+      "week": 5,
+      "path": "2026/week-05/notes.json",
+      "title": "Kitchen notes, Week 5",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-06T16:15:00Z",
+      "updatedAt": "2026-10-07T20:20:00Z"
     },
     {
       "series": "menu",

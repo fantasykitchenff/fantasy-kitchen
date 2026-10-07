@@ -159,6 +159,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Chris Godwin: returned to practice Thursday (ankle) after a Wednesday DNP; participation level not yet posted. [pod 10-1, beat]
 - 2026-10-01: Bucky Irving: limited Thursday again (glute) (reports).
 - 2026-10-02: Bucky Irving (glute) practiced in full Friday after two limited days and has no game designation. [pod 10-2, official]
+- 2026-10-03: Baker Mayfield: targeting a Week 6 return vs PIT from the dislocated right thumb (NFL Network); ESPN sources put the range at three to six weeks depending on when he can grip the ball. Jalon Daniels starts Week 5 at DAL. [pod 10-7, beat]
 
 ## Other
 

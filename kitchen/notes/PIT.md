@@ -59,6 +59,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Jaylen Warren 17 carries for 93 at CLE with Rico Dowdle (toe) inactive; PIT lost 27-24 in the snow (Yahoo, Steelers.com).
 - 2026-10-01: Jaylen Warren: 97% of the snaps and 126 scrimmage yards at CLE with Rico Dowdle out, including 3 catches for 33 on 6 targets. [pod 10-2, deployment]
 - 2026-10-05: Week 4 @CLE (Thu): Jaylen Warren 69 of 71 snaps, 17 for 93, 3 of 6 for 33, routes on 87% of pass plays (NBC, CBS).
+- 2026-10-07: Rico Dowdle: expected back from the toe; the coach calls the backfield with Jaylen Warren a one-two punch after Warren played 69 of 71 snaps at CLE. [pod 10-7, coach]
 
 ## Receivers
 
@@ -94,6 +95,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Darnell Washington: Darnell Washington (280-290 lbs) can block a pass rusher one-on-one, functioning as a sixth lineman that opens the play-action game for Rodgers. [8-12 Camp Updates Article]
 - 2026-08-12: Pat Freiermuth: Freiermuth is a bounce-back candidate with Jonnu Smith gone; Rodgers targets the middle of the field and Freiermuth could absorb the check-down work Kenneth Gainwell had, with Darnell Washington doing dirty work. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Darnell Washington: Has improved his targets, catches, yards per game and yards per route in each of his three NFL seasons. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
+- 2026-10-01: Pat Freiermuth and Darnell Washington both caught TDs in the Week 4 loss at CLE (NBC Sports). [pod 10-7, deployment]
 
 ## Offensive line
 

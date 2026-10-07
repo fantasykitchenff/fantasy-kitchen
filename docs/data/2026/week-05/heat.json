@@ -6,9 +6,9 @@
   "dek": "Michael Wilson has 30 targets in two weeks. The stove's on in Arizona.",
   "format": "PPR",
   "publishedAt": "2026-10-06T17:01:00Z",
-  "updatedAt": "2026-10-07T15:12:39Z",
+  "updatedAt": "2026-10-07T20:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 11:15 AM ET: rest-of-season ranks refreshed. Kyle Monangai climbs to RB29, Kyren Williams to RB12 and Brock Bowers to TE1; Omarion Hampton slips to RB14 and TreVeyon Henderson to RB26. Every call stands.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR.",
+  "intro_md": "Updated Wed 4:20 PM ET: added Ollie Gordon II as a riser after he out-snapped and out-touched Jaylen Wright @MIN.\n\nUpdated Wed 11:15 AM ET: rest-of-season ranks refreshed. Kyle Monangai climbs to RB29, Kyren Williams to RB12 and Brock Bowers to TE1; Omarion Hampton slips to RB14 and TreVeyon Henderson to RB26. Every call stands.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts. A faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR.",
   "outro_md": "Butcher Shop turns these trends into trade offers, and the Menu ranks every one of them for Week 5 on Wednesday.",
   "data": {
     "risers": [
@@ -131,6 +131,15 @@
         "verdict": "Add him in TE-premium leagues, 0 to 2 percent of FAAB.",
         "action": "ADD",
         "faab": "0-2%"
+      },
+      {
+        "player": "Ollie Gordon II",
+        "team": "MIA",
+        "pos": "RB",
+        "stat": "out-snapped Jaylen Wright @MIN",
+        "why": "Gordon out-snapped and out-touched Jaylen Wright @MIN, running 9 times for 100 and a TD with a 53-yard run, while Wright ran 5 times for 7. Wright was listed first on the depth chart that week, so the snaps settled the split.",
+        "verdict": "RB30 for me this week, a high-end RB3 and a high-end flex play.",
+        "action": "FLEX"
       }
     ],
     "fallers": [

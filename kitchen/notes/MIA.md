@@ -74,6 +74,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-13: Jaylen Wright: In Week 1 at LV, De'Von Achane played 48 snaps while Wright and Ollie Gordon II played 8 combined (Gordon 3), so the two backups did not share a real role behind Achane. [pod 9-30, deployment]
 - 2026-09-27: Ollie Gordon II: 82% of the snaps, 58% of the routes and 3 targets vs KC. [pod 10-1, deployment]
 - 2026-10-05: Week 4 @MIN: Ollie Gordon II 9 for 100 and a TD (a 53-yard run); Jaylen Wright 5 for 7 (Yahoo).
+- 2026-10-04: Ollie Gordon II out-snapped and out-touched Jaylen Wright at MIN in the first game without De'Von Achane (NBC Sports, DraftSharks). [pod 10-7, deployment]
 
 ## Receivers
 

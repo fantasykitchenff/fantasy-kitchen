@@ -6,12 +6,59 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-07T16:20:00Z",
+  "updatedAt": "2026-10-07T20:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-07T20:20:00Z",
+        "text": "Baker Mayfield (TB) is targeting a Week 6 return vs PIT from the dislocated right thumb, a week earlier than the Week 7 Todd Bowles first floated, though the outside range is three to six weeks depending on his grip. Jalon Daniels starts Thursday @DAL, so Emeka Egbuka is WR41 and Chris Godwin WR47 for me this week, low-end flex plays to dart throws. Mayfield is QB24 rest of season for me. Monitor his practice reps the week of Week 6.",
+        "player": "Baker Mayfield",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "his practice reps the week of Week 6"
+      },
+      {
+        "at": "2026-10-07T20:20:00Z",
+        "text": "Zac Taylor calls Tee Higgins (CIN) day to day with the adductor, not a set two to three weeks, and Cincinnati has its bye in Week 6. Chase Brown and Dohnte Meyers keep the Week 5 bump @MIA either way. Higgins is WR16 rest of season for me. Monitor his practice Wednesday to Friday.",
+        "player": "Tee Higgins",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday to Friday practice reports"
+      },
+      {
+        "at": "2026-10-07T20:20:00Z",
+        "text": "Rico Dowdle (PIT) is on track to return from the toe vs IND, and the coach calls the backfield a one-two punch. Jaylen Warren played 69 of 71 snaps @CLE with Dowdle out; he is RB8 for me this week and slides if Dowdle practices in full. Dowdle is RB34 rest of season for me. Monitor his practice participation Wednesday to Friday.",
+        "player": "Rico Dowdle",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Wednesday to Friday practice reports"
+      },
+      {
+        "at": "2026-10-07T20:20:00Z",
+        "text": "Breece Hall (NYJ) is week to week with the quad. Braelon Allen took all 14 back carries @CHI without him and is RB20 for me this week, an RB2, with Isaiah Davis in a small share. Hall is RB16 rest of season for me. Monitor Friday's injury report.",
+        "player": "Breece Hall",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report"
+      },
+      {
+        "at": "2026-10-07T20:20:00Z",
+        "text": "Ollie Gordon II (MIA) out-snapped and out-touched Jaylen Wright @MIN, with 9 carries for 100 and a TD to Wright's 5 for 7, so the snaps beat the depth chart. Gordon is RB30 for me this week, a high-end RB3, a high-end flex play. Wright is outside my top 40 backs; sit him.",
+        "player": "Ollie Gordon II",
+        "pos": "RB",
+        "action": "FLEX"
+      },
+      {
+        "at": "2026-10-07T20:20:00Z",
+        "text": "Bhayshul Tuten (JAX) out-snapped Chris Rodriguez Jr. 36 to 15 @CIN and had two touchdowns called back on holding. He is RB15 for me this week vs PHI in London, an RB2, and RB18 rest of season. Trade for him; offer a WR3 or a bench RB with a smaller role.",
+        "player": "Bhayshul Tuten",
+        "pos": "RB",
+        "action": "TRADE_FOR",
+        "price": "a WR3 or a bench RB with a smaller role"
+      },
       {
         "at": "2026-10-07T16:20:00Z",
         "text": "Minnesota signed Odell Beckham Jr. to the practice squad Wednesday with Justin Jefferson (MIN) still working back from the ankle sprain that kept him out vs MIA. Beckham played 19 snaps for the Giants this year without a catch, so pass on him in every format. Jefferson stays off my Week 5 receivers @NO until he practices, and he is WR6 rest of season for me. Monitor Wednesday's practice report.",
