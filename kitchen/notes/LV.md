@@ -166,6 +166,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Ashton Jeanty: A Raiders beat site reported extra taping on his ankle during the game at NO and that he tweaked the ankle in the second half of Week 1; he visited the trainers at NO and finished with 19 carries. No official listing found. [pod 9-29, beat]
 - 2026-09-30: Ashton Jeanty: On the Wednesday report with an ankle, full participation (team report).
 - 2026-10-01: Ashton Jeanty practiced in full Wednesday and Thursday; local radio said on 9/29 that he is not 100%. [pod 10-2, official]
+- 2026-10-07: Ashton Jeanty (ankle) full practice Wednesday; Brock Bowers (knee) limited; Jalen Nailor (concussion) did not practice (patriots.com Week 5 report).
 
 ## Other
 

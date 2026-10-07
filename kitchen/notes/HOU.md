@@ -132,6 +132,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Nico Collins: practiced again Thursday after a limited Wednesday, his first two sessions since the hamstring strain that cost Weeks 2 and 3; trending toward playing vs DAL. [pod 10-1, beat]
 - 2026-10-02: Nico Collins practiced Friday after limited sessions Wednesday and Thursday (hamstring). [pod 10-2, beat]
 - 2026-09-30: Jayden Higgins tore his ACL in training camp and is out for the season. [pod 10-1, official]
+- 2026-10-07: Tank Dell returned to practice after missing all of 2025, opening the 21-day window; DeMeco Ryans takes over defensive play-calling (Wednesday reports).
 
 ## Other
 

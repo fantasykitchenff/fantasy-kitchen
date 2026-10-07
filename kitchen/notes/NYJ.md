@@ -146,6 +146,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-19: Omar Cooper Jr. placed on IR (ankle). [pod 10-1, official]
 - 2026-09-30: Adonai Mitchell (finger) is week to week per the head coach; no fracture or surgery has been reported. [pod 10-2, coach]
 - 2026-10-07: Breece Hall (quad) still week to week; Braelon Allen keeps the rush share and Isaiah Davis gets a small share. [pod 10-7, beat]
+- 2026-10-07: Breece Hall (quad) and AD Mitchell (finger) did not practice Wednesday (Wednesday report).
 
 ## Other
 

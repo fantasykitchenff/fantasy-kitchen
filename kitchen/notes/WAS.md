@@ -180,6 +180,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Terry McLaurin (hamstring, hurt in Friday practice) inactive for Week 4 vs IND in London; Rachaad White, Luke McCaffrey and Sam Cosmi also inactive (Yahoo, Hogs Haven).
 - 2026-10-05: Week 4 vs IND (London): Marcus Mariota sprained his right MCL in the first quarter, MRI Monday, multiple weeks expected; third-string rookie Athan Kaliakmanis finished 15 of 33 for 186 (Yahoo, CBS).
 - 2026-10-05: Jayden Daniels: will practice in full Wed to Fri with the left elbow; Dan Quinn's goal is for him to start vs NYG; team wants a full week first (Washington Post via Hogs Haven).
+- 2026-10-07: Jayden Daniels (elbow) practiced in full Wednesday; Quinn says a full practice by Friday puts him back vs NYG. Terry McLaurin (hamstring) and Stefon Diggs did not practice. Marcus Mariota's MCL sprain stays off IR (Wednesday report).
 
 ## Other
 

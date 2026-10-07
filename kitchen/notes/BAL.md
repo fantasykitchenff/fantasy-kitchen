@@ -152,6 +152,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Lamar Jackson believed to be week to week pending Monday's MRI on the left ankle (PFT); day-to-day per Minter Sunday.
 - 2026-10-05: Lamar Jackson left the stadium in a walking boot; MRI on the left ankle Monday; the Ravens are hopeful he plays Week 5 vs ATL (CBS Sports, Yahoo).
 - 2026-10-05: Lamar Jackson: Jesse Minter gave no diagnosis after Monday's MRI, said the team is still gathering information and does not expect it to be crazy long-term; no commitment for Week 5 vs ATL (nfl.com roundup).
+- 2026-10-07: Lamar Jackson (left ankle) and Zay Flowers (hamstring) did not practice Wednesday; Jesse Minter will judge Jackson through the week before ATL (team site, Wednesday report).
 
 ## Other
 

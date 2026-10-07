@@ -113,6 +113,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs JAX: Ja'Marr Chase concussion in the second quarter (3 for 27); Tee Higgins hurt his adductor late after 11 for 157 (Zac Taylor postgame, Bengals.com). Burrow 39 of 54 for 428; Chase Brown 8 for 9, 10 catches for 62.
 - 2026-10-05: Tee Higgins has a groin (adductor) strain from late in the JAX loss, typically two to three weeks (Yahoo); Ja'Marr Chase in the concussion protocol (ESPN).
 - 2026-10-05: Ja'Marr Chase (concussion protocol) and Tee Higgins (adductor): Zac Taylor said Monday both are day to day (SI, WCPO).
+- 2026-10-07: Ja'Marr Chase (concussion protocol) and Tee Higgins (groin, neck added) did not practice Wednesday (bengals.com Week 5 report).
 
 ## Other
 

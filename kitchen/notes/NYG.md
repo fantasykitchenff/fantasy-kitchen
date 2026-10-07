@@ -176,6 +176,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-21: Malik Nabers: The Week 2 injury was a right shoulder dislocation at LAR that he put back in himself; he returned to the game, was limited Sep 23 and carried no designation into Week 3, where he played about 80% of the snaps. [pod 9-30, beat]
 - 2026-09-30: Tyrone Tracy Jr. (knee) and LT Andrew Thomas (groin) DNP Wednesday; John Harbaugh called Tracy day to day; Cam Skattebo full and Malik Nabers not listed (team report).
 - 2026-10-01: Tyrone Tracy Jr. did not practice Wednesday and was limited Thursday (knee); the head coach does not think it is serious. [pod 10-2, official]
+- 2026-10-07: Malik Nabers (knee, sore) did not practice Wednesday; Cam Skattebo (shoulder) and Isaiah Likely (knee/groin) limited (giants.com, Wednesday report).
 
 ## Other
 

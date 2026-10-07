@@ -182,6 +182,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Noah Fant (abdominal) inactive Monday night vs ATL after limited practices all week (NFL.com inactives, NBC Sports).
 - 2026-10-05: Jordyn Tyson (hamstring, IR) is unlikely to play before Week 7, per team sources (ESPN, Pro Football Rumors). [pod 10-5, beat]
 - 2026-10-05: Jordyn Tyson (hamstring, IR) is still weeks away from a return (ESPN); a specific Week 9 date has not been confirmed. [pod 10-7, beat]
+- 2026-10-07: Alvin Kamara (back) did not practice Wednesday (walkthrough estimate); Chris Olave rest day; Tyler Shough (left hand) limited, says he will play vs MIN (ESPN, Saints report).
 
 ## Other
 

@@ -6,12 +6,143 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-07T20:20:00Z",
+  "updatedAt": "2026-10-07T22:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "text": "Lamar Jackson (BAL) missed Wednesday's practice with the left ankle, and Jesse Minter says his status for Sunday night @ATL will be judged through the week. Tyler Huntley starts if he sits. Jackson is QB2 rest of season for me; hold him. Monitor; Friday's injury report.",
+        "url": "https://www.baltimoreravens.com/news/lamar-jackson-not-at-first-practice-following-ankle-injury-ravens-falcons-week-5",
+        "player": "Lamar Jackson",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Zay Flowers (BAL) missed Wednesday's practice with a hamstring, on top of Jackson's ankle. He caught 8 of 10 for 118 and a TD vs TEN and is WR9 for me this week @ATL. Monitor; Thursday's practice report.",
+        "player": "Zay Flowers",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Thursday's practice report",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Jayden Daniels (WAS) practiced in full Wednesday on the left elbow, and Dan Quinn says a full practice by Friday puts him back vs NYG. Marcus Mariota's MCL sprain stays off IR. Daniels is QB11 for me, a borderline start this week.",
+        "player": "Jayden Daniels",
+        "pos": "QB",
+        "action": "START",
+        "slot": "QB1",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Stefon Diggs (WAS) and Terry McLaurin (WAS, hamstring) both missed Wednesday's practice. Diggs led Washington's receivers in London with McLaurin out and is WR23 for me this week, a WR2, if he plays. Monitor Diggs; Thursday's practice report.",
+        "player": "Stefon Diggs",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Thursday's practice report",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Kyle Monangai (CHI) missed Wednesday's practice with thumb and toe injuries after 30 carries for 146 and 2 TD vs NYJ; Ben Johnson says the thumb is not an issue. RB18 for me this week, an RB2. Monitor; Friday's injury report.",
+        "player": "Kyle Monangai",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "D'Andre Swift (CHI) also missed Wednesday's practice, with hip and knee injuries, so both Chicago backs sat with GB next. Swift is RB13 for me, borderline RB1/RB2 this week. Monitor; Friday's injury report.",
+        "player": "D'Andre Swift",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Alvin Kamara (NO) did not practice Wednesday with the back he hurt Monday vs ATL, with Travis Etienne already out. Kendre Miller is next and is RB40 for me, a low-end flex play to a dart throw. Kamara is a high-end RB3 for me this week. Monitor; Friday's injury report.",
+        "url": "https://www.rotowire.com/football/headlines/alvin-kamara-injury-tending-to-back-issue-641215",
+        "player": "Alvin Kamara",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Chris Olave (NO) sat out Wednesday's walkthrough, which the Saints called a rest day after the late hit Monday. Tyler Shough was limited with the left hand and says he will play vs MIN. Olave is WR7 for me this week.",
+        "player": "Chris Olave",
+        "pos": "WR",
+        "action": "START",
+        "slot": "WR1",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Tyler Shough (NO) was limited Wednesday with his left hand wrapped and says he will play vs MIN. QB12 for me, a borderline start this week.",
+        "player": "Tyler Shough",
+        "pos": "QB",
+        "action": "START",
+        "slot": "QB1",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Justin Jefferson (MIN) was limited Wednesday in his first practice since the Week 3 ankle sprain. Jordan Addison sat with what Minnesota calls minor soreness. Jefferson is WR6 rest of season for me; hold him. Monitor; Friday's injury report.",
+        "player": "Justin Jefferson",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Malik Nabers (NYG) missed Wednesday's practice with a sore knee after catching 6 of 7 for 112 and a TD vs ARI. Cam Skattebo was limited with the shoulder and is RB19 for me, an RB2. Nabers is WR10 for me this week @WAS. Monitor Nabers; Thursday's practice report.",
+        "player": "Malik Nabers",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Thursday's practice report",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Tee Higgins (CIN) did not practice Wednesday, and the official report added a neck injury to the groin. Ja'Marr Chase stayed in the concussion protocol and did not practice either. Mike Gesicki is TE11 for me, a borderline start this week @MIA. Monitor Higgins; Friday's injury report.",
+        "url": "https://bengals.com/news/bengals-dolphins-week-5-2026-injury-report",
+        "player": "Tee Higgins",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Ashton Jeanty (LV) practiced in full Wednesday on the ankle that cut into his snaps vs KC. RB11 for me, borderline RB1/RB2 this week @NE. Brock Bowers was limited with the knee and is TE2 for me.",
+        "url": "https://www.patriots.com/news/week-5-injury-report-patriots-vs-raiders",
+        "player": "Ashton Jeanty",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB1",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Mack Hollins (NE) missed Wednesday's practice with the calf again, and Drake Maye practiced in full. Romeo Doubs scored twice at BUF with Hollins hurt and is a high-end WR3 for me this week, a high-end flex play vs LV.",
+        "player": "Romeo Doubs",
+        "pos": "WR",
+        "action": "FLEX",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Breece Hall (NYJ) missed Wednesday's practice with the quad. Braelon Allen took all 14 back carries without him @CHI and is RB20 for me this week, an RB2.",
+        "player": "Braelon Allen",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB2",
+        "at": "2026-10-07T22:20:00Z"
+      },
+      {
+        "text": "Tank Dell (HOU) returned to practice Wednesday after missing all of 2025, which opens Houston's 21-day window to activate him. He has no snaps yet behind Nico Collins. Stash him in deep leagues, 0 to 2 percent of FAAB.",
+        "player": "Tank Dell",
+        "pos": "WR",
+        "action": "STASH",
+        "faab": "0-2%",
+        "at": "2026-10-07T22:20:00Z"
+      },
       {
         "at": "2026-10-07T20:20:00Z",
         "text": "Baker Mayfield (TB) is targeting a Week 6 return vs PIT from the dislocated right thumb, a week earlier than the Week 7 Todd Bowles first floated, though the outside range is three to six weeks depending on his grip. Jalon Daniels starts Thursday @DAL, so Emeka Egbuka is WR41 and Chris Godwin WR47 for me this week, low-end flex plays to dart throws. Mayfield is QB24 rest of season for me. Monitor his practice reps the week of Week 6.",
@@ -199,6 +330,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2107602860099960955"
+    },
+    {
+      "id": "2026w05-notes-thread-a1d4",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

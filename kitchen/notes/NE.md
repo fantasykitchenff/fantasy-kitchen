@@ -135,6 +135,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Mack Hollins left the 29-26 win at BUF early in the third quarter with a non-contact calf injury, 3 catches on 4 targets for 53; Maye 22 of 37, 269, 3 TD, 1 INT, 54 rushing; Efton Chism 23-yard winning TD (CBS, CBS Boston).
 - 2026-10-05: Mack Hollins (calf) left Week 4 at BUF in the third quarter; Vrabel unsure he can practice for a couple of days, more known later Monday (Rotowire).
 - 2026-10-05: Mack Hollins: Mike Vrabel had no update on the calf Monday; unsure he can practice for a couple of days (Rotowire, NBC Sports).
+- 2026-10-07: Mack Hollins (calf) did not practice Wednesday; Drake Maye (right shoulder) full (patriots.com Week 5 report).
 
 ## Other
 
