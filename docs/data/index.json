@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 5,
-  "updatedAt": "2026-10-06T22:17:10Z",
+  "updatedAt": "2026-10-07T14:40:22Z",
   "pieces": [
+    {
+      "series": "menu",
+      "week": 5,
+      "path": "2026/week-05/menu.json",
+      "title": "The Menu, Week 5",
+      "dek": "CeeDee Lamb tops the receivers after 21 targets, Kyle Monangai and Emanuel Wilson walk into lead roles, and Lamar Jackson and Ja'Marr Chase fall to doubtful.",
+      "publishedAt": "2026-10-07T14:39:00Z",
+      "updatedAt": "2026-10-07T14:39:00Z"
+    },
     {
       "series": "market",
       "week": 5,

@@ -127,3 +127,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Rico Dowdle: Ruled out Wednesday for Thursday night at CLE (toe); no practice all week, right foot in a walking boot. Warren is the lead back (NBC Sports, team report).
 - 2026-10-01: Steelers traded CB Joey Porter Jr. to DAL on Wednesday Sep 30 for a 2027 sixth and a 2028 second; he had not played a snap in 2026 after the PUP stint and a stalled extension (team announcement, reports).
 - 2026-10-01: PIT at CLE Thursday night forecast: dry during the game, mid to upper 70s, southwest wind 8 to 13 mph, rain arriving after midnight (weather pages via search results).
+- 2026-10-07: Rico Dowdle (toe) has a pretty good chance to return Week 5 vs IND per NFL Network; Mike McCarthy said he is making progress after missing two games (Steelers Depot, NBC Sports).

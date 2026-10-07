@@ -133,3 +133,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Buffalo Bills: Five turnovers in the 24-16 win over LAC: a Cook fumble, two Allen interceptions, a Kincaid fumble and an Allen fumble on a sack; 10 penalties. [pod 9-29, deployment]
 - 2026-10-01: Week 4 vs NE: BUF favored by 6.5 with a 48.5 total (odds pages).
 - 2026-10-02: DJ Moore (shoulder) limited Friday, no game designation for Week 4 vs NE (Rotowire, NBC Sports).
+- 2026-10-07: DJ Moore (shoulder, aggravated Week 4 vs NE) considered doubtful for Week 5 at LAR (CBS Sports).

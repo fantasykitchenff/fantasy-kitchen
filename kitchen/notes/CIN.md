@@ -123,3 +123,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-06: The Bengals' defense looks better after acquiring Dexter Lawrence and other free agents. [8-6 1st round picks downsides]
 - 2026-09-27: All three touchdowns at PIT were passes (Chase, Higgins, Gesicki). [pod 9-29, deployment]
 - 2026-09-27: Bengals defense: Allowed PIT 411 yards on 59 plays (7.0 a play) and 292 passing yards with 3 TD to Aaron Rodgers; through Week 3 the defense allows a league-high 7.3 yards per play on first down. [pod 9-29, deployment]
+- 2026-10-07: Ja'Marr Chase (concussion protocol) widely expected to miss Week 5 at MIA; Tee Higgins (adductor) called day to day (Yahoo, FantasyPros).

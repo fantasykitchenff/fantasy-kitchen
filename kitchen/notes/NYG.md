@@ -183,3 +183,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: The Giants' schedule is manageable through six weeks (Rams in LA in Week 2) but the final 11 games include trips to Houston, Philadelphia, Seattle and Detroit plus Cleveland, Jacksonville and San Francisco. [8-20 bust and value picks for 2026]
 - 2026-09-30: The Giants' bye is Week 8; before it they host ARI and NO and visit WAS and HOU. [pod 9-29, official]
 - 2026-10-02: Tyrone Tracy Jr. (knee) upgraded to full Friday and is off the injury report for Week 4 vs ARI (NBC Sports).
+- 2026-10-07: Jaxson Dart (knee) out for the rest of the regular season; Jameis Winston starts (Giants.com, ESPN).

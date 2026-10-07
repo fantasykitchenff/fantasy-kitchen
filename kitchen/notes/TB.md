@@ -165,3 +165,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Rookies Rueben Bain Jr. and Josiah Trotter did not play vs MIN; Tampa's bye is Week 10. [pod 9-29, official]
 - 2026-10-01: Week 4 vs GB: a 43 percent chance of rain in the Thursday forecasts (weather pages).
 - 2026-10-04: Week 4 vs GB: Green Bay 17, Tampa Bay 14 in rookie Jalon Daniels' first start. [pod 10-5, deployment]
+- 2026-10-07: Baker Mayfield (right thumb) out for Week 5 Thursday at DAL; rookie Jalon Daniels makes his second start, no change to Mayfield's timeline (Pro Football Rumors, Yardbarker).
