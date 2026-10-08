@@ -6,12 +6,136 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-08T16:30:00Z",
+  "updatedAt": "2026-10-08T22:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Lamar Jackson",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://sports.yahoo.com/articles/ravens-injury-report-lamar-jackson-201429183.html",
+        "text": "Lamar Jackson (BAL) missed a second straight practice Thursday with the left ankle, and Tyler Huntley ran the first-team offense again. Huntley is QB28 for me @ATL, outside my top 12. Jackson is QB2 rest of season; hold him. Monitor; Friday's injury report.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Zay Flowers",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://sports.yahoo.com/articles/ravens-injury-report-lamar-jackson-201429183.html",
+        "text": "Zay Flowers (BAL) was limited for a second day Thursday with the foot. He is WR9 for me this week @ATL, with Huntley likely throwing to him. Monitor; Friday's injury report.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Ja'Marr Chase",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's practice and his protocol clearance",
+        "url": "https://www.cincyjungle.com/cincinnati-bengals-injuries/201629/jamarr-chase-injury-tee-higgins-miami-dolphins-news",
+        "text": "Ja'Marr Chase (CIN) was back at practice Thursday in full pads, but he is still in the concussion protocol and needs a full practice to clear it. WR45 for me this week @MIA until he clears. Monitor; Friday's practice and his clearance.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Tee Higgins",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.cincyjungle.com/cincinnati-bengals-injuries/201629/jamarr-chase-injury-tee-higgins-miami-dolphins-news",
+        "text": "Tee Higgins (CIN) worked on the rehab field again Thursday, a second straight day without practice, with the Week 6 bye next. Dohnte Meyers is WR48 for me, a dart throw, and gains only if Chase sits too. Monitor Higgins; Friday's injury report.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Malik Nabers",
+        "pos": "WR",
+        "action": "START",
+        "slot": "WR1",
+        "url": "https://www.bigblueview.com/new-york-giants-injuries/174797/injury-report-wr-malik-nabers-ot-andrew-thomas-back-at-practice",
+        "text": "Malik Nabers (NYG) was back at practice Thursday, limited with the knee after sitting Wednesday. WR10 for me this week @WAS.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Cam Skattebo",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB2",
+        "url": "https://www.bigblueview.com/new-york-giants-injuries/174797/injury-report-wr-malik-nabers-ot-andrew-thomas-back-at-practice",
+        "text": "Cam Skattebo (NYG) was limited again Thursday with the shoulder but shed the red non-contact jersey. RB19 for me this week @WAS, an RB2.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Terry McLaurin",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.cbssports.com/fantasy/football/news/commanders-terry-mclaurin-dnp-on-thursday/",
+        "text": "Terry McLaurin (WAS) missed Thursday's practice with the hamstring, his second straight day out, after sitting in London. Reports on Stefon Diggs conflict, so he stays WR23 for me, a WR2, if he plays. McLaurin is WR29 rest of season. Monitor McLaurin; Friday's injury report.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Kyle Monangai",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://chicago.suntimes.com/bears/2026/10/08/bears-report-rb-dandre-swift-kyle-monangai-out-practice-injury-toe-thumb-nfl",
+        "text": "Kyle Monangai (CHI) missed a second straight practice Thursday. ESPN's Jeremy Fowler reports turf toe that could cost him one to two weeks; Ben Johnson calls it soreness from the 30-carry game. He is RB18 for me @GB if he plays, an RB2. Monitor; Friday's injury report.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "D'Andre Swift",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB2",
+        "url": "https://chicago.suntimes.com/bears/2026/10/08/bears-report-rb-dandre-swift-kyle-monangai-out-practice-injury-toe-thumb-nfl",
+        "text": "D'Andre Swift (CHI) returned as a limited participant Thursday with the hip and knee, and Roschon Johnson is the only other back behind him if Monangai sits. RB13 for me @GB, borderline RB1/RB2 this week, and higher if Monangai is out.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Alvin Kamara",
+        "pos": "RB",
+        "action": "FLEX",
+        "url": "https://www.neworleanssaints.com/news/injury-report-minnesota-vikings-vs-new-orleans-saints-2026-nfl-week-5-thursday",
+        "text": "Alvin Kamara (NO) went from no practice Wednesday to limited Thursday with the back, with Travis Etienne on IR. RB25 for me vs MIN, a high-end RB3 and a high-end flex play.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Chris Olave",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.neworleanssaints.com/news/injury-report-minnesota-vikings-vs-new-orleans-saints-2026-nfl-week-5-thursday",
+        "text": "Chris Olave (NO) was limited Thursday, and New Orleans added a foot injury to Wednesday's rest day. Tyler Shough practiced in full with the left hand and is QB12 for me, a borderline start. Olave is WR7 for me vs MIN. Monitor Olave; Friday's injury report.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Justin Jefferson",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.vikings.com/news/saints-injury-report-week-5-2026-nfl-season",
+        "text": "Justin Jefferson (MIN) was limited for a second day Thursday with the ankle, and Jordan Addison joined him as limited. Addison is WR25 for me @NO, a high-end WR3, and his share shrinks if Jefferson plays. Jefferson is WR6 rest of season. Monitor Jefferson; Friday's injury report.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Ashton Jeanty",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.cbssports.com/fantasy/football/news/raiders-ashton-jeanty-limited-by-pair-of-injuries-thursday/",
+        "text": "Ashton Jeanty (LV) went from full Wednesday to limited Thursday, with a foot injury added to the ankle. He is RB11 for me @NE, borderline RB1/RB2, and Mike Washington Jr. is next at RB37. Monitor Jeanty; Friday's injury report.",
+        "at": "2026-10-08T22:20:00Z"
+      },
+      {
+        "player": "Tre Tucker",
+        "pos": "WR",
+        "action": "FLEX",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-08/jalen-nailor-concussion-does-not-practice-thurs",
+        "text": "Jalen Nailor (LV) missed Thursday's practice still in the concussion protocol and is trending toward sitting @NE. Brock Bowers practiced in full and is TE2 for me. Tre Tucker is WR36 for me, a low-end WR3 and a low-end flex play.",
+        "at": "2026-10-08T22:20:00Z"
+      },
       {
         "at": "2026-10-08T16:20:00Z",
         "player": "Ladd McConkey",
@@ -57,7 +181,7 @@
         "at": "2026-10-07T22:20:00Z"
       },
       {
-        "text": "Zay Flowers (BAL) missed Wednesday's practice with a hamstring, on top of Jackson's ankle. He caught 8 of 10 for 118 and a TD vs TEN and is WR9 for me this week @ATL. Monitor; Thursday's practice report.",
+        "text": "Zay Flowers (BAL) was limited Wednesday with a foot injury, on top of Jackson's ankle. He caught 8 of 10 for 118 and a TD vs TEN and is WR9 for me this week @ATL. Monitor; Thursday's practice report.",
         "player": "Zay Flowers",
         "pos": "WR",
         "action": "MONITOR",
@@ -371,6 +495,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2107965507525582852"
+    },
+    {
+      "id": "2026w05-notes-thread-64b6",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

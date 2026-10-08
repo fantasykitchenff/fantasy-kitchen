@@ -114,6 +114,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Tee Higgins has a groin (adductor) strain from late in the JAX loss, typically two to three weeks (Yahoo); Ja'Marr Chase in the concussion protocol (ESPN).
 - 2026-10-05: Ja'Marr Chase (concussion protocol) and Tee Higgins (adductor): Zac Taylor said Monday both are day to day (SI, WCPO).
 - 2026-10-07: Ja'Marr Chase (concussion protocol) and Tee Higgins (groin, neck added) did not practice Wednesday (bengals.com Week 5 report).
+- 2026-10-08: Ja'Marr Chase: back at practice Thursday in full pads, still in the concussion protocol; needs a full practice to clear (Cincy Jungle, Yahoo).
+- 2026-10-08: Tee Higgins: rehab field Thursday, second straight DNP (groin/neck) (Cincy Jungle).
 
 ## Other
 

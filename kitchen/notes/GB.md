@@ -184,6 +184,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Jayden Reed: Matt LaFleur said Reed will have neck surgery and miss the rest of the 2026 season; he went on injured reserve the same day. [pod 9-29, coach]
 - 2026-10-01: Aaron Banks (knee/toe) and Jacob Monk (quad): did not practice Wednesday 9/30 or Thursday 10/1. [pod 10-1, official]
 - 2026-09-30: Christian Watson: not on the Wednesday 9/30 injury report and not mentioned in Thursday's report; the hamstring listing after Week 3 did not carry into Week 4. [pod 10-1, official]
+- 2026-10-08: Chris Brooks: DNP Wednesday and Thursday (ankle); MarShawn Lloyd and Kaleb Johnson next if he sits (Bears-Packers Thursday report).
 
 ## Other
 

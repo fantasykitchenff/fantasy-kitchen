@@ -177,6 +177,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Tyrone Tracy Jr. (knee) and LT Andrew Thomas (groin) DNP Wednesday; John Harbaugh called Tracy day to day; Cam Skattebo full and Malik Nabers not listed (team report).
 - 2026-10-01: Tyrone Tracy Jr. did not practice Wednesday and was limited Thursday (knee); the head coach does not think it is serious. [pod 10-2, official]
 - 2026-10-07: Malik Nabers (knee, sore) did not practice Wednesday; Cam Skattebo (shoulder) and Isaiah Likely (knee/groin) limited (giants.com, Wednesday report).
+- 2026-10-08: Malik Nabers: limited Thursday (knee) after a Wednesday DNP; Cam Skattebo limited (shoulder) but out of the red non-contact jersey; Andrew Thomas back at practice (Big Blue View).
 
 ## Other
 

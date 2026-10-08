@@ -167,6 +167,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Ashton Jeanty: On the Wednesday report with an ankle, full participation (team report).
 - 2026-10-01: Ashton Jeanty practiced in full Wednesday and Thursday; local radio said on 9/29 that he is not 100%. [pod 10-2, official]
 - 2026-10-07: Ashton Jeanty (ankle) full practice Wednesday; Brock Bowers (knee) limited; Jalen Nailor (concussion) did not practice (patriots.com Week 5 report).
+- 2026-10-08: Ashton Jeanty: full Wednesday, limited Thursday with a foot injury added to the ankle; Mike Washington Jr. next (CBS Sports).
+- 2026-10-08: Jalen Nailor: DNP Thursday, concussion protocol, trending out @NE; Brock Bowers full Thursday (NBC Sports).
 
 ## Other
 

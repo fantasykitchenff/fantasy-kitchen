@@ -183,6 +183,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Caleb Williams: Grade 2 hamstring strain from Sep 20, will not practice in Week 5, still week to week; Tyson Bagent starts @GB, Case Keenum the backup (Chicago Sun-Times).
 - 2026-10-05: Kyle Monangai: right thumb imaging showed nothing concerning; Ben Johnson calls it day to day and expects him to be fine for GB (CBS Sports).
 - 2026-10-07: Kyle Monangai (thumb/toe) and D'Andre Swift (hip/knee) did not practice Wednesday; Caleb Williams (hamstring) out vs GB, Tyson Bagent starts (Wednesday report).
+- 2026-10-08: Kyle Monangai: DNP Wednesday and Thursday; ESPN's Jeremy Fowler reports turf toe, uncertainty for one to two weeks; Ben Johnson calls it soreness from the 30-carry game (Chicago Sun-Times).
+- 2026-10-08: D'Andre Swift: limited Thursday (hip, knee) after a Wednesday DNP; all five starting linemen back Thursday (Chicago Sun-Times).
 
 ## Other
 
