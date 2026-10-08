@@ -6,12 +6,20 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-07T23:15:00Z",
+  "updatedAt": "2026-10-08T16:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-08T16:20:00Z",
+        "text": "Sean Payton will take a bigger hand in calling Denver's plays @LAC, with offensive coordinator Davis Webb keeping a large game-planning and game-day role, after four games that left the Broncos 27th in points. The plays change, not the players: Bo Nix (DEN) is QB13 for me, a borderline start this week, and Jaylen Waddle stays WR17, a WR2.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-fantasy-football-lamar-jackson-saquon-barkley-jamarr-chase-120206335.html",
+        "player": "Bo Nix",
+        "pos": "QB",
+        "action": "STREAM"
+      },
       {
         "at": "2026-10-07T23:15:00Z",
         "text": "Philadelphia traded Cam Jurgens to Baltimore Wednesday for a 2028 second and a 2027 fifth, a day after Lane Johnson retired. Jurgens had played left guard since Landon Dickerson went on IR after Week 1, so Jalen Hurts (PHI) goes to London vs JAX with three new starters up front. Hurts is QB15 for me this week, a streamer, and QB9 rest of season. Hold him.",

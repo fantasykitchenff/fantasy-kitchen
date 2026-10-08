@@ -6,6 +6,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-06-24: Davis Webb, the former Giants QB who drew head-coaching interest, is the new OC and play caller, but Sean Payton is expected to remain the real force and could resume calling plays early in the season. [6-24 2026 Coaching Change Fantasy Outlook 1]
 - 2026-08-05: Davis Webb is the Broncos' new play caller; Bo Nix led the NFL in screen attempts over the last two years. [8-5 ice and fire show]
+- 2026-10-08: Sean Payton takes an increased role in play-calling for Week 5 @LAC; OC Davis Webb keeps a significant game-planning and game-day role. Denver ranks 27th in points through four games (ESPN, Schefter via Yahoo).
 
 ## Scheme and tendencies
 

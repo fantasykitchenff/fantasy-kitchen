@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 5,
-  "updatedAt": "2026-10-08T13:51:55Z",
+  "updatedAt": "2026-10-08T16:15:32Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 5,
+      "path": "2026/week-05/notes.json",
+      "title": "Kitchen notes, Week 5",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-06T16:15:00Z",
+      "updatedAt": "2026-10-08T16:20:00Z"
+    },
     {
       "series": "line",
       "week": 5,
@@ -11,15 +20,6 @@
       "dek": "Jacoby Brissett is a top-10 quarterback for me in the week's highest total, and Jalen Hurts drops outside my top 12 without his right tackle.",
       "publishedAt": "2026-10-08T13:50:49Z",
       "updatedAt": "2026-10-08T13:50:49Z"
-    },
-    {
-      "series": "notes",
-      "week": 5,
-      "path": "2026/week-05/notes.json",
-      "title": "Kitchen notes, Week 5",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-06T16:15:00Z",
-      "updatedAt": "2026-10-07T23:15:00Z"
     },
     {
       "series": "butcher",
