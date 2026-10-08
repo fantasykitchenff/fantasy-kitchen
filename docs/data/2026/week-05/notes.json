@@ -6,12 +6,30 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-08T16:20:00Z",
+  "updatedAt": "2026-10-08T16:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-08T16:20:00Z",
+        "player": "Ladd McConkey",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-report-week-5-latest-news-updates-on-lamar-jackson-jayden-daniels-for-fantasy-football-233159209.html",
+        "text": "Ladd McConkey (LAC) missed Wednesday's practice with the foot he aggravated @SEA, where he left with 0 catches on 2 targets, and Jim Harbaugh calls him week to week. He is WR33 for me this week vs DEN, a low-end WR3, only if he plays; Tre' Harris drew 7 of 33 targets in Week 3 and takes the most if he sits. Monitor; Friday's injury report.",
+        "pos": "WR"
+      },
+      {
+        "at": "2026-10-08T16:20:00Z",
+        "player": "Rhamondre Stevenson",
+        "action": "START",
+        "slot": "RB2",
+        "url": "https://www.nbcsports.com/fantasy/football/news/2026-nfl-week-4-injury-report-trouble-in-cincy-ljax-injury-updates-on-kyle-monangai-ladd-mcconkey",
+        "text": "Rhamondre Stevenson (NE) was limited Wednesday with the knee he hurt late @BUF, where he played 35 snaps to TreVeyon Henderson's 25 and ran 13 times for 47 and a TD. A limited Wednesday is not a designation. RB24 for me this week vs LV, an RB2.",
+        "pos": "RB"
+      },
       {
         "at": "2026-10-08T16:20:00Z",
         "text": "Sean Payton will take a bigger hand in calling Denver's plays @LAC, with offensive coordinator Davis Webb keeping a large game-planning and game-day role, after four games that left the Broncos 27th in points. The plays change, not the players: Bo Nix (DEN) is QB13 for me, a borderline start this week, and Jaylen Waddle stays WR17, a WR2.",
