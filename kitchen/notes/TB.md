@@ -160,6 +160,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Bucky Irving: limited Thursday again (glute) (reports).
 - 2026-10-02: Bucky Irving (glute) practiced in full Friday after two limited days and has no game designation. [pod 10-2, official]
 - 2026-10-03: Baker Mayfield: targeting a Week 6 return vs PIT from the dislocated right thumb (NFL Network); ESPN sources put the range at three to six weeks depending on when he can grip the ball. Jalon Daniels starts Week 5 at DAL. [pod 10-7, beat]
+- 2026-10-07: Week 5 @DAL final report: Baker Mayfield (thumb), S Antoine Winfield Jr. (slight rib fracture, two to four weeks), CB Benjamin Morrison and LB SirVocea Dennis ruled out; Rueben Bain Jr. full all week, no designation (buccaneers.com, Yardbarker).
 
 ## Other
 

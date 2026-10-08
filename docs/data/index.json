@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 5,
-  "updatedAt": "2026-10-07T23:15:09Z",
+  "updatedAt": "2026-10-08T13:51:55Z",
   "pieces": [
+    {
+      "series": "line",
+      "week": 5,
+      "path": "2026/week-05/line.json",
+      "title": "Serve or Sit, Week 5",
+      "dek": "Jacoby Brissett is a top-10 quarterback for me in the week's highest total, and Jalen Hurts drops outside my top 12 without his right tackle.",
+      "publishedAt": "2026-10-08T13:50:49Z",
+      "updatedAt": "2026-10-08T13:50:49Z"
+    },
     {
       "series": "notes",
       "week": 5,
