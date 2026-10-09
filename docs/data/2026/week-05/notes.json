@@ -6,12 +6,30 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-09T16:20:00Z",
+  "updatedAt": "2026-10-09T16:25:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-09T16:25:00Z",
+        "player": "Braelon Allen",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB2",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-9",
+        "text": "Aaron Glenn ruled out Breece Hall (NYJ, quad) for Sunday vs CLE, along with Adonai Mitchell (finger); Mason Taylor is expected back from the thumb. Braelon Allen took all 14 back carries @CHI without Hall. RB16 for me this week vs CLE, an RB2."
+      },
+      {
+        "at": "2026-10-09T16:25:00Z",
+        "player": "Carnell Tate",
+        "pos": "WR",
+        "action": "START",
+        "slot": "WR2",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-9",
+        "text": "Carnell Tate (TEN) was limited Thursday with back tightness, and Robert Saleh says the rookie plays Sunday vs HOU. He drew 12 targets, 39 percent of the team's, @BAL. WR23 for me this week vs HOU, a WR2."
+      },
       {
         "at": "2026-10-09T16:20:00Z",
         "player": "Bucky Irving",
@@ -487,24 +505,6 @@
         "action": "ADD",
         "faab": "0-2%",
         "text": "Tyler Higbee (LAR) caught 5 for 67 @PHI and led the Rams tight ends in snaps for a second straight game with the two tight ends ahead of him hurt. TE38 rest of season for me. In TE-premium and deep leagues, add him, 0 to 2 percent of FAAB."
-      },
-      {
-        "at": "2026-10-06T16:15:00Z",
-        "player": "Saquon Barkley",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report before London",
-        "text": "Saquon Barkley (PHI) is week to week with the hamstring he hurt vs LAR, which almost certainly keeps him out of Sunday's 9:30 AM ET game vs JAX in London. The injury is not considered long term. He is RB9 rest of season for me. Monitor Friday's injury report; Will Shipley is the lead back if Barkley sits.",
-        "url": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-rb-saquon-barkley-reportedly-week-to-week-with-hamstring-injury-rb-tank-bigsby-headed-to-ir-after-core-muscle-surgery-211127860.html"
-      },
-      {
-        "at": "2026-10-06T16:15:00Z",
-        "player": "Will Shipley",
-        "pos": "RB",
-        "action": "CLAIM",
-        "faab": "10-15%",
-        "text": "Will Shipley (PHI) played 28 of 61 snaps vs LAR and is the only other back on Philadelphia's active roster, with Tank Bigsby on IR and Barkley week to week. That makes him the lead back in London, not a backup. Claim him, 10 to 15 percent of FAAB.",
-        "url": "https://www.inquirer.com/eagles/nfl-week-5-london-jaguars-running-back-injuries-20261006.html"
       }
     ]
   },

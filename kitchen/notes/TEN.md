@@ -126,6 +126,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Tyjae Spears: limited Thursday after a Wednesday DNP (ankle) (reports).
 - 2026-10-02: Tony Pollard has no game designation; Tyjae Spears is questionable (ankle) for Week 4 at BAL. [pod 10-2, official]
 - 2026-10-04: Tyjae Spears (ankle, questionable) active for Week 4 at BAL; Tony Pollard (foot) active (NBC Sports).
+- 2026-10-09: Carnell Tate limited Thursday with back tightness; Robert Saleh says he will play Week 5 vs HOU (NFL.com).
 
 ## Other
 
