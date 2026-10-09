@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "currentWeek": 5,
-  "updatedAt": "2026-10-09T02:12:09Z",
+  "updatedAt": "2026-10-09T14:34:54Z",
   "pieces": [
     {
       "series": "line",
@@ -10,16 +10,16 @@
       "title": "Serve or Sit, Week 5",
       "dek": "Jacoby Brissett is a top-10 quarterback for me in the week's highest total, and Jalen Hurts drops outside my top 12 without his right tackle.",
       "publishedAt": "2026-10-08T13:50:49Z",
-      "updatedAt": "2026-10-09T02:20:00Z"
+      "updatedAt": "2026-10-09T14:45:00Z"
     },
     {
       "series": "menu",
       "week": 5,
       "path": "2026/week-05/menu.json",
       "title": "The Menu, Week 5",
-      "dek": "Jared Goff and Matthew Stafford climb into the top four quarterbacks, Michael Wilson jumps to WR8, and Kyle Monangai and Emanuel Wilson walk into lead roles.",
+      "dek": "Puka Nacua climbs to WR2, Braelon Allen and David Montgomery move into the RB2 range, and Kyle Monangai slides to RB28 after two missed practices.",
       "publishedAt": "2026-10-07T14:39:00Z",
-      "updatedAt": "2026-10-09T02:20:00Z"
+      "updatedAt": "2026-10-09T14:45:00Z"
     },
     {
       "series": "notes",
