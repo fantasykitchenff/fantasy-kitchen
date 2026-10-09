@@ -176,3 +176,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-07-14: Opens at LAC, at NO, then KC, NE and BUF. [7-14 afc west breakdown]
 - 2026-08-19: The Raiders scored 80% of their 2025 touchdowns through the air; only 12 teams in the last decade did that and none repeated it, pointing toward more rushing scores in 2026. [8-19 RBs drafting and fading]
 - 2026-09-30: Schedule: KC at home in Week 4, then @NE, BUF, LAR, @NYJ, @SF, SEA, @DEN, @CLE, with the bye in Week 13. [pod 9-29, official]
+- 2026-10-09: Ashton Jeanty questionable (ankle, foot), FP/LP/DNP; Jalen Nailor out (concussion); Brock Bowers no designation (raiders.com Friday report).

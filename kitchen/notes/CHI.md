@@ -201,3 +201,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Bears run defense: 24th in run-defense DVOA (-1.7%) and 21st in pass-defense DVOA on FTN's team page, a window that covers Weeks 1 and 2; Saquon Barkley ran 15 times for 82 in Week 3. [pod 9-29, deployment]
 - 2026-10-01: Week 4 vs NYJ: CHI favored by 3.5 with a 42.5 total (odds pages).
 - 2026-10-07: Kyle Monangai (thumb) likely to play Week 5 at GB per Ben Johnson's day-to-day label (Yahoo, NBC Sports).
+- 2026-10-09: Kyle Monangai: out @GB (turf toe, thumb), DNP all week, walking boot, two to three weeks. D'Andre Swift FP Friday, no designation. Caleb Williams questionable, first practice (LP) Friday; Bagent starts (Friday report).

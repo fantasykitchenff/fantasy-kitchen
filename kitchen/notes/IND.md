@@ -208,3 +208,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Week 4 vs WAS in London: IND favored by 3.5 with a 47.5 total; a 90 percent chance of rain at kickoff in the Thursday forecasts (odds and weather pages).
 - 2026-10-01: IND at WAS, London, Sunday 9:30 AM ET: the forecast moved from about a 90 percent chance of rain at kickoff (Wednesday's read) to mostly dry, high 60s, wind under 10 mph by Thursday morning; one Tottenham-specific page still showed afternoon showers (weather pages via search results).
 - 2026-10-02: Keenan Allen (groin) did not practice Friday after limited Wed and Thu; questionable for London vs WAS. Ashton Dulin also questionable; the Colts ruled out no one (Colts.com, Rotowire).
+- 2026-10-09: Keenan Allen questionable (groin), LP/LP/FP; Jonathan Taylor no designation (Friday report).

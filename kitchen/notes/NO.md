@@ -192,3 +192,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-11: The Saints' weeks 15-17 opponents are Tampa Bay, Arizona and Atlanta. [8-11 Fantasy Target Debate]
 - 2026-08-19: The Saints are projected to have the second-easiest schedule in the league in 2026. [8-19 RBs drafting and fading]
 - 2026-08-20: Schedule note: Week 6 is at the Jets on MetLife turf, Week 7 is in France and Week 8 is the bye, so a Week 9 home game vs. Cleveland is a plausible Tyson return target. [8-20 buying or selling rookie hype]
+- 2026-10-09: Alvin Kamara questionable (back), DNP/LP/LP; Chris Olave and Tyler Shough no designation after full Friday practices (neworleanssaints.com Friday report).

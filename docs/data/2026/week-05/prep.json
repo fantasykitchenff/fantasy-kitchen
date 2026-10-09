@@ -1,0 +1,515 @@
+{
+  "series": "prep",
+  "season": 2026,
+  "week": 5,
+  "title": "Prep Notes, Week 5",
+  "dek": "Lamar Jackson and Kyle Monangai are out; D'Andre Swift is RB11 with the Chicago backfield to himself, and Ashton Jeanty is a true Sunday decision.",
+  "format": "PPR",
+  "publishedAt": "2026-10-09T21:45:00Z",
+  "updatedAt": "2026-10-09T21:45:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Friday's final reports are in. Fourteen fantasy players are out, nobody we play is doubtful, and sixteen are questionable. Lamar Jackson is out, so Tyler Huntley starts Sunday night @ATL, and Kyle Monangai's turf toe hands the Chicago backfield to D'Andre Swift, RB11 for me after a full Friday practice. Stefon Diggs and Quentin Johnston are out, Saquon Barkley, DeVonta Smith and Breece Hall miss again, and Michael Pittman Jr. is out multiple weeks. Rankings are for full PPR.\n\nCleared with no designation: Chris Olave, Jayden Daniels, Tyler Shough, Drake Maye, Jalen Hurts, Dallas Goedert, Malik Nabers, Cam Skattebo, Jeremiyah Love, Tony Pollard, Brock Bowers and Mason Taylor. The true Sunday decisions are Ashton Jeanty, Ja'Marr Chase, Tee Higgins, Terry McLaurin and Rico Dowdle; Zay Flowers waits for the 6:50 PM ET inactives Sunday night, and London's inactives drop at 8:00 AM ET. Mike Evans' Friday status was reported both ways after a limited practice, so check SF's inactives. Buffalo and the Rams play Monday and post designations Saturday; DJ Moore did not practice Thursday.",
+  "data": {
+    "report": [
+      {
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "status": "O",
+        "injury": "ankle",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Jesse Minter ruled him out Friday after three missed practices; Tyler Huntley starts @ATL Sunday night.",
+        "verdict": "Out. Pivot to Jayden Daniels, QB10 for me, back from the elbow with three full practices.",
+        "action": "PIVOT",
+        "to": "Jayden Daniels"
+      },
+      {
+        "player": "Kyle Monangai",
+        "team": "CHI",
+        "pos": "RB",
+        "status": "O",
+        "injury": "toe, thumb",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Turf toe; he is in a walking boot and Chicago expects two to three weeks. D'Andre Swift practiced in full Friday.",
+        "verdict": "Out. Pivot to D'Andre Swift, RB11 for me, borderline RB1/RB2 this week.",
+        "action": "PIVOT",
+        "to": "D'Andre Swift"
+      },
+      {
+        "player": "Pat Bryant",
+        "team": "DEN",
+        "pos": "WR",
+        "status": "O",
+        "injury": "ankle",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Moved to IR Friday, a short stay; Lil'Jordan Humphrey was promoted.",
+        "verdict": "Out. Pivot to Courtland Sutton, WR42 for me, a low-end flex play to a dart throw.",
+        "action": "PIVOT",
+        "to": "Courtland Sutton"
+      },
+      {
+        "player": "Tank Dell",
+        "team": "HOU",
+        "pos": "WR",
+        "status": "O",
+        "injury": "knee",
+        "practice": [
+          "LP",
+          "LP",
+          "DNP"
+        ],
+        "read": "Still on IR in his practice window; not activated for TEN.",
+        "verdict": "Out. Leave him on your bench; he has no snaps yet behind Nico Collins.",
+        "action": "SIT"
+      },
+      {
+        "player": "Quentin Johnston",
+        "team": "LAC",
+        "pos": "WR",
+        "status": "O",
+        "injury": "chest",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "Ruled out after three limited days, and Ladd McConkey did not practice all week.",
+        "verdict": "Out. Pivot to Tre' Harris, WR35 for me, a low-end WR3.",
+        "action": "PIVOT",
+        "to": "Tre' Harris"
+      },
+      {
+        "player": "Jalen Nailor",
+        "team": "LV",
+        "pos": "WR",
+        "status": "O",
+        "injury": "concussion",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Never left the protocol this week.",
+        "verdict": "Out. Pivot to Tre Tucker, WR39 for me, a low-end flex play to a dart throw.",
+        "action": "PIVOT",
+        "to": "Tre Tucker"
+      },
+      {
+        "player": "Mack Hollins",
+        "team": "NE",
+        "pos": "WR",
+        "status": "O",
+        "injury": "calf",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Mike Vrabel confirmed he sits again; Romeo Doubs scored twice at BUF without him.",
+        "verdict": "Out. Pivot to Romeo Doubs, WR26 for me, a high-end WR3.",
+        "action": "PIVOT",
+        "to": "Romeo Doubs"
+      },
+      {
+        "player": "Breece Hall",
+        "team": "NYJ",
+        "pos": "RB",
+        "status": "O",
+        "injury": "quad",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Week to week; Braelon Allen took all 14 back carries @CHI without him.",
+        "verdict": "Out. Pivot to Braelon Allen, RB15 for me this week, an RB2.",
+        "action": "PIVOT",
+        "to": "Braelon Allen"
+      },
+      {
+        "player": "Saquon Barkley",
+        "team": "PHI",
+        "pos": "RB",
+        "status": "O",
+        "injury": "hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Week to week; Will Shipley played 28 of 61 snaps vs LAR and leads the backfield in London.",
+        "verdict": "Out. Pivot to Will Shipley, RB22 for me this week, an RB2.",
+        "action": "PIVOT",
+        "to": "Will Shipley"
+      },
+      {
+        "player": "DeVonta Smith",
+        "team": "PHI",
+        "pos": "WR",
+        "status": "O",
+        "injury": "hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Misses another game; Dontayvion Wicks played 92 percent of the snaps vs LAR.",
+        "verdict": "Out. Pivot to Dontayvion Wicks, WR37 for me, a low-end flex play to a dart throw.",
+        "action": "PIVOT",
+        "to": "Dontayvion Wicks"
+      },
+      {
+        "player": "Hollywood Brown",
+        "team": "PHI",
+        "pos": "WR",
+        "status": "O",
+        "injury": "ankle",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Out again, which keeps Makai Lemon on the field.",
+        "verdict": "Out. Sit him; Makai Lemon is WR46 for me, a low-end flex play to a dart throw.",
+        "action": "SIT"
+      },
+      {
+        "player": "Michael Pittman Jr.",
+        "team": "PIT",
+        "pos": "WR",
+        "status": "O",
+        "injury": "foot",
+        "practice": [
+          "LP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Out multiple weeks per Mike McCarthy, not on IR. DK Metcalf has the outside targets.",
+        "verdict": "Out. Pivot to Roman Wilson, WR47 for me, a low-end flex play to a dart throw.",
+        "action": "PIVOT",
+        "to": "Roman Wilson"
+      },
+      {
+        "player": "Zach Charbonnet",
+        "team": "SEA",
+        "pos": "RB",
+        "status": "O",
+        "injury": "knee",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "Still on PUP; the clock on his return starts next week.",
+        "verdict": "Out. Pivot to Emanuel Wilson, RB16 for me this week, an RB2.",
+        "action": "PIVOT",
+        "to": "Emanuel Wilson"
+      },
+      {
+        "player": "Stefon Diggs",
+        "team": "WAS",
+        "pos": "WR",
+        "status": "O",
+        "injury": "hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Missed every practice; Terry McLaurin is questionable after one limited day.",
+        "verdict": "Out. Pivot to Antonio Williams, WR44 for me, a low-end flex play to a dart throw.",
+        "action": "PIVOT",
+        "to": "Antonio Williams"
+      },
+      {
+        "player": "Zay Flowers",
+        "team": "BAL",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "foot",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "No full practice all week, and Tyler Huntley throws to him Sunday night.",
+        "verdict": "WR12 for me, borderline WR1/WR2 this week, with a backup ready for Sunday night.",
+        "action": "START",
+        "watch": "Sunday's inactives at 6:50 PM ET",
+        "slot": "WR2"
+      },
+      {
+        "player": "Caleb Williams",
+        "team": "CHI",
+        "pos": "QB",
+        "status": "Q",
+        "injury": "hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "LP"
+        ],
+        "read": "His first practice since Week 2 came Friday; Tyson Bagent starts @GB.",
+        "verdict": "Bagent starts, so sit Williams a third straight week.",
+        "action": "SIT"
+      },
+      {
+        "player": "Ja'Marr Chase",
+        "team": "CIN",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "concussion",
+        "practice": [
+          "DNP",
+          "LP",
+          "FP"
+        ],
+        "read": "A full practice Friday, but he is still in the protocol and needs an independent neurologist to clear him.",
+        "verdict": "Off the Menu until he clears; if he does, he goes back into my top 12 receivers. Monitor; his clearance before Sunday's inactives.",
+        "action": "MONITOR",
+        "watch": "protocol clearance and Sunday's inactives"
+      },
+      {
+        "player": "Tee Higgins",
+        "team": "CIN",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "groin, neck",
+        "practice": [
+          "DNP",
+          "DNP",
+          "FP"
+        ],
+        "read": "Two days on the rehab field, then a full practice Friday; Zac Taylor calls him day to day.",
+        "verdict": "Off the Menu after two missed practices. Monitor; Sunday's inactives. Dohnte Meyers is WR36 for me if both sit.",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives, 90 minutes before kickoff"
+      },
+      {
+        "player": "Keenan Allen",
+        "team": "IND",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "groin",
+        "practice": [
+          "LP",
+          "LP",
+          "FP"
+        ],
+        "read": "A full practice Friday after missing Week 4; Josh Downs keeps the slot.",
+        "verdict": "Outside my top 50 receivers in his first game back, a dart throw; sit him.",
+        "action": "SIT"
+      },
+      {
+        "player": "Ladd McConkey",
+        "team": "LAC",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "foot",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "No practice all week; Jim Harbaugh calls him week to week.",
+        "verdict": "Off the Menu; sit him. Tre' Harris is WR35 for me.",
+        "action": "SIT"
+      },
+      {
+        "player": "Ashton Jeanty",
+        "team": "LV",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "ankle, foot",
+        "practice": [
+          "FP",
+          "LP",
+          "DNP"
+        ],
+        "read": "Full Wednesday, then a foot injury on top of the ankle and no practice Friday. A true Sunday decision.",
+        "verdict": "RB18 for me this week, an RB2 if active. Have a backup ready. Monitor; Sunday's inactives, 90 minutes before kickoff.",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives, 90 minutes before kickoff"
+      },
+      {
+        "player": "Jaylen Wright",
+        "team": "MIA",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "foot",
+        "practice": [
+          "--",
+          "LP",
+          "LP"
+        ],
+        "read": "Ollie Gordon II leads the backfield after 9 for 100 at MIN.",
+        "verdict": "Off the Menu; sit him. Gordon is RB28 for me, a high-end RB3.",
+        "action": "SIT"
+      },
+      {
+        "player": "Justin Jefferson",
+        "team": "MIN",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "ankle",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "Three limited practices after two missed games; he says he plans to play.",
+        "verdict": "WR17 for me this week, a WR2.",
+        "action": "START",
+        "watch": "Sunday's inactives, 90 minutes before kickoff",
+        "slot": "WR2"
+      },
+      {
+        "player": "Jordan Addison",
+        "team": "MIN",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "hamstring",
+        "practice": [
+          "DNP",
+          "LP",
+          "LP"
+        ],
+        "read": "A soft-tissue injury and limited both late days, with Jefferson back.",
+        "verdict": "WR34 for me, a low-end WR3, a low-end flex play.",
+        "action": "FLEX",
+        "watch": "Sunday's inactives, 90 minutes before kickoff"
+      },
+      {
+        "player": "Rhamondre Stevenson",
+        "team": "NE",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "knee",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "Limited all week; TreVeyon Henderson took 25 snaps to his 35 at BUF.",
+        "verdict": "RB24 for me this week, an RB2.",
+        "action": "START",
+        "watch": "Sunday's inactives, 90 minutes before kickoff",
+        "slot": "RB2"
+      },
+      {
+        "player": "Alvin Kamara",
+        "team": "NO",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "back",
+        "practice": [
+          "DNP",
+          "LP",
+          "LP"
+        ],
+        "read": "Back from a Wednesday off; Kendre Miller is next.",
+        "verdict": "RB26 for me, a high-end RB3, a high-end flex play.",
+        "action": "FLEX",
+        "watch": "Sunday's inactives, 90 minutes before kickoff"
+      },
+      {
+        "player": "Rico Dowdle",
+        "team": "PIT",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "toe",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "Limited all week coming back from the dislocated toe; the coach calls it a one-two punch with Jaylen Warren.",
+        "verdict": "Off the Menu in his first game back. Monitor; Sunday's inactives, 90 minutes before kickoff. Warren is RB7 for me.",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives, 90 minutes before kickoff"
+      },
+      {
+        "player": "George Holani",
+        "team": "SEA",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "ribs, knee",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "The backup to Emanuel Wilson.",
+        "verdict": "RB36 for me, a low-end RB3; sit him for any RB3 with a lead role.",
+        "action": "SIT"
+      },
+      {
+        "player": "Carnell Tate",
+        "team": "TEN",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "back",
+        "practice": [
+          "--",
+          "LP",
+          "LP"
+        ],
+        "read": "Back tightness; Robert Saleh says he is good to go.",
+        "verdict": "WR23 for me this week, a WR2.",
+        "action": "START",
+        "watch": "Sunday's inactives, 90 minutes before kickoff",
+        "slot": "WR2"
+      },
+      {
+        "player": "Terry McLaurin",
+        "team": "WAS",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "LP"
+        ],
+        "read": "One limited practice Friday; Dan Quinn says he looked good.",
+        "verdict": "Outside my top 50 receivers off one practice. Monitor; Sunday's inactives, 90 minutes before kickoff.",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives, 90 minutes before kickoff"
+      }
+    ],
+    "reversals": [
+      {
+        "player": "Kyle Monangai",
+        "was": "RB28, a coin flip with D'Andre Swift",
+        "now": "Out. Pivot to D'Andre Swift, RB11 for me."
+      }
+    ],
+    "gtd": [
+      "Ashton Jeanty",
+      "Ja'Marr Chase",
+      "Tee Higgins",
+      "Terry McLaurin",
+      "Rico Dowdle"
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w05-prep-thread-ff6c",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

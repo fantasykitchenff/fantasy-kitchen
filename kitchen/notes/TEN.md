@@ -132,3 +132,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-09: Tennessee went 3-14, ranking 30th in points and 31st in yards, against the league's toughest schedule; Cam Ward led the NFL in red zone completion percentage over expectation and improved over the back half. [7-9 afc south breakdown]
 - 2026-10-02: Tyjae Spears (ankle) full practice Friday after DNP Wed and LP Thu; still questionable at BAL (NBC Sports).
+- 2026-10-09: Carnell Tate questionable (back), LP Thursday and Friday, Saleh says good to go; Tony Pollard no designation (FP Thursday and Friday) (tennesseetitans.com Friday report).

@@ -164,3 +164,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: The Ravens are favored in each of their first seven games of 2026 and sit tied for second in Super Bowl odds. [8-22 10 players we cant stop drafting]
 - 2026-10-01: Week 4 vs TEN: BAL favored by 11.5 with a 43.5 total; a 46 percent chance of rain in the Thursday forecasts (odds and weather pages).
 - 2026-10-04: Zay Flowers (hamstring, questionable) and Ronnie Stanley (toe, questionable) active vs TEN; inactives Hendrickson, Chris Moore, Peebles, Fagnano (Baltimore Beat).
+- 2026-10-09: Lamar Jackson: ruled out @ATL (ankle), DNP all week; Tyler Huntley starts. Zay Flowers questionable (foot), LP all week; Mark Andrews FP all week, no designation (Friday report, baltimoreravens.com).

@@ -189,3 +189,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Team: 0-3 with 14, 14 and 16 points (44). At BUF the defense forced five takeaways and the offense scored one touchdown on four red-zone trips. Schedule: at SEA, DEN, at KC, bye Week 7, at LAR, HOU, at BAL. [pod 9-29, official]
 - 2026-10-02: Ladd McConkey (foot) limited Friday after a Thursday DNP; questionable at SEA, did not run routes in the open portion Friday (NBC Sports, DraftSharks).
 - 2026-10-04: Week 4 at SEA: Seattle 30, LAC 23, the Chargers' fourth straight loss. [pod 10-5, deployment]
+- 2026-10-09: Ladd McConkey questionable (foot), DNP all week; Quentin Johnston out (chest); Rashawn Slater to IR Friday, Joe Alt out (neck) (chargers.com Friday report).

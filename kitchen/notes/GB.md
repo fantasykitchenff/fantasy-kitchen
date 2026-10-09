@@ -193,3 +193,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-11: Micah Parsons is expected to miss about the first month of the season, which could push the Packers toward more passing early. [8-11 Fav Pick in each round]
 - 2026-09-24: Packers defense: Atlanta's backs ran for 244 yards and 3 TD at Lambeau: Bijan Robinson 194 and 2 TD, Brian Robinson Jr. 10 for 50 and a TD. Micah Parsons is on PUP and first eligible in Week 5 vs CHI. [pod 9-29, deployment]
 - 2026-09-24: Packers defense: has allowed the most fantasy points to running backs through Week 3. [pod 10-1, aggregation]
+- 2026-10-09: Chris Brooks (ankle) and Savion Williams (ankle, IR window) out vs CHI; no other skill player on the report (Friday report).

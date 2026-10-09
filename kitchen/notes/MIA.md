@@ -162,3 +162,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Defense has allowed the most fantasy points to running backs through three weeks (reports).
 - 2026-09-30: Schedule: @MIN in Week 4, CIN in Week 5, bye in Week 6, @NYJ in Week 7. [pod 9-29, official]
 - 2026-09-27: Miami Dolphins: 0-3 with 36 points: 13 at LV, 13 vs SF, 10 vs KC. [pod 9-29, deployment]
+- 2026-10-09: Jaylen Wright questionable (foot), LP Thursday and Friday; Caleb Douglas and Justin Joly out (Friday report).

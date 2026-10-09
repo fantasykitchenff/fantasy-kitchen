@@ -141,3 +141,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Other
 
 - 2026-08-24: The Patriots play the NFL's season-opening game on Wednesday, Sept. 9, so their backfield health will be known before most Week 1 lineups lock. [8-24 embarrased to love players]
+- 2026-10-09: Rhamondre Stevenson questionable (knee), LP all week; Mack Hollins out (calf); Drake Maye no designation (Friday report).

@@ -140,3 +140,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Defense has allowed the most fantasy points to wide receivers through three weeks (reports).
 - 2026-09-30: Week 4 is at home vs DAL; early-week line HOU -2.5 with a 47.5 total (about 25 implied points). HOU is 0-3: 31-36 BUF, 6-20 CIN, 17-19 at IND. [pod 9-29, official]
 - 2026-10-02: Nico Collins (hamstring) full practice Friday after limited Wed and Thu; no game designation for Week 4 vs DAL (Texans final report, SI).
+- 2026-10-09: Tank Dell out (knee), still on IR in his practice window; no Houston skill player designated (houstontexans.com Friday report).
