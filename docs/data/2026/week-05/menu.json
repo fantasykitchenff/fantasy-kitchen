@@ -6,9 +6,9 @@
   "dek": "Jared Goff and Matthew Stafford climb into the top four quarterbacks, Michael Wilson jumps to WR8, and Kyle Monangai and Emanuel Wilson walk into lead roles.",
   "format": "PPR",
   "publishedAt": "2026-10-07T14:39:00Z",
-  "updatedAt": "2026-10-07T15:11:25Z",
+  "updatedAt": "2026-10-09T02:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 11:15 AM ET: the order is refreshed. Jared Goff moves up to QB2, Matthew Stafford to QB4 and Jacoby Brissett to QB8. Michael Wilson jumps to WR8, Jaxon Smith-Njigba is WR1 and CeeDee Lamb is WR5. Kyren Williams is RB4 and Jaylen Warren RB8. Lamar Jackson and Saquon Barkley fall off the Menu as doubtful, and DeVonta Smith, Breece Hall and Rico Dowdle are off.\n\nWeek 5 brings the first byes: Kansas City and Carolina are off, so Patrick Mahomes, Kenneth Walker III, Travis Kelce, Bryce Young, Chuba Hubbard and Tetairoa McMillan are not on the Menu. Tampa Bay at Dallas opens Thursday, Philadelphia and Jacksonville play at 9:30 AM ET in London, and Buffalo closes Monday night at the Rams. Rankings are for full PPR.\n\nThe injury list does the most moving. Ja'Marr Chase (concussion) and DJ Moore (shoulder) are doubtful and sit at WR45 and WR50. That opens the door for Kyle Monangai (RB18), who ran 30 times for 146 after D'Andre Swift's fumble, Emanuel Wilson (RB17) with Zach Charbonnet ruled out, Will Shipley (RB22) in London, and Dohnte Meyers and Keon Coleman at receiver. CeeDee Lamb drew 21 of Dak Prescott's 45 throws at HOU.\n\nWednesday's practice reports were not out when this went up. Prep Notes revisits every injury Friday after the final report and updates this page, with Chris Olave, Ashton Jeanty, Ja'Marr Chase and Ladd McConkey first in line.",
+  "intro_md": "Updated Thu 10:20 PM ET: Michael Pittman Jr. is out multiple weeks with the foot, which leaves DK Metcalf as Pittsburgh's outside passing game; Metcalf is WR18 for me, a WR2. Colston Loveland drew a team-high 9 targets from Tyson Bagent in Week 4 and is TE8 for me @GB.\n\nUpdated Wed 11:15 AM ET: the order is refreshed. Jared Goff moves up to QB2, Matthew Stafford to QB4 and Jacoby Brissett to QB8. Michael Wilson jumps to WR8, Jaxon Smith-Njigba is WR1 and CeeDee Lamb is WR5. Kyren Williams is RB4 and Jaylen Warren RB8. Lamar Jackson and Saquon Barkley fall off the Menu as doubtful, and DeVonta Smith, Breece Hall and Rico Dowdle are off.\n\nWeek 5 brings the first byes: Kansas City and Carolina are off, so Patrick Mahomes, Kenneth Walker III, Travis Kelce, Bryce Young, Chuba Hubbard and Tetairoa McMillan are not on the Menu. Tampa Bay at Dallas opens Thursday, Philadelphia and Jacksonville play at 9:30 AM ET in London, and Buffalo closes Monday night at the Rams. Rankings are for full PPR.\n\nThe injury list does the most moving. Ja'Marr Chase (concussion) and DJ Moore (shoulder) are doubtful and sit at WR45 and WR50. That opens the door for Kyle Monangai (RB18), who ran 30 times for 146 after D'Andre Swift's fumble, Emanuel Wilson (RB17) with Zach Charbonnet ruled out, Will Shipley (RB22) in London, and Dohnte Meyers and Keon Coleman at receiver. CeeDee Lamb drew 21 of Dak Prescott's 45 throws at HOU.\n\nWednesday's practice reports were not out when this went up. Prep Notes revisits every injury Friday after the final report and updates this page, with Chris Olave, Ashton Jeanty, Ja'Marr Chase and Ladd McConkey first in line.",
   "outro_md": "Tiers are courses. The top of a tier is the safest plate; the bottom is where the injuries live. A questionable or doubtful player keeps his action until Friday's report decides it. Specials are matchup plays outside the top tiers.",
   "data": {
     "positions": {
@@ -981,7 +981,7 @@
           "team": "PIT",
           "pos": "WR",
           "opp": "vs IND",
-          "note": "IND at home; 98 yards on 24 targets through Week 3.",
+          "note": "Michael Pittman Jr. is out multiple weeks with the foot; IND at home, 98 yards on 24 targets through Week 3.",
           "flag": "",
           "action": "START",
           "slot": "WR2"
@@ -1455,7 +1455,7 @@
           "team": "CHI",
           "pos": "TE",
           "opp": "@GB",
-          "note": "Bagent starts at GB; 71 percent of the routes through three games.",
+          "note": "Bagent starts at GB; 9 targets vs NYJ with Bagent, a team high, after 9 in Weeks 1 to 3 combined.",
           "flag": "",
           "action": "START",
           "slot": "TE1"
@@ -2042,7 +2042,7 @@
           "team": "PIT",
           "pos": "WR",
           "opp": "vs IND",
-          "note": "IND at home; 98 yards on 24 targets through Week 3.",
+          "note": "Michael Pittman Jr. is out multiple weeks with the foot; IND at home, 98 yards on 24 targets through Week 3.",
           "flag": "",
           "action": "FLEX"
         },
@@ -2274,7 +2274,7 @@
           "team": "CHI",
           "pos": "TE",
           "opp": "@GB",
-          "note": "Bagent starts at GB; 71 percent of the routes through three games.",
+          "note": "Bagent starts at GB; 9 targets vs NYJ with Bagent, a team high, after 9 in Weeks 1 to 3 combined.",
           "flag": "",
           "action": "SIT"
         },

@@ -81,6 +81,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Saquon Barkley: After a 14-yard run to the 1 in the second quarter he was stopped for minus 1 and no gain on the next two snaps with Andy Dalton at quarterback, and Dalton was intercepted in the end zone on third down. Barkley finished 15 for 82 on 36 of 50 snaps (72%); snap share by week 71%, 16%, 72%. [pod 9-29, deployment]
 - 2026-10-05: Week 4 vs LAR snaps (61): Tank Bigsby 29 (48%), Will Shipley 28 (46%), Saquon Barkley 4 (7%); Bigsby left late with a lower-body injury and Shipley was the only healthy back (Yahoo snap counts, RotoWire).
 - 2026-10-06: Saquon Barkley reported week to week with the hamstring, almost certainly out vs JAX in London; not considered long term. Will Shipley the lead back with Tank Bigsby on IR (Yahoo, Inquirer).
+- 2026-10-07: Dameon Pierce signed from the practice squad to the 53-man roster with Saquon Barkley hurt and Tank Bigsby on IR (philadelphiaeagles.com, NBC Sports). [pod 10-8, official]
 
 ## Receivers
 
@@ -141,6 +142,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Week 3 @CHI: Johnny Mundt 24 snaps (51%), 10 routes, 1 target; Zach Ertz 18 snaps (38%), 11 routes, 2 targets, 1 catch for 9. PHI ran 47 offensive snaps. [pod 9-29, deployment]
 - 2026-09-28: Johnny Mundt: Two snap-count sources have PHI at 50 offensive snaps at CHI with Mundt 26 (52%), Ertz 19 (38%) and E.J. Jenkins 13 (26%); a third has 47, 24 and 18. [pod 9-30, deployment]
 - 2026-09-28: Zach Ertz: Age 35, ten months removed from a right ACL tear (Dec 7, 2025); signed to the practice squad Sep 21 and elevated for his 2026 debut in Week 3 at CHI. [pod 9-30, official]
+- 2026-10-07: Dallas Goedert (knee) returned to practice as a limited participant Wednesday, his first practice since the MCL sprain that cost him Weeks 3 and 4 (NBC Sports). [pod 10-8, official]
 
 ## Offensive line
 
@@ -187,6 +189,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Saquon Barkley tests Monday on the right hamstring; not believed to be overly serious (Rapoport via CBS Sports, Yahoo).
 - 2026-10-05: Tank Bigsby: core muscle surgery for the abdominal injury aggravated late in Week 4 vs LAR; headed to IR, about six weeks (Philly Sports Reports, multiple outlets).
 - 2026-10-05: Saquon Barkley: hamstring tests Monday; Nick Sirianni says more answers probably Wednesday before London vs JAX; not believed overly serious (NFL Network). Will Shipley the only other RB on the active roster.
+- 2026-10-07: Saquon Barkley (hamstring) and DeVonta Smith (hamstring) were among seven Eagles who did not practice Wednesday before London vs JAX; Barkley remains week to week (Bleeding Green Nation, team report). [pod 10-8, official]
 
 ## Other
 

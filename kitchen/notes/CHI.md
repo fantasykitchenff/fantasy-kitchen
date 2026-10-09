@@ -137,6 +137,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Colston Loveland: 4 catches on 4 targets for 31 yards vs PHI in Week 3 (corrected 9/30: 34 was his season total on 5 catches); a 6-yard TD was overturned at the goal line (reports).
 - 2026-09-28: Colston Loveland: 4 of 4 for 31 yards vs PHI on 22 routes (63%) and 55 snaps (80%); 34 is his season total on 5 catches, which corrects the 9/29 line. Season: 10% target share and 11% targets per route on 71% of the routes. Cole Kmet: 42 snaps, 13 routes, 1 target. [pod 9-29, deployment]
 - 2026-09-28: Colston Loveland: 9 targets, 5 catches and 34 yards through three games (0, 3 and 31 yards by week). [pod 9-30, deployment]
+- 2026-10-04: Colston Loveland led Chicago with 9 targets in Week 4 vs NYJ with Tyson Bagent at quarterback, after 9 targets in Weeks 1 to 3 combined (NBC Sports). [pod 10-8, deployment]
 
 ## Offensive line
 

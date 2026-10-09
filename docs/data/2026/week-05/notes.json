@@ -6,12 +6,44 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-08T22:20:00Z",
+  "updatedAt": "2026-10-09T02:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-09T02:20:00Z",
+        "player": "Michael Pittman Jr.",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "an IR move next week",
+        "text": "Michael Pittman Jr. (PIT) is out multiple weeks with the foot setback, per Mike McCarthy, and misses Week 5 vs IND. He caught 2 of 4 targets on 60 percent of the routes at CLE. DK Metcalf is WR18 for me this week, a WR2, with the outside targets his. Roman Wilson takes Pittman's outside snaps and is WR56 for me, a dart throw until he shows the snaps. Monitor Pittman; an IR move next week."
+      },
+      {
+        "at": "2026-10-09T02:20:00Z",
+        "player": "Colston Loveland",
+        "pos": "TE",
+        "action": "START",
+        "slot": "TE1",
+        "text": "Colston Loveland (CHI) drew 9 targets vs NYJ, a team high, with Tyson Bagent at quarterback, after 9 targets in Weeks 1 to 3 combined. Bagent starts again @GB. Loveland is TE8 for me this week and TE4 rest of season."
+      },
+      {
+        "at": "2026-10-09T02:20:00Z",
+        "player": "Dallas Goedert",
+        "pos": "TE",
+        "action": "MONITOR",
+        "watch": "Friday's injury report and Sunday's inactives at 8:00 AM ET",
+        "text": "Dallas Goedert (PHI) returned to practice limited Wednesday, his first practice since the MCL sprain that cost him Weeks 3 and 4. If he plays in London, Johnny Mundt goes back to blocking. Goedert is TE15 rest of season for me. Monitor; Friday's injury report and Sunday's inactives at 8:00 AM ET."
+      },
+      {
+        "at": "2026-10-09T02:20:00Z",
+        "player": "Dameon Pierce",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "his snap share vs JAX Sunday",
+        "text": "Philadelphia signed Dameon Pierce (PHI) from the practice squad Wednesday, with Saquon Barkley week to week and Tank Bigsby on IR. Will Shipley played 28 of 61 snaps vs LAR and stays the lead back, RB22 for me this week, an RB2. Pierce is an early-down slice at most; monitor his snap share vs JAX Sunday."
+      },
       {
         "player": "Lamar Jackson",
         "pos": "QB",
@@ -360,7 +392,7 @@
       },
       {
         "at": "2026-10-06T22:20:00Z",
-        "text": "Lane Johnson (PHI) retired Tuesday, four games into his 14th season, two days after he was inactive for personal reasons vs LAR. Philadelphia goes to London vs JAX without its right tackle, Saquon Barkley, Tank Bigsby, DeVonta Smith and Dallas Goedert. Jalen Hurts is QB9 rest of season for me. Hold him.",
+        "text": "Lane Johnson (PHI) retired Tuesday, four games into his 14th season, two days after he was inactive for personal reasons vs LAR. Philadelphia goes to London vs JAX without its right tackle, Tank Bigsby (IR) and likely Saquon Barkley, and DeVonta Smith did not practice Wednesday; Dallas Goedert returned to practice limited Wednesday. Jalen Hurts is QB9 rest of season for me. Hold him.",
         "url": "https://www.cbssports.com/nfl/news/eagles-lane-johnson-retires-from-nfl-after-week-4-absence/",
         "player": "Jalen Hurts",
         "pos": "QB",
@@ -472,14 +504,6 @@
         "action": "STASH",
         "faab": "6-10%",
         "text": "Tyler Huntley (BAL) gets his first start of the season @ATL if Jackson sits. He went 8 of 9 for 63 in relief Sunday, and Baltimore scored no points on his five drives. Superflex only: stash him, 6 to 10 percent of FAAB. One-QB leagues pass."
-      },
-      {
-        "at": "2026-10-06T16:15:00Z",
-        "player": "Pat Bryant",
-        "pos": "WR",
-        "action": "DROP",
-        "text": "Pat Bryant (DEN) sprained his ankle @SF, a suspected high-ankle sprain, and is expected to miss a few weeks, per ESPN. He played 67 percent of the snaps the week before. WR62 rest of season for me. Drop him for any add on the list.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/broncos-wr-pat-bryant-is-expected-to-miss-time-with-sprained-ankle"
       }
     ]
   },

@@ -59,6 +59,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Kenny Gainwell: 3 carries for minus 4 yards and 2 catches on 5 targets in the Week 3 loss at MIN; 32 snaps to Bucky Irving's 36; 2.1 yards per carry through three games (box score).
 - 2026-09-28: Bucky Irving 15 for 46, sat the final two possessions with a back wrap; Bowles said Monday he is not on the injury report; OC Zac Robinson said 9/24 he is on a bit of a pitch count for the longevity of the season. Irving 36 snaps to Kenneth Gainwell 32; Gainwell 3 carries for minus 4. [pod 9-28, coach]
 - 2026-09-27: Bucky Irving: Week 3: 15 carries for 46 and 2 catches on 2 targets for 12 on 36 snaps (52%). By week: carries 8, 17, 15 (40 for 180 and 1 TD), targets 7, 4, 2, snap share 61%, 78%, 52%. Kenny Gainwell's snap share: 46%, 35%, 46%; Sean Tucker has 1 offensive snap. [pod 9-29, deployment]
+- 2026-10-04: Sean Tucker scored on a short touchdown run in Week 4 vs GB while Bucky Irving had no catches (game reports). [pod 10-8, deployment]
 
 ## Receivers
 
