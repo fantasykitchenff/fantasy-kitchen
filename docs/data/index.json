@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 5,
-  "updatedAt": "2026-10-09T14:34:54Z",
+  "updatedAt": "2026-10-09T16:17:03Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 5,
+      "path": "2026/week-05/notes.json",
+      "title": "Kitchen notes, Week 5",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-06T16:15:00Z",
+      "updatedAt": "2026-10-09T16:20:00Z"
+    },
     {
       "series": "line",
       "week": 5,
@@ -20,15 +29,6 @@
       "dek": "Puka Nacua climbs to WR2, Braelon Allen and David Montgomery move into the RB2 range, and Kyle Monangai slides to RB28 after two missed practices.",
       "publishedAt": "2026-10-07T14:39:00Z",
       "updatedAt": "2026-10-09T14:45:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 5,
-      "path": "2026/week-05/notes.json",
-      "title": "Kitchen notes, Week 5",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-06T16:15:00Z",
-      "updatedAt": "2026-10-09T02:20:00Z"
     },
     {
       "series": "butcher",

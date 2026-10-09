@@ -6,12 +6,30 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-09T02:20:00Z",
+  "updatedAt": "2026-10-09T16:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-09T16:20:00Z",
+        "player": "Bucky Irving",
+        "pos": "RB",
+        "action": "HOLD",
+        "why": "Sean Tucker taking the goal-line work again with Irving under 15 carries once Baker Mayfield is back would change the call.",
+        "url": "https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261008_TB@DAL/",
+        "text": "Bucky Irving (TB) ran 21 times for 165 and a touchdown and caught a 5-yard score in Thursday's 24-16 win @DAL, with Sean Tucker at 5 carries and Kenneth Gainwell at 4 carries and 4 targets. Tucker still got the fourth-and-goal carry and was stopped. Irving is RB17 rest of season for me. Hold him."
+      },
+      {
+        "at": "2026-10-09T16:20:00Z",
+        "player": "CeeDee Lamb",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Dallas' first Week 6 practice report Wednesday",
+        "url": "https://www.rotowire.com/football/headlines/ceedee-lamb-injury-injury-seemingly-not-serious-641503",
+        "text": "CeeDee Lamb (DAL) left Thursday's 24-16 loss to TB late with a bruised quad, on the thigh that had him on the injury report all week, after 2 catches for 9 on 5 targets. NFL Network reports it is not serious, and Dallas has three extra days before Week 6 against GB. Lamb is WR4 rest of season for me. Monitor; Dallas' first Week 6 practice report Wednesday."
+      },
       {
         "at": "2026-10-09T02:20:00Z",
         "player": "Michael Pittman Jr.",
@@ -487,23 +505,6 @@
         "faab": "10-15%",
         "text": "Will Shipley (PHI) played 28 of 61 snaps vs LAR and is the only other back on Philadelphia's active roster, with Tank Bigsby on IR and Barkley week to week. That makes him the lead back in London, not a backup. Claim him, 10 to 15 percent of FAAB.",
         "url": "https://www.inquirer.com/eagles/nfl-week-5-london-jaguars-running-back-injuries-20261006.html"
-      },
-      {
-        "at": "2026-10-06T16:15:00Z",
-        "player": "Lamar Jackson",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Wednesday's practice report",
-        "text": "Lamar Jackson (BAL) has a sprained left ankle and only an outside chance to play @ATL Sunday night, per NFL Network, and it could cost him more than one game. He left Week 4 vs TEN at halftime after going 15 of 20 for 222 and 2 TDs. QB2 rest of season for me. Monitor Wednesday's practice report.",
-        "url": "https://www.nfl.com/news/nfl-network-lamar-jackson-dealing-with-ankle-sprain-outside-chance-to-play-in-week-5"
-      },
-      {
-        "at": "2026-10-06T16:15:00Z",
-        "player": "Tyler Huntley",
-        "pos": "QB",
-        "action": "STASH",
-        "faab": "6-10%",
-        "text": "Tyler Huntley (BAL) gets his first start of the season @ATL if Jackson sits. He went 8 of 9 for 63 in relief Sunday, and Baltimore scored no points on his five drives. Superflex only: stash him, 6 to 10 percent of FAAB. One-QB leagues pass."
       }
     ]
   },

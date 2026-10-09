@@ -169,3 +169,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Week 4 vs GB: a 43 percent chance of rain in the Thursday forecasts (weather pages).
 - 2026-10-04: Week 4 vs GB: Green Bay 17, Tampa Bay 14 in rookie Jalon Daniels' first start. [pod 10-5, deployment]
 - 2026-10-07: Baker Mayfield (right thumb) out for Week 5 Thursday at DAL; rookie Jalon Daniels makes his second start, no change to Mayfield's timeline (Pro Football Rumors, Yardbarker).
+- 2026-10-08: Week 5 @DAL: Tampa Bay 24, Dallas 16. Bucky Irving 21 carries for 165 (72-yard long) and a TD, 2 of 3 targets for 10 and a TD; Sean Tucker 5 for 18 and stopped on fourth-and-goal; Kenneth Gainwell 4 for 18, 3 of 4 targets for 10; Jalon Daniels 19 of 25 for 189, 1 TD, 1 INT, 7 runs for 23; Emeka Egbuka 6 of 9 for 38 and a 14-yard rushing TD; Chris Godwin 3 of 3 for 37; Cade Otton 3 of 4 for 25 (CBS box score, buccaneers.com).
