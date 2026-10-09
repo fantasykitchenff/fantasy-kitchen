@@ -1,17 +1,8 @@
 {
   "season": 2026,
   "currentWeek": 5,
-  "updatedAt": "2026-10-09T21:26:36Z",
+  "updatedAt": "2026-10-09T22:15:12Z",
   "pieces": [
-    {
-      "series": "menu",
-      "week": 5,
-      "path": "2026/week-05/menu.json",
-      "title": "The Menu, Week 5",
-      "dek": "Puka Nacua climbs to WR2, Braelon Allen and David Montgomery move into the RB2 range, and Kyle Monangai slides to RB28 after two missed practices.",
-      "publishedAt": "2026-10-07T14:39:00Z",
-      "updatedAt": "2026-10-09T21:45:00Z"
-    },
     {
       "series": "prep",
       "week": 5,
@@ -19,6 +10,15 @@
       "title": "Prep Notes, Week 5",
       "dek": "Lamar Jackson and Kyle Monangai are out; D'Andre Swift is RB11 with the Chicago backfield to himself, and Ashton Jeanty is a true Sunday decision.",
       "publishedAt": "2026-10-09T21:45:00Z",
+      "updatedAt": "2026-10-09T22:20:00Z"
+    },
+    {
+      "series": "menu",
+      "week": 5,
+      "path": "2026/week-05/menu.json",
+      "title": "The Menu, Week 5",
+      "dek": "Puka Nacua climbs to WR2, Braelon Allen and David Montgomery move into the RB2 range, and Kyle Monangai slides to RB28 after two missed practices.",
+      "publishedAt": "2026-10-07T14:39:00Z",
       "updatedAt": "2026-10-09T21:45:00Z"
     },
     {
