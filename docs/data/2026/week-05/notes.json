@@ -6,12 +6,28 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-09T16:25:00Z",
+  "updatedAt": "2026-10-09T22:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-09T22:15:00Z",
+        "text": "Mike Evans (SF, ribs) is off San Francisco's final injury report with no designation after a limited Wednesday and a rest day Thursday. He caught 5 of 8 for 76 playing through it vs DEN. WR24 for me @SEA, a WR2.",
+        "url": "https://www.cbssports.com/fantasy/football/news/49ers-mike-evans-cleared-for-week-5/",
+        "player": "Mike Evans",
+        "pos": "WR",
+        "action": "START",
+        "slot": "WR2"
+      },
+      {
+        "at": "2026-10-09T22:15:00Z",
+        "text": "Dallas Goedert (PHI) has no designation for London after missing Weeks 3 and 4 with the MCL sprain, and Johnny Mundt goes back to blocking. Goedert is TE35 for me this week @JAX, outside my top 12. Hold him at TE15 rest of season; two games back on a full route share would move him up.",
+        "player": "Dallas Goedert",
+        "pos": "TE",
+        "action": "HOLD"
+      },
       {
         "at": "2026-10-09T16:25:00Z",
         "player": "Braelon Allen",
@@ -489,22 +505,6 @@
         "action": "MONITOR",
         "watch": "Wednesday's practice report",
         "text": "Chris Olave (NO) limped off after a late hit in the fourth quarter of Monday's 45-24 loss to ATL, and Tuesday reports say he avoided a major injury. WR7 rest of season for me. Monitor Wednesday's practice report."
-      },
-      {
-        "at": "2026-10-06T21:10:00Z",
-        "player": "Tyler Shough",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Wednesday's practice report",
-        "text": "Tyler Shough (NO) hurt his left hand in Monday's loss to ATL, and no severity was reported Tuesday. QB12 rest of season for me. Monitor Wednesday's practice report."
-      },
-      {
-        "at": "2026-10-06T21:10:00Z",
-        "player": "Tyler Higbee",
-        "pos": "TE",
-        "action": "ADD",
-        "faab": "0-2%",
-        "text": "Tyler Higbee (LAR) caught 5 for 67 @PHI and led the Rams tight ends in snaps for a second straight game with the two tight ends ahead of him hurt. TE38 rest of season for me. In TE-premium and deep leagues, add him, 0 to 2 percent of FAAB."
       }
     ]
   },
@@ -526,6 +526,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2108325644874699142"
+    },
+    {
+      "id": "2026w05-notes-thread-a561",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }
