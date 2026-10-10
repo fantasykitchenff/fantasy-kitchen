@@ -6,12 +6,20 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-09T22:20:00Z",
+  "updatedAt": "2026-10-10T16:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-10T16:20:00Z",
+        "text": "DJ Moore (BUF) watched practice again Friday with the shoulder he aggravated vs NE, his second straight missed day, and Buffalo designates Saturday for Monday night @LAR. Keon Coleman played 46 of 59 snaps vs NE and caught 6 of 7 for 116 and a score after Moore left; Coleman is WR40 for me, a low-end flex play to a dart throw. Moore is outside my top 50 this week. Monitor Moore; Saturday's injury report.",
+        "url": "https://sports.yahoo.com/articles/dj-moore-friday-injury-leaves-194220218.html",
+        "player": "DJ Moore",
+        "action": "MONITOR",
+        "watch": "Saturday's injury report"
+      },
       {
         "at": "2026-10-09T22:15:00Z",
         "text": "Mike Evans (SF, ribs) is off San Francisco's final injury report with no designation after a limited Wednesday and a rest day Thursday. He caught 5 of 8 for 76 playing through it vs DEN. WR24 for me @SEA, a WR2.",
@@ -498,14 +506,6 @@
         "action": "MONITOR",
         "watch": "Wednesday's injury report",
         "text": "Ashton Jeanty (LV) ran 15 times for 58 and caught 6 of 8 for 68 vs KC, but the ankle cut into his snaps and the Las Vegas beat calls it a concern for Week 5. RB8 rest of season for me. Monitor Wednesday's injury report."
-      },
-      {
-        "at": "2026-10-06T21:10:00Z",
-        "player": "Chris Olave",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Wednesday's practice report",
-        "text": "Chris Olave (NO) limped off after a late hit in the fourth quarter of Monday's 45-24 loss to ATL, and Tuesday reports say he avoided a major injury. WR7 rest of season for me. Monitor Wednesday's practice report."
       }
     ]
   },
