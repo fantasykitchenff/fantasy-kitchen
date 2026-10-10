@@ -6,12 +6,74 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-10T16:20:00Z",
+  "updatedAt": "2026-10-10T22:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-10T22:15:00Z",
+        "player": "Marvin Harrison Jr.",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "the trade announcement after Sunday's games",
+        "url": "https://www.espn.com/nfl/story/_/id/50148005/sources-cardinals-finalizing-deal-trade-wr-marvin-harrison-jr",
+        "text": "Arizona is finalizing a trade of Marvin Harrison Jr. (ARI), per ESPN and NFL Network, and he is inactive Sunday vs DET while it closes. Houston is the team named with interest; nothing is announced before Sunday's games. He has 5 catches for 85 in four games. WR43 rest of season for me until the new role is known. Monitor; the trade announcement after Sunday's games."
+      },
+      {
+        "at": "2026-10-10T22:15:00Z",
+        "player": "Michael Wilson",
+        "pos": "WR",
+        "action": "START",
+        "slot": "WR1",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-10",
+        "text": "Michael Wilson (ARI) has drawn 30 targets the last two games, and Marvin Harrison Jr. is inactive Sunday, so more of the outside targets stay with Wilson. WR7 for me vs DET."
+      },
+      {
+        "at": "2026-10-10T22:15:00Z",
+        "player": "DJ Moore",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Monday's inactives at 6:45 PM ET",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-10",
+        "text": "DJ Moore (BUF) practiced on a limited basis Saturday after two missed days, is questionable for Monday night @LAR with the AC joint sprain and travels, per Joe Brady. Josh Palmer (shoulder) is out. Moore stays outside my top 50; Khalil Shakir is WR29, a high-end WR3, and Keon Coleman is WR40, a low-end flex play to a dart throw. Monitor Moore; Monday's inactives at 6:45 PM ET."
+      },
+      {
+        "at": "2026-10-10T22:15:00Z",
+        "player": "Michael Pittman Jr.",
+        "pos": "WR",
+        "action": "HOLD",
+        "why": "A slow practice return after the four games would make him a drop; a clean return keeps him on the bench.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-10",
+        "text": "Pittsburgh put Michael Pittman Jr. (PIT, foot) on IR Saturday, out at least four games. DK Metcalf is WR18 for me vs IND, a WR2, and Roman Wilson is WR46, a low-end flex play to a dart throw. Hold Pittman in an IR spot at WR52 rest of season; a slow return after four games makes him a drop."
+      },
+      {
+        "at": "2026-10-10T22:15:00Z",
+        "player": "Romeo Doubs",
+        "pos": "WR",
+        "action": "START",
+        "slot": "WR3",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-10",
+        "text": "New England put Mack Hollins (NE, calf) on IR Saturday for at least four games, with A.J. Brown already there. Romeo Doubs has 2 TDs since Brown went down and keeps the outside targets. Doubs is WR26 for me vs LV, a high-end WR3 and a high-end flex play."
+      },
+      {
+        "at": "2026-10-10T22:15:00Z",
+        "player": "Jacory Croskey-Merritt",
+        "pos": "RB",
+        "action": "FLEX",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-10",
+        "text": "Washington downgraded Jeremy McNichols (WAS, quad) to out vs NYG, and Jacory Croskey-Merritt practiced in full Friday with no designation after 45 percent of the snaps in London. RB25 for me, a high-end RB3 and a high-end flex play."
+      },
+      {
+        "at": "2026-10-10T22:15:00Z",
+        "player": "Josh Downs",
+        "pos": "WR",
+        "action": "START",
+        "slot": "WR2",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-10",
+        "text": "Indianapolis downgraded Darius Slayton (IND, knee) to out @PIT, with Alec Pierce on IR and Keenan Allen questionable after a full Friday. Josh Downs keeps the slot. WR21 for me this week, a WR2."
+      },
       {
         "at": "2026-10-10T16:20:00Z",
         "text": "DJ Moore (BUF) watched practice again Friday with the shoulder he aggravated vs NE, his second straight missed day, and Buffalo designates Saturday for Monday night @LAR. Keon Coleman played 46 of 59 snaps vs NE and caught 6 of 7 for 116 and a score after Moore left; Coleman is WR40 for me, a low-end flex play to a dart throw. Moore is outside my top 50 this week. Monitor Moore; Saturday's injury report.",
@@ -450,62 +512,6 @@
         "pos": "WR",
         "action": "MONITOR",
         "watch": "Wednesday's practice report"
-      },
-      {
-        "at": "2026-10-06T22:20:00Z",
-        "text": "Lane Johnson (PHI) retired Tuesday, four games into his 14th season, two days after he was inactive for personal reasons vs LAR. Philadelphia goes to London vs JAX without its right tackle, Tank Bigsby (IR) and likely Saquon Barkley, and DeVonta Smith did not practice Wednesday; Dallas Goedert returned to practice limited Wednesday. Jalen Hurts is QB9 rest of season for me. Hold him.",
-        "url": "https://www.cbssports.com/nfl/news/eagles-lane-johnson-retires-from-nfl-after-week-4-absence/",
-        "player": "Jalen Hurts",
-        "pos": "QB",
-        "action": "HOLD",
-        "why": "Two bad weeks behind the rebuilt line would change the call; one game in London will not."
-      },
-      {
-        "at": "2026-10-06T22:20:00Z",
-        "text": "Seattle passed on Joe Mixon after his physical Tuesday and will sign Robert Henry Jr. instead. Mixon stays a free agent after missing all of 2025 with the foot. Emanuel Wilson leads vs SF and Zach Charbonnet is the stash behind him. Drop Mixon.",
-        "url": "https://www.nfl.com/news/report-seahawks-opt-against-signing-rb-joe-mixon-following-physical",
-        "player": "Joe Mixon",
-        "pos": "RB",
-        "action": "DROP"
-      },
-      {
-        "at": "2026-10-06T21:10:00Z",
-        "player": "Tyquan Thornton",
-        "pos": "WR",
-        "action": "DROP",
-        "text": "Tyquan Thornton (KC) tore ligaments along with the dislocated left ankle and needs surgery that will cost him 12 to 16 weeks, with a postseason return possible. He caught 5 for 111 and 2 TDs in the game he got hurt. Drop him unless you have an open IR spot."
-      },
-      {
-        "at": "2026-10-06T21:10:00Z",
-        "player": "Emanuel Wilson",
-        "pos": "RB",
-        "action": "CLAIM",
-        "faab": "10-15%",
-        "text": "Mike Macdonald said Zach Charbonnet (knee) will not play vs SF, so Emanuel Wilson (SEA) has the whole Seattle backfield again after 21 carries and 2 TDs vs LAC. Charbonnet stays a stash until Week 6 at the earliest. Claim Wilson, 10 to 15 percent of FAAB."
-      },
-      {
-        "at": "2026-10-06T21:10:00Z",
-        "player": "Jayden Daniels",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "text": "Dan Quinn said Washington plans to have Jayden Daniels back as the starter (WAS) vs NYG after a full week of practice on the left elbow. Athan Kaliakmanis went 15 of 33 in London, so drop Kaliakmanis in superflex. Daniels is QB17 rest of season for me. Monitor Friday's injury report."
-      },
-      {
-        "at": "2026-10-06T21:10:00Z",
-        "player": "Puka Nacua",
-        "pos": "WR",
-        "action": "TRADE_FOR",
-        "price": "a WR2",
-        "text": "Puka Nacua (LAR) caught 9 for 125 @PHI in his first game back, and a sideline report says he has a pre-hernia that could worsen into one that needs surgery; he said he felt fine. WR5 rest of season for me. Trade for him, and offer a WR2 alone."
-      },
-      {
-        "at": "2026-10-06T21:10:00Z",
-        "player": "Ashton Jeanty",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Wednesday's injury report",
-        "text": "Ashton Jeanty (LV) ran 15 times for 58 and caught 6 of 8 for 68 vs KC, but the ankle cut into his snaps and the Las Vegas beat calls it a concern for Week 5. RB8 rest of season for me. Monitor Wednesday's injury report."
       }
     ]
   },
@@ -533,6 +539,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2108687625590624266"
+    },
+    {
+      "id": "2026w05-notes-thread-328a",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

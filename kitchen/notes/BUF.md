@@ -135,3 +135,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: DJ Moore (shoulder) limited Friday, no game designation for Week 4 vs NE (Rotowire, NBC Sports).
 - 2026-10-07: DJ Moore (shoulder, aggravated Week 4 vs NE) considered doubtful for Week 5 at LAR (CBS Sports).
 - 2026-10-09: DJ Moore (shoulder) did not practice Friday, second straight day out; Bills designate Saturday for Monday night at LAR (WGRZ via Yahoo Sports).
+- 2026-10-10: DJ Moore: limited Saturday after missing Thursday and Friday, questionable for Monday @LAR with the AC joint sprain, travels per Joe Brady; Josh Palmer (shoulder) and Ed Oliver (knee) out. (nfl.com)
