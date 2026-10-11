@@ -193,3 +193,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Week 4 opponent Indianapolis ranks 29th in rushing yards allowed (141.3 a game): 5.3 yards a carry to Derrick Henry and Kenneth Walker in Weeks 1-2, then 16 carries for 48 by HOU in Week 3. [pod 9-29, deployment]
 - 2026-10-09: Stefon Diggs out (hamstring), DNP all week; Terry McLaurin questionable, DNP/DNP/LP; Jayden Daniels FP all week, no designation, starts in a brace (Friday report).
 - 2026-10-10: Jeremy McNichols: downgraded to out for Week 5 vs NYG with the quad. (nfl.com)
+- 2026-10-11: Terry McLaurin active Week 5 vs NYG (hamstring); Jayden Daniels back from the elbow (nfl.com Sunday pregame)

@@ -160,3 +160,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Will Reichard: Four field goals at TB including a 56-yarder late in the fourth quarter; Myles Price returned a punt 86 yards for a touchdown. [pod 9-29, deployment]
 - 2026-10-07: Justin Jefferson (ankle): Kevin O'Connell hopes to get him back to practice this week before NO; Minnesota encouraged by his progress (Yahoo, FantasyPros).
 - 2026-10-09: Justin Jefferson questionable (ankle), LP all week, says he plans to play; Jordan Addison questionable (hamstring), DNP/LP/LP (Friday report).
+- 2026-10-11: Jordan Addison inactive Week 5 at NO (hamstring); Justin Jefferson active (ankle) (nfl.com Sunday pregame)

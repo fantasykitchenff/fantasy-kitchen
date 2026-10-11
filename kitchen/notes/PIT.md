@@ -133,3 +133,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: Michael Pittman Jr.: Mike McCarthy said the foot setback will keep him out multiple weeks; he misses Week 5 vs IND (NBC Sports, Steelers Week 5 report). [pod 10-8, coach]
 - 2026-10-09: Michael Pittman Jr. out vs IND (foot), not on IR; Rico Dowdle questionable (toe), LP all week (steelers.com Friday report).
 - 2026-10-10: Michael Pittman Jr.: placed on IR Saturday with the foot, out at least four games. (nfl.com)
+- 2026-10-11: Rico Dowdle inactive Week 5 vs IND (toe) (nfl.com Sunday pregame)
