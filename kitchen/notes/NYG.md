@@ -124,6 +124,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Isaiah Likely: Team reports say Likely has been the Giants' No. 1 target with Malik Nabers off the field; John Harbaugh said the numbers weren't there in Baltimore because of the supporting cast and it will be a big year. [8-17 Breakouts and Injury stuff]
 - 2026-08-17: Isaiah Likely: Jaxson Dart named Likely as the main target he looks to; in Baltimore, Likely came in on passing downs and never put his hand in the dirt while Theo Johnson blocked. [8-17 Breakouts and Injury stuff]
 - 2026-09-27: Isaiah Likely: 23 targets in three games (8, 10, 5) for 15 catches, 124 yards and 2 TDs; 8 of 8 for 78 and both TDs came in Week 1 with Dart, 7 of 15 for 46 since. Snap share 49%, 69%, 84%; in Week 3 he ran 22 routes on 27 dropbacks (81%) and drew 5 targets (24%). [pod 9-29, deployment]
+- 2026-10-11: Isaiah Likely caught a career-high 11 passes for 94 yards and 2 TDs in the 27-27 overtime tie with WAS; Jameis Winston 33 of 54 for 326, 3 TD, 0 INT (giants.com).
 
 ## Offensive line
 

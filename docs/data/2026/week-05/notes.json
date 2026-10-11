@@ -6,12 +6,39 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-11T22:20:00Z",
+  "updatedAt": "2026-10-11T23:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-11T23:15:00Z",
+        "player": "Deebo Samuel Sr.",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's Week 6 injury report",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-5-games-2026",
+        "text": "Deebo Samuel Sr. (SF) hurt his right hamstring on an end-around in the third quarter @SEA, fumbled on the play and was ruled out. Ricky Pearsall is out for the season and Jacob Cowing left with an ankle injury. Mike Evans is WR26 rest of season for me and the receiver San Francisco leans on. Samuel is WR39 rest of season for me. Monitor; Wednesday's Week 6 injury report."
+      },
+      {
+        "at": "2026-10-11T23:15:00Z",
+        "player": "Tre' Harris",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's Week 6 injury report",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-5-games-2026",
+        "text": "Tre' Harris (LAC) hurt his hamstring in the third quarter vs DEN with 2 catches for 16 and was questionable to return. Quentin Johnston (chest) was inactive and Ladd McConkey (foot) has barely played in two weeks, so the Chargers were down to Marquez Valdes-Scantling and Derius Davis outside. Harris is WR63 rest of season for me. Monitor; Wednesday's Week 6 injury report."
+      },
+      {
+        "at": "2026-10-11T23:15:00Z",
+        "player": "Isaiah Likely",
+        "pos": "TE",
+        "action": "HOLD",
+        "why": "A second straight game as a top-two target for Jameis Winston would move him into my top 10 rest of season; a drop back under six targets would not change the hold.",
+        "url": "https://giants.com/news/instant-analysis-giants-tie-commanders-27-27-ot",
+        "text": "Isaiah Likely (NYG) caught a career-high 11 passes for 94 yards and 2 TDs in the 27-27 overtime tie with WAS, as Jameis Winston threw 54 times for 326 and 3 TDs. Likely is TE11 rest of season for me. Hold him; do not sell off one game."
+      },
       {
         "at": "2026-10-11T22:20:00Z",
         "player": "Caleb Williams",
@@ -500,32 +527,6 @@
         "url": "https://www.nbcsports.com/fantasy/football/news/2026-nfl-week-4-injury-report-trouble-in-cincy-ljax-injury-updates-on-kyle-monangai-ladd-mcconkey",
         "text": "Rhamondre Stevenson (NE) was limited Wednesday with the knee he hurt late @BUF, where he played 35 snaps to TreVeyon Henderson's 25 and ran 13 times for 47 and a TD. A limited Wednesday is not a designation. RB24 for me this week vs LV, an RB2.",
         "pos": "RB"
-      },
-      {
-        "at": "2026-10-08T16:20:00Z",
-        "text": "Sean Payton will take a bigger hand in calling Denver's plays @LAC, with offensive coordinator Davis Webb keeping a large game-planning and game-day role, after four games that left the Broncos 27th in points. The plays change, not the players: Bo Nix (DEN) is QB13 for me, a borderline start this week, and Jaylen Waddle stays WR17, a WR2.",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-fantasy-football-lamar-jackson-saquon-barkley-jamarr-chase-120206335.html",
-        "player": "Bo Nix",
-        "pos": "QB",
-        "action": "STREAM"
-      },
-      {
-        "at": "2026-10-07T23:15:00Z",
-        "text": "Philadelphia traded Cam Jurgens to Baltimore Wednesday for a 2028 second and a 2027 fifth, a day after Lane Johnson retired. Jurgens had played left guard since Landon Dickerson went on IR after Week 1, so Jalen Hurts (PHI) goes to London vs JAX with three new starters up front. Hurts is QB15 for me this week, a streamer, and QB9 rest of season. Hold him.",
-        "url": "https://www.espn.com/nfl/story/_/id/50126306/ravens-acquire-center-cam-jurgens-trade-eagles",
-        "player": "Jalen Hurts",
-        "pos": "QB",
-        "action": "HOLD",
-        "why": "Two bad weeks behind the rebuilt line would change the call; one trade of a struggling guard does not."
-      },
-      {
-        "text": "Lamar Jackson (BAL) missed Wednesday's practice with the left ankle, and Jesse Minter says his status for Sunday night @ATL will be judged through the week. Tyler Huntley starts if he sits. Jackson is QB2 rest of season for me; hold him. Monitor; Friday's injury report.",
-        "url": "https://www.baltimoreravens.com/news/lamar-jackson-not-at-first-practice-following-ankle-injury-ravens-falcons-week-5",
-        "player": "Lamar Jackson",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "at": "2026-10-07T22:20:00Z"
       }
     ]
   },
