@@ -148,6 +148,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Breece Hall (quad) still week to week; Braelon Allen keeps the rush share and Isaiah Davis gets a small share. [pod 10-7, beat]
 - 2026-10-07: Breece Hall (quad) and AD Mitchell (finger) did not practice Wednesday (Wednesday report).
 - 2026-10-09: Aaron Glenn ruled out Breece Hall (quad), Adonai Mitchell (finger), Dylan Parham (knee) and Francisco Mauigoa (quad) for Week 5 vs CLE; Mason Taylor (thumb) expected to return (NFL.com).
+- 2026-10-11: Week 5 vs CLE (17-12 win): Kenyon Sadiq ruled out (concussion). Braelon Allen 22-yard TD, Garrett Wilson 32-yard TD (NFL.com).
 
 ## Other
 

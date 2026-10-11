@@ -6,12 +6,101 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-11T16:45:00Z",
+  "updatedAt": "2026-10-11T22:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-11T22:20:00Z",
+        "player": "Caleb Williams",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "url": "https://www.nfl.com/news/2026-nfl-season-week-5-what-we-learned-from-sunday-s-games",
+        "text": "Tyson Bagent (CHI) threw two interceptions in the 31-7 loss at GB and was pulled for Case Keenum in the fourth quarter. Chicago hopes Caleb Williams (hamstring) is back for Week 6. Williams is QB10 rest of season for me. Monitor; Wednesday's practice report."
+      },
+      {
+        "at": "2026-10-11T22:20:00Z",
+        "player": "Chase Brown",
+        "pos": "RB",
+        "action": "HOLD",
+        "why": "A second straight week with Samaje Perine leading the carries and Brown's targets drying up would move him down.",
+        "url": "https://www.nfl.com/news/2026-nfl-season-week-5-what-we-learned-from-sunday-s-games",
+        "text": "Chase Brown (CIN) did not lead Cincinnati in carries for the first time this season: Samaje Perine ran 14 times for 68 at MIA, and Brown lost a fumble in the red zone. Brown has 22 carries for 49 yards the last two games, with 10 catches in Week 4. RB6 rest of season for me; hold him."
+      },
+      {
+        "at": "2026-10-11T22:20:00Z",
+        "player": "Roman Wilson",
+        "pos": "WR",
+        "action": "DROP",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-5-games-2026",
+        "text": "Roman Wilson (PIT) left the 34-22 win over IND with a finger injury and was ruled out, and Ben Skowronek (calf) went out too. Rookie Germie Bernard caught 6 for 80; he is WR84 rest of season for me, an add only in deep leagues at 0 to 2 percent. Wilson is WR102 rest of season for me; drop him for any add on the list."
+      },
+      {
+        "at": "2026-10-11T22:20:00Z",
+        "player": "KC Concepcion Jr.",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's Week 6 injury report",
+        "url": "https://www.nfl.com/news/2026-nfl-season-week-5-what-we-learned-from-sunday-s-games",
+        "text": "KC Concepcion Jr. (CLE) left in the first quarter vs NYJ with a head injury and did not return. Isaiah Bond played a season-high 46 snaps and dropped all three of his targets; leave Bond on waivers. Concepcion is WR41 rest of season for me. Monitor; Wednesday's Week 6 injury report."
+      },
+      {
+        "at": "2026-10-11T22:20:00Z",
+        "player": "Kenyon Sadiq",
+        "pos": "TE",
+        "action": "MONITOR",
+        "watch": "Wednesday's Week 6 injury report",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-5-games-2026",
+        "text": "Kenyon Sadiq (NYJ) was ruled out of the 17-12 win over CLE with a concussion. TE19 rest of season for me. Monitor; Wednesday's Week 6 injury report."
+      },
+      {
+        "at": "2026-10-11T22:20:00Z",
+        "player": "T.J. Hockenson",
+        "pos": "TE",
+        "action": "MONITOR",
+        "watch": "his concussion protocol updates after Minnesota's Week 6 bye",
+        "url": "https://www.espn.com/nfl/story/_/id/50158965/vikings-te-tj-hockenson-suffers-concussion-saints",
+        "text": "T.J. Hockenson (MIN) took a concussion on the first drive at NO after a 7-yard catch and did not return, and backup Josh Oliver is already out with a torn biceps. Kevin O'Connell hopes Hockenson clears the protocol over the Week 6 bye. TE21 rest of season for me. Monitor; the protocol updates after the bye."
+      },
+      {
+        "at": "2026-10-11T22:20:00Z",
+        "player": "TreVeyon Henderson",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Wednesday's Week 6 injury report",
+        "url": "https://www.nfl.com/news/2026-nfl-season-week-5-what-we-learned-from-sunday-s-games",
+        "text": "TreVeyon Henderson (NE) left the 45-17 win over LV with an ankle injury and was ruled out. Rhamondre Stevenson led New England with 64 rushing yards and a 5-yard TD; he is RB24 rest of season for me, so hold him. Henderson is RB26 rest of season for me. Monitor; Wednesday's Week 6 injury report."
+      },
+      {
+        "at": "2026-10-11T22:20:00Z",
+        "player": "David Montgomery",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Wednesday's Week 6 injury report",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-5-games-2026",
+        "text": "David Montgomery (HOU) left in the second quarter at TEN with a groin injury after 5 carries for 11 and was ruled out at halftime. RB21 rest of season for me. Monitor; Wednesday's Week 6 injury report."
+      },
+      {
+        "at": "2026-10-11T22:20:00Z",
+        "player": "Woody Marks",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "10-20%",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/marks-dominates-snaps-carries-after-d-mont-leaves",
+        "text": "Woody Marks (HOU) played 56 of 65 snaps at TEN after David Montgomery left, and no other Houston back touched the ball: 15 carries for 62 and 4 catches for 23 on 4 targets. Marks is RB40 rest of season for me with Montgomery healthy, and the lead back while he is out. Claim him, 10 to 20 percent of FAAB."
+      },
+      {
+        "at": "2026-10-11T22:20:00Z",
+        "player": "Marvin Harrison Jr.",
+        "pos": "WR",
+        "action": "HOLD",
+        "why": "A route share close to Nico Collins' in his first two Houston games moves him up; a third-receiver role makes him a drop.",
+        "url": "https://sports.yahoo.com/nfl/breaking-news/article/texans-trade-for-marvin-harrison-jr-in-deal-with-cardinals-details-compensation-rumors-203013765.html",
+        "text": "Arizona traded Marvin Harrison Jr. (HOU) to Houston for a 2027 second-round pick and a sixth, per NFL Network and ESPN, and DeMeco Ryans confirmed it after the 26-3 win at TEN. He had 5 catches for 85 and a TD in four Arizona games, and Nico Collins is still Houston's top target. Harrison is WR43 rest of season for me; hold him through his first two Houston games."
+      },
       {
         "at": "2026-10-11T16:40:00Z",
         "player": "Will Shipley",
@@ -437,87 +526,6 @@
         "action": "MONITOR",
         "watch": "Friday's injury report",
         "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Zay Flowers (BAL) was limited Wednesday with a foot injury, on top of Jackson's ankle. He caught 8 of 10 for 118 and a TD vs TEN and is WR9 for me this week @ATL. Monitor; Thursday's practice report.",
-        "player": "Zay Flowers",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Thursday's practice report",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Jayden Daniels (WAS) practiced in full Wednesday on the left elbow, and Dan Quinn says a full practice by Friday puts him back vs NYG. Marcus Mariota's MCL sprain stays off IR. Daniels is QB11 for me, a borderline start this week.",
-        "player": "Jayden Daniels",
-        "pos": "QB",
-        "action": "START",
-        "slot": "QB1",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Stefon Diggs (WAS) and Terry McLaurin (WAS, hamstring) both missed Wednesday's practice. Diggs led Washington's receivers in London with McLaurin out and is WR23 for me this week, a WR2, if he plays. Monitor Diggs; Thursday's practice report.",
-        "player": "Stefon Diggs",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Thursday's practice report",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Kyle Monangai (CHI) missed Wednesday's practice with thumb and toe injuries after 30 carries for 146 and 2 TD vs NYJ; Ben Johnson says the thumb is not an issue. RB18 for me this week, an RB2. Monitor; Friday's injury report.",
-        "player": "Kyle Monangai",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "D'Andre Swift (CHI) also missed Wednesday's practice, with hip and knee injuries, so both Chicago backs sat with GB next. Swift is RB13 for me, borderline RB1/RB2 this week. Monitor; Friday's injury report.",
-        "player": "D'Andre Swift",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Alvin Kamara (NO) did not practice Wednesday with the back he hurt Monday vs ATL, with Travis Etienne already out. Kendre Miller is next and is RB40 for me, a low-end flex play to a dart throw. Kamara is a high-end RB3 for me this week. Monitor; Friday's injury report.",
-        "url": "https://www.rotowire.com/football/headlines/alvin-kamara-injury-tending-to-back-issue-641215",
-        "player": "Alvin Kamara",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Chris Olave (NO) sat out Wednesday's walkthrough, which the Saints called a rest day after the late hit Monday. Tyler Shough was limited with the left hand and says he will play vs MIN. Olave is WR7 for me this week.",
-        "player": "Chris Olave",
-        "pos": "WR",
-        "action": "START",
-        "slot": "WR1",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Tyler Shough (NO) was limited Wednesday with his left hand wrapped and says he will play vs MIN. QB12 for me, a borderline start this week.",
-        "player": "Tyler Shough",
-        "pos": "QB",
-        "action": "START",
-        "slot": "QB1",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Justin Jefferson (MIN) was limited Wednesday in his first practice since the Week 3 ankle sprain. Jordan Addison sat with what Minnesota calls minor soreness. Jefferson is WR6 rest of season for me; hold him. Monitor; Friday's injury report.",
-        "player": "Justin Jefferson",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Malik Nabers (NYG) missed Wednesday's practice with a sore knee after catching 6 of 7 for 112 and a TD vs ARI. Cam Skattebo was limited with the shoulder and is RB19 for me, an RB2. Nabers is WR10 for me this week @WAS. Monitor Nabers; Thursday's practice report.",
-        "player": "Malik Nabers",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Thursday's practice report",
-        "at": "2026-10-07T22:20:00Z"
       }
     ]
   },
@@ -548,6 +556,12 @@
     },
     {
       "id": "2026w05-notes-thread-328a",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    },
+    {
+      "id": "2026w05-notes-thread-76a5",
       "kind": "thread",
       "status": "queued",
       "url": null

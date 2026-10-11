@@ -52,6 +52,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Kirk Cousins 22 of 33, 248, 3 TD, 0 INT; three touchdown passes in each of three games. [pod 9-29, deployment]
 - 2026-10-04: Kirk Cousins: 365 passing yards, 2 TD and 1 INT in the 30-27 loss to KC (NBC Sports, RotoWire). [pod 10-5, deployment]
 - 2026-10-06: Kirk Cousins: multiple TD passes in three straight games after 365 yards and 2 TD vs KC (ESPN).
+- 2026-10-11: Week 5 @NE (17-45): Fernando Mendoza debuted in the fourth quarter in relief of Kirk Cousins, 6 of 8 for 48, in a blowout, not a benching; Ashton Jeanty played through the ankle and plantar fasciitis, Raiders 38 rushing yards (NFL.com).
 
 ## Backfield
 

@@ -45,6 +45,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Ben Johnson: Said the Bears have three quarterbacks under consideration and know their direction but will not name the Week 4 starter; Caleb Williams is improving daily and sat out Wednesday's walkthrough. [pod 10-1, coach]
 - 2026-10-02: Ben Johnson did not name Tyson Bagent or Case Keenum as the Week 4 starter after Friday's practice. [pod 10-2, coach]
 - 2026-10-05: Week 4 vs NYJ: Tyson Bagent started (Caleb Williams out, hamstring), 25 of 34 for 268, 0 TD, 1 INT (box score reports).
+- 2026-10-11: Week 5 @GB (7-31): Tyson Bagent two INTs, pulled for Case Keenum in the fourth quarter; Chicago hopes Caleb Williams returns in Week 6 (NFL.com).
 
 ## Backfield
 

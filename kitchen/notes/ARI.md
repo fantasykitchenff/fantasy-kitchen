@@ -172,6 +172,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-07-28: Jacoby Brissett: Brissett signed a 1-year, $15.5M deal after the Cardinals moved on from Kyler Murray; he gets a full camp as the starter with Carson Beck and Gardner Minshew behind him. [7-28 Training Camp Rankings Update]
 - 2026-08-05: Jacoby Brissett: Brissett received a new contract and will remain the Cardinals' starting quarterback. [8-5 32 team update and breakdown]
 - 2026-09-30: Marvin Harrison Jr.: ESPN's Jeremy Fowler reported that teams watching Harrison's situation put his trade value at possibly a quality Day 3 pick. [pod 9-30, beat]
+- 2026-10-11: Traded Marvin Harrison Jr. and a 2027 seventh to HOU for a 2027 second-round pick and a sixth (NFL Network, ESPN).
 
 ## Injuries and status
 

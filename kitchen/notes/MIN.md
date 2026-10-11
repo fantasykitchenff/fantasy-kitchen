@@ -151,6 +151,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Justin Jefferson (ankle) did not practice all week and is out vs MIA; Kevin O'Connell still calls him day to day. [pod 10-2, official]
 - 2026-10-07: Justin Jefferson (ankle) limited Wednesday in his first practice since Week 3; Jordan Addison did not practice, minor soreness (Vikings report).
 - 2026-10-08: Justin Jefferson limited Wednesday and Thursday (ankle); Jordan Addison limited Thursday; Christian Darrisaw still out (Saints-Vikings Thursday report).
+- 2026-10-11: Week 5 @NO (23-13 win): T.J. Hockenson concussion on the first drive; O'Connell hopes he clears over the Week 6 bye; Josh Oliver torn biceps. Jefferson 6 of 7 for 79 and a TD in his return; Aaron Jones 25 for 113 and a TD (ESPN, NFL.com, Star Tribune).
 
 ## Other
 
