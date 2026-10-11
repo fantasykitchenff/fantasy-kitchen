@@ -6,12 +6,28 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-11T16:25:00Z",
+  "updatedAt": "2026-10-11T16:45:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-11T16:40:00Z",
+        "player": "Will Shipley",
+        "action": "MONITOR",
+        "watch": "Wednesday's Week 6 injury report",
+        "url": "https://www.cbssports.com/fantasy/football/news/eagles-will-shipley-wont-return-to-sundays-game/",
+        "text": "Will Shipley (PHI) left Sunday's London game @JAX in the second quarter with a foot injury and did not return, after 5 carries for 6 yards and a touchdown and a 7-yard catch. Saquon Barkley is out and Tank Bigsby is on IR. Shipley is RB56 rest of season for me. Monitor; Wednesday's Week 6 injury report."
+      },
+      {
+        "at": "2026-10-11T16:40:00Z",
+        "player": "Dameon Pierce",
+        "action": "MONITOR",
+        "watch": "Barkley's Wednesday practice report before Week 6 waivers",
+        "url": "https://sports.yahoo.com/articles/shipley-injury-eagles-rb-room-151519580.html",
+        "text": "Dameon Pierce (PHI) and Carson Steele finished the London game @JAX as Philadelphia's only healthy backs after Will Shipley's foot injury. Pierce was signed from the practice squad Wednesday. Monitor Pierce; Saquon Barkley's Wednesday practice report decides if he is worth a Week 6 claim."
+      },
       {
         "at": "2026-10-11T16:25:00Z",
         "player": "Ja'Marr Chase",
@@ -501,24 +517,6 @@
         "pos": "WR",
         "action": "MONITOR",
         "watch": "Thursday's practice report",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Tee Higgins (CIN) did not practice Wednesday, and the official report added a neck injury to the groin. Ja'Marr Chase stayed in the concussion protocol and did not practice either. Mike Gesicki is TE11 for me, a borderline start this week @MIA. Monitor Higgins; Friday's injury report.",
-        "url": "https://bengals.com/news/bengals-dolphins-week-5-2026-injury-report",
-        "player": "Tee Higgins",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "at": "2026-10-07T22:20:00Z"
-      },
-      {
-        "text": "Ashton Jeanty (LV) practiced in full Wednesday on the ankle that cut into his snaps vs KC. RB11 for me, borderline RB1/RB2 this week @NE. Brock Bowers was limited with the knee and is TE2 for me.",
-        "url": "https://www.patriots.com/news/week-5-injury-report-patriots-vs-raiders",
-        "player": "Ashton Jeanty",
-        "pos": "RB",
-        "action": "START",
-        "slot": "RB1",
         "at": "2026-10-07T22:20:00Z"
       }
     ]
