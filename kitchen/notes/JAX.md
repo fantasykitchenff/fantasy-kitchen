@@ -84,6 +84,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Bhayshul Tuten: Between 48.4% and 50.0% of the snaps in each of the first three games; 43 carries for 204 and 2 TDs (15-66, 13-65-1, 15-73-1). Vs NE: 49% of snaps and 15 of 26 RB carries; Chris Rodriguez Jr. 24% and 8 for 37 with a 5-yard TD; LeQuint Allen 18% with all of the two-minute snaps; Ameer Abdullah 4 snaps. [pod 9-29, deployment]
 - 2026-09-27: Bhayshul Tuten: 15 carries for 73 and a TD, 2 targets, 8 routes, 48% of the snaps vs NE. [pod 10-1, deployment]
 - 2026-10-05: Week 4 @CIN: Bhayshul Tuten out-snapped Chris Rodriguez 36 to 15, 17 for 73, two TDs called back for holding, hobbled off in the third quarter; Brenton Strange 7 for 95 on a team-high 8 targets (NBC).
+- 2026-10-11: Bhayshul Tuten: career-high 22 carries for 72 vs PHI in London, 87.5% of early-down snaps, up from 71% in Week 4 (PFF recap, CBS box).
 
 ## Receivers
 
@@ -140,6 +141,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jakobi Meyers: Targets 2, 1 and 8 in Weeks 1 to 3; 10 catches on 11 targets for 132 and 2 TDs; team-high 75 routes (Parker Washington 73 with 23 targets). Washington was 3 for 40 and a TD on 5 targets vs NE. [pod 9-29, deployment]
 - 2026-09-27: Travis Hunter: Played 5 offensive snaps with no target for a second straight game; 45 defensive snaps (71%) with his first career interception. [pod 9-29, deployment]
 - 2026-09-27: Josh Cameron and Brian Thomas Jr. played 23 snaps each vs NE. [pod 10-1, deployment]
+- 2026-10-11: Parker Washington: 9 targets, a team high, 6 for 124 and 2 TDs vs PHI; Brian Thomas Jr. 3 targets, 0 catches (CBS box).
 
 ## Tight ends
 

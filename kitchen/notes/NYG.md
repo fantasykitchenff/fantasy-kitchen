@@ -80,6 +80,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Cam Skattebo: snap share 60, 58 and 76 percent in Weeks 1 to 3; 20 carries for 60 and 3 catches for 40 vs TEN in Week 3, every first-quarter snap (reports).
 - 2026-09-27: Cam Skattebo 20 for 60 (74 after contact) and 3 catches for 40, 76% snaps (60, 58, 76 by week); Najee Harris 9 for 52 as the No. 2. [pod 9-28, deployment]
 - 2026-09-27: Najee Harris: No. 2 back in Week 3 with 9 carries for 52 on about 21% of the snaps (0, 8, 14 snaps by week); Devin Singletary (25 and 15 snaps in Weeks 1-2) was a healthy scratch. Skattebo ran 18 routes and drew 4 targets. [pod 9-29, deployment]
+- 2026-10-11: Cam Skattebo: 56 snaps, Tracy 17, Najee Harris 16 @WAS; 13 carries for 59, lost a fumble in overtime, his fourth in five games (NBC Sports, Fox box).
 
 ## Receivers
 

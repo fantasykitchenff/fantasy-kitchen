@@ -20,6 +20,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Drake Maye: Was the most efficient quarterback in the NFL in 2025 and nearly won MVP; the situation Mendoza enters in Las Vegas is considered better than Maye's rookie one. [8-20 buying or selling rookie hype]
 - 2026-09-27: Drake Maye: 14 of 25, 199, 0 TD, 2 INT, 2 fumbles (1 lost), benched for Tommy DeVito in the fourth quarter of the 35-6 loss at JAX; 6 interceptions and 7 turnovers through three games. The nine-fumble, ten-interception line making the rounds is a rolling seven-game span, not this season. [pod 9-28, deployment]
 - 2026-09-27: Drake Maye: Through three games: 51 of 80 (63.8%) for 585 yards, 7.3 an attempt, 1 touchdown, 6 interceptions, 9 sacks, a 58.6 rating, 15 rushes for 82. His 2025 line was 72.0%, 8.9, 113.5, 31 touchdowns and 8 interceptions. He played 48 of 60 snaps at JAX before Tommy DeVito took the last 12. [pod 9-29, deployment]
+- 2026-10-11: Drake Maye: 26 of 34 for 374 and 4 TDs, 7 carries for 25 and a TD vs LV (patriots.com box).
 
 ## Backfield
 

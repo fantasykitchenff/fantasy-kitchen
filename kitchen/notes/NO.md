@@ -76,6 +76,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Alvin Kamara: Week 3 snaps: Etienne 28 (38%) before leaving, Kamara 24 (32%), Kendre Miller 14 (19%), CJ Donaldson 12 (16%). Kamara ran 9 times for 36 and caught 1 for 5. By week: Etienne 59%, 54%, 38%; Kamara inactive, 29%, 32%; Miller 29%, inactive, 19%; Donaldson 17%, 29%, 16%. [pod 9-29, deployment]
 - 2026-10-01: Kellen Moore said Alvin Kamara and Kendre Miller will handle the load, with CJ Donaldson finding a specific role; he named no single lead back. [pod 10-2, coach]
 - 2026-10-06: Week 4 vs ATL: Alvin Kamara rushing TDs from 3 and 5 yards in the 45-24 loss (Audacy, Yahoo).
+- 2026-10-11: Alvin Kamara (back) played 5 snaps through three quarters vs MIN, 3 carries for 12; Kendre Miller 10 for 30 and a TD, Donaldson 4 for 13 (PFF recap, saints box).
 
 ## Receivers
 

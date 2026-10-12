@@ -62,6 +62,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jonathan Taylor: With Daniel Jones healthy through Week 13 of 2025, Taylor averaged 23 fantasy points per game and led all backs; he caught 46 passes. Michael Pittman was traded and Alec Pierce is recovering from an ankle. [8-24 adp adjustments]
 - 2026-08-26: Seth McGowan: Holds the No. 2 running back job behind Jonathan Taylor in Indianapolis. [8-26 rankings and news updates]
 - 2026-09-27: Jonathan Taylor: 23 carries for 68 vs HOU; Seth McGowan 4 for 14. [pod 9-30, deployment]
+- 2026-10-11: Seth McGowan over 25% of the snaps for a second straight week @PIT; Jonathan Taylor 15 carries for 45, McGowan 5 for 16 (PFF recap, colts.com box).
 
 ## Receivers
 

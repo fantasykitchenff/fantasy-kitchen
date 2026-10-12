@@ -89,6 +89,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jeremiyah Love: Out-snapped Tyler Allgeier for the first time, 56 (64%) to 31 (36%), after Allgeier led 60% to 43% in Weeks 1-2; 21 carries for 90, 5 of 5 targets for 19 and a 1-yard receiving touchdown in the fourth quarter (78% of the rushes, 22 routes); Allgeier 2 carries for -1 and 4 catches for 10, with 3 of the 5 goal-line snaps. [pod 9-29, deployment]
 - 2026-09-27: Jeremiyah Love had 78% of the rushes and 63% of the snaps vs SF (21 carries, 22 routes, 5 targets); Tyler Allgeier had 5 carries on 31 snaps. [pod 10-1, deployment]
 - 2026-10-04: Jeremiyah Love said after the NYG loss that the coaches are managing his workload and that he told them Tyler Allgeier and Bam Knight should play; he called it the longest year of his life (NBC Sports, Yahoo). [pod 10-5, coach]
+- 2026-10-11: Jeremiyah Love: 12 carries for 22, 1 target vs DET; Tyler Allgeier kept the passing downs, 3 carries for 7 (Fox box, PFF recap).
 
 ## Receivers
 

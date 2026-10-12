@@ -75,6 +75,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Ollie Gordon II: 82% of the snaps, 58% of the routes and 3 targets vs KC. [pod 10-1, deployment]
 - 2026-10-05: Week 4 @MIN: Ollie Gordon II 9 for 100 and a TD (a 53-yard run); Jaylen Wright 5 for 7 (Yahoo).
 - 2026-10-04: Ollie Gordon II out-snapped and out-touched Jaylen Wright at MIN in the first game without De'Von Achane (NBC Sports, DraftSharks). [pod 10-7, deployment]
+- 2026-10-11: Ollie Gordon II: 43 snaps, 18 carries for 88 and a TD vs CIN; Jaylen Wright 6 for 11; no Miami back targeted (NBC Sports, PFF recap).
 
 ## Receivers
 

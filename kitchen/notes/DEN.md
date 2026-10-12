@@ -89,6 +89,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: RJ Harvey: Missed Week 2 (held out of practice 9/23; hamstring, per a charting report). In two games: 5 carries for 24, 10 catches for 64 on 11 targets. [pod 9-29, deployment]
 - 2026-10-05: Week 4 @SF: RJ Harvey 10 catches for 68 (career highs), 7 for 25; J.K. Dobbins 11 for 40 on 42.2% of the snaps (NBC, DraftSharks).
 - 2026-10-06: J.K. Dobbins: 46 carries for 161 (3.5 a carry) in four games; snap share 52% in Week 3, 42% in Week 4 (season totals from weekly reports).
+- 2026-10-11: J.K. Dobbins 18 carries for 68 and a TD @LAC; RJ Harvey 3 for 7, 1 target, no catches (Fox box).
 
 ## Receivers
 

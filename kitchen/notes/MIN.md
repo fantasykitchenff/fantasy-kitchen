@@ -89,6 +89,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Aaron Jones Sr.: 17 carries for 58 yards and 5 catches for 34 @TB in Week 3 (22 touches) after 23 carries in Week 2; Jordan Mason on IR (fractured thumb) and eligible to return in Week 7 (team site, reports).
 - 2026-09-27: Aaron Jones Sr. 17 for 58 and 5 catches for 34 (22 touches), 80% snaps; Jordan Mason on IR (thumb), eligible Week 7. [pod 9-28, deployment]
 - 2026-09-30: Aaron Jones Sr.: 78% of the team's rush attempts in the two games without Mason and a 24% target share in Week 3; working through a knee issue (reports).
+- 2026-10-11: Aaron Jones Sr.: 87% snaps, a season high, 25 carries for 113 and a TD @NO (PFF recap, saints box).
 
 ## Receivers
 

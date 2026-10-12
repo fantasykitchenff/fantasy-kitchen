@@ -71,6 +71,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Rocket Sanders: 4 of 5 as the No. 2 behind Quinshon Judkins (18 carries, recently back from injury). [pod 9-29, deployment]
 - 2026-09-27: Quinshon Judkins, Raheim Sanders: Judkins: 42 carries for 124 yards (3.0) and no touchdowns through three games (12-33, 12-21, 18-70). Week 3 he played 54% of the snaps and ran 11 routes; Sanders played 41%, ran 16 routes and had 5 targets (4 for 34) plus one carry for 17. [pod 9-29, deployment]
 - 2026-10-01: Quinshon Judkins: 17 carries for 53 and a TD plus 6 catches for 43 on 7 targets (21%) vs PIT, 65% of the snaps and 38% of the routes; Raheim Sanders played 35% of the snaps. [pod 10-2, deployment]
+- 2026-10-11: Quinshon Judkins: 14 carries for 44 @NYJ, seen in a walking boot on his right foot after the game, tests expected this week (NBC Sports).
 
 ## Receivers
 

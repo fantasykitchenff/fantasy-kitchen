@@ -79,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: George Pickens: 11 targets, 7 for 82 vs BAL on 85% of the snaps; CeeDee Lamb 8 targets, 7 for 112 on 82%. Through three games each has 25 targets: Lamb 20-309-3, Pickens 16-150-0. Prescott 25 of 40 for 276 and a TD; 105 attempts in three games. [pod 9-29, deployment]
 - 2026-10-05: Week 4 @HOU: CeeDee Lamb 17 for 189 and the winning TD; Javonte Williams 19 for 62 and 3 TD, 5 of 5 for 21 (CBS, NBC).
 - 2026-10-04: CeeDee Lamb: 21 targets at HOU, 21 of Prescott's 45 attempts (about 47 percent), for 17 catches, 189 yards and the winning TD. [pod 10-5, deployment]
+- 2026-10-08: George Pickens: 13 targets, 9 for 130 and a TD vs TB; CeeDee Lamb 5 targets, 2 for 9 before the quad bruise (CBS box).
 
 ## Tight ends
 

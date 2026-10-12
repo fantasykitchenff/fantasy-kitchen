@@ -61,6 +61,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Chase Brown, Samaje Perine: At PIT Brown played 40 snaps with 13 carries and 2 targets (2 for 8); Perine played 18 snaps with 3 carries and 3 targets (1 for 5), one carry after halftime. Brown's season: 49 carries, 197 yards, 1 rushing TD. [pod 9-29, deployment]
 - 2026-09-27: Chase Brown: 13 carries for 61 and 2 targets on 40 snaps; Samaje Perine 3 carries and 3 targets on 18 snaps at PIT. [pod 10-2, deployment]
 - 2026-10-11: Week 5 @MIA (31-24 win): Samaje Perine led CIN with 14 for 68; Chase Brown did not lead in carries for the first time this season, lost a red-zone fumble, 22 carries for 49 the last two games. Chase 6 for 77 and a 45-yard TD (NFL.com).
+- 2026-10-11: Chase Brown out-snapped Samaje Perine 38 to 33 @MIA, but Perine had 14 carries for 68 and a receiving TD to Brown's 13 for 39 and a red-zone fumble (NBC Sports, Fox box).
 
 ## Receivers
 

@@ -35,6 +35,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Marcus Mariota played every snap, 19 of 31, 183, 3 TD, 0 INT in the 33-31 win over SEA; Drew Lock did not play. Dan Quinn said Monday that Jayden Daniels travels to London and is expected to practice this week ahead of IND. [pod 9-29, coach]
 - 2026-10-01: Jayden Daniels: Practiced Thursday in London wearing a brace on his left (non-throwing) elbow; Dan Quinn said the starter will be settled by Friday, and the offensive coordinator called the situation fluid. [pod 10-1, coach]
 - 2026-10-05: Dan Quinn said Washington plans to start Jayden Daniels vs NYG in Week 5 after a full week of practice on the left elbow (Yahoo, CBS Sports). [pod 10-6, coach]
+- 2026-10-11: Jayden Daniels back from the elbow in a brace vs NYG: 17 of 25 for 199, 9 carries for 103 and 2 TDs (Fox box).
 
 ## Backfield
 

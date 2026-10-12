@@ -82,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs LAR snaps (61): Tank Bigsby 29 (48%), Will Shipley 28 (46%), Saquon Barkley 4 (7%); Bigsby left late with a lower-body injury and Shipley was the only healthy back (Yahoo snap counts, RotoWire).
 - 2026-10-06: Saquon Barkley reported week to week with the hamstring, almost certainly out vs JAX in London; not considered long term. Will Shipley the lead back with Tank Bigsby on IR (Yahoo, Inquirer).
 - 2026-10-07: Dameon Pierce signed from the practice squad to the 53-man roster with Saquon Barkley hurt and Tank Bigsby on IR (philadelphiaeagles.com, NBC Sports). [pod 10-8, official]
+- 2026-10-11: Dameon Pierce led the backs after Shipley's foot injury: 11 carries for 14, 2 catches for minus 2 @JAX; Barkley inactive (CBS box).
 
 ## Receivers
 

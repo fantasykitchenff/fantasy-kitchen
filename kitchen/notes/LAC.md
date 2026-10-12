@@ -79,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Keaton Mitchell / Kimani Vidal: Over Weeks 2-3 Mitchell ran 22 routes and Vidal 18 to Hampton's 16. Mitchell has 17 carries at 5.0 a carry; at BUF his 3 catches lost 5 yards, including the 1-yard touchdown. Vidal had 1 catch for 14 on 3 targets and 1 carry at BUF. [pod 9-29, deployment]
 - 2026-09-27: Omarion Hampton had 25 touches for 115 yards in Week 2, then 15 carries for 56 and no catch in Week 3. [pod 10-2, deployment]
 - 2026-10-05: Week 4 @SEA: Keaton Mitchell 10 for 39 and 5 catches for 24; Omarion Hampton 9 for 41 and a TD; Kimani Vidal 5 for 25 and a receiving TD. Ladd McConkey 0 of 2 before leaving with the foot (Rotowire, NBC).
+- 2026-10-11: Omarion Hampton 14 carries for 33, Kimani Vidal 8 for 57 and a TD, Keaton Mitchell 6 for 11 and 3 catches vs DEN (Fox box).
 
 ## Receivers
 

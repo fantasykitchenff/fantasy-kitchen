@@ -73,6 +73,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: D'Andre Swift: 20 carries for 84, 2 catches for 4, 70% snaps. [pod 9-29, deployment]
 - 2026-10-05: Week 4 vs NYJ: Kyle Monangai 30 carries for 146 and 2 TD after D'Andre Swift (15 for 58) lost a fumble at the CHI 28 in the third quarter and sat the rest; CHI ran 49 times for 232; Monangai left in the fourth with a thumb injury, checked Monday (CBS, Sun-Times).
 - 2026-10-04: Kyle Monangai (324) and D'Andre Swift (311) are the first Bears teammates with 300 or more rushing yards each through four games (team PR). [pod 10-5, deployment]
+- 2026-10-11: D'Andre Swift: 40 of the first 56 snaps @GB with Monangai inactive, 9 carries for 43 and a TD, 4 catches for 30; Roschon Johnson took the last 13 snaps (PFF recap, CBS box).
 
 ## Receivers
 

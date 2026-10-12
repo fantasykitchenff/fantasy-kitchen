@@ -1,0 +1,307 @@
+{
+ "series": "leftovers",
+ "season": 2026,
+ "week": 5,
+ "title": "Leftovers, Week 5",
+ "dek": "Woody Marks took all of Houston's backfield after David Montgomery's groin injury, the same day the Texans traded for Marvin Harrison Jr.",
+ "format": "PPR",
+ "publishedAt": "2026-10-12T11:55:00Z",
+ "updatedAt": "2026-10-12T11:55:00Z",
+ "author": "Chef Hazy",
+ "intro_md": "What's still good from Week 5, PPR scoring, every game from Thursday night through Sunday night. Buffalo at the Rams plays Monday night and goes into Tuesday's Market Run. Houston lost David Montgomery and traded for Marvin Harrison Jr. on the same afternoon, Cincinnati's carries tilted toward Samaje Perine, and Philadelphia finished London with its fourth-string back. Ranks are rest of season for me; the Week 6 Menu comes Wednesday.",
+ "outro_md": "The misses, owned. Bucky Irving was RB20 for me Thursday; he ran for 165 and scored twice at DAL. Ollie Gordon II was RB28, a sit; he ran for 88 and a TD on 43 snaps. Jeremiyah Love was RB13 and I leaned toward playing him; he ran 12 times for 22 at home vs DET. Tyler Shough was QB13 and a lean to play; he threw for 96 with 2 picks at home vs MIN. The lesson: a back who keeps the goal line through a bad week is still the back, and a game script against Detroit takes an early-down runner off the field. The Menu weighs both from Wednesday on.",
+ "data": {
+  "takeaways": [
+   {
+    "headline": "Woody Marks has Houston's backfield for now",
+    "text": "David Montgomery (HOU) left in the second quarter at TEN with a groin injury after 5 carries for 11, and DeMeco Ryans said he may miss some time. Woody Marks (HOU) played 47 of the 48 snaps after that, ran 15 times for 62 and caught 4 for 23 in the 26-3 win. Houston also traded for Marvin Harrison Jr. (HOU) during the day; Nico Collins caught 5 for 56 and is still the top target. Claim Marks, 10 to 20 percent of FAAB. Montgomery is RB21 rest of season for me; monitor Wednesday's injury report. Harrison is WR43 rest of season for me; hold him until his first two Houston games show his route share.",
+    "actions": [
+     {
+      "player": "Woody Marks",
+      "action": "CLAIM",
+      "faab": "10-20%"
+     },
+     {
+      "player": "David Montgomery",
+      "action": "MONITOR",
+      "watch": "Wednesday's Week 6 injury report"
+     },
+     {
+      "player": "Marvin Harrison Jr.",
+      "action": "HOLD",
+      "why": "A route share close to Nico Collins' in his first two Houston games moves him up; a third-receiver role makes him a drop."
+     }
+    ]
+   },
+   {
+    "headline": "Samaje Perine out-carried Chase Brown at MIA",
+    "text": "Samaje Perine (CIN) ran 14 times for 68 and caught a TD in the 31-24 win at MIA. Chase Brown (CIN) out-snapped him 38 to 33 but ran 13 times for 39 and lost a fumble in the red zone. Brown has 22 carries for 49 yards the last two games. Ja'Marr Chase (CIN) was back from the concussion with 6 catches for 77 and a TD on 10 targets, and Joe Burrow threw 4 TDs. Cincinnati is off in Week 6. Brown is RB6 rest of season for me; hold him through the bye. Stash Perine, 1 to 3 percent of FAAB.",
+    "actions": [
+     {
+      "player": "Chase Brown",
+      "action": "HOLD",
+      "why": "He still out-snapped Perine; a second straight game with Perine leading the carries after the bye is what would move him down."
+     },
+     {
+      "player": "Samaje Perine",
+      "action": "STASH",
+      "faab": "1-3%"
+     }
+    ]
+   },
+   {
+    "headline": "Philadelphia ran out of running backs in London",
+    "text": "Saquon Barkley (PHI) sat out the 19-17 loss @JAX with the hamstring. Will Shipley (PHI) scored on his fifth carry, then hurt his foot in the second quarter and did not return. Dameon Pierce (PHI) finished as the lead back with 11 carries for 14 yards and 2 catches for minus 2. Jalen Hurts threw for 220 and a TD on 40 attempts. Barkley is RB8 rest of season for me; monitor Wednesday's practice report. Shipley is RB56 rest of season for me; monitor Wednesday's report. Pierce becomes a claim only if Barkley misses Wednesday too; monitor that report.",
+    "actions": [
+     {
+      "player": "Saquon Barkley",
+      "action": "MONITOR",
+      "watch": "Wednesday's Week 6 practice report"
+     },
+     {
+      "player": "Will Shipley",
+      "action": "MONITOR",
+      "watch": "Wednesday's Week 6 injury report"
+     },
+     {
+      "player": "Dameon Pierce",
+      "action": "MONITOR",
+      "watch": "Barkley's Wednesday practice report before Week 6 waivers"
+     }
+    ]
+   },
+   {
+    "headline": "Braelon Allen carried the Jets again",
+    "text": "Breece Hall (NYJ) missed his second straight game with the quad, and Braelon Allen (NYJ) ran 24 times for 116 and a TD in the 17-12 win over CLE. Isaiah Davis had 2 carries. Garrett Wilson (NYJ) caught 7 for 104 and a TD. Allen is RB49 rest of season for me with Hall healthy, and the whole job while Hall sits; hold him. Monitor Hall at Wednesday's practice report.",
+    "actions": [
+     {
+      "player": "Braelon Allen",
+      "action": "HOLD",
+      "why": "Hall's return to practice is what changes it; until then he is a 20-carry back."
+     },
+     {
+      "player": "Breece Hall",
+      "action": "MONITOR",
+      "watch": "Wednesday's Week 6 practice report"
+     }
+    ]
+   },
+   {
+    "headline": "Ollie Gordon II is Miami's back",
+    "text": "Ollie Gordon II (MIA) ran 18 times for 88 and a TD vs CIN on 43 snaps, a week after out-snapping Jaylen Wright. Wright ran 6 times for 11. De'Von Achane is on IR, and no Miami running back was targeted. Miami is off in Week 6. Gordon is RB43 rest of season for me; claim him during the bye, 5 to 10 percent of FAAB. Drop Wright for any add on the list.",
+    "actions": [
+     {
+      "player": "Ollie Gordon II",
+      "action": "CLAIM",
+      "faab": "5-10%"
+     },
+     {
+      "player": "Jaylen Wright",
+      "action": "DROP"
+     }
+    ]
+   },
+   {
+    "headline": "New England's backfield lost TreVeyon Henderson",
+    "text": "TreVeyon Henderson (NE) hurt his ankle in the second quarter of the 45-17 win over LV and was ruled out after 4 carries for 22. Rhamondre Stevenson (NE) ran 13 times for 64 and a TD and caught 3 for 21. Drake Maye threw for 374 and 4 TDs and ran one in. Henderson is RB26 rest of season for me; monitor Wednesday's injury report. Stevenson is RB24 rest of season for me; hold him.",
+    "actions": [
+     {
+      "player": "TreVeyon Henderson",
+      "action": "MONITOR",
+      "watch": "Wednesday's Week 6 injury report"
+     },
+     {
+      "player": "Rhamondre Stevenson",
+      "action": "HOLD",
+      "why": "He leads the backs while Henderson is out; Henderson back at full practice Wednesday is what would cut his work."
+     }
+    ]
+   },
+   {
+    "headline": "Three injuries to follow before Week 6",
+    "text": "Lamar Jackson (BAL) sat with the ankle, and Tyler Huntley (BAL) went 24 of 32 for 201 and 2 TDs and won it 30-23 on a 1-yard sneak in overtime at ATL; Jackson has a real chance to play vs CLE in Week 6. Michael Penix Jr. (ATL) hurt his ribs on a late sack and says it is not long term. Deebo Samuel Sr. (SF) hurt his hamstring @SEA and gets an MRI; Mike Evans played through broken ribs and caught 7 for 113 and a TD. Jackson is QB2 rest of season for me; monitor Wednesday's practice report. Penix is QB23 rest of season for me; monitor his imaging results. Samuel is WR39 rest of season for me; monitor the MRI.",
+    "actions": [
+     {
+      "player": "Lamar Jackson",
+      "action": "MONITOR",
+      "watch": "Wednesday's Week 6 practice report"
+     },
+     {
+      "player": "Michael Penix Jr.",
+      "action": "MONITOR",
+      "watch": "his rib imaging results this week"
+     },
+     {
+      "player": "Deebo Samuel Sr.",
+      "action": "MONITOR",
+      "watch": "the hamstring MRI this week"
+     }
+    ]
+   }
+  ],
+  "usage": [
+   {
+    "player": "Jaylen Warren",
+    "team": "PIT",
+    "pos": "RB",
+    "stat": "15 carries for 101 and a TD, 6 catches for 87 and a TD",
+    "read": "Rico Dowdle missed his third straight game, and Warren had the backfield to himself again vs IND; one catch went 80 yards.",
+    "action": "HOLD",
+    "why": "Dowdle's return is what changes it; until then he is a full-time back, RB23 rest of season for me."
+   },
+   {
+    "player": "Aaron Jones Sr.",
+    "team": "MIN",
+    "pos": "RB",
+    "stat": "87% snaps, 25 carries for 113 and a TD",
+    "read": "A season-high snap share at NO with the knee listed questionable; nobody else in Minnesota's backfield mattered.",
+    "action": "TRADE_FOR",
+    "price": "a bench RB during Minnesota's Week 6 bye"
+   },
+   {
+    "player": "Jeremiyah Love",
+    "team": "ARI",
+    "pos": "RB",
+    "stat": "12 carries for 22, 1 target",
+    "read": "Arizona trailed DET all day, Love kept the early downs and Tyler Allgeier kept the passing downs.",
+    "action": "HOLD",
+    "why": "The early-down role is his; a second straight game under 15 touches with the ankle listed is what would change it. RB15 rest of season for me."
+   },
+   {
+    "player": "MarShawn Lloyd",
+    "team": "GB",
+    "pos": "RB",
+    "stat": "26 snaps to Pierre Strong's 24, 10 carries for 31 and 2 TDs",
+    "read": "Chris Brooks went to IR, Kaleb Johnson played only in garbage time, and Lloyd got the goal-line work in the 31-7 win.",
+    "action": "ADD",
+    "faab": "3-6%"
+   },
+   {
+    "player": "D'Andre Swift",
+    "team": "CHI",
+    "pos": "RB",
+    "stat": "40 of the first 56 snaps, 9 carries for 43 and a TD, 4 catches for 30",
+    "read": "Kyle Monangai sat with the thumb and Swift got the job back at GB.",
+    "action": "HOLD",
+    "why": "Monangai's return is what puts the split back in question; RB13 rest of season for me."
+   },
+   {
+    "player": "Ashton Jeanty",
+    "team": "LV",
+    "pos": "RB",
+    "stat": "10 carries for 27, 3 catches for 50; 27% of third-down snaps",
+    "read": "He played 70% of the third downs in Weeks 1 to 4; Dylan Laube took them at NE while Jeanty played through the ankle and the foot.",
+    "action": "HOLD",
+    "why": "The third-down drop came with two injuries; a healthy week with Laube still on third downs is what would move him down from RB8 rest of season for me."
+   },
+   {
+    "player": "Tyjae Spears",
+    "team": "TEN",
+    "pos": "RB",
+    "stat": "over 50% of the snaps for the first time, 9 catches for 28 on 2 carries",
+    "read": "Tony Pollard ran 14 times for 52, and Spears took the passing-down work as Tennessee trailed HOU.",
+    "action": "ADD",
+    "faab": "1-3%"
+   },
+   {
+    "player": "Parker Washington",
+    "team": "JAX",
+    "pos": "WR",
+    "stat": "9 targets, 6 for 124 and 2 TDs",
+    "read": "Trevor Lawrence threw for 331 in London, and Washington led Jacksonville in targets while Brian Thomas Jr. had 3 and no catches.",
+    "action": "TRADE_FOR",
+    "price": "a WR3 and a bench RB"
+   },
+   {
+    "player": "Mike Evans",
+    "team": "SF",
+    "pos": "WR",
+    "stat": "10 targets, 7 for 113 and a TD",
+    "read": "He played through broken ribs @SEA, Ricky Pearsall is out for the season and Deebo Samuel Sr. left with a hamstring.",
+    "action": "TRADE_FOR",
+    "price": "a WR3"
+   },
+   {
+    "player": "Isaiah Likely",
+    "team": "NYG",
+    "pos": "TE",
+    "stat": "13 targets, 11 for 94 and 2 TDs",
+    "read": "Jameis Winston threw 54 times in the 27-27 tie at WAS; Malik Nabers had 20 targets and Likely the next most.",
+    "action": "HOLD",
+    "why": "A second straight game as a top-two target for Winston moves him into my top 10 rest of season; he is TE11 for me now."
+   },
+   {
+    "player": "Jayden Daniels",
+    "team": "WAS",
+    "pos": "QB",
+    "stat": "17 of 25 for 199, 9 carries for 103 and 2 TDs",
+    "read": "First game back from the elbow, in a brace, and the legs were all the way back vs NYG.",
+    "action": "TRADE_FOR",
+    "price": "a WR3 in superflex, a bench WR in one-QB leagues"
+   },
+   {
+    "player": "Germie Bernard",
+    "team": "PIT",
+    "pos": "WR",
+    "stat": "every-down receiver, 6 catches for 80",
+    "read": "Michael Pittman Jr. is on IR, and Roman Wilson and Ben Skowronek both left hurt vs IND.",
+    "action": "ADD",
+    "faab": "0-2%"
+   }
+  ],
+  "overreactions": [
+   {
+    "take": "Drake Maye is a top-five quarterback",
+    "verdict": "buy",
+    "why": "26 of 34 for 374 and 4 TDs vs LV, plus a rushing TD, a week after 54 rushing yards at BUF. The legs give him a floor and the passing game has a ceiling. QB11 rest of season for me, and climbing. Trade for him; offer a WR3.",
+    "player": "Drake Maye",
+    "action": "TRADE_FOR",
+    "price": "a WR3"
+   },
+   {
+    "take": "Christian Watson is a league winner",
+    "verdict": "buy",
+    "why": "6 catches for 143 and 2 TDs on 8 targets vs CHI, with Jordan Love at 367 yards. Matthew Golden caught 6 for 123 on 7, so both are real in this passing game. Watson is WR18 rest of season for me. Trade for him; offer a WR3.",
+    "player": "Christian Watson",
+    "action": "TRADE_FOR",
+    "price": "a WR3"
+   },
+   {
+    "take": "Bucky Irving lost the goal line",
+    "verdict": "sell",
+    "why": "Thursday at DAL he got the first two goal-line snaps after Sean Tucker was stuffed on fourth-and-1, ran 21 times for 165 and a TD and caught a TD. He played 54 percent of the snaps with a glute flare-up. RB17 rest of season for me; hold him. A game with Sean Tucker back on the goal line is what would move him down.",
+    "player": "Bucky Irving",
+    "action": "HOLD"
+   },
+   {
+    "take": "Jonathan Taylor is losing work to a rookie",
+    "verdict": "sell",
+    "why": "Seth McGowan (IND) played over 25 percent of the snaps for the second straight week, but Taylor still had 15 carries to his 5 and 3 catches at PIT. RB3 rest of season for me; hold him; McGowan taking the goal-line carries is what would change it.",
+    "player": "Jonathan Taylor",
+    "action": "HOLD"
+   },
+   {
+    "take": "Cam Skattebo's fumbles cost him the job",
+    "verdict": "sell",
+    "why": "He lost a fumble in overtime at WAS, his fourth in five games, and still played 56 snaps to 17 for Tracy and 16 for Najee Harris, with 13 carries for 59. RB19 rest of season for me; hold him; a benching after the next fumble is what would change it.",
+    "player": "Cam Skattebo",
+    "action": "HOLD"
+   },
+   {
+    "take": "Pat Freiermuth is back",
+    "verdict": "sell",
+    "why": "2 TDs on 5 catches for 44 vs IND, with Pittsburgh's receivers dropping one after another. Touchdowns on five catches do not repeat. TE27 rest of season for me; leave him on waivers and drop him for any add on the list.",
+    "player": "Pat Freiermuth",
+    "action": "DROP"
+   }
+  ]
+ },
+ "posts": [
+  {
+   "id": "2026w05-leftovers-thread-48a4",
+   "kind": "thread",
+   "status": "queued",
+   "url": null
+  }
+ ]
+}
