@@ -58,6 +58,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs DAL: David Montgomery 32 snaps, 10 for 24; Woody Marks 20 snaps, 6 for 22 and a TD, his second straight week with a score (SI, CBS, NBC).
 - 2026-10-11: Week 5 at TEN: David Montgomery left in the second quarter (groin) after 5 for 11, ruled out at halftime; Woody Marks 56 of 65 snaps, 15 for 62, 4 catches for 23 on 4 targets, the only back with a touch (NBC Sports, NFL.com).
 - 2026-10-11: Woody Marks played 47 of 48 snaps after Montgomery's injury @TEN (PFF recap).
+- 2026-10-12: DeMeco Ryans called David Montgomery (groin) week to week, per Adam Schefter (NFL.com, Yahoo Sports).
 
 ## Receivers
 

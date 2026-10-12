@@ -105,6 +105,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Chris Olave: 13, 10 and 13 targets in Weeks 1 to 3 (36 total), 27 catches for 375 yards, 1 TD; 9 of 13 for 107 vs LV in Week 3 with three near-TDs (reports).
 - 2026-09-27: Devaughn Vele: Receiver snap shares by week: Vele 91%, 96%, 88%; Chris Olave 86%, 84%, 84%; Bryce Lance 69%, 79%, 72%. [pod 9-30, deployment]
 - 2026-10-05: Chris Olave limped off after a late hit in the fourth quarter of the 45-24 Monday night loss to ATL; Tuesday reports say he avoided a major injury (Yahoo, Heavy, Athlon). [pod 10-6, beat]
+- 2026-10-12: Kellen Moore said Jordyn Tyson (hamstring, IR) will not return to practice this week (NFL.com).
 
 ## Tight ends
 

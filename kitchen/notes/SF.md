@@ -97,6 +97,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: KhaDarel Hodge played 30 of 54 snaps (56%) after Mike Evans left, ran 13 routes and was not targeted. Deebo Samuel led the receivers with 40 snaps, had zero targets and was still credited with 80 receiving yards and a touchdown. [pod 9-29, deployment]
 - 2026-09-27: Mike Evans: Played 18 of 54 snaps before the rib injury; receiver snaps after that went Samuel 41, Hodge 30, Cowing 17, Watkins 15. Evans had also been limited by a hip injury (54% of the snaps in Week 2, questionable for Week 3). [pod 9-29, deployment]
 - 2026-10-11: Mike Evans: 10 targets, 7 for 113 and a TD @SEA while playing through two broken ribs (Fox box, CBS Sports).
+- 2026-10-12: Deebo Samuel Sr. had an MRI on the right hamstring; Kyle Shanahan said he will miss some time, Ian Rapoport reports a few weeks (NFL.com, Yahoo Sports).
 
 ## Tight ends
 

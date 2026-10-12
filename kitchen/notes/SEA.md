@@ -70,6 +70,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Mike Macdonald said Zach Charbonnet (knee) will not play Week 5 vs SF, so Emanuel Wilson leads the backfield again (NBC Sports, CBS Sports). [pod 10-6, coach]
 - 2026-10-06: Seattle decided not to sign Joe Mixon to the practice squad after his physical and will sign Robert Henry Jr. instead (NFL.com, Schefter report).
 - 2026-10-11: Emanuel Wilson: 20 carries for 61 and a TD vs SF; Holani 4 for 7 and 4 catches (Fox box).
+- 2026-10-12: Mike Macdonald said Zach Charbonnet (knee, still on PUP) is not expected to play Thursday vs DEN (NFL.com).
 
 ## Receivers
 

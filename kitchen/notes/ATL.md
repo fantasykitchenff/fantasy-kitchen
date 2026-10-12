@@ -41,6 +41,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Michael Penix Jr. starts Week 4 at NO; Tua Tagovailoa is available as the backup and Cooper Rush is third (team depth chart).
 - 2026-09-24: Michael Penix Jr.: 18 of 25 for 256 yards, 1 TD, 1 INT and no sacks in the 35-14 win at GB, his first start since the November 2025 ACL tear; 25 dropbacks on 66 plays (38%). [pod 9-29, deployment]
 - 2026-10-11: Michael Penix Jr. hurt his ribs on a late sack vs BAL and did not return; says it is not long term, imaging this week (NFL.com).
+- 2026-10-12: Michael Penix Jr. (ribs) not considered serious per Adam Schefter; Kevin Stefanski said Atlanta will know more Wednesday (NFL.com).
 
 ## Backfield
 

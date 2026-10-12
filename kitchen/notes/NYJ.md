@@ -103,6 +103,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Kenyon Sadiq: 7 of 8 targets, 105 yards, 1 TD in Week 3 at DET on a season-high 38 snaps with Mason Taylor out (thumb). Route share was 40 percent through Week 2 (box score, reports).
 - 2026-09-27: Kenyon Sadiq: 7 of 8 for 105 and a 24-yard touchdown, 38 snaps (48% snap share), 58% route share, 48% of snaps in the slot, 32% inline, 16% wide, 8 of 37 targets (21.6%), 32% targets per route; Weeks 1 and 2: 5 for 38 on 6 targets at a 40% route share. [pod 9-29, deployment]
 - 2026-09-27: Kenyon Sadiq: Played a season-high 57.6 percent of the offensive snaps (38) at DET and ran a route on 58.1 percent of pass plays, with a 32 percent target rate per route. [pod 9-29, deployment]
+- 2026-10-12: Aaron Glenn said Kenyon Sadiq remains in the concussion protocol (NFL.com).
 
 ## Offensive line
 

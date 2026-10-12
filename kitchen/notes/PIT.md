@@ -87,6 +87,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: DK Metcalf: 5 catches for 115 on 9 targets (23%) at CLE, 87% of the routes; his targets by week are 10, 9, 5 and 9. [pod 10-2, deployment]
 - 2026-10-01: Roman Wilson: 3 catches for 74 and a 12-yard TD on 6 targets at CLE, on only 30% of the snaps and 40% of the routes. [pod 10-2, deployment]
 - 2026-10-01: Michael Pittman Jr.: 2 catches for 15 on 4 targets at CLE, 60% of the routes; a national report has him managing a plantar fascia flare-up. [pod 10-2, deployment]
+- 2026-10-12: Mike McCarthy ruled Roman Wilson (finger) and Ben Skowronek (calf) out for Week 6 vs TB; Jeremy Fowler reports Wilson misses multiple weeks (NFL.com).
 
 ## Tight ends
 
