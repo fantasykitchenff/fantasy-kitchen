@@ -132,6 +132,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Michael Penix Jr.: Penix said he is still about four weeks from returning, which pushes him right up to Week 1; Atlanta signed Cooper Rush because the only other quarterback was undrafted Jack Strand. [8-5 32 team update and breakdown]
 - 2026-08-05: Tua Tagovailoa: Tagovailoa injured his back almost immediately after Falcons camp opened and returned in limited fashion the following week. [8-5 32 team update and breakdown]
 - 2026-08-13: Drake London: Drake London played through a PCL injury in 2025. [8-13 TEs]
+- 2026-10-12: Michael Penix Jr.: hurt his ribs late in the 30-23 OT loss to BAL (19 of 32, 240, 1 TD); Tua Tagovailoa played OT; MRI Monday per Adam Schefter; Penix said he expects to be ready for Week 6 (Rotowire, UPI).
 
 ## Other
 

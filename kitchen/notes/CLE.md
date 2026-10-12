@@ -173,6 +173,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Final Thursday report: Elgton Jenkins (concussion), Teven Jenkins (back) and Tylan Wallace (knee) out; Tyson Campbell, Grant Delpit and Tytus Howard full; Luke Wypler starts at center (final injury report).
 - 2026-10-01: CLE beat PIT 27-24 on a 56-yard Andre Szmyt field goal with 10 seconds left in the snow; Quinshon Judkins 17 carries for 53 and a 2-yard TD (Yahoo, Steelers.com).
 - 2026-10-11: Week 5 @NYJ: KC Concepcion Jr. left in the first quarter (head), did not return; Isaiah Bond season-high 46 snaps, 0 catches on 3 targets, three drops; Watson sacked 8 times (NFL.com).
+- 2026-10-12: Quinshon Judkins: walking boot on his right foot after the 17-12 loss at NYJ (14 carries for 44, 3 catches); no team update; Dylan Sampson on IR (Akron Beacon Journal via Browns Nation).
 
 ## Other
 

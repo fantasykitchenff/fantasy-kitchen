@@ -6,12 +6,30 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-06T16:15:00Z",
-  "updatedAt": "2026-10-11T23:15:00Z",
+  "updatedAt": "2026-10-12T16:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-12T16:15:00Z",
+        "player": "Michael Penix Jr.",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "the MRI result and Wednesday's Week 6 practice report",
+        "url": "https://www.rotowire.com/football/headlines/michael-penix-injury-set-for-mri-on-ribs-642152",
+        "text": "Michael Penix Jr. (ATL) hurt his ribs late in the 30-23 overtime loss to BAL after going 19 of 32 for 240 and a TD, and Tua Tagovailoa played overtime. Penix gets an MRI Monday, per Adam Schefter, and says he expects to be ready for Week 6. Penix is QB23 rest of season for me; leave Tagovailoa, QB37, on waivers. Monitor Penix; the MRI result and Wednesday's practice report."
+      },
+      {
+        "at": "2026-10-12T16:15:00Z",
+        "player": "Quinshon Judkins",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "the foot imaging this week and Wednesday's Week 6 practice report",
+        "url": "https://www.brownsnation.com/browns-get-concerning-injury-update-on-quinshon-judkins/",
+        "text": "Quinshon Judkins (CLE) was in a walking boot on his right foot after the 17-12 loss at NYJ, per Chris Easterling of the Akron Beacon Journal, after 14 carries for 44 and 3 catches. Dylan Sampson is on IR, so Cleveland has no proven back behind him. Judkins is RB20 rest of season for me; hold him until the imaging is in. Monitor; the foot imaging this week and Wednesday's practice report."
+      },
       {
         "at": "2026-10-11T23:15:00Z",
         "player": "Deebo Samuel Sr.",
@@ -509,24 +527,6 @@
         "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-08/jalen-nailor-concussion-does-not-practice-thurs",
         "text": "Jalen Nailor (LV) missed Thursday's practice still in the concussion protocol and is trending toward sitting @NE. Brock Bowers practiced in full and is TE2 for me. Tre Tucker is WR36 for me, a low-end WR3 and a low-end flex play.",
         "at": "2026-10-08T22:20:00Z"
-      },
-      {
-        "at": "2026-10-08T16:20:00Z",
-        "player": "Ladd McConkey",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-report-week-5-latest-news-updates-on-lamar-jackson-jayden-daniels-for-fantasy-football-233159209.html",
-        "text": "Ladd McConkey (LAC) missed Wednesday's practice with the foot he aggravated @SEA, where he left with 0 catches on 2 targets, and Jim Harbaugh calls him week to week. He is WR33 for me this week vs DEN, a low-end WR3, only if he plays; Tre' Harris drew 7 of 33 targets in Week 3 and takes the most if he sits. Monitor; Friday's injury report.",
-        "pos": "WR"
-      },
-      {
-        "at": "2026-10-08T16:20:00Z",
-        "player": "Rhamondre Stevenson",
-        "action": "START",
-        "slot": "RB2",
-        "url": "https://www.nbcsports.com/fantasy/football/news/2026-nfl-week-4-injury-report-trouble-in-cincy-ljax-injury-updates-on-kyle-monangai-ladd-mcconkey",
-        "text": "Rhamondre Stevenson (NE) was limited Wednesday with the knee he hurt late @BUF, where he played 35 snaps to TreVeyon Henderson's 25 and ran 13 times for 47 and a TD. A limited Wednesday is not a designation. RB24 for me this week vs LV, an RB2.",
-        "pos": "RB"
       }
     ]
   },
