@@ -74,6 +74,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Quinshon Judkins: 17 carries for 53 and a TD plus 6 catches for 43 on 7 targets (21%) vs PIT, 65% of the snaps and 38% of the routes; Raheim Sanders played 35% of the snaps. [pod 10-2, deployment]
 - 2026-10-11: Quinshon Judkins: 14 carries for 44 @NYJ, seen in a walking boot on his right foot after the game, tests expected this week (NBC Sports).
 - 2026-10-12: Todd Monken called Quinshon Judkins day to day with an ankle tweak, not ruled out for Week 6 vs BAL (Yahoo Sports).
+- 2026-10-13: Raheim Sanders placed on IR with the hip hurt @NYJ in Week 5, out at least four games; Browns signed Audric Estime off the MIN practice squad (No. 36). Behind Quinshon Judkins (ankle, day to day): Jaleel McLaughlin and Estime (clevelandbrowns.com, NBC Sports, Yahoo Sports).
 
 ## Receivers
 

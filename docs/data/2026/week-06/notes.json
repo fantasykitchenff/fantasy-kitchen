@@ -6,12 +6,50 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-13T22:25:00Z",
+  "updatedAt": "2026-10-13T23:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-13T23:20:00Z",
+        "text": "Cleveland put Raheim Sanders (CLE) on IR Tuesday with the hip he hurt @NYJ, so he misses at least four games, and signed Audric Estime off Minnesota's practice squad. Sanders is RB79 rest of season for me. Drop him for any add on the list, or move him to an IR spot.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-13/browns-send-raheim-sanders-to-injured-reserve",
+        "player": "Raheim Sanders",
+        "action": "DROP"
+      },
+      {
+        "at": "2026-10-13T23:20:00Z",
+        "text": "With Raheim Sanders on IR and Dylan Sampson not yet back from IR, the backs behind Quinshon Judkins (CLE) are Jaleel McLaughlin and Audric Estime, signed Tuesday. Judkins is day to day with the ankle and RB24 for me vs BAL, an RB2. Monitor; Wednesday's practice report.",
+        "url": "https://www.clevelandbrowns.com/news/browns-sign-rb-audric-estime",
+        "player": "Quinshon Judkins",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report"
+      },
+      {
+        "at": "2026-10-13T23:20:00Z",
+        "text": "Jim Harbaugh said Tuesday it is possible Ladd McConkey (LAC) works back in this week. McConkey left Week 4 @SEA with the foot after 2 targets and was active but did not play vs DEN. WR45 for me @KC, a low-end flex play to a dart throw, and WR21 rest of season. Monitor; Wednesday's practice report.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-13/harbaugh-possible-mcconkey-foot-works-back-in",
+        "player": "Ladd McConkey",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report"
+      },
+      {
+        "at": "2026-10-13T23:20:00Z",
+        "text": "Harbaugh called Tre' Harris (LAC) week to week with the hamstring he hurt vs DEN, and the Chargers' bye comes after Week 6, so Week 8 is the realistic return. Harris is WR63 rest of season for me. Drop him for any add on the list.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-13/harbaugh-possible-mcconkey-foot-works-back-in",
+        "player": "Tre' Harris",
+        "action": "DROP"
+      },
+      {
+        "at": "2026-10-13T23:20:00Z",
+        "text": "Quentin Johnston (LAC) will probably be limited in practice this week with the chest injury that kept him inactive vs DEN, Harbaugh said Tuesday. He is WR44 rest of season for me. Monitor; Friday's injury designation.",
+        "url": "https://athlonsports.com/nfl/los-angeles-chargers/jim-harbaugh-gives-updates-injured-chargers-players",
+        "player": "Quentin Johnston",
+        "action": "MONITOR",
+        "watch": "Friday's injury designation"
+      },
       {
         "at": "2026-10-13T22:25:00Z",
         "text": "Stephen Jones said on 105.3 The Fan that CeeDee Lamb (DAL) should be ready for Green Bay after the quad bruise he took late vs TB, where he caught 2 of 5 for 9. Lamb is WR3 for me @GB Sunday night. Monitor; Wednesday's practice report.",
