@@ -81,6 +81,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: CeeDee Lamb: 21 targets at HOU, 21 of Prescott's 45 attempts (about 47 percent), for 17 catches, 189 yards and the winning TD. [pod 10-5, deployment]
 - 2026-10-08: George Pickens: 13 targets, 9 for 130 and a TD vs TB; CeeDee Lamb 5 targets, 2 for 9 before the quad bruise (CBS box).
 - 2026-10-08: CeeDee Lamb left late, not early, with a quad bruise reported as not serious (2 of 5 for 9 vs TB). [pod 10-13, beat]
+- 2026-10-09: Stephen Jones on 105.3 The Fan: "I think both CeeDee and Tyler will be all ready to go for Green Bay" (CeeDee Lamb quad bruise) (Yardbarker).
 
 ## Tight ends
 

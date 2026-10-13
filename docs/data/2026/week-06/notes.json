@@ -6,12 +6,20 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-13T22:10:00Z",
+  "updatedAt": "2026-10-13T22:25:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-13T22:25:00Z",
+        "text": "Stephen Jones said on 105.3 The Fan that CeeDee Lamb (DAL) should be ready for Green Bay after the quad bruise he took late vs TB, where he caught 2 of 5 for 9. Lamb is WR3 for me @GB Sunday night. Monitor; Wednesday's practice report.",
+        "url": "https://www.yardbarker.com/nfl/articles/cowboys_get_ceedee_lamb_news_with_packers_game_looming/s1_17355_44410494",
+        "player": "CeeDee Lamb",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report"
+      },
       {
         "at": "2026-10-13T22:10:00Z",
         "player": "Jaylen Warren",
@@ -206,5 +214,12 @@
       }
     ]
   },
-  "posts": []
+  "posts": [
+    {
+      "id": "2026w06-notes-thread-b8f9",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
 }
