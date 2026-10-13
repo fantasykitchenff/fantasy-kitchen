@@ -195,3 +195,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-09: Stefon Diggs out (hamstring), DNP all week; Terry McLaurin questionable, DNP/DNP/LP; Jayden Daniels FP all week, no designation, starts in a brace (Friday report).
 - 2026-10-10: Jeremy McNichols: downgraded to out for Week 5 vs NYG with the quad. (nfl.com)
 - 2026-10-11: Terry McLaurin active Week 5 vs NYG (hamstring); Jayden Daniels back from the elbow (nfl.com Sunday pregame)
+- 2026-10-13: Chig Okonkwo: team-high 6 targets vs NYG in Week 5, 4 for 60; 3% rostered (NFL.com waiver column).

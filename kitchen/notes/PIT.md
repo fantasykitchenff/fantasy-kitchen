@@ -138,3 +138,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-10: Michael Pittman Jr.: placed on IR Saturday with the foot, out at least four games. (nfl.com)
 - 2026-10-11: Rico Dowdle inactive Week 5 vs IND (toe) (nfl.com Sunday pregame)
 - 2026-10-11: Week 5 vs IND (34-22 win): Roman Wilson (finger) and Ben Skowronek (calf) ruled out; Germie Bernard 6 for 80; Jaylen Warren 101 rushing, 87 receiving on 21 touches, third straight game over 126 total yards; Freiermuth 2 TDs (NFL.com).
+- 2026-10-13: Germie Bernard: 28 routes (tied for team high) and a team-high 9 targets vs IND in Week 5; 3% rostered (NFL.com waiver column).
+- 2026-10-13: Aaron Rodgers: 3 TD passes in three straight games through Week 5; 19% rostered (NFL.com waiver column).

@@ -1,8 +1,17 @@
 {
   "season": 2026,
-  "currentWeek": 5,
-  "updatedAt": "2026-10-12T22:16:31Z",
+  "currentWeek": 6,
+  "updatedAt": "2026-10-13T14:24:08Z",
   "pieces": [
+    {
+      "series": "market",
+      "week": 6,
+      "path": "2026/week-06/market.json",
+      "title": "Market Run, Week 6",
+      "dek": "Woody Marks has Houston's backfield while David Montgomery is week to week, and he is the first claim of the week.",
+      "publishedAt": "2026-10-13T15:00:00Z",
+      "updatedAt": "2026-10-13T15:00:00Z"
+    },
     {
       "series": "notes",
       "week": 5,

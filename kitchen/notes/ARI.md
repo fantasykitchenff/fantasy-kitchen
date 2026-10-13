@@ -203,3 +203,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Week 4 at NYG: a 28 percent chance of rain in the Thursday forecasts (weather pages).
 - 2026-10-09: Jeremiyah Love: LP/LP/FP on the ankle, no designation vs DET (azcardinals.com Friday report).
 - 2026-10-10: Marvin Harrison Jr.: Arizona is finalizing a trade, per ESPN and NFL Network; he is inactive vs DET in Week 5 and no deal is announced before Sunday's games; Houston named as interested. 5 catches for 85 in four games. (nfl.com, ESPN)
+- 2026-10-13: Kendrick Bourne: 5 of 8 targets for 70 vs DET in Week 5 with Harrison inactive; 2% rostered (NFL.com waiver column).

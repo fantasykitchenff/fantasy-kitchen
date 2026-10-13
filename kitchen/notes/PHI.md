@@ -201,4 +201,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Philadelphia opens vs. Washington, Tennessee and Chicago, a soft early stretch while the new offense gets its receivers back. [8-24 adp adjustments]
 - 2026-09-30: Defense has allowed the fewest fantasy points to tight ends through Week 3 (reports).
 - 2026-10-09: Saquon Barkley, DeVonta Smith and Hollywood Brown out for London; Dallas Goedert no designation after LP/LP/FP (philadelphiaeagles.com Friday report).
-
+- 2026-10-13: Dameon Pierce: 2% rostered Tuesday of Week 6; 11 carries for 14 in London (NFL.com waiver column, box score).

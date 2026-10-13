@@ -139,3 +139,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: The Rams are widely viewed as the most talented team in the league on paper entering 2026. [8-19 RBs drafting and fading]
 - 2026-08-23: Puka Nacua: There has been offseason talk of a possible suspension for Nacua along with odd injuries; rankers said they apply a risk discount for that, and Stafford's health is the other key to his outlook. [8-23 highstakes draft]
 - 2026-09-27: DEN 30, LAR 26; the Rams led 16-0 at half. [pod 9-28, official]
+- 2026-10-13: Week 5 vs BUF (34-37 OT loss): Stafford 40 of 54 for 383 and 3 TDs; Puka Nacua 17 of 24 targets for 138 and a TD; Tyler Higbee 5 of 6 for 83; Davante Adams 5 of 7 for 51 and 2 TDs; Kyren Williams 16 carries for 49 and a TD, 6 of 8 targets; Blake Corum 5 carries for 19 and a TD, 3 of 4 for 53 (CBS box score).

@@ -146,3 +146,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: SEA defense: Allowed 33 points @WAS but only 258 yards at 4.0 a play; the three Seattle turnovers led to 20 of the points, including a 50-yard interception return. [pod 9-30, deployment]
 - 2026-10-02: Jadarian Price (chest) ruled out for Week 4 vs LAC after a limited Wednesday and a Thursday DNP; Mike Macdonald said he reinjured it Wednesday. Emanuel Wilson and George Holani split the backfield (NBC Sports, DraftSharks).
 - 2026-10-09: Zach Charbonnet out (knee, PUP); George Holani questionable (ribs, knee), LP all week (Friday report).
+- 2026-10-13: Zach Charbonnet: 58% rostered Tuesday of Week 6; limited Monday, still on PUP, not expected Thursday @DEN (nfl.com).

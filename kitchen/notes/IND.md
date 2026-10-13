@@ -211,3 +211,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Keenan Allen (groin) did not practice Friday after limited Wed and Thu; questionable for London vs WAS. Ashton Dulin also questionable; the Colts ruled out no one (Colts.com, Rotowire).
 - 2026-10-09: Keenan Allen questionable (groin), LP/LP/FP; Jonathan Taylor no designation (Friday report).
 - 2026-10-10: Darius Slayton: downgraded to out for Week 5 @PIT with the knee. (nfl.com)
+- 2026-10-13: Keenan Allen: 9 targets in each of his last two games, at least 5 catches and 45 yards in each; 37% rostered (NFL.com waiver column).

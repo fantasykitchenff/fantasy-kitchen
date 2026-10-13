@@ -197,3 +197,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-24: Packers defense: has allowed the most fantasy points to running backs through Week 3. [pod 10-1, aggregation]
 - 2026-10-09: Chris Brooks (ankle) and Savion Williams (ankle, IR window) out vs CHI; no other skill player on the report (Friday report).
 - 2026-10-10: Chris Brooks: placed on IR Saturday with the ankle. (nfl.com)
+- 2026-10-13: Jordan Love: 77% completions and 4 TD passes over Weeks 4 and 5; 48% rostered (NFL.com waiver column).
+- 2026-10-13: Week 6 vs DAL Sunday night (schedule).
