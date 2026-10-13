@@ -144,6 +144,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: Rhamondre Stevenson (knee, hurt late @BUF) limited Wednesday before LV (Yahoo, NBC Sports).
 - 2026-10-11: Week 5 vs LV (45-17 win): TreVeyon Henderson ruled out (ankle); LT Will Campbell left (knee). Rhamondre Stevenson 64 rushing yards and a 5-yard TD; Drake Maye 26 of 34 for 374, 4 TD passes and a rushing TD (NFL.com, NBC Sports Boston).
 - 2026-10-12: Will Campbell (LT): believed knee sprain vs LV, MRI Monday, expected to miss time; rookie Caleb Lomu replaced him (ESPN, NBC Sports).
+- 2026-10-13: TreVeyon Henderson will miss multiple weeks with a high ankle sprain, no surgery needed (Schefter via Yahoo Sports, Tue 10:43 AM ET). Replaces the 10-12 "not long term" read.
 
 ## Other
 

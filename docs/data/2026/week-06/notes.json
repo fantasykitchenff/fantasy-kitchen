@@ -6,12 +6,20 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-13T15:25:00Z",
+  "updatedAt": "2026-10-13T16:25:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-13T16:25:00Z",
+        "text": "TreVeyon Henderson (NE) will miss multiple weeks with a high ankle sprain but does not need surgery, Adam Schefter reported Tuesday. Rhamondre Stevenson played 71 percent of the snaps vs LV after Henderson went down and is RB14 for me vs NYJ, borderline RB1/RB2 this week. Henderson is RB26 rest of season for me; hold him.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-live-injury-updates-from-week-5-marvin-harrison-jr-trade-141535298.html",
+        "player": "TreVeyon Henderson",
+        "action": "HOLD",
+        "why": "A move to injured reserve or a timeline past four weeks would make him a drop in shallow leagues."
+      },
       {
         "player": "Pat Freiermuth",
         "action": "HOLD",
