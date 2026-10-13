@@ -10,6 +10,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-04: Mike McCarthy now runs the Steelers' offense and signed Rico Dowdle, who played for him in Dallas. [8-4 important training camp battles]
 - 2026-08-12: New DC Patrick Graham is moving T.J. Watt between both edges and using Nick Herbig as a stand-up A-gap blitzer; Brian Angelichio is the OC. [8-12 Camp Updates Article]
 - 2026-08-21: Mike McCarthy is now in charge of the Steelers offense with Aaron Rodgers at QB for what looks like his final season; DK Metcalf is the lead receiver. [8-21 mayhem mock draft]
+- 2026-10-12: Mike McCarthy said "Jaylen is our featured player right now" and that Jaylen Warren's role will not change with Rico Dowdle (toe) returning to health; he wants to keep giving Warren a number of touches (Steelers Depot, NBC Sports). [pod 10-13, coach]
 
 ## Scheme and tendencies
 

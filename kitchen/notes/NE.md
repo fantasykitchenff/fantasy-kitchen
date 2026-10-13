@@ -60,6 +60,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @BUF: Rhamondre Stevenson 35 snaps (67%), 13 for 47 and a TD; TreVeyon Henderson 25 snaps, 14 for 42, 0 of 2 targets (Yahoo snap counts). Drake Maye 22 of 37, 269, 3 TD, 1 INT, 54 rushing yards.
 - 2026-10-12: TreVeyon Henderson (ankle) tested Monday, not expected to be long term per Ian Rapoport; Mike Vrabel said A.J. Brown (high ankle, IR) may return to practice this week (NFL.com, Yahoo Sports).
 - 2026-10-11: Rhamondre Stevenson 13-64-1 and 3-21 on 71 percent of snaps (not hurt); TreVeyon Henderson right ankle in the second quarter, 12 snaps, not long term. [pod 10-13, deployment]
+- 2026-10-11: Rhamondre Stevenson played 83 percent of the snaps after TreVeyon Henderson left vs LV (71 percent for the game) (Yahoo Sports). [pod 10-13, deployment]
 
 ## Receivers
 

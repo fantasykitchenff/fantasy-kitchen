@@ -110,6 +110,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Malik Nabers: shoulder in Week 2, limited then full, cleared for Week 3; Week 3 average depth of target 1.0 (20.5 the week before), 5 of 6 for 26. [pod 9-29, deployment]
 - 2026-10-05: Week 4 vs ARI: Malik Nabers 6 of 7 for 112 and a TD through a right shoulder hit, said afterward the shoulder feels good; Isaiah Likely 7 of 12 for 66; Cam Skattebo 18 for 58 (NBC, Yahoo).
 - 2026-10-11: Malik Nabers 20 targets, 11-121-1 on 90 percent of snaps in the 27-27 OT tie at WAS. [pod 10-13, deployment]
+- 2026-10-11: Malik Nabers has a 39 percent first-read target share over Weeks 4 and 5; Isaiah Likely has a 31 percent first-read share since Week 2; Jameis Winston's first-read throw rate of 75 percent is third-highest in the league (Yahoo Sports). [pod 10-13, deployment]
 
 ## Tight ends
 

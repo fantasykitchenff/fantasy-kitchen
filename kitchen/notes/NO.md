@@ -79,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-06: Week 4 vs ATL: Alvin Kamara rushing TDs from 3 and 5 yards in the 45-24 loss (Audacy, Yahoo).
 - 2026-10-11: Alvin Kamara (back) played 5 snaps through three quarters vs MIN, 3 carries for 12; Kendre Miller 10 for 30 and a TD, Donaldson 4 for 13 (PFF recap, saints box).
 - 2026-10-11: vs MIN: Kendre Miller 10-30-1 on 14 snaps (most carries); CJ Donaldson led backs with 19 snaps (42 percent, mostly protection); Alvin Kamara (back) 3-12 on 12 snaps. [pod 10-13, deployment]
+- 2026-10-11: Alvin Kamara (back) had 5 touches on 12 snaps vs MIN; CJ Donaldson played 18 snaps; Kendre Miller had all 4 of New Orleans' red-zone carries (Yahoo Sports). [pod 10-13, deployment]
 
 ## Receivers
 

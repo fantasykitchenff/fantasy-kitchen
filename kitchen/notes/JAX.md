@@ -85,6 +85,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Bhayshul Tuten: 15 carries for 73 and a TD, 2 targets, 8 routes, 48% of the snaps vs NE. [pod 10-1, deployment]
 - 2026-10-05: Week 4 @CIN: Bhayshul Tuten out-snapped Chris Rodriguez 36 to 15, 17 for 73, two TDs called back for holding, hobbled off in the third quarter; Brenton Strange 7 for 95 on a team-high 8 targets (NBC).
 - 2026-10-11: Bhayshul Tuten: career-high 22 carries for 72 vs PHI in London, 87.5% of early-down snaps, up from 71% in Week 4 (PFF recap, CBS box).
+- 2026-10-11: Bhayshul Tuten had 22 of Jacksonville's 24 RB carries (91.7 percent) vs PHI in London on 66 to 68 percent of the snaps (charting sources differ) and 45 to 48 percent of the routes, 3 targets; LeQuint Allen Jr. played 19 percent of the snaps and ran 25 percent of the routes on passing downs (Rotowire, DraftSharks). [pod 10-13, deployment]
 
 ## Receivers
 
@@ -149,6 +150,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-06: Nate Boerkircher: Rookies Nate Boerkircher and Josh Cameron were each targeted by Lawrence in a two-minute drill with the first unit. [8-6 Jags camp report from]
 - 2026-08-12: Brenton Strange: Brenton Strange remains the clear lead TE, but rookies Nate Boerkircher and Tanner Koziol are trending up. [8-12 130 training camp storylines and league updates]
 - 2026-09-27: Brenton Strange 3 for 32 on 5 targets; Meyers 7-64-1. [pod 9-29, deployment]
+- 2026-10-11: Brenton Strange drew 8 targets (21 percent share) and ran a route on 66 percent of dropbacks vs PHI; Brian Thomas Jr. played 51 percent of the snaps and ran 57 percent of the routes with 3 targets (Rotowire). [pod 10-13, deployment]
 
 ## Offensive line
 
