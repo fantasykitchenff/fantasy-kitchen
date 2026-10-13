@@ -6,12 +6,52 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-13T16:25:00Z",
+  "updatedAt": "2026-10-13T16:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-13T16:30:00Z",
+        "player": "Jaxon Smith-Njigba",
+        "pos": "WR",
+        "team": "SEA",
+        "action": "MONITOR",
+        "watch": "Tuesday's and Wednesday's injury reports before Thursday @DEN",
+        "text": "Jaxon Smith-Njigba (SEA) was limited on Seattle's Monday estimate with the ankle he hurt on a run in Week 5, per Bob Condotta of the Seattle Times, though he missed little time in the game. He is WR2 for me @DEN Thursday with a 37.9 percent target share through Week 3. Monitor; Tuesday's and Wednesday's injury reports.",
+        "url": "https://dknetwork.draftkings.com/2026/10/13/nfl-injury-report-week-6/"
+      },
+      {
+        "at": "2026-10-13T16:30:00Z",
+        "player": "DJ Moore",
+        "pos": "WR",
+        "team": "BUF",
+        "action": "MONITOR",
+        "watch": "Wednesday's injury report",
+        "text": "DJ Moore (BUF) sat Monday night @LAR with the AC joint sprain in his shoulder after one limited practice, and Adam Schefter reports it is not long term. Keon Coleman caught 1 of 2 targets without him. Moore is WR23 rest of season for me. Monitor; Wednesday's injury report before @LV.",
+        "url": "https://dknetwork.draftkings.com/2026/10/13/nfl-injury-report-week-6/"
+      },
+      {
+        "at": "2026-10-13T16:30:00Z",
+        "player": "Rashee Rice",
+        "pos": "WR",
+        "team": "KC",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "text": "Rashee Rice (KC) comes off the bye with the hamstring he hurt in the first quarter @LV in Week 4, which Ian Rapoport called relatively minor. He is WR38 for me vs LAC, a low-end flex play to a dart throw, until he practices. Monitor; Wednesday's practice report.",
+        "url": "https://dknetwork.draftkings.com/2026/10/13/nfl-injury-report-week-6/"
+      },
+      {
+        "at": "2026-10-13T16:30:00Z",
+        "player": "Jalen Coker",
+        "pos": "WR",
+        "team": "CAR",
+        "action": "START",
+        "slot": "WR2",
+        "text": "Dave Canales said Monday that Jalen Coker (CAR) is on track to return from the quad that kept him out in Week 4, before the bye, per Joe Person of The Athletic. WR18 for me this week @PHI, a WR2.",
+        "url": "https://dknetwork.draftkings.com/2026/10/13/nfl-injury-report-week-6/"
+      },
       {
         "at": "2026-10-13T16:25:00Z",
         "text": "TreVeyon Henderson (NE) will miss multiple weeks with a high ankle sprain but does not need surgery, Adam Schefter reported Tuesday. Rhamondre Stevenson played 71 percent of the snaps vs LV after Henderson went down and is RB14 for me vs NYJ, borderline RB1/RB2 this week. Henderson is RB26 rest of season for me; hold him.",

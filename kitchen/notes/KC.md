@@ -170,6 +170,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Tyquan Thornton is out indefinitely with the dislocated left ankle (Yahoo/AP); Rashee Rice could miss several weeks with the hamstring per a Monday report (NBC Sports), Reid called it a tweak.
 - 2026-10-05: Rashee Rice: hamstring called relatively minor Monday (NFL Network), with a chance he misses no games over the Week 5 bye; a Sunday report said several weeks.
 - 2026-10-05: Tyquan Thornton tore ligaments along with the dislocated left ankle, will have surgery and is expected to miss 12 to 16 weeks, with a postseason return possible (NFL Network via NBC Sports, Washington Times). This replaces the 10-5 "out indefinitely" line. [pod 10-6, beat]
+- 2026-10-13: Rashee Rice (hamstring, Week 4) returns from the bye; Ian Rapoport still calls it relatively minor; first practice Wednesday (DK Network).
 
 ## Other
 

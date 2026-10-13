@@ -153,6 +153,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-03: Xavier Legette (knee) placed on injured reserve Saturday; out at least four games, first eligible Nov 8 vs DEN (ESPN, NBC Sports).
 - 2026-10-03: Jalen Coker (quad, questionable): Carolina elevated WR Ja'Seem Reed from the practice squad Saturday for DET; Canales had said Reed would be called up if Coker could not play (NBC Sports, team move).
 - 2026-10-04: Jalen Coker (quad) inactive vs DET Sunday night; LG Damien Lewis out, Corey Bullock starts (panthers.com).
+- 2026-10-13: Jalen Coker (quad): Dave Canales said Monday he is on track to return @PHI (Joe Person, The Athletic, via DK Network).
 
 ## Other
 
