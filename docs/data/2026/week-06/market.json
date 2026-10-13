@@ -1,245 +1,246 @@
 {
- "series": "market",
- "season": 2026,
- "week": 6,
- "title": "Market Run, Week 6",
- "dek": "Woody Marks has Houston's backfield while David Montgomery is week to week, and he is the first claim of the week.",
- "format": "PPR",
- "publishedAt": "2026-10-13T15:00:00Z",
- "updatedAt": "2026-10-13T15:00:00Z",
- "author": "Chef Hazy",
- "intro_md": "Four teams are off in Week 6, Cincinnati, Detroit, Miami and Minnesota, so the wire is about one real backfield, a handful of receivers who just inherited targets, and bye-week fill-ins. Houston's backfield is the prize. Pittsburgh, Arizona and Indianapolis each lost a receiver, and the next man up in each is on almost nobody's roster.\n\nPass on Keon Coleman (BUF). DJ Moore sat Monday night and Coleman still saw 2 targets. Pass on a real claim for Dameon Pierce (PHI) too: 11 carries for 14 yards in London, and Saquon Barkley may be back vs CAR.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
- "outro_md": "The Menu lands Wednesday with every one of these players ranked for Week 6. Claims first, lineups after.",
- "data": {
-  "adds": [
-   {
-    "priority": 1,
-    "player": "Woody Marks",
-    "team": "HOU",
-    "pos": "RB",
-    "action": "CLAIM",
-    "faab": "15-25%",
-    "rostered": "48%",
-    "why": "Marks played 56 of 65 snaps at TEN after David Montgomery left with the groin, and no other Houston back touched the ball: 15 carries for 62 and 4 catches for 23 on 4 targets. DeMeco Ryans calls Montgomery week to week, so the lead job is Marks' @JAX in London and likely beyond.",
-    "verdict": "Claim him, 15 to 25 percent of FAAB. RB40 rest of season for me with Montgomery healthy, and the top add on the wire while he is not."
-   },
-   {
-    "priority": 2,
-    "player": "Germie Bernard",
-    "team": "PIT",
-    "pos": "WR",
-    "action": "CLAIM",
-    "faab": "3-6%",
-    "rostered": "3%",
-    "why": "Bernard ran 28 routes vs IND, tied for the team high, and led Pittsburgh with 9 targets, catching 6 for 80. Michael Pittman Jr. is on IR, and Mike McCarthy ruled out Roman Wilson (finger, multiple weeks) and Ben Skowronek (calf) for @TB.",
-    "verdict": "Claim him, 3 to 6 percent of FAAB. He is the second receiver behind DK Metcalf for the next month."
-   },
-   {
-    "priority": 3,
-    "player": "Keenan Allen",
-    "team": "IND",
-    "pos": "WR",
-    "action": "CLAIM",
-    "faab": "3-6%",
-    "rostered": "37%",
-    "why": "Allen drew 9 targets in each of his last two games and caught at least 5 for 45 in both. Alec Pierce is on IR with the heel, so the outside targets have nowhere else to go vs TEN.",
-    "verdict": "Claim him, 3 to 6 percent of FAAB. WR60 rest of season for me, a PPR bench receiver with weekly volume."
-   },
-   {
-    "priority": 4,
-    "player": "Ollie Gordon II",
-    "team": "MIA",
-    "pos": "RB",
-    "action": "CLAIM",
-    "faab": "5-10%",
-    "rostered": "",
-    "why": "Gordon ran 18 times for 88 and a TD vs CIN on 43 snaps, a week after out-snapping Jaylen Wright, who ran 6 times for 11. De'Von Achane is on IR. Miami is on bye in Week 6, which is why he may still be there.",
-    "verdict": "Claim him, 5 to 10 percent of FAAB, and sit on him through the bye. RB43 rest of season for me, the Miami early-down back while Achane is out."
-   },
-   {
-    "priority": 5,
-    "player": "MarShawn Lloyd",
-    "team": "GB",
-    "pos": "RB",
-    "action": "CLAIM",
-    "faab": "3-6%",
-    "rostered": "",
-    "why": "Lloyd played 26 snaps to Pierre Strong's 24 vs CHI and took the goal-line work, 10 carries for 31 and 2 TDs. Chris Brooks is on IR, Josh Jacobs is still on the Commissioner's Exempt List, and Kaleb Johnson only played in garbage time.",
-    "verdict": "Claim him, 3 to 6 percent of FAAB. RB41 rest of season for me, the short-yardage half of the Green Bay backfield vs DAL."
-   },
-   {
-    "priority": 6,
-    "player": "Kendrick Bourne",
-    "team": "ARI",
-    "pos": "WR",
-    "action": "ADD",
-    "faab": "1-3%",
-    "rostered": "2%",
-    "why": "Bourne caught 5 of 8 targets for 70 vs DET with Marvin Harrison Jr. inactive, and Harrison is now a Texan. Bourne already played 55 percent of the snaps in Week 3, and the second outside job is his @LAR.",
-    "verdict": "Add him, 1 to 3 percent of FAAB. A deep-league flex while Michael Wilson soaks up the top targets."
-   },
-   {
-    "priority": 7,
-    "player": "Tyjae Spears",
-    "team": "TEN",
-    "pos": "RB",
-    "action": "ADD",
-    "faab": "1-3%",
-    "rostered": "",
-    "why": "Spears played over half the snaps for the first time this season vs HOU and caught 9 passes on the passing downs, while Tony Pollard ran 14 times for 52.",
-    "verdict": "Add him, 1 to 3 percent of FAAB. A PPR flex @IND in 14-team leagues."
-   },
-   {
-    "priority": 8,
-    "player": "Efton Chism III",
-    "team": "NE",
-    "pos": "WR",
-    "action": "ADD",
-    "faab": "0-2%",
-    "rostered": "1%",
-    "why": "Chism led New England with 6 targets vs LV and caught 5 for 57. Mack Hollins is on IR. Mike Vrabel says A.J. Brown may return to practice this week, and that would end the window.",
-    "verdict": "Add him, 0 to 2 percent of FAAB, in deep leagues only. Monitor Brown's practice window before you play him vs NYJ."
-   },
-   {
-    "priority": 9,
-    "player": "Brenton Strange",
-    "team": "JAX",
-    "pos": "TE",
-    "action": "CLAIM",
-    "faab": "2-4%",
-    "rostered": "27%",
-    "why": "Strange has caught 14 of 16 targets for 163 the last two weeks, a 26 percent target share that leads Jacksonville. Last week he was a one-week stream; two straight weeks as the top target makes him a weekly tight end.",
-    "verdict": "Claim him, 2 to 4 percent of FAAB. TE16 rest of season for me, a streaming tight end vs HOU in London."
-   },
-   {
-    "priority": 10,
-    "player": "Jordan Love",
-    "team": "GB",
-    "pos": "QB",
-    "action": "STREAM",
-    "faab": "3-6%",
-    "rostered": "48%",
-    "why": "Love threw for 367 vs CHI and completed 77 percent of his passes with 4 TDs over the last two games. Christian Watson and Matthew Golden both went over 120 yards in Week 5.",
-    "verdict": "Stream him vs DAL Sunday night, 3 to 6 percent of FAAB. QB15 rest of season for me, the first bye-week quarterback on the wire."
-   },
-   {
-    "priority": 11,
-    "player": "Aaron Rodgers",
-    "team": "PIT",
-    "pos": "QB",
-    "action": "STREAM",
-    "faab": "1-3%",
-    "rostered": "19%",
-    "why": "Rodgers has thrown 3 TD passes in three straight games. Jaylen Warren has gone over 126 total yards in each of them, and Pittsburgh keeps scoring.",
-    "verdict": "Stream him @TB, 1 to 3 percent of FAAB, if your quarterback is on bye with Cincinnati, Detroit, Miami or Minnesota."
-   },
-   {
-    "priority": 12,
-    "player": "Chig Okonkwo",
-    "team": "WAS",
-    "pos": "TE",
-    "action": "ADD",
-    "faab": "0-2%",
-    "rostered": "3%",
-    "why": "Okonkwo led Washington with 6 targets vs NYG and caught 4 for 60, with Jayden Daniels back from the elbow.",
-    "verdict": "Add him, 0 to 2 percent of FAAB. TE23 rest of season for me, a Monday night streamer @SF for managers whose tight end is on bye."
-   }
-  ],
-  "stashes": [
-   {
-    "player": "Zach Charbonnet",
-    "team": "SEA",
-    "pos": "RB",
-    "action": "STASH",
-    "faab": "3-6%",
-    "why": "Charbonnet is still on the PUP list and was limited Monday, and Mike Macdonald said he is not expected to play Thursday @DEN. He is on 58 percent of rosters. Emanuel Wilson ran 20 times for 61 and a TD vs SF and keeps the job until Charbonnet is activated.",
-    "verdict": "Stash him, 3 to 6 percent of FAAB. He takes over the Seattle backfield once he is off the PUP list."
-   },
-   {
-    "player": "Dylan Sampson",
-    "team": "CLE",
-    "pos": "RB",
-    "action": "STASH",
-    "faab": "1-3%",
-    "why": "Sampson is eligible to come off IR this week. Quinshon Judkins was in a walking boot after the NYJ game, and Todd Monken calls him day to day with an ankle tweak, so Cleveland has no proven back behind him vs BAL.",
-    "verdict": "Stash him, 1 to 3 percent of FAAB. He is the Cleveland handcuff the day he is activated."
-   },
-   {
-    "player": "Samaje Perine",
-    "team": "CIN",
-    "pos": "RB",
-    "action": "STASH",
-    "faab": "1-3%",
-    "why": "Perine out-carried Chase Brown 14 to 13 at MIA, ran for 68 and caught a TD, while Brown lost a fumble in the red zone and has 22 carries for 49 the last two games. Cincinnati is on bye.",
-    "verdict": "Stash him, 1 to 3 percent of FAAB. A second straight game leading the carries after the bye makes him a flex."
-   },
-   {
-    "player": "Dameon Pierce",
-    "team": "PHI",
-    "pos": "RB",
-    "action": "STASH",
-    "faab": "1-3%",
-    "why": "Pierce finished London as Philadelphia's lead back with 11 carries for 14 yards and 2 catches for minus 2. Will Shipley has a partial plantar fascia tear, and Nick Sirianni is hopeful Saquon Barkley plays vs CAR. The usage does not back a real claim.",
-    "verdict": "Stash him, 1 to 3 percent of FAAB, only if you roster Barkley. Monitor Barkley at Wednesday's practice report."
-   }
-  ],
-  "drops": [
-   {
-    "player": "Will Shipley",
-    "team": "PHI",
-    "pos": "RB",
-    "action": "DROP",
-    "why": "Partial tear of the plantar fascia, multiple weeks, per Adam Schefter. RB56 rest of season for me.",
-    "verdict": "Drop him for any add on this list."
-   },
-   {
-    "player": "Roman Wilson",
-    "team": "PIT",
-    "pos": "WR",
-    "action": "DROP",
-    "why": "He hurt his finger vs IND and misses multiple weeks, and Germie Bernard took the routes. WR102 rest of season for me.",
-    "verdict": "Drop him for any add on this list."
-   },
-   {
-    "player": "Keon Coleman",
-    "team": "BUF",
-    "pos": "WR",
-    "action": "DROP",
-    "why": "DJ Moore sat Monday night @LAR, and Coleman still drew only 2 targets and caught 1, a 7-yard TD. Khalil Shakir and Ty Johnson got the yards. He is on 38 percent of rosters and WR83 rest of season for me.",
-    "verdict": "Drop him."
-   },
-   {
-    "player": "Jaylen Wright",
-    "team": "MIA",
-    "pos": "RB",
-    "action": "DROP",
-    "why": "He ran 6 times for 11 vs CIN while Ollie Gordon II took 18 carries and 43 snaps, and Miami is on bye.",
-    "verdict": "Drop him for Gordon or any add on this list."
-   },
-   {
-    "player": "Pat Freiermuth",
-    "team": "PIT",
-    "pos": "TE",
-    "action": "DROP",
-    "why": "His 2 TDs vs IND came on 5 catches for 44, and Pittsburgh's targets are going to Metcalf, Warren and Bernard. TE27 rest of season for me.",
-    "verdict": "Drop him for Strange or any add on this list."
-   }
-  ],
-  "mnf": [
-   {
-    "text": "Buffalo won 37-34 in overtime @LAR. Josh Allen threw for only 210 but ran 10 times for 121 and a TD, and James Cook ran 25 times for 111 and 2 TDs with two fumbles, one lost in overtime. Cook is RB7 rest of season for me; hold him. With DJ Moore out, Khalil Shakir caught 3 for 80 and Keon Coleman saw 2 targets. Shakir is WR51 rest of season for me; hold him. Drop Coleman, and monitor Moore's shoulder at Wednesday's practice report."
-   },
-   {
-    "text": "Matthew Stafford threw 54 times for 383 and 3 TDs, and Puka Nacua drew 24 targets, catching 17 for 138 and a TD. Tyler Higbee caught 5 of 6 for 83, and Blake Corum caught 3 for 53 and ran in a score behind Kyren Williams' 16 carries. Leave Higbee on waivers; one game does not make him a stream vs ARI. Corum is RB27 rest of season for me; hold him."
-   }
+  "series": "market",
+  "season": 2026,
+  "week": 6,
+  "title": "Market Run, Week 6",
+  "dek": "Woody Marks has Houston's backfield while David Montgomery is week to week, and he is the first claim of the week.",
+  "format": "PPR",
+  "publishedAt": "2026-10-13T15:00:00Z",
+  "updatedAt": "2026-10-13T15:25:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Updated Tue 11:25 AM ET: Pat Freiermuth (PIT) is no longer a drop. He is TE12 for me @TB, a borderline start with three Pittsburgh receivers out; keep him through Week 6. Kendre Miller (NO) is in as an add at RB32 this week, Jameis Winston (NYG) replaces Aaron Rodgers as the second bye-week streamer at QB16, and Kimani Vidal (LAC) is a stash. Efton Chism III came off the list; A.J. Brown's practice window caps his role.\n\nFour teams are off in Week 6, Cincinnati, Detroit, Miami and Minnesota, so the wire is about one real backfield, a handful of receivers who just inherited targets, and bye-week fill-ins. Houston's backfield is the prize. Pittsburgh, Arizona and Indianapolis each lost a receiver, and the next man up in each is on almost nobody's roster.\n\nPass on Keon Coleman (BUF). DJ Moore sat Monday night and Coleman still saw 2 targets. Pass on a real claim for Dameon Pierce (PHI) too: 11 carries for 14 yards in London, and Saquon Barkley may be back vs CAR.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
+  "outro_md": "The Menu lands Wednesday with every one of these players ranked for Week 6. Claims first, lineups after.",
+  "data": {
+    "adds": [
+      {
+        "priority": 1,
+        "player": "Woody Marks",
+        "team": "HOU",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "15-25%",
+        "rostered": "48%",
+        "why": "Marks played 56 of 65 snaps at TEN after David Montgomery left with the groin, and no other Houston back touched the ball: 15 carries for 62 and 4 catches for 23 on 4 targets. DeMeco Ryans calls Montgomery week to week, so the lead job is Marks' @JAX in London and likely beyond.",
+        "verdict": "Claim him, 15 to 25 percent of FAAB. RB40 rest of season for me with Montgomery healthy, and the top add on the wire while he is not."
+      },
+      {
+        "priority": 2,
+        "player": "Germie Bernard",
+        "team": "PIT",
+        "pos": "WR",
+        "action": "CLAIM",
+        "faab": "3-6%",
+        "rostered": "3%",
+        "why": "Bernard ran 28 routes vs IND, tied for the team high, and led Pittsburgh with 9 targets, catching 6 for 80. Michael Pittman Jr. is on IR, and Mike McCarthy ruled out Roman Wilson (finger, multiple weeks) and Ben Skowronek (calf) for @TB.",
+        "verdict": "Claim him, 3 to 6 percent of FAAB. He is the second receiver behind DK Metcalf for the next month."
+      },
+      {
+        "priority": 3,
+        "player": "Keenan Allen",
+        "team": "IND",
+        "pos": "WR",
+        "action": "CLAIM",
+        "faab": "3-6%",
+        "rostered": "37%",
+        "why": "Allen drew 9 targets in each of his last two games and caught at least 5 for 45 in both. Alec Pierce is on IR with the heel, so the outside targets have nowhere else to go vs TEN.",
+        "verdict": "Claim him, 3 to 6 percent of FAAB. WR60 rest of season for me, a PPR bench receiver with weekly volume."
+      },
+      {
+        "priority": 4,
+        "player": "Ollie Gordon II",
+        "team": "MIA",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "5-10%",
+        "rostered": "",
+        "why": "Gordon ran 18 times for 88 and a TD vs CIN on 43 snaps, a week after out-snapping Jaylen Wright, who ran 6 times for 11. De'Von Achane is on IR. Miami is on bye in Week 6, which is why he may still be there.",
+        "verdict": "Claim him, 5 to 10 percent of FAAB, and sit on him through the bye. RB43 rest of season for me, the Miami early-down back while Achane is out."
+      },
+      {
+        "priority": 5,
+        "player": "MarShawn Lloyd",
+        "team": "GB",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "3-6%",
+        "rostered": "",
+        "why": "Lloyd played 26 snaps to Pierre Strong's 24 vs CHI and took the goal-line work, 10 carries for 31 and 2 TDs. Chris Brooks is on IR, Josh Jacobs is still on the Commissioner's Exempt List, and Kaleb Johnson only played in garbage time.",
+        "verdict": "Claim him, 3 to 6 percent of FAAB. RB41 rest of season for me, the short-yardage half of the Green Bay backfield vs DAL."
+      },
+      {
+        "priority": 6,
+        "player": "Kendrick Bourne",
+        "team": "ARI",
+        "pos": "WR",
+        "action": "ADD",
+        "faab": "1-3%",
+        "rostered": "2%",
+        "why": "Bourne caught 5 of 8 targets for 70 vs DET with Marvin Harrison Jr. inactive, and Harrison is now a Texan. Bourne already played 55 percent of the snaps in Week 3, and the second outside job is his @LAR.",
+        "verdict": "Add him, 1 to 3 percent of FAAB. A deep-league flex while Michael Wilson soaks up the top targets."
+      },
+      {
+        "priority": 7,
+        "player": "Kendre Miller",
+        "team": "NO",
+        "pos": "RB",
+        "action": "ADD",
+        "faab": "0-2%",
+        "rostered": "",
+        "why": "Miller led New Orleans with 10 carries for 30 and a TD vs MIN on 14 snaps, with Travis Etienne Jr. on IR and Alvin Kamara held to 12 snaps by a back injury. CJ Donaldson took the protection snaps, so the carries are Miller's while Kamara is banged up.",
+        "verdict": "Add him, 0 to 2 percent of FAAB. RB32 for me @NYG this week, a low-end RB3 and a low-end flex play."
+      },
+      {
+        "priority": 8,
+        "player": "Tyjae Spears",
+        "team": "TEN",
+        "pos": "RB",
+        "action": "ADD",
+        "faab": "1-3%",
+        "rostered": "",
+        "why": "Spears played over half the snaps for the first time this season vs HOU and caught 9 passes on the passing downs, while Tony Pollard ran 14 times for 52.",
+        "verdict": "Add him, 1 to 3 percent of FAAB. A PPR flex @IND in 14-team leagues."
+      },
+      {
+        "priority": 9,
+        "player": "Brenton Strange",
+        "team": "JAX",
+        "pos": "TE",
+        "action": "CLAIM",
+        "faab": "2-4%",
+        "rostered": "27%",
+        "why": "Strange has caught 14 of 16 targets for 163 the last two weeks, a 26 percent target share that leads Jacksonville. Last week he was a one-week stream; two straight weeks as the top target makes him a weekly tight end.",
+        "verdict": "Claim him, 2 to 4 percent of FAAB. TE16 rest of season for me, a streaming tight end vs HOU in London."
+      },
+      {
+        "priority": 10,
+        "player": "Jordan Love",
+        "team": "GB",
+        "pos": "QB",
+        "action": "STREAM",
+        "faab": "3-6%",
+        "rostered": "48%",
+        "why": "Love threw for 367 vs CHI and completed 77 percent of his passes with 4 TDs over the last two games. Christian Watson and Matthew Golden both went over 120 yards in Week 5.",
+        "verdict": "Stream him vs DAL Sunday night, 3 to 6 percent of FAAB. QB15 rest of season for me, the first bye-week quarterback on the wire."
+      },
+      {
+        "priority": 11,
+        "player": "Jameis Winston",
+        "team": "NYG",
+        "pos": "QB",
+        "action": "STREAM",
+        "faab": "0-2%",
+        "rostered": "",
+        "why": "Winston threw 54 times for 326 yards and 3 TDs in the tie @WAS, after 250 yards and 3 TDs in Week 4. Malik Nabers drew 20 of those targets.",
+        "verdict": "Stream him vs NO, 0 to 2 percent of FAAB. QB16 for me this week, a streamer if your quarterback is on bye."
+      },
+      {
+        "priority": 12,
+        "player": "Chig Okonkwo",
+        "team": "WAS",
+        "pos": "TE",
+        "action": "ADD",
+        "faab": "0-2%",
+        "rostered": "3%",
+        "why": "Okonkwo led Washington with 6 targets vs NYG and caught 4 for 60, with Jayden Daniels back from the elbow.",
+        "verdict": "Add him, 0 to 2 percent of FAAB. TE23 rest of season for me, a Monday night streamer @SF for managers whose tight end is on bye."
+      }
+    ],
+    "stashes": [
+      {
+        "player": "Zach Charbonnet",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "3-6%",
+        "why": "Charbonnet is still on the PUP list and was limited Monday, and Mike Macdonald said he is not expected to play Thursday @DEN. He is on 58 percent of rosters. Emanuel Wilson ran 20 times for 61 and a TD vs SF and keeps the job until Charbonnet is activated.",
+        "verdict": "Stash him, 3 to 6 percent of FAAB. He takes over the Seattle backfield once he is off the PUP list."
+      },
+      {
+        "player": "Dylan Sampson",
+        "team": "CLE",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "1-3%",
+        "why": "Sampson is eligible to come off IR this week. Quinshon Judkins was in a walking boot after the NYJ game, and Todd Monken calls him day to day with an ankle tweak, so Cleveland has no proven back behind him vs BAL.",
+        "verdict": "Stash him, 1 to 3 percent of FAAB. He is the Cleveland handcuff the day he is activated."
+      },
+      {
+        "player": "Samaje Perine",
+        "team": "CIN",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "1-3%",
+        "why": "Perine out-carried Chase Brown 14 to 13 at MIA, ran for 68 and caught a TD, while Brown lost a fumble in the red zone and has 22 carries for 49 the last two games. Cincinnati is on bye.",
+        "verdict": "Stash him, 1 to 3 percent of FAAB. A second straight game leading the carries after the bye makes him a flex."
+      },
+      {
+        "player": "Dameon Pierce",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "1-3%",
+        "why": "Pierce finished London as Philadelphia's lead back with 11 carries for 14 yards and 2 catches for minus 2. Will Shipley has a partial plantar fascia tear, and Nick Sirianni is hopeful Saquon Barkley plays vs CAR. The usage does not back a real claim.",
+        "verdict": "Stash him, 1 to 3 percent of FAAB, only if you roster Barkley. Monitor Barkley at Wednesday's practice report."
+      },
+      {
+        "player": "Kimani Vidal",
+        "team": "LAC",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "1-3%",
+        "why": "Vidal led the Chargers' backs with 28 snaps vs DEN, 42 percent, and ran 8 times for 57 and a TD. His snap share has climbed five straight weeks, from 7 percent in Week 1, while Omarion Hampton played 30 percent in Week 5.",
+        "verdict": "Stash him, 1 to 3 percent of FAAB. RB39 for me @KC this week, a low-end flex play to a dart throw; a second straight week ahead of Hampton in the snaps makes him a flex."
+      }
+    ],
+    "drops": [
+      {
+        "player": "Will Shipley",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "Partial tear of the plantar fascia, multiple weeks, per Adam Schefter. RB56 rest of season for me.",
+        "verdict": "Drop him for any add on this list."
+      },
+      {
+        "player": "Roman Wilson",
+        "team": "PIT",
+        "pos": "WR",
+        "action": "DROP",
+        "why": "He hurt his finger vs IND and misses multiple weeks, and Germie Bernard took the routes. WR102 rest of season for me.",
+        "verdict": "Drop him for any add on this list."
+      },
+      {
+        "player": "Keon Coleman",
+        "team": "BUF",
+        "pos": "WR",
+        "action": "DROP",
+        "why": "DJ Moore sat Monday night @LAR, and Coleman still drew only 2 targets and caught 1, a 7-yard TD. Khalil Shakir and Ty Johnson got the yards. He is on 38 percent of rosters and WR83 rest of season for me.",
+        "verdict": "Drop him."
+      },
+      {
+        "player": "Jaylen Wright",
+        "team": "MIA",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "He ran 6 times for 11 vs CIN while Ollie Gordon II took 18 carries and 43 snaps, and Miami is on bye.",
+        "verdict": "Drop him for Gordon or any add on this list."
+      }
+    ],
+    "mnf": [
+      {
+        "text": "Buffalo won 37-34 in overtime @LAR. Josh Allen threw for only 210 but ran 10 times for 121 and a TD, and James Cook ran 25 times for 111 and 2 TDs with two fumbles, one lost in overtime. Cook is RB7 rest of season for me; hold him. With DJ Moore out, Khalil Shakir caught 3 for 80 and Keon Coleman saw 2 targets. Shakir is WR51 rest of season for me; hold him. Drop Coleman, and monitor Moore's shoulder at Wednesday's practice report."
+      },
+      {
+        "text": "Matthew Stafford threw 54 times for 383 and 3 TDs, and Puka Nacua drew 24 targets, catching 17 for 138 and a TD. Tyler Higbee caught 5 of 6 for 83, and Blake Corum caught 3 for 53 and ran in a score behind Kyren Williams' 16 carries. Leave Higbee on waivers; one game does not make him a stream vs ARI. Corum is RB27 rest of season for me; hold him."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w06-market-thread-f7e9",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
   ]
- },
- "posts": [
-  {
-   "id": "2026w06-market-thread-f7e9",
-   "kind": "thread",
-   "status": "queued",
-   "url": null
-  }
- ]
 }

@@ -6,12 +6,20 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-13T15:10:00Z",
+  "updatedAt": "2026-10-13T15:25:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Pat Freiermuth",
+        "action": "HOLD",
+        "why": "Fewer than 6 targets @TB, or Roman Wilson back from the finger, would make him a drop again.",
+        "text": "Pat Freiermuth (PIT) has 4 TDs in five games, and with Michael Pittman Jr. on IR and Roman Wilson and Ben Skowronek out, he is TE12 for me @TB, a borderline start this week. He is TE27 rest of season. Hold him through Week 6; fewer than 6 targets @TB puts him back on the drop list.",
+        "at": "2026-10-13T15:25:00Z",
+        "pos": "TE"
+      },
       {
         "player": "Cam Skattebo",
         "action": "HOLD",
