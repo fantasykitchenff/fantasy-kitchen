@@ -42,6 +42,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Jameis Winston relieved Dart in Week 2 and made his first start in Week 3 (12-7 over TEN); Harbaugh said he starts Week 4 vs ARI. J.J. McCarthy was acquired from MIN for a 2027 fifth-round pick; Jake Haener was signed from the practice squad 9/26. [pod 9-28, official]
 - 2026-09-29: Jameis Winston: John Harbaugh said Winston starts Week 4 vs ARI and 'for as long as I can see into the future'; J.J. McCarthy is the No. 2 or 3 while he learns the offense. Winston's first start: 12-7 over TEN, Nabers 5 of 6 for 26 on a 27% target share, aDOT 1.0 (reports).
 - 2026-09-27: Jameis Winston: First start: 14 of 22 for 118 yards, no interception, in a 12-7 win over TEN played in a nor'easter; 27 dropbacks on 58 plays (47%), three receivers on 40% of snaps, four field goals and no touchdown. [pod 9-29, deployment]
+- 2026-10-11: Jameis Winston 33 of 54 for 326 and 3 TDs, after 250 and 3 TDs in Week 4. J.J. McCarthy played 6 percent of snaps with 2 designed runs. [pod 10-13, deployment]
 
 ## Backfield
 
@@ -81,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Cam Skattebo 20 for 60 (74 after contact) and 3 catches for 40, 76% snaps (60, 58, 76 by week); Najee Harris 9 for 52 as the No. 2. [pod 9-28, deployment]
 - 2026-09-27: Najee Harris: No. 2 back in Week 3 with 9 carries for 52 on about 21% of the snaps (0, 8, 14 snaps by week); Devin Singletary (25 and 15 snaps in Weeks 1-2) was a healthy scratch. Skattebo ran 18 routes and drew 4 targets. [pod 9-29, deployment]
 - 2026-10-11: Cam Skattebo: 56 snaps, Tracy 17, Najee Harris 16 @WAS; 13 carries for 59, lost a fumble in overtime, his fourth in five games (NBC Sports, Fox box).
+- 2026-10-11: Cam Skattebo 13-59 and 2-12 on 63 percent of snaps (Tracy 17 snaps, Najee Harris 16) with a lost OT fumble; 12 targets in five games. [pod 10-13, deployment]
 
 ## Receivers
 
@@ -107,6 +109,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Malachi Fields: Rookie has emerged as the likely starting outside receiver next to Malik Nabers over Darius Slayton and Darnell Mooney; the Giants traded up for him and John Harbaugh called him after the pick. [8-20 buying or selling rookie hype]
 - 2026-09-27: Malik Nabers: shoulder in Week 2, limited then full, cleared for Week 3; Week 3 average depth of target 1.0 (20.5 the week before), 5 of 6 for 26. [pod 9-29, deployment]
 - 2026-10-05: Week 4 vs ARI: Malik Nabers 6 of 7 for 112 and a TD through a right shoulder hit, said afterward the shoulder feels good; Isaiah Likely 7 of 12 for 66; Cam Skattebo 18 for 58 (NBC, Yahoo).
+- 2026-10-11: Malik Nabers 20 targets, 11-121-1 on 90 percent of snaps in the 27-27 OT tie at WAS. [pod 10-13, deployment]
 
 ## Tight ends
 
@@ -126,6 +129,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Isaiah Likely: Jaxson Dart named Likely as the main target he looks to; in Baltimore, Likely came in on passing downs and never put his hand in the dirt while Theo Johnson blocked. [8-17 Breakouts and Injury stuff]
 - 2026-09-27: Isaiah Likely: 23 targets in three games (8, 10, 5) for 15 catches, 124 yards and 2 TDs; 8 of 8 for 78 and both TDs came in Week 1 with Dart, 7 of 15 for 46 since. Snap share 49%, 69%, 84%; in Week 3 he ran 22 routes on 27 dropbacks (81%) and drew 5 targets (24%). [pod 9-29, deployment]
 - 2026-10-11: Isaiah Likely caught a career-high 11 passes for 94 yards and 2 TDs in the 27-27 overtime tie with WAS; Jameis Winston 33 of 54 for 326, 3 TD, 0 INT (giants.com).
+- 2026-10-11: Isaiah Likely 13 targets, 11-94-2, the top TE score of the week. [pod 10-13, deployment]
 
 ## Offensive line
 

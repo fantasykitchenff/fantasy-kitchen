@@ -67,6 +67,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-25: Packers run game: 146 rushing yards in three games (48.7 a game, last in the league), 3.0 a carry, no rushing TD, 17 yards in Week 3; last in rush EPA. [pod 9-30, deployment]
 - 2026-10-05: Week 4 @TB: Chris Brooks left with an ankle injury (4 for 30); Kaleb Johnson 8 for 42 with a goal-line fumble; MarShawn Lloyd 7 for 13, 5 catches for 36 and a fumble; LaFleur said fumblers will sit (RotoBaller, Athlon).
 - 2026-10-11: MarShawn Lloyd 26 snaps, Pierre Strong 24, Kaleb Johnson 9 (garbage time) vs CHI; Lloyd 10 carries for 31 and 2 TDs (Acme Packing Company, CBS box).
+- 2026-10-11: RB touches vs CHI: MarShawn Lloyd 11 (10-31-2), Pierre Strong 8, Kaleb Johnson 7 (garbage time); Lloyd 26 snaps, Strong 24. [pod 10-13, deployment]
 
 ## Receivers
 
@@ -109,6 +110,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-24: Matthew Golden / Christian Watson: Through three games Golden has an 83% route share, 25% of the targets and 40% of the air yards (15 catches, 253 yards, 1 TD); Watson 80%, 24% and 29% (17 catches, 284 yards, 4 TD, a score in every game). Vs ATL each ran 44 routes on 55 dropbacks; Golden 5-100-1 on 12 targets, Watson 7-96-1 on 10. [pod 9-29, deployment]
 - 2026-09-24: Skyy Moore: Third-receiver routes vs ATL: Skyy Moore 27 (32 snaps, 7 targets, 3-31), J. Michael Sturdivant 19 (3-22 on 3 targets), Bo Melton 19 (1 target, no catch); Jonnu Smith 15 routes, 2-16. [pod 9-29, deployment]
 - 2026-10-11: Christian Watson 8 targets, 6 for 143 and 2 TDs; Matthew Golden 7 targets, 6 for 123 vs CHI; Love 25 of 31 for 367 (CBS box).
+- 2026-10-11: Christian Watson 6 of 8 for 143 and 2 TDs (42 and 53 yards), a TD in four of five games. Matthew Golden 6-123; 24 catches for 397 and 2 TDs through five games. Love 25 of 31 for 367 and 2 TDs. [pod 10-13, deployment]
 
 ## Tight ends
 
@@ -187,6 +189,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Aaron Banks (knee/toe) and Jacob Monk (quad): did not practice Wednesday 9/30 or Thursday 10/1. [pod 10-1, official]
 - 2026-09-30: Christian Watson: not on the Wednesday 9/30 injury report and not mentioned in Thursday's report; the hamstring listing after Week 3 did not carry into Week 4. [pod 10-1, official]
 - 2026-10-08: Chris Brooks: DNP Wednesday and Thursday (ankle); MarShawn Lloyd and Kaleb Johnson next if he sits (Bears-Packers Thursday report).
+- 2026-10-12: Micah Parsons is not expected to play Week 6 vs DAL. [pod 10-13, beat]
 
 ## Other
 

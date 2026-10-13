@@ -43,6 +43,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Deshaun Watson: 11 carries for 45. [pod 9-29, deployment]
 - 2026-09-27: Deshaun Watson: 16 of 30 for 144 yards, 2 TD, 0 INT and 11 rushes for 45 (6 of them scrambles) in the 21-18 win over CAR. Through three starts: 205, 238 and 144 passing yards; 38, 22 and 45 rushing yards (105); about 15, 20 and 20 fantasy points. [pod 9-29, deployment]
 - 2026-10-01: Deshaun Watson: 24 of 33 for 268 and 1 TD, plus 22 rushing yards, vs PIT. [pod 10-2, deployment]
+- 2026-10-11: Deshaun Watson 15 of 33 for 155, 1 TD, sacked 8 times in the 12-17 loss at NYJ. [pod 10-13, deployment]
 
 ## Backfield
 
@@ -175,6 +176,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: CLE beat PIT 27-24 on a 56-yard Andre Szmyt field goal with 10 seconds left in the snow; Quinshon Judkins 17 carries for 53 and a 2-yard TD (Yahoo, Steelers.com).
 - 2026-10-11: Week 5 @NYJ: KC Concepcion Jr. left in the first quarter (head), did not return; Isaiah Bond season-high 46 snaps, 0 catches on 3 targets, three drops; Watson sacked 8 times (NFL.com).
 - 2026-10-12: Quinshon Judkins: walking boot on his right foot after the 17-12 loss at NYJ (14 carries for 44, 3 catches); no team update; Dylan Sampson on IR (Akron Beacon Journal via Browns Nation).
+- 2026-10-11: Raheim Sanders (hip) left Week 5; Week 6 status unknown. Quinshon Judkins is day to day per Monken after leaving in a walking boot. [pod 10-13, beat]
 
 ## Other
 

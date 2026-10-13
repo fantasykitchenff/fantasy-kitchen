@@ -21,6 +21,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Drake Maye: 14 of 25, 199, 0 TD, 2 INT, 2 fumbles (1 lost), benched for Tommy DeVito in the fourth quarter of the 35-6 loss at JAX; 6 interceptions and 7 turnovers through three games. The nine-fumble, ten-interception line making the rounds is a rolling seven-game span, not this season. [pod 9-28, deployment]
 - 2026-09-27: Drake Maye: Through three games: 51 of 80 (63.8%) for 585 yards, 7.3 an attempt, 1 touchdown, 6 interceptions, 9 sacks, a 58.6 rating, 15 rushes for 82. His 2025 line was 72.0%, 8.9, 113.5, 31 touchdowns and 8 interceptions. He played 48 of 60 snaps at JAX before Tommy DeVito took the last 12. [pod 9-29, deployment]
 - 2026-10-11: Drake Maye: 26 of 34 for 374 and 4 TDs, 7 carries for 25 and a TD vs LV (patriots.com box).
+- 2026-10-11: Drake Maye 26 of 34 for 374 and 4 TDs plus 7-25-1 rushing vs LV, the week's top QB; after 21.6 fantasy points in Weeks 1 to 3 combined. [pod 10-13, deployment]
 
 ## Backfield
 
@@ -58,6 +59,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Rhamondre Stevenson played 53% of the snaps with 7 carries and 3 targets; TreVeyon Henderson 35% with 8 carries and 1 target at JAX. [pod 10-2, deployment]
 - 2026-10-05: Week 4 @BUF: Rhamondre Stevenson 35 snaps (67%), 13 for 47 and a TD; TreVeyon Henderson 25 snaps, 14 for 42, 0 of 2 targets (Yahoo snap counts). Drake Maye 22 of 37, 269, 3 TD, 1 INT, 54 rushing yards.
 - 2026-10-12: TreVeyon Henderson (ankle) tested Monday, not expected to be long term per Ian Rapoport; Mike Vrabel said A.J. Brown (high ankle, IR) may return to practice this week (NFL.com, Yahoo Sports).
+- 2026-10-11: Rhamondre Stevenson 13-64-1 and 3-21 on 71 percent of snaps (not hurt); TreVeyon Henderson right ankle in the second quarter, 12 snaps, not long term. [pod 10-13, deployment]
 
 ## Receivers
 
@@ -91,6 +93,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Mack Hollins: Leads the Patriots with 16 targets through three games (5, 2, 9); DeMario Douglas has 14 and Romeo Doubs 11 (3, 4, 4), with no game above 4 targets for Doubs. [pod 10-1, deployment]
 - 2026-09-27: Mack Hollins: 77% of the snaps, 68% of the routes and 9 targets (30%) at JAX; Romeo Doubs 4 targets; Kyle Williams 42% of the routes. [pod 10-1, deployment]
 - 2026-10-04: Romeo Doubs: 2 TD in the 29-26 win at BUF, with A.J. Brown on IR (high-ankle, earliest Week 6) and Mack Hollins out after the third quarter with the calf (NBC Sports). [pod 10-5, deployment]
+- 2026-10-11: DeMario Douglas 4-65-2 on 5 targets; Kyle Williams 3-91-1 on 27 snaps; Efton Chism III 5-57 on 6 targets and a team-high 76 percent of snaps. [pod 10-13, deployment]
 
 ## Tight ends
 

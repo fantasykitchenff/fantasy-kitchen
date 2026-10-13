@@ -56,6 +56,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Tony Pollard: Pollard handled 8 of 8 running back opportunities during his preseason stint with the Titans' first unit. [8-24 embarrased to love players]
 - 2026-09-27: Tyjae Spears entered questionable (ankle), played, aggravated it in the fourth quarter and was cleared to return; 3 for 5, 46% snaps; no Week 4 designation as of 9/29. Tony Pollard 17 for 74 and 4 catches for 22, 53% snaps, 80% of early downs. [pod 9-28, deployment]
 - 2026-10-11: Tyjae Spears over 50% of the snaps for the first time vs HOU, 9 catches for 28; Tony Pollard 14 carries for 52 (PFF recap, titans box).
+- 2026-10-11: Tyjae Spears out-snapped Tony Pollard 34 to 30 and caught 9 of 9 for 28. [pod 10-13, deployment]
 
 ## Receivers
 
@@ -83,6 +84,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Carnell Tate: 9 of 36 team pass attempts (25%) in Week 3, 6 catches for 58. [pod 10-1, deployment]
 - 2026-09-27: Wan'Dale Robinson drew a season-high 11 targets (31%) on 81% of the routes vs NYG; Carnell Tate drew 9 (26%) on 92% of the routes. [pod 10-2, deployment]
 - 2026-10-05: Week 4 @BAL: Carnell Tate 9 for 145, his first 100-yard game; Tony Pollard 16 for 48 and a TD, Tyjae Spears 2 for 7 (Titans.com).
+- 2026-10-11: Carnell Tate 1 for 6 on 5 targets on 76 percent of snaps; Cam Ward 23 of 36 for 170, 1 INT. [pod 10-13, deployment]
 
 ## Tight ends
 

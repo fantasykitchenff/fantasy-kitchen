@@ -38,6 +38,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Jordan James: James, viewed entering the offseason as the likely McCaffrey backup, has been injured for the whole of camp, leaving the No. 2 job unsettled. [8-24 embarrased to love players]
 - 2026-08-26: Kaleb Black: Returned to practice before Jordan James and reportedly played well; James got back Saturday so the RB2 competition is back on. [8-26 rankings and news updates]
 - 2026-09-27: Christian McCaffrey: 45 of 54 snaps (83%), 15 carries and 5 targets vs ARI, 116 scrimmage yards and a touchdown; Kaelon Black 8 snaps (15%), 4 carries for 17 and 1 target, the only other back to play. [pod 9-29, deployment]
+- 2026-10-11: Christian McCaffrey 11-68-1 and 3-15 on 3 targets at SEA. [pod 10-13, deployment]
 
 ## Receivers
 
@@ -98,6 +99,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Mike Evans: Played 18 of 54 snaps before the rib injury; receiver snaps after that went Samuel 41, Hodge 30, Cowing 17, Watkins 15. Evans had also been limited by a hip injury (54% of the snaps in Week 2, questionable for Week 3). [pod 9-29, deployment]
 - 2026-10-11: Mike Evans: 10 targets, 7 for 113 and a TD @SEA while playing through two broken ribs (Fox box, CBS Sports).
 - 2026-10-12: Deebo Samuel Sr. had an MRI on the right hamstring; Kyle Shanahan said he will miss some time, Ian Rapoport reports a few weeks (NFL.com, Yahoo Sports).
+- 2026-10-11: Mike Evans 7 of 10 for 113 and a TD playing through two broken ribs; Brandin Cooks 1-7-1 on 2 targets; Deebo Samuel Sr. hurt his right hamstring on a third-quarter end-around (out a few weeks). [pod 10-13, deployment]
 
 ## Tight ends
 
@@ -117,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: George Kittle 6 for 82 and 2 touchdowns, both in the final nine minutes. [pod 9-28, deployment]
 - 2026-09-27: George Kittle: 46 of 54 snaps (85%) and 25 routes on 27 dropbacks vs ARI, 6 of 7 for 82 and 2 TD; his route rate was 46% in Week 1 and 56% in Week 2 (4 of 4 for 80 and a TD vs MIA). [pod 9-29, deployment]
 - 2026-10-05: Week 4 vs DEN: George Kittle 4 for 70 and a 56-yard TD, a franchise tight end TD record; Mike Evans 5 of 8 for 76 back from the ribs (49ers.com).
+- 2026-10-11: George Kittle played through an illness, 5 of 6 for 24. [pod 10-13, deployment]
 
 ## Offensive line
 

@@ -108,6 +108,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Mark Andrews: Aging and not showing improvement; the Ravens drafted tight end Matthew Hibner and another rookie but have no clear replacement for the Isaiah Likely role. [8-24 QB Rankings]
 - 2026-09-30: Mark Andrews: Hand injury in the second quarter in Rio, returned, 33 of 64 snaps (Durham Smythe also 33, Matthew Hibner 21); not among the players missing from Wednesday's practice. [pod 9-29, beat]
 - 2026-09-27: Durham Smythe: played 33 of 64 snaps in Week 3 and 108 snaps through three games; he was not inactive. [pod 10-2, deployment]
+- 2026-10-11: Mark Andrews 4 of 6 for 28 at ATL with three drops and a lost fumble returned for a TD. [pod 10-13, deployment]
 
 ## Offensive line
 

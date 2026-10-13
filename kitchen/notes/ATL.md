@@ -82,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-24: Drake London: 9 catches on 10 targets for 194 yards and no touchdown at GB; 40% of the 25 pass attempts (43% of charted targets), 24 routes on 25 dropbacks. [pod 9-29, deployment]
 - 2025-11-16: Drake London: In nine 2025 games with Penix: 94 targets (10.4 a game), 60 catches, 810 yards (90.0 a game), 6 TD. Weeks 4 to 11 (six games): 651 yards (108.5 a game), touchdowns in four of the six. [pod 9-30, deployment]
 - 2026-10-06: Week 4 @NO: Michael Penix Jr. 15 of 20 for 223 and a TD; Drake London 5 for 96; Jahan Dotson 2 for 54 and a 31-yard TD (Bleacher Report, Yahoo).
+- 2026-10-11: Drake London 7 of 11 for 118; he has 194, 96 and 118 yards in Penix's three starts (136 a game). [pod 10-13, deployment]
 
 ## Tight ends
 
@@ -103,6 +104,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-24: Kyle Pitts: 2 targets on 19 routes (76% route share), after 0 of 1 and 1 of 3 for 15 in Weeks 1 and 2. [pod 9-28, deployment]
 - 2026-09-24: Kyle Pitts: 1 catch on 2 targets for 5 yards at GB on 19 routes (76%) and about 59% of the snaps, fewer snaps than Charlie Woerner (61%). Through three games: 6 targets (1, 3, 2), 2 catches, 20 yards; route rate 56.9% in Weeks 1 and 2. [pod 9-29, deployment]
 - 2026-09-24: Austin Hooper: Caught Penix's only touchdown pass (2 of 2 for 11) on 15-16 snaps; Atlanta used Woerner (61%), Pitts (59%), Nick Muse (24%) and Hooper (23%) at tight end. [pod 9-29, deployment]
+- 2026-10-11: Kyle Pitts 5 of 6 for 42 and a TD, Atlanta's only offensive TD; he had 2 catches for 20 in Weeks 1 to 3. [pod 10-13, deployment]
 
 ## Offensive line
 

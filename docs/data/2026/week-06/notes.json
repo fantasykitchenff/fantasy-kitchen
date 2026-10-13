@@ -1,0 +1,102 @@
+{
+  "series": "notes",
+  "season": 2026,
+  "week": 6,
+  "title": "Kitchen notes, Week 6",
+  "dek": "What moved today.",
+  "format": "PPR",
+  "publishedAt": "2026-10-13T15:00:00Z",
+  "updatedAt": "2026-10-13T15:00:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "items": [
+      {
+        "player": "Jaylen Warren",
+        "action": "TRADE_AWAY",
+        "price": "an RB2",
+        "text": "Jaylen Warren (PIT) played 87 percent of the snaps vs IND and has 490 scrimmage yards over the last three weeks, all with Rico Dowdle (toe) inactive. Warren is RB8 for me this week @TB, but Dowdle is expected back, and that snap share does not survive his return. Warren is RB23 rest of season for me, and Dowdle is RB34. Trade Warren away now and ask for an RB2.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "Bhayshul Tuten",
+        "action": "TRADE_FOR",
+        "price": "a WR3 and a bench back",
+        "text": "Bhayshul Tuten (JAX) ran 22 times vs PHI in London, a career high, and played 87.5 percent of the early-down snaps, up from 71 percent in Week 4. Chris Rodriguez Jr. is now the handcuff, and LeQuint Allen Jr. keeps third downs. Tuten is RB18 rest of season for me. Trade for him; offer a WR3 and a bench back.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "Kimani Vidal",
+        "action": "ADD",
+        "faab": "1-3%",
+        "text": "Kimani Vidal (LAC) led the Chargers' backs with 28 snaps vs DEN, 42 percent, and ran 8 times for 57 and a TD. His snap share has climbed five straight weeks, from 7 percent in Week 1 to 42 in Week 5. He is RB61 rest of season for me, a deep-league add. Add him, 1 to 3 percent of FAAB.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "Omarion Hampton",
+        "action": "HOLD",
+        "why": "A second straight week third in the snaps at KC makes him a sell.",
+        "text": "Omarion Hampton (LAC) played 30 percent of the snaps vs DEN, third of the three backs, though his 14 carries still led them. He runs behind a line with one starter left from September. Hampton is RB14 rest of season for me. Hold him; a second straight week third in the snaps at KC makes him a sell.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "RJ Harvey",
+        "action": "MONITOR",
+        "watch": "Thursday night's snap split vs SEA",
+        "text": "RJ Harvey (DEN) had 3 carries and 1 target at LAC, a week after catching 10 of 10. J.K. Dobbins took 18 of the 22 running back carries and is RB36 rest of season for me. Harvey is RB33 rest of season for me. Monitor Harvey; Thursday night's snap split vs SEA.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "Kendre Miller",
+        "action": "ADD",
+        "faab": "0-2%",
+        "text": "Kendre Miller (NO) led New Orleans with 10 carries for 30 and a TD vs MIN on 14 snaps, with Travis Etienne Jr. on IR and CJ Donaldson taking the protection snaps. Miller is RB62 rest of season for me. Add him, 0 to 2 percent of FAAB.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "Alvin Kamara",
+        "action": "MONITOR",
+        "watch": "Wednesday's injury report",
+        "text": "Alvin Kamara (NO) played 12 snaps vs MIN with a back injury and ran 3 times for 12. He is RB45 rest of season for me. Monitor; Wednesday's injury report before New Orleans goes to NYG.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "Tyler Shough",
+        "action": "MONITOR",
+        "watch": "Wednesday's injury report",
+        "text": "Tyler Shough (NO) has played two weeks in protective layers on his non-throwing left hand, and Kellen Moore would not say Monday whether it is broken. Shough threw for 96 yards and 2 INT vs MIN. He is QB12 rest of season for me. Monitor; Wednesday's injury report.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "Jameis Winston",
+        "action": "STREAM",
+        "faab": "0-2%",
+        "text": "Jameis Winston (NYG) threw 54 times for 326 yards and 3 TDs in the tie at WAS, after 250 yards and 3 TDs in Week 4. Malik Nabers drew 20 of those targets. Winston is QB16 for me this week vs NO, a streamer, and QB33 rest of season. Stream him, 0 to 2 percent of FAAB.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "Ashton Jeanty",
+        "action": "MONITOR",
+        "watch": "Wednesday's injury report",
+        "text": "Ashton Jeanty (LV) has seen his touches drop four straight weeks, from 29 in Week 1 to 13 at NE, where he played 53 percent of the snaps and Dylan Laube got 7 running back opportunities. Klint Kubiak said Jeanty is beat up and playing for his teammates. Jeanty is RB8 rest of season for me. Monitor; Wednesday's injury report.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "Colston Loveland",
+        "action": "HOLD",
+        "why": "If Caleb Williams misses another start and Loveland stays under 5 targets, he becomes a bench tight end.",
+        "text": "Colston Loveland (CHI) caught 2 of 5 for 19 at GB with the backups throwing, a week after 9 targets. Caleb Williams is on track to practice Wednesday. Loveland is TE4 rest of season for me. Hold him; Williams' return is the reset.",
+        "at": "2026-10-13T15:00:00Z"
+      },
+      {
+        "player": "Michael Wilson",
+        "action": "TRADE_FOR",
+        "price": "a bench receiver",
+        "text": "Michael Wilson (ARI) has 51 targets in five games, 10.2 a game, and Marvin Harrison Jr. is now in Houston. Wilson caught 4 of 7 for 30 vs DET behind a line without its left tackle. He is WR40 rest of season for me. Trade for him; offer a bench receiver.",
+        "at": "2026-10-13T15:00:00Z"
+      }
+    ]
+  },
+  "posts": []
+}

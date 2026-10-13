@@ -59,6 +59,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Week 5 at TEN: David Montgomery left in the second quarter (groin) after 5 for 11, ruled out at halftime; Woody Marks 56 of 65 snaps, 15 for 62, 4 catches for 23 on 4 targets, the only back with a touch (NBC Sports, NFL.com).
 - 2026-10-11: Woody Marks played 47 of 48 snaps after Montgomery's injury @TEN (PFF recap).
 - 2026-10-12: DeMeco Ryans called David Montgomery (groin) week to week, per Adam Schefter (NFL.com, Yahoo Sports).
+- 2026-10-11: David Montgomery averaged about 31 scrimmage yards a game in Weeks 2 to 5 before the groin injury (week to week). [pod 10-13, deployment]
 
 ## Receivers
 
@@ -90,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Kayshon Boutte: Expected to rotate with Xavier Hutchinson opposite Nico Collins; Boutte is the better receiver and deep threat, Hutchinson the better run blocker, and both have low career targets per route run. [8-26 rankings and news updates]
 - 2026-08-26: Nico Collins: With Higgins out and low-target-rate players around him, Collins is positioned for a huge target and air-yard share, though the Texans are expected to be a defense- and run-oriented team. [8-26 rankings and news updates]
 - 2026-10-04: Nico Collins: 7 for 118 and 2 TD on 69 percent of the snaps vs DAL in his return from the hamstring strain that cost Weeks 2 and 3. [pod 10-5, deployment]
+- 2026-10-11: Jaylin Noel 3 of 3 for 85 (Wk4) and 5 of 5 for 41 and a TD (Wk5). Nico Collins 7-118-2 (Wk4) and 5-56 on 7 targets (Wk5). [pod 10-13, deployment]
 
 ## Tight ends
 
@@ -111,6 +113,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: As of Aug 21 the Texans were reportedly trying to trade for a wide receiver to shore up the group behind Nico Collins. [8-23 highstakes draft]
 - 2026-08-24: Kayshon Boutte: New England traded WR Kayshon Boutte to Houston (a 2028 seventh-round pick and S Jalen Reed were reported in the deal) after the Texans lost Jayden Higgins for the season. [8-24 adp adjustments]
 - 2026-10-11: Acquired Marvin Harrison Jr. from ARI for a 2027 second-round pick and a sixth (NFL Network, ESPN); DeMeco Ryans confirmed it after the 26-3 win at TEN.
+- 2026-10-11: Marvin Harrison Jr. trade terms: Houston sends a 2027 second and a 2027 sixth; Arizona sends Harrison and a 2027 seventh (NFL Network, ESPN). He passed his physical. [pod 10-13, official]
 
 ## Injuries and status
 

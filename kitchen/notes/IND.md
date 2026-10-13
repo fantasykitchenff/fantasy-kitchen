@@ -107,6 +107,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Keenan Allen: Through three games: 20 targets on 75 routes (26.7% targets per route); Downs 24 on 91 (26.4%), Warren 22 on 93 (23.7%), Laquon Treadwell 5 on 65 (7.7%). [pod 9-29, deployment]
 - 2026-09-27: Josh Downs drew a team-high 11 targets for 5 catches and 77 yards vs TEN; his targets have risen every week. [pod 10-1, deployment]
 - 2026-10-05: Week 4 vs WAS (London): Josh Downs 3 of 4 for 16 with Pierce and Keenan Allen out; Tyler Warren 5 of 5 for 41; Jonathan Taylor 20 for 95 and 2 TD (NBC, CBS).
+- 2026-10-11: Josh Downs catches by week 7, 5, 3, 3 in Weeks 2 to 5 (3 of 6 for 47 in Week 5). [pod 10-13, deployment]
 
 ## Tight ends
 
@@ -130,6 +131,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Tyler Warren: Warren and Josh Downs were the only established target earners on the Colts before Keenan Allen signed; Allen's addition is expected to take some targets from Warren too. [8-18 WR targets and avoids]
 - 2026-08-19: Tyler Warren: The Colts formationally highlight Tyler Warren; he is viewed as the most secure piece of the offense regardless of quarterback. [8-19 Offenses to look out for]
 - 2026-08-24: Tyler Warren: Warren was TE6 in points per game through Week 10 of 2025 before injuries; among 14 TEs with 75+ targets he led in yards after catch per reception (6.5) and is used out of the backfield. [8-24 adp adjustments]
+- 2026-10-11: Tyler Warren 7 of 9 for 83 at PIT (most catches and yards; tied with Keenan Allen for the target lead) plus a 1-yard rushing TD. [pod 10-13, deployment]
 
 ## Offensive line
 
@@ -212,3 +214,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-09: Keenan Allen questionable (groin), LP/LP/FP; Jonathan Taylor no designation (Friday report).
 - 2026-10-10: Darius Slayton: downgraded to out for Week 5 @PIT with the knee. (nfl.com)
 - 2026-10-13: Keenan Allen: 9 targets in each of his last two games, at least 5 catches and 45 yards in each; 37% rostered (NFL.com waiver column).
+- 2026-10-13: Schedule Weeks 6 to 10: TEN, at MIN, at JAX, DAL, MIA. [pod 10-13, official]

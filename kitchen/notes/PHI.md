@@ -45,6 +45,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Jalen Hurts: 16 of 25 for 153 yards and 1 interception @CHI; Andy Dalton threw the other interception on his only attempt (corrected 9/30). [pod 9-29, deployment]
 - 2026-09-28: Jalen Hurts: 16 of 25 for 153 yards, no TD and 1 interception at CHI, plus 4 rushes for 25 and a 1-yard sneak TD; Andy Dalton threw the other interception on his one attempt. Through three games Hurts has 16 rushes for 87 yards (46, 16, 25) and one rushing TD. [pod 9-29, deployment]
 - 2026-10-04: Jalen Hurts was held under 100 passing yards in the 24-20 loss to LAR without DeVonta Smith (Yahoo, CBS Sports). [pod 10-5, deployment]
+- 2026-10-11: Jalen Hurts 21 of 40 for 220 and a TD in London. [pod 10-13, deployment]
 
 ## Backfield
 

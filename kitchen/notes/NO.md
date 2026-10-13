@@ -41,6 +41,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Tyler Shough: 132 pass attempts through three games (44 a game) for 917 yards; 6 of his touchdown passes have come from inside the 10. He had 3 of the team's 4 turnovers vs LV (an interception and 2 lost fumbles). [pod 9-29, deployment]
 - 2026-09-28: Tyler Shough has 132 attempts and 91 completions, the most among quarterbacks with three games played. [pod 10-2, aggregation]
 - 2026-10-05: Tyler Shough hurt his left hand in the Monday night loss to ATL; no severity reported Tuesday (Yahoo, Heavy). [pod 10-6, beat]
+- 2026-10-12: Kellen Moore would not say whether Tyler Shough's non-throwing left hand is broken (it got banged two weeks ago; he plays in protective layers). [pod 10-13, coach]
 
 ## Backfield
 
@@ -77,6 +78,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Kellen Moore said Alvin Kamara and Kendre Miller will handle the load, with CJ Donaldson finding a specific role; he named no single lead back. [pod 10-2, coach]
 - 2026-10-06: Week 4 vs ATL: Alvin Kamara rushing TDs from 3 and 5 yards in the 45-24 loss (Audacy, Yahoo).
 - 2026-10-11: Alvin Kamara (back) played 5 snaps through three quarters vs MIN, 3 carries for 12; Kendre Miller 10 for 30 and a TD, Donaldson 4 for 13 (PFF recap, saints box).
+- 2026-10-11: vs MIN: Kendre Miller 10-30-1 on 14 snaps (most carries); CJ Donaldson led backs with 19 snaps (42 percent, mostly protection); Alvin Kamara (back) 3-12 on 12 snaps. [pod 10-13, deployment]
 
 ## Receivers
 
@@ -106,6 +108,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Devaughn Vele: Receiver snap shares by week: Vele 91%, 96%, 88%; Chris Olave 86%, 84%, 84%; Bryce Lance 69%, 79%, 72%. [pod 9-30, deployment]
 - 2026-10-05: Chris Olave limped off after a late hit in the fourth quarter of the 45-24 Monday night loss to ATL; Tuesday reports say he avoided a major injury (Yahoo, Heavy, Athlon). [pod 10-6, beat]
 - 2026-10-12: Kellen Moore said Jordyn Tyson (hamstring, IR) will not return to practice this week (NFL.com).
+- 2026-10-11: Chris Olave 4-46 on 6 targets after 15+ PPR points in each of Weeks 1 to 4. [pod 10-13, deployment]
 
 ## Tight ends
 

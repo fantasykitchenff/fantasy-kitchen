@@ -19,6 +19,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-22: Jordan Mason: Minnesota's run game is being retooled toward outside zone, the concept Mason broke out in with San Francisco; he projects as the early-down and goal-line back with Kyler Murray at quarterback. [8-22 10 players we cant stop drafting]
 - 2026-08-24: Kevin O'Connell installed a vertical wide-zone run scheme this offseason modeled on San Francisco's and hired Frank Smith from Miami; he has said the team must commit more to the run game. [8-24 adp adjustments]
 - 2026-09-28: Minnesota is last in the league at 238.3 yards a game with a minus-244 yard margin, the second worst for a 3-0 team; its Week 3 success rate was the lowest of the O'Connell era. [pod 10-1, aggregation]
+- 2026-10-01: Brian Flores' defense blitzes on 71 percent of dropbacks, first in the NFL (CBS charting through Week 4). Tyler Shough went 16 of 25 for 96 and 2 INT against it. [pod 10-13, deployment]
 
 ## Quarterback
 

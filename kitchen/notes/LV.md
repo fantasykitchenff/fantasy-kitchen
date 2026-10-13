@@ -53,6 +53,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Kirk Cousins: 365 passing yards, 2 TD and 1 INT in the 30-27 loss to KC (NBC Sports, RotoWire). [pod 10-5, deployment]
 - 2026-10-06: Kirk Cousins: multiple TD passes in three straight games after 365 yards and 2 TD vs KC (ESPN).
 - 2026-10-11: Week 5 @NE (17-45): Fernando Mendoza debuted in the fourth quarter in relief of Kirk Cousins, 6 of 8 for 48, in a blowout, not a benching; Ashton Jeanty played through the ankle and plantar fasciitis, Raiders 38 rushing yards (NFL.com).
+- 2026-10-11: Kirk Cousins threw multiple TDs in each of Weeks 1 to 4 (3, 3, 3, 2); Week 5 at NE was 19 of 28 for 243 and 1 TD, his lowest-scoring game. Fernando Mendoza ran the final drive (6 of 8 for 48); Kubiak called it exposure. [pod 10-13, deployment]
 
 ## Backfield
 
@@ -86,6 +87,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Mike Washington Jr.: 15 carries for 102 yards (6.8 a carry) through three games; 5 for 54 with a 36-yard touchdown @NO in Week 3. [pod 9-29, deployment]
 - 2026-10-04: Ashton Jeanty's ankle cut into his playing time vs KC (15 for 58, 6 of 8 for 68), and the Las Vegas beat calls the ankle a concern going into Week 5 (Yahoo snap observations, Las Vegas Review-Journal). [pod 10-6, beat]
 - 2026-10-11: Ashton Jeanty: 27% of third-down snaps @NE, down from 70.5% in Weeks 1 to 4, Dylan Laube took third downs; Jeanty 10 carries for 27, 3 catches for 50 (PFF recap, patriots.com box).
+- 2026-10-11: Ashton Jeanty touches by week 29, 25, 22, 21, 13; Week 5 RB opportunities Jeanty 16, Dylan Laube 7, Mike Washington Jr. 2; Jeanty 32 snaps (53 percent). Kubiak said Jeanty is beat up and playing for his teammates. [pod 10-13, deployment]
 
 ## Receivers
 

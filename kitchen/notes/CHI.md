@@ -46,6 +46,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Ben Johnson did not name Tyson Bagent or Case Keenum as the Week 4 starter after Friday's practice. [pod 10-2, coach]
 - 2026-10-05: Week 4 vs NYJ: Tyson Bagent started (Caleb Williams out, hamstring), 25 of 34 for 268, 0 TD, 1 INT (box score reports).
 - 2026-10-11: Week 5 @GB (7-31): Tyson Bagent two INTs, pulled for Case Keenum in the fourth quarter; Chicago hopes Caleb Williams returns in Week 6 (NFL.com).
+- 2026-10-11: Caleb Williams was inactive in Week 5 and was not the emergency QB; he is on track to return when practice resumes Wednesday, but the Thursday Week 7 game gives Chicago a reason to wait a week (Chicago Sun-Times). [pod 10-13, beat]
 
 ## Backfield
 
@@ -116,6 +117,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Rome Odunze: 3 of 6 for 44 on 59 snaps (86%) with a dropped touchdown; he has led the receivers in snaps two straight weeks. [pod 9-29, deployment]
 - 2026-09-28: Kalif Raymond: 214 receiving yards through three games, 71 a game. [pod 9-29, deployment]
 - 2026-09-28: Kalif Raymond: 21 targets through three games (9, 5, 7), 19 catches, 214 yards and 1 touchdown; he leads the Bears in receiving yards. [pod 9-30, deployment]
+- 2026-10-11: Wk5 at GB (7-31): Bagent 12 of 21 for 87 and 2 INT before Keenum relieved him; Rome Odunze 3 of 9 for 40; Luther Burden III 4 of 6 for 47; Kalif Raymond 3 of 4 for 6. [pod 10-13, deployment]
 
 ## Tight ends
 
@@ -140,6 +142,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Colston Loveland: 4 of 4 for 31 yards vs PHI on 22 routes (63%) and 55 snaps (80%); 34 is his season total on 5 catches, which corrects the 9/29 line. Season: 10% target share and 11% targets per route on 71% of the routes. Cole Kmet: 42 snaps, 13 routes, 1 target. [pod 9-29, deployment]
 - 2026-09-28: Colston Loveland: 9 targets, 5 catches and 34 yards through three games (0, 3 and 31 yards by week). [pod 9-30, deployment]
 - 2026-10-04: Colston Loveland led Chicago with 9 targets in Week 4 vs NYJ with Tyson Bagent at quarterback, after 9 targets in Weeks 1 to 3 combined (NBC Sports). [pod 10-8, deployment]
+- 2026-10-11: Colston Loveland 2 of 5 for 19 at GB (6 of 9 for 57 in Week 4). He had no catches in Week 1, when Chicago scored 59 with Williams. [pod 10-13, deployment]
 
 ## Offensive line
 

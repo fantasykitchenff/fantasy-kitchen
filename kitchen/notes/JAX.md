@@ -142,6 +142,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Travis Hunter: Played 5 offensive snaps with no target for a second straight game; 45 defensive snaps (71%) with his first career interception. [pod 9-29, deployment]
 - 2026-09-27: Josh Cameron and Brian Thomas Jr. played 23 snaps each vs NE. [pod 10-1, deployment]
 - 2026-10-11: Parker Washington: 9 targets, a team high, 6 for 124 and 2 TDs vs PHI; Brian Thomas Jr. 3 targets, 0 catches (CBS box).
+- 2026-10-11: Brian Thomas Jr. 0 of 3 vs PHI after 1-8 (Wk3) and 2-17-1 (Wk4). [pod 10-13, deployment]
 
 ## Tight ends
 

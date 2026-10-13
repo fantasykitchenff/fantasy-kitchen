@@ -36,6 +36,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Jayden Daniels: Practiced Thursday in London wearing a brace on his left (non-throwing) elbow; Dan Quinn said the starter will be settled by Friday, and the offensive coordinator called the situation fluid. [pod 10-1, coach]
 - 2026-10-05: Dan Quinn said Washington plans to start Jayden Daniels vs NYG in Week 5 after a full week of practice on the left elbow (Yahoo, CBS Sports). [pod 10-6, coach]
 - 2026-10-11: Jayden Daniels back from the elbow in a brace vs NYG: 17 of 25 for 199, 9 carries for 103 and 2 TDs (Fox box).
+- 2026-10-11: Jayden Daniels played in an elbow brace: 9-103-2 rushing and 17 of 25 for 199, his second career 100-yard rushing game. [pod 10-13, deployment]
 
 ## Backfield
 
@@ -78,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Rachaad White: shoulder, questionable during the game, returned and finished, 30 snaps (43%), 35 rushing yards, a receiving touchdown and a 19-yard run under two minutes. Jacory Croskey-Merritt 39 snaps (57%), 19 for 36 with a 48-yard touchdown wiped out by penalty. [pod 9-29, deployment]
 - 2026-09-27: Jacory Croskey-Merritt: Week 3 vs SEA was 19 carries for 36 (long of 9) plus 1 catch on 1 target for 7, 20 opportunities; season totals 47 carries for 142 and 1 TD. [pod 10-1, deployment]
 - 2026-10-06: Week 4 vs IND (London): Jacory Croskey-Merritt 29 snaps (45%), 9 for 15, 2 for 35; Austin Ekeler 17 snaps (27%), 4 for 29, 1 of 2 for 11 in his first game after signing; Kaytron Allen 12 snaps; Rachaad White inactive (shoulder) (CBS, NBC Sports).
+- 2026-10-11: RB snaps vs NYG: Rachaad White 37 (60 percent, 7-18), Jacory Croskey-Merritt 22 (35 percent, 11-82-1), Austin Ekeler 6 (10 percent). [pod 10-13, deployment]
 
 ## Receivers
 

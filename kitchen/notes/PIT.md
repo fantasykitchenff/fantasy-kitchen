@@ -30,6 +30,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Aaron Rodgers: Aaron Rodgers no longer helps the line as much as he used to. [8-20 Offensive Line Rankings]
 - 2026-09-27: Aaron Rodgers: 19 of 34 for 292 yards, 3 TD, 1 INT vs CIN with completions of 47, 38 and 23 yards; he was 0 for 9 on throws of 20-plus yards in Weeks 1-2, when the offense averaged a league-worst 3.8 yards a play. Week 3: 411 yards on 59 plays (7.0). [pod 9-29, deployment]
 - 2026-10-01: Aaron Rodgers: 22 of 40 for 299, 3 TD, 2 INT and 5 sacks at CLE, after 292 yards and 3 TD in Week 3. [pod 10-2, deployment]
+- 2026-10-11: Aaron Rodgers 22 of 31 for 235 and 3 TDs vs IND, his third straight 3-TD game (about 22 fantasy points each); the 80-yard TD moved him past Peyton Manning to third all-time in TD passes. [pod 10-13, deployment]
 
 ## Backfield
 
@@ -61,6 +62,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @CLE (Thu): Jaylen Warren 69 of 71 snaps, 17 for 93, 3 of 6 for 33, routes on 87% of pass plays (NBC, CBS).
 - 2026-10-07: Rico Dowdle: expected back from the toe; the coach calls the backfield with Jaylen Warren a one-two punch after Warren played 69 of 71 snaps at CLE. [pod 10-7, coach]
 - 2026-10-11: Jaylen Warren: 15 carries for 101 and a TD, 6 catches for 87 and a TD vs IND; Rico Dowdle missed a third straight game (colts.com box, PFF recap).
+- 2026-10-11: Jaylen Warren 15-101-1 (a 50-yard TD run) and 6-87-1 (an 80-yard TD catch) on 87 percent of snaps, the RB2 of the week; 490 scrimmage yards over Weeks 3 to 5. Rico Dowdle (toe) was inactive for a third straight game. [pod 10-13, deployment]
 
 ## Receivers
 
@@ -88,6 +90,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Roman Wilson: 3 catches for 74 and a 12-yard TD on 6 targets at CLE, on only 30% of the snaps and 40% of the routes. [pod 10-2, deployment]
 - 2026-10-01: Michael Pittman Jr.: 2 catches for 15 on 4 targets at CLE, 60% of the routes; a national report has him managing a plantar fascia flare-up. [pod 10-2, deployment]
 - 2026-10-12: Mike McCarthy ruled Roman Wilson (finger) and Ben Skowronek (calf) out for Week 6 vs TB; Jeremy Fowler reports Wilson misses multiple weeks (NFL.com).
+- 2026-10-11: Germie Bernard 6 of 9 for 80 (team-high targets), a 94 percent route rate and 92 percent of snaps. DK Metcalf 3-12 on 4 targets (his fumble was recovered by PIT). Pat Freiermuth 5-44-2 on 7, 4 TDs on the season. [pod 10-13, deployment]
 
 ## Tight ends
 

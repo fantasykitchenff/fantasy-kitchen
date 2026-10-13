@@ -34,6 +34,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Justin Herbert: Averaged 22.6 fantasy points, 8.2 yards per attempt and a 6.8% TD rate in four 2025 games with Joe Alt at 50%+ snaps versus 18.6 points, 7.0 YPA and 4.5% in the other 12 games. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-21: Justin Herbert: Chargers are among the AFC title favorites; the run game, defense and Hampton are seen as the drivers, with Herbert a good QB in a good offense. [8-21 mayhem mock draft]
 - 2026-09-27: Justin Herbert: 52 of 88 (59.1%) for 627 yards, 3 TD and 4 INT through three games, sacked 8 times (3, 3, 2); attempts 27, 27, 34. [pod 9-30, deployment]
+- 2026-10-11: Justin Herbert 14 of 24 for 121, 1 TD, 1 INT, sacked 5 times, 6 runs for 54 and a lost fumble. He has not reached 15 fantasy points in any of five games. LAC is 0-5. [pod 10-13, deployment]
 
 ## Backfield
 
@@ -80,6 +81,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Omarion Hampton had 25 touches for 115 yards in Week 2, then 15 carries for 56 and no catch in Week 3. [pod 10-2, deployment]
 - 2026-10-05: Week 4 @SEA: Keaton Mitchell 10 for 39 and 5 catches for 24; Omarion Hampton 9 for 41 and a TD; Kimani Vidal 5 for 25 and a receiving TD. Ladd McConkey 0 of 2 before leaving with the foot (Rotowire, NBC).
 - 2026-10-11: Omarion Hampton 14 carries for 33, Kimani Vidal 8 for 57 and a TD, Keaton Mitchell 6 for 11 and 3 catches vs DEN (Fox box).
+- 2026-10-11: Week 5 snaps vs DEN: Kimani Vidal 28 (42 percent, 8-57-1), Keaton Mitchell 23 (34), Omarion Hampton 20 (30, 14-33). Vidal's snap share by week: 7, 10, 25, 35, 42 percent. Snap leader by week: Hampton Weeks 1 and 2, Mitchell Weeks 3 and 4, Vidal Week 5. [pod 10-13, deployment]
 
 ## Receivers
 
@@ -115,6 +117,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Tre' Harris: 7 of 33 team targets (21%), 6 for 76, routes on 27 of 43 dropbacks; Quentin Johnston 3 of 6 for 40 on 37 of 43 dropbacks; Ladd McConkey 4 for 66 on 5 targets as a full participant after the rib injury. [pod 9-29, deployment]
 - 2026-09-27: Johnston / Harris / McConkey: Snap share by week: Johnston 78%, 81%, 87% (60 snaps, a season high); Harris 75%, 82%, 58%; McConkey 49%, 46%, 88% (61). Season targets Johnston 17 (6-64-0, 35.3% caught), Harris 16 (10-149-0, 9.3 a target), McConkey 15 (12-183-1). [pod 9-29, deployment]
 - 2026-09-27: Tre Harris: 6 catches for 76 on 7 targets in Week 3; he has led the Chargers in receiving yards two straight games. [pod 10-2, deployment]
+- 2026-10-11: Ladd McConkey (foot) was active but played 0 snaps. Tre' Harris hurt his hamstring in the third quarter (2-16 on 4 targets). MVS led the receivers with 50 of 67 snaps, Theo Wease 43. Targets: backs 7, Charlie Kolar 4, Harris 4, MVS 3, Oronde Gadsden II 1. [pod 10-13, deployment]
 
 ## Tight ends
 
@@ -158,6 +161,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: The Chargers' new free-agent center was injured in camp, but tackles Joe Alt and Rashawn Slater are both back after neither played in 2025. [8-26 myguys episode]
 - 2026-09-24: Awosika / Pipkins / Strange / Slater: Before Week 3: LG Kayode Awosika in a walking boot and expected to miss time, Trey Pipkins not practicing since Week 1, RG Cole Strange limited, LT Rashawn Slater limited and on the report for the first time. The 9/29 depth chart lists Slater, Awosika, rookie Jake Slaughter, Strange and Joe Alt. [pod 9-30, beat]
 - 2026-10-05: Rashawn Slater: believed to have a high-ankle sprain from Week 4 at SEA and will miss time; Joe Alt also left that game with a neck injury (NBC Sports, National Football Post). [pod 10-5, beat]
+- 2026-10-11: The five who played vs DEN: Slaughter, Strange, Burke, Taylor, Harkey; Cole Strange is the only lineman left from the late-September depth chart (Slater IR, Alt neck). [pod 10-13, deployment]
 
 ## Transactions and contracts
 

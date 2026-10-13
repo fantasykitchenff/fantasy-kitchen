@@ -125,3 +125,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Defense allowed the most fantasy points to quarterbacks through two weeks: both opposing quarterbacks threw three touchdowns and combined for 700-plus passing yards (reports).
 - 2026-09-27: Lions defense: Allowed Geno Smith 31 of 37 for 321 yards and 3 TD in Week 3 while recording 5 sacks; 28th in defensive DVOA through Week 2 (run defense 31st, pass defense 19th). [pod 9-29, deployment]
 - 2026-09-28: Detroit's defense has allowed the most fantasy points to quarterbacks and tight ends through Week 3. [pod 10-2, aggregation]
+- 2026-10-11: Detroit set franchise records for points and TDs through a season's first five games; Gibbs 25-151-2 and 5-56; Goff 19 of 30, 271, 3 TD plus a rushing TD. Bye in Week 6, then GB and MIN at home. [pod 10-13, deployment]

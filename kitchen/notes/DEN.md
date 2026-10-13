@@ -37,6 +37,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Bo Nix: Nix had offseason ankle surgery but looked healthy in the Aug. 22 weekend preseason game, connecting with Jaylen Waddle; he finished QB7 as a rookie and QB6 in 2025 while leading the NFL in pass attempts. [8-24 adp adjustments]
 - 2026-09-27: Bo Nix: 17 of 33, 186, 2 TD, 1 INT in the 30-26 win over LAR. [pod 9-28, deployment]
 - 2026-09-27: Bo Nix: 12 carries for 15 yards through three games (3-2, 5-6, 4-7) with one rushing touchdown, the 1-yard winner with 47 seconds left vs LAR. Passing 56 of 93 for 605, 4 TD, 3 INT. [pod 9-29, deployment]
+- 2026-10-11: Bo Nix 16 of 27 for 123 and a TD; under 15 fantasy points in four of five games. Week 6 is Thursday night vs SEA. [pod 10-13, deployment]
 
 ## Backfield
 
@@ -90,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @SF: RJ Harvey 10 catches for 68 (career highs), 7 for 25; J.K. Dobbins 11 for 40 on 42.2% of the snaps (NBC, DraftSharks).
 - 2026-10-06: J.K. Dobbins: 46 carries for 161 (3.5 a carry) in four games; snap share 52% in Week 3, 42% in Week 4 (season totals from weekly reports).
 - 2026-10-11: J.K. Dobbins 18 carries for 68 and a TD @LAC; RJ Harvey 3 for 7, 1 target, no catches (Fox box).
+- 2026-10-11: Wk5 at LAC: J.K. Dobbins 18 carries for 68 and a TD plus 2 catches for 6 (18 of the 22 RB carries). RJ Harvey 3 carries and 0 of 1 after 10 of 10 for 68 and 7 carries in Week 4. [pod 10-13, deployment]
 
 ## Receivers
 
@@ -144,6 +146,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Sutton / Waddle / Bryant / Engram: Week 3 routes on 34 dropbacks: Sutton 32 (94%), Waddle 28 (82%), Bryant 25 (74%), Engram 24 (71%); Engram 34 snaps (57%), 2 targets, 0 yards. [pod 9-30, deployment]
 - 2026-09-27: Jaylen Waddle: 1 catch for 2 yards in Week 1 and 2 for 10 on 7 targets in Week 3. [pod 10-2, deployment]
 - 2026-10-06: Pat Bryant: sprained ankle from Week 4 @SF, high-ankle suspected, expected to miss a few weeks (ESPN via PFT, Mile High Report).
+- 2026-10-11: Jaylen Waddle 2 of 5 for 19; outside Week 2 he has 10 catches for 66 and a TD in four games (2, 10, 35, 19 yards). Troy Franklin 2 of 2 for 16 with Pat Bryant on IR. [pod 10-13, deployment]
 
 ## Tight ends
 

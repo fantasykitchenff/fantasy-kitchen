@@ -71,6 +71,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-06: Seattle decided not to sign Joe Mixon to the practice squad after his physical and will sign Robert Henry Jr. instead (NFL.com, Schefter report).
 - 2026-10-11: Emanuel Wilson: 20 carries for 61 and a TD vs SF; Holani 4 for 7 and 4 catches (Fox box).
 - 2026-10-12: Mike Macdonald said Zach Charbonnet (knee, still on PUP) is not expected to play Thursday vs DEN (NFL.com).
+- 2026-10-04: Jadarian Price: an upper-rib injury plus a minor shoulder issue, not season-ending (Schneider), at least four weeks. [pod 10-13, beat]
+- 2026-10-11: Emanuel Wilson lost a fumble vs SF; George Holani fumbled twice (one lost). [pod 10-13, deployment]
 
 ## Receivers
 

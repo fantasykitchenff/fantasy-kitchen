@@ -88,6 +88,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Garrett Wilson: 10 of 13 for 107 and a 23-yard touchdown @DET, 13 of 37 team targets (35%); season 21 catches for 243 yards and 2 touchdowns. Wilson and Kenyon Sadiq together drew 21 of 37 targets (57%), 212 of 321 passing yards and 2 of the 3 touchdowns. [pod 9-29, deployment]
 - 2026-09-27: New York Jets: With Mitchell inactive at DET, Isaiah Williams was a full-time starter (2 targets, 1 for 21), practice-squad call-up Sterling Shepard was the main third receiver (1 for 3) and Malik McClain rotated in. Jeremy Ruckert caught all 5 of his targets for 39 and a touchdown. [pod 9-29, deployment]
 - 2026-09-20: Adonai Mitchell: 15 targets in Weeks 1 and 2 (3, then 12 vs GB), 9 catches for 123, before the finger injury kept him out of Week 3. [pod 9-30, deployment]
+- 2026-10-11: Tim Patrick was activated from IR before Week 5 (not re-signed). Omar Cooper Jr. is eligible to return from IR Oct 18. [pod 10-13, official]
 
 ## Tight ends
 

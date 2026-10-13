@@ -51,6 +51,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jacoby Brissett started (38 of 52, 280, 2 TD); Kyler Murray plays for Minnesota in 2026. [pod 9-28, deployment]
 - 2026-09-27: Jacoby Brissett: 54 dropbacks @SF (52 attempts, 2 sacks) on 87 offensive snaps, the team's most since 2022; 38 of 52 for 280 and 2 TD. [pod 9-29, deployment]
 - 2026-10-04: Jacoby Brissett: 21 of 35 for 166, 2 TD and 3 INT in the 36-24 loss at NYG, the last a 98-yard pick-six on the final play; first two picks were tipped at the line. Mike LaFleur said no when asked about a benching; Brissett starts Week 5 vs DET. [pod 10-5, coach]
+- 2026-10-11: Jacoby Brissett 29 of 47 for 292, 3 TD, 1 INT vs DET. [pod 10-13, deployment]
 
 ## Backfield
 
@@ -90,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jeremiyah Love had 78% of the rushes and 63% of the snaps vs SF (21 carries, 22 routes, 5 targets); Tyler Allgeier had 5 carries on 31 snaps. [pod 10-1, deployment]
 - 2026-10-04: Jeremiyah Love said after the NYG loss that the coaches are managing his workload and that he told them Tyler Allgeier and Bam Knight should play; he called it the longest year of his life (NBC Sports, Yahoo). [pod 10-5, coach]
 - 2026-10-11: Jeremiyah Love: 12 carries for 22, 1 target vs DET; Tyler Allgeier kept the passing downs, 3 carries for 7 (Fox box, PFF recap).
+- 2026-10-11: Jeremiyah Love 12 carries for 22 vs DET; his carries went 21, 14, 12 over Weeks 3 to 5 (down two straight weeks). Tyler Allgeier 3-7 and 2-9. [pod 10-13, deployment]
 
 ## Receivers
 
@@ -125,6 +127,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: The "quality Day 3 pick" trade value for Marvin Harrison Jr. was one rival team's forecast in a national report, not Arizona's asking price. [pod 10-2, beat]
 - 2026-10-05: Week 4 @NYG: Michael Wilson 7 of 13 for 95, 30 targets in two games; Trey McBride 7 of 12 for 31; Jeremiyah Love 14 for 63, Tyler Allgeier 8 for 42 and a TD (NBC, CBS).
 - 2026-10-06: Michael Wilson: 44 targets in four games (7, 7, 17, 13), 30 in Weeks 3 and 4; Marvin Harrison Jr. 9 targets in Weeks 1 to 3 (season totals from weekly reports).
+- 2026-10-11: Wk5 vs DET (21-45): Kendrick Bourne 5 of 8 for 70 (team-high yards); Michael Wilson 4 of 7 for 30; Jalen Brooks 2 of 7 for 16; Reggie Virgil 2 of 5 for 29. Wilson has 51 targets in five games (10.2 a game), tied with CeeDee Lamb. [pod 10-13, deployment]
 
 ## Tight ends
 
@@ -146,6 +149,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Trey McBride: 9 of 11 for 75 @SF on 79 snaps (91%); 34 targets, 26 catches, 211 yards and 2 TD through three games, the team lead in targets, with at least 8 catches and 10 targets in every game. [pod 9-29, deployment]
 - 2026-10-04: Trey McBride: 7 of 12 for 31 at NYG, his fourth straight game with 10 or more targets. [pod 10-5, deployment]
 - 2026-10-06: Trey McBride: 46 targets in four games, 10 or more in every game, 2 TD (season totals from weekly reports).
+- 2026-10-11: Wk5 vs DET: Teagan Quitoriano 2 of 2 for 15 and 2 TDs; Elijah Higgins 3 of 3 for 57; Trey McBride 9 of 10 for 66 and a TD. [pod 10-13, deployment]
 
 ## Offensive line
 
@@ -204,3 +208,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-09: Jeremiyah Love: LP/LP/FP on the ankle, no designation vs DET (azcardinals.com Friday report).
 - 2026-10-10: Marvin Harrison Jr.: Arizona is finalizing a trade, per ESPN and NFL Network; he is inactive vs DET in Week 5 and no deal is announced before Sunday's games; Houston named as interested. 5 catches for 85 in four games. (nfl.com, ESPN)
 - 2026-10-13: Kendrick Bourne: 5 of 8 targets for 70 vs DET in Week 5 with Harrison inactive; 2% rostered (NFL.com waiver column).
+- 2026-10-13: Schedule: Wk6 at LAR, Wk7 vs DEN, Wk8 at DAL. [pod 10-13, official]
