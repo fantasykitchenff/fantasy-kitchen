@@ -14,7 +14,7 @@
       "services": [
         {
           "series": "leftovers",
-          "time": "10:25 AM"
+          "time": "11:00 AM"
         }
       ]
     },
@@ -23,15 +23,15 @@
       "services": [
         {
           "series": "market",
-          "time": "10:25 AM"
+          "time": "11:00 AM"
         },
         {
           "series": "butcher",
-          "time": "1:25 PM"
+          "time": "2:00 PM"
         },
         {
           "series": "heat",
-          "time": "1:25 PM"
+          "time": "2:00 PM"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "services": [
         {
           "series": "menu",
-          "time": "10:25 AM"
+          "time": "11:00 AM"
         }
       ]
     },
@@ -49,7 +49,7 @@
       "services": [
         {
           "series": "line",
-          "time": "10:25 AM"
+          "time": "11:00 AM"
         }
       ]
     },
@@ -58,7 +58,7 @@
       "services": [
         {
           "series": "prep",
-          "time": "6:25 PM"
+          "time": "5:00 PM"
         }
       ]
     },

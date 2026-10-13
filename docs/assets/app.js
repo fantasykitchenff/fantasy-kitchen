@@ -969,4 +969,15 @@
     wire();
   }
   boot();
+
+  /* A page left open on a phone keeps the moment it loaded: the week, "Today" and every served or next state come
+     from NOW, read once. When the page comes back after ten minutes away (another app, a sleeping phone, the
+     back-forward cache), load it again so it shows the day it is. ?now= and the sample preview are left alone. */
+  const STALE_MS = 10 * 60e3;
+  let hiddenAt = 0;
+  const away = () => { hiddenAt = Date.now(); };
+  const back = () => { if (!SAMPLE && !params.get("now") && hiddenAt && Date.now() - hiddenAt > STALE_MS) location.reload(); };
+  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden") away(); else back(); });
+  addEventListener("pagehide", away);
+  addEventListener("pageshow", e => { if (e.persisted) back(); });
 })();
