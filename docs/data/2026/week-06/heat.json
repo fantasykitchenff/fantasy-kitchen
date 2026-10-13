@@ -1,0 +1,295 @@
+{
+  "series": "heat",
+  "season": 2026,
+  "week": 6,
+  "title": "Heat Check, Week 6",
+  "dek": "Kimani Vidal's snap share has climbed five straight weeks. The stove's on in Los Angeles.",
+  "format": "PPR",
+  "publishedAt": "2026-10-13T16:59:00Z",
+  "updatedAt": "2026-10-13T16:59:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Heat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, lineup calls are this week's Menu rank, other ranks are rest of season for me, and the scoring is PPR.",
+  "outro_md": "Butcher Shop turns these trends into trade offers, and the Menu has every one of them ranked for Week 6.",
+  "data": {
+    "risers": [
+      {
+        "player": "Kimani Vidal",
+        "team": "LAC",
+        "pos": "RB",
+        "stat": "Snap share 7%, 10%, 25%, 35%, 42%",
+        "why": "Kimani Vidal (LAC) led the Chargers' backs with 28 snaps vs DEN and ran 8 times for 57 and a TD, while Omarion Hampton played 30 percent. His snap share has climbed five straight weeks.",
+        "verdict": "RB61 rest of season for me, a deep-league add. Add him, 1 to 3 percent of FAAB.",
+        "action": "ADD",
+        "faab": "1-3%"
+      },
+      {
+        "player": "Rhamondre Stevenson",
+        "team": "NE",
+        "pos": "RB",
+        "stat": "Snap share 52% to 67% to 71%",
+        "why": "Rhamondre Stevenson (NE) played 71 percent of the snaps vs LV, ran 13 times for 64 and a TD and caught 3 for 21. TreVeyon Henderson will miss multiple weeks with a high ankle sprain.",
+        "verdict": "RB14 for me vs NYJ, borderline RB1/RB2 this week.",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "player": "Bhayshul Tuten",
+        "team": "JAX",
+        "pos": "RB",
+        "stat": "Early-down snaps 71% to 87.5%; 22 carries",
+        "why": "Bhayshul Tuten (JAX) ran a career-high 22 times vs PHI and played 87.5 percent of the early downs, up from 71 percent. Chris Rodriguez Jr. is now the handcuff and LeQuint Allen Jr. keeps third downs.",
+        "verdict": "RB18 rest of season for me. Trade for him; offer a WR3 and a bench back.",
+        "action": "TRADE_FOR",
+        "price": "a WR3 and a bench back"
+      },
+      {
+        "player": "Malik Nabers",
+        "team": "NYG",
+        "pos": "WR",
+        "stat": "20 targets on 90% of snaps in Week 5",
+        "why": "Malik Nabers (NYG) drew 20 targets @WAS and caught 11 for 121 and a TD. Jameis Winston threw 54 times and went to Nabers on more than a third of them.",
+        "verdict": "WR7 for me vs NO this week.",
+        "action": "START",
+        "slot": "WR1"
+      },
+      {
+        "player": "Isaiah Likely",
+        "team": "NYG",
+        "pos": "TE",
+        "stat": "Snap share 49%, 69%, 84%; 13 targets in Week 5",
+        "why": "Isaiah Likely (NYG) caught 11 of 13 for 94 and 2 TDs @WAS, the top tight end score of the week. His snap share climbed every week through Week 3, and Winston has made him the No. 2 target.",
+        "verdict": "TE4 for me vs NO this week.",
+        "action": "START",
+        "slot": "TE1"
+      },
+      {
+        "player": "Woody Marks",
+        "team": "HOU",
+        "pos": "RB",
+        "stat": "Snaps 20, 20, then 56 of 65",
+        "why": "Woody Marks (HOU) played 47 of the 48 snaps after David Montgomery left @TEN, ran 15 times for 62 and caught 4 of 4. Montgomery is week to week with the groin.",
+        "verdict": "RB19 for me @JAX this week, an RB2. Claim him, 15 to 25 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "15-25%"
+      },
+      {
+        "player": "Germie Bernard",
+        "team": "PIT",
+        "pos": "WR",
+        "stat": "Snaps 17 in Week 3 to 92% in Week 5",
+        "why": "Germie Bernard (PIT) drew a team-high 9 targets vs IND and caught 6 for 80, with a route on 94 percent of the dropbacks. Michael Pittman Jr. is on IR and Roman Wilson is out multiple weeks.",
+        "verdict": "WR33 for me @TB, a low-end WR3. Claim him, 3 to 6 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "3-6%"
+      },
+      {
+        "player": "Brenton Strange",
+        "team": "JAX",
+        "pos": "TE",
+        "stat": "Targets 5, 8, 8; 26.2% share over two weeks",
+        "why": "Brenton Strange (JAX) caught 14 of 16 targets for 163 over Weeks 4 and 5, a 26.2 percent target share. He led Jacksonville with 8 targets @CIN.",
+        "verdict": "TE17 for me vs HOU, a streamer. Claim him, 2 to 4 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "2-4%"
+      },
+      {
+        "player": "Tyjae Spears",
+        "team": "TEN",
+        "pos": "RB",
+        "stat": "Snap share 46% to over 50%; 9 catches",
+        "why": "Tyjae Spears (TEN) out-snapped Tony Pollard 34 to 30 vs HOU and caught 9 of 9 targets. It was his first game over half the snaps this season.",
+        "verdict": "RB38 for me @IND, a low-end flex play to a dart throw. Add him, 1 to 3 percent of FAAB.",
+        "action": "ADD",
+        "faab": "1-3%"
+      },
+      {
+        "player": "Puka Nacua",
+        "team": "LAR",
+        "pos": "WR",
+        "stat": "Targets 9, then 24",
+        "why": "Puka Nacua (LAR) caught 17 of 24 targets for 138 and a TD vs BUF, a week after 9 for 125 in his first game since Week 1. Matthew Stafford threw 54 times and Nacua took 44 percent of the targets.",
+        "verdict": "First among receivers for me vs ARI this week.",
+        "action": "START",
+        "slot": "WR1"
+      },
+      {
+        "player": "J.K. Dobbins",
+        "team": "DEN",
+        "pos": "RB",
+        "stat": "Carries 17, 11, 18; 18 of 22 RB carries in Week 5",
+        "why": "J.K. Dobbins (DEN) took 18 of the 22 running back carries @LAC for 68 and a TD. RJ Harvey had 3 carries and 1 target a week after catching 10.",
+        "verdict": "RB27 for me vs SEA, a high-end RB3, a high-end flex play.",
+        "action": "START",
+        "slot": "FLEX"
+      },
+      {
+        "player": "Aaron Jones Sr.",
+        "team": "MIN",
+        "pos": "RB",
+        "stat": "Snap share 80% to 87%, a season high",
+        "why": "Aaron Jones Sr. (MIN) played 87 percent of the snaps @NO and ran 25 times for 113 and a TD. Jordan Mason cannot come off IR until Week 7.",
+        "verdict": "RB32 rest of season for me. Trade for him during the bye; offer a bench RB.",
+        "action": "TRADE_FOR",
+        "price": "a bench RB"
+      },
+      {
+        "player": "Kendrick Bourne",
+        "team": "ARI",
+        "pos": "WR",
+        "stat": "Snaps 55% in Week 3; team-high 70 yards in Week 5",
+        "why": "Kendrick Bourne (ARI) caught 5 of 8 for 70 vs DET with Marvin Harrison Jr. inactive, and Harrison is now in Houston. Bourne is the No. 2 receiver next to Michael Wilson.",
+        "verdict": "WR39 for me @LAR, a low-end flex play to a dart throw. Add him, 1 to 3 percent of FAAB.",
+        "action": "ADD",
+        "faab": "1-3%"
+      },
+      {
+        "player": "Tyler Warren",
+        "team": "IND",
+        "pos": "TE",
+        "stat": "10 targets in Week 3, 9 in Week 5, plus a goal-line carry",
+        "why": "Tyler Warren (IND) caught 7 of 9 for 83 @PIT, tied for the team lead in targets, and scored on a 1-yard run. He is the target leader with Alec Pierce on IR.",
+        "verdict": "TE5 for me vs TEN this week.",
+        "action": "START",
+        "slot": "TE1"
+      }
+    ],
+    "fallers": [
+      {
+        "player": "Omarion Hampton",
+        "team": "LAC",
+        "pos": "RB",
+        "stat": "Snap share 58%, 63%, 42%, then 30%",
+        "why": "Omarion Hampton (LAC) played 30 percent of the snaps vs DEN, third of three backs, though his 14 carries went for 33. He has 3 targets all season behind a line missing Rashawn Slater and Joe Alt.",
+        "verdict": "RB14 rest of season for me. Monitor; his snap share @KC Sunday.",
+        "action": "MONITOR",
+        "watch": "his snap share @KC Sunday"
+      },
+      {
+        "player": "Ashton Jeanty",
+        "team": "LV",
+        "pos": "RB",
+        "stat": "Touches 29, 25, 22, 21, 13",
+        "why": "Ashton Jeanty (LV) played 53 percent of the snaps @NE and 27 percent of the third downs, down from 70.5 percent in Weeks 1 to 4, as Dylan Laube took 7 opportunities. Klint Kubiak said Jeanty is beat up.",
+        "verdict": "RB8 rest of season for me. Monitor; Wednesday's injury report.",
+        "action": "MONITOR",
+        "watch": "Wednesday's injury report"
+      },
+      {
+        "player": "RJ Harvey",
+        "team": "DEN",
+        "pos": "RB",
+        "stat": "Targets 10 to 1",
+        "why": "RJ Harvey (DEN) had 3 carries and 1 target @LAC, a week after catching 10 of 10. J.K. Dobbins took 18 of the 22 running back carries.",
+        "verdict": "RB33 rest of season for me. Monitor; Thursday night's snap split vs SEA.",
+        "action": "MONITOR",
+        "watch": "Thursday night's snap split vs SEA"
+      },
+      {
+        "player": "Jeremiyah Love",
+        "team": "ARI",
+        "pos": "RB",
+        "stat": "Carries 21, 14, 12",
+        "why": "Jeremiyah Love (ARI) ran 12 times for 22 with 1 target vs DET, and Tyler Allgeier kept the passing downs. Arizona also lost left tackle Paris Johnson Jr. for the season.",
+        "verdict": "RB15 rest of season for me. Monitor; his carries @LAR Sunday.",
+        "action": "MONITOR",
+        "watch": "his carries @LAR Sunday"
+      },
+      {
+        "player": "Tony Pollard",
+        "team": "TEN",
+        "pos": "RB",
+        "stat": "Out-snapped 34 to 30 by Spears",
+        "why": "Tony Pollard (TEN) played fewer snaps than Tyjae Spears vs HOU for the first time this season and ran 14 times for 52. Spears caught all 9 of his targets.",
+        "verdict": "RB30 rest of season for me. Trade him away; ask for a WR3.",
+        "action": "TRADE_AWAY",
+        "price": "a WR3"
+      },
+      {
+        "player": "Brian Thomas Jr.",
+        "team": "JAX",
+        "pos": "WR",
+        "stat": "Targets 3, 9, 1, then 0 catches on 3",
+        "why": "Brian Thomas Jr. (JAX) caught none of his 3 targets vs PHI while Parker Washington drew 9. He leaves the field in 12 personnel.",
+        "verdict": "WR42 rest of season for me. Trade him away; ask for a WR3.",
+        "action": "TRADE_AWAY",
+        "price": "a WR3"
+      },
+      {
+        "player": "Jaylen Waddle",
+        "team": "DEN",
+        "pos": "WR",
+        "stat": "10 catches for 66 yards in four games outside Week 2",
+        "why": "Jaylen Waddle (DEN) drew 7 targets in Week 3 and caught 2 for 10. Courtland Sutton ran a route on 94 percent of the dropbacks that week to Waddle's 82.",
+        "verdict": "WR15 rest of season for me. Trade him away; ask for a WR3 who gets targets.",
+        "action": "TRADE_AWAY",
+        "price": "a WR3 who gets targets"
+      },
+      {
+        "player": "Davante Adams",
+        "team": "LAR",
+        "pos": "WR",
+        "stat": "Targets 13 without Nacua, 7 with him back",
+        "why": "Davante Adams (LAR) drew 7 targets vs BUF while Puka Nacua drew 24. Adams scored twice, and that is what is holding up his price.",
+        "verdict": "WR25 rest of season for me. Trade him away; ask for a WR2.",
+        "action": "TRADE_AWAY",
+        "price": "a WR2"
+      },
+      {
+        "player": "Jaylen Wright",
+        "team": "MIA",
+        "pos": "RB",
+        "stat": "Out-snapped 65 to 21 over two games",
+        "why": "Jaylen Wright (MIA) ran 6 times for 11 vs CIN while Ollie Gordon II played 43 snaps and ran 18 times. Gordon has 27 carries to Wright's 11 over Weeks 4 and 5.",
+        "verdict": "RB57 rest of season for me. Drop him for any add on the list.",
+        "action": "DROP"
+      },
+      {
+        "player": "Keon Coleman",
+        "team": "BUF",
+        "pos": "WR",
+        "stat": "46 of 59 snaps in Week 4, 2 targets in Week 5",
+        "why": "Keon Coleman (BUF) caught 1 of 2 targets @LAR with DJ Moore out, a week after 6 of 7 for 116. Khalil Shakir and Ty Johnson took the volume Monday.",
+        "verdict": "WR83 rest of season for me. Drop him for any add on the list.",
+        "action": "DROP"
+      },
+      {
+        "player": "Alvin Kamara",
+        "team": "NO",
+        "pos": "RB",
+        "stat": "Snaps 29%, 32%, then 12 snaps",
+        "why": "Alvin Kamara (NO) played 12 snaps vs MIN with a back injury and ran 3 times for 12. Kendre Miller led New Orleans with 10 carries.",
+        "verdict": "RB45 rest of season for me. Monitor; Wednesday's injury report.",
+        "action": "MONITOR",
+        "watch": "Wednesday's injury report"
+      },
+      {
+        "player": "Tyler Higbee",
+        "team": "LAR",
+        "pos": "TE",
+        "stat": "Targets 11 in Week 3, 6 in Week 5",
+        "why": "Tyler Higbee (LAR) caught 5 of 6 for 83 vs BUF, but his volume fell once Puka Nacua came back. Terrance Ferguson has been out with the ankle since Week 3.",
+        "verdict": "TE38 rest of season for me. Monitor; Terrance Ferguson's practice reports this week.",
+        "action": "MONITOR",
+        "watch": "Terrance Ferguson's practice reports this week"
+      },
+      {
+        "player": "Justin Herbert",
+        "team": "LAC",
+        "pos": "QB",
+        "stat": "One starting lineman left from September",
+        "why": "Justin Herbert (LAC) threw for 121 yards vs DEN and has no 15-point game in five tries. Rashawn Slater is on IR and Joe Alt is hurt.",
+        "verdict": "QB16 rest of season for me. Trade him away; ask for a bench WR and a streaming QB.",
+        "action": "TRADE_AWAY",
+        "price": "a bench WR and a streaming QB"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w06-heat-thread-553f",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}
