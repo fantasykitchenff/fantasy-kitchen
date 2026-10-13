@@ -6,9 +6,9 @@
   "dek": "Chase Brown is on bye with 22 carries for 49 in two weeks. That is the prime cut to buy.",
   "format": "PPR",
   "publishedAt": "2026-10-13T16:59:00Z",
-  "updatedAt": "2026-10-13T16:59:00Z",
+  "updatedAt": "2026-10-13T22:10:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Week 5 handed out touchdowns to backs who will lose their jobs and quiet days to players whose roles did not move. The buys are good usage with a lagging box score or a short injury scare; the sells scored on volume that is about to leave. Ranks are rest of season for me, PPR scoring, prices written for 12-team leagues.",
+  "intro_md": "Updated Tue 6:10 PM ET: Jaylen Warren comes off the sell list. Mike McCarthy called him Pittsburgh's featured player Monday and said his role will not change with Rico Dowdle getting healthy; hold him at RB23 rest of season for me.\n\nWeek 5 handed out touchdowns to backs who will lose their jobs and quiet days to players whose roles did not move. The buys are good usage with a lagging box score or a short injury scare; the sells scored on volume that is about to leave. Ranks are rest of season for me, PPR scoring, prices written for 12-team leagues.",
   "outro_md": "Heat Check has the usage trends behind these calls, and the Menu ranks every one of them for Week 6.",
   "data": {
     "buy": [
@@ -131,15 +131,6 @@
       }
     ],
     "sell": [
-      {
-        "player": "Jaylen Warren",
-        "team": "PIT",
-        "pos": "RB",
-        "action": "TRADE_AWAY",
-        "price": "an RB2",
-        "why": "Jaylen Warren (PIT) played 87 percent of the snaps vs IND and has 490 scrimmage yards over three weeks, all with Rico Dowdle (toe) inactive. Dowdle is expected back, and that snap share does not survive his return.",
-        "verdict": "RB23 rest of season for me. Trade him away now; ask for an RB2."
-      },
       {
         "player": "Braelon Allen",
         "team": "NYJ",

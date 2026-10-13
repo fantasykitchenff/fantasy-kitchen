@@ -6,12 +6,47 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-13T16:30:00Z",
+  "updatedAt": "2026-10-13T22:10:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-13T22:10:00Z",
+        "player": "Jaylen Warren",
+        "action": "HOLD",
+        "text": "Mike McCarthy said Monday that Jaylen Warren (PIT) is \"our featured player right now\" and that his role will not change with Rico Dowdle (toe) getting healthy. Warren had 21 touches and 188 scrimmage yards in Week 5 and is RB8 for me this week @TB. He is RB23 rest of season for me, so the sell-before-Dowdle window is gone. Hold him; a near-even snap split in Dowdle's first active game would reopen the sell.",
+        "why": "A near-even snap split with Rico Dowdle in his first active game would reopen the sell.",
+        "team": "PIT",
+        "pos": "RB"
+      },
+      {
+        "at": "2026-10-13T22:10:00Z",
+        "player": "Rhamondre Stevenson",
+        "action": "START",
+        "slot": "RB2",
+        "text": "Rhamondre Stevenson (NE) played 83 percent of the snaps vs LV after TreVeyon Henderson left with the high ankle sprain, 71 percent for the game, and Henderson is out multiple weeks. Stevenson is RB14 for me vs NYJ, borderline RB1/RB2 this week.",
+        "team": "NE",
+        "pos": "RB"
+      },
+      {
+        "at": "2026-10-13T22:10:00Z",
+        "player": "J.K. Dobbins",
+        "action": "FLEX",
+        "text": "Sean Payton took Denver's play-calling back from Davis Webb starting Week 5 @LAC and said he wants more balance in the run game. J.K. Dobbins (DEN) ran 18 times for 68 and a TD in that first game. Dobbins is RB27 for me vs SEA, a high-end RB3, a high-end flex play.",
+        "team": "DEN",
+        "pos": "RB"
+      },
+      {
+        "at": "2026-10-13T22:10:00Z",
+        "player": "Denzel Boston",
+        "action": "HOLD",
+        "text": "Denzel Boston (CLE) ran a route on 91 percent of the dropbacks @PIT and drew 7 targets, a 22 percent share. That is a full-time role, and the targets back it. He is WR19 for me vs BAL this week, a WR2, and WR45 rest of season. Hold him; a route share under 75 percent would change the call.",
+        "why": "A route share under 75 percent would change the call.",
+        "team": "CLE",
+        "pos": "WR"
+      },
       {
         "at": "2026-10-13T16:30:00Z",
         "player": "Jaxon Smith-Njigba",
@@ -91,13 +126,6 @@
         "text": "Ja'Kobi Lane (BAL), on IR with the wrist, could return in Week 6, per team reports Tuesday. The rookie was competing with Rashod Bateman for the No. 2 job in camp. WR75 rest of season for me. Stash him in deep leagues, 0 to 2 percent of FAAB.",
         "at": "2026-10-13T15:10:00Z",
         "pos": "WR"
-      },
-      {
-        "player": "Jaylen Warren",
-        "action": "TRADE_AWAY",
-        "price": "an RB2",
-        "text": "Jaylen Warren (PIT) played 87 percent of the snaps vs IND and has 490 scrimmage yards over the last three weeks, all with Rico Dowdle (toe) inactive. Warren is RB8 for me this week @TB, but Dowdle is expected back, and that snap share does not survive his return. Warren is RB23 rest of season for me, and Dowdle is RB34. Trade Warren away now and ask for an RB2.",
-        "at": "2026-10-13T15:00:00Z"
       },
       {
         "player": "Bhayshul Tuten",
