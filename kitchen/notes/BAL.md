@@ -160,6 +160,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: Lamar Jackson: DNP Wednesday and Thursday (ankle); Tyler Huntley ran the first team again Thursday (Ravens injury report via Yahoo).
 - 2026-10-08: Zay Flowers: limited Wednesday and Thursday with a foot injury, not the hamstring (official Thursday report).
 - 2026-10-08: Cam Jurgens: DNP Thursday with a concussion in his first BAL practice week (official report).
+- 2026-10-13: Ja'Kobi Lane (IR, wrist) could return in Week 6, per team reports carried Tuesday. [pod 10-13, beat]
 
 ## Other
 

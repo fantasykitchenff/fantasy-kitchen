@@ -6,9 +6,9 @@
  "dek": "Kenneth Walker III comes off the bye as RB1, Woody Marks jumps to RB19, and Christian Watson is WR4 after 143 yards and 2 TDs.",
  "format": "PPR",
  "publishedAt": "2026-10-13T14:48:00Z",
- "updatedAt": "2026-10-13T14:48:00Z",
+ "updatedAt": "2026-10-13T15:00:00Z",
  "author": "Chef Hazy",
- "intro_md": "Updated Tue 10:48 AM ET: the order is refreshed for Week 6. Kenneth Walker III is RB1 off the bye, Woody Marks climbs to RB19, and Deebo Samuel Sr., A.J. Brown and David Montgomery are off the Menu.\n\nWeek 6 has four teams on bye: Cincinnati, Detroit, Miami and Minnesota are off, so none of their players are on the Menu. Seattle opens @DEN Thursday, Houston and Jacksonville play at 9:30 AM ET in London, Arizona @LAR kicks at 4:05, the Chargers @KC and Buffalo @LV at 4:25, Dallas @GB Sunday night and Washington @SF Monday night. Rankings are for full PPR.\n\nJosh Allen sits alone at QB1 after running for 121 at the Rams, and Kenneth Walker III comes off the bye as RB1 ahead of Bijan Robinson. Puka Nacua (17 of 24 targets vs BUF) and Jaxon Smith-Njigba lead the receivers, and Brock Bowers is TE1. Woody Marks moves into the RB2 range at RB19 with David Montgomery week to week.\n\nDeebo Samuel Sr., A.J. Brown, Roman Wilson, David Montgomery and Tre' Harris are off the Menu. Lamar Jackson, Caleb Williams, Saquon Barkley, Quinshon Judkins, Michael Penix Jr. and CeeDee Lamb all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
+ "intro_md": "Updated Tue 11:00 AM ET: RJ Harvey drew 1 target @LAC a week after 10 catches, with J.K. Dobbins on the early downs; Harvey stays RB28 for me, a high-end RB3. Malik Nabers saw 20 targets from Jameis Winston and is WR7 for me vs NO.\n\nUpdated Tue 10:48 AM ET: the order is refreshed for Week 6. Kenneth Walker III is RB1 off the bye, Woody Marks climbs to RB19, and Deebo Samuel Sr., A.J. Brown and David Montgomery are off the Menu.\n\nWeek 6 has four teams on bye: Cincinnati, Detroit, Miami and Minnesota are off, so none of their players are on the Menu. Seattle opens @DEN Thursday, Houston and Jacksonville play at 9:30 AM ET in London, Arizona @LAR kicks at 4:05, the Chargers @KC and Buffalo @LV at 4:25, Dallas @GB Sunday night and Washington @SF Monday night. Rankings are for full PPR.\n\nJosh Allen sits alone at QB1 after running for 121 at the Rams, and Kenneth Walker III comes off the bye as RB1 ahead of Bijan Robinson. Puka Nacua (17 of 24 targets vs BUF) and Jaxon Smith-Njigba lead the receivers, and Brock Bowers is TE1. Woody Marks moves into the RB2 range at RB19 with David Montgomery week to week.\n\nDeebo Samuel Sr., A.J. Brown, Roman Wilson, David Montgomery and Tre' Harris are off the Menu. Lamar Jackson, Caleb Williams, Saquon Barkley, Quinshon Judkins, Michael Penix Jr. and CeeDee Lamb all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
  "outro_md": "Prep Notes updates the Menu Friday after the final injury report.",
  "data": {
   "positions": {
@@ -489,7 +489,7 @@
      "team": "NYG",
      "pos": "RB",
      "opp": "vs NO",
-     "note": "",
+     "note": "56 of 89 running back snaps (63 percent) @WAS despite a fourth fumble in five games.",
      "flag": "",
      "action": "START",
      "slot": "RB2"
@@ -609,7 +609,7 @@
      "team": "LAC",
      "pos": "RB",
      "opp": "@KC",
-     "note": "",
+     "note": "14 carries for 33 vs DEN; third or near-even in Chargers backfield snaps two straight weeks.",
      "flag": "",
      "action": "FLEX"
     },
@@ -620,7 +620,7 @@
      "team": "DEN",
      "pos": "RB",
      "opp": "vs SEA",
-     "note": "",
+     "note": "18 carries for 68 and a TD @LAC; the early downs are his.",
      "flag": "",
      "action": "FLEX"
     },
@@ -631,7 +631,7 @@
      "team": "DEN",
      "pos": "RB",
      "opp": "vs SEA",
-     "note": "",
+     "note": "1 target and 3 carries for 7 @LAC, a week after 10 catches; J.K. Dobbins ran 18 times.",
      "flag": "",
      "action": "FLEX"
     },
@@ -851,7 +851,7 @@
      "team": "NYG",
      "pos": "WR",
      "opp": "vs NO",
-     "note": "6 of 7 for 112 and a TD in Week 4; full Friday practice last week.",
+     "note": "20 targets and a late TD in the overtime tie @WAS, Jameis Winston's second start.",
      "flag": "",
      "action": "START",
      "slot": "WR1"
@@ -1807,7 +1807,7 @@
      "team": "NYG",
      "pos": "WR",
      "opp": "vs NO",
-     "note": "6 of 7 for 112 and a TD in Week 4; full Friday practice last week.",
+     "note": "20 targets and a late TD in the overtime tie @WAS, Jameis Winston's second start.",
      "flag": "",
      "action": "START",
      "slot": "FLEX"
@@ -2036,7 +2036,7 @@
      "team": "NYG",
      "pos": "RB",
      "opp": "vs NO",
-     "note": "",
+     "note": "56 of 89 running back snaps (63 percent) @WAS despite a fourth fumble in five games.",
      "flag": "",
      "action": "FLEX"
     },

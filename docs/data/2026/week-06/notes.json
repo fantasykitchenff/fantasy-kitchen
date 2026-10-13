@@ -6,12 +6,36 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-13T15:00:00Z",
+  "updatedAt": "2026-10-13T15:10:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Cam Skattebo",
+        "action": "HOLD",
+        "why": "A second straight game under half the backfield snaps, or a fumble benching, would make him a sell.",
+        "text": "Cam Skattebo (NYG) lost his fourth fumble in five games @WAS, but he still took 56 of 89 running back snaps, 63 percent, to 17 for Tyrone Tracy Jr. and 16 for Najee Harris. The usage says the job is his. RB16 for me vs NO, an RB2, and RB19 rest of season. Hold him; a snap share under half or a fumble benching would change that.",
+        "at": "2026-10-13T15:10:00Z",
+        "pos": "RB"
+      },
+      {
+        "player": "Jeremiyah Love",
+        "action": "HOLD",
+        "why": "Tyler Allgeier taking early-down carries as well as the passing downs would make him a sell.",
+        "text": "Jeremiyah Love (ARI) ran 12 times for 22 with 1 target vs DET, and Tyler Allgeier kept the passing downs. Arizona also lost its left tackle for the season. Love is still the early-down back, RB21 for me @LAR, an RB2, and RB15 rest of season. Hold him; Allgeier taking early downs too would make him a sell.",
+        "at": "2026-10-13T15:10:00Z",
+        "pos": "RB"
+      },
+      {
+        "player": "Ja'Kobi Lane",
+        "action": "STASH",
+        "faab": "0-2%",
+        "text": "Ja'Kobi Lane (BAL), on IR with the wrist, could return in Week 6, per team reports Tuesday. The rookie was competing with Rashod Bateman for the No. 2 job in camp. WR75 rest of season for me. Stash him in deep leagues, 0 to 2 percent of FAAB.",
+        "at": "2026-10-13T15:10:00Z",
+        "pos": "WR"
+      },
       {
         "player": "Jaylen Warren",
         "action": "TRADE_AWAY",
