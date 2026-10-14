@@ -30,6 +30,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Josh Allen took a helmet to the left knee in the fourth quarter vs LAC, stayed in and played all 66 snaps (16 of 26, 204, 0 TD, 2 INT, 4 sacks); the OC said Tuesday he is sore but not a concern; no diagnosis reported. [pod 9-28, beat]
 - 2026-09-27: Josh Allen: three turnovers, two of them interceptions, and two rushing touchdowns on 22 rushing yards in the 24-16 win over LAC. [pod 9-29, deployment]
 - 2026-09-27: Josh Allen: Both rushing touchdowns vs LAC were 1-yard sneaks (8 carries, 22 yards); he has multiple rushing touchdowns in three straight games, which the team says no quarterback had done in the Super Bowl era. [pod 9-29, deployment]
+- 2026-10-12: Josh Allen: 121 rushing yards and a TD @LAR; 8 rushing TDs in five games, the first quarterback with one in each of his team's first five games. [pod 10-14, deployment]
 
 ## Backfield
 
@@ -50,6 +51,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-23: Ray Davis: New head coach Joe Brady reportedly pushed for the Bills to draft Davis; Davis is expected to lock down the No. 2 role he lost to Ty Johnson last year, and Ty Johnson was hurt in camp. [8-23 highstakes draft]
 - 2026-09-27: James Cook: 24 carries for 154 yards and a 3-yard touchdown vs LAC (77 yards on 11 carries in the fourth quarter), a lost fumble on the first play from scrimmage, 44 snaps (67%) and 81 percent of the early-down snaps; 1 target, no catch. 346 rushing yards at 6.0 a carry through three games. [pod 9-29, deployment]
 - 2026-09-27: Ty Johnson: Back from injury vs LAC: 15 snaps (23%), 4 of 4 for 50 including a fourth-and-7 conversion, and the clear majority of the passing-situation snaps; Ray Davis had limited early-down work. [pod 9-29, deployment]
+- 2026-10-13: James Cook III: 4 fumbles this season, 2 in Week 5; Joe Brady said at some point there has to be consequences. [pod 10-14, coach]
 
 ## Receivers
 
@@ -102,6 +104,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-12: Left guard is an open competition between Alec Anderson and Austin Corbett after David Edwards left for New Orleans; Anderson has the lead. [8-12 Camp Updates Article]
 - 2026-08-20: Buffalo hasn't missed an OL game to injury in three years with the same five starters, but loses one starter and OL coach Aaron Kromer this year; it is a run-blocking-first line built around Josh Allen. [8-20 Offensive Line Rankings]
+- 2026-10-12: RT Spencer Brown left Week 5 after 16 snaps with a back flare-up. [pod 10-14, beat]
 
 ## Rookies
 

@@ -95,6 +95,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Brycen Tremayne: Took Coker's outside snaps: 62 snaps (81%), 39 routes, 6 targets, 4 catches for 83 (career highs). John Metchie III played 43 snaps (56%) with 5 targets and an 8-yard touchdown. Xavier Legette was inactive (knee, day to day). [pod 9-29, deployment]
 - 2026-09-27: Tetairoa McMillan: 47 routes (92%) and 73 snaps (95%) at CLE for 5 targets (12%) and 2 catches for 17. [pod 9-29, deployment]
 - 2026-10-05: Week 4 vs DET: Tetairoa McMillan 14 catches on 16 targets for 192 and 2 TD with Coker inactive and Legette on IR (NBC, AP). Chuba Hubbard 20 for 122 and 2 TD.
+- 2026-10-12: Dave Canales said Jalen Coker is on track to play vs PHI; CBs Jaycee Horn (quad) and Mike Jackson (groin) are on IR. [pod 10-14, coach]
 
 ## Tight ends
 

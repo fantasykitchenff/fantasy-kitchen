@@ -37,6 +37,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Dan Quinn said Washington plans to start Jayden Daniels vs NYG in Week 5 after a full week of practice on the left elbow (Yahoo, CBS Sports). [pod 10-6, coach]
 - 2026-10-11: Jayden Daniels back from the elbow in a brace vs NYG: 17 of 25 for 199, 9 carries for 103 and 2 TDs (Fox box).
 - 2026-10-11: Jayden Daniels played in an elbow brace: 9-103-2 rushing and 17 of 25 for 199, his second career 100-yard rushing game. [pod 10-13, deployment]
+- 2026-10-11: Jayden Daniels 9 carries for 103 and 2 TDs, 17 of 25 for 199; Jacory Croskey-Merritt 11 for 82 and a TD; Rachaad White 7 for 18 back from the shoulder; Terry McLaurin 4 for 62 on a limited workload; Stefon Diggs out (hamstring). [pod 10-14, deployment]
 
 ## Backfield
 

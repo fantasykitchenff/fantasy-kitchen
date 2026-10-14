@@ -88,6 +88,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Ashton Jeanty's ankle cut into his playing time vs KC (15 for 58, 6 of 8 for 68), and the Las Vegas beat calls the ankle a concern going into Week 5 (Yahoo snap observations, Las Vegas Review-Journal). [pod 10-6, beat]
 - 2026-10-11: Ashton Jeanty: 27% of third-down snaps @NE, down from 70.5% in Weeks 1 to 4, Dylan Laube took third downs; Jeanty 10 carries for 27, 3 catches for 50 (PFF recap, patriots.com box).
 - 2026-10-11: Ashton Jeanty touches by week 29, 25, 22, 21, 13; Week 5 RB opportunities Jeanty 16, Dylan Laube 7, Mike Washington Jr. 2; Jeanty 32 snaps (53 percent). Kubiak said Jeanty is beat up and playing for his teammates. [pod 10-13, deployment]
+- 2026-10-11: Ashton Jeanty 10 carries for 27 @NE with Dylan Laube on third downs; the head coach says Jeanty is playing and Cousins starts Week 6. [pod 10-14, deployment]
 
 ## Receivers
 

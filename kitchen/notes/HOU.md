@@ -5,7 +5,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Coaching and play-calling
 
 - 2026-08-04: Year two under OC Nick Caley; the offensive line is expected to improve to roughly the low 20s league-wide after a poor 2025. [8-4 10 Fantasy Sleepers and Role Shifts]
-- 2026-10-11: DeMeco Ryans took over play-calling in Week 5; Stroud 26 of 34 for 260, 1 TD, plus a rushing TD in the 26-3 win at TEN (NFL.com).
+- 2026-10-11: DeMeco Ryans took over play-calling in Week 5; Stroud 26 of 34 for 261, 1 TD, plus a rushing TD in the 26-3 win at TEN (NFL.com).
 
 ## Scheme and tendencies
 
@@ -23,6 +23,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: C.J. Stroud: C.J. Stroud has shown signs of pressure affecting his play; the line is projected to improve from worst to roughly 25th. [8-20 Offensive Line Rankings]
 - 2026-09-27: C.J. Stroud: 16 of 27 for 167, 1 TD, 0 INT at IND; targets Hutchinson 6, Moreau 4, Schultz 3, Boutte 2. [pod 9-29, deployment]
 - 2026-10-04: C.J. Stroud: 347 passing yards vs DAL in the 34-30 loss; Houston is 0-4. [pod 10-5, deployment]
+- 2026-10-11: C.J. Stroud 26 of 34 for 261 and a rushing TD at TEN. [pod 10-14, deployment]
 
 ## Backfield
 
@@ -60,6 +61,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Woody Marks played 47 of 48 snaps after Montgomery's injury @TEN (PFF recap).
 - 2026-10-12: DeMeco Ryans called David Montgomery (groin) week to week, per Adam Schefter (NFL.com, Yahoo Sports).
 - 2026-10-11: David Montgomery averaged about 31 scrimmage yards a game in Weeks 2 to 5 before the groin injury (week to week). [pod 10-13, deployment]
+- 2026-10-11: Woody Marks 56 snaps (85%), Dare Ogunbowale 1, David Montgomery 9 before the groin injury; DeMeco Ryans said Marks will carry the load. [pod 10-14, deployment]
 
 ## Receivers
 

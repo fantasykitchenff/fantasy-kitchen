@@ -6,6 +6,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-12: First-time DC Christian Parker (34, from Fangio's staff) is moving rookie Caleb Downs between safety and nickel; Dallas was 4th in offensive EPA and 32nd in defensive EPA in 2025. [8-12 Camp Updates Article]
 - 2026-08-19: The Cowboys replaced defensive coordinator Matt Eberflus with Christian Parker and added key defensive pieces in free agency; the defense is expected to be near league average, improving game scripts. [8-19 RBs drafting and fading]
+- 2026-10-12: Mike Pettine hired as senior defensive assistant. [pod 10-14, official]
 
 ## Scheme and tendencies
 
@@ -82,6 +83,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: George Pickens: 13 targets, 9 for 130 and a TD vs TB; CeeDee Lamb 5 targets, 2 for 9 before the quad bruise (CBS box).
 - 2026-10-08: CeeDee Lamb left late, not early, with a quad bruise reported as not serious (2 of 5 for 9 vs TB). [pod 10-13, beat]
 - 2026-10-09: Stephen Jones on 105.3 The Fan: "I think both CeeDee and Tyler will be all ready to go for Green Bay" (CeeDee Lamb quad bruise) (Yardbarker).
+- 2026-10-08: George Pickens: 9 of 13 for 130 and a TD vs TB after CeeDee Lamb's quad bruise (called not serious by Rapoport). [pod 10-14, deployment]
 
 ## Tight ends
 

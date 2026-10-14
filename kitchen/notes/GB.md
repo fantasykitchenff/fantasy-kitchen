@@ -29,6 +29,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Jordan Love: Among 38 QBs with 200+ dropbacks in 2025 Love was 1st in EPA from a clean pocket, 6th in passer rating, 7th in completion percentage over expectation and 4th in pressure-to-sack ratio. [8-26 myguys episode]
 - 2026-09-29: Jordan Love: 124 attempts in three games, 844 yards, 6 TD, 2 INT, 52.4 percent completions; 28 of 53 for 312, 2 TD, 1 INT in the 35-14 Week 3 loss to ATL (reports).
 - 2026-09-24: Jordan Love: hit 20 times in three games (his most in a full season is 49); league-low 2.4 seconds average time to throw through Week 3. [pod 9-30, deployment]
+- 2026-10-11: Jordan Love 25 of 31 for 367 and 2 TDs in the 31-7 win over CHI. [pod 10-14, deployment]
 
 ## Backfield
 
@@ -68,6 +69,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @TB: Chris Brooks left with an ankle injury (4 for 30); Kaleb Johnson 8 for 42 with a goal-line fumble; MarShawn Lloyd 7 for 13, 5 catches for 36 and a fumble; LaFleur said fumblers will sit (RotoBaller, Athlon).
 - 2026-10-11: MarShawn Lloyd 26 snaps, Pierre Strong 24, Kaleb Johnson 9 (garbage time) vs CHI; Lloyd 10 carries for 31 and 2 TDs (Acme Packing Company, CBS box).
 - 2026-10-11: RB touches vs CHI: MarShawn Lloyd 11 (10-31-2), Pierre Strong 8, Kaleb Johnson 7 (garbage time); Lloyd 26 snaps, Strong 24. [pod 10-13, deployment]
+- 2026-10-11: MarShawn Lloyd 10 carries for 31 and 2 TDs vs CHI; Chris Brooks to IR (ankle) 10/10. Josh Jacobs is on the Commissioner's Exempt List, not injured. [pod 10-14, deployment]
 
 ## Receivers
 

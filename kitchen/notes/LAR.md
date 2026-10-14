@@ -77,6 +77,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Terrance Ferguson: With Tutu Atwell gone, TE Ferguson is functioning as the Rams' WR3; he said he never expected to learn the X, Y and Z spots. The Rams are expected to run a lot of three-TE sets. [8-26 myguys episode]
 - 2026-09-27: Konata Mumpfield: 4 of 8 for 93 and a 48-yard touchdown, 60 snaps (73%), second among Rams receivers in targets behind Davante Adams (13 targets, 7 for 137, 83% snaps). [pod 9-29, deployment]
 - 2026-09-27: Davante Adams: Without Nacua as a Ram: 5 for 35 and 3 TD (2025 Week 7 vs JAX), 8 of 10 for 195 and 2 TD (Week 2 vs NYG), 7 of 13 for 137 (Week 3 @DEN, 71 snaps, 57 routes). [pod 9-29, deployment]
+- 2026-10-12: Puka Nacua 17 catches on 24 targets for 138 and a TD, plus 2 carries for 9, in the 37-34 overtime loss to BUF. [pod 10-14, deployment]
 
 ## Tight ends
 
@@ -100,6 +101,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Tyler Higbee: 8 of 11 for 62 and a touchdown, 60 snaps (73%). [pod 9-28, deployment]
 - 2026-09-27: Tyler Higbee: 47 routes and 11 targets @DEN (8 for 62 and a TD); Konata Mumpfield 46 routes and 8 targets; Davante Adams 57 routes and 13 targets. [pod 9-29, deployment]
 - 2026-10-04: Tyler Higbee caught 5 for 67 @PHI and again led the LAR tight ends in snaps with Terrance Ferguson and Colby Parkinson hurt (NBC Sports, DraftSharks). [pod 10-6, deployment]
+- 2026-10-12: Tyler Higbee 5 for 83 on 6 targets; Terrance Ferguson on IR since 10/2 (ankle). [pod 10-14, deployment]
 
 ## Offensive line
 

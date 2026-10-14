@@ -6,12 +6,93 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-14T16:25:00Z",
+  "updatedAt": "2026-10-14T20:35:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "text": "Lamar Jackson (BAL) did not practice Wednesday and has not practiced since he hurt the ankle Oct. 4; Adam Schefter reports a realistic chance he plays @CLE, and Tyler Huntley starts if he cannot. Jackson is QB5 for me this week and QB2 rest of season. Monitor; Friday's injury report.",
+        "at": "2026-10-14T20:35:00Z"
+      },
+      {
+        "player": "Michael Penix Jr.",
+        "team": "ATL",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "text": "Michael Penix Jr. (ATL) practiced Wednesday with the ribs, and Kevin Stefanski said he is the starter vs CHI as long as everything goes to plan. Drake London had 96 and 194 yards in his two full games with Penix. Penix is QB22 for me this week, outside my top 12, and QB23 rest of season. Monitor; Friday's injury report.",
+        "at": "2026-10-14T20:35:00Z"
+      },
+      {
+        "player": "Caleb Williams",
+        "team": "CHI",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Thursday's practice report",
+        "text": "Caleb Williams (CHI) was a full participant on Wednesday's estimated report with the hamstring, though Ben Johnson still calls his status fluid. Tyson Bagent started Week 5 and Case Keenum relieved him. Williams is QB13 for me @ATL, a borderline start this week, and QB10 rest of season. Monitor; Thursday's practice report.",
+        "at": "2026-10-14T20:35:00Z"
+      },
+      {
+        "player": "Rashee Rice",
+        "team": "KC",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Thursday's and Friday's practice reports",
+        "text": "Rashee Rice (KC) did not practice Wednesday with the hamstring, and Kansas City put Justin Watson on the practice squad, not the active roster, with Tyquan Thornton on IR. Rice is WR38 for me vs LAC, a low-end flex play to a dart throw; without a full practice by Friday, sit him. Monitor; Thursday's and Friday's practice reports.",
+        "at": "2026-10-14T20:35:00Z"
+      },
+      {
+        "player": "A.J. Brown",
+        "team": "NE",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "his activation from IR, by Saturday's roster moves",
+        "text": "A.J. Brown (NE) practiced Wednesday, opening his 21-day IR window, and Mack Hollins is on IR with the calf through at least Week 8. Brown takes the top target role the day he is active. He is WR24 rest of season for me. Monitor; his activation from IR by Saturday's roster moves.",
+        "at": "2026-10-14T20:35:00Z"
+      },
+      {
+        "player": "Ja'Kobi Lane",
+        "team": "BAL",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "his route share @CLE Sunday",
+        "text": "Ja'Kobi Lane (BAL) is back at practice off IR after wrist surgery, and the team site lists him as activated. Expect a small No. 3 share behind Zay Flowers and Rashod Bateman at first. WR75 rest of season for me. Monitor; his route share @CLE Sunday.",
+        "at": "2026-10-14T20:35:00Z"
+      },
+      {
+        "player": "Dylan Sampson",
+        "team": "CLE",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "1-3%",
+        "text": "Cleveland designated Dylan Sampson (CLE) to return from IR, and he practiced Wednesday while Quinshon Judkins sat out with the ankle. With Raheim Sanders on IR, Sampson is next in line once active. RB67 rest of season for me. Stash him, 1 to 3 percent of FAAB.",
+        "at": "2026-10-14T20:35:00Z"
+      },
+      {
+        "player": "Jordan Mason",
+        "team": "MIN",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "1-3%",
+        "text": "Jordan Mason (MIN) has been on IR with the thumb since Sept. 16 and is expected back in Week 7 after the bye. Aaron Jones Sr. ran 25 times for 113 and a TD @NO with the job to himself, and Mason takes carries and goal-line work back from him. RB35 rest of season for me. Stash him, 1 to 3 percent of FAAB.",
+        "at": "2026-10-14T20:35:00Z"
+      },
+      {
+        "player": "Chase Brown",
+        "team": "CIN",
+        "pos": "RB",
+        "action": "TRADE_FOR",
+        "price": "an RB2 and a WR3",
+        "text": "Chase Brown (CIN) ran 13 times for 38 @MIA to Samaje Perine's 14 for 68, and OC Dan Pitcher said the team will keep assessing how the touches split. Brown still out-snapped Perine 38 to 33. RB6 rest of season for me. Trade for him during the bye; offer an RB2 and a WR3.",
+        "at": "2026-10-14T20:35:00Z"
+      },
       {
         "at": "2026-10-14T16:25:00Z",
         "player": "Baker Mayfield",

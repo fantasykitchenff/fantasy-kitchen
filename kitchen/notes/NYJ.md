@@ -53,6 +53,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Breece Hall: 13 carries for 32 and 3 catches for 23 at DET before the fourth-quarter exit; the Jets have rushed for 152, 67 and 58 yards in their three games. [pod 9-29, deployment]
 - 2026-10-05: Week 4 @CHI: Braelon Allen took all 14 running back carries for 59 with Breece Hall out; NYJ ran 32 plays to CHI's 89 (Yahoo, Jetsxfactor).
 - 2026-10-11: Braelon Allen: 24 carries for 116 and a TD vs CLE with Breece Hall inactive a second week; Isaiah Davis 2 carries (team box score).
+- 2026-10-11: Braelon Allen 24 carries for 116 and a TD on 57 snaps; Isaiah Davis 9 snaps. [pod 10-14, deployment]
 
 ## Receivers
 
@@ -89,6 +90,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: New York Jets: With Mitchell inactive at DET, Isaiah Williams was a full-time starter (2 targets, 1 for 21), practice-squad call-up Sterling Shepard was the main third receiver (1 for 3) and Malik McClain rotated in. Jeremy Ruckert caught all 5 of his targets for 39 and a touchdown. [pod 9-29, deployment]
 - 2026-09-20: Adonai Mitchell: 15 targets in Weeks 1 and 2 (3, then 12 vs GB), 9 catches for 123, before the finger injury kept him out of Week 3. [pod 9-30, deployment]
 - 2026-10-11: Tim Patrick was activated from IR before Week 5 (not re-signed). Omar Cooper Jr. is eligible to return from IR Oct 18. [pod 10-13, official]
+- 2026-10-11: Garrett Wilson: 30.0% target share through Week 5, 37.9% in Week 5. [pod 10-14, deployment]
 
 ## Tight ends
 
@@ -152,6 +154,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Breece Hall (quad) and AD Mitchell (finger) did not practice Wednesday (Wednesday report).
 - 2026-10-09: Aaron Glenn ruled out Breece Hall (quad), Adonai Mitchell (finger), Dylan Parham (knee) and Francisco Mauigoa (quad) for Week 5 vs CLE; Mason Taylor (thumb) expected to return (NFL.com).
 - 2026-10-11: Week 5 vs CLE (17-12 win): Kenyon Sadiq ruled out (concussion). Braelon Allen 22-yard TD, Garrett Wilson 32-yard TD (NFL.com).
+- 2026-10-14: Breece Hall (quad) did not practice, week to week; Adonai Mitchell is not back (finger procedure); Omar Cooper Jr.'s practice window opened. [pod 10-14, official]
 
 ## Other
 

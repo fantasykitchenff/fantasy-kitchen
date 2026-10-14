@@ -61,6 +61,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: TreVeyon Henderson (ankle) tested Monday, not expected to be long term per Ian Rapoport; Mike Vrabel said A.J. Brown (high ankle, IR) may return to practice this week (NFL.com, Yahoo Sports).
 - 2026-10-11: Rhamondre Stevenson 13-64-1 and 3-21 on 71 percent of snaps (not hurt); TreVeyon Henderson right ankle in the second quarter, 12 snaps, not long term. [pod 10-13, deployment]
 - 2026-10-11: Rhamondre Stevenson played 83 percent of the snaps after TreVeyon Henderson left vs LV (71 percent for the game) (Yahoo Sports). [pod 10-13, deployment]
+- 2026-10-11: Corey Kiner was the backup back in the fourth quarter vs LV after TreVeyon Henderson's high ankle sprain. [pod 10-14, deployment]
 
 ## Receivers
 
@@ -95,6 +96,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Mack Hollins: 77% of the snaps, 68% of the routes and 9 targets (30%) at JAX; Romeo Doubs 4 targets; Kyle Williams 42% of the routes. [pod 10-1, deployment]
 - 2026-10-04: Romeo Doubs: 2 TD in the 29-26 win at BUF, with A.J. Brown on IR (high-ankle, earliest Week 6) and Mack Hollins out after the third quarter with the calf (NBC Sports). [pod 10-5, deployment]
 - 2026-10-11: DeMario Douglas 4-65-2 on 5 targets; Kyle Williams 3-91-1 on 27 snaps; Efton Chism III 5-57 on 6 targets and a team-high 76 percent of snaps. [pod 10-13, deployment]
+- 2026-10-14: A.J. Brown practiced Wednesday, opening his 21-day IR window; Mack Hollins on IR (calf) through at least Week 8. [pod 10-14, beat]
 
 ## Tight ends
 

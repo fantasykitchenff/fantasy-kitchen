@@ -157,6 +157,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-06: The first-team line has been Anton Harrison, Ezra Cleveland, Robert Hainsey, Wyatt Milum and Walker Little; Little left the scrimmage early, moving Milum to RT with Jonah Monheim at RG. [8-6 Jags camp report from]
 - 2026-08-20: Jacksonville's line is viewed as less than the sum of its parts; T Cole Van Lanen, its best lineman, is on PUP after a late-2025 injury with rumors it could be long-term. [8-20 Offensive Line Rankings]
 - 2026-08-23: An offensive line analyst rates the Jaguars' line very low entering 2026; their second-half offensive surge last season came against a very soft schedule. [8-23 highstakes draft]
+- 2026-10-13: RT Anton Harrison had a knee scope and will miss a few weeks (Rapoport). [pod 10-14, beat]
 
 ## Depth chart
 

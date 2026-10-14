@@ -110,6 +110,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Chris Olave limped off after a late hit in the fourth quarter of the 45-24 Monday night loss to ATL; Tuesday reports say he avoided a major injury (Yahoo, Heavy, Athlon). [pod 10-6, beat]
 - 2026-10-12: Kellen Moore said Jordyn Tyson (hamstring, IR) will not return to practice this week (NFL.com).
 - 2026-10-11: Chris Olave 4-46 on 6 targets after 15+ PPR points in each of Weeks 1 to 4. [pod 10-13, deployment]
+- 2026-10-12: Jordyn Tyson (hamstring, IR) will not practice this week per Kellen Moore. [pod 10-14, coach]
 
 ## Tight ends
 
@@ -133,6 +134,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-19: The Saints' line is viewed as good when healthy, but C Erik McCoy rarely plays a full season; David Edwards was signed and rookie TE Oscar Delp helps inline blocking. [8-19 Offenses to look out for]
 - 2026-08-20: The Saints have four self-drafted top-two-round starters including two first-round tackles from the last two drafts, plus free-agent LG David Edwards; no star, no weak link, health is the concern. [8-20 Offensive Line Rankings]
+- 2026-09-21: LT Kelvin Banks Jr. had high-ankle surgery and is on IR with a late-season return possible, not ruled out for the year (Rapoport). [pod 10-14, beat]
 
 ## Rookies
 

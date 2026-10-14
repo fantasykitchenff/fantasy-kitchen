@@ -43,6 +43,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Jameis Winston: John Harbaugh said Winston starts Week 4 vs ARI and 'for as long as I can see into the future'; J.J. McCarthy is the No. 2 or 3 while he learns the offense. Winston's first start: 12-7 over TEN, Nabers 5 of 6 for 26 on a 27% target share, aDOT 1.0 (reports).
 - 2026-09-27: Jameis Winston: First start: 14 of 22 for 118 yards, no interception, in a 12-7 win over TEN played in a nor'easter; 27 dropbacks on 58 plays (47%), three receivers on 40% of snaps, four field goals and no touchdown. [pod 9-29, deployment]
 - 2026-10-11: Jameis Winston 33 of 54 for 326 and 3 TDs, after 250 and 3 TDs in Week 4. J.J. McCarthy played 6 percent of snaps with 2 designed runs. [pod 10-13, deployment]
+- 2026-10-11: Jameis Winston 33 of 54 for 326 and 3 TDs with a lost fumble; Isaiah Likely 11 catches on 13 targets for 94 and 2 TDs. [pod 10-14, deployment]
+- 2026-09-29: J.J. McCarthy, acquired from MIN, could play in the near future (Connor Hughes, SNY). [pod 10-14, beat]
 
 ## Backfield
 

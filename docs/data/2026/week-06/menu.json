@@ -6,9 +6,9 @@
   "dek": "Kenneth Walker III comes off the bye as RB1, Woody Marks jumps to RB19, and Christian Watson is WR4 after 143 yards and 2 TDs.",
   "format": "PPR",
   "publishedAt": "2026-10-13T14:48:00Z",
-  "updatedAt": "2026-10-14T16:25:00Z",
+  "updatedAt": "2026-10-14T20:35:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 12:25 PM ET: Quinshon Judkins is out of the walking boot but will not practice Wednesday with the right ankle; he stays RB24 for me vs BAL, an RB2, until Thursday's and Friday's injury reports.\n\nUpdated Tue 7:20 PM ET: Raheim Sanders went to IR, so Jaleel McLaughlin and the newly signed Audric Estime back up Quinshon Judkins, who stays RB24 for me vs BAL, an RB2. Ladd McConkey may work back in from the foot this week; he stays WR45 for me @KC, a low-end flex play to a dart throw.\n\nUpdated Tue 12:30 PM ET: Jaxon Smith-Njigba was limited on Seattle's Monday estimate with the ankle he hurt in Week 5. He stays WR2 for me @DEN Thursday; Tuesday's and Wednesday's injury reports settle it.\n\nUpdated Tue 12:25 PM ET: TreVeyon Henderson will miss multiple weeks with a high ankle sprain, so the New England backfield is Rhamondre Stevenson's; Stevenson stays RB14 for me vs NYJ, borderline RB1/RB2.\n\nUpdated Tue 11:00 AM ET: RJ Harvey drew 1 target @LAC a week after 10 catches, with J.K. Dobbins on the early downs; Harvey stays RB28 for me, a high-end RB3. Malik Nabers saw 20 targets from Jameis Winston and is WR7 for me vs NO.\n\nWeek 6 has four teams on bye: Cincinnati, Detroit, Miami and Minnesota are off, so none of their players are on the Menu. Seattle opens @DEN Thursday, Houston and Jacksonville play at 9:30 AM ET in London, Arizona @LAR kicks at 4:05, the Chargers @KC and Buffalo @LV at 4:25, Dallas @GB Sunday night and Washington @SF Monday night. Rankings are for full PPR.\n\nJosh Allen sits alone at QB1 after running for 121 at the Rams, and Kenneth Walker III comes off the bye as RB1 ahead of Bijan Robinson. Puka Nacua (17 of 24 targets vs BUF) and Jaxon Smith-Njigba lead the receivers, and Brock Bowers is TE1. Woody Marks moves into the RB2 range at RB19 with David Montgomery week to week.\n\nDeebo Samuel Sr., A.J. Brown, Roman Wilson, David Montgomery and Tre' Harris are off the Menu. Lamar Jackson, Caleb Williams, Saquon Barkley, Quinshon Judkins, Michael Penix Jr. and CeeDee Lamb all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
+  "intro_md": "Updated Wed 4:35 PM ET: Lamar Jackson did not practice Wednesday with the ankle. He stays QB5 for me @CLE until Friday's injury report, and Tyler Huntley starts if he sits. Michael Penix Jr. practiced and is Atlanta's starter vs CHI if all goes to plan; he stays QB22, outside my top 12. Caleb Williams was full on Chicago's estimate and stays QB13, a borderline start. Rashee Rice did not practice; WR38 for me, a low-end flex play to a dart throw, and a sit without a full practice by Friday.\n\nUpdated Wed 12:25 PM ET: Quinshon Judkins is out of the walking boot but will not practice Wednesday with the right ankle; he stays RB24 for me vs BAL, an RB2, until Thursday's and Friday's injury reports.\n\nUpdated Tue 7:20 PM ET: Raheim Sanders went to IR, so Jaleel McLaughlin and the newly signed Audric Estime back up Quinshon Judkins, who stays RB24 for me vs BAL, an RB2. Ladd McConkey may work back in from the foot this week; he stays WR45 for me @KC, a low-end flex play to a dart throw.\n\nUpdated Tue 12:30 PM ET: Jaxon Smith-Njigba was limited on Seattle's Monday estimate with the ankle he hurt in Week 5. He stays WR2 for me @DEN Thursday; Tuesday's and Wednesday's injury reports settle it.\n\nUpdated Tue 12:25 PM ET: TreVeyon Henderson will miss multiple weeks with a high ankle sprain, so the New England backfield is Rhamondre Stevenson's; Stevenson stays RB14 for me vs NYJ, borderline RB1/RB2.\n\nWeek 6 has four teams on bye: Cincinnati, Detroit, Miami and Minnesota are off, so none of their players are on the Menu. Seattle opens @DEN Thursday, Houston and Jacksonville play at 9:30 AM ET in London, Arizona @LAR kicks at 4:05, the Chargers @KC and Buffalo @LV at 4:25, Dallas @GB Sunday night and Washington @SF Monday night. Rankings are for full PPR.\n\nJosh Allen sits alone at QB1 after running for 121 at the Rams, and Kenneth Walker III comes off the bye as RB1 ahead of Bijan Robinson. Puka Nacua (17 of 24 targets vs BUF) and Jaxon Smith-Njigba lead the receivers, and Brock Bowers is TE1. Woody Marks moves into the RB2 range at RB19 with David Montgomery week to week.\n\nDeebo Samuel Sr., A.J. Brown, Roman Wilson, David Montgomery and Tre' Harris are off the Menu. Lamar Jackson, Caleb Williams, Saquon Barkley, Quinshon Judkins, Michael Penix Jr. and CeeDee Lamb all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
   "outro_md": "Prep Notes updates the Menu Friday after the final injury report.",
   "data": {
     "positions": {
@@ -70,10 +70,11 @@
           "team": "BAL",
           "pos": "QB",
           "opp": "@CLE",
-          "note": "Missed Week 5 with the ankle; the team says he is better. Wednesday's report decides it.",
+          "note": "Did not practice Wednesday with the ankle; Tyler Huntley starts if he sits. Friday's injury report decides it.",
           "flag": "",
           "action": "START",
-          "slot": "QB1"
+          "slot": "QB1",
+          "watch": "Friday's injury report"
         },
         {
           "rank": 6,
@@ -168,9 +169,10 @@
           "team": "CHI",
           "pos": "QB",
           "opp": "@ATL",
-          "note": "Chicago hopes he returns from the hamstring this week; Wednesday's report tells.",
+          "note": "Full on Wednesday's estimated report off the hamstring; Ben Johnson still calls it fluid.",
           "flag": "",
-          "action": "STREAM"
+          "action": "STREAM",
+          "watch": "Thursday's practice report"
         },
         {
           "rank": 14,
@@ -224,7 +226,7 @@
           "team": "HOU",
           "pos": "QB",
           "opp": "@JAX",
-          "note": "26 of 34 for 260 and a rushing TD in the first game with DeMeco Ryans calling plays.",
+          "note": "26 of 34 for 261 and a rushing TD in the first game with DeMeco Ryans calling plays.",
           "flag": "",
           "action": "STREAM"
         },
@@ -268,9 +270,10 @@
           "team": "ATL",
           "pos": "QB",
           "opp": "vs CHI",
-          "note": "Ribs injury called not serious; watch Wednesday's practice report.",
+          "note": "Practiced Wednesday with the ribs, and Atlanta says he is the starter vs CHI if all goes to plan.",
           "flag": "",
-          "action": "SIT"
+          "action": "SIT",
+          "watch": "Friday's injury report"
         },
         {
           "rank": 23,
@@ -1225,9 +1228,10 @@
           "team": "KC",
           "pos": "WR",
           "opp": "vs LAC",
-          "note": "",
+          "note": "Did not practice Wednesday with the hamstring; no full practice by Friday makes him a sit.",
           "flag": "",
-          "action": "FLEX"
+          "action": "FLEX",
+          "watch": "Thursday's and Friday's practice reports"
         },
         {
           "rank": 39,

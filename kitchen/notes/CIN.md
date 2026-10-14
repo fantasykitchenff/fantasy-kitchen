@@ -5,6 +5,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Coaching and play-calling
 
 - 2026-08-12: OL coach Scott Peters is credited with the line's improvement; Dan Pitcher is OC, and Zac Taylor has called plays for Burrow since 2020. [8-12 Camp Updates Article]
+- 2026-10-12: OC Dan Pitcher said the team will keep assessing how the touch share between Perine and Chase Brown plays out. [pod 10-14, coach]
 
 ## Scheme and tendencies
 
@@ -60,8 +61,9 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Chase Brown 13 carries for 61 at PIT; Samaje Perine 3 for 9. [pod 9-29, deployment]
 - 2026-09-27: Chase Brown, Samaje Perine: At PIT Brown played 40 snaps with 13 carries and 2 targets (2 for 8); Perine played 18 snaps with 3 carries and 3 targets (1 for 5), one carry after halftime. Brown's season: 49 carries, 197 yards, 1 rushing TD. [pod 9-29, deployment]
 - 2026-09-27: Chase Brown: 13 carries for 61 and 2 targets on 40 snaps; Samaje Perine 3 carries and 3 targets on 18 snaps at PIT. [pod 10-2, deployment]
-- 2026-10-11: Week 5 @MIA (31-24 win): Samaje Perine led CIN with 14 for 68; Chase Brown did not lead in carries for the first time this season, lost a red-zone fumble, 22 carries for 49 the last two games. Chase 6 for 77 and a 45-yard TD (NFL.com).
-- 2026-10-11: Chase Brown out-snapped Samaje Perine 38 to 33 @MIA, but Perine had 14 carries for 68 and a receiving TD to Brown's 13 for 39 and a red-zone fumble (NBC Sports, Fox box).
+- 2026-10-11: Week 5 @MIA (31-24 win): Samaje Perine led CIN with 14 for 68; Chase Brown did not lead in carries for the first time this season, lost a red-zone fumble, 22 carries for 48 the last two games. Chase 6 for 77 and a 45-yard TD (NFL.com).
+- 2026-10-11: Chase Brown out-snapped Samaje Perine 38 to 33 @MIA, but Perine had 14 carries for 68 and a receiving TD to Brown's 13 for 38 and a red-zone fumble (NBC Sports, Fox box).
+- 2026-10-11: Samaje Perine 14 carries for 68, Chase Brown 13 for 38 (not 39) @MIA. [pod 10-14, deployment]
 
 ## Receivers
 
@@ -86,6 +88,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Erick All Jr.: Erick All Jr. is finally healthy and pushing to be the primary tight end, potentially limiting Mike Gesicki's role. [8-12 130 training camp storylines and league updates]
 - 2026-08-12: Erick All Jr.: The Bengals' TE room starts as a three-man unit (All, Gesicki, Drew Sample); All has the most well-rounded skill set, is used as a quasi-fullback, and would be the one to become dominant. [8-12 Camp Updates Article]
 - 2026-08-13: Mike Gesicki: Played about 29% of the Bengals' snaps in 2025 with a 17% targets-per-route rate when on the field; his presence tipped pass to defenses. [8-13 TE talk]
+- 2026-10-13: Tanner Hudson tore a pectoral muscle and is out for the season. [pod 10-14, beat]
 
 ## Offensive line
 

@@ -46,6 +46,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Jahmyr Gibbs: After Dan Campbell took over play-calling midway through 2025 his targets rose from 3.9 to 7.0 per game and PPR points from 18.2 to 24.8 per game, with carries steady around 14. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-09-27: Jahmyr Gibbs: 20 carries for 99 yards and 2 TD plus 7 catches for 65 and a TD vs NYJ (164 scrimmage yards); through three games he has 300+ rushing yards, 4 rushing TD, 150+ receiving yards and 2 receiving TD. Sione Vaki 6 for 26. [pod 9-29, deployment]
 - 2026-10-11: Jahmyr Gibbs: 25 carries for 151 and 2 TDs, 5 catches for 56 @ARI (Fox box).
+- 2026-10-11: Jahmyr Gibbs 25 carries for 151 and 2 TDs, 5 catches for 56 vs ARI; Jameson Williams 2 catches on 4 targets for 47 and 2 TDs. [pod 10-14, deployment]
 
 ## Receivers
 

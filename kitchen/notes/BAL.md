@@ -53,6 +53,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Derrick Henry: Henry turns 33 in January; observers see no signs yet that his production is slipping, and the new offense is hoped to produce lighter boxes for him. [8-19 RBs drafting and fading]
 - 2026-08-20: Adam Randall: Rookie is viewed only as a speculative backup to Derrick Henry; the owner reportedly pushed for the pick. [8-20 buying or selling rookie hype]
 - 2026-09-27: Derrick Henry: 26 carries for 89 yards (3.4) and 2 TD vs DAL on 43 of 64 snaps (67%); Justice Hill 31 snaps; Keaton Mitchell none. Season: 301 rushing yards and 6 TD in three games. Inside runs vs DAL went 11 for 23, and he was stopped on two fourth-and-1 runs. [pod 9-29, deployment]
+- 2026-10-11: Derrick Henry: 8 catches on 9 targets for 62 and a TD through Week 5. [pod 10-14, deployment]
 
 ## Receivers
 
@@ -109,6 +110,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Mark Andrews: Hand injury in the second quarter in Rio, returned, 33 of 64 snaps (Durham Smythe also 33, Matthew Hibner 21); not among the players missing from Wednesday's practice. [pod 9-29, beat]
 - 2026-09-27: Durham Smythe: played 33 of 64 snaps in Week 3 and 108 snaps through three games; he was not inactive. [pod 10-2, deployment]
 - 2026-10-11: Mark Andrews 4 of 6 for 28 at ATL with three drops and a lost fumble returned for a TD. [pod 10-13, deployment]
+- 2026-10-11: Mark Andrews had 3 drops and a fumble returned for an ATL touchdown; Matthew Hibner hurt his hand in the game and was absent at the start of Wednesday's practice. [pod 10-14, deployment]
 
 ## Offensive line
 
@@ -161,6 +163,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: Zay Flowers: limited Wednesday and Thursday with a foot injury, not the hamstring (official Thursday report).
 - 2026-10-08: Cam Jurgens: DNP Thursday with a concussion in his first BAL practice week (official report).
 - 2026-10-13: Ja'Kobi Lane (IR, wrist) could return in Week 6, per team reports carried Tuesday. [pod 10-13, beat]
+- 2026-10-14: Lamar Jackson (ankle) did not practice Wednesday and has not practiced since the 10/4 injury; Schefter reports a realistic chance he plays @CLE; Tyler Huntley starts if he cannot. [pod 10-14, official]
+- 2026-10-14: Ja'Kobi Lane returned to practice off IR (wrist surgery, missed four games); the team site lists him as activated. [pod 10-14, official]
 
 ## Other
 

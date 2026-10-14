@@ -112,6 +112,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Rashee Rice: 9 of 22 team targets (41%), 7 for 88; season targets 2, 6, 9 (17 of 91, 18.7%). The 18.7% is the three-game share, not the Week 3 share. [pod 9-28, deployment]
 - 2026-09-27: Xavier Worthy: 10 catches for 63 yards and 1 TD on 15 targets through three games (18, 25 and 20 yards); in Week 3 he ran 19 routes on Kansas City's 24 dropbacks (79%), level with Kelce, and drew 2 targets. [pod 9-29, deployment]
 - 2026-09-27: Rashee Rice: 7 catches for 88 on 9 targets (39%) and 75% of the routes; his targets went 2, 6, 9 in Weeks 1 to 3. [pod 10-2, deployment]
+- 2026-10-14: Rashee Rice (hamstring) did not practice Wednesday. Justin Watson signed to the practice squad, not the active roster; Tyquan Thornton on IR. [pod 10-14, official]
 
 ## Tight ends
 

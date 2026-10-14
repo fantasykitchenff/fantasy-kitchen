@@ -44,6 +44,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Deshaun Watson: 16 of 30 for 144 yards, 2 TD, 0 INT and 11 rushes for 45 (6 of them scrambles) in the 21-18 win over CAR. Through three starts: 205, 238 and 144 passing yards; 38, 22 and 45 rushing yards (105); about 15, 20 and 20 fantasy points. [pod 9-29, deployment]
 - 2026-10-01: Deshaun Watson: 24 of 33 for 268 and 1 TD, plus 22 rushing yards, vs PIT. [pod 10-2, deployment]
 - 2026-10-11: Deshaun Watson 15 of 33 for 155, 1 TD, sacked 8 times in the 12-17 loss at NYJ. [pod 10-13, deployment]
+- 2026-10-11: Deshaun Watson 15 of 33 for 155, sacked 8 times @NYJ. [pod 10-14, deployment]
 
 ## Backfield
 
@@ -75,6 +76,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Quinshon Judkins: 14 carries for 44 @NYJ, seen in a walking boot on his right foot after the game, tests expected this week (NBC Sports).
 - 2026-10-12: Todd Monken called Quinshon Judkins day to day with an ankle tweak, not ruled out for Week 6 vs BAL (Yahoo Sports).
 - 2026-10-13: Raheim Sanders placed on IR with the hip hurt @NYJ in Week 5, out at least four games; Browns signed Audric Estime off the MIN practice squad (No. 36). Behind Quinshon Judkins (ankle, day to day): Jaleel McLaughlin and Estime (clevelandbrowns.com, NBC Sports, Yahoo Sports).
+- 2026-10-14: Quinshon Judkins (right ankle) did not practice Wednesday but was out of the walking boot; day to day. [pod 10-14, beat]
+- 2026-10-14: Dylan Sampson was designated to return from IR and practiced Wednesday. [pod 10-14, official]
 
 ## Receivers
 
@@ -112,6 +115,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs PIT (Thu) snaps: Denzel Boston 61 (95%), KC Concepcion 59 (92%), Harold Fannin Jr. 57 (89%), Quinshon Judkins 42 (66%); Boston 4 of 7 for 89, Concepcion 5 of 8 for 64, Judkins 6 of 7 for 43 (Dawgs By Nature, NBC).
 - 2026-10-06: KC Concepcion Jr.: 5 of 8 for 64 vs PIT, team-high targets, career highs; average depth of target 1.8 yards, mostly from the slot (NBC Sports, The Undroppables).
 - 2026-10-11: Denzel Boston drew 7 targets (22 percent share) and ran a route on 91 percent of dropbacks vs PIT (Rotowire). [pod 10-13, deployment]
+- 2026-10-14: KC Concepcion returned to practice after the concussion protocol. [pod 10-14, beat]
 
 ## Tight ends
 
@@ -164,6 +168,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-08: The Browns traded away Myles Garrett but still have Jared Verse at edge rusher. [8-8 Late and Cheap QBs]
 - 2026-08-16: Jerry Jeudy: Jeudy is viewed as a possible midseason trade candidate as the rookies take over. [8-16 preseason week 1 recap]
+- 2026-10-13: Jerry Jeudy: Cleveland's asking price is a 3rd- or 4th-round pick (Jordan Schultz). Audric Estime signed off Minnesota's practice squad after Raheim Sanders (hip) went to IR. [pod 10-14, beat]
 
 ## Injuries and status
 

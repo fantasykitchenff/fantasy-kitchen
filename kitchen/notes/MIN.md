@@ -91,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Aaron Jones Sr. 17 for 58 and 5 catches for 34 (22 touches), 80% snaps; Jordan Mason on IR (thumb), eligible Week 7. [pod 9-28, deployment]
 - 2026-09-30: Aaron Jones Sr.: 78% of the team's rush attempts in the two games without Mason and a 24% target share in Week 3; working through a knee issue (reports).
 - 2026-10-11: Aaron Jones Sr.: 87% snaps, a season high, 25 carries for 113 and a TD @NO (PFF recap, saints box).
+- 2026-10-11: Aaron Jones Sr. 25 carries for 113 and a TD plus 3 catches for 28 @NO. Jordan Mason (thumb) has been on IR since 9/16 and is expected back in Week 7 after the bye. [pod 10-14, deployment]
 
 ## Receivers
 
@@ -128,6 +129,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Josh Oliver placed on IR Tuesday 9/29 (torn biceps); T.J. Hockenson and Gavin Bartholomew are the only tight ends on the roster. Hockenson ran a route on 29 of 37 dropbacks vs TB in Week 3, 2 of 4 targets for 11 yards. Vikings signed RBs Devin Neal and Audric Estime to the practice squad (team, reports).
 - 2026-09-27: T.J. Hockenson caught 2 of 4 targets for 11 at TB. [pod 10-1, deployment]
 - 2026-10-05: Week 4 vs MIA: T.J. Hockenson 13 catches on 13 targets for 119 with Justin Jefferson out; O'Connell's goal is Jefferson back for Week 5 vs NO (vikings.com, NBC).
+- 2026-09-27: Josh Oliver tore his biceps in Week 4 vs TB (not Week 5). In Week 5 Gavin Bartholomew caught 5 for 33 after T.J. Hockenson's first-drive concussion. [pod 10-14, official]
 
 ## Offensive line
 

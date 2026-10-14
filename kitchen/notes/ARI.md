@@ -52,6 +52,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jacoby Brissett: 54 dropbacks @SF (52 attempts, 2 sacks) on 87 offensive snaps, the team's most since 2022; 38 of 52 for 280 and 2 TD. [pod 9-29, deployment]
 - 2026-10-04: Jacoby Brissett: 21 of 35 for 166, 2 TD and 3 INT in the 36-24 loss at NYG, the last a 98-yard pick-six on the final play; first two picks were tipped at the line. Mike LaFleur said no when asked about a benching; Brissett starts Week 5 vs DET. [pod 10-5, coach]
 - 2026-10-11: Jacoby Brissett 29 of 47 for 292, 3 TD, 1 INT vs DET. [pod 10-13, deployment]
+- 2026-10-11: Jacoby Brissett: 29 of 47 for 292, 3 TDs, 1 INT in the 45-21 loss at DET. [pod 10-14, deployment]
 
 ## Backfield
 
@@ -92,6 +93,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Jeremiyah Love said after the NYG loss that the coaches are managing his workload and that he told them Tyler Allgeier and Bam Knight should play; he called it the longest year of his life (NBC Sports, Yahoo). [pod 10-5, coach]
 - 2026-10-11: Jeremiyah Love: 12 carries for 22, 1 target vs DET; Tyler Allgeier kept the passing downs, 3 carries for 7 (Fox box, PFF recap).
 - 2026-10-11: Jeremiyah Love 12 carries for 22 vs DET; his carries went 21, 14, 12 over Weeks 3 to 5 (down two straight weeks). Tyler Allgeier 3-7 and 2-9. [pod 10-13, deployment]
+- 2026-10-11: Jeremiyah Love: 12 carries for 22, 1 target, no catch vs DET. [pod 10-14, deployment]
 
 ## Receivers
 
@@ -128,6 +130,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @NYG: Michael Wilson 7 of 13 for 95, 30 targets in two games; Trey McBride 7 of 12 for 31; Jeremiyah Love 14 for 63, Tyler Allgeier 8 for 42 and a TD (NBC, CBS).
 - 2026-10-06: Michael Wilson: 44 targets in four games (7, 7, 17, 13), 30 in Weeks 3 and 4; Marvin Harrison Jr. 9 targets in Weeks 1 to 3 (season totals from weekly reports).
 - 2026-10-11: Wk5 vs DET (21-45): Kendrick Bourne 5 of 8 for 70 (team-high yards); Michael Wilson 4 of 7 for 30; Jalen Brooks 2 of 7 for 16; Reggie Virgil 2 of 5 for 29. Wilson has 51 targets in five games (10.2 a game), tied with CeeDee Lamb. [pod 10-13, deployment]
+- 2026-10-11: Michael Wilson: 4 catches on 7 targets for 30, 14.6% of the team's 48 targets; Jalen Brooks 7 targets, 2 for 16, in the first game without Marvin Harrison Jr. [pod 10-14, deployment]
 
 ## Tight ends
 

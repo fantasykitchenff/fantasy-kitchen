@@ -141,6 +141,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Jaylen Waddle: Waddle was traded away from Miami to Denver, vacating targets that could flow to Achane. [8-12 top 10 rb rankings]
 - 2026-09-29: No running back signed; Hassan Haskins, Kenny McIntosh, Damien Martinez and Elijah Tau-Tolliver worked out; Jarquez Hunter and Carlos Washington are on the practice squad. [pod 9-29, official]
 - 2026-09-01: Jarquez Hunter: Acquired from the Rams for Tutu Atwell on Aug 27, waived at the Aug 31 cutdown and signed to the practice squad Sep 1; still there on 9/30 with no elevation reported. [pod 9-29, official]
+- 2026-10-09: Claimed RB Kaytron Allen off waivers from WAS. Caleb Douglas (ankle) missed Weeks 3 to 5. [pod 10-14, official]
 
 ## Injuries and status
 

@@ -39,6 +39,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Bo Nix: 17 of 33, 186, 2 TD, 1 INT in the 30-26 win over LAR. [pod 9-28, deployment]
 - 2026-09-27: Bo Nix: 12 carries for 15 yards through three games (3-2, 5-6, 4-7) with one rushing touchdown, the 1-yard winner with 47 seconds left vs LAR. Passing 56 of 93 for 605, 4 TD, 3 INT. [pod 9-29, deployment]
 - 2026-10-11: Bo Nix 16 of 27 for 123 and a TD; under 15 fantasy points in four of five games. Week 6 is Thursday night vs SEA. [pod 10-13, deployment]
+- 2026-10-11: Bo Nix 16 of 27 for 123 @LAC, Denver 3.9 yards per play; his best rushing game this season is 10 yards. [pod 10-14, deployment]
 
 ## Backfield
 
@@ -148,6 +149,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jaylen Waddle: 1 catch for 2 yards in Week 1 and 2 for 10 on 7 targets in Week 3. [pod 10-2, deployment]
 - 2026-10-06: Pat Bryant: sprained ankle from Week 4 @SF, high-ankle suspected, expected to miss a few weeks (ESPN via PFT, Mile High Report).
 - 2026-10-11: Jaylen Waddle 2 of 5 for 19; outside Week 2 he has 10 catches for 66 and a TD in four games (2, 10, 35, 19 yards). Troy Franklin 2 of 2 for 16 with Pat Bryant on IR. [pod 10-13, deployment]
+- 2026-10-11: Snaps @LAC: Courtland Sutton 50, Jaylen Waddle 40, Troy Franklin 39; RJ Harvey 23 among the backs. Pat Bryant on IR (ankle). [pod 10-14, deployment]
 
 ## Tight ends
 
@@ -181,6 +183,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-26: Jonah Coleman: Placed on injured reserve with a high-ankle sprain suffered in the Week 2 win over JAX; out at least four games, earliest return Week 7 at ARI (Oct 25). He did not practice Thursday 9/24. The move opened a roster spot for LS Mitchell Fraboni. [pod 9-29, official]
 - 2026-09-30: Jaylen Waddle: Wore a walking boot after the Week 3 win at LAR as a precaution, then practiced in full Wednesday; Sean Payton said he is fine. [pod 9-30, official]
 - 2026-10-04: Pat Bryant was carted off with a leg injury in the 24-14 loss at SF; Pat Surtain II also left with a non-contact injury (NBC Sports, Denver Gazette, CBS Colorado). [pod 10-5, beat]
+- 2026-10-14: CB Pat Surtain II (ankle) did not practice and is not in line to play Thursday vs SEA. [pod 10-14, beat]
 
 ## Other
 

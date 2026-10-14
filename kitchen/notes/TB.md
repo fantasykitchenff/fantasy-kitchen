@@ -31,6 +31,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Easton Stick is elevated as Jalon Daniels' backup vs GB; Bucky Irving is not on the Week 4 injury report per Todd Bowles (reports).
 - 2025: Jalon Daniels: final Kansas season 12 games, 2,531 passing yards, 22 TD, 62.1% completions, 404 rushing yards and 4 rushing TD; 1,439 rushing yards and 23 rushing TD in 49 college games. [pod 9-30, college stats]
 - 2026-10-05: Week 4 vs GB: rookie Jalon Daniels' first start, 19 of 27 for 148, 1 TD, 2 INT, 8 carries for 56 (BucsNation, AP).
+- 2026-10-12: Baker Mayfield (thumb) is pushing to play but it is too early to know (James Palmer); Todd Bowles expects Jalon Daniels to start. [pod 10-14, beat]
 
 ## Backfield
 
@@ -61,6 +62,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Bucky Irving: Week 3: 15 carries for 46 and 2 catches on 2 targets for 12 on 36 snaps (52%). By week: carries 8, 17, 15 (40 for 180 and 1 TD), targets 7, 4, 2, snap share 61%, 78%, 52%. Kenny Gainwell's snap share: 46%, 35%, 46%; Sean Tucker has 1 offensive snap. [pod 9-29, deployment]
 - 2026-10-04: Sean Tucker scored on a short touchdown run in Week 4 vs GB while Bucky Irving had no catches (game reports). [pod 10-8, deployment]
 - 2026-10-08: Bucky Irving: 54% snaps at DAL, 21 carries for 165 and a TD plus a receiving TD; got the first two goal-line snaps after Sean Tucker was stuffed on fourth-and-1; Gainwell 36% snaps, Tucker 7 snaps (Pewter Report snap counts, CBS box).
+- 2026-10-08: Bucky Irving 21 carries for 165 and a TD plus 2 catches for 10 and a TD @DAL; both TDs came inside the 5. Emeka Egbuka 6 of 9 for 38 plus a 14-yard jet-sweep TD. [pod 10-14, deployment]
 
 ## Receivers
 

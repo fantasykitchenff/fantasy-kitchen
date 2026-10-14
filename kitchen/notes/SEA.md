@@ -73,6 +73,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Mike Macdonald said Zach Charbonnet (knee, still on PUP) is not expected to play Thursday vs DEN (NFL.com).
 - 2026-10-04: Jadarian Price: an upper-rib injury plus a minor shoulder issue, not season-ending (Schneider), at least four weeks. [pod 10-13, beat]
 - 2026-10-11: Emanuel Wilson lost a fumble vs SF; George Holani fumbled twice (one lost). [pod 10-13, deployment]
+- 2026-10-13: Zach Charbonnet will not be activated for Thursday @DEN; Week 7 vs KC is the next chance. Jadarian Price on IR since 10/3 (chest), eligible Week 8. [pod 10-14, coach]
 
 ## Receivers
 

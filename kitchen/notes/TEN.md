@@ -119,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Calvin Ridley: Tennessee kept Ridley on a non-tradable contract paying about $15 million this year and $30 million in 2027, suggesting intent to use him, though he looks like the odd man out in the rotation. [8-5 32 team update and breakdown]
 - 2026-08-18: Wan'Dale Robinson: Robinson joined the Titans, reuniting with Brian Daboll, whose offense he knows from New York; he is expected to be productive early while rookie Carnell Tate develops into the eventual No. 1. [8-18 WR rankings]
 - 2026-09-29: Michael Carter: RB Michael Carter signed to the active roster; OL Nick Broeker added to the practice squad. [pod 9-30, official]
+- 2026-10-11: Tennessee has turned down calls and is not planning to trade Tony Pollard (Pelissero). [pod 10-14, beat]
 
 ## Injuries and status
 
@@ -137,3 +138,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Tyjae Spears (ankle) full practice Friday after DNP Wed and LP Thu; still questionable at BAL (NBC Sports).
 - 2026-10-09: Carnell Tate questionable (back), LP Thursday and Friday, Saleh says good to go; Tony Pollard no designation (FP Thursday and Friday) (tennesseetitans.com Friday report).
 - 2026-10-11: Carnell Tate active Week 5 vs HOU (back) (nfl.com Sunday pregame)
+- 2026-10-11: Tennessee has 6 offensive TDs through Week 5, fewest in the league; Tyjae Spears caught 9 passes for 28; Wan'Dale Robinson drew 23 targets over Weeks 3 to 5. [pod 10-14, deployment]

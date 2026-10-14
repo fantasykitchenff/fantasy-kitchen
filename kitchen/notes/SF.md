@@ -39,6 +39,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Kaleb Black: Returned to practice before Jordan James and reportedly played well; James got back Saturday so the RB2 competition is back on. [8-26 rankings and news updates]
 - 2026-09-27: Christian McCaffrey: 45 of 54 snaps (83%), 15 carries and 5 targets vs ARI, 116 scrimmage yards and a touchdown; Kaelon Black 8 snaps (15%), 4 carries for 17 and 1 target, the only other back to play. [pod 9-29, deployment]
 - 2026-10-11: Christian McCaffrey 11-68-1 and 3-15 on 3 targets at SEA. [pod 10-13, deployment]
+- 2026-10-12: Christian McCaffrey 11 carries for 68 and a TD plus 3 catches for 15 vs SEA. [pod 10-14, deployment]
 
 ## Receivers
 
@@ -218,6 +219,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Mike Evans (ribs, questionable) active vs DEN (49ers Webzone).
 - 2026-10-11: Deebo Samuel Sr. hurt his right hamstring on an end-around in the third quarter @SEA (fumbled on the play) and was ruled out; Jacob Cowing (ankle) questionable to return; Dre Greenlaw ejected in the first half (NFL.com, Yahoo Sports).
 - 2026-10-12: Christian Kirk (calf, IR) is unlikely to return to practice during Week 6 prep, per Kyle Shanahan on Monday. [pod 10-13, coach]
+- 2026-10-12: Deebo Samuel Sr. (hamstring) will miss at least a couple of weeks per Kyle Shanahan; Weeks 6 and 7 most likely, before the Week 8 bye. Jacob Cowing is not injured. [pod 10-14, coach]
 
 ## Other
 

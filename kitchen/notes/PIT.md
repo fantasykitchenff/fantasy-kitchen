@@ -92,6 +92,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Michael Pittman Jr.: 2 catches for 15 on 4 targets at CLE, 60% of the routes; a national report has him managing a plantar fascia flare-up. [pod 10-2, deployment]
 - 2026-10-12: Mike McCarthy ruled Roman Wilson (finger) and Ben Skowronek (calf) out for Week 6 vs TB; Jeremy Fowler reports Wilson misses multiple weeks (NFL.com).
 - 2026-10-11: Germie Bernard 6 of 9 for 80 (team-high targets), a 94 percent route rate and 92 percent of snaps. DK Metcalf 3-12 on 4 targets (his fumble was recovered by PIT). Pat Freiermuth 5-44-2 on 7, 4 TDs on the season. [pod 10-13, deployment]
+- 2026-10-11: Germie Bernard ran 32 routes on Aaron Rodgers' 34 dropbacks and out-targeted DK Metcalf 9 to 4 vs IND. [pod 10-14, deployment]
 
 ## Tight ends
 
@@ -129,6 +130,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Defense has allowed the second-fewest fantasy points to wide receivers through Week 3 (reports).
 - 2026-10-01: Steelers: Week 4 is at CLE, Thursday Oct 1, 8:15 PM ET. [pod 9-29, official]
 - 2026-10-01: Steelers at Browns: PIT favored by 2.5 with a 38.5 total, the lowest of Week 4; Jalen Ramsey (wrist) and Brandin Echols (concussion) questionable on the final report (odds pages, final injury report).
+- 2026-10-11: 10 of Pittsburgh's 11 offensive touchdowns have come through the air. [pod 10-14, deployment]
 
 ## Injuries and status
 
