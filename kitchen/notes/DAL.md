@@ -84,6 +84,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: CeeDee Lamb left late, not early, with a quad bruise reported as not serious (2 of 5 for 9 vs TB). [pod 10-13, beat]
 - 2026-10-09: Stephen Jones on 105.3 The Fan: "I think both CeeDee and Tyler will be all ready to go for Green Bay" (CeeDee Lamb quad bruise) (Yardbarker).
 - 2026-10-08: George Pickens: 9 of 13 for 130 and a TD vs TB after CeeDee Lamb's quad bruise (called not serious by Rapoport). [pod 10-14, deployment]
+- 2026-10-14: CeeDee Lamb (quad bruise) practiced in full Wednesday before Week 6 @GB (NBC Sports).
 
 ## Tight ends
 

@@ -6,12 +6,67 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-14T20:55:00Z",
+  "updatedAt": "2026-10-14T22:10:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "CeeDee Lamb",
+        "action": "START",
+        "slot": "WR1",
+        "url": "https://nbcsports.com/fantasy/football/player-news/2026-10-14/ceedee-lamb-quad-practicing-in-full-for-week-6",
+        "text": "CeeDee Lamb (DAL) practiced in full Wednesday, three days after the quad bruise vs TB. He is WR3 for me @GB Sunday night.",
+        "at": "2026-10-14T22:10:00Z"
+      },
+      {
+        "player": "Chris Olave",
+        "action": "MONITOR",
+        "watch": "Thursday's practice report",
+        "url": "https://www.neworleanssaints.com/news/injury-report-new-york-giants-vs-new-orleans-saints-2026-nfl-week-6-wednesday",
+        "text": "Chris Olave (NO) did not practice Wednesday with an illness, on the Saints' official report. He stays WR6 for me @NYG for now. Monitor; Thursday's practice report.",
+        "at": "2026-10-14T22:10:00Z"
+      },
+      {
+        "player": "Alvin Kamara",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.neworleanssaints.com/news/injury-report-new-york-giants-vs-new-orleans-saints-2026-nfl-week-6-wednesday",
+        "text": "Alvin Kamara (NO) was limited Wednesday with the back that held him to 12 snaps vs MIN, and Kendre Miller (RB32 for me) took 10 carries in that game. Kamara is RB26 for me @NYG, a high-end RB3. Monitor; Friday's injury report.",
+        "at": "2026-10-14T22:10:00Z"
+      },
+      {
+        "player": "Tyler Shough",
+        "action": "STREAM",
+        "url": "https://www.neworleanssaints.com/news/injury-report-new-york-giants-vs-new-orleans-saints-2026-nfl-week-6-wednesday",
+        "text": "Tyler Shough (NO) was a full participant Wednesday with the left hand. He is QB13 for me @NYG, a borderline start this week; stream him.",
+        "at": "2026-10-14T22:10:00Z"
+      },
+      {
+        "player": "Braelon Allen",
+        "action": "START",
+        "slot": "RB2",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-live-week-6-152344178.html",
+        "text": "Breece Hall (NYJ) is still week to week with the quad and likely out @NE. Braelon Allen played all but two snaps with Hall out in Week 4. Allen is RB19 for me this week, an RB2.",
+        "at": "2026-10-14T22:10:00Z"
+      },
+      {
+        "player": "Ashton Jeanty",
+        "action": "START",
+        "slot": "RB2",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-live-week-6-152344178.html",
+        "text": "Klint Kubiak said Wednesday that Ashton Jeanty (LV) is playing vs BUF through the foot. His touches have fallen four straight weeks, from 29 to 13. Jeanty is RB13 for me, borderline RB1/RB2 this week.",
+        "at": "2026-10-14T22:10:00Z"
+      },
+      {
+        "player": "Jeremiyah Love",
+        "action": "MONITOR",
+        "watch": "Thursday's practice report",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-live-week-6-152344178.html",
+        "text": "Jeremiyah Love (ARI) sat out Wednesday's practice to rest the ankle, and Tyler Allgeier (RB36 for me) kept the passing downs vs DET. Love is RB18 for me @LAR, an RB2, while he practices by Friday. Monitor; Thursday's practice report.",
+        "at": "2026-10-14T22:10:00Z"
+      },
       {
         "player": "Lamar Jackson",
         "team": "BAL",
@@ -393,6 +448,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2110138584766533761"
+    },
+    {
+      "id": "2026w06-notes-thread-344e",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }
