@@ -179,6 +179,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Week 5 @NYJ: KC Concepcion Jr. left in the first quarter (head), did not return; Isaiah Bond season-high 46 snaps, 0 catches on 3 targets, three drops; Watson sacked 8 times (NFL.com).
 - 2026-10-12: Quinshon Judkins: walking boot on his right foot after the 17-12 loss at NYJ (14 carries for 44, 3 catches); no team update; Dylan Sampson on IR (Akron Beacon Journal via Browns Nation).
 - 2026-10-11: Raheim Sanders (hip) left Week 5; Week 6 status unknown. Quinshon Judkins is day to day per Monken after leaving in a walking boot. [pod 10-13, beat]
+- 2026-10-14: Quinshon Judkins out of the walking boot on his right ankle in the locker room Wednesday but not practicing (Daniel Oyefusi, ESPN, via Rotowire).
+- 2026-10-14: KC Concepcion Jr. (concussion) progressing and set to practice Wednesday (Mary Kay Cabot, Cleveland Plain Dealer, via Rotowire).
 
 ## Other
 

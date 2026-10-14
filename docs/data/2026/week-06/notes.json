@@ -6,12 +6,30 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-13T23:20:00Z",
+  "updatedAt": "2026-10-14T16:25:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-14T16:25:00Z",
+        "player": "Baker Mayfield",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "text": "Baker Mayfield (TB) was not on the field for Wednesday's practice with the dislocated right thumb, per Greg Auman of Fox Sports, and Mike Garafolo of NFL Network says he is unlikely to play vs PIT. Jalon Daniels, 19 of 25 for 189 in the Week 5 win @DAL, is in line for a third start and is outside my top 12, a sit. Mayfield is QB24 rest of season for me. Monitor; Friday's injury report.",
+        "url": "https://www.rotowire.com/football/news.php"
+      },
+      {
+        "at": "2026-10-14T16:25:00Z",
+        "player": "Quinshon Judkins",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Thursday's and Friday's injury reports",
+        "text": "Quinshon Judkins (CLE) was out of the walking boot on his right ankle in the locker room Wednesday but will not practice, per Daniel Oyefusi of ESPN. With Raheim Sanders on IR, Jaleel McLaughlin and Audric Estime are behind him. He is RB24 for me vs BAL this week, an RB2, until he practices. Monitor; Thursday's and Friday's injury reports.",
+        "url": "https://www.rotowire.com/football/news.php"
+      },
       {
         "at": "2026-10-13T23:20:00Z",
         "text": "Cleveland put Raheim Sanders (CLE) on IR Tuesday with the hip he hurt @NYJ, so he misses at least four games, and signed Audric Estime off Minnesota's practice squad. Sanders is RB79 rest of season for me. Drop him for any add on the list, or move him to an IR spot.",
