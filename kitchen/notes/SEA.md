@@ -151,3 +151,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Jadarian Price (chest) ruled out for Week 4 vs LAC after a limited Wednesday and a Thursday DNP; Mike Macdonald said he reinjured it Wednesday. Emanuel Wilson and George Holani split the backfield (NBC Sports, DraftSharks).
 - 2026-10-09: Zach Charbonnet out (knee, PUP); George Holani questionable (ribs, knee), LP all week (Friday report).
 - 2026-10-13: Zach Charbonnet: 58% rostered Tuesday of Week 6; limited Monday, still on PUP, not expected Thursday @DEN (nfl.com).
+- 2026-10-14: Jaxon Smith-Njigba full practice Wednesday (ankle), no designation for Thursday @DEN; Zach Charbonnet ruled out, still on PUP (seahawks.com Wednesday report).

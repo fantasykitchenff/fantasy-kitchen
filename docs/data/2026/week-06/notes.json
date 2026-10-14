@@ -6,12 +6,52 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-14T22:10:00Z",
+  "updatedAt": "2026-10-14T23:25:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-14T23:25:00Z",
+        "player": "Jaxon Smith-Njigba",
+        "pos": "WR",
+        "team": "SEA",
+        "action": "START",
+        "slot": "WR1",
+        "text": "Jaxon Smith-Njigba (SEA) practiced in full Wednesday with the ankle and has no game designation for Thursday @DEN, on Seattle's official report. He is WR2 for me with a 37.9 percent target share through Week 3.",
+        "url": "https://www.seahawks.com/news/week-6-injury-report-seahawks-at-broncos"
+      },
+      {
+        "at": "2026-10-14T23:25:00Z",
+        "player": "Woody Marks",
+        "pos": "RB",
+        "team": "HOU",
+        "action": "START",
+        "slot": "RB2",
+        "text": "David Montgomery (HOU) did not practice Wednesday with the groin he hurt at TEN, and DeMeco Ryans calls him week to week. Woody Marks played 56 of 65 snaps after Montgomery left and is RB20 for me @JAX in London, an RB2.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-14"
+      },
+      {
+        "at": "2026-10-14T23:25:00Z",
+        "player": "Saquon Barkley",
+        "pos": "RB",
+        "team": "PHI",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "text": "Saquon Barkley (PHI) did not practice Wednesday with the hamstring that kept him out in London, per the Eagles' report and ESPN's Tim McManus. Dameon Pierce had 11 carries for 14 as the last healthy back in Week 5. Monitor; Friday's injury report decides Barkley vs CAR.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-14"
+      },
+      {
+        "at": "2026-10-14T23:25:00Z",
+        "player": "DeVonta Smith",
+        "pos": "WR",
+        "team": "PHI",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "text": "DeVonta Smith (PHI) did individual work but was a non-participant Wednesday with the hamstring, per ESPN's Tim McManus and the Eagles' report. He missed Week 5 in London. Monitor; Friday's injury report decides Smith vs CAR.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-14"
+      },
       {
         "player": "CeeDee Lamb",
         "action": "START",
