@@ -85,6 +85,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Dameon Pierce signed from the practice squad to the 53-man roster with Saquon Barkley hurt and Tank Bigsby on IR (philadelphiaeagles.com, NBC Sports). [pod 10-8, official]
 - 2026-10-11: Dameon Pierce led the backs after Shipley's foot injury: 11 carries for 14, 2 catches for minus 2 @JAX; Barkley inactive (CBS box).
 - 2026-10-12: Will Shipley has a partial plantar fascia tear and could miss multiple weeks, per Adam Schefter; Nick Sirianni hopeful Saquon Barkley (hamstring) and DeVonta Smith (hamstring) return for Week 6 vs CAR (NFL.com).
+- 2026-10-14: Jaydon Blue is on the Eagles practice squad; Dameon Pierce was the last healthy Eagles back after Will Shipley left in Week 5 (official transactions, podcast notes checked).
 
 ## Receivers
 

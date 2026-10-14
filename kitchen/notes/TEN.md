@@ -85,6 +85,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Wan'Dale Robinson drew a season-high 11 targets (31%) on 81% of the routes vs NYG; Carnell Tate drew 9 (26%) on 92% of the routes. [pod 10-2, deployment]
 - 2026-10-05: Week 4 @BAL: Carnell Tate 9 for 145, his first 100-yard game; Tony Pollard 16 for 48 and a TD, Tyjae Spears 2 for 7 (Titans.com).
 - 2026-10-11: Carnell Tate 1 for 6 on 5 targets on 76 percent of snaps; Cam Ward 23 of 36 for 170, 1 INT. [pod 10-13, deployment]
+- 2026-10-14: Carnell Tate caught 1 pass for 6 yards on 5 targets in Week 5 vs HOU and played through the back injury (box score).
 
 ## Tight ends
 

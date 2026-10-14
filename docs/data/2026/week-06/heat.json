@@ -6,9 +6,9 @@
   "dek": "Kimani Vidal's snap share has climbed five straight weeks. The stove's on in Los Angeles.",
   "format": "PPR",
   "publishedAt": "2026-10-13T16:59:00Z",
-  "updatedAt": "2026-10-13T22:10:00Z",
+  "updatedAt": "2026-10-14T20:55:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 6:00 PM ET: Germie Bernard ran 28 routes vs IND, tied for Pittsburgh's high, with a team-high 9 targets; he is still WR33 for me @TB and a claim at 3 to 6 percent of FAAB.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, lineup calls are this week's Menu rank, other ranks are rest of season for me, and the scoring is PPR.",
+  "intro_md": "Updated Wed 4:55 PM ET: Rhamondre Stevenson moves up to RB12 for me vs NYJ and Brenton Strange to TE12 vs HOU, a borderline start; Kendrick Bourne is WR36 @LAR, a low-end WR3. Woody Marks is RB20 and Germie Bernard WR34.\n\nUpdated Tue 6:00 PM ET: Germie Bernard ran 28 routes vs IND, tied for Pittsburgh's high, with a team-high 9 targets; he is still WR34 for me @TB and a claim at 3 to 6 percent of FAAB.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, lineup calls are this week's Menu rank, other ranks are rest of season for me, and the scoring is PPR.",
   "outro_md": "Butcher Shop turns these trends into trade offers, and the Menu has every one of them ranked for Week 6.",
   "data": {
     "risers": [
@@ -28,7 +28,7 @@
         "pos": "RB",
         "stat": "Snap share 52% to 67% to 71%",
         "why": "Rhamondre Stevenson (NE) played 71 percent of the snaps vs LV, ran 13 times for 64 and a TD and caught 3 for 21. TreVeyon Henderson will miss multiple weeks with a high ankle sprain.",
-        "verdict": "RB14 for me vs NYJ, borderline RB1/RB2 this week.",
+        "verdict": "RB12 for me vs NYJ, borderline RB1/RB2 this week.",
         "action": "START",
         "slot": "RB2"
       },
@@ -68,7 +68,7 @@
         "pos": "RB",
         "stat": "Snaps 20, 20, then 56 of 65",
         "why": "Woody Marks (HOU) played 47 of the 48 snaps after David Montgomery left @TEN, ran 15 times for 62 and caught 4 of 4. Montgomery is week to week with the groin.",
-        "verdict": "RB19 for me @JAX this week, an RB2. Claim him, 15 to 25 percent of FAAB.",
+        "verdict": "RB20 for me @JAX this week, an RB2. Claim him, 15 to 25 percent of FAAB.",
         "action": "CLAIM",
         "faab": "15-25%"
       },
@@ -78,7 +78,7 @@
         "pos": "WR",
         "stat": "Snaps 17 in Week 3 to 92% in Week 5",
         "why": "Germie Bernard (PIT) drew a team-high 9 targets vs IND and caught 6 for 80, and ran 28 routes, tied for the team high. Michael Pittman Jr. is on IR and Roman Wilson is out multiple weeks.",
-        "verdict": "WR33 for me @TB, a low-end WR3. Claim him, 3 to 6 percent of FAAB.",
+        "verdict": "WR34 for me @TB, a low-end WR3. Claim him, 3 to 6 percent of FAAB.",
         "action": "CLAIM",
         "faab": "3-6%"
       },
@@ -88,7 +88,7 @@
         "pos": "TE",
         "stat": "Targets 5, 8, 8; 26.2% share over two weeks",
         "why": "Brenton Strange (JAX) caught 14 of 16 targets for 163 over Weeks 4 and 5, a 26.2 percent target share. He led Jacksonville with 8 targets @CIN.",
-        "verdict": "TE17 for me vs HOU, a streamer. Claim him, 2 to 4 percent of FAAB.",
+        "verdict": "TE12 for me vs HOU, a borderline start this week. Claim him, 2 to 4 percent of FAAB.",
         "action": "CLAIM",
         "faab": "2-4%"
       },
@@ -98,7 +98,7 @@
         "pos": "RB",
         "stat": "Snap share 46% to over 50%; 9 catches",
         "why": "Tyjae Spears (TEN) out-snapped Tony Pollard 34 to 30 vs HOU and caught 9 of 9 targets. It was his first game over half the snaps this season.",
-        "verdict": "RB38 for me @IND, a low-end flex play to a dart throw. Add him, 1 to 3 percent of FAAB.",
+        "verdict": "RB40 for me @IND, a low-end flex play to a dart throw. Add him, 1 to 3 percent of FAAB.",
         "action": "ADD",
         "faab": "1-3%"
       },
@@ -138,7 +138,7 @@
         "pos": "WR",
         "stat": "Snaps 55% in Week 3; team-high 70 yards in Week 5",
         "why": "Kendrick Bourne (ARI) caught 5 of 8 for 70 vs DET with Marvin Harrison Jr. inactive, and Harrison is now in Houston. Bourne is the No. 2 receiver next to Michael Wilson.",
-        "verdict": "WR39 for me @LAR, a low-end flex play to a dart throw. Add him, 1 to 3 percent of FAAB.",
+        "verdict": "WR36 for me @LAR, a low-end WR3 and a low-end flex play. Add him, 1 to 3 percent of FAAB.",
         "action": "ADD",
         "faab": "1-3%"
       },

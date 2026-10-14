@@ -6,7 +6,7 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-14T20:35:00Z",
+  "updatedAt": "2026-10-14T20:55:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
@@ -18,7 +18,43 @@
         "pos": "QB",
         "action": "MONITOR",
         "watch": "Friday's injury report",
-        "text": "Lamar Jackson (BAL) did not practice Wednesday and has not practiced since he hurt the ankle Oct. 4; Adam Schefter reports a realistic chance he plays @CLE, and Tyler Huntley starts if he cannot. Jackson is QB5 for me this week and QB2 rest of season. Monitor; Friday's injury report.",
+        "at": "2026-10-14T20:55:00Z",
+        "text": "Lamar Jackson (BAL) has not practiced since he hurt the ankle Oct. 4, Wednesday included, and Tyler Huntley starts @CLE if he sits. Jackson drops to QB16 for me this week, a streamer, and stays QB2 rest of season. Monitor; Friday's injury report."
+      },
+      {
+        "player": "Caleb Williams",
+        "team": "CHI",
+        "pos": "QB",
+        "action": "START",
+        "slot": "QB1",
+        "at": "2026-10-14T20:55:00Z",
+        "text": "Caleb Williams (CHI) was a full participant on Wednesday's estimated report off the hamstring after sitting out Week 5. Williams climbs to QB8 for me @ATL this week."
+      },
+      {
+        "player": "Quinshon Judkins",
+        "team": "CLE",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Thursday's and Friday's injury reports",
+        "at": "2026-10-14T20:55:00Z",
+        "text": "Quinshon Judkins (CLE) is out of the walking boot but did not practice Wednesday with the right ankle, and Jaleel McLaughlin and Audric Estime are behind him. Judkins falls to RB33 for me vs BAL, a low-end RB3 and a low-end flex play. Monitor; Thursday's and Friday's injury reports."
+      },
+      {
+        "player": "Rashee Rice",
+        "team": "KC",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "at": "2026-10-14T20:55:00Z",
+        "text": "Rashee Rice (KC) did not practice Wednesday with the hamstring. He moves up to WR27 for me vs LAC, a high-end WR3, but without a full practice by Friday he is a sit. Monitor; Friday's injury report."
+      },
+      {
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "text": "Lamar Jackson (BAL) did not practice Wednesday and has not practiced since he hurt the ankle Oct. 4; Adam Schefter reports a realistic chance he plays @CLE, and Tyler Huntley starts if he cannot. Jackson is QB16 for me this week, a streamer, and QB2 rest of season. Monitor; Friday's injury report.",
         "at": "2026-10-14T20:35:00Z"
       },
       {
@@ -36,7 +72,7 @@
         "pos": "QB",
         "action": "MONITOR",
         "watch": "Thursday's practice report",
-        "text": "Caleb Williams (CHI) was a full participant on Wednesday's estimated report with the hamstring, though Ben Johnson still calls his status fluid. Tyson Bagent started Week 5 and Case Keenum relieved him. Williams is QB13 for me @ATL, a borderline start this week, and QB10 rest of season. Monitor; Thursday's practice report.",
+        "text": "Caleb Williams (CHI) was a full participant on Wednesday's estimated report with the hamstring, though Ben Johnson still calls his status fluid. Tyson Bagent started Week 5 and Case Keenum relieved him. Williams is QB8 for me @ATL this week, and QB10 rest of season. Monitor; Thursday's practice report.",
         "at": "2026-10-14T20:35:00Z"
       },
       {
@@ -45,7 +81,7 @@
         "pos": "WR",
         "action": "MONITOR",
         "watch": "Thursday's and Friday's practice reports",
-        "text": "Rashee Rice (KC) did not practice Wednesday with the hamstring, and Kansas City put Justin Watson on the practice squad, not the active roster, with Tyquan Thornton on IR. Rice is WR38 for me vs LAC, a low-end flex play to a dart throw; without a full practice by Friday, sit him. Monitor; Thursday's and Friday's practice reports.",
+        "text": "Rashee Rice (KC) did not practice Wednesday with the hamstring, and Kansas City put Justin Watson on the practice squad, not the active roster, with Tyquan Thornton on IR. Rice is WR27 for me vs LAC, a high-end WR3 play to a dart throw; without a full practice by Friday, sit him. Monitor; Thursday's and Friday's practice reports.",
         "at": "2026-10-14T20:35:00Z"
       },
       {
@@ -108,7 +144,7 @@
         "pos": "RB",
         "action": "MONITOR",
         "watch": "Thursday's and Friday's injury reports",
-        "text": "Quinshon Judkins (CLE) was out of the walking boot on his right ankle in the locker room Wednesday but will not practice, per Daniel Oyefusi of ESPN. With Raheim Sanders on IR, Jaleel McLaughlin and Audric Estime are behind him. He is RB24 for me vs BAL this week, an RB2, until he practices. Monitor; Thursday's and Friday's injury reports.",
+        "text": "Quinshon Judkins (CLE) was out of the walking boot on his right ankle in the locker room Wednesday but will not practice, per Daniel Oyefusi of ESPN. With Raheim Sanders on IR, Jaleel McLaughlin and Audric Estime are behind him. He is RB33 for me vs BAL this week, a low-end RB3, until he practices. Monitor; Thursday's and Friday's injury reports.",
         "url": "https://www.rotowire.com/football/news.php"
       },
       {
@@ -120,7 +156,7 @@
       },
       {
         "at": "2026-10-13T23:20:00Z",
-        "text": "With Raheim Sanders on IR and Dylan Sampson not yet back from IR, the backs behind Quinshon Judkins (CLE) are Jaleel McLaughlin and Audric Estime, signed Tuesday. Judkins is day to day with the ankle and RB24 for me vs BAL, an RB2. Monitor; Wednesday's practice report.",
+        "text": "With Raheim Sanders on IR and Dylan Sampson not yet back from IR, the backs behind Quinshon Judkins (CLE) are Jaleel McLaughlin and Audric Estime, signed Tuesday. Judkins is day to day with the ankle and RB33 for me vs BAL, a low-end RB3. Monitor; Wednesday's practice report.",
         "url": "https://www.clevelandbrowns.com/news/browns-sign-rb-audric-estime",
         "player": "Quinshon Judkins",
         "action": "MONITOR",
@@ -128,7 +164,7 @@
       },
       {
         "at": "2026-10-13T23:20:00Z",
-        "text": "Jim Harbaugh said Tuesday it is possible Ladd McConkey (LAC) works back in this week. McConkey left Week 4 @SEA with the foot after 2 targets and was active but did not play vs DEN. WR45 for me @KC, a low-end flex play to a dart throw, and WR21 rest of season. Monitor; Wednesday's practice report.",
+        "text": "Jim Harbaugh said Tuesday it is possible Ladd McConkey (LAC) works back in this week. McConkey left Week 4 @SEA with the foot after 2 targets and was active but did not play vs DEN. outside my top 50 receivers @KC until he plays, and WR21 rest of season. Monitor; Wednesday's practice report.",
         "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-13/harbaugh-possible-mcconkey-foot-works-back-in",
         "player": "Ladd McConkey",
         "action": "MONITOR",
@@ -161,7 +197,7 @@
         "at": "2026-10-13T22:10:00Z",
         "player": "Jaylen Warren",
         "action": "HOLD",
-        "text": "Mike McCarthy said Monday that Jaylen Warren (PIT) is \"our featured player right now\" and that his role will not change with Rico Dowdle (toe) getting healthy. Warren had 21 touches and 188 scrimmage yards in Week 5 and is RB8 for me this week @TB. He is RB23 rest of season for me, so the sell-before-Dowdle window is gone. Hold him; a near-even snap split in Dowdle's first active game would reopen the sell.",
+        "text": "Mike McCarthy said Monday that Jaylen Warren (PIT) is \"our featured player right now\" and that his role will not change with Rico Dowdle (toe) getting healthy. Warren had 21 touches and 188 scrimmage yards in Week 5 and is RB6 for me this week @TB. He is RB23 rest of season for me, so the sell-before-Dowdle window is gone. Hold him; a near-even snap split in Dowdle's first active game would reopen the sell.",
         "why": "A near-even snap split with Rico Dowdle in his first active game would reopen the sell.",
         "team": "PIT",
         "pos": "RB"
@@ -171,7 +207,7 @@
         "player": "Rhamondre Stevenson",
         "action": "START",
         "slot": "RB2",
-        "text": "Rhamondre Stevenson (NE) played 83 percent of the snaps vs LV after TreVeyon Henderson left with the high ankle sprain, 71 percent for the game, and Henderson is out multiple weeks. Stevenson is RB14 for me vs NYJ, borderline RB1/RB2 this week.",
+        "text": "Rhamondre Stevenson (NE) played 83 percent of the snaps vs LV after TreVeyon Henderson left with the high ankle sprain, 71 percent for the game, and Henderson is out multiple weeks. Stevenson is RB12 for me vs NYJ, borderline RB1/RB2 this week.",
         "team": "NE",
         "pos": "RB"
       },
@@ -219,7 +255,7 @@
         "team": "KC",
         "action": "MONITOR",
         "watch": "Wednesday's practice report",
-        "text": "Rashee Rice (KC) comes off the bye with the hamstring he hurt in the first quarter @LV in Week 4, which Ian Rapoport called relatively minor. He is WR38 for me vs LAC, a low-end flex play to a dart throw, until he practices. Monitor; Wednesday's practice report.",
+        "text": "Rashee Rice (KC) comes off the bye with the hamstring he hurt in the first quarter @LV in Week 4, which Ian Rapoport called relatively minor. He is WR27 for me vs LAC, a high-end WR3 play to a dart throw, until he practices. Monitor; Wednesday's practice report.",
         "url": "https://dknetwork.draftkings.com/2026/10/13/nfl-injury-report-week-6/"
       },
       {
@@ -234,7 +270,7 @@
       },
       {
         "at": "2026-10-13T16:25:00Z",
-        "text": "TreVeyon Henderson (NE) will miss multiple weeks with a high ankle sprain but does not need surgery, Adam Schefter reported Tuesday. Rhamondre Stevenson played 71 percent of the snaps vs LV after Henderson went down and is RB14 for me vs NYJ, borderline RB1/RB2 this week. Henderson is RB26 rest of season for me; hold him.",
+        "text": "TreVeyon Henderson (NE) will miss multiple weeks with a high ankle sprain but does not need surgery, Adam Schefter reported Tuesday. Rhamondre Stevenson played 71 percent of the snaps vs LV after Henderson went down and is RB12 for me vs NYJ, borderline RB1/RB2 this week. Henderson is RB26 rest of season for me; hold him.",
         "url": "https://sports.yahoo.com/nfl/live/nfl-news-live-injury-updates-from-week-5-marvin-harrison-jr-trade-141535298.html",
         "player": "TreVeyon Henderson",
         "action": "HOLD",
@@ -244,7 +280,7 @@
         "player": "Pat Freiermuth",
         "action": "HOLD",
         "why": "Fewer than 6 targets @TB, or Roman Wilson back from the finger, would make him a drop again.",
-        "text": "Pat Freiermuth (PIT) has 4 TDs in five games, and with Michael Pittman Jr. on IR and Roman Wilson and Ben Skowronek out, he is TE12 for me @TB, a borderline start this week. He is TE27 rest of season. Hold him through Week 6; fewer than 6 targets @TB puts him back on the drop list.",
+        "text": "Pat Freiermuth (PIT) has 4 TDs in five games, and with Michael Pittman Jr. on IR and Roman Wilson and Ben Skowronek out, he is TE13 for me @TB, a borderline start this week. He is TE27 rest of season. Hold him through Week 6; fewer than 6 targets @TB puts him back on the drop list.",
         "at": "2026-10-13T15:25:00Z",
         "pos": "TE"
       },
@@ -252,7 +288,7 @@
         "player": "Cam Skattebo",
         "action": "HOLD",
         "why": "A second straight game under half the backfield snaps, or a fumble benching, would make him a sell.",
-        "text": "Cam Skattebo (NYG) lost his fourth fumble in five games @WAS, but he still took 56 of 89 running back snaps, 63 percent, to 17 for Tyrone Tracy Jr. and 16 for Najee Harris. The usage says the job is his. RB16 for me vs NO, an RB2, and RB19 rest of season. Hold him; a snap share under half or a fumble benching would change that.",
+        "text": "Cam Skattebo (NYG) lost his fourth fumble in five games @WAS, but he still took 56 of 89 running back snaps, 63 percent, to 17 for Tyrone Tracy Jr. and 16 for Najee Harris. The usage says the job is his. RB17 for me vs NO, an RB2, and RB19 rest of season. Hold him; a snap share under half or a fumble benching would change that.",
         "at": "2026-10-13T15:10:00Z",
         "pos": "RB"
       },
@@ -260,7 +296,7 @@
         "player": "Jeremiyah Love",
         "action": "HOLD",
         "why": "Tyler Allgeier taking early-down carries as well as the passing downs would make him a sell.",
-        "text": "Jeremiyah Love (ARI) ran 12 times for 22 with 1 target vs DET, and Tyler Allgeier kept the passing downs. Arizona also lost its left tackle for the season. Love is still the early-down back, RB21 for me @LAR, an RB2, and RB15 rest of season. Hold him; Allgeier taking early downs too would make him a sell.",
+        "text": "Jeremiyah Love (ARI) ran 12 times for 22 with 1 target vs DET, and Tyler Allgeier kept the passing downs. Arizona also lost its left tackle for the season. Love is still the early-down back, RB18 for me @LAR, an RB2, and RB15 rest of season. Hold him; Allgeier taking early downs too would make him a sell.",
         "at": "2026-10-13T15:10:00Z",
         "pos": "RB"
       },
@@ -325,7 +361,7 @@
         "player": "Jameis Winston",
         "action": "STREAM",
         "faab": "0-2%",
-        "text": "Jameis Winston (NYG) threw 54 times for 326 yards and 3 TDs in the tie at WAS, after 250 yards and 3 TDs in Week 4. Malik Nabers drew 20 of those targets. Winston is QB16 for me this week vs NO, a streamer, and QB33 rest of season. Stream him, 0 to 2 percent of FAAB.",
+        "text": "Jameis Winston (NYG) threw 54 times for 326 yards and 3 TDs in the tie at WAS, after 250 yards and 3 TDs in Week 4. Malik Nabers drew 20 of those targets. Winston is QB17 for me this week vs NO, a streamer, and QB33 rest of season. Stream him, 0 to 2 percent of FAAB.",
         "at": "2026-10-13T15:00:00Z"
       },
       {
