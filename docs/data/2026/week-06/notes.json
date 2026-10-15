@@ -6,12 +6,21 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-14T23:25:00Z",
+  "updatedAt": "2026-10-15T16:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-15T16:10:00Z",
+        "player": "Baker Mayfield",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "text": "Baker Mayfield (TB) missed the open part of Thursday's practice too with the dislocated right thumb, per reporters at the facility, so Jalon Daniels is in line for a third straight start vs PIT. Daniels is QB27 for me, outside my top 12, and Mayfield is QB24 rest of season. Monitor; Friday's injury report.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-out-of-thursday-practice-jalon-daniels-again-in-line-to-start"
+      },
       {
         "at": "2026-10-14T23:25:00Z",
         "player": "Jaxon Smith-Njigba",
