@@ -156,6 +156,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Week 5 vs CLE (17-12 win): Kenyon Sadiq ruled out (concussion). Braelon Allen 22-yard TD, Garrett Wilson 32-yard TD (NFL.com).
 - 2026-10-14: Breece Hall (quad) did not practice, week to week; Adonai Mitchell is not back (finger procedure); Omar Cooper Jr.'s practice window opened. [pod 10-14, official]
 - 2026-10-14: Breece Hall still week to week and likely out Week 6 @NE; Braelon Allen played all but two snaps with Hall out in Week 4 (Yahoo Sports live updates).
+- 2026-10-15: Breece Hall: DNP Thursday (quad). Kenyon Sadiq limited (concussion). [NFL.com Thursday roundup, team reports]
 
 ## Other
 

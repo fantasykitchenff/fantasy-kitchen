@@ -6,12 +6,160 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-15T16:20:00Z",
+  "updatedAt": "2026-10-15T22:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Jalen Hurts",
+        "team": "PHI",
+        "pos": "QB",
+        "action": "PIVOT",
+        "to": "Tyler Shough",
+        "url": "https://www.philadelphiaeagles.com/news/panthers-vs-eagles-injury-report-2026-nfl-week-6-saquon-barkley-devonta-smith",
+        "text": "Jalen Hurts (PHI) is ruled out vs CAR with the calf after a full practice Wednesday and none Thursday, on the Eagles' report, and Tanner McKee starts. Hurts comes off the Menu and stays QB9 rest of season. Pivot to Tyler Shough, QB12 for me @NYG, a borderline start this week.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "David Montgomery",
+        "team": "HOU",
+        "pos": "RB",
+        "action": "PIVOT",
+        "to": "Woody Marks",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "David Montgomery (HOU) is ruled out @JAX with the groin and will not travel to London. Woody Marks played 56 of 65 snaps once Montgomery left at TEN. Pivot to Marks, RB20 for me, an RB2.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Mike Evans",
+        "team": "SF",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Saturday's injury report",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "Mike Evans (SF) did not practice Thursday with the ribs and Achilles, per Kyle Shanahan, with Deebo Samuel already out. Evans is WR12 for me vs WAS, borderline WR1/WR2, for now. Monitor; Saturday's injury report before Monday night.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Rashee Rice",
+        "team": "KC",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "Rashee Rice (KC) missed practice again Thursday with the hamstring and knee. He is WR27 for me vs LAC, a high-end WR3, and a sit without a full practice Friday. Monitor; Friday's injury report.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Chris Olave",
+        "team": "NO",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "Chris Olave (NO) missed a second straight practice with the illness. He stays WR6 for me @NYG for now. Monitor; Friday's injury report.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Jeremiyah Love",
+        "team": "ARI",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "Jeremiyah Love (ARI) did not practice Thursday either with the ankle, per local reporters. He is RB18 for me @LAR, an RB2, only if he practices Friday, and Tyler Allgeier (RB36) is the pivot. Monitor; Friday's injury report.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-remains-out-of-practice-on-thursday-for-week-6",
+        "text": "Lamar Jackson (BAL) missed practice again Thursday with the ankle, and Tyler Huntley starts @CLE if he sits. Jackson is QB15 for me this week, a streamer. Monitor; Friday's injury report.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Caleb Williams",
+        "team": "CHI",
+        "pos": "QB",
+        "action": "START",
+        "slot": "QB1",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "Caleb Williams (CHI) practiced in full Thursday off the hamstring, after a full estimate Wednesday. He is QB8 for me @ATL.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Michael Penix Jr.",
+        "team": "ATL",
+        "pos": "QB",
+        "action": "SIT",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "Michael Penix Jr. (ATL) practiced in full Thursday with the ribs and starts vs CHI. He is QB21 for me, outside my top 12; Drake London stays WR5.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "DeVonta Smith",
+        "team": "PHI",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.philadelphiaeagles.com/news/panthers-vs-eagles-injury-report-2026-nfl-week-6-saquon-barkley-devonta-smith",
+        "text": "DeVonta Smith (PHI) went from no practice Wednesday to limited Thursday with the hamstring and toe, and Tanner McKee is his quarterback vs CAR. Monitor; Friday's injury report.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Saquon Barkley",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "https://www.philadelphiaeagles.com/news/panthers-vs-eagles-injury-report-2026-nfl-week-6-saquon-barkley-devonta-smith",
+        "text": "Saquon Barkley (PHI) missed practice Wednesday and Thursday with the hamstring. Dameon Pierce had 11 carries as the last healthy back in Week 5 and is RB30 for me, a high-end RB3. Monitor; Friday's injury report.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Christian Kirk",
+        "team": "SF",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "his activation from IR",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "Christian Kirk (SF) had his 21-day IR window opened and was limited Thursday, per Kyle Shanahan, with Mike Evans hurt and Deebo Samuel out. Monitor; his activation from IR.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Stefon Diggs",
+        "team": "WAS",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Saturday's injury report",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "Stefon Diggs (WAS) did not practice Thursday with the hamstring, per Dan Quinn, ahead of Monday night @SF. Monitor; Saturday's injury report.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Tyjae Spears",
+        "team": "TEN",
+        "pos": "RB",
+        "action": "SIT",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "Tyjae Spears (TEN) was downgraded to no practice Thursday with the knee. He is RB40 for me @IND, a low-end flex play to a dart throw, and Tony Pollard is RB21, an RB2.",
+        "at": "2026-10-15T22:15:00Z"
+      },
+      {
+        "player": "Dylan Sampson",
+        "team": "CLE",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "1-3%",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
+        "text": "Dylan Sampson (CLE) was upgraded to limited Thursday off IR while Quinshon Judkins (RB33 for me) missed practice again with the ankle. Stash Sampson, 1 to 3 percent of FAAB.",
+        "at": "2026-10-15T22:15:00Z"
+      },
       {
         "at": "2026-10-15T16:20:00Z",
         "text": "DJ Moore (BUF) did not practice Wednesday with the AC joint sprain in his shoulder, after sitting Week 5 @LAR off one limited session. Keon Coleman caught 1 of 2 targets for a 7-yard TD without him. Moore needs a practice before he is in the lineup range @LV. Monitor; Friday's injury report.",
@@ -405,99 +553,6 @@
         "text": "Cam Skattebo (NYG) lost his fourth fumble in five games @WAS, but he still took 56 of 89 running back snaps, 63 percent, to 17 for Tyrone Tracy Jr. and 16 for Najee Harris. The usage says the job is his. RB17 for me vs NO, an RB2, and RB19 rest of season. Hold him; a snap share under half or a fumble benching would change that.",
         "at": "2026-10-13T15:10:00Z",
         "pos": "RB"
-      },
-      {
-        "player": "Jeremiyah Love",
-        "action": "HOLD",
-        "why": "Tyler Allgeier taking early-down carries as well as the passing downs would make him a sell.",
-        "text": "Jeremiyah Love (ARI) ran 12 times for 22 with 1 target vs DET, and Tyler Allgeier kept the passing downs. Arizona also lost its left tackle for the season. Love is still the early-down back, RB18 for me @LAR, an RB2, and RB15 rest of season. Hold him; Allgeier taking early downs too would make him a sell.",
-        "at": "2026-10-13T15:10:00Z",
-        "pos": "RB"
-      },
-      {
-        "player": "Ja'Kobi Lane",
-        "action": "STASH",
-        "faab": "0-2%",
-        "text": "Ja'Kobi Lane (BAL), on IR with the wrist, could return in Week 6, per team reports Tuesday. The rookie was competing with Rashod Bateman for the No. 2 job in camp. WR75 rest of season for me. Stash him in deep leagues, 0 to 2 percent of FAAB.",
-        "at": "2026-10-13T15:10:00Z",
-        "pos": "WR"
-      },
-      {
-        "player": "Bhayshul Tuten",
-        "action": "TRADE_FOR",
-        "price": "a WR3 and a bench back",
-        "text": "Bhayshul Tuten (JAX) ran 22 times vs PHI in London, a career high, and played 87.5 percent of the early-down snaps, up from 71 percent in Week 4. Chris Rodriguez Jr. is now the handcuff, and LeQuint Allen Jr. keeps third downs. Tuten is RB18 rest of season for me. Trade for him; offer a WR3 and a bench back.",
-        "at": "2026-10-13T15:00:00Z"
-      },
-      {
-        "player": "Kimani Vidal",
-        "action": "ADD",
-        "faab": "1-3%",
-        "text": "Kimani Vidal (LAC) led the Chargers' backs with 28 snaps vs DEN, 42 percent, and ran 8 times for 57 and a TD. His snap share has climbed five straight weeks, from 7 percent in Week 1 to 42 in Week 5. He is RB61 rest of season for me, a deep-league add. Add him, 1 to 3 percent of FAAB.",
-        "at": "2026-10-13T15:00:00Z"
-      },
-      {
-        "player": "Omarion Hampton",
-        "action": "HOLD",
-        "why": "A second straight week third in the snaps at KC makes him a sell.",
-        "text": "Omarion Hampton (LAC) played 30 percent of the snaps vs DEN, third of the three backs, though his 14 carries still led them. He runs behind a line with one starter left from September. Hampton is RB14 rest of season for me. Hold him; a second straight week third in the snaps at KC makes him a sell.",
-        "at": "2026-10-13T15:00:00Z"
-      },
-      {
-        "player": "RJ Harvey",
-        "action": "MONITOR",
-        "watch": "Thursday night's snap split vs SEA",
-        "text": "RJ Harvey (DEN) had 3 carries and 1 target at LAC, a week after catching 10 of 10. J.K. Dobbins took 18 of the 22 running back carries and is RB36 rest of season for me. Harvey is RB33 rest of season for me. Monitor Harvey; Thursday night's snap split vs SEA.",
-        "at": "2026-10-13T15:00:00Z"
-      },
-      {
-        "player": "Kendre Miller",
-        "action": "ADD",
-        "faab": "0-2%",
-        "text": "Kendre Miller (NO) led New Orleans with 10 carries for 30 and a TD vs MIN on 14 snaps, with Travis Etienne Jr. on IR and CJ Donaldson taking the protection snaps. Miller is RB62 rest of season for me. Add him, 0 to 2 percent of FAAB.",
-        "at": "2026-10-13T15:00:00Z"
-      },
-      {
-        "player": "Alvin Kamara",
-        "action": "MONITOR",
-        "watch": "Wednesday's injury report",
-        "text": "Alvin Kamara (NO) played 12 snaps vs MIN with a back injury and ran 3 times for 12. He is RB45 rest of season for me. Monitor; Wednesday's injury report before New Orleans goes to NYG.",
-        "at": "2026-10-13T15:00:00Z"
-      },
-      {
-        "player": "Tyler Shough",
-        "action": "MONITOR",
-        "watch": "Wednesday's injury report",
-        "text": "Tyler Shough (NO) has played two weeks in protective layers on his non-throwing left hand, and Kellen Moore would not say Monday whether it is broken. Shough threw for 96 yards and 2 INT vs MIN. He is QB12 rest of season for me. Monitor; Wednesday's injury report.",
-        "at": "2026-10-13T15:00:00Z"
-      },
-      {
-        "player": "Jameis Winston",
-        "action": "STREAM",
-        "faab": "0-2%",
-        "text": "Jameis Winston (NYG) threw 54 times for 326 yards and 3 TDs in the tie at WAS, after 250 yards and 3 TDs in Week 4. Malik Nabers drew 20 of those targets. Winston is QB17 for me this week vs NO, a streamer, and QB33 rest of season. Stream him, 0 to 2 percent of FAAB.",
-        "at": "2026-10-13T15:00:00Z"
-      },
-      {
-        "player": "Ashton Jeanty",
-        "action": "MONITOR",
-        "watch": "Wednesday's injury report",
-        "text": "Ashton Jeanty (LV) has seen his touches drop four straight weeks, from 29 in Week 1 to 13 at NE, where he played 53 percent of the snaps and Dylan Laube got 7 running back opportunities. Klint Kubiak said Jeanty is beat up and playing for his teammates. Jeanty is RB8 rest of season for me. Monitor; Wednesday's injury report.",
-        "at": "2026-10-13T15:00:00Z"
-      },
-      {
-        "player": "Colston Loveland",
-        "action": "HOLD",
-        "why": "If Caleb Williams misses another start and Loveland stays under 5 targets, he becomes a bench tight end.",
-        "text": "Colston Loveland (CHI) caught 2 of 5 for 19 at GB with the backups throwing, a week after 9 targets. Caleb Williams is on track to practice Wednesday. Loveland is TE4 rest of season for me. Hold him; Williams' return is the reset.",
-        "at": "2026-10-13T15:00:00Z"
-      },
-      {
-        "player": "Michael Wilson",
-        "action": "TRADE_FOR",
-        "price": "a bench receiver",
-        "text": "Michael Wilson (ARI) has 51 targets in five games, 10.2 a game, and Marvin Harrison Jr. is now in Houston. Wilson caught 4 of 7 for 30 vs DET behind a line without its left tackle. He is WR40 rest of season for me. Trade for him; offer a bench receiver.",
-        "at": "2026-10-13T15:00:00Z"
       }
     ]
   },
@@ -513,6 +568,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2110499899733365209"
+    },
+    {
+      "id": "2026w06-notes-thread-8cea",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

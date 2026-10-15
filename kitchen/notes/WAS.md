@@ -186,6 +186,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Jayden Daniels: will practice in full Wed to Fri with the left elbow; Dan Quinn's goal is for him to start vs NYG; team wants a full week first (Washington Post via Hogs Haven).
 - 2026-10-07: Jayden Daniels (elbow) practiced in full Wednesday; Quinn says a full practice by Friday puts him back vs NYG. Terry McLaurin (hamstring) and Stefon Diggs did not practice. Marcus Mariota's MCL sprain stays off IR (Wednesday report).
 - 2026-10-08: Terry McLaurin: DNP Thursday (hamstring), second straight day; Stefon Diggs reports conflict (CBS Sports).
+- 2026-10-15: Stefon Diggs: no practice Thursday (hamstring), per Dan Quinn. [NFL.com Thursday roundup, team reports]
 
 ## Other
 

@@ -186,6 +186,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Raheim Sanders (hip) left Week 5; Week 6 status unknown. Quinshon Judkins is day to day per Monken after leaving in a walking boot. [pod 10-13, beat]
 - 2026-10-14: Quinshon Judkins out of the walking boot on his right ankle in the locker room Wednesday but not practicing (Daniel Oyefusi, ESPN, via Rotowire).
 - 2026-10-14: KC Concepcion Jr. (concussion) progressing and set to practice Wednesday (Mary Kay Cabot, Cleveland Plain Dealer, via Rotowire).
+- 2026-10-15: Quinshon Judkins: DNP Thursday (ankle). Dylan Sampson upgraded to limited (knee). KC Concepcion limited (concussion). Denzel Boston limited (foot). [NFL.com Thursday roundup, team reports]
 
 ## Other
 

@@ -196,6 +196,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Saquon Barkley: hamstring tests Monday; Nick Sirianni says more answers probably Wednesday before London vs JAX; not believed overly serious (NFL Network). Will Shipley the only other RB on the active roster.
 - 2026-10-07: Saquon Barkley (hamstring) and DeVonta Smith (hamstring) were among seven Eagles who did not practice Wednesday before London vs JAX; Barkley remains week to week (Bleeding Green Nation, team report). [pod 10-8, official]
 - 2026-10-11: Will Shipley left the London game @JAX in the second quarter with a foot injury and did not return (5 carries for 6 yards and a TD, 1 catch for 7); Dameon Pierce and Carson Steele finished at RB (CBS Sports, Yahoo Sports).
+- 2026-10-15: Jalen Hurts: ruled out Week 6 vs CAR (calf; NFL.com reports a superficial blood clot), FP Wednesday, DNP Thursday; Tanner McKee starts. [philadelphiaeagles.com]
+- 2026-10-15: Saquon Barkley: DNP Wednesday and Thursday (hamstring). DeVonta Smith: DNP Wednesday, limited Thursday (hamstring/toe). Will Shipley DNP both days. [philadelphiaeagles.com]
 
 ## Other
 

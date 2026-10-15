@@ -137,6 +137,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Tua Tagovailoa: Tagovailoa injured his back almost immediately after Falcons camp opened and returned in limited fashion the following week. [8-5 32 team update and breakdown]
 - 2026-08-13: Drake London: Drake London played through a PCL injury in 2025. [8-13 TEs]
 - 2026-10-12: Michael Penix Jr.: hurt his ribs late in the 30-23 OT loss to BAL (19 of 32, 240, 1 TD); Tua Tagovailoa played OT; MRI Monday per Adam Schefter; Penix said he expects to be ready for Week 6 (Rotowire, UPI).
+- 2026-10-15: Michael Penix Jr.: full practice Thursday (ribs). [NFL.com Thursday roundup, team reports]
 
 ## Other
 

@@ -188,6 +188,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Malik Nabers (knee, sore) did not practice Wednesday; Cam Skattebo (shoulder) and Isaiah Likely (knee/groin) limited (giants.com, Wednesday report).
 - 2026-10-08: Malik Nabers: limited Thursday (knee) after a Wednesday DNP; Cam Skattebo limited (shoulder) but out of the red non-contact jersey; Andrew Thomas back at practice (Big Blue View).
 - 2026-10-14: Week 6 Wednesday report: Isaiah Likely (foot) and Najee Harris (ribs) full; Darnell Mooney (neck) and Theo Johnson (neck) limited; LT Andrew Thomas (groin), T Jermaine Eluemunor (calf) and LB Abdul Carter (calf) DNP (neworleanssaints.com).
+- 2026-10-15: Isaiah Likely full Thursday (foot). [NFL.com Thursday roundup, team reports]
 
 ## Other
 

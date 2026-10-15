@@ -165,6 +165,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: Ja'Kobi Lane (IR, wrist) could return in Week 6, per team reports carried Tuesday. [pod 10-13, beat]
 - 2026-10-14: Lamar Jackson (ankle) did not practice Wednesday and has not practiced since the 10/4 injury; Schefter reports a realistic chance he plays @CLE; Tyler Huntley starts if he cannot. [pod 10-14, official]
 - 2026-10-14: Ja'Kobi Lane returned to practice off IR (wrist surgery, missed four games); the team site lists him as activated. [pod 10-14, official]
+- 2026-10-15: Lamar Jackson: DNP Thursday (ankle), second straight day. Zay Flowers added as limited (toe); Rashod Bateman downgraded to DNP (shoulder); Ja'Kobi Lane full. [NFL.com Thursday roundup, team reports]
 
 ## Other
 

@@ -220,6 +220,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Deebo Samuel Sr. hurt his right hamstring on an end-around in the third quarter @SEA (fumbled on the play) and was ruled out; Jacob Cowing (ankle) questionable to return; Dre Greenlaw ejected in the first half (NFL.com, Yahoo Sports).
 - 2026-10-12: Christian Kirk (calf, IR) is unlikely to return to practice during Week 6 prep, per Kyle Shanahan on Monday. [pod 10-13, coach]
 - 2026-10-12: Deebo Samuel Sr. (hamstring) will miss at least a couple of weeks per Kyle Shanahan; Weeks 6 and 7 most likely, before the Week 8 bye. Jacob Cowing is not injured. [pod 10-14, coach]
+- 2026-10-15: Mike Evans: not practicing Thursday (ribs/Achilles), per Shanahan. Christian Kirk: 21-day IR window opened, limited Thursday. Deebo Samuel: IR considered, team waits until after the Week 8 bye. [NFL.com Thursday roundup, team reports]
 
 ## Other
 

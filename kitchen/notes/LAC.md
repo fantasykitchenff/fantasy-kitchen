@@ -188,6 +188,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Tre' Harris hurt his hamstring in the third quarter vs DEN after 2 catches for 16 and was questionable to return; Quentin Johnston inactive (chest); Ladd McConkey (foot) limited; Valdes-Scantling, Wease and Derius Davis left outside (NFL.com, Yahoo Sports, DraftSharks).
 - 2026-10-13: Jim Harbaugh: "possible" Ladd McConkey (foot) works back in this week @KC; Quentin Johnston (chest) probably limited in practice again; Tre' Harris (hamstring) week to week, LAC bye in Week 7; Joe Alt (neck) seeing a specialist (NBC Sports, Athlon, FantasyPros).
 - 2026-10-12: Tre' Harris week to week (hamstring); Quentin Johnston (chest) inactive Week 5; Joe Alt seeing a neck specialist; Scott Matlock back from IR. Harbaugh said Ladd McConkey would practice Wednesday. [pod 10-14, coach]
+- 2026-10-15: Ladd McConkey, Quentin Johnston limited Thursday; Joe Alt DNP; FB Alec Ingold to IR. [NFL.com Thursday roundup, team reports]
 
 ## Other
 

@@ -197,6 +197,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Jeremiyah Love was slow to get up after a rep in Thursday's open practice and returned to work; he is not on the injury report. [pod 10-2, beat]
 - 2026-10-05: Jeremiyah Love: Mike LaFleur said Love tweaked his other ankle Sunday at NYG (NBC Sports). [pod 10-5, coach]
 - 2026-10-14: Jeremiyah Love (ankle) sat out Wednesday's practice for recovery and rest; Sunday status not set (Yahoo Sports live updates).
+- 2026-10-15: Jeremiyah Love: not seen at practice Thursday (ankle), after missing Wednesday, per local reporters. [NFL.com Thursday roundup, team reports]
 
 ## Other
 

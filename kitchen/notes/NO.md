@@ -193,6 +193,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Alvin Kamara (back) did not practice Wednesday (walkthrough estimate); Chris Olave rest day; Tyler Shough (left hand) limited, says he will play vs MIN (ESPN, Saints report).
 - 2026-10-08: Alvin Kamara: DNP Wednesday, limited Thursday (back); Tyler Shough full Thursday (left hand); Chris Olave limited Thursday, foot added to the rest designation (Saints Thursday report).
 - 2026-10-14: Week 6 Wednesday report: Chris Olave (illness) DNP; Alvin Kamara (back) limited; Tyler Shough (left hand) full; LB Kaden Elliss (calf) DNP (neworleanssaints.com).
+- 2026-10-15: Chris Olave: DNP Wednesday and Thursday (illness). Alvin Kamara: limited both days (back). Tyler Shough full both days (left hand). [NFL.com Thursday roundup, team reports]
 
 ## Other
 
