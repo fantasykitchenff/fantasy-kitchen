@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 6,
-  "updatedAt": "2026-10-15T22:17:58Z",
+  "updatedAt": "2026-10-15T23:14:35Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 6,
+      "path": "2026/week-06/notes.json",
+      "title": "Kitchen notes, Week 6",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-13T15:00:00Z",
+      "updatedAt": "2026-10-15T23:10:00Z"
+    },
     {
       "series": "menu",
       "week": 6,
@@ -11,15 +20,6 @@
       "dek": "Kenneth Walker III comes off the bye as RB1, Woody Marks jumps to RB20, and Christian Watson is WR4 after 143 yards and 2 TDs.",
       "publishedAt": "2026-10-13T14:48:00Z",
       "updatedAt": "2026-10-15T22:20:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 6,
-      "path": "2026/week-06/notes.json",
-      "title": "Kitchen notes, Week 6",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-13T15:00:00Z",
-      "updatedAt": "2026-10-15T22:15:00Z"
     },
     {
       "series": "line",

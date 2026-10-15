@@ -6,12 +6,22 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-15T22:15:00Z",
+  "updatedAt": "2026-10-15T23:10:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-15T23:10:00Z",
+        "player": "Emanuel Wilson",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB2",
+        "url": "https://heavy.com/sports/nfl/seattle-seahawks/broncos-inactives-thursday-night-football/",
+        "text": "Seattle's inactives @DEN are out: Robert Henry sits, and Emanuel Wilson leads a three-back group with George Holani and Velus Jones Jr. while Zach Charbonnet is out. Wilson had 20 of the 24 running back carries vs SF. He is RB16 for me tonight, an RB2."
+      },
       {
         "player": "Jalen Hurts",
         "team": "PHI",
@@ -545,14 +555,6 @@
         "text": "Pat Freiermuth (PIT) has 4 TDs in five games, and with Michael Pittman Jr. on IR and Roman Wilson and Ben Skowronek out, he is TE13 for me @TB, a borderline start this week. He is TE27 rest of season. Hold him through Week 6; fewer than 6 targets @TB puts him back on the drop list.",
         "at": "2026-10-13T15:25:00Z",
         "pos": "TE"
-      },
-      {
-        "player": "Cam Skattebo",
-        "action": "HOLD",
-        "why": "A second straight game under half the backfield snaps, or a fumble benching, would make him a sell.",
-        "text": "Cam Skattebo (NYG) lost his fourth fumble in five games @WAS, but he still took 56 of 89 running back snaps, 63 percent, to 17 for Tyrone Tracy Jr. and 16 for Najee Harris. The usage says the job is his. RB17 for me vs NO, an RB2, and RB19 rest of season. Hold him; a snap share under half or a fumble benching would change that.",
-        "at": "2026-10-13T15:10:00Z",
-        "pos": "RB"
       }
     ]
   },
