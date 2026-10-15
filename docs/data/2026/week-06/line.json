@@ -1,0 +1,364 @@
+{
+  "series": "line",
+  "season": 2026,
+  "week": 6,
+  "title": "Serve or Sit, Week 6",
+  "dek": "Bhayshul Tuten has the Jacksonville backfield to himself, and Lamar Jackson sits outside my top 12 until he practices.",
+  "format": "PPR",
+  "publishedAt": "2026-10-15T13:50:22Z",
+  "updatedAt": "2026-10-15T13:50:22Z",
+  "author": "Chef Hazy",
+  "intro_md": "Thursday is for the players you are agonizing over. Studs are not here. Every call below is the player's rank on this week's [Menu](menu.html?week=6) and the tier it falls in, PPR scoring, and you decide. Cincinnati, Detroit, Miami and Minnesota are on bye.\n\nThursday night first: Seattle @DEN, 8:15 PM ET, Seattle favored by 2.5 with a 40.5 total and Pat Surtain II not in line to play. Then the thirteen the week favors, the ten it does not, and six coin flips where Friday's injury report picks the side. Wednesday's practice reports are in; Thursday's are not.",
+  "outro_md": "Prep Notes reconciles the ranks Friday after the final injury report. Sunday morning, Order Up carries the inactives and the pivots as each window's reports drop.",
+  "data": {
+    "tnf": [
+      {
+        "player": "Jaxon Smith-Njigba",
+        "team": "SEA",
+        "pos": "WR",
+        "opp": "@DEN",
+        "why": "He practiced in full Wednesday with the ankle and has no designation. He drew 37.9 percent of Seattle's targets through Week 3, and Denver's top corner, Pat Surtain II, did not practice and is not in line to play.",
+        "verdict": "WR2 for me tonight; the ankle is cleared and the best corner he would face is out.",
+        "action": "START",
+        "slot": "WR1"
+      },
+      {
+        "player": "Emanuel Wilson",
+        "team": "SEA",
+        "pos": "RB",
+        "opp": "@DEN",
+        "why": "20 carries for 61 and a TD vs SF, with George Holani at 4 carries. Zach Charbonnet is still on PUP and will not be activated for this game.",
+        "verdict": "RB16 for me tonight, an RB2; the early-down carries are his until Charbonnet is back.",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "player": "RJ Harvey",
+        "team": "DEN",
+        "pos": "RB",
+        "opp": "vs SEA",
+        "why": "3 carries and 1 target @LAC, a week after catching 10 of 10 for 68. Sean Payton took back the play calls in Week 5 and gave the early downs to J.K. Dobbins.",
+        "verdict": "RB25 for me tonight, a high-end RB3 and a high-end flex play; the catches are the whole case and they vanished last week.",
+        "action": "FLEX",
+        "slot": "FLEX"
+      },
+      {
+        "player": "J.K. Dobbins",
+        "team": "DEN",
+        "pos": "RB",
+        "opp": "vs SEA",
+        "why": "18 of Denver's 22 running back carries @LAC, for 68 and a TD. He is at 3.5 yards a carry for the season.",
+        "verdict": "RB27 for me tonight, a high-end RB3, a flex play on volume alone.",
+        "action": "FLEX",
+        "slot": "FLEX"
+      },
+      {
+        "player": "Jaylen Waddle",
+        "team": "DEN",
+        "pos": "WR",
+        "opp": "vs SEA",
+        "why": "2 of 5 for 19 @LAC on 40 snaps, behind Courtland Sutton's 50. Outside Week 2 he has 10 catches for 66 yards across four games. The total is 40.5, one of the lowest of the week.",
+        "verdict": "WR26 for me tonight, a high-end WR3, a flex play with a low floor.",
+        "action": "FLEX",
+        "slot": "FLEX"
+      }
+    ],
+    "starts": [
+      {
+        "player": "Trevor Lawrence",
+        "team": "JAX",
+        "pos": "QB",
+        "opp": "vs HOU",
+        "why": "331 passing yards vs PHI in London. Jacksonville is a 2.5-point favorite and Brenton Strange has drawn 14 of his throws over the last two weeks.",
+        "verdict": "QB12 for me, a borderline start this week.",
+        "action": "START",
+        "slot": "QB1"
+      },
+      {
+        "player": "Bhayshul Tuten",
+        "team": "JAX",
+        "pos": "RB",
+        "opp": "vs HOU",
+        "why": "22 of Jacksonville's 24 running back carries in London, a career high, on 87.5 percent of the early-down snaps.",
+        "verdict": "RB15 for me this week, an RB2; the backfield is his alone now.",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "player": "Cam Skattebo",
+        "team": "NYG",
+        "pos": "RB",
+        "opp": "vs NO",
+        "why": "56 of 89 running back snaps @WAS, 63 percent, despite his fourth fumble in five games. Tyrone Tracy Jr. had 17 and Najee Harris 16.",
+        "verdict": "RB17 for me this week, an RB2.",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "player": "Braelon Allen",
+        "team": "NYJ",
+        "pos": "RB",
+        "opp": "@NE",
+        "why": "Breece Hall did not practice Wednesday and is likely out. Allen played all but two snaps the last time Hall sat, in Week 4, and scored from 22 yards vs CLE.",
+        "verdict": "RB19 for me this week, an RB2.",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "player": "Woody Marks",
+        "team": "HOU",
+        "pos": "RB",
+        "opp": "@JAX",
+        "why": "56 of 65 snaps at TEN after David Montgomery left, 15 carries for 62 plus 4 catches. Montgomery missed practice again Wednesday and is week to week with the groin.",
+        "verdict": "RB20 for me this week, an RB2.",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "player": "Denzel Boston",
+        "team": "CLE",
+        "pos": "WR",
+        "opp": "vs BAL",
+        "why": "A route on 91 percent of the dropbacks @NYJ and 7 targets, a 22 percent share. He played 95 percent of the snaps vs PIT in Week 4.",
+        "verdict": "WR19 for me this week, a WR2.",
+        "action": "START",
+        "slot": "WR2"
+      },
+      {
+        "player": "Luther Burden III",
+        "team": "CHI",
+        "pos": "WR",
+        "opp": "@ATL",
+        "why": "11 targets, 7 for 61 and a TD in Week 3, and a 25 percent target share through three games. Williams was full on Wednesday's estimate, and CHI @ATL carries a 51.5 total, one of the highest of the week.",
+        "verdict": "WR20 for me this week, a WR2.",
+        "action": "START",
+        "slot": "WR2"
+      },
+      {
+        "player": "Kendrick Bourne",
+        "team": "ARI",
+        "pos": "WR",
+        "opp": "@LAR",
+        "why": "5 of 8 targets for a team-high 70 vs DET with Marvin Harrison Jr. inactive, and Harrison is now in Houston. Arizona is a 12.5-point underdog, so the throws will be there.",
+        "verdict": "WR36 for me, a low-end WR3 and a low-end flex play.",
+        "action": "FLEX",
+        "slot": "FLEX"
+      },
+      {
+        "player": "Germie Bernard",
+        "team": "PIT",
+        "pos": "WR",
+        "opp": "@TB",
+        "why": "32 routes on Aaron Rodgers' 34 dropbacks vs IND and 9 targets to DK Metcalf's 4, 6 for 80. Roman Wilson is out for weeks and Michael Pittman Jr. is on IR.",
+        "verdict": "WR34 for me, a low-end WR3 and a low-end flex play.",
+        "action": "FLEX",
+        "slot": "FLEX"
+      },
+      {
+        "player": "Keenan Allen",
+        "team": "IND",
+        "pos": "WR",
+        "opp": "vs TEN",
+        "why": "9 targets in each of his last two games, with at least 5 catches each time, and Alec Pierce is on IR. His Wednesday DNP was rest, with no injury listed.",
+        "verdict": "WR38 for me, a low-end flex play to a dart throw, and the targets make him the best of that range.",
+        "action": "FLEX",
+        "slot": "FLEX"
+      },
+      {
+        "player": "Tyler Warren",
+        "team": "IND",
+        "pos": "TE",
+        "opp": "vs TEN",
+        "why": "7 of 9 for 83 at PIT, tied for the team lead in targets, plus a 1-yard rushing TD. Indianapolis is a 7-point home favorite.",
+        "verdict": "TE5 for me this week.",
+        "action": "START",
+        "slot": "TE1"
+      },
+      {
+        "player": "Brenton Strange",
+        "team": "JAX",
+        "pos": "TE",
+        "opp": "vs HOU",
+        "why": "14 of 16 targets for 163 over Weeks 4 and 5, a 26.2 percent share, the team high.",
+        "verdict": "TE12 for me, a borderline start this week.",
+        "action": "START",
+        "slot": "TE1"
+      },
+      {
+        "player": "Pat Freiermuth",
+        "team": "PIT",
+        "pos": "TE",
+        "opp": "@TB",
+        "why": "5 catches for 44 and 2 TDs vs IND, and 4 TDs in five games. Three Steelers receivers are out, so the targets have to go somewhere.",
+        "verdict": "TE13 for me, a borderline start this week.",
+        "action": "START",
+        "slot": "TE1"
+      }
+    ],
+    "sits": [
+      {
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "opp": "@CLE",
+        "why": "He has not practiced since the Oct. 4 ankle injury, Wednesday included, and Tyler Huntley starts if he sits.",
+        "verdict": "QB16 for me, a streamer; sit him for any quarterback in my top 12 unless he practices in full by Friday.",
+        "action": "SIT"
+      },
+      {
+        "player": "Aaron Rodgers",
+        "team": "PIT",
+        "pos": "QB",
+        "opp": "@TB",
+        "why": "3 TD passes in three straight games, but only 235 yards vs IND, and the three games were about 22 points each. PIT @TB has a 39.5 total, the lowest of the week.",
+        "verdict": "QB18 for me, a streamer; sit him for any quarterback in my top 12.",
+        "action": "SIT"
+      },
+      {
+        "player": "Bo Nix",
+        "team": "DEN",
+        "pos": "QB",
+        "opp": "vs SEA",
+        "why": "16 of 27 for 123 @LAC, under 15 fantasy points in four of five games, and his best rushing game this season is 10 yards.",
+        "verdict": "QB23 for me, outside my top 12; sit him Thursday.",
+        "action": "SIT"
+      },
+      {
+        "player": "Justin Herbert",
+        "team": "LAC",
+        "pos": "QB",
+        "opp": "@KC",
+        "why": "14 of 24 for 121 vs DEN, sacked 5 times, and no game over 15 fantasy points in five tries. Kansas City is an 8.5-point favorite, and one starting lineman is left from September.",
+        "verdict": "QB24 for me, outside my top 12; sit him.",
+        "action": "SIT"
+      },
+      {
+        "player": "Dameon Pierce",
+        "team": "PHI",
+        "pos": "RB",
+        "opp": "vs CAR",
+        "why": "11 carries for 14 yards in London after Will Shipley went down. Saquon Barkley's status decides whether he plays at all.",
+        "verdict": "RB30 for me, a high-end RB3 only if Barkley sits; sit him until Friday's report says Barkley is out.",
+        "action": "SIT"
+      },
+      {
+        "player": "Quinshon Judkins",
+        "team": "CLE",
+        "pos": "RB",
+        "opp": "vs BAL",
+        "why": "Out of the walking boot but did not practice Wednesday with the right ankle. He ran 14 times for 44 @NYJ before leaving.",
+        "verdict": "RB33 for me, a low-end RB3; sit him for any RB2 unless he practices by Friday.",
+        "action": "SIT"
+      },
+      {
+        "player": "Rachaad White",
+        "team": "WAS",
+        "pos": "RB",
+        "opp": "@SF",
+        "why": "He led the backs with 37 snaps vs NYG but ran 7 times for 18, while Jacory Croskey-Merritt ran 11 times for 82 and a TD on 22 snaps.",
+        "verdict": "RB35 for me, a low-end RB3; sit him.",
+        "action": "SIT"
+      },
+      {
+        "player": "Chris Godwin Jr.",
+        "team": "TB",
+        "pos": "WR",
+        "opp": "vs PIT",
+        "why": "10 catches for 111 through his first three games, and he missed practice with the ankle in Week 4. PIT @TB has the lowest total of the week, 39.5.",
+        "verdict": "WR47 for me, a dart throw; sit him for any Tier 5 receiver.",
+        "action": "SIT"
+      },
+      {
+        "player": "Mark Andrews",
+        "team": "BAL",
+        "pos": "TE",
+        "opp": "@CLE",
+        "why": "4 of 6 for 28 at ATL with three drops and a lost fumble returned for a TD, and Lamar Jackson has not practiced.",
+        "verdict": "TE14 for me, a borderline start at best; sit him for Brenton Strange or Pat Freiermuth.",
+        "action": "SIT"
+      },
+      {
+        "player": "Colston Loveland",
+        "team": "CHI",
+        "pos": "TE",
+        "opp": "@ATL",
+        "why": "2 of 5 for 19 at GB, and no catches in Week 1 with Caleb Williams at quarterback, when Chicago scored 59.",
+        "verdict": "TE15 for me, a streamer; sit him until Williams shows he is looking his way.",
+        "action": "SIT"
+      }
+    ],
+    "coinflips": [
+      {
+        "player": "Caleb Williams",
+        "team": "CHI",
+        "pos": "QB",
+        "opp": "@ATL",
+        "why": "Full on Wednesday's estimated report off the Grade 2 hamstring strain from Sept. 20; Tyson Bagent started the last two games. CHI @ATL carries a 51.5 total. Jalen Hurts, QB9, threw for 220 on 40 attempts in London.",
+        "verdict": "QB8 for me this week, and the lean is to play him over Jalen Hurts.",
+        "action": "START",
+        "slot": "QB1",
+        "flip_if": "He is limited or listed questionable Friday; then Hurts vs CAR is the play."
+      },
+      {
+        "player": "Ashton Jeanty",
+        "team": "LV",
+        "pos": "RB",
+        "opp": "vs BUF",
+        "why": "His touches have dropped four straight weeks, 29 to 13, and Dylan Laube took 7 running back opportunities at NE. Klint Kubiak says he plays through the foot, and BUF @LV has the highest total of the week, 53.5.",
+        "verdict": "RB13 for me, borderline RB1/RB2 this week, and the lean is to play him.",
+        "action": "START",
+        "slot": "RB2",
+        "flip_if": "He misses Friday's practice or the touches fall under 13 again; then he is an RB3."
+      },
+      {
+        "player": "Jeremiyah Love",
+        "team": "ARI",
+        "pos": "RB",
+        "opp": "@LAR",
+        "why": "12 carries for 22 and 1 target vs DET, with Tyler Allgeier on the passing downs. He sat out Wednesday to rest the ankle. Arizona is a 12.5-point underdog, which pulls snaps toward Allgeier.",
+        "verdict": "RB18 for me this week, an RB2, and the lean is to play him.",
+        "action": "START",
+        "slot": "RB2",
+        "flip_if": "He does not practice Thursday or Friday; then Woody Marks or Braelon Allen is the play."
+      },
+      {
+        "player": "Omarion Hampton",
+        "team": "LAC",
+        "pos": "RB",
+        "opp": "@KC",
+        "why": "30 percent of the snaps vs DEN, third of three backs, behind Kimani Vidal (42) and Keaton Mitchell (34). His 14 carries still led them, for 33 yards. The Menu has him above the backs listed here; the usage does not, and Prep Notes reconciles it Friday.",
+        "verdict": "RB23 for me, the bottom of the RB2 range, and the lean is to sit him for Woody Marks or Braelon Allen.",
+        "action": "SIT",
+        "flip_if": "He leads the backfield in snaps at KC, or Vidal is limited Friday."
+      },
+      {
+        "player": "Alvin Kamara",
+        "team": "NO",
+        "pos": "RB",
+        "opp": "@NYG",
+        "why": "12 snaps and 3 carries vs MIN with the back, and he was limited again Wednesday. Kendre Miller had all 4 of the Saints' red-zone carries in Week 5.",
+        "verdict": "RB26 for me, a high-end RB3, and the lean is to sit him for a back who practiced in full.",
+        "action": "SIT",
+        "flip_if": "He practices in full Friday with no designation; then he is a flex play."
+      },
+      {
+        "player": "Rashee Rice",
+        "team": "KC",
+        "pos": "WR",
+        "opp": "vs LAC",
+        "why": "He did not practice Wednesday with the hamstring. KC is an 8.5-point favorite vs a Chargers team that is 0-5.",
+        "verdict": "WR27 for me, a high-end WR3, and the lean is to sit him.",
+        "action": "SIT",
+        "flip_if": "He practices in full by Friday with no designation; then he is a flex play vs LAC."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w06-line-thread-e2bd",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

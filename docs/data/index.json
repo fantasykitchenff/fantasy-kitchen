@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 6,
-  "updatedAt": "2026-10-14T23:15:25Z",
+  "updatedAt": "2026-10-15T13:51:47Z",
   "pieces": [
+    {
+      "series": "line",
+      "week": 6,
+      "path": "2026/week-06/line.json",
+      "title": "Serve or Sit, Week 6",
+      "dek": "Bhayshul Tuten has the Jacksonville backfield to himself, and Lamar Jackson sits outside my top 12 until he practices.",
+      "publishedAt": "2026-10-15T13:50:22Z",
+      "updatedAt": "2026-10-15T13:50:22Z"
+    },
     {
       "series": "menu",
       "week": 6,
