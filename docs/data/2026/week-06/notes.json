@@ -6,12 +6,61 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-15T23:10:00Z",
+  "updatedAt": "2026-10-16T16:25:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-16T16:25:00Z",
+        "player": "Baker Mayfield",
+        "team": "TB",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "next week's practice reports, whether he can grip the ball",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-live-week-6-152344178.html",
+        "text": "Baker Mayfield (TB) will not play vs PIT with the dislocated right thumb, and Jalon Daniels makes a third straight start. Daniels is QB27 for me, outside my top 12, and Mayfield is QB24 rest of season. Monitor; next week's practice reports, to see if he can grip the ball."
+      },
+      {
+        "at": "2026-10-16T16:25:00Z",
+        "player": "Emanuel Wilson",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "DROP",
+        "url": "https://www.rotowire.com/football/article/nfl-box-score-breakdown-seahawks-broncos-recap-usage-stats-tnf-141447",
+        "text": "Emanuel Wilson (SEA) got 14 carries for 52 yards in the 17-14 overtime loss @DEN, but he played only 33 percent of the snaps and ran 9 routes. George Holani played 56 percent and ran 27 routes on Darnold's 51 throws. With Zach Charbonnet close to coming off PUP, Wilson is RB59 rest of season for me. Drop him for any add on the list."
+      },
+      {
+        "at": "2026-10-16T16:25:00Z",
+        "player": "Zach Charbonnet",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "HOLD",
+        "why": "The call changes if Seattle leaves him on PUP through Week 7.",
+        "url": "https://www.rotowire.com/football/article/nfl-box-score-breakdown-seahawks-broncos-recap-usage-stats-tnf-141447",
+        "text": "Zach Charbonnet (SEA) sat out a second game on PUP with the knee, and no Seattle back cleared 56 percent of the snaps @DEN without him. He is RB47 rest of season for me. Hold him; the call changes if Seattle leaves him on PUP through Week 7."
+      },
+      {
+        "at": "2026-10-16T16:25:00Z",
+        "player": "Jaylen Waddle",
+        "team": "DEN",
+        "pos": "WR",
+        "action": "HOLD",
+        "why": "The call changes if the shoulder costs him practice time next week.",
+        "url": "https://www.rotowire.com/football/article/nfl-box-score-breakdown-seahawks-broncos-recap-usage-stats-tnf-141447",
+        "text": "Jaylen Waddle (DEN) caught 4 of 7 targets for 24 yards vs SEA, with a 29 percent target share and a route on 80 percent of Bo Nix's dropbacks, in a game where Nix threw for 107 yards. He left briefly with the shoulder and came back. He is WR15 rest of season for me. Hold him; the call changes if the shoulder costs him practice time next week."
+      },
+      {
+        "at": "2026-10-16T16:25:00Z",
+        "player": "RJ Harvey",
+        "team": "DEN",
+        "pos": "RB",
+        "action": "HOLD",
+        "why": "The call changes if his route share drops under a third of the dropbacks again in Week 7.",
+        "url": "https://www.rotowire.com/football/article/nfl-box-score-breakdown-seahawks-broncos-recap-usage-stats-tnf-141447",
+        "text": "RJ Harvey (DEN) got 4 targets and ran a route on 40 percent of the dropbacks vs SEA after 1 target in Week 5, with 6 carries for 25 yards, a rushing touchdown and 3 catches for 31. J.K. Dobbins played 54 percent of the snaps to Harvey's 37 and ran 17 times for 41 and a score. Harvey is RB33 rest of season for me, Dobbins RB36. Hold Harvey; the call changes if his route share drops under a third of the dropbacks again in Week 7."
+      },
       {
         "at": "2026-10-15T23:10:00Z",
         "player": "Emanuel Wilson",
@@ -509,52 +558,6 @@
         "watch": "Tuesday's and Wednesday's injury reports before Thursday @DEN",
         "text": "Jaxon Smith-Njigba (SEA) was limited on Seattle's Monday estimate with the ankle he hurt on a run in Week 5, per Bob Condotta of the Seattle Times, though he missed little time in the game. He is WR2 for me @DEN Thursday with a 37.9 percent target share through Week 3. Monitor; Tuesday's and Wednesday's injury reports.",
         "url": "https://dknetwork.draftkings.com/2026/10/13/nfl-injury-report-week-6/"
-      },
-      {
-        "at": "2026-10-13T16:30:00Z",
-        "player": "DJ Moore",
-        "pos": "WR",
-        "team": "BUF",
-        "action": "MONITOR",
-        "watch": "Wednesday's injury report",
-        "text": "DJ Moore (BUF) sat Monday night @LAR with the AC joint sprain in his shoulder after one limited practice, and Adam Schefter reports it is not long term. Keon Coleman caught 1 of 2 targets without him. Moore is WR23 rest of season for me. Monitor; Wednesday's injury report before @LV.",
-        "url": "https://dknetwork.draftkings.com/2026/10/13/nfl-injury-report-week-6/"
-      },
-      {
-        "at": "2026-10-13T16:30:00Z",
-        "player": "Rashee Rice",
-        "pos": "WR",
-        "team": "KC",
-        "action": "MONITOR",
-        "watch": "Wednesday's practice report",
-        "text": "Rashee Rice (KC) comes off the bye with the hamstring he hurt in the first quarter @LV in Week 4, which Ian Rapoport called relatively minor. He is WR27 for me vs LAC, a high-end WR3 play to a dart throw, until he practices. Monitor; Wednesday's practice report.",
-        "url": "https://dknetwork.draftkings.com/2026/10/13/nfl-injury-report-week-6/"
-      },
-      {
-        "at": "2026-10-13T16:30:00Z",
-        "player": "Jalen Coker",
-        "pos": "WR",
-        "team": "CAR",
-        "action": "START",
-        "slot": "WR2",
-        "text": "Dave Canales said Monday that Jalen Coker (CAR) is on track to return from the quad that kept him out in Week 4, before the bye, per Joe Person of The Athletic. WR18 for me this week @PHI, a WR2.",
-        "url": "https://dknetwork.draftkings.com/2026/10/13/nfl-injury-report-week-6/"
-      },
-      {
-        "at": "2026-10-13T16:25:00Z",
-        "text": "TreVeyon Henderson (NE) will miss multiple weeks with a high ankle sprain but does not need surgery, Adam Schefter reported Tuesday. Rhamondre Stevenson played 71 percent of the snaps vs LV after Henderson went down and is RB12 for me vs NYJ, borderline RB1/RB2 this week. Henderson is RB26 rest of season for me; hold him.",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-live-injury-updates-from-week-5-marvin-harrison-jr-trade-141535298.html",
-        "player": "TreVeyon Henderson",
-        "action": "HOLD",
-        "why": "A move to injured reserve or a timeline past four weeks would make him a drop in shallow leagues."
-      },
-      {
-        "player": "Pat Freiermuth",
-        "action": "HOLD",
-        "why": "Fewer than 6 targets @TB, or Roman Wilson back from the finger, would make him a drop again.",
-        "text": "Pat Freiermuth (PIT) has 4 TDs in five games, and with Michael Pittman Jr. on IR and Roman Wilson and Ben Skowronek out, he is TE13 for me @TB, a borderline start this week. He is TE27 rest of season. Hold him through Week 6; fewer than 6 targets @TB puts him back on the drop list.",
-        "at": "2026-10-13T15:25:00Z",
-        "pos": "TE"
       }
     ]
   },

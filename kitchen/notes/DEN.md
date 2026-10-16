@@ -94,6 +94,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-06: J.K. Dobbins: 46 carries for 161 (3.5 a carry) in four games; snap share 52% in Week 3, 42% in Week 4 (season totals from weekly reports).
 - 2026-10-11: J.K. Dobbins 18 carries for 68 and a TD @LAC; RJ Harvey 3 for 7, 1 target, no catches (Fox box).
 - 2026-10-11: Wk5 at LAC: J.K. Dobbins 18 carries for 68 and a TD plus 2 catches for 6 (18 of the 22 RB carries). RJ Harvey 3 carries and 0 of 1 after 10 of 10 for 68 and 7 carries in Week 4. [pod 10-13, deployment]
+- 2026-10-15: Week 6 vs SEA (won 17-14 OT): J.K. Dobbins 54% snaps, 7 routes, 17-41-1, 3-5; RJ Harvey 37% snaps, 12 routes (40%), 6-25-1, 3-31 on 4 targets; Tyler Badie left with a thumb injury (Rotowire usage).
 
 ## Receivers
 
@@ -150,6 +151,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-06: Pat Bryant: sprained ankle from Week 4 @SF, high-ankle suspected, expected to miss a few weeks (ESPN via PFT, Mile High Report).
 - 2026-10-11: Jaylen Waddle 2 of 5 for 19; outside Week 2 he has 10 catches for 66 and a TD in four games (2, 10, 35, 19 yards). Troy Franklin 2 of 2 for 16 with Pat Bryant on IR. [pod 10-13, deployment]
 - 2026-10-11: Snaps @LAC: Courtland Sutton 50, Jaylen Waddle 40, Troy Franklin 39; RJ Harvey 23 among the backs. Pat Bryant on IR (ankle). [pod 10-14, deployment]
+- 2026-10-15: Week 6 vs SEA: Bo Nix 17 of 27 for 107; Jaylen Waddle 4-24 on 7 targets (29%), 80% routes, left briefly with a shoulder injury and returned; Courtland Sutton 2-19 on 3, 87% routes (Rotowire, PFR).
 
 ## Tight ends
 

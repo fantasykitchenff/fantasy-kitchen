@@ -168,6 +168,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Baker Mayfield (right thumb) not on the field for Wednesday's practice (Greg Auman, Fox Sports); unlikely to play Week 6 vs PIT though he may do some work in practice this week (Mike Garafolo, NFL Network, via Rotowire).
 - 2026-10-15: Baker Mayfield (right thumb) missed the media-open part of Thursday's practice; Jalon Daniels in line for a third start vs PIT (PFT, multiple reporters).
 - 2026-10-15: Baker Mayfield DNP Thursday (right thumb). [NFL.com Thursday roundup, team reports]
+- 2026-10-16: Baker Mayfield (right thumb) will not play Week 6 vs PIT; Jalon Daniels starts a third straight game (Yahoo Sports live updates, Bucs reporting).
 
 ## Other
 

@@ -74,6 +74,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Jadarian Price: an upper-rib injury plus a minor shoulder issue, not season-ending (Schneider), at least four weeks. [pod 10-13, beat]
 - 2026-10-11: Emanuel Wilson lost a fumble vs SF; George Holani fumbled twice (one lost). [pod 10-13, deployment]
 - 2026-10-13: Zach Charbonnet will not be activated for Thursday @DEN; Week 7 vs KC is the next chance. Jadarian Price on IR since 10/3 (chest), eligible Week 8. [pod 10-14, coach]
+- 2026-10-15: Week 6 @DEN (lost 17-14 OT): George Holani 56% snaps, 27 routes, 5-20-1; Emanuel Wilson 33% snaps, 9 routes, 14-52; Velus Jones Jr. 11% snaps, 4-20 (Rotowire usage).
 
 ## Receivers
 
@@ -101,6 +102,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Rashid Shaheed: Shaheed, acquired midseason in 2025, now has a full offseason and preseason in the Seattle offense, and camp reports on him have been positive. [8-18 WR rankings]
 - 2026-09-29: Jaxon Smith-Njigba leads the NFL with a 37.9% target share (next 33.3%), 36 targets, 27 for 405, 10-128-2 in Week 3; Rashid Shaheed 31 snaps (46%). [pod 9-28, deployment]
 - 2026-09-27: Jaxon Smith-Njigba has 120-plus yards and a TD in each of Weeks 1 to 3 (122, 155, 128). [pod 10-2, deployment]
+- 2026-10-15: Week 6 @DEN: Jaxon Smith-Njigba 12-134 on 16 targets (35% share), 88% routes; Cooper Kupp 5-50 on 10; Rashid Shaheed 5-66 on 8; Darnold 27 of 51 for 278, 2 INT (Rotowire, PFR).
 
 ## Tight ends
 
@@ -141,6 +143,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Jadarian Price was limited Wednesday and did not practice Thursday (chest); Zach Charbonnet was limited in his first practice back, Week 5 at the earliest. [pod 10-2, official]
 - 2026-10-07: Zach Charbonnet: the knee that keeps him out for Week 5 vs SF is the ACL he had surgically repaired in the offseason; his practice window opened Oct 1 (team site, NBC Sports). [pod 10-7, official]
 - 2026-10-13: Jaxon Smith-Njigba (ankle, hurt on a Week 5 run) limited on Monday's estimated report before Thursday @DEN; Drew Lock (right forearm) limited (Bob Condotta, Seattle Times; John Boyle, team site; via DK Network).
+- 2026-10-15: Elijah Arroyo (shoulder) hurt in the second quarter @DEN, doubtful to return (seahawks.com); AJ Barner played 93% of snaps.
 
 ## Other
 
