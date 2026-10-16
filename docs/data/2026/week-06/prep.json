@@ -1,0 +1,318 @@
+{
+  "series": "prep",
+  "season": 2026,
+  "week": 6,
+  "title": "Prep Notes, Week 6",
+  "dek": "Jeremiyah Love is out, so Tyler Allgeier is RB23 for me; Lamar Jackson and Rashee Rice sit too, and Dameon Pierce has the Philadelphia backfield.",
+  "format": "PPR",
+  "publishedAt": "2026-10-16T21:45:00Z",
+  "updatedAt": "2026-10-16T21:45:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Friday's final reports are in for Week 6. Eight fantasy players are out, nobody we play is doubtful, and eight are questionable. Jeremiyah Love, Lamar Jackson and Rashee Rice are out, so Tyler Allgeier is RB23 for me and an RB2, Tyler Huntley starts in Baltimore, and Xavier Worthy is WR30. Saquon Barkley and Will Shipley are both out, which hands the Philadelphia backfield to Dameon Pierce at RB20. Rankings are for full PPR.\n\nCleared with no designation: Michael Penix Jr., DeVonta Smith, Zay Flowers, KC Concepcion, Josh Downs and CeeDee Lamb. The true Sunday decisions are Quinshon Judkins, Tyler Warren, DK Metcalf and A.J. Brown; Caleb Williams, Chris Olave and Alvin Kamara are questionable but practiced Friday. Buffalo and Las Vegas had not posted Friday designations at 5:30 PM ET (DJ Moore missed Wednesday and Thursday; Brock Bowers and Ashton Jeanty were full Thursday), and Washington and San Francisco post theirs Saturday for Monday night, with Mike Evans (ribs, Achilles) and Terry McLaurin (hamstring) the names to check.",
+  "outro_md": "Order Up has the inactives Sunday morning, starting with London at 8:00 AM ET.",
+  "data": {
+    "report": [
+      {
+        "player": "Jeremiyah Love",
+        "team": "ARI",
+        "pos": "RB",
+        "status": "O",
+        "injury": "ankle",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Mike LaFleur confirmed he will not play @LAR after a week without practice. Tyler Allgeier had 60 percent of the snaps in Weeks 1 and 2 and takes the goal-line work.",
+        "verdict": "Out. Pivot to Tyler Allgeier, RB23 for me this week, an RB2.",
+        "action": "PIVOT",
+        "to": "Tyler Allgeier"
+      },
+      {
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "status": "O",
+        "injury": "ankle",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "He has not practiced since the Oct. 4 injury, and Jesse Minter called sitting him a decision for his best interest. Tyler Huntley starts @CLE.",
+        "verdict": "Out. Pivot to Kirk Cousins, QB13 for me vs BUF, a borderline start this week.",
+        "action": "PIVOT",
+        "to": "Kirk Cousins"
+      },
+      {
+        "player": "David Montgomery",
+        "team": "HOU",
+        "pos": "RB",
+        "status": "O",
+        "injury": "groin",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Ruled out and did not travel to London. Woody Marks played 56 of 65 snaps at TEN after Montgomery left.",
+        "verdict": "Out. Pivot to Woody Marks, RB19 for me @JAX, an RB2.",
+        "action": "PIVOT",
+        "to": "Woody Marks"
+      },
+      {
+        "player": "Rashee Rice",
+        "team": "KC",
+        "pos": "WR",
+        "status": "O",
+        "injury": "hamstring, knee",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "No practice all week after the bye; Kansas City ruled him out vs LAC. Xavier Worthy is the top outside receiver.",
+        "verdict": "Out. Pivot to Xavier Worthy, WR30 for me, a high-end WR3 and a high-end flex play.",
+        "action": "PIVOT",
+        "to": "Xavier Worthy"
+      },
+      {
+        "player": "Breece Hall",
+        "team": "NYJ",
+        "pos": "RB",
+        "status": "O",
+        "injury": "quad",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Out a third straight game. Braelon Allen played all but two snaps the last time Hall sat.",
+        "verdict": "Out. Pivot to Braelon Allen, RB18 for me @NE, an RB2.",
+        "action": "PIVOT",
+        "to": "Braelon Allen"
+      },
+      {
+        "player": "Saquon Barkley",
+        "team": "PHI",
+        "pos": "RB",
+        "status": "O",
+        "injury": "hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "No practice all week, and Will Shipley (foot) is out too. Dameon Pierce led Philadelphia with 11 carries in Week 5 and is the last healthy back with a role.",
+        "verdict": "Out. Pivot to Dameon Pierce, RB20 for me vs CAR, an RB2.",
+        "action": "PIVOT",
+        "to": "Dameon Pierce"
+      },
+      {
+        "player": "Jalen Hurts",
+        "team": "PHI",
+        "pos": "QB",
+        "status": "O",
+        "injury": "calf",
+        "practice": [
+          "FP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "Ruled out Thursday with a calf injury that NFL.com reports is a superficial blood clot. Tanner McKee starts vs CAR.",
+        "verdict": "Out. Pivot to Tyler Shough, QB12 for me @NYG, a borderline start this week.",
+        "action": "PIVOT",
+        "to": "Tyler Shough"
+      },
+      {
+        "player": "Baker Mayfield",
+        "team": "TB",
+        "pos": "QB",
+        "status": "O",
+        "injury": "right thumb",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "No practice all week; Jalon Daniels starts a third straight game vs PIT.",
+        "verdict": "Out. Pivot to C.J. Stroud, QB14 for me @JAX, a borderline start this week.",
+        "action": "PIVOT",
+        "to": "C.J. Stroud"
+      },
+      {
+        "player": "Caleb Williams",
+        "team": "CHI",
+        "pos": "QB",
+        "status": "Q",
+        "injury": "hamstring",
+        "practice": [
+          "FP",
+          "FP",
+          "FP"
+        ],
+        "read": "Three full practices, but he said he does not know yet if he will play and still needs a stress test. The pattern says he plays @ATL.",
+        "verdict": "QB8 for me this week. Have Kirk Cousins (QB13) ready in case Chicago's inactives surprise at 11:30 AM ET.",
+        "action": "START",
+        "watch": "Sunday's inactives at 11:30 AM ET"
+      },
+      {
+        "player": "Quinshon Judkins",
+        "team": "CLE",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "ankle",
+        "practice": [
+          "DNP",
+          "DNP",
+          "LP"
+        ],
+        "read": "Back on the field Friday after two missed days, and Todd Monken called the walking boot a precaution. Dylan Sampson is out, so the work is his if he plays.",
+        "verdict": "RB35 for me if he is active, a low-end RB3 and a low-end flex play. Monitor; Cleveland's inactives at 11:30 AM ET.",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives at 11:30 AM ET"
+      },
+      {
+        "player": "Tyler Warren",
+        "team": "IND",
+        "pos": "TE",
+        "status": "Q",
+        "injury": "groin",
+        "practice": [
+          "FP",
+          "FP",
+          "LP"
+        ],
+        "read": "Added to the report Friday after two full days; a reporter saw him grimacing after a red zone rep. Will Mallory (thumb) is questionable too.",
+        "verdict": "TE8 for me if he plays. Monitor; Indianapolis's inactives at 11:30 AM ET, with Juwan Johnson (TE9) as the fallback.",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives at 11:30 AM ET"
+      },
+      {
+        "player": "A.J. Brown",
+        "team": "NE",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "ankle",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "Limited all week in his 21-day window off IR; New England has to activate him by Saturday at 4:00 PM ET.",
+        "verdict": "He has not played since the high ankle sprain, and in his first game back he is a dart throw at most. Monitor; Saturday's roster moves at 4:00 PM ET.",
+        "action": "MONITOR",
+        "watch": "Saturday's roster moves at 4:00 PM ET"
+      },
+      {
+        "player": "Alvin Kamara",
+        "team": "NO",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "back",
+        "practice": [
+          "LP",
+          "LP",
+          "LP"
+        ],
+        "read": "Limited all three days after 12 snaps vs MIN. Limited all week usually means he plays, with Kendre Miller taking more of the work.",
+        "verdict": "RB29 for me @NYG, a high-end RB3 and a high-end flex play; New Orleans' inactives land at 11:30 AM ET.",
+        "action": "FLEX",
+        "watch": "Sunday's inactives at 11:30 AM ET"
+      },
+      {
+        "player": "Chris Olave",
+        "team": "NO",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "illness",
+        "practice": [
+          "DNP",
+          "DNP",
+          "LP"
+        ],
+        "read": "The illness kept him out Wednesday and Thursday, and he was back on the field Friday. An illness does not linger the way a hamstring does.",
+        "verdict": "WR6 for me this week; check New Orleans' inactives at 11:30 AM ET.",
+        "action": "START",
+        "watch": "Sunday's inactives at 11:30 AM ET"
+      },
+      {
+        "player": "Rico Dowdle",
+        "team": "PIT",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "toe",
+        "practice": [
+          "LP",
+          "FP",
+          "FP"
+        ],
+        "read": "Full Thursday and Friday after missing three games. Jaylen Warren has topped 126 total yards three straight games.",
+        "verdict": "Unranked this week, and Jaylen Warren stays RB6 for me @TB. Sit Dowdle in his first game back.",
+        "action": "SIT"
+      },
+      {
+        "player": "DK Metcalf",
+        "team": "PIT",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "illness",
+        "practice": [
+          "FP",
+          "FP",
+          "DNP"
+        ],
+        "read": "An illness kept him out Friday after full days Wednesday and Thursday. Germie Bernard ran 32 routes on 34 dropbacks vs IND.",
+        "verdict": "WR26 for me if he plays, a high-end WR3. Monitor; Pittsburgh's inactives at 11:30 AM ET, with Germie Bernard (WR34) the fallback.",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives at 11:30 AM ET"
+      }
+    ],
+    "reversals": [
+      {
+        "player": "Jeremiyah Love",
+        "was": "RB18 for me, an RB2, and the lean was to play him",
+        "now": "Out. Pivot to Tyler Allgeier, RB23 for me, an RB2."
+      },
+      {
+        "player": "Rashee Rice",
+        "was": "WR27 for me, a high-end WR3, and the lean was to sit him",
+        "now": "Out. Pivot to Xavier Worthy, WR30 for me, a high-end WR3."
+      },
+      {
+        "player": "Lamar Jackson",
+        "was": "QB16 for me, a streamer, and a sit without a full practice",
+        "now": "Out. Pivot to Kirk Cousins, QB13 for me, a borderline start."
+      },
+      {
+        "player": "Dameon Pierce",
+        "was": "RB30 for me, a sit until Barkley was ruled out",
+        "now": "RB20 for me, an RB2, with Barkley and Shipley out."
+      },
+      {
+        "player": "Tyler Warren",
+        "was": "TE5 for me",
+        "now": "TE8 for me if he plays; questionable with the groin, inactives at 11:30 AM ET."
+      },
+      {
+        "player": "Quinshon Judkins",
+        "was": "RB33 for me, a sit unless he practiced by Friday",
+        "now": "RB35 for me if active after a limited Friday; inactives at 11:30 AM ET."
+      }
+    ],
+    "gtd": [
+      "Quinshon Judkins",
+      "Tyler Warren",
+      "DK Metcalf",
+      "A.J. Brown"
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w06-prep-thread-3c70",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

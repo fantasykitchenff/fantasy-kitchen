@@ -93,6 +93,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Mike McCarthy ruled Roman Wilson (finger) and Ben Skowronek (calf) out for Week 6 vs TB; Jeremy Fowler reports Wilson misses multiple weeks (NFL.com).
 - 2026-10-11: Germie Bernard 6 of 9 for 80 (team-high targets), a 94 percent route rate and 92 percent of snaps. DK Metcalf 3-12 on 4 targets (his fumble was recovered by PIT). Pat Freiermuth 5-44-2 on 7, 4 TDs on the season. [pod 10-13, deployment]
 - 2026-10-11: Germie Bernard ran 32 routes on Aaron Rodgers' 34 dropbacks and out-targeted DK Metcalf 9 to 4 vs IND. [pod 10-14, deployment]
+- 2026-10-16: DK Metcalf (illness) questionable Week 6 @TB after missing Friday; Rico Dowdle (toe) questionable after full Thursday and Friday; Roman Wilson and Ben Skowronek out. [NFL.com, CBS]
 
 ## Tight ends
 

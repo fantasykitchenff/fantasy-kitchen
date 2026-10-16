@@ -48,6 +48,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Week 5 @GB (7-31): Tyson Bagent two INTs, pulled for Case Keenum in the fourth quarter; Chicago hopes Caleb Williams returns in Week 6 (NFL.com).
 - 2026-10-11: Caleb Williams was inactive in Week 5 and was not the emergency QB; he is on track to return when practice resumes Wednesday, but the Thursday Week 7 game gives Chicago a reason to wait a week (Chicago Sun-Times). [pod 10-13, beat]
 - 2026-10-14: Caleb Williams (hamstring) was a full participant on Wednesday's estimated report; Ben Johnson called his status still fluid. Tyson Bagent started Week 5 and Case Keenum relieved him. [pod 10-14, official]
+- 2026-10-16: Caleb Williams (hamstring) questionable Week 6 @ATL after three full practices; he said he did not know yet if he would play and still needs a stress test. Kyle Monangai out. [CBS, Yahoo Sports, NFL.com]
 
 ## Backfield
 

@@ -133,6 +133,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Isaiah Likely: 23 targets in three games (8, 10, 5) for 15 catches, 124 yards and 2 TDs; 8 of 8 for 78 and both TDs came in Week 1 with Dart, 7 of 15 for 46 since. Snap share 49%, 69%, 84%; in Week 3 he ran 22 routes on 27 dropbacks (81%) and drew 5 targets (24%). [pod 9-29, deployment]
 - 2026-10-11: Isaiah Likely caught a career-high 11 passes for 94 yards and 2 TDs in the 27-27 overtime tie with WAS; Jameis Winston 33 of 54 for 326, 3 TD, 0 INT (giants.com).
 - 2026-10-11: Isaiah Likely 13 targets, 11-94-2, the top TE score of the week. [pod 10-13, deployment]
+- 2026-10-16: Theo Johnson (neck) ruled out Week 6 vs NO after not practicing Friday. [CBS, NFL.com]
 
 ## Offensive line
 

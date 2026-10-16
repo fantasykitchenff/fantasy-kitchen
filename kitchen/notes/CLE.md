@@ -78,6 +78,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: Raheim Sanders placed on IR with the hip hurt @NYJ in Week 5, out at least four games; Browns signed Audric Estime off the MIN practice squad (No. 36). Behind Quinshon Judkins (ankle, day to day): Jaleel McLaughlin and Estime (clevelandbrowns.com, NBC Sports, Yahoo Sports).
 - 2026-10-14: Quinshon Judkins (right ankle) did not practice Wednesday but was out of the walking boot; day to day. [pod 10-14, beat]
 - 2026-10-14: Dylan Sampson was designated to return from IR and practiced Wednesday. [pod 10-14, official]
+- 2026-10-16: Quinshon Judkins (ankle) questionable Week 6 vs BAL after DNP, DNP, limited Friday; Todd Monken called the walking boot a precaution. Dylan Sampson (knee) out; Dillon Gabriel (back) out. KC Concepcion cleared. [NFL.com, CBS, Yahoo Sports]
 
 ## Receivers
 

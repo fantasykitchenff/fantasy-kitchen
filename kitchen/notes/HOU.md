@@ -62,6 +62,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: DeMeco Ryans called David Montgomery (groin) week to week, per Adam Schefter (NFL.com, Yahoo Sports).
 - 2026-10-11: David Montgomery averaged about 31 scrimmage yards a game in Weeks 2 to 5 before the groin injury (week to week). [pod 10-13, deployment]
 - 2026-10-11: Woody Marks 56 snaps (85%), Dare Ogunbowale 1, David Montgomery 9 before the groin injury; DeMeco Ryans said Marks will carry the load. [pod 10-14, deployment]
+- 2026-10-16: David Montgomery (groin) and Tank Dell (knee) out Week 6 @JAX in London; neither traveled. [NFL.com, CBS]
 
 ## Receivers
 

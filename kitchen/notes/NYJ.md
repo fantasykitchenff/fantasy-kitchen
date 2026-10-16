@@ -54,6 +54,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @CHI: Braelon Allen took all 14 running back carries for 59 with Breece Hall out; NYJ ran 32 plays to CHI's 89 (Yahoo, Jetsxfactor).
 - 2026-10-11: Braelon Allen: 24 carries for 116 and a TD vs CLE with Breece Hall inactive a second week; Isaiah Davis 2 carries (team box score).
 - 2026-10-11: Braelon Allen 24 carries for 116 and a TD on 57 snaps; Isaiah Davis 9 snaps. [pod 10-14, deployment]
+- 2026-10-16: Breece Hall (quad) ruled out Week 6 @NE; Adonai Mitchell (finger) out; Kenyon Sadiq (concussion) and Omar Cooper Jr. (ankle, full Friday) questionable. [NFL.com, CBS]
 
 ## Receivers
 

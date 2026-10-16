@@ -134,6 +134,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Tyler Warren: Warren was TE6 in points per game through Week 10 of 2025 before injuries; among 14 TEs with 75+ targets he led in yards after catch per reception (6.5) and is used out of the backfield. [8-24 adp adjustments]
 - 2026-10-11: Tyler Warren 7 of 9 for 83 at PIT (most catches and yards; tied with Keenan Allen for the target lead) plus a 1-yard rushing TD. [pod 10-13, deployment]
 - 2026-10-11: Tyler Warren scored on a 1-yard run; Keenan Allen drew 9 targets. [pod 10-14, deployment]
+- 2026-10-16: Tyler Warren (groin) added to Friday's report as limited after full Wednesday and Thursday, questionable vs TEN; Will Mallory (thumb) questionable; WR Ashton Dulin out; Josh Downs no designation. [NFL.com, NBC Sports]
 
 ## Offensive line
 

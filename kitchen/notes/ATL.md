@@ -43,6 +43,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Michael Penix Jr. hurt his ribs on a late sack vs BAL and did not return; says it is not long term, imaging this week (NFL.com).
 - 2026-10-12: Michael Penix Jr. (ribs) not considered serious per Adam Schefter; Kevin Stefanski said Atlanta will know more Wednesday (NFL.com).
 - 2026-10-14: Michael Penix Jr. (ribs) practiced Wednesday; Kevin Stefanski said he starts vs CHI as long as everything goes to plan. [pod 10-14, beat]
+- 2026-10-16: Michael Penix Jr. (ribs) has no designation for Week 6 vs CHI after a full Friday practice; CB C.J. Henderson (groin) out. [CBS, atlantafalcons.com]
 
 ## Backfield
 

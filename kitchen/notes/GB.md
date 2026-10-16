@@ -113,6 +113,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-24: Skyy Moore: Third-receiver routes vs ATL: Skyy Moore 27 (32 snaps, 7 targets, 3-31), J. Michael Sturdivant 19 (3-22 on 3 targets), Bo Melton 19 (1 target, no catch); Jonnu Smith 15 routes, 2-16. [pod 9-29, deployment]
 - 2026-10-11: Christian Watson 8 targets, 6 for 143 and 2 TDs; Matthew Golden 7 targets, 6 for 123 vs CHI; Love 25 of 31 for 367 (CBS box).
 - 2026-10-11: Christian Watson 6 of 8 for 143 and 2 TDs (42 and 53 yards), a TD in four of five games. Matthew Golden 6-123; 24 catches for 397 and 2 TDs through five games. Love 25 of 31 for 367 and 2 TDs. [pod 10-13, deployment]
+- 2026-10-16: Skyy Moore (ankle) out Week 6 vs DAL; Savion Williams (ankle) questionable. [NFL.com]
 
 ## Tight ends
 

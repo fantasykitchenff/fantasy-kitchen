@@ -119,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Johnston / Harris / McConkey: Snap share by week: Johnston 78%, 81%, 87% (60 snaps, a season high); Harris 75%, 82%, 58%; McConkey 49%, 46%, 88% (61). Season targets Johnston 17 (6-64-0, 35.3% caught), Harris 16 (10-149-0, 9.3 a target), McConkey 15 (12-183-1). [pod 9-29, deployment]
 - 2026-09-27: Tre Harris: 6 catches for 76 on 7 targets in Week 3; he has led the Chargers in receiving yards two straight games. [pod 10-2, deployment]
 - 2026-10-11: Ladd McConkey (foot) was active but played 0 snaps. Tre' Harris hurt his hamstring in the third quarter (2-16 on 4 targets). MVS led the receivers with 50 of 67 snaps, Theo Wease 43. Targets: backs 7, Charlie Kolar 4, Harris 4, MVS 3, Oronde Gadsden II 1. [pod 10-13, deployment]
+- 2026-10-16: Tre Harris (hamstring) out Week 6 @KC; KeAndre Lambert-Smith (hamstring) and Brenen Thompson (quad) questionable; Ladd McConkey no designation. [NFL.com, CBS]
 
 ## Tight ends
 

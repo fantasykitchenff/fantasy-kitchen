@@ -62,6 +62,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Chuba Hubbard: 20 carries and every first-half snap; AJ Dillon 4 carries. (corrected 9/30: the box score has 19 carries for 82 on 65 of 77 snaps). [pod 9-28, deployment]
 - 2026-09-30: Chuba Hubbard is ninth among running backs in fantasy points after three weeks (reports).
 - 2026-09-27: Chuba Hubbard: 19 carries for 82 yards and 4 catches on 4 targets for 28 on 65 of 77 snaps (84%) with 31 routes; AJ Dillon had 4 carries and 12 snaps. Snap shares by week: 71%, 65%, 84%. [pod 9-29, deployment]
+- 2026-10-16: AJ Dillon (ankle) out Week 6 @PHI; Trevor Etienne (ankle) questionable; RT Monroe Freeling (knee) doubtful. [panthers.com, NFL.com]
 
 ## Receivers
 

@@ -102,6 +102,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Deebo Samuel Sr. had an MRI on the right hamstring; Kyle Shanahan said he will miss some time, Ian Rapoport reports a few weeks (NFL.com, Yahoo Sports).
 - 2026-10-11: Mike Evans 7 of 10 for 113 and a TD playing through two broken ribs; Brandin Cooks 1-7-1 on 2 targets; Deebo Samuel Sr. hurt his right hamstring on a third-quarter end-around (out a few weeks). [pod 10-13, deployment]
 - 2026-10-12: Mike Evans ranks second among wide receivers in targets per route run this season, behind Jaxon Smith-Njigba (Yahoo Sports). [pod 10-13, deployment]
+- 2026-10-16: Kyle Shanahan said if Mike Evans's Achilles soreness lingers they should not play him Monday vs WAS; Saturday's practice is the tell. Christian Kirk's 21-day window opened Thursday. [49erswebzone, NBC Sports]
 
 ## Tight ends
 

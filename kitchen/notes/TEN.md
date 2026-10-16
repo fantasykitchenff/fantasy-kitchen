@@ -57,6 +57,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Tyjae Spears entered questionable (ankle), played, aggravated it in the fourth quarter and was cleared to return; 3 for 5, 46% snaps; no Week 4 designation as of 9/29. Tony Pollard 17 for 74 and 4 catches for 22, 53% snaps, 80% of early downs. [pod 9-28, deployment]
 - 2026-10-11: Tyjae Spears over 50% of the snaps for the first time vs HOU, 9 catches for 28; Tony Pollard 14 carries for 52 (PFF recap, titans box).
 - 2026-10-11: Tyjae Spears out-snapped Tony Pollard 34 to 30 and caught 9 of 9 for 28. [pod 10-13, deployment]
+- 2026-10-16: Tyjae Spears (knee) questionable Week 6 @IND after DNP Thursday and full Friday. [CBS, NFL.com]
 
 ## Receivers
 

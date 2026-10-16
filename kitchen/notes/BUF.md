@@ -79,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-17: DJ Moore: In Week 2 at DET he had no catch on no target and one carry for -1 yard before hurting his left shoulder late in the second quarter. [pod 10-1, deployment]
 - 2026-10-05: Week 4 vs NE: Keon Coleman 46 of 59 snaps, routes on 31 of 40 dropbacks, 6 of 7 for 116 and a TD after DJ Moore left with the shoulder; James Cook a season-low 59.3% of snaps, Ty Johnson 15 routes on 19 snaps (DraftSharks).
 - 2026-10-06: Keon Coleman on 4% of fantasy rosters Tuesday after Week 4 (public waiver pages).
+- 2026-10-16: DJ Moore (shoulder) DNP Wednesday (walkthrough estimate) and Thursday; Joshua Palmer limited both days. Friday designations not posted by 5:30 PM ET. [raiders.com joint report]
 
 ## Tight ends
 

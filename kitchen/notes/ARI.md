@@ -94,6 +94,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jeremiyah Love: 12 carries for 22, 1 target vs DET; Tyler Allgeier kept the passing downs, 3 carries for 7 (Fox box, PFF recap).
 - 2026-10-11: Jeremiyah Love 12 carries for 22 vs DET; his carries went 21, 14, 12 over Weeks 3 to 5 (down two straight weeks). Tyler Allgeier 3-7 and 2-9. [pod 10-13, deployment]
 - 2026-10-11: Jeremiyah Love: 12 carries for 22, 1 target, no catch vs DET. [pod 10-14, deployment]
+- 2026-10-16: Jeremiyah Love (ankle) ruled out Week 6 @LAR after DNP all week, confirmed by Mike LaFleur; Tyler Allgeier leads the backfield. [NFL.com, Yahoo Sports]
 
 ## Receivers
 

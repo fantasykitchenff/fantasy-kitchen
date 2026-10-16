@@ -37,6 +37,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Lamar Jackson: the left ankle sprain is neither a low nor a high sprain, an unusual one; still an outside chance @ATL and could miss multiple games (NBC Sports).
 - 2026-10-11: Lamar Jackson out @ATL (ankle); Tyler Huntley 24 of 32 for 201 and 2 TDs, won it on a 1-yard sneak in overtime, 30-23; Jackson has a real chance to return in Week 6 vs CLE (NFL.com, NBC Sports, Fox box).
 - 2026-10-12: Jesse Minter said Lamar Jackson (ankle) is definitely doing better; Wednesday practice unclear (Yahoo Sports, NFL.com).
+- 2026-10-16: Lamar Jackson (ankle) ruled out Week 6 @CLE, DNP all week; Tyler Huntley starts. Jesse Minter: 'just a decision for his best interest.' Zay Flowers (toe) and Rashod Bateman (shoulder) have no designation; Ja'Kobi Lane (wrist) questionable. [NFL.com, Yahoo Sports]
 
 ## Backfield
 
