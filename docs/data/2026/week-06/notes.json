@@ -6,12 +6,36 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-16T22:20:00Z",
+  "updatedAt": "2026-10-16T23:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-16T23:20:00Z",
+        "text": "DJ Moore (BUF) was limited Friday with the shoulder after missing Wednesday and Thursday, and Buffalo lists him questionable @LV. He is WR23 rest of season for me, and Keon Coleman, who caught a TD in Moore's absence @LAR, is WR39 for me, a low-end flex play to a dart throw. Monitor Moore; Sunday's inactives at 2:55 PM ET.",
+        "url": "https://www.raiders.com/news/las-vegas-raiders-buffalo-bills-week-6-injury-report-2026",
+        "player": "DJ Moore",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives at 2:55 PM ET"
+      },
+      {
+        "at": "2026-10-16T23:20:00Z",
+        "text": "Ashton Jeanty (LV) practiced in full all three days with the foot and has no injury designation vs BUF. His touches have fallen four straight weeks, from 29 to 13, but the foot is not the worry Sunday. RB13 for me, borderline RB1/RB2 this week.",
+        "url": "https://www.raiders.com/news/las-vegas-raiders-buffalo-bills-week-6-injury-report-2026",
+        "player": "Ashton Jeanty",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "at": "2026-10-16T23:20:00Z",
+        "text": "Brock Bowers (LV) was full Thursday and Friday after a limited Wednesday with the knee and has no injury designation vs BUF. TE1 for me this week.",
+        "url": "https://www.raiders.com/news/las-vegas-raiders-buffalo-bills-week-6-injury-report-2026",
+        "player": "Brock Bowers",
+        "action": "START",
+        "slot": "TE1"
+      },
       {
         "at": "2026-10-16T22:20:00Z",
         "player": "Bhayshul Tuten",
@@ -533,29 +557,6 @@
         "text": "Cleveland put Raheim Sanders (CLE) on IR Tuesday with the hip he hurt @NYJ, so he misses at least four games, and signed Audric Estime off Minnesota's practice squad. Sanders is RB79 rest of season for me. Drop him for any add on the list, or move him to an IR spot.",
         "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-13/browns-send-raheim-sanders-to-injured-reserve",
         "player": "Raheim Sanders",
-        "action": "DROP"
-      },
-      {
-        "at": "2026-10-13T23:20:00Z",
-        "text": "With Raheim Sanders on IR and Dylan Sampson not yet back from IR, the backs behind Quinshon Judkins (CLE) are Jaleel McLaughlin and Audric Estime, signed Tuesday. Judkins is day to day with the ankle and RB33 for me vs BAL, a low-end RB3. Monitor; Wednesday's practice report.",
-        "url": "https://www.clevelandbrowns.com/news/browns-sign-rb-audric-estime",
-        "player": "Quinshon Judkins",
-        "action": "MONITOR",
-        "watch": "Wednesday's practice report"
-      },
-      {
-        "at": "2026-10-13T23:20:00Z",
-        "text": "Jim Harbaugh said Tuesday it is possible Ladd McConkey (LAC) works back in this week. McConkey left Week 4 @SEA with the foot after 2 targets and was active but did not play vs DEN. outside my top 50 receivers @KC until he plays, and WR21 rest of season. Monitor; Wednesday's practice report.",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-13/harbaugh-possible-mcconkey-foot-works-back-in",
-        "player": "Ladd McConkey",
-        "action": "MONITOR",
-        "watch": "Wednesday's practice report"
-      },
-      {
-        "at": "2026-10-13T23:20:00Z",
-        "text": "Harbaugh called Tre' Harris (LAC) week to week with the hamstring he hurt vs DEN, and the Chargers' bye comes after Week 6, so Week 8 is the realistic return. Harris is WR63 rest of season for me. Drop him for any add on the list.",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-13/harbaugh-possible-mcconkey-foot-works-back-in",
-        "player": "Tre' Harris",
         "action": "DROP"
       }
     ]

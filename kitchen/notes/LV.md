@@ -133,6 +133,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs KC: Brock Bowers 6 for 86 and a TD on a team-high 11 targets; Michael Mayer 8 for 82 on 10 targets (NBC, RotoWire). Ashton Jeanty 15 for 58, 6 of 8 for 68.
 - 2026-10-04: Brock Bowers, Michael Mayer and Ian Thomas combined for 16 catches, 200 yards and 2 TD vs KC; Bowers has 16 catches for 202 and 2 TD in two games since returning from knee surgery. [pod 10-5, deployment]
 - 2026-10-16: Brock Bowers (knee) limited Wednesday, full Thursday; Ashton Jeanty (foot) full both days; Jalen Nailor (concussion) DNP then limited. Friday designations not posted by 5:30 PM ET. [raiders.com]
+- 2026-10-16: Friday report vs BUF: Ashton Jeanty (foot) full all three days and Brock Bowers (knee) full Thursday and Friday, neither designated; Jalen Nailor (concussion) full Friday, no designation; Carter Runyon and Dont'e Thornton Jr. out. [raiders.com, nfl.com]
 
 ## Offensive line
 

@@ -6,9 +6,9 @@
   "dek": "Jeremiyah Love is out, so Tyler Allgeier is RB23 for me; Lamar Jackson and Rashee Rice sit too, and Dameon Pierce has the Philadelphia backfield.",
   "format": "PPR",
   "publishedAt": "2026-10-16T21:45:00Z",
-  "updatedAt": "2026-10-16T21:45:00Z",
+  "updatedAt": "2026-10-16T23:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Friday's final reports are in for Week 6. Eight fantasy players are out, nobody we play is doubtful, and eight are questionable. Jeremiyah Love, Lamar Jackson and Rashee Rice are out, so Tyler Allgeier is RB23 for me and an RB2, Tyler Huntley starts in Baltimore, and Xavier Worthy is WR30. Saquon Barkley and Will Shipley are both out, which hands the Philadelphia backfield to Dameon Pierce at RB20. Rankings are for full PPR.\n\nCleared with no designation: Michael Penix Jr., DeVonta Smith, Zay Flowers, KC Concepcion, Josh Downs and CeeDee Lamb. The true Sunday decisions are Quinshon Judkins, Tyler Warren, DK Metcalf and A.J. Brown; Caleb Williams, Chris Olave and Alvin Kamara are questionable but practiced Friday. Buffalo and Las Vegas had not posted Friday designations at 5:30 PM ET (DJ Moore missed Wednesday and Thursday; Brock Bowers and Ashton Jeanty were full Thursday), and Washington and San Francisco post theirs Saturday for Monday night, with Mike Evans (ribs, Achilles) and Terry McLaurin (hamstring) the names to check.",
+  "intro_md": "Updated Fri 7:20 PM ET: Buffalo and Las Vegas posted Friday's report. Ashton Jeanty (full all week) and Brock Bowers (full Thursday and Friday) have no designation and stay RB13 and TE1 for me. DJ Moore was limited Friday and is questionable @LV; monitor Sunday's inactives at 2:55 PM ET.\n\nFriday's final reports are in for Week 6. Eight fantasy players are out, nobody we play is doubtful, and eight are questionable. Jeremiyah Love, Lamar Jackson and Rashee Rice are out, so Tyler Allgeier is RB23 for me and an RB2, Tyler Huntley starts in Baltimore, and Xavier Worthy is WR30. Saquon Barkley and Will Shipley are both out, which hands the Philadelphia backfield to Dameon Pierce at RB20. Rankings are for full PPR.\n\nCleared with no designation: Michael Penix Jr., DeVonta Smith, Zay Flowers, KC Concepcion, Josh Downs and CeeDee Lamb. The true Sunday decisions are Quinshon Judkins, Tyler Warren, DK Metcalf and A.J. Brown; Caleb Williams, Chris Olave and Alvin Kamara are questionable but practiced Friday. Brock Bowers and Ashton Jeanty have no designation for Las Vegas, and DJ Moore is questionable for Buffalo after a limited Friday. Washington and San Francisco post theirs Saturday for Monday night, with Mike Evans (ribs, Achilles) and Terry McLaurin (hamstring) the names to check.",
   "outro_md": "Order Up has the inactives Sunday morning, starting with London at 8:00 AM ET.",
   "data": {
     "report": [
@@ -266,6 +266,22 @@
         "verdict": "WR26 for me if he plays, a high-end WR3. Monitor; Pittsburgh's inactives at 11:30 AM ET, with Germie Bernard (WR34) the fallback.",
         "action": "MONITOR",
         "watch": "Sunday's inactives at 11:30 AM ET"
+      },
+      {
+        "player": "DJ Moore",
+        "team": "BUF",
+        "pos": "WR",
+        "status": "Q",
+        "injury": "shoulder",
+        "practice": [
+          "DNP",
+          "DNP",
+          "LP"
+        ],
+        "read": "Missed the Wednesday walkthrough and Thursday, then was limited Friday with the AC joint sprain. He sat Week 5 @LAR off one limited session, and Keon Coleman caught a TD without him.",
+        "verdict": "Monitor; Sunday's inactives at 2:55 PM ET. Keon Coleman is WR39 for me @LV, a low-end flex play to a dart throw.",
+        "action": "MONITOR",
+        "watch": "Sunday's inactives at 2:55 PM ET"
       }
     ],
     "reversals": [
