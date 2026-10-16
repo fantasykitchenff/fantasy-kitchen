@@ -6,12 +6,72 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-16T16:25:00Z",
+  "updatedAt": "2026-10-16T22:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-16T22:20:00Z",
+        "player": "Bhayshul Tuten",
+        "team": "JAX",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB2",
+        "text": "Bhayshul Tuten (JAX) had 22 of Jacksonville's 24 running back carries in London in Week 5 on about two thirds of the snaps, and LeQuint Allen Jr. kept the passing downs. RB15 for me vs HOU this week, an RB2."
+      },
+      {
+        "at": "2026-10-16T22:20:00Z",
+        "player": "Jonathan Taylor",
+        "team": "IND",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB1",
+        "text": "Jonathan Taylor (IND) played 71 and 73 percent of the snaps the last two weeks, down from 89 percent in Week 1, with Seth McGowan near 30 percent. RB3 for me vs TEN this week."
+      },
+      {
+        "at": "2026-10-16T22:20:00Z",
+        "player": "Kendre Miller",
+        "team": "NO",
+        "pos": "RB",
+        "action": "FLEX",
+        "text": "Kendre Miller (NO) had all 4 of New Orleans' red-zone carries vs MIN while Alvin Kamara played 12 snaps with the back, and Kamara is questionable @NYG. Miller is RB32 for me, a low-end RB3 and a low-end flex play."
+      },
+      {
+        "at": "2026-10-16T22:20:00Z",
+        "player": "Kimani Vidal",
+        "team": "LAC",
+        "pos": "RB",
+        "action": "FLEX",
+        "text": "Kimani Vidal (LAC) led the Chargers' backs in snaps for the first time vs DEN, 42 percent, after 7, 10, 25 and 35 percent the first four weeks, and ran 8 times for 57 and a TD. RB38 for me @KC, a low-end flex play to a dart throw."
+      },
+      {
+        "at": "2026-10-16T22:20:00Z",
+        "player": "Pat Freiermuth",
+        "team": "PIT",
+        "pos": "TE",
+        "action": "STREAM",
+        "text": "Pat Freiermuth (PIT) caught 5 for 44 and 2 TDs vs IND, and Pittsburgh plays @TB without Michael Pittman Jr., Roman Wilson and Ben Skowronek. TE13 for me, a streamer this week."
+      },
+      {
+        "at": "2026-10-16T22:20:00Z",
+        "player": "MarShawn Lloyd",
+        "team": "GB",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB2",
+        "text": "MarShawn Lloyd (GB) scored twice on 10 carries vs CHI and had 42 percent of Green Bay's running back touches, with Josh Jacobs on the Commissioner's Exempt List. RB22 for me vs DAL this week, an RB2, and RB41 rest of season."
+      },
+      {
+        "at": "2026-10-16T22:20:00Z",
+        "player": "Marvin Harrison Jr.",
+        "team": "HOU",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "his route share @JAX Sunday at 9:30 AM ET",
+        "text": "Marvin Harrison Jr. (HOU) makes his Houston debut @JAX in London as the No. 2 outside receiver next to Nico Collins, after 5 catches for 85 in four games with Arizona and an inactive Week 5. He is off my Week 6 list and WR43 rest of season. Monitor; his route share Sunday at 9:30 AM ET."
+      },
       {
         "at": "2026-10-16T16:25:00Z",
         "player": "Baker Mayfield",
@@ -497,67 +557,6 @@
         "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-13/harbaugh-possible-mcconkey-foot-works-back-in",
         "player": "Tre' Harris",
         "action": "DROP"
-      },
-      {
-        "at": "2026-10-13T23:20:00Z",
-        "text": "Quentin Johnston (LAC) will probably be limited in practice this week with the chest injury that kept him inactive vs DEN, Harbaugh said Tuesday. He is WR44 rest of season for me. Monitor; Friday's injury designation.",
-        "url": "https://athlonsports.com/nfl/los-angeles-chargers/jim-harbaugh-gives-updates-injured-chargers-players",
-        "player": "Quentin Johnston",
-        "action": "MONITOR",
-        "watch": "Friday's injury designation"
-      },
-      {
-        "at": "2026-10-13T22:25:00Z",
-        "text": "Stephen Jones said on 105.3 The Fan that CeeDee Lamb (DAL) should be ready for Green Bay after the quad bruise he took late vs TB, where he caught 2 of 5 for 9. Lamb is WR3 for me @GB Sunday night. Monitor; Wednesday's practice report.",
-        "url": "https://www.yardbarker.com/nfl/articles/cowboys_get_ceedee_lamb_news_with_packers_game_looming/s1_17355_44410494",
-        "player": "CeeDee Lamb",
-        "action": "MONITOR",
-        "watch": "Wednesday's practice report"
-      },
-      {
-        "at": "2026-10-13T22:10:00Z",
-        "player": "Jaylen Warren",
-        "action": "HOLD",
-        "text": "Mike McCarthy said Monday that Jaylen Warren (PIT) is \"our featured player right now\" and that his role will not change with Rico Dowdle (toe) getting healthy. Warren had 21 touches and 188 scrimmage yards in Week 5 and is RB6 for me this week @TB. He is RB23 rest of season for me, so the sell-before-Dowdle window is gone. Hold him; a near-even snap split in Dowdle's first active game would reopen the sell.",
-        "why": "A near-even snap split with Rico Dowdle in his first active game would reopen the sell.",
-        "team": "PIT",
-        "pos": "RB"
-      },
-      {
-        "at": "2026-10-13T22:10:00Z",
-        "player": "Rhamondre Stevenson",
-        "action": "START",
-        "slot": "RB2",
-        "text": "Rhamondre Stevenson (NE) played 83 percent of the snaps vs LV after TreVeyon Henderson left with the high ankle sprain, 71 percent for the game, and Henderson is out multiple weeks. Stevenson is RB12 for me vs NYJ, borderline RB1/RB2 this week.",
-        "team": "NE",
-        "pos": "RB"
-      },
-      {
-        "at": "2026-10-13T22:10:00Z",
-        "player": "J.K. Dobbins",
-        "action": "FLEX",
-        "text": "Sean Payton took Denver's play-calling back from Davis Webb starting Week 5 @LAC and said he wants more balance in the run game. J.K. Dobbins (DEN) ran 18 times for 68 and a TD in that first game. Dobbins is RB27 for me vs SEA, a high-end RB3, a high-end flex play.",
-        "team": "DEN",
-        "pos": "RB"
-      },
-      {
-        "at": "2026-10-13T22:10:00Z",
-        "player": "Denzel Boston",
-        "action": "HOLD",
-        "text": "Denzel Boston (CLE) ran a route on 91 percent of the dropbacks @PIT and drew 7 targets, a 22 percent share. That is a full-time role, and the targets back it. He is WR19 for me vs BAL this week, a WR2, and WR45 rest of season. Hold him; a route share under 75 percent would change the call.",
-        "why": "A route share under 75 percent would change the call.",
-        "team": "CLE",
-        "pos": "WR"
-      },
-      {
-        "at": "2026-10-13T16:30:00Z",
-        "player": "Jaxon Smith-Njigba",
-        "pos": "WR",
-        "team": "SEA",
-        "action": "MONITOR",
-        "watch": "Tuesday's and Wednesday's injury reports before Thursday @DEN",
-        "text": "Jaxon Smith-Njigba (SEA) was limited on Seattle's Monday estimate with the ankle he hurt on a run in Week 5, per Bob Condotta of the Seattle Times, though he missed little time in the game. He is WR2 for me @DEN Thursday with a 37.9 percent target share through Week 3. Monitor; Tuesday's and Wednesday's injury reports.",
-        "url": "https://dknetwork.draftkings.com/2026/10/13/nfl-injury-report-week-6/"
       }
     ]
   },
@@ -579,6 +578,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2110862130996240404"
+    },
+    {
+      "id": "2026w06-notes-thread-5e42",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

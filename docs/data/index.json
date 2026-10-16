@@ -1,8 +1,26 @@
 {
   "season": 2026,
   "currentWeek": 6,
-  "updatedAt": "2026-10-16T21:23:04Z",
+  "updatedAt": "2026-10-16T22:12:16Z",
   "pieces": [
+    {
+      "series": "heat",
+      "week": 6,
+      "path": "2026/week-06/heat.json",
+      "title": "Heat Check, Week 6",
+      "dek": "Kimani Vidal's snap share has climbed five straight weeks. The stove's on in Los Angeles.",
+      "publishedAt": "2026-10-13T16:59:00Z",
+      "updatedAt": "2026-10-16T22:20:00Z"
+    },
+    {
+      "series": "notes",
+      "week": 6,
+      "path": "2026/week-06/notes.json",
+      "title": "Kitchen notes, Week 6",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-13T15:00:00Z",
+      "updatedAt": "2026-10-16T22:20:00Z"
+    },
     {
       "series": "prep",
       "week": 6,
@@ -22,15 +40,6 @@
       "updatedAt": "2026-10-16T21:40:00Z"
     },
     {
-      "series": "notes",
-      "week": 6,
-      "path": "2026/week-06/notes.json",
-      "title": "Kitchen notes, Week 6",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-13T15:00:00Z",
-      "updatedAt": "2026-10-16T16:25:00Z"
-    },
-    {
       "series": "line",
       "week": 6,
       "path": "2026/week-06/line.json",
@@ -38,15 +47,6 @@
       "dek": "Bhayshul Tuten has the Jacksonville backfield to himself, and Lamar Jackson sits outside my top 12 until he practices.",
       "publishedAt": "2026-10-15T13:50:22Z",
       "updatedAt": "2026-10-15T13:50:22Z"
-    },
-    {
-      "series": "heat",
-      "week": 6,
-      "path": "2026/week-06/heat.json",
-      "title": "Heat Check, Week 6",
-      "dek": "Kimani Vidal's snap share has climbed five straight weeks. The stove's on in Los Angeles.",
-      "publishedAt": "2026-10-13T16:59:00Z",
-      "updatedAt": "2026-10-14T20:55:00Z"
     },
     {
       "series": "market",
