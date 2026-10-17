@@ -6,41 +6,91 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-17T16:09:00Z",
+  "updatedAt": "2026-10-17T22:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
       {
-        "at": "2026-10-17T16:09:00Z",
+        "at": "2026-10-17T22:20:00Z",
+        "player": "Jalen Hurts",
+        "team": "PHI",
+        "pos": "QB",
+        "action": "HOLD",
+        "why": "The call changes if he needs blood thinners, which would push the return past six weeks.",
+        "url": "https://www.fox29.com/sports/jalen-hurts-injured-reserve-philadelphia-eagles-blood-clot",
+        "text": "Jalen Hurts (PHI) goes on IR with the blood clot after all, out at least four weeks, so the earliest he plays is Nov 22 vs PIT after the bye. Tanner McKee starts until then. Hurts is QB9 rest of season for me. Hold him in an IR spot; the call changes if he needs blood thinners, which would push the return past six weeks."
+      },
+      {
+        "at": "2026-10-17T22:20:00Z",
         "player": "A.J. Brown",
         "team": "NE",
         "pos": "WR",
         "action": "MONITOR",
-        "watch": "Saturday's roster moves at 4:00 PM ET",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-17/rapsheet-a-j-brown-ankle-likely-active-vs-jets",
-        "text": "A.J. Brown (NE) is likely to come off IR and play vs NYJ, per NFL Network, after three limited practices with the high ankle sprain that has kept him out since Week 1. He takes the top target role when active, but a first game back is a dart throw; he is WR24 rest of season for me. Monitor; Saturday's roster moves at 4:00 PM ET."
+        "watch": "Sunday's inactives, 90 minutes before kickoff",
+        "url": "https://www.patriots.com/news/roster-analysis-patriots-activate-wr-a-j-brown-for-sunday-s-game-vs-the-jets-in-week-6",
+        "text": "A.J. Brown (NE) is off IR and on the 53-man roster after three limited practices with the high ankle sprain, and he is questionable vs NYJ in his first game since Week 1. He is WR24 rest of season for me, and New England plans to ramp him up. Monitor; Sunday's inactives, 90 minutes before kickoff."
       },
       {
-        "at": "2026-10-17T16:09:00Z",
+        "at": "2026-10-17T22:20:00Z",
         "player": "Mike Evans",
         "team": "SF",
         "pos": "WR",
         "action": "MONITOR",
-        "watch": "Saturday's injury report and his designation",
-        "url": "https://www.yardbarker.com/nfl/articles/49ers_vs_commanders_injury_report_7_players_miss_fridays_practice/s1_17111_44437592",
-        "text": "Mike Evans (SF) missed Friday's practice too with the ribs and Achilles soreness, his second straight day out, and worked on the side. He stays WR12 for me vs WAS Monday night, borderline WR1/WR2, only if he practices Saturday. Monitor; Saturday's injury report and his designation."
+        "watch": "Monday's inactives at 6:45 PM ET",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-17/mike-evans-officially-questionable-for-week-6",
+        "text": "Mike Evans (SF) is questionable vs WAS after missing Thursday and Friday and working on the side Saturday with the ribs and Achilles. Kyle Shanahan says there is no big concern, and Deebo Samuel is out. Evans slides to WR18 for me, a WR2. Monitor; Monday's inactives at 6:45 PM ET."
       },
       {
-        "at": "2026-10-17T16:09:00Z",
-        "player": "Jalen Hurts",
-        "team": "PHI",
+        "at": "2026-10-17T22:20:00Z",
+        "player": "Jacory Croskey-Merritt",
+        "team": "WAS",
+        "pos": "RB",
+        "action": "PIVOT",
+        "to": "Rachaad White",
+        "url": "https://www.si.com/nfl/commanders/onsi/commanders-49ers-week-6-final-injury-report",
+        "text": "Jacory Croskey-Merritt (WAS) is ruled out @SF Monday night with the groin. Rachaad White played 60 percent of the snaps to Croskey-Merritt's 35 vs NYG in Week 5, with Austin Ekeler at 10. Pivot to White, RB25 for me, a high-end RB3 and a high-end flex play."
+      },
+      {
+        "at": "2026-10-17T22:20:00Z",
+        "player": "Terry McLaurin",
+        "team": "WAS",
+        "pos": "WR",
+        "action": "START",
+        "slot": "WR2",
+        "url": "https://www.commanders.com/news/commanders-vs-49ers-week-6-injury-report-2026",
+        "text": "Terry McLaurin (WAS) has no injury designation for Monday night after a limited Saturday with the hamstring, while Stefon Diggs is questionable with his own hamstring. WR21 for me @SF, a WR2."
+      },
+      {
+        "at": "2026-10-17T22:20:00Z",
+        "player": "Caleb Williams",
+        "team": "CHI",
         "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Wednesday's practice report",
-        "url": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-qb-jalen-hurts-ruled-out-for-week-6-after-blood-clot-found-in-his-leg-171742514.html",
-        "text": "Jalen Hurts (PHI) is out vs CAR with a superficial blood clot in his leg, and the Eagles are not placing him on IR, per ESPN, with no timeline past Sunday. He stays QB9 rest of season for me; Tanner McKee starts. Monitor; Wednesday's practice report."
+        "action": "START",
+        "slot": "QB1",
+        "url": "https://sports.yahoo.com/fantasy/live/nfl-injury-tracker-week-6-latest-news-fantasy-implications-as-caleb-williams-hamstring-reportedly-set-to-return-lamar-jackson-ankle-ruled-out-jalen-hurts-going-on-ir-203715382.html",
+        "text": "Caleb Williams (CHI) is expected to start @ATL, per ESPN and NFL Network, after three full practices with the hamstring; it is his first game since Week 2. QB8 for me this week."
+      },
+      {
+        "at": "2026-10-17T22:20:00Z",
+        "player": "Josh Jacobs",
+        "team": "GB",
+        "pos": "RB",
+        "action": "HOLD",
+        "why": "The call changes if the NFL suspends him once its conduct investigation closes.",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88223/nfl-to-reinstate-josh-jacobs-to-packers-active-roster-on-monday-per-report",
+        "text": "Josh Jacobs (GB) comes off the Commissioner's Exempt List Monday and is eligible for Week 7 against Detroit, and he is expected to step back in as the starter. The NFL's conduct investigation is still open. He is RB37 rest of season for me. Hold him; the call changes if the NFL suspends him once the investigation closes."
+      },
+      {
+        "at": "2026-10-17T22:20:00Z",
+        "player": "MarShawn Lloyd",
+        "team": "GB",
+        "pos": "RB",
+        "action": "TRADE_AWAY",
+        "price": "a bench WR with a weekly role, after Sunday night",
+        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88223/nfl-to-reinstate-josh-jacobs-to-packers-active-roster-on-monday-per-report",
+        "text": "MarShawn Lloyd (GB) had 42 percent of Green Bay's running back touches and 2 TDs vs CHI, and he is RB22 for me vs DAL this week, an RB2. With Josh Jacobs back for Week 7, Lloyd is RB41 rest of season for me. Trade him away after Sunday night; ask for a bench WR with a weekly role."
       },
       {
         "at": "2026-10-16T23:20:00Z",
@@ -518,51 +568,6 @@
         "watch": "Thursday's and Friday's practice reports",
         "text": "Rashee Rice (KC) did not practice Wednesday with the hamstring, and Kansas City put Justin Watson on the practice squad, not the active roster, with Tyquan Thornton on IR. Rice is WR27 for me vs LAC, a high-end WR3 play to a dart throw; without a full practice by Friday, sit him. Monitor; Thursday's and Friday's practice reports.",
         "at": "2026-10-14T20:35:00Z"
-      },
-      {
-        "player": "A.J. Brown",
-        "team": "NE",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "his activation from IR, by Saturday's roster moves",
-        "text": "A.J. Brown (NE) practiced Wednesday, opening his 21-day IR window, and Mack Hollins is on IR with the calf through at least Week 8. Brown takes the top target role the day he is active. He is WR24 rest of season for me. Monitor; his activation from IR by Saturday's roster moves.",
-        "at": "2026-10-14T20:35:00Z"
-      },
-      {
-        "player": "Ja'Kobi Lane",
-        "team": "BAL",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "his route share @CLE Sunday",
-        "text": "Ja'Kobi Lane (BAL) is back at practice off IR after wrist surgery, and the team site lists him as activated. Expect a small No. 3 share behind Zay Flowers and Rashod Bateman at first. WR75 rest of season for me. Monitor; his route share @CLE Sunday.",
-        "at": "2026-10-14T20:35:00Z"
-      },
-      {
-        "player": "Dylan Sampson",
-        "team": "CLE",
-        "pos": "RB",
-        "action": "STASH",
-        "faab": "1-3%",
-        "text": "Cleveland designated Dylan Sampson (CLE) to return from IR, and he practiced Wednesday while Quinshon Judkins sat out with the ankle. With Raheim Sanders on IR, Sampson is next in line once active. RB67 rest of season for me. Stash him, 1 to 3 percent of FAAB.",
-        "at": "2026-10-14T20:35:00Z"
-      },
-      {
-        "player": "Jordan Mason",
-        "team": "MIN",
-        "pos": "RB",
-        "action": "STASH",
-        "faab": "1-3%",
-        "text": "Jordan Mason (MIN) has been on IR with the thumb since Sept. 16 and is expected back in Week 7 after the bye. Aaron Jones Sr. ran 25 times for 113 and a TD @NO with the job to himself, and Mason takes carries and goal-line work back from him. RB35 rest of season for me. Stash him, 1 to 3 percent of FAAB.",
-        "at": "2026-10-14T20:35:00Z"
-      },
-      {
-        "player": "Chase Brown",
-        "team": "CIN",
-        "pos": "RB",
-        "action": "TRADE_FOR",
-        "price": "an RB2 and a WR3",
-        "text": "Chase Brown (CIN) ran 13 times for 38 @MIA to Samaje Perine's 14 for 68, and OC Dan Pitcher said the team will keep assessing how the touches split. Brown still out-snapped Perine 38 to 33. RB6 rest of season for me. Trade for him during the bye; offer an RB2 and a WR3.",
-        "at": "2026-10-14T20:35:00Z"
       }
     ]
   },
@@ -590,6 +595,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2111226524246663525"
+    },
+    {
+      "id": "2026w06-notes-thread-a54b",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

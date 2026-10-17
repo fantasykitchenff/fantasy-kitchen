@@ -194,6 +194,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: Kyle Monangai: DNP Wednesday and Thursday; ESPN's Jeremy Fowler reports turf toe, uncertainty for one to two weeks; Ben Johnson calls it soreness from the 30-carry game (Chicago Sun-Times).
 - 2026-10-08: D'Andre Swift: limited Thursday (hip, knee) after a Wednesday DNP; all five starting linemen back Thursday (Chicago Sun-Times).
 - 2026-10-15: Caleb Williams: full practice Thursday (hamstring). Kyle Monangai DNP (thumb/toe). [NFL.com Thursday roundup, team reports]
+- 2026-10-17: Caleb Williams expected to start @ATL after three full practices with the hamstring, his first game since Week 2 (Schefter, Rapoport via Yahoo). CB Kyler Gordon activated from IR (calf).
 
 ## Other
 

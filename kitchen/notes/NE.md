@@ -151,6 +151,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: TreVeyon Henderson will miss multiple weeks with a high ankle sprain, no surgery needed (Schefter via Yahoo Sports, Tue 10:43 AM ET). Replaces the 10-12 "not long term" read.
 - 2026-10-15: A.J. Brown limited Thursday (ankle), still on IR. TreVeyon Henderson limited (ankle). [NFL.com Thursday roundup, team reports]
 - 2026-10-17: A.J. Brown (ankle) likely to be activated off IR to play vs NYJ, per Ian Rapoport; not official as of noon Saturday (deadline 4:00 PM ET). Christian Gonzalez returns. [NBC Sports, Sportsnaut]
+- 2026-10-17: A.J. Brown activated from IR to the 53-man roster after three limited practices with the high ankle sprain; questionable vs NYJ, first game since Week 1; S Elliott Davison elevated, RB Hassan Haskins released from the practice squad (patriots.com, 98.5 The Sports Hub).
 
 ## Other
 

@@ -193,6 +193,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Christian Watson: not on the Wednesday 9/30 injury report and not mentioned in Thursday's report; the hamstring listing after Week 3 did not carry into Week 4. [pod 10-1, official]
 - 2026-10-08: Chris Brooks: DNP Wednesday and Thursday (ankle); MarShawn Lloyd and Kaleb Johnson next if he sits (Bears-Packers Thursday report).
 - 2026-10-12: Micah Parsons is not expected to play Week 6 vs DAL. [pod 10-13, beat]
+- 2026-10-17: Josh Jacobs comes off the Commissioner's Exempt List Monday Oct 19 and is eligible for Week 7 against Detroit; expected to step back in as the starter (Pelissero); the NFL's conduct investigation is still open (Acme Packing Company, Yahoo, Athlon).
 
 ## Other
 

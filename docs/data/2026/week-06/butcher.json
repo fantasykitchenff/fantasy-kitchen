@@ -6,9 +6,9 @@
   "dek": "Chase Brown is on bye with 22 carries for 49 in two weeks. That is the prime cut to buy.",
   "format": "PPR",
   "publishedAt": "2026-10-13T16:59:00Z",
-  "updatedAt": "2026-10-14T20:35:00Z",
+  "updatedAt": "2026-10-17T22:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 4:35 PM ET: Lamar Jackson did not practice Wednesday with the ankle; he is still QB2 rest of season for me, so trade for him before Friday's injury report and offer a WR2. Chase Brown ran 13 times for 38 @MIA and Cincinnati's coordinator is reviewing the split with Samaje Perine; he is still RB6 rest of season for me, a buy for an RB2 and a WR3.\n\nUpdated Tue 6:00 PM ET: Jaylen Warren comes off the sell list. Mike McCarthy called him Pittsburgh's featured player Monday and said his role will not change with Rico Dowdle getting healthy; hold him at RB23 rest of season for me.\n\nWeek 5 handed out touchdowns to backs who will lose their jobs and quiet days to players whose roles did not move. The buys are good usage with a lagging box score or a short injury scare; the sells scored on volume that is about to leave. Ranks are rest of season for me, PPR scoring, prices written for 12-team leagues.",
+  "intro_md": "Updated Sat 6:20 PM ET: added MarShawn Lloyd as a sell. Josh Jacobs is eligible again for Week 7, so sell Lloyd after his Sunday night game vs DAL.\n\nUpdated Wed 4:35 PM ET: Lamar Jackson did not practice Wednesday with the ankle; he is still QB2 rest of season for me, so trade for him before Friday's injury report and offer a WR2. Chase Brown ran 13 times for 38 @MIA and Cincinnati's coordinator is reviewing the split with Samaje Perine; he is still RB6 rest of season for me, a buy for an RB2 and a WR3.\n\nUpdated Tue 6:00 PM ET: Jaylen Warren comes off the sell list. Mike McCarthy called him Pittsburgh's featured player Monday and said his role will not change with Rico Dowdle getting healthy; hold him at RB23 rest of season for me.\n\nWeek 5 handed out touchdowns to backs who will lose their jobs and quiet days to players whose roles did not move. The buys are good usage with a lagging box score or a short injury scare; the sells scored on volume that is about to leave. Ranks are rest of season for me, PPR scoring, prices written for 12-team leagues.",
   "outro_md": "Heat Check has the usage trends behind these calls, and the Menu ranks every one of them for Week 6.",
   "data": {
     "buy": [
@@ -220,6 +220,15 @@
         "price": "a bench WR with a full-time role",
         "why": "Jake Ferguson (DAL) scored 3 TDs on 11 targets in Weeks 1 to 3, then caught 3 of 6 for 19 vs TB. George Pickens and CeeDee Lamb take the volume, and Ferguson shares snaps with two other tight ends.",
         "verdict": "TE17 rest of season for me. Trade him away on the touchdowns; ask for a bench WR with a full-time role."
+      },
+      {
+        "player": "MarShawn Lloyd",
+        "team": "GB",
+        "pos": "RB",
+        "action": "TRADE_AWAY",
+        "price": "a bench WR with a weekly role",
+        "why": "MarShawn Lloyd (GB) scored twice on 10 carries vs CHI and had 42 percent of Green Bay's running back touches with Josh Jacobs on the Commissioner's Exempt List. Jacobs comes off the list Monday, is eligible for Week 7 and is expected to step back in as the starter.",
+        "verdict": "RB41 rest of season for me. Trade him away after Sunday night; ask for a bench WR with a weekly role."
       }
     ]
   },

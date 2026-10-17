@@ -223,6 +223,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Deebo Samuel Sr. (hamstring) will miss at least a couple of weeks per Kyle Shanahan; Weeks 6 and 7 most likely, before the Week 8 bye. Jacob Cowing is not injured. [pod 10-14, coach]
 - 2026-10-15: Mike Evans: not practicing Thursday (ribs/Achilles), per Shanahan. Christian Kirk: 21-day IR window opened, limited Thursday. Deebo Samuel: IR considered, team waits until after the Week 8 bye. [NFL.com Thursday roundup, team reports]
 - 2026-10-17: Mike Evans (ribs, Achilles) DNP Friday, second straight day, worked on the side; Nick Bosa (calf, knee) DNP; Christian Kirk (calf) limited; McCaffrey full (rest). Saturday report sets Monday designations. [49ers report via Yardbarker]
+- 2026-10-17: Saturday report for MNF vs WAS: Mike Evans (ribs, Achilles) questionable after DNP Thursday and Friday and side work Saturday; Deebo Samuel, Nick Bosa, Marques Sigle and Garret Wallow out (Nick Wagoner via Yahoo, NBC Sports).
 
 ## Other
 
