@@ -6,12 +6,42 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-16T23:20:00Z",
+  "updatedAt": "2026-10-17T16:09:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-17T16:09:00Z",
+        "player": "A.J. Brown",
+        "team": "NE",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Saturday's roster moves at 4:00 PM ET",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-17/rapsheet-a-j-brown-ankle-likely-active-vs-jets",
+        "text": "A.J. Brown (NE) is likely to come off IR and play vs NYJ, per NFL Network, after three limited practices with the high ankle sprain that has kept him out since Week 1. He takes the top target role when active, but a first game back is a dart throw; he is WR24 rest of season for me. Monitor; Saturday's roster moves at 4:00 PM ET."
+      },
+      {
+        "at": "2026-10-17T16:09:00Z",
+        "player": "Mike Evans",
+        "team": "SF",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Saturday's injury report and his designation",
+        "url": "https://www.yardbarker.com/nfl/articles/49ers_vs_commanders_injury_report_7_players_miss_fridays_practice/s1_17111_44437592",
+        "text": "Mike Evans (SF) missed Friday's practice too with the ribs and Achilles soreness, his second straight day out, and worked on the side. He stays WR12 for me vs WAS Monday night, borderline WR1/WR2, only if he practices Saturday. Monitor; Saturday's injury report and his designation."
+      },
+      {
+        "at": "2026-10-17T16:09:00Z",
+        "player": "Jalen Hurts",
+        "team": "PHI",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report",
+        "url": "https://sports.yahoo.com/nfl/breaking-news/article/eagles-qb-jalen-hurts-ruled-out-for-week-6-after-blood-clot-found-in-his-leg-171742514.html",
+        "text": "Jalen Hurts (PHI) is out vs CAR with a superficial blood clot in his leg, and the Eagles are not placing him on IR, per ESPN, with no timeline past Sunday. He stays QB9 rest of season for me; Tanner McKee starts. Monitor; Wednesday's practice report."
+      },
       {
         "at": "2026-10-16T23:20:00Z",
         "text": "DJ Moore (BUF) was limited Friday with the shoulder after missing Wednesday and Thursday, and Buffalo lists him questionable @LV. He is WR23 rest of season for me, and Keon Coleman, who caught a TD in Moore's absence @LAR, is WR39 for me, a low-end flex play to a dart throw. Monitor Moore; Sunday's inactives at 2:55 PM ET.",
@@ -533,31 +563,6 @@
         "price": "an RB2 and a WR3",
         "text": "Chase Brown (CIN) ran 13 times for 38 @MIA to Samaje Perine's 14 for 68, and OC Dan Pitcher said the team will keep assessing how the touches split. Brown still out-snapped Perine 38 to 33. RB6 rest of season for me. Trade for him during the bye; offer an RB2 and a WR3.",
         "at": "2026-10-14T20:35:00Z"
-      },
-      {
-        "at": "2026-10-14T16:25:00Z",
-        "player": "Baker Mayfield",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "text": "Baker Mayfield (TB) was not on the field for Wednesday's practice with the dislocated right thumb, per Greg Auman of Fox Sports, and Mike Garafolo of NFL Network says he is unlikely to play vs PIT. Jalon Daniels, 19 of 25 for 189 in the Week 5 win @DAL, is in line for a third start and is outside my top 12, a sit. Mayfield is QB24 rest of season for me. Monitor; Friday's injury report.",
-        "url": "https://www.rotowire.com/football/news.php"
-      },
-      {
-        "at": "2026-10-14T16:25:00Z",
-        "player": "Quinshon Judkins",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Thursday's and Friday's injury reports",
-        "text": "Quinshon Judkins (CLE) was out of the walking boot on his right ankle in the locker room Wednesday but will not practice, per Daniel Oyefusi of ESPN. With Raheim Sanders on IR, Jaleel McLaughlin and Audric Estime are behind him. He is RB33 for me vs BAL this week, a low-end RB3, until he practices. Monitor; Thursday's and Friday's injury reports.",
-        "url": "https://www.rotowire.com/football/news.php"
-      },
-      {
-        "at": "2026-10-13T23:20:00Z",
-        "text": "Cleveland put Raheim Sanders (CLE) on IR Tuesday with the hip he hurt @NYJ, so he misses at least four games, and signed Audric Estime off Minnesota's practice squad. Sanders is RB79 rest of season for me. Drop him for any add on the list, or move him to an IR spot.",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-13/browns-send-raheim-sanders-to-injured-reserve",
-        "player": "Raheim Sanders",
-        "action": "DROP"
       }
     ]
   },

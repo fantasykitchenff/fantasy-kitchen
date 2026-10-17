@@ -199,6 +199,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Will Shipley left the London game @JAX in the second quarter with a foot injury and did not return (5 carries for 6 yards and a TD, 1 catch for 7); Dameon Pierce and Carson Steele finished at RB (CBS Sports, Yahoo Sports).
 - 2026-10-15: Jalen Hurts: ruled out Week 6 vs CAR (calf; NFL.com reports a superficial blood clot), FP Wednesday, DNP Thursday; Tanner McKee starts. [philadelphiaeagles.com]
 - 2026-10-15: Saquon Barkley: DNP Wednesday and Thursday (hamstring). DeVonta Smith: DNP Wednesday, limited Thursday (hamstring/toe). Will Shipley DNP both days. [philadelphiaeagles.com]
+- 2026-10-17: Jalen Hurts out Week 6 with a superficial blood clot in his leg; Eagles not placing him on IR per ESPN, timeline past Sunday unknown. [Yahoo Sports, Sportsnaut]
 
 ## Other
 
