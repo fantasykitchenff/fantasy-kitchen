@@ -206,6 +206,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-03: Keenan Allen: ruled out Saturday for Week 4 vs WAS in London (groin) after a Friday DNP; WR Nick Westbrook-Ikhine elevated from the practice squad (AP, PFT).
 - 2026-10-07: Alec Pierce: on IR after aggravating the heel that needed offseason surgery; no surgery this time, and he hopes to return this season (CBS Sports, NFL.com). [pod 10-7, official]
 - 2026-10-14: Wednesday: Jonathan Taylor limited (rest) and Keenan Allen DNP (rest), no injury listed; RT Jalen Travis (ankle) DNP (Yahoo Sports, Stampede Blue).
+- 2026-10-18: Tyler Warren (groin) inactive vs TEN in Week 6 after a limited Friday; Mo Alie-Cox and Andrew Ogletree the tight ends. Colts inactives also Jaylon Carlies, Ashton Dulin, Riley Leonard, Dalton Tucker (Yahoo Sports live updates).
 
 ## Other
 

@@ -6,12 +6,67 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-17T22:20:00Z",
+  "updatedAt": "2026-10-18T16:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-18T16:20:00Z",
+        "text": "Tyler Warren (IND) is inactive vs TEN with the groin after a limited Friday, which leaves Mo Alie-Cox and Andrew Ogletree at tight end. Pivot to Juwan Johnson (NO), TE8 for me @NYG.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-week-6-scores-news-live-updates-schedule-highlights-stats-where-to-watch-130000137.html",
+        "player": "Tyler Warren",
+        "action": "PIVOT",
+        "to": "Juwan Johnson"
+      },
+      {
+        "at": "2026-10-18T16:20:00Z",
+        "text": "Quinshon Judkins (CLE) is inactive vs BAL with the ankle, so Jaleel McLaughlin and Audric Estime split Cleveland's backfield with Dylan Sampson on IR. Pivot to Kenny Gainwell (TB), who has Sean Tucker inactive behind him vs PIT; RB33 for me, a low-end RB3 and a low-end flex play.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-week-6-scores-news-live-updates-schedule-highlights-stats-where-to-watch-130000137.html",
+        "player": "Quinshon Judkins",
+        "action": "PIVOT",
+        "to": "Kenny Gainwell"
+      },
+      {
+        "at": "2026-10-18T16:20:00Z",
+        "text": "Chris Olave (NO) is active @NYG after missing Wednesday and Thursday with the illness and a limited Friday. WR6 for me this week.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "player": "Chris Olave",
+        "action": "START",
+        "slot": "WR1"
+      },
+      {
+        "at": "2026-10-18T16:20:00Z",
+        "text": "Alvin Kamara (NO) is active @NYG with the back after three limited practices. He played 12 snaps vs MIN while Kendre Miller had all 4 of the red-zone carries. RB29 for me, a high-end RB3 and a high-end flex play.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "player": "Alvin Kamara",
+        "action": "FLEX"
+      },
+      {
+        "at": "2026-10-18T16:20:00Z",
+        "text": "DK Metcalf (PIT) is active @TB after missing Friday's practice with an illness, and Pat Freiermuth (calf) is active too. Metcalf is WR26 for me, a high-end WR3 and a high-end flex play.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "player": "DK Metcalf",
+        "action": "START",
+        "slot": "WR3"
+      },
+      {
+        "at": "2026-10-18T16:20:00Z",
+        "text": "A.J. Brown (NE) is active vs NYJ in his first game since Week 1, and TreVeyon Henderson is active through the ankle. Brown is WR24 rest of season for me. Monitor; his snap share vs NYJ today.",
+        "url": "https://www.patriots.com/news/inactives-analysis-a-j-brown-will-campbell-treveyon-henderson-officially-active-for-week-6-matchup-vs-the-jets",
+        "player": "A.J. Brown",
+        "action": "MONITOR",
+        "watch": "his snap share vs NYJ today"
+      },
+      {
+        "at": "2026-10-18T16:20:00Z",
+        "text": "Caleb Williams (CHI) is active @ATL after three full practices with the hamstring, his first game since Week 2. QB8 for me this week.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-week-6-scores-news-live-updates-schedule-highlights-stats-where-to-watch-130000137.html",
+        "player": "Caleb Williams",
+        "action": "START",
+        "slot": "QB1"
+      },
       {
         "at": "2026-10-17T22:20:00Z",
         "player": "Jalen Hurts",
@@ -21,16 +76,6 @@
         "why": "The call changes if he needs blood thinners, which would push the return past six weeks.",
         "url": "https://www.fox29.com/sports/jalen-hurts-injured-reserve-philadelphia-eagles-blood-clot",
         "text": "Jalen Hurts (PHI) goes on IR with the blood clot after all, out at least four weeks, so the earliest he plays is Nov 22 vs PIT after the bye. Tanner McKee starts until then. Hurts is QB9 rest of season for me. Hold him in an IR spot; the call changes if he needs blood thinners, which would push the return past six weeks."
-      },
-      {
-        "at": "2026-10-17T22:20:00Z",
-        "player": "A.J. Brown",
-        "team": "NE",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Sunday's inactives, 90 minutes before kickoff",
-        "url": "https://www.patriots.com/news/roster-analysis-patriots-activate-wr-a-j-brown-for-sunday-s-game-vs-the-jets-in-week-6",
-        "text": "A.J. Brown (NE) is off IR and on the 53-man roster after three limited practices with the high ankle sprain, and he is questionable vs NYJ in his first game since Week 1. He is WR24 rest of season for me, and New England plans to ramp him up. Monitor; Sunday's inactives, 90 minutes before kickoff."
       },
       {
         "at": "2026-10-17T22:20:00Z",
@@ -61,16 +106,6 @@
         "slot": "WR2",
         "url": "https://www.commanders.com/news/commanders-vs-49ers-week-6-injury-report-2026",
         "text": "Terry McLaurin (WAS) has no injury designation for Monday night after a limited Saturday with the hamstring, while Stefon Diggs is questionable with his own hamstring. WR21 for me @SF, a WR2."
-      },
-      {
-        "at": "2026-10-17T22:20:00Z",
-        "player": "Caleb Williams",
-        "team": "CHI",
-        "pos": "QB",
-        "action": "START",
-        "slot": "QB1",
-        "url": "https://sports.yahoo.com/fantasy/live/nfl-injury-tracker-week-6-latest-news-fantasy-implications-as-caleb-williams-hamstring-reportedly-set-to-return-lamar-jackson-ankle-ruled-out-jalen-hurts-going-on-ir-203715382.html",
-        "text": "Caleb Williams (CHI) is expected to start @ATL, per ESPN and NFL Network, after three full practices with the hamstring; it is his first game since Week 2. QB8 for me this week."
       },
       {
         "at": "2026-10-17T22:20:00Z",
@@ -523,51 +558,6 @@
         "watch": "Thursday's and Friday's injury reports",
         "at": "2026-10-14T20:55:00Z",
         "text": "Quinshon Judkins (CLE) is out of the walking boot but did not practice Wednesday with the right ankle, and Jaleel McLaughlin and Audric Estime are behind him. Judkins falls to RB33 for me vs BAL, a low-end RB3 and a low-end flex play. Monitor; Thursday's and Friday's injury reports."
-      },
-      {
-        "player": "Rashee Rice",
-        "team": "KC",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "at": "2026-10-14T20:55:00Z",
-        "text": "Rashee Rice (KC) did not practice Wednesday with the hamstring. He moves up to WR27 for me vs LAC, a high-end WR3, but without a full practice by Friday he is a sit. Monitor; Friday's injury report."
-      },
-      {
-        "player": "Lamar Jackson",
-        "team": "BAL",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "text": "Lamar Jackson (BAL) did not practice Wednesday and has not practiced since he hurt the ankle Oct. 4; Adam Schefter reports a realistic chance he plays @CLE, and Tyler Huntley starts if he cannot. Jackson is QB16 for me this week, a streamer, and QB2 rest of season. Monitor; Friday's injury report.",
-        "at": "2026-10-14T20:35:00Z"
-      },
-      {
-        "player": "Michael Penix Jr.",
-        "team": "ATL",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "text": "Michael Penix Jr. (ATL) practiced Wednesday with the ribs, and Kevin Stefanski said he is the starter vs CHI as long as everything goes to plan. Drake London had 96 and 194 yards in his two full games with Penix. Penix is QB22 for me this week, outside my top 12, and QB23 rest of season. Monitor; Friday's injury report.",
-        "at": "2026-10-14T20:35:00Z"
-      },
-      {
-        "player": "Caleb Williams",
-        "team": "CHI",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Thursday's practice report",
-        "text": "Caleb Williams (CHI) was a full participant on Wednesday's estimated report with the hamstring, though Ben Johnson still calls his status fluid. Tyson Bagent started Week 5 and Case Keenum relieved him. Williams is QB8 for me @ATL this week, and QB10 rest of season. Monitor; Thursday's practice report.",
-        "at": "2026-10-14T20:35:00Z"
-      },
-      {
-        "player": "Rashee Rice",
-        "team": "KC",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Thursday's and Friday's practice reports",
-        "text": "Rashee Rice (KC) did not practice Wednesday with the hamstring, and Kansas City put Justin Watson on the practice squad, not the active roster, with Tyquan Thornton on IR. Rice is WR27 for me vs LAC, a high-end WR3 play to a dart throw; without a full practice by Friday, sit him. Monitor; Thursday's and Friday's practice reports.",
-        "at": "2026-10-14T20:35:00Z"
       }
     ]
   },

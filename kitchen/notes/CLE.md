@@ -188,6 +188,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Quinshon Judkins out of the walking boot on his right ankle in the locker room Wednesday but not practicing (Daniel Oyefusi, ESPN, via Rotowire).
 - 2026-10-14: KC Concepcion Jr. (concussion) progressing and set to practice Wednesday (Mary Kay Cabot, Cleveland Plain Dealer, via Rotowire).
 - 2026-10-15: Quinshon Judkins: DNP Thursday (ankle). Dylan Sampson upgraded to limited (knee). KC Concepcion limited (concussion). Denzel Boston limited (foot). [NFL.com Thursday roundup, team reports]
+- 2026-10-18: Quinshon Judkins (ankle) inactive vs BAL in Week 6; Jaleel McLaughlin and Audric Estime lead the backfield, Dylan Sampson on IR (Yahoo Sports live updates).
 
 ## Other
 

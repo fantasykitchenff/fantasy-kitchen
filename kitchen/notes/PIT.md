@@ -148,3 +148,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: Germie Bernard: 28 routes (tied for team high) and a team-high 9 targets vs IND in Week 5; 3% rostered (NFL.com waiver column).
 - 2026-10-13: Aaron Rodgers: 3 TD passes in three straight games through Week 5; 19% rostered (NFL.com waiver column).
 - 2026-10-15: Rico Dowdle upgraded to full Thursday (toe). Roman Wilson and Ben Skowronek DNP. [NFL.com Thursday roundup, team reports]
+- 2026-10-18: DK Metcalf (illness), Pat Freiermuth (calf) and Rico Dowdle (toe, first game back after three missed) active @TB in Week 6; Ben Skowronek inactive (NBC Sports, Yahoo Sports).
