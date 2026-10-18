@@ -201,3 +201,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Ladd McConkey (foot) limited Friday after a Thursday DNP; questionable at SEA, did not run routes in the open portion Friday (NBC Sports, DraftSharks).
 - 2026-10-04: Week 4 at SEA: Seattle 30, LAC 23, the Chargers' fourth straight loss. [pod 10-5, deployment]
 - 2026-10-09: Ladd McConkey questionable (foot), DNP all week; Quentin Johnston out (chest); Rashawn Slater to IR Friday, Joe Alt out (neck) (chargers.com Friday report).
+- 2026-10-18: Week 6 @KC: Ladd McConkey ruled out with a concussion in the first half after 1 catch for 17 yards; Tre Harris already out (hamstring) (nfl.com, CBS tracker).

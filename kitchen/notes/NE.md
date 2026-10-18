@@ -161,3 +161,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-10: Mack Hollins: placed on IR Saturday with the calf, out at least four games; FB Reggie Gilliam also to IR. (nfl.com)
 - 2026-10-11: Rhamondre Stevenson active Week 5 vs LV (knee) (nfl.com Sunday pregame)
 - 2026-10-13: Efton Chism III: team-high 6 targets vs LV in Week 5, 5 for 57; 1% rostered (NFL.com waiver column).
+- 2026-10-18: Week 6 vs NYJ (win): Romeo Doubs (shoulder) left in the first half and was ruled out; OL Morgan Moses (ankle) also left (nfl.com, CBS tracker).

@@ -6,12 +6,48 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-18T16:20:00Z",
+  "updatedAt": "2026-10-18T22:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-18T22:20:00Z",
+        "text": "Romeo Doubs (NE) left the win over NYJ in the first half with a shoulder injury and was ruled out, in A.J. Brown's first game back. Doubs is WR46 rest of season for me. Monitor; Wednesday's practice report.",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-6-games-2026",
+        "player": "Romeo Doubs",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report"
+      },
+      {
+        "at": "2026-10-18T22:20:00Z",
+        "text": "Ladd McConkey (LAC) was ruled out @KC with a concussion after 1 catch for 17 yards, with Tre Harris already out with the hamstring. McConkey enters the concussion protocol and is WR21 rest of season for me. Monitor; Wednesday's practice report.",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-6-games-2026",
+        "player": "Ladd McConkey",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's practice report"
+      },
+      {
+        "at": "2026-10-18T22:20:00Z",
+        "text": "DJ Moore (BUF) was inactive @LV with the shoulder, the second straight game he has missed after a limited Friday. He is WR23 rest of season for me; hold him through the AC joint sprain. Hold unless he misses Wednesday's practice again.",
+        "url": "https://www.cbssports.com/nfl/news/nfl-week-6-inactives-injury-tracker-updates/live/",
+        "player": "DJ Moore",
+        "pos": "WR",
+        "action": "HOLD",
+        "why": "A third straight missed Wednesday practice would make him a drop candidate in shallow leagues."
+      },
+      {
+        "at": "2026-10-18T22:20:00Z",
+        "text": "Blake Grupe (LAR), signed this week to replace Harrison Mevis, hurt his knee in the first quarter @ARI and was doubtful to return. Monitor; the Rams' kicker moves this week.",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-6-games-2026",
+        "player": "Blake Grupe",
+        "pos": "K",
+        "action": "MONITOR",
+        "watch": "the Rams' kicker signings this week"
+      },
       {
         "at": "2026-10-18T16:20:00Z",
         "text": "Tyler Warren (IND) is inactive vs TEN with the groin after a limited Friday, which leaves Mo Alie-Cox and Andrew Ogletree at tight end. Pivot to Juwan Johnson (NO), TE8 for me @NYG.",
@@ -523,41 +559,6 @@
         "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-live-week-6-152344178.html",
         "text": "Klint Kubiak said Wednesday that Ashton Jeanty (LV) is playing vs BUF through the foot. His touches have fallen four straight weeks, from 29 to 13. Jeanty is RB13 for me, borderline RB1/RB2 this week.",
         "at": "2026-10-14T22:10:00Z"
-      },
-      {
-        "player": "Jeremiyah Love",
-        "action": "MONITOR",
-        "watch": "Thursday's practice report",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-live-week-6-152344178.html",
-        "text": "Jeremiyah Love (ARI) sat out Wednesday's practice to rest the ankle, and Tyler Allgeier (RB36 for me) kept the passing downs vs DET. Love is RB18 for me @LAR, an RB2, while he practices by Friday. Monitor; Thursday's practice report.",
-        "at": "2026-10-14T22:10:00Z"
-      },
-      {
-        "player": "Lamar Jackson",
-        "team": "BAL",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "at": "2026-10-14T20:55:00Z",
-        "text": "Lamar Jackson (BAL) has not practiced since he hurt the ankle Oct. 4, Wednesday included, and Tyler Huntley starts @CLE if he sits. Jackson drops to QB16 for me this week, a streamer, and stays QB2 rest of season. Monitor; Friday's injury report."
-      },
-      {
-        "player": "Caleb Williams",
-        "team": "CHI",
-        "pos": "QB",
-        "action": "START",
-        "slot": "QB1",
-        "at": "2026-10-14T20:55:00Z",
-        "text": "Caleb Williams (CHI) was a full participant on Wednesday's estimated report off the hamstring after sitting out Week 5. Williams climbs to QB8 for me @ATL this week."
-      },
-      {
-        "player": "Quinshon Judkins",
-        "team": "CLE",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Thursday's and Friday's injury reports",
-        "at": "2026-10-14T20:55:00Z",
-        "text": "Quinshon Judkins (CLE) is out of the walking boot but did not practice Wednesday with the right ankle, and Jaleel McLaughlin and Audric Estime are behind him. Judkins falls to RB33 for me vs BAL, a low-end RB3 and a low-end flex play. Monitor; Thursday's and Friday's injury reports."
       }
     ]
   },
@@ -591,6 +592,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2111620282918002867"
+    },
+    {
+      "id": "2026w06-notes-thread-3f6b",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

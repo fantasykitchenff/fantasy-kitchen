@@ -144,3 +144,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-09: DJ Moore (shoulder) did not practice Friday, second straight day out; Bills designate Saturday for Monday night at LAR (WGRZ via Yahoo Sports).
 - 2026-10-10: DJ Moore: limited Saturday after missing Thursday and Friday, questionable for Monday @LAR with the AC joint sprain, travels per Joe Brady; Josh Palmer (shoulder) and Ed Oliver (knee) out. (nfl.com)
 - 2026-10-13: Week 5 @LAR (37-34 OT win, Monday night): DJ Moore sat (shoulder); Keon Coleman 1 of 2 targets for a 7-yard TD; Khalil Shakir 3 for 80; Ty Johnson 4 for 72; James Cook 25 carries for 111 and 2 TDs with two fumbles, one lost in OT; Josh Allen 12 of 19 for 210, 10 carries for 121 and a TD (CBS box score).
+- 2026-10-18: DJ Moore (shoulder) inactive Week 6 @LV after a limited Friday, second straight game missed (CBS tracker).
