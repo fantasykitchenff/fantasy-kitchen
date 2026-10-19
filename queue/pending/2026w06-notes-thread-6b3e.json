@@ -27,8 +27,14 @@
   "link": "https://fantasykitchenff.com/pass.html",
   "status": "pending",
   "createdAt": "2026-10-19T22:11:29Z",
-  "attempts": 0,
+  "attempts": 1,
   "postedAt": null,
   "url": null,
-  "notes": null
+  "notes": null,
+  "failures": [
+    {
+      "at": "2026-10-19T22:36:07Z",
+      "reason": "composer garbled posts with @team mentions (text duplicated in the editor when typed); draft discarded, nothing posted"
+    }
+  ]
 }
