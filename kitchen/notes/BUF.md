@@ -31,6 +31,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Josh Allen: three turnovers, two of them interceptions, and two rushing touchdowns on 22 rushing yards in the 24-16 win over LAC. [pod 9-29, deployment]
 - 2026-09-27: Josh Allen: Both rushing touchdowns vs LAC were 1-yard sneaks (8 carries, 22 yards); he has multiple rushing touchdowns in three straight games, which the team says no quarterback had done in the Super Bowl era. [pod 9-29, deployment]
 - 2026-10-12: Josh Allen: 121 rushing yards and a TD @LAR; 8 rushing TDs in five games, the first quarterback with one in each of his team's first five games. [pod 10-14, deployment]
+- 2026-10-18: Josh Allen: 23 of 33 for 255 and 2 TD, 5 carries for 1 yard and no rushing TD @LV, ending his five-game rushing-TD streak; he tied Jim Kelly's franchise record of 258 TD passes. [pod 10-19, deployment]
 
 ## Backfield
 
@@ -83,6 +84,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: DJ Moore (shoulder) DNP Wednesday (walkthrough estimate) and Thursday; Joshua Palmer limited both days. Friday designations not posted by 5:30 PM ET. [raiders.com joint report]
 - 2026-10-16: Friday report @LV: DJ Moore (shoulder) limited Friday after DNP Wednesday (walkthrough estimate) and Thursday, questionable; Joshua Palmer (shoulder) limited all week, questionable; Keon Coleman full all week, no designation. [raiders.com joint report, nfl.com]
 - 2026-10-19: DJ Moore inactive (shoulder) in Week 6 @LV; Keon Coleman 4 for 59 and a TD (CBS box score).
+- 2026-10-18: With DJ Moore inactive (shoulder) a second straight game, Keon Coleman caught 4 of 6 for 59 and a 12-yard TD; Khalil Shakir 4 of 6 for 34 and a TD. [pod 10-19, deployment]
 
 ## Tight ends
 
@@ -103,6 +105,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Dalton Kincaid: 2 catches on 3 targets for 38 yards and a lost fumble vs LAC. Season: 17 targets, 14 catches, 263 yards, 1 touchdown (5 for 130 on 6 at HOU, 7 for 95 and a score on 8 vs DET). Jackson Hawes played 25 snaps (38%). [pod 9-29, deployment]
 - 2026-09-27: Dalton Kincaid: 2 catches for 38 on 3 targets with a lost fumble vs LAC. [pod 10-2, deployment]
 - 2026-10-05: Dalton Kincaid: Buffalo beat coverage after the NE loss put the onus on Joe Brady to get him more involved (Buffalo News). [pod 10-5, beat]
+- 2026-10-18: Dalton Kincaid: team-high 8 targets, 7 catches for 38 @LV; left with a rib injury and returned in Q4. [pod 10-19, deployment]
 
 ## Offensive line
 
@@ -147,3 +150,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-10: DJ Moore: limited Saturday after missing Thursday and Friday, questionable for Monday @LAR with the AC joint sprain, travels per Joe Brady; Josh Palmer (shoulder) and Ed Oliver (knee) out. (nfl.com)
 - 2026-10-13: Week 5 @LAR (37-34 OT win, Monday night): DJ Moore sat (shoulder); Keon Coleman 1 of 2 targets for a 7-yard TD; Khalil Shakir 3 for 80; Ty Johnson 4 for 72; James Cook 25 carries for 111 and 2 TDs with two fumbles, one lost in OT; Josh Allen 12 of 19 for 210, 10 carries for 121 and a TD (CBS box score).
 - 2026-10-18: DJ Moore (shoulder) inactive Week 6 @LV after a limited Friday, second straight game missed (CBS tracker).
+- 2026-10-18: Buffalo is 5-1 after the 33-30 win @LV and has its bye in Week 7. [pod 10-19, official]
+- 2026-10-18: S C.J. Gardner-Johnson was ejected late in Q2 @LV for spitting toward Brock Bowers; the unsportsmanlike penalty set up a Raiders FG; league discipline possible. CB/edge Bradley Chubb left with a rib injury. [pod 10-19, official]

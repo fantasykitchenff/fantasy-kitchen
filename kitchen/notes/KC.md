@@ -35,6 +35,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-15: Patrick Mahomes: Was on pace for a career-high rush attempts per game before his ACL tear; he shed his knee brace at OTAs, is expected ready for Week 1 and says he will run less. Kenneth Walker was added partly to ease his rushing load. [8-15 talk with injury expert]
 - 2026-08-18: Patrick Mahomes: Healthy and back at practice after his late-2025 ACL tear. [8-18 sleeper picks]
 - 2026-09-27: Patrick Mahomes: 20 of 24 for 246, 2 TD, 1 INT at MIA on 24 dropbacks out of 49 plays. [pod 9-29, deployment]
+- 2026-10-18: Patrick Mahomes: 23 of 30 for 272, 0 TD, 1 INT in the 22-6 win over LAC. [pod 10-19, deployment]
 
 ## Backfield
 
@@ -74,6 +75,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Emmett Johnson 6 for 17 and no targets; Kenneth Walker 18-70-1 plus a receiving touchdown. [pod 9-28, deployment]
 - 2026-10-05: Week 4 @LV: Kenneth Walker III 22 carries for 177 and 2 TD, a 76-yard run, 45 of 60 snaps (75%), 13 routes (DraftSharks, NBC).
 - 2026-10-19: Kenneth Walker III: 19 for 128 and 2 TDs, 2 for 11 in Week 6 vs LAC (22-6 W) (CBS box score).
+- 2026-10-18: Kenneth Walker III: 19 for 128 and 2 TDs (33 and 2 yards) vs LAC, 82% of early-down snaps; 665 rushing yards in 5 games, the most in NFL history through a player's first five games with a team; league-leading 7 runs of 20+. [pod 10-19, deployment]
 
 ## Receivers
 
@@ -115,6 +117,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Rashee Rice: 7 catches for 88 on 9 targets (39%) and 75% of the routes; his targets went 2, 6, 9 in Weeks 1 to 3. [pod 10-2, deployment]
 - 2026-10-14: Rashee Rice (hamstring) did not practice Wednesday. Justin Watson signed to the practice squad, not the active roster; Tyquan Thornton on IR. [pod 10-14, official]
 - 2026-10-16: Rashee Rice (hamstring, knee) ruled out Week 6 vs LAC after no practice all week; LT Josh Simmons (back) out. [NFL.com, CBS]
+- 2026-10-18: Xavier Worthy: 7 of 7 for 73 vs LAC with Rashee Rice (hamstring, knee) and Tyquan Thornton (IR, ankle) out; Travis Kelce 4 for 53 on 5, played through an early ankle injury. [pod 10-19, deployment]
 
 ## Tight ends
 
@@ -132,6 +135,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Losing Jawaan Taylor (frequent false starts) is addition by subtraction; Trey Smith, C Creed Humphrey (viewed as the best center in the league) and second-year LT Josh Simmons anchor a top-10 line. [8-20 Offensive Line Rankings]
 - 2026-09-30: Josh Simmons: Andy Reid said the left tackle has a bulging disc in his lower back and would not practice Wednesday; he is not on IR and an undrafted rookie continues to start at left tackle. Simmons was also a non-participant (back) on the Week 3 Wednesday report. Every other player on the 53 was due to practice in some capacity. [pod 9-30, coach]
 - 2026-10-04: Kingsley Suamataia was benched in Week 4 @LV and Andy Reid's explanation left the reason unclear; Josh Simmons remains out with the bulging disc Reid described 9-30 (Yahoo, Arrowhead Pride). [pod 10-6, beat]
+- 2026-10-18: Jaylon Moore: RT left late in Q2 with a concussion (Joshua Ezeudu replaced him); LG Kingsley Suamataia left briefly (calf) and returned; LT Josh Simmons (back) was out and has not played in 2026. [pod 10-19, official]
 
 ## Depth chart
 

@@ -56,6 +56,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Braelon Allen 24 carries for 116 and a TD on 57 snaps; Isaiah Davis 9 snaps. [pod 10-14, deployment]
 - 2026-10-16: Breece Hall (quad) ruled out Week 6 @NE; Adonai Mitchell (finger) out; Kenyon Sadiq (concussion) and Omar Cooper Jr. (ankle, full Friday) questionable. [NFL.com, CBS]
 - 2026-10-19: Braelon Allen: 17 carries for 78 and 2 catches for 26 in Week 6 @NE with Breece Hall out (CBS box score).
+- 2026-10-18: Braelon Allen: 17 for 78 and 2 catches for 26 @NE on 54 snaps (87%), Isaiah Davis 8 snaps, Breece Hall out a third game (quad); Allen is 74 for 314 (4.2) on the season. [pod 10-19, deployment]
 
 ## Receivers
 
@@ -109,6 +110,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Kenyon Sadiq: 7 of 8 for 105 and a 24-yard touchdown, 38 snaps (48% snap share), 58% route share, 48% of snaps in the slot, 32% inline, 16% wide, 8 of 37 targets (21.6%), 32% targets per route; Weeks 1 and 2: 5 for 38 on 6 targets at a 40% route share. [pod 9-29, deployment]
 - 2026-09-27: Kenyon Sadiq: Played a season-high 57.6 percent of the offensive snaps (38) at DET and ran a route on 58.1 percent of pass plays, with a 32 percent target rate per route. [pod 9-29, deployment]
 - 2026-10-12: Aaron Glenn said Kenyon Sadiq remains in the concussion protocol (NFL.com).
+- 2026-10-18: Jets TE snaps @NE: Mason Taylor 34 (55%), Kenyon Sadiq 22 (35%), Jeremy Ruckert 14, Jelani Woods 13; Sadiq 1 catch for 12 on 3 targets in his first game back from the concussion, Taylor 6 targets. [pod 10-19, deployment]
 
 ## Offensive line
 
@@ -122,11 +124,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-05: Omar Cooper: With Sadiq out, Adonai Mitchell locks up the outside No. 2 receiver spot and Omar Cooper operates in the slot alongside Garrett Wilson and Mason Taylor. [8-5 32 team update and breakdown]
 - 2026-08-18: The Jets added pass catchers, but Omar Cooper is running with the backups and not ready, Kenyon Sadiq is hurt and Adonai Mitchell is on the roster, so Garrett Wilson's target share should stay large. [8-18 WR targets and avoids]
+- 2026-10-18: WR snaps @NE: Garrett Wilson 61 (98%), Omar Cooper Jr. 51 (82%), Tim Patrick 43 (69%), Isaiah Williams 9 (15%); Adonai Mitchell inactive. [pod 10-19, deployment]
 
 ## Rookies
 
 - 2026-08-05: Kenyon Sadiq: Rookie tight end joins fellow rookie Omar Cooper Jr. in a passing game built around Garrett Wilson and an aging Geno Smith. [8-5 fantasy takeaways from all 32 teams]
 - 2026-08-18: Omar Cooper Jr.: The Jets used two of three top-30 picks on pass catchers Kenyon Sadiq and Omar Cooper Jr. Cooper has reportedly struggled early, and Isaiah Williams may be ahead of him on the depth chart in week two of camp. [8-18 WR rankings]
+- 2026-10-18: Omar Cooper Jr., first game off IR: 6 catches for 103 and a 48-yard Q3 TD on 51 snaps (82%); a first-possession TD to him was wiped out by offensive pass interference on Tim Patrick. [pod 10-19, deployment]
 
 ## Injuries and status
 

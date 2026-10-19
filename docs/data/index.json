@@ -1,16 +1,25 @@
 {
   "season": 2026,
   "currentWeek": 6,
-  "updatedAt": "2026-10-19T16:09:32Z",
+  "updatedAt": "2026-10-19T20:05:40Z",
   "pieces": [
     {
-      "series": "notes",
+      "series": "butcher",
       "week": 6,
-      "path": "2026/week-06/notes.json",
-      "title": "Kitchen notes, Week 6",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-13T15:00:00Z",
-      "updatedAt": "2026-10-19T16:15:00Z"
+      "path": "2026/week-06/butcher.json",
+      "title": "Butcher Shop, Week 6",
+      "dek": "Chase Brown is on bye with 22 carries for 49 in two weeks. That is the prime cut to buy.",
+      "publishedAt": "2026-10-13T16:59:00Z",
+      "updatedAt": "2026-10-19T20:30:00Z"
+    },
+    {
+      "series": "heat",
+      "week": 6,
+      "path": "2026/week-06/heat.json",
+      "title": "Heat Check, Week 6",
+      "dek": "Kimani Vidal's snap share has climbed five straight weeks. The stove's on in Los Angeles.",
+      "publishedAt": "2026-10-13T16:59:00Z",
+      "updatedAt": "2026-10-19T20:30:00Z"
     },
     {
       "series": "leftovers",
@@ -19,7 +28,25 @@
       "title": "Leftovers, Week 6",
       "dek": "Kendre Miller took the Saints' backfield while Alvin Kamara's back acted up, and Cam Skattebo played six snaps for the Giants.",
       "publishedAt": "2026-10-19T11:30:00Z",
-      "updatedAt": "2026-10-19T11:30:00Z"
+      "updatedAt": "2026-10-19T20:30:00Z"
+    },
+    {
+      "series": "market",
+      "week": 6,
+      "path": "2026/week-06/market.json",
+      "title": "Market Run, Week 6",
+      "dek": "Woody Marks has Houston's backfield while David Montgomery is week to week, and he is the first claim of the week.",
+      "publishedAt": "2026-10-13T15:00:00Z",
+      "updatedAt": "2026-10-19T20:30:00Z"
+    },
+    {
+      "series": "notes",
+      "week": 6,
+      "path": "2026/week-06/notes.json",
+      "title": "Kitchen notes, Week 6",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-13T15:00:00Z",
+      "updatedAt": "2026-10-19T20:30:00Z"
     },
     {
       "series": "menu",
@@ -31,15 +58,6 @@
       "updatedAt": "2026-10-18T16:20:00Z"
     },
     {
-      "series": "butcher",
-      "week": 6,
-      "path": "2026/week-06/butcher.json",
-      "title": "Butcher Shop, Week 6",
-      "dek": "Chase Brown is on bye with 22 carries for 49 in two weeks. That is the prime cut to buy.",
-      "publishedAt": "2026-10-13T16:59:00Z",
-      "updatedAt": "2026-10-17T22:20:00Z"
-    },
-    {
       "series": "prep",
       "week": 6,
       "path": "2026/week-06/prep.json",
@@ -49,15 +67,6 @@
       "updatedAt": "2026-10-16T23:20:00Z"
     },
     {
-      "series": "heat",
-      "week": 6,
-      "path": "2026/week-06/heat.json",
-      "title": "Heat Check, Week 6",
-      "dek": "Kimani Vidal's snap share has climbed five straight weeks. The stove's on in Los Angeles.",
-      "publishedAt": "2026-10-13T16:59:00Z",
-      "updatedAt": "2026-10-16T22:20:00Z"
-    },
-    {
       "series": "line",
       "week": 6,
       "path": "2026/week-06/line.json",
@@ -65,15 +74,6 @@
       "dek": "Bhayshul Tuten has the Jacksonville backfield to himself, and Lamar Jackson sits outside my top 12 until he practices.",
       "publishedAt": "2026-10-15T13:50:22Z",
       "updatedAt": "2026-10-15T13:50:22Z"
-    },
-    {
-      "series": "market",
-      "week": 6,
-      "path": "2026/week-06/market.json",
-      "title": "Market Run, Week 6",
-      "dek": "Woody Marks has Houston's backfield while David Montgomery is week to week, and he is the first claim of the week.",
-      "publishedAt": "2026-10-13T15:00:00Z",
-      "updatedAt": "2026-10-14T20:55:00Z"
     },
     {
       "series": "notes",

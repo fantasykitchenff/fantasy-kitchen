@@ -17,6 +17,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Bryce Young: Young has averaged about 190 passing yards per game for his career and remains the starter; the Panthers are expected to be somewhat more pass-heavy and spread the field more in 2026. [8-18 WR targets and avoids]
 - 2026-08-20: Bryce Young: Carolina had the 4th-lowest pass rate over expected in 2025; Young's 6.3-yard aDOT was 4th-lowest among qualifiers and only 9% of his throws went 20+ yards downfield (4th-lowest). [8-20 WRs talk]
 - 2026-09-27: Bryce Young: 26 of 48 for 291 yards, 1 TD, 1 INT and 3 sacks at CLE with no rush attempts; 51 dropbacks on 74 plays (69%). Through three games: 939 passing yards (first in the NFL) on 121 attempts, the first Panther with 280 or more in each of the first three games. [pod 9-29, deployment]
+- 2026-10-18: Bryce Young: 20 of 39 for 281, 2 TD, 0 INT in the 25-14 win @PHI; 11 TD passes and 1,549 yards through five games, a franchise record for TDs (yards second to Cam Newton's 1,610 in 2011); sixth QB with 280+ yards, a TD and one or fewer INTs in each of his team's first five games. [pod 10-19, official]
 
 ## Backfield
 
@@ -108,6 +109,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Darren Waller: 5 catches for 51; his routes and targets per route have risen each week. [pod 9-29, deployment]
 - 2026-09-27: Darren Waller: Team-high 8 targets (19%) for 5 catches and 51 yards on 28 routes (55% of dropbacks) and 39 of 77 snaps (51%); snaps by week 24, 29, 39. [pod 9-29, deployment]
 - 2026-09-27: Darren Waller's snap share went 35%, 44% and 51% in Weeks 1 to 3 (24, 29 and 39 snaps). [pod 10-2, deployment]
+- 2026-10-18: Tommy Tremble: 4 of 4 targets for 46 and 2 TDs (12 and 19 yards), 54 snaps (68%) and routes on 50% of dropbacks, his first game with more routes than Darren Waller; Waller 0 for 2 on 36 snaps (46%), 45% route rate after 53% entering. [pod 10-19, deployment]
 
 ## Offensive line
 

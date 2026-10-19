@@ -6,9 +6,9 @@
   "dek": "Kimani Vidal's snap share has climbed five straight weeks. The stove's on in Los Angeles.",
   "format": "PPR",
   "publishedAt": "2026-10-13T16:59:00Z",
-  "updatedAt": "2026-10-16T22:20:00Z",
+  "updatedAt": "2026-10-19T20:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Fri 6:20 PM ET: added Jonathan Taylor as a faller; his snap share is down to 71 and 73 percent the last two weeks with Seth McGowan near 30, and he is still RB3 for me vs TEN.\n\nUpdated Wed 4:55 PM ET: Rhamondre Stevenson moves up to RB12 for me vs NYJ and Brenton Strange to TE12 vs HOU, a borderline start; Kendrick Bourne is WR36 @LAR, a low-end WR3. Woody Marks is RB20 and Germie Bernard WR34.\n\nUpdated Tue 6:00 PM ET: Germie Bernard ran 28 routes vs IND, tied for Pittsburgh's high, with a team-high 9 targets; he is still WR34 for me @TB and a claim at 3 to 6 percent of FAAB.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, lineup calls are this week's Menu rank, other ranks are rest of season for me, and the scoring is PPR.",
+  "intro_md": "Updated Mon 4:30 PM ET: Tony Pollard ran 19 times to Tyjae Spears' 1 @IND; he is a hold now, not a sell. Omarion Hampton ran 7 times for 18 @KC and the Chargers' play-caller is in question during the bye; monitor that decision. Brian Thomas Jr. was benched for the second half vs HOU; sell him for a bench receiver.\n\nUpdated Fri 6:20 PM ET: added Jonathan Taylor as a faller; his snap share is down to 71 and 73 percent the last two weeks with Seth McGowan near 30, and he is still RB3 for me vs TEN.\n\nUpdated Wed 4:55 PM ET: Rhamondre Stevenson moves up to RB12 for me vs NYJ and Brenton Strange to TE12 vs HOU, a borderline start; Kendrick Bourne is WR36 @LAR, a low-end WR3. Woody Marks is RB20 and Germie Bernard WR34.\n\nUpdated Tue 6:00 PM ET: Germie Bernard ran 28 routes vs IND, tied for Pittsburgh's high, with a team-high 9 targets; he is still WR34 for me @TB and a claim at 3 to 6 percent of FAAB.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, lineup calls are this week's Menu rank, other ranks are rest of season for me, and the scoring is PPR.",
   "outro_md": "Butcher Shop turns these trends into trade offers, and the Menu has every one of them ranked for Week 6.",
   "data": {
     "risers": [
@@ -158,11 +158,11 @@
         "player": "Omarion Hampton",
         "team": "LAC",
         "pos": "RB",
-        "stat": "Snap share 58%, 63%, 42%, then 30%",
-        "why": "Omarion Hampton (LAC) played 30 percent of the snaps vs DEN, third of three backs, though his 14 carries went for 33. He has 3 targets all season behind a line missing Rashawn Slater and Joe Alt.",
-        "verdict": "RB14 rest of season for me. Monitor; his snap share @KC Sunday.",
+        "stat": "Snap share 58%, 63%, 42%, 30%; 7 for 18 @KC",
+        "why": "Omarion Hampton (LAC) ran 7 times for 18 @KC in a three-way split with Kimani Vidal and Keaton Mitchell, though he led the backs in routes. The Chargers scored 6 points, are 0-6, and Mike McDaniel's job as play-caller is in question during the Week 7 bye.",
+        "verdict": "RB14 rest of season for me. Monitor; the Chargers' play-caller decision during the bye.",
         "action": "MONITOR",
-        "watch": "his snap share @KC Sunday"
+        "watch": "the Chargers' play-caller decision during the Week 7 bye"
       },
       {
         "player": "Ashton Jeanty",
@@ -198,21 +198,20 @@
         "player": "Tony Pollard",
         "team": "TEN",
         "pos": "RB",
-        "stat": "Out-snapped 34 to 30 by Spears",
-        "why": "Tony Pollard (TEN) played fewer snaps than Tyjae Spears vs HOU for the first time this season and ran 14 times for 52. Spears caught all 9 of his targets.",
-        "verdict": "RB30 rest of season for me. Trade him away; ask for a WR3.",
-        "action": "TRADE_AWAY",
-        "price": "a WR3"
+        "stat": "Carries 17, 16, 14, then 19",
+        "why": "Tony Pollard (TEN) ran a season-high 19 times for 76 @IND in Week 6, and Tyjae Spears had 1 carry and 1 catch. The passing-down takeover by Spears lasted one week.",
+        "verdict": "RB30 rest of season for me. Hold him; another week with Spears out-snapping him reopens the sell.",
+        "action": "HOLD"
       },
       {
         "player": "Brian Thomas Jr.",
         "team": "JAX",
         "pos": "WR",
-        "stat": "Targets 3, 9, 1, then 0 catches on 3",
-        "why": "Brian Thomas Jr. (JAX) caught none of his 3 targets vs PHI while Parker Washington drew 9. He leaves the field in 12 personnel.",
-        "verdict": "WR42 rest of season for me. Trade him away; ask for a WR3.",
+        "stat": "Benched for the second half; 0 catches two straight games",
+        "why": "Brian Thomas Jr. (JAX) played 15 snaps vs HOU and sat the second half, with 0 catches on 2 targets for his second straight catchless game. Josh Cameron and Travis Hunter took his snaps, and Jacksonville is on bye in Week 7.",
+        "verdict": "WR42 rest of season for me. Trade him away; ask for a bench receiver.",
         "action": "TRADE_AWAY",
-        "price": "a WR3"
+        "price": "a bench receiver"
       },
       {
         "player": "Jaylen Waddle",

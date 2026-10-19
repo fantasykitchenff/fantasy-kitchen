@@ -54,6 +54,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-06: Kirk Cousins: multiple TD passes in three straight games after 365 yards and 2 TD vs KC (ESPN).
 - 2026-10-11: Week 5 @NE (17-45): Fernando Mendoza debuted in the fourth quarter in relief of Kirk Cousins, 6 of 8 for 48, in a blowout, not a benching; Ashton Jeanty played through the ankle and plantar fasciitis, Raiders 38 rushing yards (NFL.com).
 - 2026-10-11: Kirk Cousins threw multiple TDs in each of Weeks 1 to 4 (3, 3, 3, 2); Week 5 at NE was 19 of 28 for 243 and 1 TD, his lowest-scoring game. Fernando Mendoza ran the final drive (6 of 8 for 48); Kubiak called it exposure. [pod 10-13, deployment]
+- 2026-10-18: Kirk Cousins: 23 of 41 for 313, 2 TD (both to Tre Tucker, 11 and 44 yards), 1 INT in the 33-30 loss to BUF. [pod 10-19, deployment]
 
 ## Backfield
 
@@ -90,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Ashton Jeanty touches by week 29, 25, 22, 21, 13; Week 5 RB opportunities Jeanty 16, Dylan Laube 7, Mike Washington Jr. 2; Jeanty 32 snaps (53 percent). Kubiak said Jeanty is beat up and playing for his teammates. [pod 10-13, deployment]
 - 2026-10-11: Ashton Jeanty 10 carries for 27 @NE with Dylan Laube on third downs; the head coach says Jeanty is playing and Cousins starts Week 6. [pod 10-14, deployment]
 - 2026-10-19: Ashton Jeanty: 10 for 22 and his first rushing TD, 4 for 36 in Week 6 vs BUF; 15 more snaps than Mike Washington Jr. (9 for 43) and out-touched him 14 to 10 (CBS box score, NBC Sports).
+- 2026-10-18: Ashton Jeanty: 58% of snaps (53% Week 5, 76% Weeks 1 to 4), 10 for 22 and a TD vs BUF; Mike Washington Jr. 9 for 43 and half the early-down snaps. Jeanty's rushing by game: 102, 48, 56, 58, 27, 22; 3 TDs total. [pod 10-19, deployment]
 
 ## Receivers
 
@@ -136,6 +138,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Brock Bowers, Michael Mayer and Ian Thomas combined for 16 catches, 200 yards and 2 TD vs KC; Bowers has 16 catches for 202 and 2 TD in two games since returning from knee surgery. [pod 10-5, deployment]
 - 2026-10-16: Brock Bowers (knee) limited Wednesday, full Thursday; Ashton Jeanty (foot) full both days; Jalen Nailor (concussion) DNP then limited. Friday designations not posted by 5:30 PM ET. [raiders.com]
 - 2026-10-16: Friday report vs BUF: Ashton Jeanty (foot) full all three days and Brock Bowers (knee) full Thursday and Friday, neither designated; Jalen Nailor (concussion) full Friday, no designation; Carter Runyon and Dont'e Thornton Jr. out. [raiders.com, nfl.com]
+- 2026-10-18: Michael Mayer: 7 for 95 on 9 targets vs BUF, a career high in yards, after 8 for 82 on 10 in Week 4. [pod 10-19, deployment]
 
 ## Offensive line
 

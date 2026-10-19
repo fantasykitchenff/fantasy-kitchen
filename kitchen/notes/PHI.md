@@ -11,6 +11,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Vic Fangio's defense looks unbelievable in camp; Cooper DeJean is moving to safety. [8-12 Camp Updates Article]
 - 2026-08-20: Longtime OL coach Jeff Stoutland retired (reportedly contentiously); with another new OC the Eagles are expected to pass more, which suits this run-blocking-first line less. [8-20 Offensive Line Rankings]
 - 2026-08-24: New OC Sean Mannion replaces Kevin Patullo; he is expected to modernize the offense with more motion and has said the tush push stays and Hurts will run more by design. [8-24 adp adjustments]
+- 2026-10-19: Sean Mannion keeps calling plays after a fourth straight loss; Nick Sirianni said everything is on the table; Philadelphia is 2-4 and has been outgained by 650 yards, the league's worst margin. [pod 10-19, coach]
 
 ## Scheme and tendencies
 
@@ -46,6 +47,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Jalen Hurts: 16 of 25 for 153 yards, no TD and 1 interception at CHI, plus 4 rushes for 25 and a 1-yard sneak TD; Andy Dalton threw the other interception on his one attempt. Through three games Hurts has 16 rushes for 87 yards (46, 16, 25) and one rushing TD. [pod 9-29, deployment]
 - 2026-10-04: Jalen Hurts was held under 100 passing yards in the 24-20 loss to LAR without DeVonta Smith (Yahoo, CBS Sports). [pod 10-5, deployment]
 - 2026-10-11: Jalen Hurts 21 of 40 for 220 and a TD in London. [pod 10-13, deployment]
+- 2026-10-18: Tanner McKee: 26 of 45 for 215 and a TD (19 yards to DeVonta Smith) with a lost fumble in the 25-14 loss to CAR; Philadelphia ran for 35 yards and punted on its first five drives. [pod 10-19, deployment]
 
 ## Backfield
 
@@ -150,6 +152,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Johnny Mundt: Two snap-count sources have PHI at 50 offensive snaps at CHI with Mundt 26 (52%), Ertz 19 (38%) and E.J. Jenkins 13 (26%); a third has 47, 24 and 18. [pod 9-30, deployment]
 - 2026-09-28: Zach Ertz: Age 35, ten months removed from a right ACL tear (Dec 7, 2025); signed to the practice squad Sep 21 and elevated for his 2026 debut in Week 3 at CHI. [pod 9-30, official]
 - 2026-10-07: Dallas Goedert (knee) returned to practice as a limited participant Wednesday, his first practice since the MCL sprain that cost him Weeks 3 and 4 (NBC Sports). [pod 10-8, official]
+- 2026-10-18: Dallas Goedert: 6 catches for 61 with Tanner McKee starting vs CAR. [pod 10-19, deployment]
 
 ## Offensive line
 
@@ -172,6 +175,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-20: Philadelphia used its first three picks on offense (WR Makai Lemon, TE Eli Stowers, OL Markell Bell) and signed Hollywood Brown after losing AJ Brown; last year the tush push drew more false starts and was stripped. [7-20 coaching change talk]
 - 2026-09-21: Zach Ertz signed to the practice squad after Dallas Goedert's MCL sprain (hurt in Week 2 vs TEN). Eli Stowers and Grant Calcaterra are on injured reserve (NBC Sports Philadelphia, ESPN). [pod 9-29, official]
+- 2026-10-19: Andy Dalton: released by Philadelphia Oct 9, declined a return, and signed with Atlanta Oct 19; Tanner McKee is the Eagles' starter. [pod 10-19, official]
 
 ## Injuries and status
 
@@ -204,6 +208,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-17: Jalen Hurts out Week 6 with a superficial blood clot in his leg; Eagles not placing him on IR per ESPN, timeline past Sunday unknown. [Yahoo Sports, Sportsnaut]
 - 2026-10-17: Jalen Hurts placed on IR with the superficial blood clot after the team first said it would not; out at least four weeks, earliest return Nov 22 after the bye; blood thinners would mean about six weeks minimum. Tanner McKee starts (Fox 29, Yahoo, Schefter and Rapoport).
 - 2026-10-18: Saquon Barkley (hamstring) inactive vs CAR in Week 6, second straight missed game; DeVonta Smith active after missing two games with the hamstring (Yahoo Sports).
+- 2026-10-19: Jalen Hurts: first diagnosed in London with a left calf superficial vein thrombosis; later testing found a deep vein thrombosis and bilateral pulmonary emboli; treated with blood thinners and no contact activity during treatment; placed on IR Oct 17; expected to miss the rest of the 2026 season (Rapoport: about three months); team and agent expect a full recovery. [pod 10-19, official]
+- 2026-10-18: Dontayvion Wicks: went down in pain after a tackle on his right ankle late vs CAR; 2 catches on 4 targets for 24; no diagnosis yet. [pod 10-19, official]
 
 ## Other
 

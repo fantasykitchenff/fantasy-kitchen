@@ -24,6 +24,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: The Bears offense returns Loveland, Burden, Odunze, D'Andre Swift and Kyle Monangai behind a strong line; Williams is expected to run a lot. [8-14 preseaon hype and fantasy curses]
 - 2026-08-20: Ben Johnson's condensed formations and heavy play-action lift the line; Caleb Williams improved at managing the pocket in 2025. [8-20 Offensive Line Rankings]
 - 2026-08-24: Under Ben Johnson the Bears rose from 21st to 3rd in rush success rate, 26th to 6th in yards before contact and 14th to 3rd in run-block grade in 2025. [8-24 embarrased to love players]
+- 2026-10-18: Chicago Bears: held the ball 40:08 to 19:52 @ATL; Atlanta lost 3 fumbles (muffed punt, kickoff fumble, strip-sack) to Chicago's 1 (Roschon Johnson, Q4); all four Bears TDs came from inside the 20 (14-yd pass, 4-, 2-, 4-yd runs) plus a 50-yd FG. [pod 10-19, official]
 
 ## Quarterback
 
@@ -79,6 +80,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Kyle Monangai (324) and D'Andre Swift (311) are the first Bears teammates with 300 or more rushing yards each through four games (team PR). [pod 10-5, deployment]
 - 2026-10-11: D'Andre Swift: 40 of the first 56 snaps @GB with Monangai inactive, 9 carries for 43 and a TD, 4 catches for 30; Roschon Johnson took the last 13 snaps (PFF recap, CBS box).
 - 2026-10-19: Week 6 @ATL: D'Andre Swift 16 for 44 and 2 TDs; Roschon Johnson 13 for 51 and a TD, lost a late fumble (CBS box score).
+- 2026-10-18: D'Andre Swift: 16 carries for 44 and 2 TDs (4 and 2 yards, both third-and-goal), 4 of 5 targets for 26 @ATL; Roschon Johnson 13 for 51 and a 4-yd TD, 2 for 34, lost a Q4 fumble; Swift was the lead back until Johnson took more work late. [pod 10-19, official]
 
 ## Receivers
 
@@ -123,6 +125,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Kalif Raymond: 21 targets through three games (9, 5, 7), 19 catches, 214 yards and 1 touchdown; he leads the Bears in receiving yards. [pod 9-30, deployment]
 - 2026-10-11: Wk5 at GB (7-31): Bagent 12 of 21 for 87 and 2 INT before Keenum relieved him; Rome Odunze 3 of 9 for 40; Luther Burden III 4 of 6 for 47; Kalif Raymond 3 of 4 for 6. [pod 10-13, deployment]
 - 2026-10-19: Luther Burden III: 8 of 8 for 95 in Week 6 @ATL (CBS box score).
+- 2026-10-18: Luther Burden III: 8 of 8 targets for 95 (long 25) @ATL, team lead, second straight game leading Chicago in receiving yards. [pod 10-19, official]
+- 2026-10-18: Rome Odunze: 3 of 4 targets for 39 (long 23, a third-and-17 conversion) @ATL. [pod 10-19, official]
 
 ## Tight ends
 
@@ -149,6 +153,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Colston Loveland led Chicago with 9 targets in Week 4 vs NYJ with Tyson Bagent at quarterback, after 9 targets in Weeks 1 to 3 combined (NBC Sports). [pod 10-8, deployment]
 - 2026-10-11: Colston Loveland 2 of 5 for 19 at GB (6 of 9 for 57 in Week 4). He had no catches in Week 1, when Chicago scored 59 with Williams. [pod 10-13, deployment]
 - 2026-10-19: Colston Loveland: 6 of 7 for 65 and a TD in Week 6 @ATL (CBS box score).
+- 2026-10-18: Colston Loveland: 6 of 7 for 65 and a 14-yd TD from Caleb Williams on the opening drive @ATL. [pod 10-19, official]
 
 ## Offensive line
 
@@ -162,6 +167,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: The Bears rebuilt the offensive line after Williams' record-level sack total as a rookie, and his pressure-to-sack ratio improved in 2025. [8-26 myguys episode]
 - 2026-09-28: Braxton Jones: Left the PHI game with a knee injury after 46% of the snaps; Theo Benedet played the other 54% at left tackle. The other four linemen played all 72 snaps. [pod 9-29, deployment]
 - 2026-09-30: Braxton Jones: Week to week with the knee injury from Week 3, per Ben Johnson, and did not practice Wednesday; Theo Benedet played the rest of that game at left tackle. Jonah Jackson missed Wednesday for a personal reason. [pod 9-30, coach]
+- 2026-10-19: Jonah Jackson: RG left Week 6 @ATL with a hip injury; no update Monday, expected DNP on the first estimated report; 2025 sixth-rounder Luke Newman would make his first start. [pod 10-19, beat]
 
 ## Rookies
 
@@ -200,6 +206,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: Caleb Williams: full practice Thursday (hamstring). Kyle Monangai DNP (thumb/toe). [NFL.com Thursday roundup, team reports]
 - 2026-10-17: Caleb Williams expected to start @ATL after three full practices with the hamstring, his first game since Week 2 (Schefter, Rapoport via Yahoo). CB Kyler Gordon activated from IR (calf).
 - 2026-10-18: Caleb Williams (hamstring) active and starting @ATL in Week 6, first game since Week 2; Case Keenum inactive, Kyle Monangai inactive (Yahoo Sports, NBC Sports).
+- 2026-10-19: Kyle Monangai: turf toe; missed Week 5 and Week 6 and is expected to miss a third straight game Thursday vs NE; no IR planned, Ben Johnson calls it week to week. [pod 10-19, beat]
 
 ## Other
 

@@ -42,6 +42,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: Daniel Jones: Jones is returning from a torn Achilles; with him healthy through mid-2025 the Colts had the league's best offense statistically. The Colts return one of the league's better offensive lines. [8-19 RBs drafting and fading]
 - 2026-08-24: Daniel Jones: Daniel Jones returns from injury; he may not be 100% but the Colts will have him instead of the late-season replacements (Rivers, Leonard) who played out 2025. [8-24 adp adjustments]
 - 2026-09-27: Daniel Jones: 24 of 36 for 235, 1 TD, 1 INT in the 19-17 win over HOU; 30 of the 36 attempts went to Downs (11), Warren (10) and Allen (9). [pod 9-29, deployment]
+- 2026-10-18: Daniel Jones: 22 of 42 for 269, 1 TD, 2 INT, sacked 6 times in the 26-20 loss to TEN; Shane Steichen kept him as the starter ("he's got to play better"). Season 4 TD, 6 INT, 5.9 yards per attempt. [pod 10-19, deployment]
 
 ## Backfield
 
@@ -110,6 +111,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Josh Downs drew a team-high 11 targets for 5 catches and 77 yards vs TEN; his targets have risen every week. [pod 10-1, deployment]
 - 2026-10-05: Week 4 vs WAS (London): Josh Downs 3 of 4 for 16 with Pierce and Keenan Allen out; Tyler Warren 5 of 5 for 41; Jonathan Taylor 20 for 95 and 2 TD (NBC, CBS).
 - 2026-10-11: Josh Downs catches by week 7, 5, 3, 3 in Weeks 2 to 5 (3 of 6 for 47 in Week 5). [pod 10-13, deployment]
+- 2026-10-18: Keenan Allen: 8 for 82 on a team-high 11 targets vs TEN, after 9 targets in each of Weeks 4 and 5; Josh Downs 4 for 40 on 8 targets. Will Mallory 6 targets, Ladell Treadwell 5. [pod 10-19, deployment]
 
 ## Tight ends
 
@@ -163,6 +165,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Keenan Allen: Signed a one-year deal worth up to $8M with the Colts, reuniting with Shane Steichen; he is 34 and showed decline late in 2025 but still commanded targets. [8-26 rankings and news updates]
 - 2026-08-26: Keenan Allen: The Colts signed Keenan Allen in late August because Alec Pierce, Josh Downs and Tyler Warren were all dealing with injuries; he is expected to be heavily involved early in the season. [8-26 myguys episode]
 - 2026-09-22: Darius Slayton signed (released by NYG 9/7), inactive Week 3. [pod 9-28, official]
+- 2026-10-19: Chris Ballard: fired as general manager Monday morning after a 2-4 start in his 10th season (72-82-1); assistant GM Ed Dodds oversees personnel, Shane Steichen and staff report to ownership, no coordinator changes announced. [pod 10-19, official]
 
 ## Injuries and status
 
@@ -208,6 +211,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Alec Pierce: on IR after aggravating the heel that needed offseason surgery; no surgery this time, and he hopes to return this season (CBS Sports, NFL.com). [pod 10-7, official]
 - 2026-10-14: Wednesday: Jonathan Taylor limited (rest) and Keenan Allen DNP (rest), no injury listed; RT Jalen Travis (ankle) DNP (Yahoo Sports, Stampede Blue).
 - 2026-10-18: Tyler Warren (groin) inactive vs TEN in Week 6 after a limited Friday; Mo Alie-Cox and Andrew Ogletree the tight ends. Colts inactives also Jaylon Carlies, Ashton Dulin, Riley Leonard, Dalton Tucker (Yahoo Sports live updates).
+- 2026-10-18: Tyler Warren: inactive Week 6 vs TEN with a groin injury suffered in Friday's practice; no return timeline given. [pod 10-19, official]
+- 2026-10-19: Sauce Gardner: calf strain in Week 6 vs TEN, considered week to week. [pod 10-19, beat]
 
 ## Other
 

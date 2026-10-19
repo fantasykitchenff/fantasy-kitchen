@@ -6,9 +6,9 @@
   "dek": "Kendre Miller took the Saints' backfield while Alvin Kamara's back acted up, and Cam Skattebo played six snaps for the Giants.",
   "format": "PPR",
   "publishedAt": "2026-10-19T11:30:00Z",
-  "updatedAt": "2026-10-19T11:30:00Z",
+  "updatedAt": "2026-10-19T20:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": "What's still good from Week 6, PPR scoring, every game from Thursday night through Sunday night. Washington at San Francisco plays Monday night and goes into Tuesday's Market Run, and CIN, DET, MIA and MIN were off. New Orleans handed its backfield to Kendre Miller, the Giants took Cam Skattebo off the field and changed quarterbacks mid-game, Rico Dowdle came back in Pittsburgh, and Caleb Williams returned in Atlanta. Ranks are rest of season for me; the Week 7 Menu comes Wednesday.",
+  "intro_md": "Updated Mon 4:30 PM ET: Cam Skattebo is a hold until the Week 7 depth chart and practice reports say who leads the Giants' backfield. A.J. Brown had 3 drops on 10 targets; still a hold. Romeo Doubs has no diagnosis and Mike Vrabel would not commit to him for Thursday; monitor Tuesday's report. Ashton Jeanty stays a hold, with Mike Washington Jr. taking half the early downs.\n\nWhat's still good from Week 6, PPR scoring, every game from Thursday night through Sunday night. Washington at San Francisco plays Monday night and goes into Tuesday's Market Run, and CIN, DET, MIA and MIN were off. New Orleans handed its backfield to Kendre Miller, the Giants took Cam Skattebo off the field and changed quarterbacks mid-game, Rico Dowdle came back in Pittsburgh, and Caleb Williams returned in Atlanta. Ranks are rest of season for me; the Week 7 Menu comes Wednesday.",
   "outro_md": "The misses, owned. Bijan Robinson was RB1 for me; he touched the ball 11 times while Chicago kept it for 40 minutes. Cam Skattebo was RB17; he played 6 snaps. Emanuel Wilson was RB16 Thursday; George Holani out-snapped him 49 to 27 and Wilson ran 14 times for 52. Pat Freiermuth was TE12; he caught 2 for 11 while Darnell Washington scored. Juwan Johnson was the TE8 pivot for Tyler Warren; he was shut out on 2 targets. The lesson: a fill-in back's snap share matters more than the carries the week before, and a tight end living on touchdowns with no target volume is a coin flip, not a TE1. The Menu weighs both from Wednesday on.",
   "data": {
     "takeaways": [
@@ -30,12 +30,12 @@
       },
       {
         "headline": "Cam Skattebo played six snaps",
-        "text": "Cam Skattebo (NYG) played 6 snaps and had no carries vs NO, a week after his fourth lost fumble of the season. John Harbaugh said he did not bench him and called it not by design. Najee Harris started, Tyrone Tracy Jr. (NYG) scored twice on 8 touches, and the Giants' backs ran 14 times for 34 between them. Jameis Winston was benched after his second interception, and J.J. McCarthy threw for 243 in the last 11 minutes; Harbaugh has not named a starter. Skattebo is RB19 rest of season for me; hold him. Tracy is a deep-league add, 0 to 2 percent of FAAB.",
+        "text": "Cam Skattebo (NYG) played 6 snaps and had no carries vs NO, a week after his fourth lost fumble of the season. John Harbaugh said he did not bench him and called it not by design. Najee Harris started, Tyrone Tracy Jr. (NYG) scored twice on 8 touches, and the Giants' backs ran 14 times for 34 between them. Jameis Winston was benched after his second interception, and J.J. McCarthy threw for 243 in the last 11 minutes; Harbaugh has not named a starter. Harbaugh said someone needs to step up and be the back, so the Week 7 depth chart and practice reports decide it; hold Skattebo for now. Tracy is a deep-league add, 0 to 2 percent of FAAB.",
         "actions": [
           {
             "player": "Cam Skattebo",
             "action": "HOLD",
-            "why": "He played 56 snaps the week before; a second straight game under 15 snaps makes him a sell."
+            "why": "He played 56 snaps the week before; the Week 7 depth chart and practice reports decide it, and a second straight game under 15 snaps @HOU makes him a sell."
           },
           {
             "player": "Tyrone Tracy Jr.",
@@ -102,7 +102,7 @@
       },
       {
         "headline": "A.J. Brown got the targets, not the catches",
-        "text": "A.J. Brown (NE) drew 10 targets in his first game off IR in the 26-19 win over NYJ and caught 3 for 27, with several drops. Romeo Doubs (NE) caught a 42-yard TD and hurt his shoulder on the dive; Mike Vrabel doubted he plays Thursday @CHI. DeMario Douglas (NE) caught 7 of 8 for 86 and a TD. Brown is WR24 rest of season for me; hold him. Doubs is WR46 rest of season for me; monitor Tuesday's injury report. Add Douglas for Thursday in PPR, 1 to 3 percent of FAAB.",
+        "text": "A.J. Brown (NE) drew 10 targets in his first game off IR in the 26-19 win over NYJ and caught 3 for 27, with 3 drops, the most he has had in a game. Romeo Doubs (NE) caught a 42-yard TD and hurt his shoulder on the dive; Mike Vrabel would not commit to him for Thursday @CHI and the team has given no diagnosis. DeMario Douglas (NE) caught 7 of 8 for 86 and a TD. Brown is WR24 rest of season for me; hold him. Doubs is WR46 rest of season for me; monitor Tuesday's injury report. Add Douglas for Thursday in PPR, 1 to 3 percent of FAAB.",
         "actions": [
           {
             "player": "A.J. Brown",
@@ -200,14 +200,14 @@
         "stat": "41 snaps, 14 carries for 36",
         "read": "He led the backs in snaps, but Corey Kiner ran 11 times for 57 and TreVeyon Henderson came back with 7 carries for 31.",
         "action": "HOLD",
-        "why": "He still has 60 percent of the snaps; Henderson passing 30 percent is what would move him down. RB24 rest of season for me."
+        "why": "He led the backs with 41 snaps; Henderson passing 30 percent of the snaps is what would move him down. RB24 rest of season for me."
       },
       {
         "player": "Ja'Kobi Lane",
         "team": "BAL",
         "pos": "WR",
         "stat": "5 targets, 4 catches for 40",
-        "read": "Active off IR in the 13-10 loss @CLE, and Rashod Bateman left with a shoulder injury in the second quarter. Lamar Jackson is aiming at Week 7.",
+        "read": "Active off IR in the 13-10 loss @CLE, and Rashod Bateman left with the shoulder in the second quarter, though Baltimore's coach said Monday Bateman should be OK. Lamar Jackson is day to day for Week 7.",
         "action": "ADD",
         "faab": "0-2%"
       },
@@ -236,7 +236,7 @@
         "stat": "10 carries for 22 and a TD, 4 catches for 36",
         "read": "His first rushing TD of the season, and he played 15 more snaps than Mike Washington Jr., who ran 9 times for 43.",
         "action": "HOLD",
-        "why": "He out-touched Washington 14 to 10 through the foot; Washington passing him in snaps is what would change it. RB8 rest of season for me."
+        "why": "He played 58 percent of the snaps and out-touched Washington 14 to 10, but Washington took half the early-down snaps. Hold; watch the early-down split vs KC in Week 7. RB8 rest of season for me."
       },
       {
         "player": "Kyren Williams",

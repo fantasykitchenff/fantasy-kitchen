@@ -146,6 +146,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Zach Charbonnet: the knee that keeps him out for Week 5 vs SF is the ACL he had surgically repaired in the offseason; his practice window opened Oct 1 (team site, NBC Sports). [pod 10-7, official]
 - 2026-10-13: Jaxon Smith-Njigba (ankle, hurt on a Week 5 run) limited on Monday's estimated report before Thursday @DEN; Drew Lock (right forearm) limited (Bob Condotta, Seattle Times; John Boyle, team site; via DK Network).
 - 2026-10-15: Elijah Arroyo (shoulder) hurt in the second quarter @DEN, doubtful to return (seahawks.com); AJ Barner played 93% of snaps.
+- 2026-10-16: Jadarian Price: on IR (chest, placed Oct 3), first eligible Week 8 (Nov 2 vs CHI), Macdonald says 'sooner rather than later' after Week 7; Zach Charbonnet still on PUP (ACL) with no activation timeline. [pod 10-19, coach]
 
 ## Other
 

@@ -24,6 +24,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: C.J. Stroud: 16 of 27 for 167, 1 TD, 0 INT at IND; targets Hutchinson 6, Moreau 4, Schultz 3, Boutte 2. [pod 9-29, deployment]
 - 2026-10-04: C.J. Stroud: 347 passing yards vs DAL in the 34-30 loss; Houston is 0-4. [pod 10-5, deployment]
 - 2026-10-11: C.J. Stroud 26 of 34 for 261 and a rushing TD at TEN. [pod 10-14, deployment]
+- 2026-10-18: C.J. Stroud: 24 of 34 for 312, 3 TD (2 to Foster Moreau, 1 to Jaylin Noel), 1 INT and 0 sacks taken in the 34-31 win @JAX in London (14 sacks in Weeks 1 to 5). [pod 10-19, deployment]
 
 ## Backfield
 
@@ -97,6 +98,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Nico Collins: 7 for 118 and 2 TD on 69 percent of the snaps vs DAL in his return from the hamstring strain that cost Weeks 2 and 3. [pod 10-5, deployment]
 - 2026-10-11: Jaylin Noel 3 of 3 for 85 (Wk4) and 5 of 5 for 41 and a TD (Wk5). Nico Collins 7-118-2 (Wk4) and 5-56 on 7 targets (Wk5). [pod 10-13, deployment]
 - 2026-10-19: Marvin Harrison Jr. Houston debut, Week 6 @JAX: 12 snaps, 9 routes, 3 for 34 on 4 targets; Jaylin Noel 4 for 107 and a TD (CBS box score; snaps single source).
+- 2026-10-18: Jaylin Noel: 4 of 4 for 107 and a 13-yard TD @JAX, his first 100-yard game; 12 of 12 targets for 233 yards (19.4 per target) over Weeks 4 to 6. [pod 10-19, deployment]
+- 2026-10-18: Nico Collins: 3 for 74 @JAX; Dalton Schultz 4 for 33 on 6 targets; Foster Moreau 2 TD and over 60% of snaps to Schultz's ~40%. [pod 10-19, deployment]
 
 ## Tight ends
 

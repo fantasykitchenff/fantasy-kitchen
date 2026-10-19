@@ -109,6 +109,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-24: Kyle Pitts: 1 catch on 2 targets for 5 yards at GB on 19 routes (76%) and about 59% of the snaps, fewer snaps than Charlie Woerner (61%). Through three games: 6 targets (1, 3, 2), 2 catches, 20 yards; route rate 56.9% in Weeks 1 and 2. [pod 9-29, deployment]
 - 2026-09-24: Austin Hooper: Caught Penix's only touchdown pass (2 of 2 for 11) on 15-16 snaps; Atlanta used Woerner (61%), Pitts (59%), Nick Muse (24%) and Hooper (23%) at tight end. [pod 9-29, deployment]
 - 2026-10-11: Kyle Pitts 5 of 6 for 42 and a TD, Atlanta's only offensive TD; he had 2 catches for 20 in Weeks 1 to 3. [pod 10-13, deployment]
+- 2026-10-18: Kyle Pitts: 7 of 33 targets (21%), 5 for 60 and 2 TDs vs CHI, after 5 of 6 for 42 and a TD in Week 5. [pod 10-19, deployment]
 
 ## Offensive line
 
@@ -133,6 +134,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-05: Bijan Robinson: Bijan signed a three-year contract worth up to $75M with $51M guaranteed. [8-5 top 10 QB rankings]
 - 2026-08-05: Bijan Robinson: Robinson signed a three-year, $75 million deal with the Falcons. [8-5 32 team update and breakdown]
 - 2026-08-13: Kyle Pitts: Atlanta franchise-tagged Pitts and extended him with $36 million guaranteed, the most for any tight end; new coach Kevin Stefanski is a tight-end-friendly schemer and the group behind London and Robinson is thin. [8-13 2026 man vs machine]
+- 2026-10-19: Atlanta signed Andy Dalton and released Cooper Rush; Dalton competes with Tua Tagovailoa for the backup job behind Michael Penix Jr. (Rush started Weeks 1-2: 22 of 39, 229, 1 TD, 4 INT). [pod 10-19, official]
 
 ## Injuries and status
 

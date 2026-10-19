@@ -39,6 +39,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Jesse Minter said Lamar Jackson (ankle) is definitely doing better; Wednesday practice unclear (Yahoo Sports, NFL.com).
 - 2026-10-16: Lamar Jackson (ankle) ruled out Week 6 @CLE, DNP all week; Tyler Huntley starts. Jesse Minter: 'just a decision for his best interest.' Zay Flowers (toe) and Rashod Bateman (shoulder) have no designation; Ja'Kobi Lane (wrist) questionable. [NFL.com, Yahoo Sports]
 - 2026-10-19: Tyler Huntley started Week 6 @CLE (10-13 L): 19 of 31 for 165 and a TD; Lamar Jackson targeting Week 7 vs CIN (CBS box score, NBC Sports).
+- 2026-10-19: Lamar Jackson (left ankle) missed Week 6, his second straight; Jesse Minter on Monday kept him "day-to-day" and said he could "potentially" practice Wednesday before CIN. Tyler Huntley went 19 of 31 for 165 and a TD with 5 carries for 28 in the 13-10 loss @CLE. [pod 10-19, coach]
 
 ## Backfield
 
@@ -56,6 +57,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Adam Randall: Rookie is viewed only as a speculative backup to Derrick Henry; the owner reportedly pushed for the pick. [8-20 buying or selling rookie hype]
 - 2026-09-27: Derrick Henry: 26 carries for 89 yards (3.4) and 2 TD vs DAL on 43 of 64 snaps (67%); Justice Hill 31 snaps; Keaton Mitchell none. Season: 301 rushing yards and 6 TD in three games. Inside runs vs DAL went 11 for 23, and he was stopped on two fourth-and-1 runs. [pod 9-29, deployment]
 - 2026-10-11: Derrick Henry: 8 catches on 9 targets for 62 and a TD through Week 5. [pod 10-14, deployment]
+- 2026-10-18: Derrick Henry: 17 for 58 (3.4), his season low, and a Q4 fumble forced by Carson Schwesinger that set up Cleveland's tying TD. [pod 10-19, deployment]
 
 ## Receivers
 
@@ -169,6 +171,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Lamar Jackson (ankle) did not practice Wednesday and has not practiced since the 10/4 injury; Schefter reports a realistic chance he plays @CLE; Tyler Huntley starts if he cannot. [pod 10-14, official]
 - 2026-10-14: Ja'Kobi Lane returned to practice off IR (wrist surgery, missed four games); the team site lists him as activated. [pod 10-14, official]
 - 2026-10-15: Lamar Jackson: DNP Thursday (ankle), second straight day. Zay Flowers added as limited (toe); Rashod Bateman downgraded to DNP (shoulder); Ja'Kobi Lane full. [NFL.com Thursday roundup, team reports]
+- 2026-10-19: Rashod Bateman aggravated the shoulder (on the report the prior two weeks) and left late in Q2 @CLE, 0 of 1 target on 11 routes; Minter said Monday he "should be OK", and practice decides Week 7. [pod 10-19, coach]
 
 ## Other
 

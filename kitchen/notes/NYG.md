@@ -46,6 +46,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jameis Winston 33 of 54 for 326 and 3 TDs with a lost fumble; Isaiah Likely 11 catches on 13 targets for 94 and 2 TDs. [pod 10-14, deployment]
 - 2026-09-29: J.J. McCarthy, acquired from MIN, could play in the near future (Connor Hughes, SNY). [pod 10-14, beat]
 - 2026-10-19: Jameis Winston benched after his second INT in Week 6 vs NO (14 of 26, 152, 1 TD, 2 INT); J.J. McCarthy 11 of 21 for 243, 1 TD, 1 INT in the last 11 minutes; no starter named for Week 7 (team box score, AP).
+- 2026-10-18: J.J. McCarthy: replaced Jameis Winston early in the 4th quarter trailing 34-10 vs NO; 11 of 21 for 243, 1 TD, 1 INT, 2 runs for 26; his 271 total yards are the second-most by a QB in a 4th quarter since at least 1991, and 243 ties Eli Manning's 2012 mark for a Giants QB; John Harbaugh did not name a Week 7 starter at HOU and said he has no problem with Winston. [pod 10-19, coach]
 
 ## Backfield
 
@@ -87,6 +88,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Cam Skattebo: 56 snaps, Tracy 17, Najee Harris 16 @WAS; 13 carries for 59, lost a fumble in overtime, his fourth in five games (NBC Sports, Fox box).
 - 2026-10-11: Cam Skattebo 13-59 and 2-12 on 63 percent of snaps (Tracy 17 snaps, Najee Harris 16) with a lost OT fumble; 12 targets in five games. [pod 10-13, deployment]
 - 2026-10-19: Cam Skattebo: 6 snaps, 0 carries in Week 6 vs NO after his fourth lost fumble; Harbaugh said he was not benched; Najee Harris started (4 for 2), Tyrone Tracy Jr. 6 for 18 and a TD plus a 17-yard TD catch (Yahoo Sports, team box score).
+- 2026-10-18: Cam Skattebo: 6 snaps and no touches vs NO, the first active game of his career without one, a week after his fourth lost fumble; he said 'I got punished for what I did (last week)'; Harbaugh said it was 'not by design', denied a benching, said no runs were called while Skattebo was in and that someone 'needs to step up and be the back'; Tyrone Tracy Jr. 6 for 18 and a TD plus 2 for 27 and a TD, Najee Harris 4 for 2, Devin Singletary 4 for 14 and 1 for 19. [pod 10-19, coach]
 
 ## Receivers
 
@@ -137,12 +139,14 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Isaiah Likely caught a career-high 11 passes for 94 yards and 2 TDs in the 27-27 overtime tie with WAS; Jameis Winston 33 of 54 for 326, 3 TD, 0 INT (giants.com).
 - 2026-10-11: Isaiah Likely 13 targets, 11-94-2, the top TE score of the week. [pod 10-13, deployment]
 - 2026-10-16: Theo Johnson (neck) ruled out Week 6 vs NO after not practicing Friday. [CBS, NFL.com]
+- 2026-10-18: Isaiah Likely: 11 targets, 6 for 99 and a TD vs NO; Malachi Fields 8 targets, 2 for 19; Malik Nabers 15 targets, 12 for 165, no TD. [pod 10-19, deployment]
 
 ## Offensive line
 
 - 2026-07-20: The Giants upgraded the line with Francis Mauigoa, but Andrew Thomas has an injury history and the unit rates good, not great. [7-20 coaching change talk]
 - 2026-08-11: The Giants' line is in better shape with first-round right guard Francis Mauigoa in the mix and star left tackle Andrew Thomas healthy. [8-11 Fav Pick in each round]
 - 2026-08-20: LT Andrew Thomas has played only 29 games in the last three seasons; the Giants added No. 10 pick RG Francis Mauigoa; the unit is a lesser run-blocking group under Matt Nagy. [8-20 Offensive Line Rankings]
+- 2026-10-18: LT Andrew Thomas left late vs NO for a concussion evaluation, cleared, but was held out; rookie J.C. Davis played LT; RT Jermaine Eluemunor (calf) inactive. [pod 10-19, official]
 
 ## Depth chart
 

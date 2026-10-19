@@ -6,9 +6,9 @@
   "dek": "Woody Marks has Houston's backfield while David Montgomery is week to week, and he is the first claim of the week.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-14T20:55:00Z",
+  "updatedAt": "2026-10-19T20:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 4:55 PM ET: Jameis Winston is QB17 for me vs NO, still a bye-week streamer. Pat Freiermuth is TE13 @TB, a borderline start; keep him through Week 6.\n\nUpdated Wed 4:35 PM ET: Dylan Sampson was designated to return from IR and practiced Wednesday while Quinshon Judkins sat out with the ankle; stash Sampson, 1 to 3 percent of FAAB.\n\nUpdated Tue 11:25 AM ET: Pat Freiermuth (PIT) is no longer a drop. He is TE12 for me @TB, a borderline start with three Pittsburgh receivers out; keep him through Week 6. Kendre Miller (NO) is in as an add at RB32 this week, Jameis Winston (NYG) replaces Aaron Rodgers as the second bye-week streamer at QB16, and Kimani Vidal (LAC) is a stash. Efton Chism III came off the list; A.J. Brown's practice window caps his role.\n\nFour teams are off in Week 6, Cincinnati, Detroit, Miami and Minnesota, so the wire is about one real backfield, a handful of receivers who just inherited targets, and bye-week fill-ins. Houston's backfield is the prize. Pittsburgh, Arizona and Indianapolis each lost a receiver, and the next man up in each is on almost nobody's roster.\n\nPass on Keon Coleman (BUF). DJ Moore sat Monday night and Coleman still saw 2 targets. Pass on a real claim for Dameon Pierce (PHI) too: 11 carries for 14 yards in London, and Saquon Barkley may be back vs CAR.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
+  "intro_md": "Updated Mon 4:30 PM ET: Keenan Allen led the Colts with 11 targets vs TEN with Tyler Warren out; claim him, 4 to 8 percent. Tyjae Spears had 1 carry and 1 catch @IND; drop him.\n\nUpdated Wed 4:55 PM ET: Jameis Winston is QB17 for me vs NO, still a bye-week streamer. Pat Freiermuth is TE13 @TB, a borderline start; keep him through Week 6.\n\nUpdated Wed 4:35 PM ET: Dylan Sampson was designated to return from IR and practiced Wednesday while Quinshon Judkins sat out with the ankle; stash Sampson, 1 to 3 percent of FAAB.\n\nUpdated Tue 11:25 AM ET: Pat Freiermuth (PIT) is no longer a drop. He is TE12 for me @TB, a borderline start with three Pittsburgh receivers out; keep him through Week 6. Kendre Miller (NO) is in as an add at RB32 this week, Jameis Winston (NYG) replaces Aaron Rodgers as the second bye-week streamer at QB16, and Kimani Vidal (LAC) is a stash. Efton Chism III came off the list; A.J. Brown's practice window caps his role.\n\nFour teams are off in Week 6, Cincinnati, Detroit, Miami and Minnesota, so the wire is about one real backfield, a handful of receivers who just inherited targets, and bye-week fill-ins. Houston's backfield is the prize. Pittsburgh, Arizona and Indianapolis each lost a receiver, and the next man up in each is on almost nobody's roster.\n\nPass on Keon Coleman (BUF). DJ Moore sat Monday night and Coleman still saw 2 targets. Pass on a real claim for Dameon Pierce (PHI) too: 11 carries for 14 yards in London, and Saquon Barkley may be back vs CAR.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
   "outro_md": "The Menu lands Wednesday with every one of these players ranked for Week 6. Claims first, lineups after.",
   "data": {
     "adds": [
@@ -40,10 +40,10 @@
         "team": "IND",
         "pos": "WR",
         "action": "CLAIM",
-        "faab": "3-6%",
+        "faab": "4-8%",
         "rostered": "37%",
-        "why": "Allen drew 9 targets in each of his last two games and caught at least 5 for 45 in both. Alec Pierce is on IR with the heel, so the outside targets have nowhere else to go vs TEN.",
-        "verdict": "Claim him, 3 to 6 percent of FAAB. WR60 rest of season for me, a PPR bench receiver with weekly volume."
+        "why": "Allen led Indianapolis with 11 targets vs TEN and caught 8 for 82, after 9 targets in each of Weeks 4 and 5. Josh Downs had 4 for 40 on 8, and Tyler Warren is out with the groin, so Allen is the Colts receiver to roster.",
+        "verdict": "Claim him, 4 to 8 percent of FAAB. A PPR flex play with three straight weeks of volume."
       },
       {
         "priority": 4,
@@ -91,17 +91,6 @@
       },
       {
         "priority": 8,
-        "player": "Tyjae Spears",
-        "team": "TEN",
-        "pos": "RB",
-        "action": "ADD",
-        "faab": "1-3%",
-        "rostered": "",
-        "why": "Spears played over half the snaps for the first time this season vs HOU and caught 9 passes on the passing downs, while Tony Pollard ran 14 times for 52.",
-        "verdict": "Add him, 1 to 3 percent of FAAB. A PPR flex @IND in 14-team leagues."
-      },
-      {
-        "priority": 9,
         "player": "Brenton Strange",
         "team": "JAX",
         "pos": "TE",
@@ -112,7 +101,7 @@
         "verdict": "Claim him, 2 to 4 percent of FAAB. TE16 rest of season for me, a streaming tight end vs HOU in London."
       },
       {
-        "priority": 10,
+        "priority": 9,
         "player": "Jordan Love",
         "team": "GB",
         "pos": "QB",
@@ -123,7 +112,7 @@
         "verdict": "Stream him vs DAL Sunday night, 3 to 6 percent of FAAB. QB15 rest of season for me, the first bye-week quarterback on the wire."
       },
       {
-        "priority": 11,
+        "priority": 10,
         "player": "Jameis Winston",
         "team": "NYG",
         "pos": "QB",
@@ -134,7 +123,7 @@
         "verdict": "Stream him vs NO, 0 to 2 percent of FAAB. QB17 for me this week, a streamer if your quarterback is on bye."
       },
       {
-        "priority": 12,
+        "priority": 11,
         "player": "Chig Okonkwo",
         "team": "WAS",
         "pos": "TE",
@@ -224,6 +213,14 @@
         "action": "DROP",
         "why": "He ran 6 times for 11 vs CIN while Ollie Gordon II took 18 carries and 43 snaps, and Miami is on bye.",
         "verdict": "Drop him for Gordon or any add on this list."
+      },
+      {
+        "player": "Tyjae Spears",
+        "team": "TEN",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "Spears had 1 carry and 1 catch @IND while Tony Pollard ran 19 times; the passing-down role he showed vs HOU did not hold. RB55 rest of season for me.",
+        "verdict": "Drop him for any add on this list."
       }
     ],
     "mnf": [

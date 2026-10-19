@@ -30,6 +30,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-17: Cam Ward: Cam Ward did not show much in the preseason opener after a rough rookie season; the line is rated among the worst in the league. [8-17 updates and camp news]
 - 2026-08-26: Cam Ward: Reports say there has been nothing positive to take from his preseason after a very rough rookie year. [8-26 rankings and news updates]
 - 2026-09-27: Cam Ward: 23 of 36 for 181, 1 TD, 1 INT in a 12-7 loss at NYG; intercepted in the end zone with 17 seconds left. TEN is 0-3. [pod 9-29, deployment]
+- 2026-10-18: Cam Ward: 11 of 22 for 102, 1 TD, 1 INT, 3 runs for 7 in the 26-20 win @IND, the fewest passing yards by a winning QB this season. [pod 10-19, deployment]
 
 ## Backfield
 
@@ -59,6 +60,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Tyjae Spears out-snapped Tony Pollard 34 to 30 and caught 9 of 9 for 28. [pod 10-13, deployment]
 - 2026-10-16: Tyjae Spears (knee) questionable Week 6 @IND after DNP Thursday and full Friday. [CBS, NFL.com]
 - 2026-10-19: Tony Pollard: season-high 19 carries for 76 in Week 6 @IND; Tyjae Spears 1 carry (team box score).
+- 2026-10-18: Tony Pollard: carries 17, 16, 14 and 19 in Weeks 3 to 6 with 1 rushing TD (Week 4); Week 6 19 for 76 on 1 target, Tyjae Spears 1 carry and 1 catch. [pod 10-19, deployment]
 
 ## Receivers
 
@@ -89,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Carnell Tate 1 for 6 on 5 targets on 76 percent of snaps; Cam Ward 23 of 36 for 170, 1 INT. [pod 10-13, deployment]
 - 2026-10-14: Carnell Tate caught 1 pass for 6 yards on 5 targets in Week 5 vs HOU and played through the back injury (box score).
 - 2026-10-19: Carnell Tate: 7 targets, 6 for 70 and his first career TD in Week 6 @IND (26-20 W) (team box score).
+- 2026-10-18: Carnell Tate: 6 for 70 and his first NFL TD on a team-high-tying 7 targets, 70 of Cam Ward's 102 passing yards. [pod 10-19, deployment]
 
 ## Tight ends
 
@@ -144,3 +147,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-09: Carnell Tate questionable (back), LP Thursday and Friday, Saleh says good to go; Tony Pollard no designation (FP Thursday and Friday) (tennesseetitans.com Friday report).
 - 2026-10-11: Carnell Tate active Week 5 vs HOU (back) (nfl.com Sunday pregame)
 - 2026-10-11: Tennessee has 6 offensive TDs through Week 5, fewest in the league; Tyjae Spears caught 9 passes for 28; Wan'Dale Robinson drew 23 targets over Weeks 3 to 5. [pod 10-14, deployment]
+- 2026-10-18: Titans defense: 6 sacks of Daniel Jones (Simmons 2, Jermaine Johnson II 2), 3 takeaways, and a blocked punt returned for a TD by Femi Oladejo in the 26-20 win, Tennessee's first of 2026. [pod 10-19, deployment]

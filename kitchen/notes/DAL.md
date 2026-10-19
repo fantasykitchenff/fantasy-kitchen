@@ -24,6 +24,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-09: Dak Prescott: Led the league in completions in 2025 and 2023 and was QB6 in 2025; has two dynamic receivers, a bad defense and a mostly indoor schedule. Averaged 18.4 fppg from 2023-25 vs. Burrow's 18.7. [8-9 QB preview]
 - 2026-08-12: Dak Prescott: Dak Prescott is in total command of the offense with Sam Howell and Joe Milton behind him. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Dak Prescott: Through Week 17 of 2025 he ranked 3rd in passing TDs, 1st in throws into the end zone and 2nd in expected passing TDs. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
+- 2026-10-18: Dak Prescott: 34 of 54 for 258, 1 TD, 2 INT in the 23-13 loss @GB, both INTs before halftime (one when CeeDee Lamb slipped); Dallas ran for 48 yards, Javonte Williams 11 for 41 and a TD; Lamb caught 11 of 23 targets (48%) over Weeks 5-6. [pod 10-19, deployment]
 
 ## Backfield
 

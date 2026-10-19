@@ -32,6 +32,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Aaron Rodgers: 19 of 34 for 292 yards, 3 TD, 1 INT vs CIN with completions of 47, 38 and 23 yards; he was 0 for 9 on throws of 20-plus yards in Weeks 1-2, when the offense averaged a league-worst 3.8 yards a play. Week 3: 411 yards on 59 plays (7.0). [pod 9-29, deployment]
 - 2026-10-01: Aaron Rodgers: 22 of 40 for 299, 3 TD, 2 INT and 5 sacks at CLE, after 292 yards and 3 TD in Week 3. [pod 10-2, deployment]
 - 2026-10-11: Aaron Rodgers 22 of 31 for 235 and 3 TDs vs IND, his third straight 3-TD game (about 22 fantasy points each); the 80-yard TD moved him past Peyton Manning to third all-time in TD passes. [pod 10-13, deployment]
+- 2026-10-18: Aaron Rodgers: 33 of 49 for 253, 2 TD, 1 INT, sacked 5 times in the first three quarters @TB; he came in averaging 36.8 attempts and threw for 4.1 air yards per attempt in Week 5. PIT trailed 13-3 at half and 16-3 after three, then outscored TB 23-3. [pod 10-19, deployment]
 
 ## Backfield
 
@@ -96,6 +97,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Germie Bernard ran 32 routes on Aaron Rodgers' 34 dropbacks and out-targeted DK Metcalf 9 to 4 vs IND. [pod 10-14, deployment]
 - 2026-10-16: DK Metcalf (illness) questionable Week 6 @TB after missing Friday; Rico Dowdle (toe) questionable after full Thursday and Friday; Roman Wilson and Ben Skowronek out. [NFL.com, CBS]
 - 2026-10-19: Germie Bernard: 12 targets, 11 for 87 and the OT winning TD in Week 6 @TB; DK Metcalf 15 targets, 11 for 93 (team box score, eDraft targets).
+- 2026-10-18: DK Metcalf: 15 targets, 11 for 93 @TB, with only 2 catches for 11 in the first half. [pod 10-19, deployment]
 
 ## Tight ends
 
@@ -152,3 +154,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: Aaron Rodgers: 3 TD passes in three straight games through Week 5; 19% rostered (NFL.com waiver column).
 - 2026-10-15: Rico Dowdle upgraded to full Thursday (toe). Roman Wilson and Ben Skowronek DNP. [NFL.com Thursday roundup, team reports]
 - 2026-10-18: DK Metcalf (illness), Pat Freiermuth (calf) and Rico Dowdle (toe, first game back after three missed) active @TB in Week 6; Ben Skowronek inactive (NBC Sports, Yahoo Sports).
+- 2026-10-17: Roman Wilson (finger) placed on IR, out at least four games. [pod 10-19, official]

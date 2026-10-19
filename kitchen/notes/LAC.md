@@ -17,6 +17,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: McDaniel said nearly the same thing about a four-starter backfield in Miami two years ago and Achane was still a top-five back; his comments are widely viewed as coach-speak. [8-14 changed minds about players]
 - 2026-08-18: Mike McDaniel now runs the Chargers' offense with Justin Herbert at quarterback; the 2025 offense was hampered by offensive line and coordinator problems. [8-18 WR targets and avoids]
 - 2026-08-26: Mike McDaniel now runs the Chargers offense; he has said the backfield will ride the hot hand, though Hampton is the clear lead over Keaton Mitchell and Kimani Vidal. [8-26 myguys episode]
+- 2026-10-18: Mike McDaniel: still OC after the 22-6 loss @KC (0-6); Jim Harbaugh said "we're going to look at everything... (the offense) needs to be addressed"; a national report described growing buzz that McDaniel will be fired soon, with passing-game specialist Adam Gase expected to take over. [pod 10-19, beat]
 
 ## Scheme and tendencies
 
@@ -204,3 +205,5 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Week 4 at SEA: Seattle 30, LAC 23, the Chargers' fourth straight loss. [pod 10-5, deployment]
 - 2026-10-09: Ladd McConkey questionable (foot), DNP all week; Quentin Johnston out (chest); Rashawn Slater to IR Friday, Joe Alt out (neck) (chargers.com Friday report).
 - 2026-10-18: Week 6 @KC: Ladd McConkey ruled out with a concussion in the first half after 1 catch for 17 yards; Tre Harris already out (hamstring) (nfl.com, CBS tracker).
+- 2026-10-18: Chargers: 6 points (two Cameron Dicker FGs), 259 total yards, 2 turnovers, no red-zone trips in the 22-6 loss @KC; 0-6. [pod 10-19, deployment]
+- 2026-10-19: Chargers: bye Week 7, then @LAR Nov 1, vs HOU Nov 8, @BAL Monday Nov 16. [pod 10-19, official]

@@ -21,6 +21,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Ty Simpson: The Rams want Stetson Bennett as the backup and a full redshirt year for rookie Ty Simpson. [8-12 130 training camp storylines and league updates]
 - 2026-08-14: Matthew Stafford: Led all QBs with seven top-five weekly finishes in 2025; his 7.7% TD rate was a career high by 0.9 points and the sixth-highest rate among 289 qualifying QB seasons in the last 10 years. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-16: Ty Simpson: Rookie Ty Simpson executed a simplified, rollout-heavy preseason game plan with good protection. [8-16 preseason week 1 recap]
+- 2026-10-18: Matthew Stafford: 25 of 33 for 222 (194 net), 2 TD, sacked twice plus on the two-point try, vs ARI without LT Alaric Jackson. [pod 10-19, official]
 
 ## Backfield
 
@@ -50,6 +51,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @PHI: Kyren Williams 70 snaps to Blake Corum's 13, 16 for 80 and 2 TD, 10 of 13 targets for 67 (RotoWire, NBC). Puka Nacua 9 for 125 in his first game since Week 1.
 - 2026-10-06: Kyren Williams: 21 catches on 25 targets in four games (11 of 12 through Week 3, 10 of 13 in Week 4) (season totals from weekly reports).
 - 2026-10-19: Kyren Williams: season-low 13 touches (10 for 50, 3 for 17) in Week 6 vs ARI; Blake Corum 9 for 42 and a 15-yard TD catch, his second straight game with a TD (team box score, Rotowire).
+- 2026-10-18: Kyren Williams: 72% of snaps to Blake Corum's 28% vs ARI; 10 of the 19 RB carries (10 for 50) plus 3 of 6 targets for 17, a season-low 13 touches; Corum 9 for 42 and a receiving TD, second straight game with a score. [pod 10-19, official]
 
 ## Receivers
 
@@ -103,11 +105,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Tyler Higbee: 47 routes and 11 targets @DEN (8 for 62 and a TD); Konata Mumpfield 46 routes and 8 targets; Davante Adams 57 routes and 13 targets. [pod 9-29, deployment]
 - 2026-10-04: Tyler Higbee caught 5 for 67 @PHI and again led the LAR tight ends in snaps with Terrance Ferguson and Colby Parkinson hurt (NBC Sports, DraftSharks). [pod 10-6, deployment]
 - 2026-10-12: Tyler Higbee 5 for 83 on 6 targets; Terrance Ferguson on IR since 10/2 (ankle). [pod 10-14, deployment]
+- 2026-10-18: Colby Parkinson: 5 for 31 and the 6-yd TD with 0:47 left vs ARI on about 62% of snaps; Tyler Higbee led the TEs at 83% of snaps and lost a fumble deep in ARI territory at 7:47 of Q4; Davis Allen 31%. [pod 10-19, official]
 
 ## Offensive line
 
 - 2026-08-20: All five Rams linemen graded top-10 at their positions in 2025; RG Kevin Dotson is the best; interior run blocking is elite while the tackles are the weak spot. [8-20 Offensive Line Rankings]
 - 2026-08-20: Alaric Jackson: LT Alaric Jackson has off-field and injury issues; the Rams lack depth and Matthew Stafford does not hold up well when the line breaks down. [8-20 Offensive Line Rankings]
+- 2026-10-18: Alaric Jackson: served a one-game suspension in Week 6 (two games reduced to one on appeal) for punching Bradley Chubb after the Week 5 MNF loss; David Quessenberry started at LT; ARI had 2 sacks. [pod 10-19, official]
 
 ## Transactions and contracts
 
@@ -134,6 +138,11 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Puka Nacua has no game designation and is set to play, though Sean McVay said his snaps may be limited; Terrance Ferguson (ankle) is out; Colby Parkinson is questionable, not out; Aaron Donald (back) is out. [pod 10-2, official]
 - 2026-10-04: Puka Nacua has what a sideline report called a "pre-hernia" that could worsen into one needing surgery; he said he felt fine after catching 9 for 125 @PHI. This updates the 9-28 "not hernia-related" line (NBC Sports, Yahoo). [pod 10-6, beat]
 - 2026-10-19: K Blake Grupe hurt his knee on a Q1 kickoff tackle in Week 6 vs ARI and was ruled out; on crutches postgame (Yahoo Sports).
+- 2026-10-18: Davante Adams: non-contact LEFT knee injury on a late Q4 route vs ARI, limped off and did not return; no diagnosis or MRI result reported as of Monday 10-19 (McVay update expected Monday). [pod 10-19, official]
+
+## Depth chart
+
+- 2026-10-18: Konata Mumpfield: 27 snaps as WR3 vs ARI with Tutu Atwell a healthy scratch; Nacua 52 snaps, Adams 43, Jordan Whittington 8; Nacua 6 for 80. [pod 10-19, official]
 
 ## Other
 
@@ -145,3 +154,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: DEN 30, LAR 26; the Rams led 16-0 at half. [pod 9-28, official]
 - 2026-10-13: Week 5 vs BUF (34-37 OT loss): Stafford 40 of 54 for 383 and 3 TDs; Puka Nacua 17 of 24 targets for 138 and a TD; Tyler Higbee 5 of 6 for 83; Davante Adams 5 of 7 for 51 and 2 TDs; Kyren Williams 16 carries for 49 and a TD, 6 of 8 targets; Blake Corum 5 carries for 19 and a TD, 3 of 4 for 53 (CBS box score).
 - 2026-10-18: Week 6 @ARI: K Blake Grupe, signed this week to replace Harrison Mevis, hurt his knee in the first quarter, doubtful to return (nfl.com).
+- 2026-10-18: Rams: lost 18-16 to ARI at SoFi on Chad Ryland's 43-yd FG at the gun; Rams 2 of 4 in the red zone, both TDs passing (Parkinson 6-yd with 0:47 left, failed two-point try). [pod 10-19, official]

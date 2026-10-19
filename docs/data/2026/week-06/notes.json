@@ -6,20 +6,144 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-19T16:15:00Z",
+  "updatedAt": "2026-10-19T20:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
       {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Jalen Hurts",
+        "team": "PHI",
+        "pos": "QB",
+        "action": "DROP",
+        "text": "Jalen Hurts (PHI): testing found a deep vein thrombosis and clots in both lungs, he is on blood thinners with no contact allowed, and he is expected to miss the rest of the season. That is the trigger from Saturday's hold. Tanner McKee went 26 of 45 for 215 vs CAR. Drop Hurts in redraft."
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Josh Jacobs",
+        "team": "GB",
+        "pos": "RB",
+        "action": "HOLD",
+        "text": "Josh Jacobs (GB) came off the Commissioner's Exempt List Monday, is eligible for Week 7 @DET and is expected to start. The NFL's review of his case is still open. He is RB37 rest of season for me. Hold him; the call changes if the league suspends him when the review closes.",
+        "why": "The call changes if the league suspends him when its review closes."
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Cam Skattebo",
+        "team": "NYG",
+        "pos": "RB",
+        "action": "HOLD",
+        "text": "Cam Skattebo (NYG) played 6 snaps with no touches vs NO, a week after his fourth lost fumble, and John Harbaugh said someone needs to step up and be the back. Tyrone Tracy Jr. scored twice on 8 touches. Hold Skattebo until Wednesday's practice report and the Week 7 depth chart at HOU say who leads.",
+        "why": "Wednesday's practice report and the Week 7 depth chart decide it; a second game under 15 snaps @HOU makes him a sell."
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Tony Pollard",
+        "team": "TEN",
+        "pos": "RB",
+        "action": "HOLD",
+        "text": "Tony Pollard (TEN) ran a season-high 19 times for 76 @IND, and Tyjae Spears had 1 carry and 1 catch. Pollard is RB30 rest of season for me. Hold him; Spears out-snapping him again would reopen the sell.",
+        "why": "Spears out-snapping him again would reopen the sell."
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Tyjae Spears",
+        "team": "TEN",
+        "pos": "RB",
+        "action": "DROP",
+        "text": "Tyjae Spears (TEN) had 1 carry and 1 catch @IND after his 9-catch game vs HOU, while Tony Pollard ran 19 times. Spears is RB55 rest of season for me. Drop him for any add."
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Brian Thomas Jr.",
+        "team": "JAX",
+        "pos": "WR",
+        "action": "TRADE_AWAY",
+        "text": "Brian Thomas Jr. (JAX) was benched for the second half vs HOU after 15 snaps, with 0 catches on 2 targets, his second straight catchless game. Jacksonville is on bye in Week 7. He is WR42 rest of season for me. Trade him away; ask for a bench receiver.",
+        "price": "a bench receiver"
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Davante Adams",
+        "team": "LAR",
+        "pos": "WR",
+        "action": "MONITOR",
+        "text": "Davante Adams (LAR) hurt his left knee without contact late vs ARI and did not return; there is no diagnosis yet. Puka Nacua played 52 snaps and Konata Mumpfield 27 as the No. 3. Adams is WR25 rest of season for me. Monitor; the MRI result this week, before you set any trade price.",
+        "watch": "the MRI result this week"
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Michael Wilson",
+        "team": "ARI",
+        "pos": "WR",
+        "action": "HOLD",
+        "text": "Michael Wilson (ARI) drew 7 targets @LAR, third behind Trey McBride's 9 and Kendrick Bourne's 8, and has caught 4 in both games without Marvin Harrison Jr. He is WR40 rest of season for me. Hold him; a week as Arizona's target leader again would make him a buy.",
+        "why": "A week as Arizona's target leader again would make him a buy."
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Keenan Allen",
+        "team": "IND",
+        "pos": "WR",
+        "action": "CLAIM",
+        "text": "Keenan Allen (IND) led the Colts with 11 targets vs TEN and caught 8 for 82, after 9 in each of Weeks 4 and 5, with Tyler Warren out with the groin. Josh Downs had 4 for 40 on 8. Claim Allen, 4 to 8 percent of FAAB.",
+        "faab": "4-8%"
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Tommy Tremble",
+        "team": "CAR",
+        "pos": "TE",
+        "action": "ADD",
+        "text": "Tommy Tremble (CAR) caught all 4 targets for 46 and 2 TDs @PHI on 68 percent of the snaps, and ran more routes than Darren Waller for the first time. Waller had 0 catches on 2 targets. Add Tremble in deep and TE-premium leagues, 0 to 2 percent of FAAB.",
+        "faab": "0-2%"
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Omar Cooper Jr.",
+        "team": "NYJ",
+        "pos": "WR",
+        "action": "CLAIM",
+        "text": "Omar Cooper Jr. (NYJ) played 82 percent of the snaps @NE in his first game off IR and caught 6 for 103 and a 48-yard TD, with Adonai Mitchell inactive. Claim him, 4 to 8 percent of FAAB.",
+        "faab": "4-8%"
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "J.J. McCarthy",
+        "team": "NYG",
+        "pos": "QB",
+        "action": "MONITOR",
+        "text": "J.J. McCarthy (NYG) replaced Jameis Winston early in the fourth quarter vs NO and went 11 of 21 for 243 and a TD. John Harbaugh has not named a Week 7 starter at HOU. Monitor; Harbaugh's starter call at Wednesday's press conference.",
+        "watch": "Harbaugh's Week 7 starter call at Wednesday's press conference"
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Roschon Johnson",
+        "team": "CHI",
+        "pos": "RB",
+        "action": "ADD",
+        "text": "Roschon Johnson (CHI) ran 13 times for 51 and a TD @ATL to D'Andre Swift's 16, and closed the game. Kyle Monangai (turf toe) is expected to miss a third game Thursday vs NE. Add Johnson, 0 to 2 percent of FAAB.",
+        "faab": "0-2%"
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "action": "MONITOR",
+        "text": "Lamar Jackson (BAL) missed a second straight game with the ankle, and Jesse Minter said Monday he is day to day and could practice Wednesday before CIN. Tyler Huntley went 19 of 31 for 165 @CLE. Jackson is QB2 rest of season for me. Monitor; Wednesday's practice report.",
+        "watch": "Wednesday's practice report"
+      },
+      {
         "at": "2026-10-18T22:20:00Z",
-        "text": "Romeo Doubs (NE) left the win over NYJ in the first half with a shoulder injury and was ruled out, in A.J. Brown's first game back. Doubs is WR46 rest of season for me. Monitor; Wednesday's practice report.",
+        "text": "Romeo Doubs (NE) landed on his right shoulder on a 42-yard TD vs NYJ and was ruled out; New England has given no diagnosis and Mike Vrabel would not commit to him for Thursday @CHI. Doubs is WR46 rest of season for me. Monitor; Tuesday's injury report.",
         "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-6-games-2026",
         "player": "Romeo Doubs",
         "pos": "WR",
         "action": "MONITOR",
-        "watch": "Wednesday's practice report"
+        "watch": "Tuesday's injury report before Thursday @CHI"
       },
       {
         "at": "2026-10-18T22:20:00Z",
@@ -41,7 +165,7 @@
       },
       {
         "at": "2026-10-18T22:20:00Z",
-        "text": "Blake Grupe (LAR), signed this week to replace Harrison Mevis, hurt his knee in the first quarter @ARI and was doubtful to return. Monitor; the Rams' kicker moves this week.",
+        "text": "Blake Grupe (LAR), signed this week to replace Harrison Mevis, hurt his knee on a first-quarter kickoff tackle @ARI, was ruled out and left on crutches. Monitor; the Rams' kicker signings this week.",
         "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-6-games-2026",
         "player": "Blake Grupe",
         "pos": "K",
@@ -105,16 +229,6 @@
       },
       {
         "at": "2026-10-17T22:20:00Z",
-        "player": "Jalen Hurts",
-        "team": "PHI",
-        "pos": "QB",
-        "action": "HOLD",
-        "why": "The call changes if he needs blood thinners, which would push the return past six weeks.",
-        "url": "https://www.fox29.com/sports/jalen-hurts-injured-reserve-philadelphia-eagles-blood-clot",
-        "text": "Jalen Hurts (PHI) goes on IR with the blood clot after all, out at least four weeks, so the earliest he plays is Nov 22 vs PIT after the bye. Tanner McKee starts until then. Hurts is QB9 rest of season for me. Hold him in an IR spot; the call changes if he needs blood thinners, which would push the return past six weeks."
-      },
-      {
-        "at": "2026-10-17T22:20:00Z",
         "player": "Mike Evans",
         "team": "SF",
         "pos": "WR",
@@ -142,16 +256,6 @@
         "slot": "WR2",
         "url": "https://www.commanders.com/news/commanders-vs-49ers-week-6-injury-report-2026",
         "text": "Terry McLaurin (WAS) has no injury designation for Monday night after a limited Saturday with the hamstring, while Stefon Diggs is questionable with his own hamstring. WR21 for me @SF, a WR2."
-      },
-      {
-        "at": "2026-10-17T22:20:00Z",
-        "player": "Josh Jacobs",
-        "team": "GB",
-        "pos": "RB",
-        "action": "HOLD",
-        "why": "The call changes if the NFL suspends him once its conduct investigation closes.",
-        "url": "https://www.acmepackingcompany.com/green-bay-packers-news/88223/nfl-to-reinstate-josh-jacobs-to-packers-active-roster-on-monday-per-report",
-        "text": "Josh Jacobs (GB) comes off the Commissioner's Exempt List Monday and is eligible for Week 7 against Detroit, and he is expected to step back in as the starter. The NFL's conduct investigation is still open. He is RB37 rest of season for me. Hold him; the call changes if the NFL suspends him once the investigation closes."
       },
       {
         "at": "2026-10-17T22:20:00Z",
@@ -453,112 +557,6 @@
         "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
         "text": "Dylan Sampson (CLE) was upgraded to limited Thursday off IR while Quinshon Judkins (RB33 for me) missed practice again with the ankle. Stash Sampson, 1 to 3 percent of FAAB.",
         "at": "2026-10-15T22:15:00Z"
-      },
-      {
-        "at": "2026-10-15T16:20:00Z",
-        "text": "DJ Moore (BUF) did not practice Wednesday with the AC joint sprain in his shoulder, after sitting Week 5 @LAR off one limited session. Keon Coleman caught 1 of 2 targets for a 7-yard TD without him. Moore needs a practice before he is in the lineup range @LV. Monitor; Friday's injury report.",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news",
-        "player": "DJ Moore",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "team": "BUF"
-      },
-      {
-        "at": "2026-10-15T16:10:00Z",
-        "player": "Baker Mayfield",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "text": "Baker Mayfield (TB) missed the open part of Thursday's practice too with the dislocated right thumb, per reporters at the facility, so Jalon Daniels is in line for a third straight start vs PIT. Daniels is QB27 for me, outside my top 12, and Mayfield is QB24 rest of season. Monitor; Friday's injury report.",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/baker-mayfield-out-of-thursday-practice-jalon-daniels-again-in-line-to-start"
-      },
-      {
-        "at": "2026-10-14T23:25:00Z",
-        "player": "Jaxon Smith-Njigba",
-        "pos": "WR",
-        "team": "SEA",
-        "action": "START",
-        "slot": "WR1",
-        "text": "Jaxon Smith-Njigba (SEA) practiced in full Wednesday with the ankle and has no game designation for Thursday @DEN, on Seattle's official report. He is WR2 for me with a 37.9 percent target share through Week 3.",
-        "url": "https://www.seahawks.com/news/week-6-injury-report-seahawks-at-broncos"
-      },
-      {
-        "at": "2026-10-14T23:25:00Z",
-        "player": "Woody Marks",
-        "pos": "RB",
-        "team": "HOU",
-        "action": "START",
-        "slot": "RB2",
-        "text": "David Montgomery (HOU) did not practice Wednesday with the groin he hurt at TEN, and DeMeco Ryans calls him week to week. Woody Marks played 56 of 65 snaps after Montgomery left and is RB20 for me @JAX in London, an RB2.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-14"
-      },
-      {
-        "at": "2026-10-14T23:25:00Z",
-        "player": "Saquon Barkley",
-        "pos": "RB",
-        "team": "PHI",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "text": "Saquon Barkley (PHI) did not practice Wednesday with the hamstring that kept him out in London, per the Eagles' report and ESPN's Tim McManus. Dameon Pierce had 11 carries for 14 as the last healthy back in Week 5. Monitor; Friday's injury report decides Barkley vs CAR.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-14"
-      },
-      {
-        "at": "2026-10-14T23:25:00Z",
-        "player": "DeVonta Smith",
-        "pos": "WR",
-        "team": "PHI",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "text": "DeVonta Smith (PHI) did individual work but was a non-participant Wednesday with the hamstring, per ESPN's Tim McManus and the Eagles' report. He missed Week 5 in London. Monitor; Friday's injury report decides Smith vs CAR.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-14"
-      },
-      {
-        "player": "CeeDee Lamb",
-        "action": "START",
-        "slot": "WR1",
-        "url": "https://nbcsports.com/fantasy/football/player-news/2026-10-14/ceedee-lamb-quad-practicing-in-full-for-week-6",
-        "text": "CeeDee Lamb (DAL) practiced in full Wednesday, three days after the quad bruise vs TB. He is WR3 for me @GB Sunday night.",
-        "at": "2026-10-14T22:10:00Z"
-      },
-      {
-        "player": "Chris Olave",
-        "action": "MONITOR",
-        "watch": "Thursday's practice report",
-        "url": "https://www.neworleanssaints.com/news/injury-report-new-york-giants-vs-new-orleans-saints-2026-nfl-week-6-wednesday",
-        "text": "Chris Olave (NO) did not practice Wednesday with an illness, on the Saints' official report. He stays WR6 for me @NYG for now. Monitor; Thursday's practice report.",
-        "at": "2026-10-14T22:10:00Z"
-      },
-      {
-        "player": "Alvin Kamara",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "url": "https://www.neworleanssaints.com/news/injury-report-new-york-giants-vs-new-orleans-saints-2026-nfl-week-6-wednesday",
-        "text": "Alvin Kamara (NO) was limited Wednesday with the back that held him to 12 snaps vs MIN, and Kendre Miller (RB32 for me) took 10 carries in that game. Kamara is RB26 for me @NYG, a high-end RB3. Monitor; Friday's injury report.",
-        "at": "2026-10-14T22:10:00Z"
-      },
-      {
-        "player": "Tyler Shough",
-        "action": "STREAM",
-        "url": "https://www.neworleanssaints.com/news/injury-report-new-york-giants-vs-new-orleans-saints-2026-nfl-week-6-wednesday",
-        "text": "Tyler Shough (NO) was a full participant Wednesday with the left hand. He is QB13 for me @NYG, a borderline start this week; stream him.",
-        "at": "2026-10-14T22:10:00Z"
-      },
-      {
-        "player": "Braelon Allen",
-        "action": "START",
-        "slot": "RB2",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-live-week-6-152344178.html",
-        "text": "Breece Hall (NYJ) is still week to week with the quad and likely out @NE. Braelon Allen played all but two snaps with Hall out in Week 4. Allen is RB19 for me this week, an RB2.",
-        "at": "2026-10-14T22:10:00Z"
-      },
-      {
-        "player": "Ashton Jeanty",
-        "action": "START",
-        "slot": "RB2",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-live-week-6-152344178.html",
-        "text": "Klint Kubiak said Wednesday that Ashton Jeanty (LV) is playing vs BUF through the foot. His touches have fallen four straight weeks, from 29 to 13. Jeanty is RB13 for me, borderline RB1/RB2 this week.",
-        "at": "2026-10-14T22:10:00Z"
       }
     ]
   },

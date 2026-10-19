@@ -22,6 +22,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Drake Maye: Through three games: 51 of 80 (63.8%) for 585 yards, 7.3 an attempt, 1 touchdown, 6 interceptions, 9 sacks, a 58.6 rating, 15 rushes for 82. His 2025 line was 72.0%, 8.9, 113.5, 31 touchdowns and 8 interceptions. He played 48 of 60 snaps at JAX before Tommy DeVito took the last 12. [pod 9-29, deployment]
 - 2026-10-11: Drake Maye: 26 of 34 for 374 and 4 TDs, 7 carries for 25 and a TD vs LV (patriots.com box).
 - 2026-10-11: Drake Maye 26 of 34 for 374 and 4 TDs plus 7-25-1 rushing vs LV, the week's top QB; after 21.6 fantasy points in Weeks 1 to 3 combined. [pod 10-13, deployment]
+- 2026-10-18: Drake Maye: 18 of 32 for 235 and 3 TD (Doubs, Douglas, Hunter Henry), no turnovers vs NYJ; 3, 4 and 3 TD passes in Weeks 4-6, 10 TD on 103 attempts (9.7%). [pod 10-19, deployment]
 
 ## Backfield
 
@@ -100,6 +101,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: A.J. Brown practiced Wednesday, opening his 21-day IR window; Mack Hollins on IR (calf) through at least Week 8. [pod 10-14, beat]
 - 2026-10-16: A.J. Brown (ankle) questionable Week 6 vs NYJ, limited all week in his IR window; TreVeyon Henderson (ankle) questionable after three limited practices. [NFL.com, CBS]
 - 2026-10-19: A.J. Brown in his first game off IR, Week 6 vs NYJ: 10 targets, 3 for 27, several drops; Romeo Doubs 42-yard TD then a shoulder injury, out, Vrabel doubtful for Thursday @CHI; DeMario Douglas 7 of 8 for 86 and a TD (CBS box score, NBC Sports Boston).
+- 2026-10-18: A.J. Brown, in his first game off IR: 10 targets (31% of Maye's 32 attempts), 3 catches for 27, 3 drops (a career high, after never more than 2 in a game, including a deep ball); the onside kick bounced off his hands and helmet before NE recovered. [pod 10-19, deployment]
+- 2026-10-18: DeMario Douglas: 7 of 8 targets for 86 and a TD vs NYJ, after 4-65-2 on 5 targets vs LV in Week 5. [pod 10-19, deployment]
 
 ## Tight ends
 
@@ -113,11 +116,13 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Hunter Henry played 44 snaps (70%). [pod 9-28, deployment]
 - 2026-09-27: Hunter Henry: 2 targets, 1 catch for 5 at JAX on 41-44 snaps (68-70%); Eli Raridon was inactive with a thigh injury. Henry had 3 for 40 in Week 2. [pod 9-30, deployment]
 - 2026-09-30: Eli Raridon: Limited Wednesday with the thigh injury that kept him inactive in Week 3. [pod 9-30, official]
+- 2026-10-18: Hunter Henry: 4 catches on 5 targets for 48 and a 7-yard Q4 TD (23-16 lead) vs NYJ; TDs in Weeks 5 and 6 after none in Weeks 1-4; under 50 yards in five of six games. [pod 10-19, deployment]
 
 ## Offensive line
 
 - 2026-08-20: New England's line jumped to 11th in 2025 but Will Campbell struggled in the playoffs; G Alijah Vera-Tucker was added but has played only 29 games in four years. [8-20 Offensive Line Rankings]
 - 2026-09-27: New England Patriots: Maye was pressured on 43.5 percent of dropbacks entering Week 3, fourth-highest among starting quarterbacks, and has taken 9 sacks in three games. [pod 9-30, deployment]
+- 2026-10-18: Three OL starters left Week 6 vs NYJ: LG Alijah Vera-Tucker (hamstring, Q2, did not return), RT Morgan Moses (ankle, Q2, ruled out at start of Q4, Caleb Lomu replaced him), OL Ben Brown (knee, Q4, after moving from RG to LG). Vrabel on 10-19 would not commit to any of them for Thursday @CHI. [pod 10-19, official]
 
 ## Depth chart
 
@@ -155,6 +160,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-17: A.J. Brown (ankle) likely to be activated off IR to play vs NYJ, per Ian Rapoport; not official as of noon Saturday (deadline 4:00 PM ET). Christian Gonzalez returns. [NBC Sports, Sportsnaut]
 - 2026-10-17: A.J. Brown activated from IR to the 53-man roster after three limited practices with the high ankle sprain; questionable vs NYJ, first game since Week 1; S Elliott Davison elevated, RB Hassan Haskins released from the practice squad (patriots.com, 98.5 The Sports Hub).
 - 2026-10-18: A.J. Brown (ankle) and TreVeyon Henderson (ankle) active vs NYJ in Week 6, Brown's first game since Week 1; Will Campbell and Christian Gonzalez active (patriots.com).
+- 2026-10-18: Romeo Doubs: 42-yard TD with 4:10 left in Q1, landed on his right shoulder on the catch and was ruled out early in Q3; no team diagnosis has been given. Vrabel was noncommittal for Thursday @CHI. Season: 14 catches, 261 yards, 3 TD. [pod 10-19, official]
 
 ## Other
 

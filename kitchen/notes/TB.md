@@ -114,6 +114,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Emeka Egbuka: 20 targets in three games (6, 5, 9) for 13 catches, 141 yards and 1 TD. [pod 9-30, deployment]
 - 2026-09-27: Chris Godwin: Had an 85-yard touchdown called back by penalty vs MIN; finished with 3 catches for 25 on 62% of the snaps. [pod 9-30, deployment]
 - 2026-09-27: Emeka Egbuka: weekly lines 5-63, 3-16-1, 5-62; each under 10 points in half-PPR, each over 10 in full PPR. [pod 10-1, deployment]
+- 2026-10-18: Emeka Egbuka: 16 targets, a season high and 37% of Jalon Daniels' 43 attempts, 7 for 48 and a 2-yard TD vs PIT, after 9 of 25 targets (36%) in Week 5; 49 targets, 28-240-2 on the season. [pod 10-19, deployment]
 
 ## Tight ends
 
@@ -173,6 +174,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: Baker Mayfield DNP Thursday (right thumb). [NFL.com Thursday roundup, team reports]
 - 2026-10-16: Baker Mayfield (right thumb) will not play Week 6 vs PIT; Jalon Daniels starts a third straight game (Yahoo Sports live updates, Bucs reporting).
 - 2026-10-18: Sean Tucker (quad) and Baker Mayfield (thumb) inactive vs PIT in Week 6; Bucky Irving and Kenny Gainwell the backs, practice-squad RB Josh Williams elevated (Yahoo Sports, Football Nation USA).
+- 2026-10-19: Baker Mayfield (right thumb): Todd Bowles said he is supposed to practice Wednesday; no Week 7 decision vs CAR, and Dave Canales said Carolina expects Mayfield but is preparing for Jalon Daniels. [pod 10-19, coach]
 
 ## Other
 

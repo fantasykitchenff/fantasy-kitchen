@@ -118,6 +118,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-06: KC Concepcion Jr.: 5 of 8 for 64 vs PIT, team-high targets, career highs; average depth of target 1.8 yards, mostly from the slot (NBC Sports, The Undroppables).
 - 2026-10-11: Denzel Boston drew 7 targets (22 percent share) and ran a route on 91 percent of dropbacks vs PIT (Rotowire). [pod 10-13, deployment]
 - 2026-10-14: KC Concepcion returned to practice after the concussion protocol. [pod 10-14, beat]
+- 2026-10-18: vs BAL: Jerry Jeudy 4 of 4 for 69, including the late game-winning-drive catches; KC Concepcion 4 of 6 for 37 and 2 carries for 2; Denzel Boston 1 of 5 for 15; Harold Fannin Jr. 1 of 3 for 9, after 1 of 4 for 4 on 92.6% of snaps in Week 5. Deshaun Watson 16 of 26 for 164, 8 carries for 29. [pod 10-19, deployment]
 
 ## Tight ends
 

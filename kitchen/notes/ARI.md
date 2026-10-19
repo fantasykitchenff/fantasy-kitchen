@@ -53,6 +53,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Jacoby Brissett: 21 of 35 for 166, 2 TD and 3 INT in the 36-24 loss at NYG, the last a 98-yard pick-six on the final play; first two picks were tipped at the line. Mike LaFleur said no when asked about a benching; Brissett starts Week 5 vs DET. [pod 10-5, coach]
 - 2026-10-11: Jacoby Brissett 29 of 47 for 292, 3 TD, 1 INT vs DET. [pod 10-13, deployment]
 - 2026-10-11: Jacoby Brissett: 29 of 47 for 292, 3 TDs, 1 INT in the 45-21 loss at DET. [pod 10-14, deployment]
+- 2026-10-18: Jacoby Brissett: 24 of 35 for 218, 0 TD, 1 INT in the 18-16 win @LAR; Carson Beck inactive as the emergency third QB. [pod 10-19, official]
 
 ## Backfield
 
@@ -133,6 +134,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-06: Michael Wilson: 44 targets in four games (7, 7, 17, 13), 30 in Weeks 3 and 4; Marvin Harrison Jr. 9 targets in Weeks 1 to 3 (season totals from weekly reports).
 - 2026-10-11: Wk5 vs DET (21-45): Kendrick Bourne 5 of 8 for 70 (team-high yards); Michael Wilson 4 of 7 for 30; Jalen Brooks 2 of 7 for 16; Reggie Virgil 2 of 5 for 29. Wilson has 51 targets in five games (10.2 a game), tied with CeeDee Lamb. [pod 10-13, deployment]
 - 2026-10-11: Michael Wilson: 4 catches on 7 targets for 30, 14.6% of the team's 48 targets; Jalen Brooks 7 targets, 2 for 16, in the first game without Marvin Harrison Jr. [pod 10-14, deployment]
+- 2026-10-18: Trey McBride 7 of 9 for 53 (team lead), Kendrick Bourne 5 of 8 for 47, Michael Wilson 4 of 7 for 32 @LAR; Wilson has 7 targets and 4 catches (4-30, 4-32) in both games without Marvin Harrison Jr., 58 targets through six games. [pod 10-19, official]
 
 ## Tight ends
 

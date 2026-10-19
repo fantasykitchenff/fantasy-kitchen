@@ -32,6 +32,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Trevor Lawrence: Set career highs in 2025 with 29 passing TDs and 9 rushing TDs and finished QB6 in points per game; the Jaguars went 13-4 and played with the lead at the third-highest rate, leaning on the run. [8-24 QB Rankings]
 - 2026-08-24: Trevor Lawrence: Enters year two of Liam Coen's offense; the team has been experimenting with the tush push in camp, and he posted the highest TD rate of his career and lowest INT rate since 2022 last year. [8-24 QB Rankings]
 - 2026-09-27: Trevor Lawrence: 19 of 29 for 182, 3 TD, 1 INT and 4 rushes for 25 vs NE; with about eight minutes left he took a knee at the 1 rather than score, and Tuten ran it in from the 1 on the next play. Lawrence called the kneel unnecessary. [pod 9-30, deployment]
+- 2026-10-18: Trevor Lawrence: 24 of 41 for 306, 4 TD (Hunter, Nate Boerkircher, 2 to Bhayshul Tuten), 1 INT in the end zone intended for Jakobi Meyers. [pod 10-19, deployment]
 
 ## Backfield
 
@@ -87,6 +88,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Bhayshul Tuten: career-high 22 carries for 72 vs PHI in London, 87.5% of early-down snaps, up from 71% in Week 4 (PFF recap, CBS box).
 - 2026-10-11: Bhayshul Tuten had 22 of Jacksonville's 24 RB carries (91.7 percent) vs PHI in London on 66 to 68 percent of the snaps (charting sources differ) and 45 to 48 percent of the routes, 3 targets; LeQuint Allen Jr. played 19 percent of the snaps and ran 25 percent of the routes on passing downs (Rotowire, DraftSharks). [pod 10-13, deployment]
 - 2026-10-19: Week 6 vs HOU: Bhayshul Tuten 12 for 39, 4 for 48 and 2 receiving TDs; Chris Rodriguez Jr. 11 for 55 (CBS box score).
+- 2026-10-18: Bhayshul Tuten: 12 for 39 and 4 for 48 with 2 receiving TDs, plus a 3-yard rushing TD wiped out by a Brenton Strange hold; Chris Rodriguez Jr. 11 for 55. Tuten played 19 of 24 second-half snaps, Rodriguez 2. [pod 10-19, deployment]
 
 ## Receivers
 
@@ -146,6 +148,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Parker Washington: 9 targets, a team high, 6 for 124 and 2 TDs vs PHI; Brian Thomas Jr. 3 targets, 0 catches (CBS box).
 - 2026-10-11: Brian Thomas Jr. 0 of 3 vs PHI after 1-8 (Wk3) and 2-17-1 (Wk4). [pod 10-13, deployment]
 - 2026-10-19: Week 6 vs HOU: Parker Washington 11 targets, 4 for 64; Jakobi Meyers 10 targets, 5 for 83 (CBS box score).
+- 2026-10-18: Travis Hunter: 4 of 4 for 59 and his first NFL TD (7 yards) on 9 offensive snaps (5 first half, 4 second), plus 62 defensive snaps and an end-zone INT; first player since 2002 with a TD catch and an INT in one game. [pod 10-19, deployment]
 
 ## Tight ends
 
@@ -164,6 +167,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Depth chart
 
 - 2026-08-18: Jacksonville's targets are spread among Jakobi Meyers, Brian Thomas Jr., Parker Washington, Brenton Strange, Travis Hunter (expected on offense for 30-50% of snaps), LeQuint Allen and Bhayshul Tuten. [8-18 WR rankings]
+- 2026-10-18: Brian Thomas Jr.: benched for the second half vs HOU after 15 first-half snaps; 0 catches on 2 targets, both of which hit his hands (second straight catchless game); Liam Coen: "Guys have to step up and make plays." Josh Cameron and Travis Hunter took the snaps. [pod 10-19, deployment]
 
 ## Rookies
 

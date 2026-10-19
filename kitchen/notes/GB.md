@@ -30,6 +30,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Jordan Love: 124 attempts in three games, 844 yards, 6 TD, 2 INT, 52.4 percent completions; 28 of 53 for 312, 2 TD, 1 INT in the 35-14 Week 3 loss to ATL (reports).
 - 2026-09-24: Jordan Love: hit 20 times in three games (his most in a full season is 49); league-low 2.4 seconds average time to throw through Week 3. [pod 9-30, deployment]
 - 2026-10-11: Jordan Love 25 of 31 for 367 and 2 TDs in the 31-7 win over CHI. [pod 10-14, deployment]
+- 2026-10-18: Jordan Love: 23 of 41 for 276, 1 TD and a 1-yd sneak TD in the 23-13 win over DAL; 6 of 8 for 109 on the opening 90-yd drive. [pod 10-19, official]
 
 ## Backfield
 
@@ -116,6 +117,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Christian Watson 6 of 8 for 143 and 2 TDs (42 and 53 yards), a TD in four of five games. Matthew Golden 6-123; 24 catches for 397 and 2 TDs through five games. Love 25 of 31 for 367 and 2 TDs. [pod 10-13, deployment]
 - 2026-10-16: Skyy Moore (ankle) out Week 6 vs DAL; Savion Williams (ankle) questionable. [NFL.com]
 - 2026-10-19: Matthew Golden: 86% snaps, 13 targets, 6 for 104 and a TD with two drops in Week 6 vs DAL; Christian Watson 90% snaps, 3 of 8 for 64 (team box score, Acme Packing Company).
+- 2026-10-18: Matthew Golden: 6 for 104 and a 9-yd TD on 13 targets vs DAL, with drops on a potential 43-yd TD and a potential 23-yd score. [pod 10-19, official]
 
 ## Tight ends
 
@@ -165,6 +167,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Christian Watson: Watson signed a four-year extension entering his fifth season. [8-26 myguys episode]
 - 2026-08-26: Josh Jacobs: The Packers GM said the team is preparing for a possible Jacobs suspension while the NFL investigation continues, saying they could sustain it and might claim a running back if it happens, possibly midseason. [8-26 myguys episode]
 - 2026-09-30: Kevin Zeitler signed a one-year deal; he started 16 games at guard for TEN in 2025 (team move).
+- 2026-10-19: Josh Jacobs: removed from the Commissioner's Exempt List effective Monday Oct 19 after six games (placed Aug 30), eligible Week 7 @DET and expected to start; the NFL's review of his case stays open. [pod 10-19, official]
 
 ## Injuries and status
 
@@ -196,6 +199,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: Chris Brooks: DNP Wednesday and Thursday (ankle); MarShawn Lloyd and Kaleb Johnson next if he sits (Bears-Packers Thursday report).
 - 2026-10-12: Micah Parsons is not expected to play Week 6 vs DAL. [pod 10-13, beat]
 - 2026-10-17: Josh Jacobs comes off the Commissioner's Exempt List Monday Oct 19 and is eligible for Week 7 against Detroit; expected to step back in as the starter (Pelissero); the NFL's conduct investigation is still open (Acme Packing Company, Yahoo, Athlon).
+- 2026-10-18: Tucker Kraft: hit low on the right knee (the knee with the 2025 ACL tear) by Caleb Downs with about 1:45 left in Q2 vs DAL, walked to the tent, returned; finished 5 of 8 for 37. [pod 10-19, official]
+- 2026-10-19: Micah Parsons: still on reserve/PUP (ACL and meniscus) with no 21-day window opened, not expected for Week 7 @DET, 'a few weeks away.' [pod 10-19, beat]
 
 ## Other
 
