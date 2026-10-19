@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 6,
-  "updatedAt": "2026-10-19T11:33:10Z",
+  "updatedAt": "2026-10-19T16:09:32Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 6,
+      "path": "2026/week-06/notes.json",
+      "title": "Kitchen notes, Week 6",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-13T15:00:00Z",
+      "updatedAt": "2026-10-19T16:15:00Z"
+    },
     {
       "series": "leftovers",
       "week": 6,
@@ -11,15 +20,6 @@
       "dek": "Kendre Miller took the Saints' backfield while Alvin Kamara's back acted up, and Cam Skattebo played six snaps for the Giants.",
       "publishedAt": "2026-10-19T11:30:00Z",
       "updatedAt": "2026-10-19T11:30:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 6,
-      "path": "2026/week-06/notes.json",
-      "title": "Kitchen notes, Week 6",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-13T15:00:00Z",
-      "updatedAt": "2026-10-18T22:20:00Z"
     },
     {
       "series": "menu",
