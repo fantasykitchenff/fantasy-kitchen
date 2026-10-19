@@ -6,9 +6,9 @@
   "dek": "Kenneth Walker III comes off the bye as RB1, Woody Marks jumps to RB20, and Christian Watson is WR4 after 143 yards and 2 TDs.",
   "format": "PPR",
   "publishedAt": "2026-10-13T14:48:00Z",
-  "updatedAt": "2026-10-18T16:20:00Z",
+  "updatedAt": "2026-10-19T23:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Sun 12:20 PM ET: Tyler Warren (groin) and Quinshon Judkins (ankle) are inactive and come off the Menu, so Juwan Johnson moves up to TE8. Caleb Williams, Chris Olave, Alvin Kamara and DK Metcalf are all active and stay QB8, WR6, RB29 and WR26.\n\nUpdated Sat 6:20 PM ET: Jacory Croskey-Merritt is ruled out for Monday night, so Rachaad White takes the Washington backfield at RB25, a high-end RB3. Mike Evans is questionable after working on the side Saturday and slides to WR18, a WR2. Terry McLaurin has no injury designation and stays WR21, and Caleb Williams is expected to start and stays QB8.\n\nUpdated Sat 12:20 PM ET: Mike Evans missed Friday's practice too with the ribs and Achilles soreness; he stays WR12 for me only if he practices Saturday before Monday night.\n\nUpdated Fri 7:20 PM ET: Ashton Jeanty and Brock Bowers have no injury designation vs BUF and stay RB13 and TE1 for me. DJ Moore is questionable @LV after a limited Friday, so Keon Coleman stays WR39.\n\nUpdated Fri 5:40 PM ET with the injury report: Lamar Jackson, Jeremiyah Love and Rashee Rice are out and come off the Menu. Tyler Allgeier takes the Arizona backfield at RB23, an RB2, and Xavier Worthy moves up to WR30, a high-end WR3. Saquon Barkley and Will Shipley are both out, so Dameon Pierce climbs to RB20, an RB2. Tyler Warren (groin) slips to TE8, Alvin Kamara to RB29 and Quinshon Judkins to RB35, all questionable after limited practices, and DK Metcalf (illness) drops to WR26 after missing Friday. Caleb Williams and Chris Olave are questionable and stay QB8 and WR6.\n\nWeek 6 has four teams on bye: Cincinnati, Detroit, Miami and Minnesota are off, so none of their players are on the Menu. Seattle opens @DEN Thursday, Houston and Jacksonville play at 9:30 AM ET in London, Arizona @LAR kicks at 4:05, the Chargers @KC and Buffalo @LV at 4:25, Dallas @GB Sunday night and Washington @SF Monday night. Rankings are for full PPR.\n\nJosh Allen sits alone at QB1 after running for 121 at the Rams, and Kenneth Walker III comes off the bye as RB1 ahead of Bijan Robinson. Puka Nacua (17 of 24 targets vs BUF) and Jaxon Smith-Njigba lead the receivers, and Brock Bowers is TE1. Woody Marks moves into the RB2 range at RB20 with David Montgomery week to week.\n\nDeebo Samuel Sr., A.J. Brown, Roman Wilson, David Montgomery and Tre' Harris are off the Menu. Lamar Jackson, Caleb Williams, Saquon Barkley, Quinshon Judkins, Michael Penix Jr. and CeeDee Lamb all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
+  "intro_md": "Updated Mon 7:20 PM ET: Mike Evans is active vs WAS after missing two practices with the ribs and Achilles, so he stays WR18 for me, a WR2. Stefon Diggs is active for Washington, and Terry McLaurin stays WR21.\n\nUpdated Sun 12:20 PM ET: Tyler Warren (groin) and Quinshon Judkins (ankle) are inactive and come off the Menu, so Juwan Johnson moves up to TE8. Caleb Williams, Chris Olave, Alvin Kamara and DK Metcalf are all active and stay QB8, WR6, RB29 and WR26.\n\nUpdated Sat 6:20 PM ET: Jacory Croskey-Merritt is ruled out for Monday night, so Rachaad White takes the Washington backfield at RB25, a high-end RB3. Mike Evans is questionable after working on the side Saturday and slides to WR18, a WR2. Terry McLaurin has no injury designation and stays WR21, and Caleb Williams is expected to start and stays QB8.\n\nUpdated Sat 12:20 PM ET: Mike Evans missed Friday's practice too with the ribs and Achilles soreness; he stays WR12 for me only if he practices Saturday before Monday night.\n\nUpdated Fri 7:20 PM ET: Ashton Jeanty and Brock Bowers have no injury designation vs BUF and stay RB13 and TE1 for me. DJ Moore is questionable @LV after a limited Friday, so Keon Coleman stays WR39.\n\nWeek 6 has four teams on bye: Cincinnati, Detroit, Miami and Minnesota are off, so none of their players are on the Menu. Seattle opens @DEN Thursday, Houston and Jacksonville play at 9:30 AM ET in London, Arizona @LAR kicks at 4:05, the Chargers @KC and Buffalo @LV at 4:25, Dallas @GB Sunday night and Washington @SF Monday night. Rankings are for full PPR.\n\nJosh Allen sits alone at QB1 after running for 121 at the Rams, and Kenneth Walker III comes off the bye as RB1 ahead of Bijan Robinson. Puka Nacua (17 of 24 targets vs BUF) and Jaxon Smith-Njigba lead the receivers, and Brock Bowers is TE1. Woody Marks moves into the RB2 range at RB20 with David Montgomery week to week.\n\nDeebo Samuel Sr., A.J. Brown, Roman Wilson, David Montgomery and Tre' Harris are off the Menu. Lamar Jackson, Caleb Williams, Saquon Barkley, Quinshon Judkins, Michael Penix Jr. and CeeDee Lamb all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
   "outro_md": "Prep Notes updates the Menu Friday after the final injury report.",
   "data": {
     "positions": {
@@ -940,11 +940,10 @@
           "team": "SF",
           "pos": "WR",
           "opp": "vs WAS",
-          "note": "Questionable with the ribs and Achilles after missing Thursday and Friday and working on the side Saturday; Deebo Samuel is out. San Francisco's inactives drop at 6:45 PM ET Monday.",
-          "flag": "Q",
+          "note": "Active vs WAS Monday night after missing Thursday and Friday practice with the ribs and Achilles; Deebo Samuel is inactive with the hamstring.",
+          "flag": "",
           "action": "START",
-          "slot": "WR2",
-          "watch": "Saturday's injury report"
+          "slot": "WR2"
         },
         {
           "rank": 19,
@@ -1958,11 +1957,10 @@
           "team": "SF",
           "pos": "WR",
           "opp": "vs WAS",
-          "note": "Questionable with the ribs and Achilles after missing Thursday and Friday and working on the side Saturday; Deebo Samuel is out. San Francisco's inactives drop at 6:45 PM ET Monday.",
-          "flag": "Q",
+          "note": "Active vs WAS Monday night after missing Thursday and Friday practice with the ribs and Achilles; Deebo Samuel is inactive with the hamstring.",
+          "flag": "",
           "action": "START",
-          "slot": "FLEX",
-          "watch": "Saturday's injury report"
+          "slot": "FLEX"
         },
         {
           "rank": 37,

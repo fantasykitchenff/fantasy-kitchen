@@ -6,12 +6,32 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-13T15:00:00Z",
-  "updatedAt": "2026-10-19T22:20:00Z",
+  "updatedAt": "2026-10-19T23:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-19T23:20:00Z",
+        "text": "Mike Evans (SF) is active vs WAS Monday night after missing Thursday and Friday practice with the ribs and Achilles, with Deebo Samuel inactive. Evans is WR18 for me tonight, a WR2, and WR26 rest of season.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-49ers-wr-mike-evans-commanders-wr-stefon-diggs-are-active",
+        "player": "Mike Evans",
+        "action": "START",
+        "slot": "WR2",
+        "team": "SF",
+        "pos": "WR"
+      },
+      {
+        "at": "2026-10-19T23:20:00Z",
+        "text": "Stefon Diggs (WAS) is active @SF through the hamstring he was questionable with. He is WR30 rest of season for me, and Terry McLaurin is WR21 for me tonight, a WR2. Hold Diggs; the call changes if the hamstring costs him routes tonight.",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-49ers-wr-mike-evans-commanders-wr-stefon-diggs-are-active",
+        "player": "Stefon Diggs",
+        "action": "HOLD",
+        "why": "He is active through the hamstring he was questionable with; the call changes if it costs him routes tonight.",
+        "team": "WAS",
+        "pos": "WR"
+      },
       {
         "at": "2026-10-19T22:20:00Z",
         "player": "Matthew Stafford",
@@ -532,25 +552,6 @@
         "watch": "Friday's injury report",
         "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/lamar-jackson-remains-out-of-practice-on-thursday-for-week-6",
         "text": "Lamar Jackson (BAL) missed practice again Thursday with the ankle, and Tyler Huntley starts @CLE if he sits. Jackson is QB15 for me this week, a streamer. Monitor; Friday's injury report.",
-        "at": "2026-10-15T22:15:00Z"
-      },
-      {
-        "player": "Caleb Williams",
-        "team": "CHI",
-        "pos": "QB",
-        "action": "START",
-        "slot": "QB1",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
-        "text": "Caleb Williams (CHI) practiced in full Thursday off the hamstring, after a full estimate Wednesday. He is QB8 for me @ATL.",
-        "at": "2026-10-15T22:15:00Z"
-      },
-      {
-        "player": "Michael Penix Jr.",
-        "team": "ATL",
-        "pos": "QB",
-        "action": "SIT",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
-        "text": "Michael Penix Jr. (ATL) practiced in full Thursday with the ribs and starts vs CHI. He is QB21 for me, outside my top 12; Drake London stays WR5.",
         "at": "2026-10-15T22:15:00Z"
       }
     ]

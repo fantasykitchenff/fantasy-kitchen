@@ -1,8 +1,26 @@
 {
   "season": 2026,
   "currentWeek": 6,
-  "updatedAt": "2026-10-19T22:11:49Z",
+  "updatedAt": "2026-10-19T23:15:16Z",
   "pieces": [
+    {
+      "series": "menu",
+      "week": 6,
+      "path": "2026/week-06/menu.json",
+      "title": "The Menu, Week 6",
+      "dek": "Kenneth Walker III comes off the bye as RB1, Woody Marks jumps to RB20, and Christian Watson is WR4 after 143 yards and 2 TDs.",
+      "publishedAt": "2026-10-13T14:48:00Z",
+      "updatedAt": "2026-10-19T23:20:00Z"
+    },
+    {
+      "series": "notes",
+      "week": 6,
+      "path": "2026/week-06/notes.json",
+      "title": "Kitchen notes, Week 6",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-13T15:00:00Z",
+      "updatedAt": "2026-10-19T23:20:00Z"
+    },
     {
       "series": "butcher",
       "week": 6,
@@ -31,15 +49,6 @@
       "updatedAt": "2026-10-19T22:20:00Z"
     },
     {
-      "series": "notes",
-      "week": 6,
-      "path": "2026/week-06/notes.json",
-      "title": "Kitchen notes, Week 6",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-13T15:00:00Z",
-      "updatedAt": "2026-10-19T22:20:00Z"
-    },
-    {
       "series": "market",
       "week": 6,
       "path": "2026/week-06/market.json",
@@ -47,15 +56,6 @@
       "dek": "Woody Marks has Houston's backfield while David Montgomery is week to week, and he is the first claim of the week.",
       "publishedAt": "2026-10-13T15:00:00Z",
       "updatedAt": "2026-10-19T20:30:00Z"
-    },
-    {
-      "series": "menu",
-      "week": 6,
-      "path": "2026/week-06/menu.json",
-      "title": "The Menu, Week 6",
-      "dek": "Kenneth Walker III comes off the bye as RB1, Woody Marks jumps to RB20, and Christian Watson is WR4 after 143 yards and 2 TDs.",
-      "publishedAt": "2026-10-13T14:48:00Z",
-      "updatedAt": "2026-10-18T16:20:00Z"
     },
     {
       "series": "prep",
