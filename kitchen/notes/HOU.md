@@ -65,6 +65,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Woody Marks 56 snaps (85%), Dare Ogunbowale 1, David Montgomery 9 before the groin injury; DeMeco Ryans said Marks will carry the load. [pod 10-14, deployment]
 - 2026-10-16: David Montgomery (groin) and Tank Dell (knee) out Week 6 @JAX in London; neither traveled. [NFL.com, CBS]
 - 2026-10-19: Week 6 @JAX (34-31 W, London): Woody Marks 15 for 56 and 2 for 25; Jawhar Jordan 6 for 43 and a TD; David Montgomery did not travel and may miss Week 7 (CBS box score, Fox 26).
+- 2026-10-18: Woody Marks played 78 percent of the snaps @JAX with David Montgomery inactive. [pod 10-19, deployment]
 
 ## Receivers
 

@@ -128,6 +128,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: DeVonta Smith: 8 targets (32%), 6 for 65 on 97% of the routes @CHI, a 33% target share on the season. Dontayvion Wicks: 5 targets, 2 for 32, 81% routes. Makai Lemon: 4 targets, 3 for 29, 84% routes on 68% of the snaps, an 11% share on the season. [pod 9-29, deployment]
 - 2026-10-05: Week 4 vs LAR snaps: Dontayvion Wicks 56 (92%), Darius Cooper 55 (90%), Makai Lemon 45 (74%); Cooper 3 for 33 and 2 TD on a team-high 7 targets; TE Johnny Mundt 49 snaps (80%) (Yahoo snap counts, CBS).
 - 2026-10-19: DeVonta Smith: 14 targets, 7 for 75 and a TD with Tanner McKee starting in Week 6 vs CAR (CBS box score).
+- 2026-10-18: Makai Lemon: 3 catches for 19 on 6 targets vs CAR in Tanner McKee's first start. [pod 10-19, deployment]
 
 ## Tight ends
 

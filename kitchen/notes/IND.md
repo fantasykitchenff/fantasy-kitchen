@@ -6,6 +6,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-28: The Colts' offensive line and Shane Steichen's scheme are strengths; Jones is expected to be more of a strict pocket passer, and the team still wants to ride Jonathan Taylor. [7-28 Training Camp Rankings Update]
 - 2026-08-20: Shane Steichen's scheme lifts the line; the Colts are viewed as a top-seven offense without the quarterback, so competent QB play from Daniel Jones is the swing factor. [8-20 Offensive Line Rankings]
+- 2026-10-19: The Colts fired GM Chris Ballard; Shane Steichen remains head coach and no coordinator change was reported. [pod 10-19, official]
 
 ## Scheme and tendencies
 

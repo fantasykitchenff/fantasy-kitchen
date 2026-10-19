@@ -89,6 +89,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Bhayshul Tuten had 22 of Jacksonville's 24 RB carries (91.7 percent) vs PHI in London on 66 to 68 percent of the snaps (charting sources differ) and 45 to 48 percent of the routes, 3 targets; LeQuint Allen Jr. played 19 percent of the snaps and ran 25 percent of the routes on passing downs (Rotowire, DraftSharks). [pod 10-13, deployment]
 - 2026-10-19: Week 6 vs HOU: Bhayshul Tuten 12 for 39, 4 for 48 and 2 receiving TDs; Chris Rodriguez Jr. 11 for 55 (CBS box score).
 - 2026-10-18: Bhayshul Tuten: 12 for 39 and 4 for 48 with 2 receiving TDs, plus a 3-yard rushing TD wiped out by a Brenton Strange hold; Chris Rodriguez Jr. 11 for 55. Tuten played 19 of 24 second-half snaps, Rodriguez 2. [pod 10-19, deployment]
+- 2026-10-18: Bhayshul Tuten had 44 percent of Jacksonville's rushes vs HOU (12 of 27) after 22 of 24 back carries in Week 5; Chris Rodriguez Jr. ran 11 times for 55. [pod 10-19, deployment]
 
 ## Receivers
 
@@ -149,6 +150,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Brian Thomas Jr. 0 of 3 vs PHI after 1-8 (Wk3) and 2-17-1 (Wk4). [pod 10-13, deployment]
 - 2026-10-19: Week 6 vs HOU: Parker Washington 11 targets, 4 for 64; Jakobi Meyers 10 targets, 5 for 83 (CBS box score).
 - 2026-10-18: Travis Hunter: 4 of 4 for 59 and his first NFL TD (7 yards) on 9 offensive snaps (5 first half, 4 second), plus 62 defensive snaps and an end-zone INT; first player since 2002 with a TD catch and an INT in one game. [pod 10-19, deployment]
+- 2026-10-19: Brian Thomas Jr.: Liam Coen called his status week to week after the second-half benching vs HOU (0 catches on 2 targets, both off his hands). [pod 10-19, beat]
 
 ## Tight ends
 
@@ -194,6 +196,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: LeQuint Allen: Limited in practice all week before Week 3 with a hip injury; played 18% of the snaps. [pod 9-30, official]
 - 2026-09-30: Jakobi Meyers (thumb) and LeQuint Allen Jr. (hip) limited Wednesday; Brian Thomas Jr. and Bhayshul Tuten not listed (team report).
 - 2026-10-02: Jakobi Meyers (thumb) limited Wednesday and Thursday, off the final Week 4 injury report, no designation @CIN (reports).
+- 2026-10-18: Jakobi Meyers jammed his right hand vs HOU; Jacksonville is on bye in Week 7. [pod 10-19, beat]
 
 ## Other
 

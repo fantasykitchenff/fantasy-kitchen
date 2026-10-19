@@ -47,6 +47,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: J.J. McCarthy, acquired from MIN, could play in the near future (Connor Hughes, SNY). [pod 10-14, beat]
 - 2026-10-19: Jameis Winston benched after his second INT in Week 6 vs NO (14 of 26, 152, 1 TD, 2 INT); J.J. McCarthy 11 of 21 for 243, 1 TD, 1 INT in the last 11 minutes; no starter named for Week 7 (team box score, AP).
 - 2026-10-18: J.J. McCarthy: replaced Jameis Winston early in the 4th quarter trailing 34-10 vs NO; 11 of 21 for 243, 1 TD, 1 INT, 2 runs for 26; his 271 total yards are the second-most by a QB in a 4th quarter since at least 1991, and 243 ties Eli Manning's 2012 mark for a Giants QB; John Harbaugh did not name a Week 7 starter at HOU and said he has no problem with Winston. [pod 10-19, coach]
+- 2026-10-19: J.J. McCarthy: his 243 fourth-quarter passing yards vs NO were the third-most by any QB since 2020, not a record; he entered with 11:31 left, down 34-10. Corrects the 'second-most since 1991' line above. [pod 10-19, deployment]
 
 ## Backfield
 

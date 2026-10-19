@@ -18,6 +18,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Mike McDaniel now runs the Chargers' offense with Justin Herbert at quarterback; the 2025 offense was hampered by offensive line and coordinator problems. [8-18 WR targets and avoids]
 - 2026-08-26: Mike McDaniel now runs the Chargers offense; he has said the backfield will ride the hot hand, though Hampton is the clear lead over Keaton Mitchell and Kimani Vidal. [8-26 myguys episode]
 - 2026-10-18: Mike McDaniel: still OC after the 22-6 loss @KC (0-6); Jim Harbaugh said "we're going to look at everything... (the offense) needs to be addressed"; a national report described growing buzz that McDaniel will be fired soon, with passing-game specialist Adam Gase expected to take over. [pod 10-19, beat]
+- 2026-10-19: National reporting names pass game specialist Adam Gase as a possible interim play-caller if Mike McDaniel is replaced; no decision yet, LAC on bye in Week 7. [pod 10-19, coach]
 
 ## Scheme and tendencies
 
@@ -36,6 +37,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-21: Justin Herbert: Chargers are among the AFC title favorites; the run game, defense and Hampton are seen as the drivers, with Herbert a good QB in a good offense. [8-21 mayhem mock draft]
 - 2026-09-27: Justin Herbert: 52 of 88 (59.1%) for 627 yards, 3 TD and 4 INT through three games, sacked 8 times (3, 3, 2); attempts 27, 27, 34. [pod 9-30, deployment]
 - 2026-10-11: Justin Herbert 14 of 24 for 121, 1 TD, 1 INT, sacked 5 times, 6 runs for 54 and a lost fumble. He has not reached 15 fantasy points in any of five games. LAC is 0-5. [pod 10-13, deployment]
+- 2026-10-18: Justin Herbert: 22 of 37 for 204, 1 INT, sacked 4 times @KC and led LAC with 26 rushing yards; 5 TD and a league-high 8 INT on the season. [pod 10-19, deployment]
 
 ## Backfield
 

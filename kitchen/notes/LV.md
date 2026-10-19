@@ -92,6 +92,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Ashton Jeanty 10 carries for 27 @NE with Dylan Laube on third downs; the head coach says Jeanty is playing and Cousins starts Week 6. [pod 10-14, deployment]
 - 2026-10-19: Ashton Jeanty: 10 for 22 and his first rushing TD, 4 for 36 in Week 6 vs BUF; 15 more snaps than Mike Washington Jr. (9 for 43) and out-touched him 14 to 10 (CBS box score, NBC Sports).
 - 2026-10-18: Ashton Jeanty: 58% of snaps (53% Week 5, 76% Weeks 1 to 4), 10 for 22 and a TD vs BUF; Mike Washington Jr. 9 for 43 and half the early-down snaps. Jeanty's rushing by game: 102, 48, 56, 58, 27, 22; 3 TDs total. [pod 10-19, deployment]
+- 2026-10-18: Ashton Jeanty played 57 percent of the snaps vs BUF and Mike Washington Jr. about 33 percent (a second count; the first had Jeanty at 58). [pod 10-19, deployment]
 
 ## Receivers
 

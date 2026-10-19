@@ -32,6 +32,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Geno Smith: 31 of 37, 321 yards, 3 TDs (Garrett Wilson, Sadiq, Jeremy Ruckert) in the 31-24 Week 3 loss at DET; sacked 5 times, lost a fumble on the final drive (box score).
 - 2026-09-27: Geno Smith: 75.5% completions and no interceptions through three games (team site). [pod 9-29, deployment]
 - 2026-09-29: Geno Smith leads the NFL with a 75.5% completion rate through Week 3. [pod 10-2, aggregation]
+- 2026-10-18: Geno Smith: 20 of 30 for 252, 1 TD, 1 INT @NE; Garrett Wilson 4 catches for 44 on 6 targets. [pod 10-19, deployment]
 
 ## Backfield
 
@@ -163,6 +164,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Breece Hall (quad) did not practice, week to week; Adonai Mitchell is not back (finger procedure); Omar Cooper Jr.'s practice window opened. [pod 10-14, official]
 - 2026-10-14: Breece Hall still week to week and likely out Week 6 @NE; Braelon Allen played all but two snaps with Hall out in Week 4 (Yahoo Sports live updates).
 - 2026-10-15: Breece Hall: DNP Thursday (quad). Kenyon Sadiq limited (concussion). [NFL.com Thursday roundup, team reports]
+- 2026-10-15: Adonai Mitchell had surgery on a finger on his right hand, missed a fourth straight game and is week to week; no Week 7 return has been reported. [pod 10-19, beat]
 
 ## Other
 

@@ -14,6 +14,24 @@
     "items": [
       {
         "at": "2026-10-19T20:30:00Z",
+        "player": "Bhayshul Tuten",
+        "team": "JAX",
+        "pos": "RB",
+        "action": "HOLD",
+        "text": "Bhayshul Tuten (JAX) had 12 of Jacksonville's 27 rushes vs HOU, 44 percent, a week after 22 of 24 back carries, and Chris Rodriguez Jr. ran 11 times for 55. His two receiving TDs hid the carry drop. He is RB18 rest of season for me. Hold him through the Week 7 bye; this is no longer a buy.",
+        "why": "The Week 8 carry split decides it: back over 60 percent of the rushes makes him a buy again, another near-even split makes him a sell."
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
+        "player": "TreVeyon Henderson",
+        "team": "NE",
+        "pos": "RB",
+        "action": "MONITOR",
+        "text": "TreVeyon Henderson (NE) played through the ankle vs NYJ, with 7 carries for 31 on 16 snaps and a lost fumble, so the multi-week absence did not happen. Rhamondre Stevenson still led the backs. Henderson is RB26 rest of season for me. Monitor his snap share @CHI Thursday night.",
+        "watch": "his snap share @CHI Thursday night"
+      },
+      {
+        "at": "2026-10-19T20:30:00Z",
         "player": "Jalen Hurts",
         "team": "PHI",
         "pos": "QB",
@@ -537,25 +555,6 @@
         "watch": "Saturday's injury report",
         "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
         "text": "Stefon Diggs (WAS) did not practice Thursday with the hamstring, per Dan Quinn, ahead of Monday night @SF. Monitor; Saturday's injury report.",
-        "at": "2026-10-15T22:15:00Z"
-      },
-      {
-        "player": "Tyjae Spears",
-        "team": "TEN",
-        "pos": "RB",
-        "action": "SIT",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
-        "text": "Tyjae Spears (TEN) was downgraded to no practice Thursday with the knee. He is RB40 for me @IND, a low-end flex play to a dart throw, and Tony Pollard is RB21, an RB2.",
-        "at": "2026-10-15T22:15:00Z"
-      },
-      {
-        "player": "Dylan Sampson",
-        "team": "CLE",
-        "pos": "RB",
-        "action": "STASH",
-        "faab": "1-3%",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-15",
-        "text": "Dylan Sampson (CLE) was upgraded to limited Thursday off IR while Quinshon Judkins (RB33 for me) missed practice again with the ankle. Stash Sampson, 1 to 3 percent of FAAB.",
         "at": "2026-10-15T22:15:00Z"
       }
     ]
