@@ -33,6 +33,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs GB: rookie Jalon Daniels' first start, 19 of 27 for 148, 1 TD, 2 INT, 8 carries for 56 (BucsNation, AP).
 - 2026-10-12: Baker Mayfield (thumb) is pushing to play but it is too early to know (James Palmer); Todd Bowles expects Jalon Daniels to start. [pod 10-14, beat]
 - 2026-10-16: Baker Mayfield (right thumb) out Week 6 vs PIT after DNP all week; Jalon Daniels starts. WR David Sills V out; RB Sean Tucker (quad) questionable. [NFL.com, CBS]
+- 2026-10-19: Jalon Daniels: 22 of 43 for 164, 1 TD, 2 INT, sacked 5 times in Week 6 vs PIT (26-19 OT loss) (team box score).
 
 ## Backfield
 
@@ -64,6 +65,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Sean Tucker scored on a short touchdown run in Week 4 vs GB while Bucky Irving had no catches (game reports). [pod 10-8, deployment]
 - 2026-10-08: Bucky Irving: 54% snaps at DAL, 21 carries for 165 and a TD plus a receiving TD; got the first two goal-line snaps after Sean Tucker was stuffed on fourth-and-1; Gainwell 36% snaps, Tucker 7 snaps (Pewter Report snap counts, CBS box).
 - 2026-10-08: Bucky Irving 21 carries for 165 and a TD plus 2 catches for 10 and a TD @DAL; both TDs came inside the 5. Emeka Egbuka 6 of 9 for 38 plus a 14-yard jet-sweep TD. [pod 10-14, deployment]
+- 2026-10-19: Bucky Irving: 19 carries for 46 in Week 6 vs PIT, Kenny Gainwell 2 carries, Sean Tucker out (quad) (team box score, NBC Sports).
 
 ## Receivers
 

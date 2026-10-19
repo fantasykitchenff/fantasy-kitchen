@@ -49,6 +49,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Caleb Williams was inactive in Week 5 and was not the emergency QB; he is on track to return when practice resumes Wednesday, but the Thursday Week 7 game gives Chicago a reason to wait a week (Chicago Sun-Times). [pod 10-13, beat]
 - 2026-10-14: Caleb Williams (hamstring) was a full participant on Wednesday's estimated report; Ben Johnson called his status still fluid. Tyson Bagent started Week 5 and Case Keenum relieved him. [pod 10-14, official]
 - 2026-10-16: Caleb Williams (hamstring) questionable Week 6 @ATL after three full practices; he said he did not know yet if he would play and still needs a stress test. Kyle Monangai out. [CBS, Yahoo Sports, NFL.com]
+- 2026-10-19: Caleb Williams back from the hamstring in Week 6 @ATL: 30 of 36 for 305, 1 TD, 0 INT, first 12 passes complete (CBS box score, NFL.com).
 
 ## Backfield
 
@@ -77,6 +78,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs NYJ: Kyle Monangai 30 carries for 146 and 2 TD after D'Andre Swift (15 for 58) lost a fumble at the CHI 28 in the third quarter and sat the rest; CHI ran 49 times for 232; Monangai left in the fourth with a thumb injury, checked Monday (CBS, Sun-Times).
 - 2026-10-04: Kyle Monangai (324) and D'Andre Swift (311) are the first Bears teammates with 300 or more rushing yards each through four games (team PR). [pod 10-5, deployment]
 - 2026-10-11: D'Andre Swift: 40 of the first 56 snaps @GB with Monangai inactive, 9 carries for 43 and a TD, 4 catches for 30; Roschon Johnson took the last 13 snaps (PFF recap, CBS box).
+- 2026-10-19: Week 6 @ATL: D'Andre Swift 16 for 44 and 2 TDs; Roschon Johnson 13 for 51 and a TD, lost a late fumble (CBS box score).
 
 ## Receivers
 
@@ -120,6 +122,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Kalif Raymond: 214 receiving yards through three games, 71 a game. [pod 9-29, deployment]
 - 2026-09-28: Kalif Raymond: 21 targets through three games (9, 5, 7), 19 catches, 214 yards and 1 touchdown; he leads the Bears in receiving yards. [pod 9-30, deployment]
 - 2026-10-11: Wk5 at GB (7-31): Bagent 12 of 21 for 87 and 2 INT before Keenum relieved him; Rome Odunze 3 of 9 for 40; Luther Burden III 4 of 6 for 47; Kalif Raymond 3 of 4 for 6. [pod 10-13, deployment]
+- 2026-10-19: Luther Burden III: 8 of 8 for 95 in Week 6 @ATL (CBS box score).
 
 ## Tight ends
 
@@ -145,6 +148,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Colston Loveland: 9 targets, 5 catches and 34 yards through three games (0, 3 and 31 yards by week). [pod 9-30, deployment]
 - 2026-10-04: Colston Loveland led Chicago with 9 targets in Week 4 vs NYJ with Tyson Bagent at quarterback, after 9 targets in Weeks 1 to 3 combined (NBC Sports). [pod 10-8, deployment]
 - 2026-10-11: Colston Loveland 2 of 5 for 19 at GB (6 of 9 for 57 in Week 4). He had no catches in Week 1, when Chicago scored 59 with Williams. [pod 10-13, deployment]
+- 2026-10-19: Colston Loveland: 6 of 7 for 65 and a TD in Week 6 @ATL (CBS box score).
 
 ## Offensive line
 

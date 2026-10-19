@@ -63,6 +63,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Chuba Hubbard is ninth among running backs in fantasy points after three weeks (reports).
 - 2026-09-27: Chuba Hubbard: 19 carries for 82 yards and 4 catches on 4 targets for 28 on 65 of 77 snaps (84%) with 31 routes; AJ Dillon had 4 carries and 12 snaps. Snap shares by week: 71%, 65%, 84%. [pod 9-29, deployment]
 - 2026-10-16: AJ Dillon (ankle) out Week 6 @PHI; Trevor Etienne (ankle) questionable; RT Monroe Freeling (knee) doubtful. [panthers.com, NFL.com]
+- 2026-10-19: Chuba Hubbard: 28 carries for 120 and a TD in Week 6 @PHI, including a 19-yard run on 4th-and-1; no other CAR back had more than 1 carry (CBS box score).
 
 ## Receivers
 
@@ -97,6 +98,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Tetairoa McMillan: 47 routes (92%) and 73 snaps (95%) at CLE for 5 targets (12%) and 2 catches for 17. [pod 9-29, deployment]
 - 2026-10-05: Week 4 vs DET: Tetairoa McMillan 14 catches on 16 targets for 192 and 2 TD with Coker inactive and Legette on IR (NBC, AP). Chuba Hubbard 20 for 122 and 2 TD.
 - 2026-10-12: Dave Canales said Jalen Coker is on track to play vs PHI; CBs Jaycee Horn (quad) and Mike Jackson (groin) are on IR. [pod 10-14, coach]
+- 2026-10-19: Jalen Coker: 13 targets, 6 for 97 in Week 6 @PHI; Tetairoa McMillan 9 targets, 6 for 86 (CBS box score).
 
 ## Tight ends
 

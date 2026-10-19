@@ -63,6 +63,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: David Montgomery averaged about 31 scrimmage yards a game in Weeks 2 to 5 before the groin injury (week to week). [pod 10-13, deployment]
 - 2026-10-11: Woody Marks 56 snaps (85%), Dare Ogunbowale 1, David Montgomery 9 before the groin injury; DeMeco Ryans said Marks will carry the load. [pod 10-14, deployment]
 - 2026-10-16: David Montgomery (groin) and Tank Dell (knee) out Week 6 @JAX in London; neither traveled. [NFL.com, CBS]
+- 2026-10-19: Week 6 @JAX (34-31 W, London): Woody Marks 15 for 56 and 2 for 25; Jawhar Jordan 6 for 43 and a TD; David Montgomery did not travel and may miss Week 7 (CBS box score, Fox 26).
 
 ## Receivers
 
@@ -95,6 +96,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Nico Collins: With Higgins out and low-target-rate players around him, Collins is positioned for a huge target and air-yard share, though the Texans are expected to be a defense- and run-oriented team. [8-26 rankings and news updates]
 - 2026-10-04: Nico Collins: 7 for 118 and 2 TD on 69 percent of the snaps vs DAL in his return from the hamstring strain that cost Weeks 2 and 3. [pod 10-5, deployment]
 - 2026-10-11: Jaylin Noel 3 of 3 for 85 (Wk4) and 5 of 5 for 41 and a TD (Wk5). Nico Collins 7-118-2 (Wk4) and 5-56 on 7 targets (Wk5). [pod 10-13, deployment]
+- 2026-10-19: Marvin Harrison Jr. Houston debut, Week 6 @JAX: 12 snaps, 9 routes, 3 for 34 on 4 targets; Jaylin Noel 4 for 107 and a TD (CBS box score; snaps single source).
 
 ## Tight ends
 

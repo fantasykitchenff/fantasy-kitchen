@@ -95,6 +95,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jeremiyah Love 12 carries for 22 vs DET; his carries went 21, 14, 12 over Weeks 3 to 5 (down two straight weeks). Tyler Allgeier 3-7 and 2-9. [pod 10-13, deployment]
 - 2026-10-11: Jeremiyah Love: 12 carries for 22, 1 target, no catch vs DET. [pod 10-14, deployment]
 - 2026-10-16: Jeremiyah Love (ankle) ruled out Week 6 @LAR after DNP all week, confirmed by Mike LaFleur; Tyler Allgeier leads the backfield. [NFL.com, Yahoo Sports]
+- 2026-10-19: With Jeremiyah Love out in Week 6 @LAR: Tyler Allgeier 40 snaps (56%), 18 carries for 38; Bam Knight 32 snaps (44%), 15 for 80, 2 for 18, most of the red-zone touches; ARI 0 for 5 in the red zone, Chad Ryland 6 of 6 FGs in the 18-16 win (team box score, ESPN).
 
 ## Receivers
 

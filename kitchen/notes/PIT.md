@@ -64,6 +64,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Rico Dowdle: expected back from the toe; the coach calls the backfield with Jaylen Warren a one-two punch after Warren played 69 of 71 snaps at CLE. [pod 10-7, coach]
 - 2026-10-11: Jaylen Warren: 15 carries for 101 and a TD, 6 catches for 87 and a TD vs IND; Rico Dowdle missed a third straight game (colts.com box, PFF recap).
 - 2026-10-11: Jaylen Warren 15-101-1 (a 50-yard TD run) and 6-87-1 (an 80-yard TD catch) on 87 percent of snaps, the RB2 of the week; 490 scrimmage yards over Weeks 3 to 5. Rico Dowdle (toe) was inactive for a third straight game. [pod 10-13, deployment]
+- 2026-10-19: Rico Dowdle active for the first time since Week 2: 7 carries for 40, 3 catches for 9 in Week 6 @TB; Jaylen Warren 14 for 50 and 2 for 28, took over in the 4th quarter and OT (NBC Sports, team box score).
 
 ## Receivers
 
@@ -94,6 +95,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Germie Bernard 6 of 9 for 80 (team-high targets), a 94 percent route rate and 92 percent of snaps. DK Metcalf 3-12 on 4 targets (his fumble was recovered by PIT). Pat Freiermuth 5-44-2 on 7, 4 TDs on the season. [pod 10-13, deployment]
 - 2026-10-11: Germie Bernard ran 32 routes on Aaron Rodgers' 34 dropbacks and out-targeted DK Metcalf 9 to 4 vs IND. [pod 10-14, deployment]
 - 2026-10-16: DK Metcalf (illness) questionable Week 6 @TB after missing Friday; Rico Dowdle (toe) questionable after full Thursday and Friday; Roman Wilson and Ben Skowronek out. [NFL.com, CBS]
+- 2026-10-19: Germie Bernard: 12 targets, 11 for 87 and the OT winning TD in Week 6 @TB; DK Metcalf 15 targets, 11 for 93 (team box score, eDraft targets).
 
 ## Tight ends
 
@@ -105,6 +107,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Darnell Washington: Has improved his targets, catches, yards per game and yards per route in each of his three NFL seasons. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-10-01: Pat Freiermuth and Darnell Washington both caught TDs in the Week 4 loss at CLE (NBC Sports). [pod 10-7, deployment]
 - 2026-10-11: Pat Freiermuth: 5 catches for 44 and 2 TDs vs IND (colts.com box).
+- 2026-10-19: Pat Freiermuth: 2 catches for 11 on 3 targets in Week 6 @TB; Darnell Washington 4 for 25 and a TD on 6 targets (team box score).
 
 ## Offensive line
 

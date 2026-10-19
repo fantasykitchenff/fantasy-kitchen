@@ -44,6 +44,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Michael Penix Jr. (ribs) not considered serious per Adam Schefter; Kevin Stefanski said Atlanta will know more Wednesday (NFL.com).
 - 2026-10-14: Michael Penix Jr. (ribs) practiced Wednesday; Kevin Stefanski said he starts vs CHI as long as everything goes to plan. [pod 10-14, beat]
 - 2026-10-16: Michael Penix Jr. (ribs) has no designation for Week 6 vs CHI after a full Friday practice; CB C.J. Henderson (groin) out. [CBS, atlantafalcons.com]
+- 2026-10-19: Michael Penix Jr. started Week 6 vs CHI: 19 of 33 for 225, 3 TD, sacked 5 times (CBS box score).
 
 ## Backfield
 
@@ -61,6 +62,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Bijan Robinson: Among 51 RBs with 90+ carries in 2025 he ranked 4th in yards per carry, 7th in rush yards over expected per carry, 2nd in yards after contact per carry and 1st in missed tackles forced per carry. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-09-24: Bijan Robinson: 29 carries for 194 yards and 2 TD plus 2 catches for 19 on about 72% of the snaps, with all five carries inside the 5. Brian Robinson: 10 for 50 and a 7-yard TD on about 27% of the snaps. Snap shares by week: Bijan 77%, 51%, 72%; Brian 25%, 48%, 27%. [pod 9-29, deployment]
 - 2026-10-06: Week 4 @NO (Monday night, 45-24 win): Bijan Robinson 145 rushing yards and 2 TD; Brian Robinson Jr. 62 yards and 3 short TDs; five rushing TDs ties the team record (Audacy, NBC Sports, Yahoo).
+- 2026-10-19: Bijan Robinson: 9 carries for 61, 2 catches for -8 in Week 6 vs CHI, not injured; CHI held the ball about 40 minutes and ran 73 plays to 50 (CBS box score, Yahoo Sports).
 
 ## Receivers
 

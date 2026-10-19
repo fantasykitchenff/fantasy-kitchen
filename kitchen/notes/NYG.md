@@ -45,6 +45,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jameis Winston 33 of 54 for 326 and 3 TDs, after 250 and 3 TDs in Week 4. J.J. McCarthy played 6 percent of snaps with 2 designed runs. [pod 10-13, deployment]
 - 2026-10-11: Jameis Winston 33 of 54 for 326 and 3 TDs with a lost fumble; Isaiah Likely 11 catches on 13 targets for 94 and 2 TDs. [pod 10-14, deployment]
 - 2026-09-29: J.J. McCarthy, acquired from MIN, could play in the near future (Connor Hughes, SNY). [pod 10-14, beat]
+- 2026-10-19: Jameis Winston benched after his second INT in Week 6 vs NO (14 of 26, 152, 1 TD, 2 INT); J.J. McCarthy 11 of 21 for 243, 1 TD, 1 INT in the last 11 minutes; no starter named for Week 7 (team box score, AP).
 
 ## Backfield
 
@@ -85,6 +86,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Najee Harris: No. 2 back in Week 3 with 9 carries for 52 on about 21% of the snaps (0, 8, 14 snaps by week); Devin Singletary (25 and 15 snaps in Weeks 1-2) was a healthy scratch. Skattebo ran 18 routes and drew 4 targets. [pod 9-29, deployment]
 - 2026-10-11: Cam Skattebo: 56 snaps, Tracy 17, Najee Harris 16 @WAS; 13 carries for 59, lost a fumble in overtime, his fourth in five games (NBC Sports, Fox box).
 - 2026-10-11: Cam Skattebo 13-59 and 2-12 on 63 percent of snaps (Tracy 17 snaps, Najee Harris 16) with a lost OT fumble; 12 targets in five games. [pod 10-13, deployment]
+- 2026-10-19: Cam Skattebo: 6 snaps, 0 carries in Week 6 vs NO after his fourth lost fumble; Harbaugh said he was not benched; Najee Harris started (4 for 2), Tyrone Tracy Jr. 6 for 18 and a TD plus a 17-yard TD catch (Yahoo Sports, team box score).
 
 ## Receivers
 
@@ -113,6 +115,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs ARI: Malik Nabers 6 of 7 for 112 and a TD through a right shoulder hit, said afterward the shoulder feels good; Isaiah Likely 7 of 12 for 66; Cam Skattebo 18 for 58 (NBC, Yahoo).
 - 2026-10-11: Malik Nabers 20 targets, 11-121-1 on 90 percent of snaps in the 27-27 OT tie at WAS. [pod 10-13, deployment]
 - 2026-10-11: Malik Nabers has a 39 percent first-read target share over Weeks 4 and 5; Isaiah Likely has a 31 percent first-read share since Week 2; Jameis Winston's first-read throw rate of 75 percent is third-highest in the league (Yahoo Sports). [pod 10-13, deployment]
+- 2026-10-19: Malik Nabers: 15 targets, 12 for 165 in Week 6 vs NO; Darnell Mooney left in Q3 with a neck injury (team box score, SI).
 
 ## Tight ends
 

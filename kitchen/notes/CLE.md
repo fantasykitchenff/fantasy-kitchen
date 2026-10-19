@@ -79,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Quinshon Judkins (right ankle) did not practice Wednesday but was out of the walking boot; day to day. [pod 10-14, beat]
 - 2026-10-14: Dylan Sampson was designated to return from IR and practiced Wednesday. [pod 10-14, official]
 - 2026-10-16: Quinshon Judkins (ankle) questionable Week 6 vs BAL after DNP, DNP, limited Friday; Todd Monken called the walking boot a precaution. Dylan Sampson (knee) out; Dillon Gabriel (back) out. KC Concepcion cleared. [NFL.com, CBS, Yahoo Sports]
+- 2026-10-19: With Quinshon Judkins inactive in Week 6 vs BAL: Jaleel McLaughlin 9 for 41 and 4 for 14; Audric Estime 9 for 19 and a TD (CBS box score).
 
 ## Receivers
 

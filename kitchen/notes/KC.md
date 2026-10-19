@@ -73,6 +73,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Kenneth Walker III: In Seattle's three 2025 playoff games Walker had 74 touches for 417 scrimmage yards, nearly 25 touches per game. [8-26 myguys episode]
 - 2026-09-27: Emmett Johnson 6 for 17 and no targets; Kenneth Walker 18-70-1 plus a receiving touchdown. [pod 9-28, deployment]
 - 2026-10-05: Week 4 @LV: Kenneth Walker III 22 carries for 177 and 2 TD, a 76-yard run, 45 of 60 snaps (75%), 13 routes (DraftSharks, NBC).
+- 2026-10-19: Kenneth Walker III: 19 for 128 and 2 TDs, 2 for 11 in Week 6 vs LAC (22-6 W) (CBS box score).
 
 ## Receivers
 

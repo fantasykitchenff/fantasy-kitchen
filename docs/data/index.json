@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 6,
-  "updatedAt": "2026-10-18T22:12:11Z",
+  "updatedAt": "2026-10-19T11:33:10Z",
   "pieces": [
+    {
+      "series": "leftovers",
+      "week": 6,
+      "path": "2026/week-06/leftovers.json",
+      "title": "Leftovers, Week 6",
+      "dek": "Kendre Miller took the Saints' backfield while Alvin Kamara's back acted up, and Cam Skattebo played six snaps for the Giants.",
+      "publishedAt": "2026-10-19T11:30:00Z",
+      "updatedAt": "2026-10-19T11:30:00Z"
+    },
     {
       "series": "notes",
       "week": 6,

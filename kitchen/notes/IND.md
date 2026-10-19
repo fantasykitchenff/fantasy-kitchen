@@ -64,6 +64,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jonathan Taylor: 23 carries for 68 vs HOU; Seth McGowan 4 for 14. [pod 9-30, deployment]
 - 2026-10-11: Seth McGowan over 25% of the snaps for a second straight week @PIT; Jonathan Taylor 15 carries for 45, McGowan 5 for 16 (PFF recap, colts.com box).
 - 2026-10-11: Jonathan Taylor played 71% of snaps in Week 4 and 73% in Week 5 (89% in Week 1); Seth McGowan 29% and 27%. Taylor ran 15 times for 45 vs ARI. [pod 10-14, deployment]
+- 2026-10-19: Jonathan Taylor: 21 for 94 and a TD, 2 for 57, season-high 151 scrimmage yards in Week 6 vs TEN, lost a fumble; Seth McGowan 4 for 27 (team box score).
 
 ## Receivers
 

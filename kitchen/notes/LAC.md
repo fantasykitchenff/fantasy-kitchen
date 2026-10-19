@@ -83,6 +83,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Omarion Hampton 14 carries for 33, Kimani Vidal 8 for 57 and a TD, Keaton Mitchell 6 for 11 and 3 catches vs DEN (Fox box).
 - 2026-10-11: Week 5 snaps vs DEN: Kimani Vidal 28 (42 percent, 8-57-1), Keaton Mitchell 23 (34), Omarion Hampton 20 (30, 14-33). Vidal's snap share by week: 7, 10, 25, 35, 42 percent. Snap leader by week: Hampton Weeks 1 and 2, Mitchell Weeks 3 and 4, Vidal Week 5. [pod 10-13, deployment]
 - 2026-10-11: Snaps vs DEN: Kimani Vidal 28, Keaton Mitchell 23, Omarion Hampton 20; carries 8, 6 and 14. The offense had 82 net passing yards. [pod 10-14, deployment]
+- 2026-10-19: Week 6 @KC: Omarion Hampton 7 for 18, 4 of 4 for 21, led the backs in routes and targets; Kimani Vidal 7 for 21, 3 for 19; Keaton Mitchell 2 for 4 (CBS box score).
 
 ## Receivers
 
@@ -190,6 +191,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: Jim Harbaugh: "possible" Ladd McConkey (foot) works back in this week @KC; Quentin Johnston (chest) probably limited in practice again; Tre' Harris (hamstring) week to week, LAC bye in Week 7; Joe Alt (neck) seeing a specialist (NBC Sports, Athlon, FantasyPros).
 - 2026-10-12: Tre' Harris week to week (hamstring); Quentin Johnston (chest) inactive Week 5; Joe Alt seeing a neck specialist; Scott Matlock back from IR. Harbaugh said Ladd McConkey would practice Wednesday. [pod 10-14, coach]
 - 2026-10-15: Ladd McConkey, Quentin Johnston limited Thursday; Joe Alt DNP; FB Alec Ingold to IR. [NFL.com Thursday roundup, team reports]
+- 2026-10-19: Ladd McConkey ruled out with a concussion early in Q2 of Week 6 @KC; LAC on bye in Week 7 (CBS box score, chargers.com).
 
 ## Other
 

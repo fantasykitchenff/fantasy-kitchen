@@ -62,6 +62,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Rhamondre Stevenson 13-64-1 and 3-21 on 71 percent of snaps (not hurt); TreVeyon Henderson right ankle in the second quarter, 12 snaps, not long term. [pod 10-13, deployment]
 - 2026-10-11: Rhamondre Stevenson played 83 percent of the snaps after TreVeyon Henderson left vs LV (71 percent for the game) (Yahoo Sports). [pod 10-13, deployment]
 - 2026-10-11: Corey Kiner was the backup back in the fourth quarter vs LV after TreVeyon Henderson's high ankle sprain. [pod 10-14, deployment]
+- 2026-10-19: Week 6 vs NYJ: Rhamondre Stevenson 41 snaps, 14 for 36; Corey Kiner 11 for 57; TreVeyon Henderson back, 7 for 31 on 16 snaps, lost a fumble (CBS box score; snaps single source).
 
 ## Receivers
 
@@ -98,6 +99,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: DeMario Douglas 4-65-2 on 5 targets; Kyle Williams 3-91-1 on 27 snaps; Efton Chism III 5-57 on 6 targets and a team-high 76 percent of snaps. [pod 10-13, deployment]
 - 2026-10-14: A.J. Brown practiced Wednesday, opening his 21-day IR window; Mack Hollins on IR (calf) through at least Week 8. [pod 10-14, beat]
 - 2026-10-16: A.J. Brown (ankle) questionable Week 6 vs NYJ, limited all week in his IR window; TreVeyon Henderson (ankle) questionable after three limited practices. [NFL.com, CBS]
+- 2026-10-19: A.J. Brown in his first game off IR, Week 6 vs NYJ: 10 targets, 3 for 27, several drops; Romeo Doubs 42-yard TD then a shoulder injury, out, Vrabel doubtful for Thursday @CHI; DeMario Douglas 7 of 8 for 86 and a TD (CBS box score, NBC Sports Boston).
 
 ## Tight ends
 

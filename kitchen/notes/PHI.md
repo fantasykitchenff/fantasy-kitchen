@@ -87,6 +87,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Will Shipley has a partial plantar fascia tear and could miss multiple weeks, per Adam Schefter; Nick Sirianni hopeful Saquon Barkley (hamstring) and DeVonta Smith (hamstring) return for Week 6 vs CAR (NFL.com).
 - 2026-10-14: Jaydon Blue is on the Eagles practice squad; Dameon Pierce was the last healthy Eagles back after Will Shipley left in Week 5 (official transactions, podcast notes checked).
 - 2026-10-16: Saquon Barkley (hamstring) and Will Shipley (foot) ruled out Week 6 vs CAR; Dameon Pierce leads the backfield. DeVonta Smith has no designation after DNP, limited, practiced Friday. TEs Grant Calcaterra and Eli Stowers questionable. [NFL.com, Yahoo Sports]
+- 2026-10-19: Dameon Pierce: 12 for 35 and a TD, 4 for 15 in Week 6 vs CAR, all of PHI's rushing yards; Saquon Barkley inactive (hamstring); Carson Steele left with a shoulder injury (CBS box score, PhillyVoice).
 
 ## Receivers
 
@@ -124,6 +125,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Hollywood Brown: Hollywood Brown was the target on a viral camp interception by Quinyon Mitchell; he reportedly flattened the route, and he is not expected to be a top-three option. [8-24 adp adjustments]
 - 2026-09-28: DeVonta Smith: 8 targets (32%), 6 for 65 on 97% of the routes @CHI, a 33% target share on the season. Dontayvion Wicks: 5 targets, 2 for 32, 81% routes. Makai Lemon: 4 targets, 3 for 29, 84% routes on 68% of the snaps, an 11% share on the season. [pod 9-29, deployment]
 - 2026-10-05: Week 4 vs LAR snaps: Dontayvion Wicks 56 (92%), Darius Cooper 55 (90%), Makai Lemon 45 (74%); Cooper 3 for 33 and 2 TD on a team-high 7 targets; TE Johnny Mundt 49 snaps (80%) (Yahoo snap counts, CBS).
+- 2026-10-19: DeVonta Smith: 14 targets, 7 for 75 and a TD with Tanner McKee starting in Week 6 vs CAR (CBS box score).
 
 ## Tight ends
 

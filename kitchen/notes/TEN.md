@@ -58,6 +58,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Tyjae Spears over 50% of the snaps for the first time vs HOU, 9 catches for 28; Tony Pollard 14 carries for 52 (PFF recap, titans box).
 - 2026-10-11: Tyjae Spears out-snapped Tony Pollard 34 to 30 and caught 9 of 9 for 28. [pod 10-13, deployment]
 - 2026-10-16: Tyjae Spears (knee) questionable Week 6 @IND after DNP Thursday and full Friday. [CBS, NFL.com]
+- 2026-10-19: Tony Pollard: season-high 19 carries for 76 in Week 6 @IND; Tyjae Spears 1 carry (team box score).
 
 ## Receivers
 
@@ -87,6 +88,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @BAL: Carnell Tate 9 for 145, his first 100-yard game; Tony Pollard 16 for 48 and a TD, Tyjae Spears 2 for 7 (Titans.com).
 - 2026-10-11: Carnell Tate 1 for 6 on 5 targets on 76 percent of snaps; Cam Ward 23 of 36 for 170, 1 INT. [pod 10-13, deployment]
 - 2026-10-14: Carnell Tate caught 1 pass for 6 yards on 5 targets in Week 5 vs HOU and played through the back injury (box score).
+- 2026-10-19: Carnell Tate: 7 targets, 6 for 70 and his first career TD in Week 6 @IND (26-20 W) (team box score).
 
 ## Tight ends
 

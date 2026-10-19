@@ -52,6 +52,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: James Cook: 24 carries for 154 yards and a 3-yard touchdown vs LAC (77 yards on 11 carries in the fourth quarter), a lost fumble on the first play from scrimmage, 44 snaps (67%) and 81 percent of the early-down snaps; 1 target, no catch. 346 rushing yards at 6.0 a carry through three games. [pod 9-29, deployment]
 - 2026-09-27: Ty Johnson: Back from injury vs LAC: 15 snaps (23%), 4 of 4 for 50 including a fourth-and-7 conversion, and the clear majority of the passing-situation snaps; Ray Davis had limited early-down work. [pod 9-29, deployment]
 - 2026-10-13: James Cook III: 4 fumbles this season, 2 in Week 5; Joe Brady said at some point there has to be consequences. [pod 10-14, coach]
+- 2026-10-19: James Cook: 22 for 95 and a TD, 3 for 58 in Week 6 @LV (33-30 W) (CBS box score).
 
 ## Receivers
 
@@ -81,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-06: Keon Coleman on 4% of fantasy rosters Tuesday after Week 4 (public waiver pages).
 - 2026-10-16: DJ Moore (shoulder) DNP Wednesday (walkthrough estimate) and Thursday; Joshua Palmer limited both days. Friday designations not posted by 5:30 PM ET. [raiders.com joint report]
 - 2026-10-16: Friday report @LV: DJ Moore (shoulder) limited Friday after DNP Wednesday (walkthrough estimate) and Thursday, questionable; Joshua Palmer (shoulder) limited all week, questionable; Keon Coleman full all week, no designation. [raiders.com joint report, nfl.com]
+- 2026-10-19: DJ Moore inactive (shoulder) in Week 6 @LV; Keon Coleman 4 for 59 and a TD (CBS box score).
 
 ## Tight ends
 

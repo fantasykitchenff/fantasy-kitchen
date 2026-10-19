@@ -75,6 +75,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Emanuel Wilson lost a fumble vs SF; George Holani fumbled twice (one lost). [pod 10-13, deployment]
 - 2026-10-13: Zach Charbonnet will not be activated for Thursday @DEN; Week 7 vs KC is the next chance. Jadarian Price on IR since 10/3 (chest), eligible Week 8. [pod 10-14, coach]
 - 2026-10-15: Week 6 @DEN (lost 17-14 OT): George Holani 56% snaps, 27 routes, 5-20-1; Emanuel Wilson 33% snaps, 9 routes, 14-52; Velus Jones Jr. 11% snaps, 4-20 (Rotowire usage).
+- 2026-10-19: Week 6 @DEN (14-17 OT L): George Holani 49 snaps (58%), 5 for 20 and a TD; Emanuel Wilson 27 snaps (32%), 14 for 52 (LeagueLogs, team box score).
 
 ## Receivers
 
@@ -103,6 +104,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Jaxon Smith-Njigba leads the NFL with a 37.9% target share (next 33.3%), 36 targets, 27 for 405, 10-128-2 in Week 3; Rashid Shaheed 31 snaps (46%). [pod 9-28, deployment]
 - 2026-09-27: Jaxon Smith-Njigba has 120-plus yards and a TD in each of Weeks 1 to 3 (122, 155, 128). [pod 10-2, deployment]
 - 2026-10-15: Week 6 @DEN: Jaxon Smith-Njigba 12-134 on 16 targets (35% share), 88% routes; Cooper Kupp 5-50 on 10; Rashid Shaheed 5-66 on 8; Darnold 27 of 51 for 278, 2 INT (Rotowire, PFR).
+- 2026-10-19: Jaxon Smith-Njigba: 92% snaps, 16 targets, 12 for 134 in Week 6 @DEN (LeagueLogs, team box score).
 
 ## Tight ends
 

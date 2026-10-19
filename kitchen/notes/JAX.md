@@ -86,6 +86,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @CIN: Bhayshul Tuten out-snapped Chris Rodriguez 36 to 15, 17 for 73, two TDs called back for holding, hobbled off in the third quarter; Brenton Strange 7 for 95 on a team-high 8 targets (NBC).
 - 2026-10-11: Bhayshul Tuten: career-high 22 carries for 72 vs PHI in London, 87.5% of early-down snaps, up from 71% in Week 4 (PFF recap, CBS box).
 - 2026-10-11: Bhayshul Tuten had 22 of Jacksonville's 24 RB carries (91.7 percent) vs PHI in London on 66 to 68 percent of the snaps (charting sources differ) and 45 to 48 percent of the routes, 3 targets; LeQuint Allen Jr. played 19 percent of the snaps and ran 25 percent of the routes on passing downs (Rotowire, DraftSharks). [pod 10-13, deployment]
+- 2026-10-19: Week 6 vs HOU: Bhayshul Tuten 12 for 39, 4 for 48 and 2 receiving TDs; Chris Rodriguez Jr. 11 for 55 (CBS box score).
 
 ## Receivers
 
@@ -144,6 +145,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Josh Cameron and Brian Thomas Jr. played 23 snaps each vs NE. [pod 10-1, deployment]
 - 2026-10-11: Parker Washington: 9 targets, a team high, 6 for 124 and 2 TDs vs PHI; Brian Thomas Jr. 3 targets, 0 catches (CBS box).
 - 2026-10-11: Brian Thomas Jr. 0 of 3 vs PHI after 1-8 (Wk3) and 2-17-1 (Wk4). [pod 10-13, deployment]
+- 2026-10-19: Week 6 vs HOU: Parker Washington 11 targets, 4 for 64; Jakobi Meyers 10 targets, 5 for 83 (CBS box score).
 
 ## Tight ends
 

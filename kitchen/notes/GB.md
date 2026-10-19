@@ -70,6 +70,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: MarShawn Lloyd 26 snaps, Pierre Strong 24, Kaleb Johnson 9 (garbage time) vs CHI; Lloyd 10 carries for 31 and 2 TDs (Acme Packing Company, CBS box).
 - 2026-10-11: RB touches vs CHI: MarShawn Lloyd 11 (10-31-2), Pierre Strong 8, Kaleb Johnson 7 (garbage time); Lloyd 26 snaps, Strong 24. [pod 10-13, deployment]
 - 2026-10-11: MarShawn Lloyd 10 carries for 31 and 2 TDs vs CHI; Chris Brooks to IR (ankle) 10/10. Josh Jacobs is on the Commissioner's Exempt List, not injured. [pod 10-14, deployment]
+- 2026-10-19: Week 6 vs DAL: Pierre Strong Jr. 41 snaps (56%), 11 for 28, 5 of 6 for 39; MarShawn Lloyd 30 snaps, 8 for 10; Josh Jacobs expected off the commissioner exempt list Monday Oct 19 (Acme Packing Company snaps, Boston Globe, NBC Sports).
 
 ## Receivers
 
@@ -114,6 +115,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Christian Watson 8 targets, 6 for 143 and 2 TDs; Matthew Golden 7 targets, 6 for 123 vs CHI; Love 25 of 31 for 367 (CBS box).
 - 2026-10-11: Christian Watson 6 of 8 for 143 and 2 TDs (42 and 53 yards), a TD in four of five games. Matthew Golden 6-123; 24 catches for 397 and 2 TDs through five games. Love 25 of 31 for 367 and 2 TDs. [pod 10-13, deployment]
 - 2026-10-16: Skyy Moore (ankle) out Week 6 vs DAL; Savion Williams (ankle) questionable. [NFL.com]
+- 2026-10-19: Matthew Golden: 86% snaps, 13 targets, 6 for 104 and a TD with two drops in Week 6 vs DAL; Christian Watson 90% snaps, 3 of 8 for 64 (team box score, Acme Packing Company).
 
 ## Tight ends
 

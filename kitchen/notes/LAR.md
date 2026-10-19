@@ -49,6 +49,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Kyren Williams played 71% of the snaps with 22 of the 32 running back opportunities and 158 scrimmage yards at DEN. [pod 10-2, deployment]
 - 2026-10-05: Week 4 @PHI: Kyren Williams 70 snaps to Blake Corum's 13, 16 for 80 and 2 TD, 10 of 13 targets for 67 (RotoWire, NBC). Puka Nacua 9 for 125 in his first game since Week 1.
 - 2026-10-06: Kyren Williams: 21 catches on 25 targets in four games (11 of 12 through Week 3, 10 of 13 in Week 4) (season totals from weekly reports).
+- 2026-10-19: Kyren Williams: season-low 13 touches (10 for 50, 3 for 17) in Week 6 vs ARI; Blake Corum 9 for 42 and a 15-yard TD catch, his second straight game with a TD (team box score, Rotowire).
 
 ## Receivers
 
@@ -132,6 +133,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Puka Nacua: The report that he has not felt his usual explosiveness came from a source in a beat report, not from Nacua himself; surgery was described as not expected but not ruled out. [pod 10-1, beat]
 - 2026-10-02: Puka Nacua has no game designation and is set to play, though Sean McVay said his snaps may be limited; Terrance Ferguson (ankle) is out; Colby Parkinson is questionable, not out; Aaron Donald (back) is out. [pod 10-2, official]
 - 2026-10-04: Puka Nacua has what a sideline report called a "pre-hernia" that could worsen into one needing surgery; he said he felt fine after catching 9 for 125 @PHI. This updates the 9-28 "not hernia-related" line (NBC Sports, Yahoo). [pod 10-6, beat]
+- 2026-10-19: K Blake Grupe hurt his knee on a Q1 kickoff tackle in Week 6 vs ARI and was ruled out; on crutches postgame (Yahoo Sports).
 
 ## Other
 
