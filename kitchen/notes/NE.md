@@ -161,6 +161,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-17: A.J. Brown activated from IR to the 53-man roster after three limited practices with the high ankle sprain; questionable vs NYJ, first game since Week 1; S Elliott Davison elevated, RB Hassan Haskins released from the practice squad (patriots.com, 98.5 The Sports Hub).
 - 2026-10-18: A.J. Brown (ankle) and TreVeyon Henderson (ankle) active vs NYJ in Week 6, Brown's first game since Week 1; Will Campbell and Christian Gonzalez active (patriots.com).
 - 2026-10-18: Romeo Doubs: 42-yard TD with 4:10 left in Q1, landed on his right shoulder on the catch and was ruled out early in Q3; no team diagnosis has been given. Vrabel was noncommittal for Thursday @CHI. Season: 14 catches, 261 yards, 3 TD. [pod 10-19, official]
+- 2026-10-19: Romeo Doubs: placed on IR with the right shoulder hurt on a 42-yard TD vs NYJ; out at least four games; led NE with 261 receiving yards (patriots.com, Boston Globe).
 
 ## Other
 

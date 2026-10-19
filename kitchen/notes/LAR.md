@@ -139,6 +139,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Puka Nacua has what a sideline report called a "pre-hernia" that could worsen into one needing surgery; he said he felt fine after catching 9 for 125 @PHI. This updates the 9-28 "not hernia-related" line (NBC Sports, Yahoo). [pod 10-6, beat]
 - 2026-10-19: K Blake Grupe hurt his knee on a Q1 kickoff tackle in Week 6 vs ARI and was ruled out; on crutches postgame (Yahoo Sports).
 - 2026-10-18: Davante Adams: non-contact LEFT knee injury on a late Q4 route vs ARI, limped off and did not return; no diagnosis or MRI result reported as of Monday 10-19 (McVay update expected Monday). [pod 10-19, official]
+- 2026-10-19: Davante Adams: ruptured hamstring late in Week 6 @ARI (first reported as the knee); Sean McVay said he will miss 6 to 10 weeks (NBC Sports, Yahoo Sports).
+- 2026-10-19: Blake Grupe (K): placed on IR with the knee hurt on a Week 6 kickoff tackle; Harrison Mevis a candidate to return (Yahoo Sports).
 
 ## Depth chart
 

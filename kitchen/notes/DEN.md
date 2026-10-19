@@ -41,6 +41,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Bo Nix: 12 carries for 15 yards through three games (3-2, 5-6, 4-7) with one rushing touchdown, the 1-yard winner with 47 seconds left vs LAR. Passing 56 of 93 for 605, 4 TD, 3 INT. [pod 9-29, deployment]
 - 2026-10-11: Bo Nix 16 of 27 for 123 and a TD; under 15 fantasy points in four of five games. Week 6 is Thursday night vs SEA. [pod 10-13, deployment]
 - 2026-10-11: Bo Nix 16 of 27 for 123 @LAC, Denver 3.9 yards per play; his best rushing game this season is 10 yards. [pod 10-14, deployment]
+- 2026-10-19: Bo Nix: Sean Payton said "no" to a QB change Monday; 6 TDs, 3 INTs, career-low 60.3% completions through Week 6 (Yahoo Sports, ESPN).
 
 ## Backfield
 

@@ -6,9 +6,9 @@
   "dek": "Kimani Vidal's snap share has climbed five straight weeks. The stove's on in Los Angeles.",
   "format": "PPR",
   "publishedAt": "2026-10-13T16:59:00Z",
-  "updatedAt": "2026-10-19T20:30:00Z",
+  "updatedAt": "2026-10-19T22:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Mon 4:35 PM ET: Bhayshul Tuten moves from riser to hold. He had 44 percent of Jacksonville's rushes vs HOU after 22 of 24 back carries in Week 5, and Chris Rodriguez Jr. ran 11 times for 55; he is RB18 rest of season for me, and the Week 8 carry split decides the next call. TreVeyon Henderson played through his ankle vs NYJ on 16 snaps.\n\nUpdated Mon 4:30 PM ET: Tony Pollard ran 19 times to Tyjae Spears' 1 @IND; he is a hold now, not a sell. Omarion Hampton ran 7 times for 18 @KC and the Chargers' play-caller is in question during the bye; monitor that decision. Brian Thomas Jr. was benched for the second half vs HOU; sell him for a bench receiver.\n\nUpdated Fri 6:20 PM ET: added Jonathan Taylor as a faller; his snap share is down to 71 and 73 percent the last two weeks with Seth McGowan near 30, and he is still RB3 for me vs TEN.\n\nUpdated Wed 4:55 PM ET: Rhamondre Stevenson moves up to RB12 for me vs NYJ and Brenton Strange to TE12 vs HOU, a borderline start; Kendrick Bourne is WR36 @LAR, a low-end WR3. Woody Marks is RB20 and Germie Bernard WR34.\n\nUpdated Tue 6:00 PM ET: Germie Bernard ran 28 routes vs IND, tied for Pittsburgh's high, with a team-high 9 targets; he is still WR34 for me @TB and a claim at 3 to 6 percent of FAAB.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, lineup calls are this week's Menu rank, other ranks are rest of season for me, and the scoring is PPR.",
+  "intro_md": "Updated Mon 6:20 PM ET: Davante Adams ruptured his hamstring and will miss 6 to 10 weeks, per Sean McVay. Hold him in an IR spot instead of selling him for nothing.\n\nUpdated Mon 4:35 PM ET: Bhayshul Tuten moves from riser to hold. He had 44 percent of Jacksonville's rushes vs HOU after 22 of 24 back carries in Week 5, and Chris Rodriguez Jr. ran 11 times for 55; he is RB18 rest of season for me, and the Week 8 carry split decides the next call. TreVeyon Henderson played through his ankle vs NYJ on 16 snaps.\n\nUpdated Mon 4:30 PM ET: Tony Pollard ran 19 times to Tyjae Spears' 1 @IND; he is a hold now, not a sell. Omarion Hampton ran 7 times for 18 @KC and the Chargers' play-caller is in question during the bye; monitor that decision. Brian Thomas Jr. was benched for the second half vs HOU; sell him for a bench receiver.\n\nUpdated Fri 6:20 PM ET: added Jonathan Taylor as a faller; his snap share is down to 71 and 73 percent the last two weeks with Seth McGowan near 30, and he is still RB3 for me vs TEN.\n\nUpdated Wed 4:55 PM ET: Rhamondre Stevenson moves up to RB12 for me vs NYJ and Brenton Strange to TE12 vs HOU, a borderline start; Kendrick Bourne is WR36 @LAR, a low-end WR3. Woody Marks is RB20 and Germie Bernard WR34.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, lineup calls are this week's Menu rank, other ranks are rest of season for me, and the scoring is PPR.",
   "outro_md": "Butcher Shop turns these trends into trade offers, and the Menu has every one of them ranked for Week 6.",
   "data": {
     "risers": [
@@ -217,11 +217,10 @@
         "player": "Davante Adams",
         "team": "LAR",
         "pos": "WR",
-        "stat": "Targets 13 without Nacua, 7 with him back",
-        "why": "Davante Adams (LAR) drew 7 targets vs BUF while Puka Nacua drew 24. Adams scored twice, and that is what is holding up his price.",
-        "verdict": "WR25 rest of season for me. Trade him away; ask for a WR2.",
-        "action": "TRADE_AWAY",
-        "price": "a WR2"
+        "stat": "Out 6 to 10 weeks, ruptured hamstring",
+        "why": "Davante Adams (LAR) ruptured his hamstring late vs ARI, the injury first called a knee, and Sean McVay said Monday he will miss 6 to 10 weeks. Before it he caught 5 of 7 for 51 and 2 TDs vs BUF while Puka Nacua drew 24 targets.",
+        "verdict": "Left to cool for two months. Hold him in an IR spot; drop him only if you have no IR spot and need the bench for a starter.",
+        "action": "HOLD"
       },
       {
         "player": "Jaylen Wright",

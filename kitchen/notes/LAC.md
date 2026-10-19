@@ -19,6 +19,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Mike McDaniel now runs the Chargers offense; he has said the backfield will ride the hot hand, though Hampton is the clear lead over Keaton Mitchell and Kimani Vidal. [8-26 myguys episode]
 - 2026-10-18: Mike McDaniel: still OC after the 22-6 loss @KC (0-6); Jim Harbaugh said "we're going to look at everything... (the offense) needs to be addressed"; a national report described growing buzz that McDaniel will be fired soon, with passing-game specialist Adam Gase expected to take over. [pod 10-19, beat]
 - 2026-10-19: National reporting names pass game specialist Adam Gase as a possible interim play-caller if Mike McDaniel is replaced; no decision yet, LAC on bye in Week 7. [pod 10-19, coach]
+- 2026-10-19: Jim Harbaugh, at 0-6, said the team must address everything, especially on offense, and was noncommittal on Mike McDaniel keeping play-calling (Yahoo Sports).
 
 ## Scheme and tendencies
 
