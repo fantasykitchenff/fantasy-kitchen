@@ -645,6 +645,13 @@ def validate_queue_item(path, errors, warnings):
     elif is_thread and texts and not HOOK_CLOSER_RE.search(texts[0].strip()):
         errors.append(f"{rel}: the hook (text[0]) must end with one of: " + ", ".join(HOOK_CLOSERS) + " (hashtags may follow it)")
     handle = site_handle()
+    # Owner rule of 2026-10-20: X turns any at-word into a tag of a random account, so post text never carries
+    # the at symbol except our own handle in the follow line. Away games are "at KC", not "@KC".
+    for i, t in enumerate(texts):
+        rest = re.sub(r"@" + re.escape(handle) + r"\b", "", t, flags=re.I) if handle else t
+        if "@" in rest:
+            m = re.search(r"@\S*", rest)
+            errors.append(f"{rel}: text[{i}] uses the at symbol ('{m.group(0)}'); write 'at KC' for away games and name accounts without it (only @{handle or 'our handle'} in the follow line)")
     follow_re = re.compile(r"\bfollow\b", re.I)
     if texts:
         last = texts[-1]

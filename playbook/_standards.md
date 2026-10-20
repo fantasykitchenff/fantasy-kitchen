@@ -82,7 +82,7 @@ Never tell readers to start a player, and never state the obvious. A lineup call
 - No filler openers ("Alright,", "So,", "Let's talk about"). Start with the point.
 - No mannered devices: "not X, but Y", colon-then-reveal, rhetorical questions stacked for effect, "let that sink in."
 - Never write "genuinely", "honestly", "straightforward", "worth noting", "at the end of the day."
-- Player names in full on first mention in a piece, last name after. Team abbreviations in caps (KC, SF, TB). Opponent notation: "vs KC" at home, "@KC" away.
+- Player names in full on first mention in a piece, last name after. Team abbreviations in caps (KC, SF, TB). Opponent notation: "vs KC" at home, "at KC" away (or "at Houston", "in Jacksonville"). Never "@KC".
 - Be clear about who and what you are talking about. Name the player and his team in the same sentence the first time; never let a "he" drift across two players; one player per sentence when the sentence carries a number.
 
 ## Plain words (hard)
@@ -155,6 +155,7 @@ The owner's rule from Fri Oct 2: every piece of content goes out on X as exactly
 - Threads: 15 to 25 posts for the weekly series, 10 to 25 for Kitchen Notes and Order Up (see "One long thread per content item"). No 2 or 3 post threads.
 - Replies: 1 to 3 sentences, add a number the original post did not have, the action, then "Follow @handle for more." No hashtags, no link, no closer. Never quote the original. Never argue about rankings for their own sake. Never reply to a reply.
 - Line breaks separate ideas. No trailing questions ("Thoughts?").
+- No at symbol in anything published or queued for X, except the kitchen's own handle in a follow line (the owner's rule, Tue Oct 20). X turns any other at-word into a tag of a random account. Write game locations as "at KC", "at Houston", "in Jacksonville" or "vs KC", and name other accounts, people and reporters without the symbol. The validator rejects post text that carries the symbol anywhere but the site handle.
 - No links to other creators. The only links are to the kitchen's own site.
 
 ## Format assumptions
