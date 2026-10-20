@@ -1,0 +1,319 @@
+{
+  "series": "heat",
+  "season": 2026,
+  "week": 7,
+  "title": "Heat Check, Week 7",
+  "dek": "Kendre Miller took 20 carries and the most snaps in New Orleans. The stove's on in the Saints' backfield.",
+  "format": "PPR",
+  "publishedAt": "2026-10-20T17:00:00Z",
+  "updatedAt": "2026-10-20T17:00:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Heat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 7 lineup ranks come with Wednesday's Menu.",
+  "outro_md": "Butcher Shop turns these trends into trade offers, and the Menu ranks every one of them for Week 7 on Wednesday.",
+  "data": {
+    "risers": [
+      {
+        "player": "Kendre Miller",
+        "team": "NO",
+        "pos": "RB",
+        "stat": "20 carries on 32 snaps, the most of any Saints back",
+        "why": "Kendre Miller (NO) ran 20 times for 70 in the 34-27 win @NYG, while Alvin Kamara played 19 snaps and sat the fourth quarter with the back. Travis Etienne Jr. is on IR until after Week 8.",
+        "verdict": "Claim him, 10 to 20 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "10-20%"
+      },
+      {
+        "player": "Germie Bernard",
+        "team": "PIT",
+        "pos": "WR",
+        "stat": "Targets 9, then 12",
+        "why": "Germie Bernard (PIT) caught 11 of 12 targets for 87 and the overtime TD @TB, a week after a team-high 9 targets vs IND. Roman Wilson and Michael Pittman Jr. are on IR.",
+        "verdict": "Claim him, 5 to 10 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "5-10%"
+      },
+      {
+        "player": "Omar Cooper Jr.",
+        "team": "NYJ",
+        "pos": "WR",
+        "stat": "82% of the snaps in his first game off IR",
+        "why": "Omar Cooper Jr. (NYJ) played 51 snaps @NE and caught 6 of 7 for 103 and a 48-yard TD. Adonai Mitchell is week to week after the finger procedure.",
+        "verdict": "Claim him, 6 to 12 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "6-12%"
+      },
+      {
+        "player": "Keenan Allen",
+        "team": "IND",
+        "pos": "WR",
+        "stat": "Targets 9, 9, 11 in Weeks 4 to 6",
+        "why": "Keenan Allen (IND) caught 8 for 82 on a team-high 11 targets vs TEN with Tyler Warren out. Josh Downs caught 4 for 40 on 8.",
+        "verdict": "Claim him, 4 to 8 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "4-8%"
+      },
+      {
+        "player": "Emeka Egbuka",
+        "team": "TB",
+        "pos": "WR",
+        "stat": "Target share 36% to 37%; 16 targets in Week 6",
+        "why": "Emeka Egbuka (TB) drew 25 targets over two weeks with Jalon Daniels at quarterback, 7 for 48 and a TD vs PIT. The volume stays, and Baker Mayfield's return fixes the efficiency.",
+        "verdict": "WR22 rest of season for me. Trade for him; offer a WR3.",
+        "action": "TRADE_FOR",
+        "price": "a WR3"
+      },
+      {
+        "player": "Matthew Golden",
+        "team": "GB",
+        "pos": "WR",
+        "stat": "86% of the snaps, 13 targets in Week 6",
+        "why": "Matthew Golden (GB) led Green Bay with 13 targets vs DAL and caught 6 for 104 and a TD. Christian Watson caught 3 of 8.",
+        "verdict": "WR37 rest of season for me, and the targets say higher. Trade for him; offer a WR3.",
+        "action": "TRADE_FOR",
+        "price": "a WR3"
+      },
+      {
+        "player": "Chuba Hubbard",
+        "team": "CAR",
+        "pos": "RB",
+        "stat": "28 carries; no other Carolina back over 1",
+        "why": "Chuba Hubbard (CAR) ran 28 times for 120 and a TD @PHI, including a 19-yard run on fourth-and-1.",
+        "verdict": "RB25 rest of season for me. Trade for him; offer a WR3.",
+        "action": "TRADE_FOR",
+        "price": "a WR3"
+      },
+      {
+        "player": "Kyle Pitts Sr.",
+        "team": "ATL",
+        "pos": "TE",
+        "stat": "6 then 7 targets; 3 TDs in two weeks",
+        "why": "Kyle Pitts Sr. (ATL) caught 5 for 60 and 2 TDs vs CHI on 21 percent of the targets, after 5 of 6 for 42 and a TD in Week 5. His share has climbed every week, so the touchdowns sit on real volume. A week under 15 percent of the targets is what would change the call.",
+        "verdict": "TE13 rest of season for me. Hold him; do not sell him for a backup tight end.",
+        "action": "HOLD"
+      },
+      {
+        "player": "Luther Burden III",
+        "team": "CHI",
+        "pos": "WR",
+        "stat": "Led Chicago in receiving yards two straight weeks",
+        "why": "Luther Burden III (CHI) caught all 8 of his targets for 95 @ATL with Caleb Williams back. He ran about 18 routes, so the role is still growing.",
+        "verdict": "WR28 rest of season for me. Trade for him; offer a WR4 and a bench RB.",
+        "action": "TRADE_FOR",
+        "price": "a WR4 and a bench RB"
+      },
+      {
+        "player": "Mike Washington Jr.",
+        "team": "LV",
+        "pos": "RB",
+        "stat": "Snap share up to a season-high 35%",
+        "why": "Mike Washington Jr. (LV) took half of the early-down snaps vs BUF and turned 10 touches into 50 yards. Ashton Jeanty still out-touched him 14 to 10.",
+        "verdict": "RB46 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
+        "action": "CLAIM",
+        "faab": "5-10%"
+      },
+      {
+        "player": "DeMario Douglas",
+        "team": "NE",
+        "pos": "WR",
+        "stat": "Targets 5, then 8; 11 catches and 3 TDs in two weeks",
+        "why": "DeMario Douglas (NE) caught 7 of 8 for 86 and a TD vs NYJ, after 4 for 65 and 2 TDs vs LV. Romeo Doubs is on IR, and New England plays @CHI Thursday.",
+        "verdict": "Add him, 1 to 3 percent of FAAB, before Thursday night.",
+        "action": "ADD",
+        "faab": "1-3%"
+      },
+      {
+        "player": "Bam Knight",
+        "team": "ARI",
+        "pos": "RB",
+        "stat": "15 carries for 80 on 44% of the snaps",
+        "why": "Bam Knight (ARI) out-ran Tyler Allgeier @LAR, 15 for 80 to 18 for 38, and got most of the red-zone touches with Jeremiyah Love out.",
+        "verdict": "Add him, 1 to 3 percent of FAAB.",
+        "action": "ADD",
+        "faab": "1-3%"
+      },
+      {
+        "player": "Tommy Tremble",
+        "team": "CAR",
+        "pos": "TE",
+        "stat": "Route rate 50%, ahead of Darren Waller for the first time",
+        "why": "Tommy Tremble (CAR) played 68 percent of the snaps @PHI and caught all 4 targets for 46 and 2 TDs. Darren Waller ran a route on 45 percent of the dropbacks and caught none.",
+        "verdict": "Add him, 0 to 2 percent of FAAB, in deep leagues.",
+        "action": "ADD",
+        "faab": "0-2%"
+      },
+      {
+        "player": "Marvin Harrison Jr.",
+        "team": "HOU",
+        "pos": "WR",
+        "stat": "9 routes on 12 snaps in his Houston debut",
+        "why": "Marvin Harrison Jr. (HOU) caught 3 of 4 for 34 @JAX in a part-time debut DeMeco Ryans planned. His route share vs NYG is the next step, and a second game under half the routes is what would change the call.",
+        "verdict": "WR43 rest of season for me. Hold him; do not sell after a 12-snap game.",
+        "action": "HOLD"
+      },
+      {
+        "player": "Corey Kiner",
+        "team": "NE",
+        "pos": "RB",
+        "stat": "11 carries for 57 in Week 6",
+        "why": "Corey Kiner (NE) out-gained Rhamondre Stevenson vs NYJ, 57 yards to 36 on 3 fewer carries, and took the late work after TreVeyon Henderson's fumble.",
+        "verdict": "Add him, 0 to 2 percent of FAAB, in deep leagues.",
+        "action": "ADD",
+        "faab": "0-2%"
+      }
+    ],
+    "fallers": [
+      {
+        "player": "Cam Skattebo",
+        "team": "NYG",
+        "pos": "RB",
+        "stat": "Snaps 56, then 6 with 0 touches",
+        "why": "Cam Skattebo (NYG) played 6 snaps vs NO after his fourth lost fumble, while Devin Singletary played 40 percent and Tyrone Tracy Jr. 38. John Harbaugh denied a benching and said someone needs to step up.",
+        "verdict": "A second game under 15 snaps makes him a drop. Monitor; the Giants' Wednesday practice report and the Week 7 depth chart.",
+        "action": "MONITOR",
+        "watch": "the Giants' Wednesday practice report and the Week 7 depth chart"
+      },
+      {
+        "player": "Alvin Kamara",
+        "team": "NO",
+        "pos": "RB",
+        "stat": "Snaps 12, then 19; sat the fourth quarter",
+        "why": "Alvin Kamara (NO) ran 7 times for 34 @NYG while Kendre Miller ran 20 times. Kamara's back has cost him snaps two weeks running.",
+        "verdict": "RB45 rest of season for me. Trade him away; ask for a bench WR with a weekly role.",
+        "action": "TRADE_AWAY",
+        "price": "a bench WR with a weekly role"
+      },
+      {
+        "player": "Ashton Jeanty",
+        "team": "LV",
+        "pos": "RB",
+        "stat": "Snap share 76% in Weeks 1 to 4, then 53% and 58%",
+        "why": "Ashton Jeanty (LV) ran 10 times for 22 vs BUF while Mike Washington Jr. took half of the early downs. His usage fell, but his price fell further, which is why Butcher Shop has him as a buy. Washington passing him in snaps is what would change the call.",
+        "verdict": "RB8 rest of season for me. Hold him.",
+        "action": "HOLD"
+      },
+      {
+        "player": "Tyler Allgeier",
+        "team": "ARI",
+        "pos": "RB",
+        "stat": "18 carries for 38 to Bam Knight's 15 for 80",
+        "why": "Tyler Allgeier (ARI) played 40 snaps @LAR and lost the red-zone work to Knight with Jeremiyah Love out. Love was set to run Tuesday.",
+        "verdict": "RB51 rest of season for me. Drop him for Knight or any add on the list.",
+        "action": "DROP"
+      },
+      {
+        "player": "MarShawn Lloyd",
+        "team": "GB",
+        "pos": "RB",
+        "stat": "8 carries for 10; Josh Jacobs back",
+        "why": "MarShawn Lloyd (GB) played 30 snaps to Pierre Strong Jr.'s 41 vs DAL, and Josh Jacobs is off the exempt list and expected to start @DET.",
+        "verdict": "RB41 rest of season for me. Drop him for any add on the list.",
+        "action": "DROP"
+      },
+      {
+        "player": "Tyjae Spears",
+        "team": "TEN",
+        "pos": "RB",
+        "stat": "Over half the snaps in Week 5, then 1 carry and 1 catch",
+        "why": "Tyjae Spears (TEN) touched the ball twice @IND while Tony Pollard ran a season-high 19 times for 76.",
+        "verdict": "RB55 rest of season for me. Drop him for any add on the list.",
+        "action": "DROP"
+      },
+      {
+        "player": "Darren Waller",
+        "team": "CAR",
+        "pos": "TE",
+        "stat": "Route rate 53% to 45%; 0 catches",
+        "why": "Darren Waller (CAR) caught 0 of 2 targets on 36 snaps @PHI, and Tommy Tremble ran more routes than him for the first time.",
+        "verdict": "TE28 rest of season for me. Drop him for Tremble or any tight end on the list.",
+        "action": "DROP"
+      },
+      {
+        "player": "Josh Downs",
+        "team": "IND",
+        "pos": "WR",
+        "stat": "4 catches for 40 on 8 targets",
+        "why": "Josh Downs (IND) drew 8 targets vs TEN while Keenan Allen drew 11, the third straight week Allen has had 9 or more.",
+        "verdict": "WR36 rest of season for me. Trade him away; ask for a bench RB.",
+        "action": "TRADE_AWAY",
+        "price": "a bench RB"
+      },
+      {
+        "player": "Rhamondre Stevenson",
+        "team": "NE",
+        "pos": "RB",
+        "stat": "Snap share 71% in Week 5, then 14 carries for 36",
+        "why": "Rhamondre Stevenson (NE) still led the backs with 41 snaps vs NYJ, but Corey Kiner ran 11 times for 57 and TreVeyon Henderson is back.",
+        "verdict": "RB24 rest of season for me. Trade him away; ask for a bench WR with a full-time role.",
+        "action": "TRADE_AWAY",
+        "price": "a bench WR with a full-time role"
+      },
+      {
+        "player": "Rome Odunze",
+        "team": "CHI",
+        "pos": "WR",
+        "stat": "4 targets with Caleb Williams back",
+        "why": "Rome Odunze (CHI) caught 3 of 4 for 39 @ATL while Luther Burden III and Colston Loveland drew 15 targets between them.",
+        "verdict": "WR31 rest of season for me. Monitor; his targets vs NE Thursday night.",
+        "action": "MONITOR",
+        "watch": "his targets vs NE Thursday night"
+      },
+      {
+        "player": "Bhayshul Tuten",
+        "team": "JAX",
+        "pos": "RB",
+        "stat": "22 of 24 back carries, then 44% of the rushes",
+        "why": "Bhayshul Tuten (JAX) ran 12 times for 39 vs HOU while Chris Rodriguez Jr. ran 11 for 55, and two receiving TDs covered it. Jacksonville is on bye in Week 7. Back over 60 percent of the rushes in Week 8 makes him a buy again; another near-even split makes him a sell.",
+        "verdict": "RB18 rest of season for me. Hold him through the bye.",
+        "action": "HOLD"
+      },
+      {
+        "player": "Brian Thomas Jr.",
+        "team": "JAX",
+        "pos": "WR",
+        "stat": "Benched for the second half; 0 catches two straight games",
+        "why": "Brian Thomas Jr. (JAX) played 15 snaps vs HOU, and Travis Hunter and Josh Cameron took his snaps.",
+        "verdict": "WR42 rest of season for me. Trade him away; ask for a bench receiver.",
+        "action": "TRADE_AWAY",
+        "price": "a bench receiver"
+      },
+      {
+        "player": "Omarion Hampton",
+        "team": "LAC",
+        "pos": "RB",
+        "stat": "Snap share 58%, 63%, 42%, 30%",
+        "why": "Omarion Hampton (LAC) ran 7 times for 18 @KC in a three-way split, though he led the backs in routes. The Chargers are 0-6 and the play-caller is in question during the bye.",
+        "verdict": "RB14 rest of season for me. Monitor; the Chargers' play-caller decision before Week 8.",
+        "action": "MONITOR",
+        "watch": "the Chargers' play-caller decision before Week 8"
+      },
+      {
+        "player": "Mike Evans",
+        "team": "SF",
+        "pos": "WR",
+        "stat": "Achilles tendinitis; 3 catches for 94 Monday",
+        "why": "Mike Evans (SF) left Monday night vs WAS with the Achilles and came back, and Kyle Shanahan called it tendinitis. San Francisco is bracing for him to miss @ATL, with the bye in Week 8.",
+        "verdict": "WR26 rest of season for me. Monitor; San Francisco's Wednesday practice report.",
+        "action": "MONITOR",
+        "watch": "San Francisco's Wednesday practice report"
+      },
+      {
+        "player": "Terry McLaurin",
+        "team": "WAS",
+        "pos": "WR",
+        "stat": "Carted off @SF in the first quarter",
+        "why": "Terry McLaurin (WAS) hurt his left knee on a route Monday night and left in an air cast. Washington is bracing for a season-ending injury and is on bye in Week 7.",
+        "verdict": "WR29 rest of season for me until the scan says otherwise. Monitor; Washington's MRI result this week.",
+        "action": "MONITOR",
+        "watch": "Washington's MRI result this week"
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w07-heat-thread-487b",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

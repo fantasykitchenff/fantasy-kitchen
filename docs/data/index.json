@@ -1,8 +1,26 @@
 {
   "season": 2026,
   "currentWeek": 7,
-  "updatedAt": "2026-10-20T16:10:16Z",
+  "updatedAt": "2026-10-20T16:59:42Z",
   "pieces": [
+    {
+      "series": "butcher",
+      "week": 7,
+      "path": "2026/week-07/butcher.json",
+      "title": "Butcher Shop, Week 7",
+      "dek": "Emeka Egbuka drew 16 targets for 48 yards with a backup throwing. That is the prime cut to buy before Baker Mayfield is back.",
+      "publishedAt": "2026-10-20T17:00:00Z",
+      "updatedAt": "2026-10-20T17:00:00Z"
+    },
+    {
+      "series": "heat",
+      "week": 7,
+      "path": "2026/week-07/heat.json",
+      "title": "Heat Check, Week 7",
+      "dek": "Kendre Miller took 20 carries and the most snaps in New Orleans. The stove's on in the Saints' backfield.",
+      "publishedAt": "2026-10-20T17:00:00Z",
+      "updatedAt": "2026-10-20T17:00:00Z"
+    },
     {
       "series": "notes",
       "week": 7,
