@@ -6,9 +6,9 @@
   "dek": "Kendre Miller took 20 carries and the most snaps in New Orleans. The stove's on in the Saints' backfield.",
   "format": "PPR",
   "publishedAt": "2026-10-20T17:00:00Z",
-  "updatedAt": "2026-10-20T18:50:00Z",
+  "updatedAt": "2026-10-20T22:15:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 2:50 PM ET: Josh Jacobs is eligible but Matt LaFleur would not commit to him for Week 7 at DET; MarShawn Lloyd is still a drop, with Pierre Strong Jr. ahead of him on 41 snaps to 30.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 7 lineup ranks come with Wednesday's Menu.",
+  "intro_md": "Updated Tue 6:15 PM ET: Terry McLaurin tore his patellar tendon and is out for the season, per Dan Quinn; drop him for any add.\n\nUpdated Tue 2:50 PM ET: Josh Jacobs is eligible but Matt LaFleur would not commit to him for Week 7 at DET; MarShawn Lloyd is still a drop, with Pierre Strong Jr. ahead of him on 41 snaps to 30.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 7 lineup ranks come with Wednesday's Menu.",
   "outro_md": "Butcher Shop turns these trends into trade offers, and the Menu ranks every one of them for Week 7 on Wednesday.",
   "data": {
     "risers": [
@@ -300,11 +300,10 @@
         "player": "Terry McLaurin",
         "team": "WAS",
         "pos": "WR",
-        "stat": "Carted off @SF in the first quarter",
-        "why": "Terry McLaurin (WAS) hurt his left knee on a route Monday night and left in an air cast. Washington is bracing for a season-ending injury and is on bye in Week 7.",
-        "verdict": "WR29 rest of season for me until the scan says otherwise. Monitor; Washington's MRI result this week.",
-        "action": "MONITOR",
-        "watch": "Washington's MRI result this week"
+        "stat": "Torn patellar tendon, out for the season",
+        "why": "Terry McLaurin (WAS) tore the patellar tendon in his left knee on a non-contact route at SF Monday night, and Dan Quinn said Tuesday he needs surgery and misses the rest of the season. He finishes with 230 yards and one TD.",
+        "verdict": "Drop him for any add on the list.",
+        "action": "DROP"
       }
     ]
   },

@@ -6,12 +6,51 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-20T18:50:00Z",
+  "updatedAt": "2026-10-20T22:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-20T22:15:00Z",
+        "player": "Terry McLaurin",
+        "team": "WAS",
+        "pos": "WR",
+        "action": "DROP",
+        "url": "https://www.espn.com/nfl/story/_/id/50230371/commanders-wr-terry-mclaurin-torn-patellar-tendon",
+        "text": "Tuesday's MRI showed a torn patellar tendon in the left knee of Terry McLaurin (WAS), and Dan Quinn said he needs surgery and misses the rest of the season. Stefon Diggs is the top receiver when Washington returns in Week 8, WR30 rest of season for me. Drop McLaurin for any add; hold Diggs."
+      },
+      {
+        "at": "2026-10-20T22:15:00Z",
+        "player": "TreVeyon Henderson",
+        "team": "NE",
+        "pos": "RB",
+        "action": "HOLD",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "why": "A second straight game with Corey Kiner taking the late carries makes him a sell.",
+        "text": "TreVeyon Henderson (NE) practiced in full Monday and Tuesday on the ankle before Thursday at CHI, but Corey Kiner closed out the Jets after Henderson's fumble. RB26 rest of season for me. Hold Henderson; a second straight game with Kiner taking the late carries makes him a sell."
+      },
+      {
+        "at": "2026-10-20T22:15:00Z",
+        "player": "A.J. Brown",
+        "team": "NE",
+        "pos": "WR",
+        "action": "HOLD",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "why": "Missing Wednesday's practice before the Thursday game changes it.",
+        "text": "A.J. Brown (NE) was limited Monday and Tuesday with the ankle but is not expected to miss Thursday at CHI. He ran a route on 97 percent of the dropbacks and drew 10 targets vs NYJ, and Romeo Doubs is on IR. WR24 rest of season for me; hold him through the drops."
+      },
+      {
+        "at": "2026-10-20T22:15:00Z",
+        "player": "Kyle Monangai",
+        "team": "CHI",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Chicago's Wednesday practice report",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "text": "Kyle Monangai (CHI) missed practice again Tuesday with the thumb and toe and is very unlikely to play Thursday vs NE, a third straight game out. RB29 rest of season for me. Monitor Chicago's Wednesday practice report. D'Andre Swift leads the backfield again, RB13 rest of season for me; hold him."
+      },
       {
         "at": "2026-10-20T18:50:00Z",
         "player": "Tank Dell",
@@ -102,16 +141,6 @@
         "watch": "San Francisco's Wednesday practice report",
         "url": "https://sports.yahoo.com/articles/49ers-officially-concerned-mike-evans-113115128.html",
         "text": "Mike Evans (SF) has Achilles tendinitis that flared up Monday night, and Kyle Shanahan said it is not a long-term problem. NBC Sports Bay Area reports the Achilles is intact but San Francisco is bracing for him to miss at ATL, with the bye in Week 8. He is WR26 rest of season for me. Monitor; San Francisco's Wednesday practice report."
-      },
-      {
-        "at": "2026-10-20T16:10:00Z",
-        "player": "Terry McLaurin",
-        "team": "WAS",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Washington's MRI result Tuesday",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-mclaurin-believed-to-have-season-ending-knee-injury",
-        "text": "Terry McLaurin (WAS) has his left knee scanned Tuesday after being carted off at SF, and Ian Rapoport reports Washington is bracing for a season-ending injury. Washington is on bye in Week 7, so nobody loses a lineup spot yet. Monitor; Washington's MRI result Tuesday, and a season-ending diagnosis makes him a drop."
       },
       {
         "at": "2026-10-20T16:10:00Z",

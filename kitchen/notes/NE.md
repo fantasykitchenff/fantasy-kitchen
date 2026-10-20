@@ -165,6 +165,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Romeo Doubs: 42-yard TD with 4:10 left in Q1, landed on his right shoulder on the catch and was ruled out early in Q3; no team diagnosis has been given. Vrabel was noncommittal for Thursday @CHI. Season: 14 catches, 261 yards, 3 TD. [pod 10-19, official]
 - 2026-10-19: Romeo Doubs: placed on IR with the right shoulder hurt on a 42-yard TD vs NYJ; out at least four games; led NE with 261 receiving yards (patriots.com, Boston Globe).
 - 2026-10-19: Romeo Doubs: on IR with the right shoulder, out at least four games; an outside "AC sprain, 2 to 5 weeks" read on air is not the team's diagnosis. [pod 10-20, official]
+- 2026-10-20: TreVeyon Henderson (ankle) full practice Mon and Tue; A.J. Brown (ankle) limited Mon and Tue, not expected to miss Thursday at CHI; Vrabel: Alijah Vera-Tucker (hamstring) and Ben Brown (knee) unlikely Thursday, Matt Pryor and Walter Rouse likely start (NBC Sports, Mike Reiss).
 
 ## Other
 

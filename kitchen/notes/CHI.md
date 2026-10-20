@@ -210,6 +210,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-17: Caleb Williams expected to start @ATL after three full practices with the hamstring, his first game since Week 2 (Schefter, Rapoport via Yahoo). CB Kyler Gordon activated from IR (calf).
 - 2026-10-18: Caleb Williams (hamstring) active and starting @ATL in Week 6, first game since Week 2; Case Keenum inactive, Kyle Monangai inactive (Yahoo Sports, NBC Sports).
 - 2026-10-19: Kyle Monangai: turf toe; missed Week 5 and Week 6 and is expected to miss a third straight game Thursday vs NE; no IR planned, Ben Johnson calls it week to week. [pod 10-19, beat]
+- 2026-10-20: Kyle Monangai (thumb, toe) DNP Mon and Tue, very unlikely Thursday vs NE; Jonah Jackson (hip, quad) DNP Mon, limited Tue, played 64.9% of snaps Week 6 (NBC Sports).
 
 ## Other
 

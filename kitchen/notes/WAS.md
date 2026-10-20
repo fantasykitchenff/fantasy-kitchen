@@ -191,6 +191,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: Stefon Diggs: no practice Thursday (hamstring), per Dan Quinn. [NFL.com Thursday roundup, team reports]
 - 2026-10-17: Saturday report for MNF @SF: Jacory Croskey-Merritt (groin), Marcus Mariota (knee), Charles Omenihu and Javontae Jean-Baptiste out; Stefon Diggs (hamstring) questionable; Terry McLaurin no designation after limited Thursday, rest Friday, limited Saturday (commanders.com, SI).
 - 2026-10-20: Terry McLaurin: carted off in the first quarter of the 23-17 MNF loss @SF with a non-contact left knee injury in an air cast; Dan Quinn said it could be significant; Rapoport reports it is feared serious and season-ending; MRI Tuesday. Treylon Burks (4 for 66) left with trainers, status unclear. WAS on bye Week 7 (ESPN, Yahoo Sports, NFL.com).
+- 2026-10-20: Terry McLaurin: MRI Tuesday showed a torn left patellar tendon (non-contact, Week 6 at SF); Dan Quinn said surgery, out for the season; 230 yards and 1 TD in 2026 (ESPN, Yahoo Sports).
 
 ## Other
 
