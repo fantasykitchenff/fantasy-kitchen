@@ -176,6 +176,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Baker Mayfield (right thumb) will not play Week 6 vs PIT; Jalon Daniels starts a third straight game (Yahoo Sports live updates, Bucs reporting).
 - 2026-10-18: Sean Tucker (quad) and Baker Mayfield (thumb) inactive vs PIT in Week 6; Bucky Irving and Kenny Gainwell the backs, practice-squad RB Josh Williams elevated (Yahoo Sports, Football Nation USA).
 - 2026-10-19: Baker Mayfield (right thumb): Todd Bowles said he is supposed to practice Wednesday; no Week 7 decision vs CAR, and Dave Canales said Carolina expects Mayfield but is preparing for Jalon Daniels. [pod 10-19, coach]
+- 2026-10-20: Baker Mayfield (right thumb): Greg Auman (Fox Sports) reports Todd Bowles is still planning for Jalon Daniels to start a fourth straight game @CAR; Mayfield is supposed to practice Wednesday (DraftKings Network injury report).
 
 ## Other
 

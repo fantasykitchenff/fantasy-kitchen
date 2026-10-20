@@ -239,3 +239,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Mike Evans (ribs) questionable for Week 4 vs DEN after three missed practices, side work only Friday; Nick Bosa (calf) out (49erswebzone, NBC Sports).
 - 2026-10-09: Mike Evans (ribs) limited Friday; reports conflict on whether he carries a questionable designation (Friday reports).
 - 2026-10-09: Mike Evans (ribs) not on the final Week 5 injury report, no designation, plays @SEA after LP Wed, rest day Thu; Nick Bosa out (CBS Sports, NBC Sports evening reports).
+- 2026-10-20: Mike Evans: Shanahan called it Achilles tendinitis that flared up Monday, not long-term, hopes he plays next week, else healed after the Week 8 bye; Jennifer Lee Chan (NBC Sports Bay Area) reports the Achilles is intact but SF is bracing for him to miss @ATL in Week 7 (Yahoo Sports, California Post).

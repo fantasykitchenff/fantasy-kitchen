@@ -1,0 +1,58 @@
+{
+  "series": "notes",
+  "season": 2026,
+  "week": 7,
+  "title": "Kitchen notes, Week 7",
+  "dek": "What moved today.",
+  "format": "PPR",
+  "publishedAt": "2026-10-20T16:10:00Z",
+  "updatedAt": "2026-10-20T16:10:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "items": [
+      {
+        "at": "2026-10-20T16:10:00Z",
+        "player": "Mike Evans",
+        "team": "SF",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "San Francisco's Wednesday practice report",
+        "url": "https://sports.yahoo.com/articles/49ers-officially-concerned-mike-evans-113115128.html",
+        "text": "Mike Evans (SF) has Achilles tendinitis that flared up Monday night, and Kyle Shanahan said it is not a long-term problem. NBC Sports Bay Area reports the Achilles is intact but San Francisco is bracing for him to miss @ATL, with the bye in Week 8. He is WR26 rest of season for me. Monitor; San Francisco's Wednesday practice report."
+      },
+      {
+        "at": "2026-10-20T16:10:00Z",
+        "player": "Terry McLaurin",
+        "team": "WAS",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Washington's MRI result Tuesday",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/terry-mclaurin-believed-to-have-season-ending-knee-injury",
+        "text": "Terry McLaurin (WAS) has his left knee scanned Tuesday after being carted off @SF, and Ian Rapoport reports Washington is bracing for a season-ending injury. Washington is on bye in Week 7, so nobody loses a lineup spot yet. Monitor; Washington's MRI result Tuesday, and a season-ending diagnosis makes him a drop."
+      },
+      {
+        "at": "2026-10-20T16:10:00Z",
+        "player": "Baker Mayfield",
+        "team": "TB",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Tampa Bay's Wednesday practice report",
+        "url": "https://dknetwork.draftkings.com/2026/10/20/nfl-injury-report-week-7/",
+        "text": "Baker Mayfield (TB) is set to practice Wednesday on the dislocated right thumb, but Fox Sports' Greg Auman reports Todd Bowles is still planning for Jalon Daniels to make a fourth straight start @CAR. Mayfield is QB24 rest of season for me. Monitor; Tampa Bay's Wednesday practice report."
+      },
+      {
+        "at": "2026-10-20T16:10:00Z",
+        "player": "Jeremiyah Love",
+        "team": "ARI",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Arizona's Wednesday practice report",
+        "url": "https://dknetwork.draftkings.com/2026/10/20/nfl-injury-report-week-7/",
+        "text": "Jeremiyah Love (ARI) was expected to do some running Tuesday on the ankle, per Mike LaFleur, after missing Week 6 @LAR, where Bam Knight ran 15 times for 80. Love is RB15 rest of season for me. Monitor; Arizona's Wednesday practice report before @DEN."
+      }
+    ]
+  },
+  "posts": []
+}
