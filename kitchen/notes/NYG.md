@@ -175,6 +175,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Odell Beckham Jr. released after 19 snaps, one target and no catches in three games; Braxton Berrios signed to the active roster off the practice squad (NFL Network, ESPN).
 - 2026-09-29: J.J. McCarthy acquired from MIN for a 2027 fifth-round pick after Jaxson Dart (knee) went on IR for the season; Odell Beckham Jr. released, Braxton Berrios signed to the active roster (reports).
 - 2026-09-28: J.J. McCarthy: Acquired from MIN for a 2027 fifth-round pick, pending a physical; Jake Haener was waived the same day, two days after being signed from the practice squad. [pod 9-29, official]
+- 2026-10-20: Najee Harris released after 31 carries for 99 yards (3.2 per carry) in five games; the backs left are Cam Skattebo, Tyrone Tracy Jr. and Devin Singletary, with Phil Mafah on the practice squad. LB Jihad Ward also released (ESPN, Yahoo Sports).
 
 ## Injuries and status
 
