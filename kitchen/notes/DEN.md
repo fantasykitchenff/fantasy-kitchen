@@ -42,6 +42,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Bo Nix 16 of 27 for 123 and a TD; under 15 fantasy points in four of five games. Week 6 is Thursday night vs SEA. [pod 10-13, deployment]
 - 2026-10-11: Bo Nix 16 of 27 for 123 @LAC, Denver 3.9 yards per play; his best rushing game this season is 10 yards. [pod 10-14, deployment]
 - 2026-10-19: Bo Nix: Sean Payton said "no" to a QB change Monday; 6 TDs, 3 INTs, career-low 60.3% completions through Week 6 (Yahoo Sports, ESPN).
+- 2026-10-18: Bo Nix 17 of 27 for 107 in the OT win @SEA; J.K. Dobbins 17 for 41 and a TD; RJ Harvey 6 for 25 with a Wildcat TD and 3 catches for 31. [pod 10-20, deployment]
 
 ## Backfield
 

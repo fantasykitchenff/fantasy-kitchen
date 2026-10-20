@@ -51,6 +51,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Caleb Williams (hamstring) was a full participant on Wednesday's estimated report; Ben Johnson called his status still fluid. Tyson Bagent started Week 5 and Case Keenum relieved him. [pod 10-14, official]
 - 2026-10-16: Caleb Williams (hamstring) questionable Week 6 @ATL after three full practices; he said he did not know yet if he would play and still needs a stress test. Kyle Monangai out. [CBS, Yahoo Sports, NFL.com]
 - 2026-10-19: Caleb Williams back from the hamstring in Week 6 @ATL: 30 of 36 for 305, 1 TD, 0 INT, first 12 passes complete (CBS box score, NFL.com).
+- 2026-10-18: Caleb Williams was 24 of 24 from a clean pocket, the most clean-pocket attempts without an incompletion in a game since 2018 (Next Gen Stats). [pod 10-20, deployment]
 
 ## Backfield
 
@@ -81,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: D'Andre Swift: 40 of the first 56 snaps @GB with Monangai inactive, 9 carries for 43 and a TD, 4 catches for 30; Roschon Johnson took the last 13 snaps (PFF recap, CBS box).
 - 2026-10-19: Week 6 @ATL: D'Andre Swift 16 for 44 and 2 TDs; Roschon Johnson 13 for 51 and a TD, lost a late fumble (CBS box score).
 - 2026-10-18: D'Andre Swift: 16 carries for 44 and 2 TDs (4 and 2 yards, both third-and-goal), 4 of 5 targets for 26 @ATL; Roschon Johnson 13 for 51 and a 4-yd TD, 2 for 34, lost a Q4 fumble; Swift was the lead back until Johnson took more work late. [pod 10-19, official]
+- 2026-10-18: Roschon Johnson ran 13 for 51 and a TD, 8 of the carries in the fourth quarter, and lost a fourth-quarter fumble. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -154,6 +156,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Colston Loveland 2 of 5 for 19 at GB (6 of 9 for 57 in Week 4). He had no catches in Week 1, when Chicago scored 59 with Williams. [pod 10-13, deployment]
 - 2026-10-19: Colston Loveland: 6 of 7 for 65 and a TD in Week 6 @ATL (CBS box score).
 - 2026-10-18: Colston Loveland: 6 of 7 for 65 and a 14-yd TD from Caleb Williams on the opening drive @ATL. [pod 10-19, official]
+- 2026-10-18: Colston Loveland ran 33 routes (78 percent) with 7 targets and 3 red-zone targets. [pod 10-20, deployment]
 
 ## Offensive line
 

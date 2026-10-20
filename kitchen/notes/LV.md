@@ -141,6 +141,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Brock Bowers (knee) limited Wednesday, full Thursday; Ashton Jeanty (foot) full both days; Jalen Nailor (concussion) DNP then limited. Friday designations not posted by 5:30 PM ET. [raiders.com]
 - 2026-10-16: Friday report vs BUF: Ashton Jeanty (foot) full all three days and Brock Bowers (knee) full Thursday and Friday, neither designated; Jalen Nailor (concussion) full Friday, no designation; Carter Runyon and Dont'e Thornton Jr. out. [raiders.com, nfl.com]
 - 2026-10-18: Michael Mayer: 7 for 95 on 9 targets vs BUF, a career high in yards, after 8 for 82 on 10 in Week 4. [pod 10-19, deployment]
+- 2026-10-18: Michael Mayer 7 for 95 on 9 targets on 68 percent of the routes; Brock Bowers 4 for 70 on 9; Ashton Jeanty ran a route on 44 percent of dropbacks to Mike Washington Jr.'s 27. [pod 10-20, deployment]
 
 ## Offensive line
 

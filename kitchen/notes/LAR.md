@@ -52,6 +52,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-06: Kyren Williams: 21 catches on 25 targets in four games (11 of 12 through Week 3, 10 of 13 in Week 4) (season totals from weekly reports).
 - 2026-10-19: Kyren Williams: season-low 13 touches (10 for 50, 3 for 17) in Week 6 vs ARI; Blake Corum 9 for 42 and a 15-yard TD catch, his second straight game with a TD (team box score, Rotowire).
 - 2026-10-18: Kyren Williams: 72% of snaps to Blake Corum's 28% vs ARI; 10 of the 19 RB carries (10 for 50) plus 3 of 6 targets for 17, a season-low 13 touches; Corum 9 for 42 and a receiving TD, second straight game with a score. [pod 10-19, official]
+- 2026-10-18: Kyren Williams: 40 snaps to Blake Corum's 16 and 10 of the 19 back carries in the 18-16 loss to ARI; afterward he said the losses come because he is not on the field enough. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -81,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Konata Mumpfield: 4 of 8 for 93 and a 48-yard touchdown, 60 snaps (73%), second among Rams receivers in targets behind Davante Adams (13 targets, 7 for 137, 83% snaps). [pod 9-29, deployment]
 - 2026-09-27: Davante Adams: Without Nacua as a Ram: 5 for 35 and 3 TD (2025 Week 7 vs JAX), 8 of 10 for 195 and 2 TD (Week 2 vs NYG), 7 of 13 for 137 (Week 3 @DEN, 71 snaps, 57 routes). [pod 9-29, deployment]
 - 2026-10-12: Puka Nacua 17 catches on 24 targets for 138 and a TD, plus 2 carries for 9, in the 37-34 overtime loss to BUF. [pod 10-14, deployment]
+- 2026-10-18: Konata Mumpfield ran a route on 53 percent of dropbacks as the WR3, Jordan Whittington 11 percent; Tyler Higbee 83 percent, Colby Parkinson 53 percent. [pod 10-20, deployment]
 
 ## Tight ends
 
@@ -142,6 +144,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Davante Adams: non-contact LEFT knee injury on a late Q4 route vs ARI, limped off and did not return; no diagnosis or MRI result reported as of Monday 10-19 (McVay update expected Monday). [pod 10-19, official]
 - 2026-10-19: Davante Adams: ruptured hamstring late in Week 6 @ARI (first reported as the knee); Sean McVay said he will miss 6 to 10 weeks (NBC Sports, Yahoo Sports).
 - 2026-10-19: Blake Grupe (K): placed on IR with the knee hurt on a Week 6 kickoff tackle; Harrison Mevis a candidate to return (Yahoo Sports).
+- 2026-10-19: Davante Adams: injury is a ruptured hamstring, not the knee first reported; Sean McVay said he will miss 6 to 10 weeks. Several Monday recaps recorded before the news still call it a knee. [pod 10-20, coach]
 
 ## Depth chart
 

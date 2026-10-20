@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 7,
-  "updatedAt": "2026-10-20T18:30:38Z",
+  "updatedAt": "2026-10-20T18:48:27Z",
   "pieces": [
+    {
+      "series": "heat",
+      "week": 7,
+      "path": "2026/week-07/heat.json",
+      "title": "Heat Check, Week 7",
+      "dek": "Kendre Miller took 20 carries and the most snaps in New Orleans. The stove's on in the Saints' backfield.",
+      "publishedAt": "2026-10-20T17:00:00Z",
+      "updatedAt": "2026-10-20T18:50:00Z"
+    },
     {
       "series": "market",
       "week": 7,
@@ -10,7 +19,7 @@
       "title": "Market Run, Week 7",
       "dek": "Kendre Miller has the New Orleans backfield while Alvin Kamara's back heals, and he is the first claim of the week.",
       "publishedAt": "2026-10-20T14:21:00Z",
-      "updatedAt": "2026-10-20T18:30:00Z"
+      "updatedAt": "2026-10-20T18:50:00Z"
     },
     {
       "series": "notes",
@@ -19,7 +28,7 @@
       "title": "Kitchen notes, Week 7",
       "dek": "What moved today.",
       "publishedAt": "2026-10-20T16:10:00Z",
-      "updatedAt": "2026-10-20T18:30:00Z"
+      "updatedAt": "2026-10-20T18:50:00Z"
     },
     {
       "series": "butcher",
@@ -27,15 +36,6 @@
       "path": "2026/week-07/butcher.json",
       "title": "Butcher Shop, Week 7",
       "dek": "Emeka Egbuka drew 16 targets for 48 yards with a backup throwing. That is the prime cut to buy before Baker Mayfield is back.",
-      "publishedAt": "2026-10-20T17:00:00Z",
-      "updatedAt": "2026-10-20T17:00:00Z"
-    },
-    {
-      "series": "heat",
-      "week": 7,
-      "path": "2026/week-07/heat.json",
-      "title": "Heat Check, Week 7",
-      "dek": "Kendre Miller took 20 carries and the most snaps in New Orleans. The stove's on in the Saints' backfield.",
       "publishedAt": "2026-10-20T17:00:00Z",
       "updatedAt": "2026-10-20T17:00:00Z"
     },

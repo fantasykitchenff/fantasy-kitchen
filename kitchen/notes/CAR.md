@@ -65,6 +65,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Chuba Hubbard: 19 carries for 82 yards and 4 catches on 4 targets for 28 on 65 of 77 snaps (84%) with 31 routes; AJ Dillon had 4 carries and 12 snaps. Snap shares by week: 71%, 65%, 84%. [pod 9-29, deployment]
 - 2026-10-16: AJ Dillon (ankle) out Week 6 @PHI; Trevor Etienne (ankle) questionable; RT Monroe Freeling (knee) doubtful. [panthers.com, NFL.com]
 - 2026-10-19: Chuba Hubbard: 28 carries for 120 and a TD in Week 6 @PHI, including a 19-yard run on 4th-and-1; no other CAR back had more than 1 carry (CBS box score).
+- 2026-10-18: Chuba Hubbard played 93 percent of the snaps, 28 for 120 and a TD @PHI; Tommy Tremble ran 21 routes to Darren Waller's 19. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -169,3 +170,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-29: Carolina's bye is Week 5, directly after the DET game. [pod 9-30, official]
 - 2026-10-01: DET at CAR is Sunday Night Football on Oct 4; the local forecast has steady rain Saturday night into Sunday, tapering by Sunday evening. [pod 9-30, official]
 - 2026-10-01: Detroit at Carolina is the Week 4 Sunday night game. [pod 10-1, aggregation]
+
+## Coaching and play-calling
+
+- 2026-02-24: Offensive coordinator Brad Idzik calls the offensive plays; Dave Canales handed them over before the season. [pod 10-20, official]

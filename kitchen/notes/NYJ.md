@@ -58,6 +58,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Breece Hall (quad) ruled out Week 6 @NE; Adonai Mitchell (finger) out; Kenyon Sadiq (concussion) and Omar Cooper Jr. (ankle, full Friday) questionable. [NFL.com, CBS]
 - 2026-10-19: Braelon Allen: 17 carries for 78 and 2 catches for 26 in Week 6 @NE with Breece Hall out (CBS box score).
 - 2026-10-18: Braelon Allen: 17 for 78 and 2 catches for 26 @NE on 54 snaps (87%), Isaiah Davis 8 snaps, Breece Hall out a third game (quad); Allen is 74 for 314 (4.2) on the season. [pod 10-19, deployment]
+- 2026-10-18: Braelon Allen played 87 percent of the snaps (17 for 78); Mason Taylor ran 70 percent of the routes to Kenyon Sadiq's 36. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -96,6 +97,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Tim Patrick was activated from IR before Week 5 (not re-signed). Omar Cooper Jr. is eligible to return from IR Oct 18. [pod 10-13, official]
 - 2026-10-11: Garrett Wilson: 30.0% target share through Week 5, 37.9% in Week 5. [pod 10-14, deployment]
 - 2026-10-20: Omar Cooper Jr. 5% rostered Tuesday (Yahoo waiver column).
+- 2026-10-18: Omar Cooper Jr. played 51 of 62 snaps (82 percent) and ran 28 of 33 routes with a team-high 24 percent of the targets in his first game off IR. [pod 10-20, deployment]
 
 ## Tight ends
 

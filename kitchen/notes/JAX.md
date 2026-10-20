@@ -90,6 +90,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Week 6 vs HOU: Bhayshul Tuten 12 for 39, 4 for 48 and 2 receiving TDs; Chris Rodriguez Jr. 11 for 55 (CBS box score).
 - 2026-10-18: Bhayshul Tuten: 12 for 39 and 4 for 48 with 2 receiving TDs, plus a 3-yard rushing TD wiped out by a Brenton Strange hold; Chris Rodriguez Jr. 11 for 55. Tuten played 19 of 24 second-half snaps, Rodriguez 2. [pod 10-19, deployment]
 - 2026-10-18: Bhayshul Tuten had 44 percent of Jacksonville's rushes vs HOU (12 of 27) after 22 of 24 back carries in Week 5; Chris Rodriguez Jr. ran 11 times for 55. [pod 10-19, deployment]
+- 2026-10-18: Bhayshul Tuten played 57 percent of the snaps and ran a season-high 63 percent of the routes; half of his targets were screens. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -151,6 +152,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Week 6 vs HOU: Parker Washington 11 targets, 4 for 64; Jakobi Meyers 10 targets, 5 for 83 (CBS box score).
 - 2026-10-18: Travis Hunter: 4 of 4 for 59 and his first NFL TD (7 yards) on 9 offensive snaps (5 first half, 4 second), plus 62 defensive snaps and an end-zone INT; first player since 2002 with a TD catch and an INT in one game. [pod 10-19, deployment]
 - 2026-10-19: Brian Thomas Jr.: Liam Coen called his status week to week after the second-half benching vs HOU (0 catches on 2 targets, both off his hands). [pod 10-19, beat]
+- 2026-10-18: Brian Thomas Jr. ran 13 of 44 routes and none after halftime; Josh Cameron took most of his routes (42 percent); Travis Hunter ran about 16 to 20 percent. [pod 10-20, deployment]
 
 ## Tight ends
 

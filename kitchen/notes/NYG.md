@@ -48,6 +48,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Jameis Winston benched after his second INT in Week 6 vs NO (14 of 26, 152, 1 TD, 2 INT); J.J. McCarthy 11 of 21 for 243, 1 TD, 1 INT in the last 11 minutes; no starter named for Week 7 (team box score, AP).
 - 2026-10-18: J.J. McCarthy: replaced Jameis Winston early in the 4th quarter trailing 34-10 vs NO; 11 of 21 for 243, 1 TD, 1 INT, 2 runs for 26; his 271 total yards are the second-most by a QB in a 4th quarter since at least 1991, and 243 ties Eli Manning's 2012 mark for a Giants QB; John Harbaugh did not name a Week 7 starter at HOU and said he has no problem with Winston. [pod 10-19, coach]
 - 2026-10-19: J.J. McCarthy: his 243 fourth-quarter passing yards vs NO were the third-most by any QB since 2020, not a record; he entered with 11:31 left, down 34-10. Corrects the 'second-most since 1991' line above. [pod 10-19, deployment]
+- 2026-10-19: John Harbaugh still had not named a Week 7 starter at HOU on Monday and said the staff is working through it. [pod 10-20, coach]
 
 ## Backfield
 
@@ -91,6 +92,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Cam Skattebo: 6 snaps, 0 carries in Week 6 vs NO after his fourth lost fumble; Harbaugh said he was not benched; Najee Harris started (4 for 2), Tyrone Tracy Jr. 6 for 18 and a TD plus a 17-yard TD catch (Yahoo Sports, team box score).
 - 2026-10-18: Cam Skattebo: 6 snaps and no touches vs NO, the first active game of his career without one, a week after his fourth lost fumble; he said 'I got punished for what I did (last week)'; Harbaugh said it was 'not by design', denied a benching, said no runs were called while Skattebo was in and that someone 'needs to step up and be the back'; Tyrone Tracy Jr. 6 for 18 and a TD plus 2 for 27 and a TD, Najee Harris 4 for 2, Devin Singletary 4 for 14 and 1 for 19. [pod 10-19, coach]
 - 2026-10-20: Week 6 vs NO snap shares: Devin Singletary 40%, Tyrone Tracy Jr. 38%, Cam Skattebo 6 snaps; Tracy 4% rostered Tuesday (Yahoo waiver column).
+- 2026-10-18: Snap shares vs NO: Devin Singletary 40 percent, Tyrone Tracy Jr. 36 to 38 percent, Cam Skattebo 8 percent (6 snaps, 0 touches); J.J. McCarthy led the team with 26 rushing yards. [pod 10-20, deployment]
 
 ## Receivers
 

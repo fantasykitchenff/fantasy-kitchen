@@ -113,6 +113,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs WAS (London): Josh Downs 3 of 4 for 16 with Pierce and Keenan Allen out; Tyler Warren 5 of 5 for 41; Jonathan Taylor 20 for 95 and 2 TD (NBC, CBS).
 - 2026-10-11: Josh Downs catches by week 7, 5, 3, 3 in Weeks 2 to 5 (3 of 6 for 47 in Week 5). [pod 10-13, deployment]
 - 2026-10-18: Keenan Allen: 8 for 82 on a team-high 11 targets vs TEN, after 9 targets in each of Weeks 4 and 5; Josh Downs 4 for 40 on 8 targets. Will Mallory 6 targets, Ladell Treadwell 5. [pod 10-19, deployment]
+- 2026-10-18: Keenan Allen 8 for 82 on 11 targets; Josh Downs 8 targets on 90 percent of the routes; Jonathan Taylor 21 for 94 and a TD plus 2 catches for 57. [pod 10-20, deployment]
 
 ## Tight ends
 

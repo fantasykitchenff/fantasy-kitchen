@@ -72,6 +72,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: RB touches vs CHI: MarShawn Lloyd 11 (10-31-2), Pierre Strong 8, Kaleb Johnson 7 (garbage time); Lloyd 26 snaps, Strong 24. [pod 10-13, deployment]
 - 2026-10-11: MarShawn Lloyd 10 carries for 31 and 2 TDs vs CHI; Chris Brooks to IR (ankle) 10/10. Josh Jacobs is on the Commissioner's Exempt List, not injured. [pod 10-14, deployment]
 - 2026-10-19: Week 6 vs DAL: Pierre Strong Jr. 41 snaps (56%), 11 for 28, 5 of 6 for 39; MarShawn Lloyd 30 snaps, 8 for 10; Josh Jacobs expected off the commissioner exempt list Monday Oct 19 (Acme Packing Company snaps, Boston Globe, NBC Sports).
+- 2026-10-19: Matt LaFleur would not commit to Josh Jacobs playing Week 7 @DET, though Jacobs is off the exempt list and eligible. [pod 10-20, coach]
+- 2026-10-18: MarShawn Lloyd went to the medical tent and returned, 8 carries for 10; Pierre Strong Jr. ran 11 for 28 and caught 5 of 6 for 40. [pod 10-20, deployment]
 
 ## Receivers
 

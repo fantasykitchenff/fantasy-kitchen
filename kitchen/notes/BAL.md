@@ -40,6 +40,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Lamar Jackson (ankle) ruled out Week 6 @CLE, DNP all week; Tyler Huntley starts. Jesse Minter: 'just a decision for his best interest.' Zay Flowers (toe) and Rashod Bateman (shoulder) have no designation; Ja'Kobi Lane (wrist) questionable. [NFL.com, Yahoo Sports]
 - 2026-10-19: Tyler Huntley started Week 6 @CLE (10-13 L): 19 of 31 for 165 and a TD; Lamar Jackson targeting Week 7 vs CIN (CBS box score, NBC Sports).
 - 2026-10-19: Lamar Jackson (left ankle) missed Week 6, his second straight; Jesse Minter on Monday kept him "day-to-day" and said he could "potentially" practice Wednesday before CIN. Tyler Huntley went 19 of 31 for 165 and a TD with 5 carries for 28 in the 13-10 loss @CLE. [pod 10-19, coach]
+- 2026-10-19: Jesse Minter called Lamar Jackson day to day and said he could potentially practice this week; he is optimistic Rashod Bateman (shoulder) will be fine. [pod 10-20, coach]
 
 ## Backfield
 
@@ -96,6 +97,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Zay Flowers: 15 routes on 21 of 64 snaps vs DAL, 5 of 6 for 84. Season: 234 yards on 26 routes, 9.0 yards per route, a 48% target rate per route and 19.5 yards per target, all league highs among players with 25 or more routes (Baltimore Banner, 9/30). [pod 9-29, deployment]
 - 2026-09-27: Rashod Bateman: 56 of 64 snaps (88%) vs DAL; Chris Moore 35, Devontez Walker 17, LaJohntay Wester 11. [pod 9-29, deployment]
 - 2026-10-19: Week 6 @CLE: Ja'Kobi Lane active off IR, 5 targets, 4 for 40; Rashod Bateman left in Q2 with a shoulder injury; Zay Flowers 11 targets, 6 for 66 (CBS box score, NBC Sports).
+- 2026-10-18: Ja'Kobi Lane, back from IR, caught 4 of 5 targets for 40 on 58 percent of the routes; rookie TE Josh Cuevas scored a 2-yard TD with Matthew Hibner out. [pod 10-20, deployment]
 
 ## Tight ends
 

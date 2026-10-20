@@ -76,6 +76,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: Zach Charbonnet will not be activated for Thursday @DEN; Week 7 vs KC is the next chance. Jadarian Price on IR since 10/3 (chest), eligible Week 8. [pod 10-14, coach]
 - 2026-10-15: Week 6 @DEN (lost 17-14 OT): George Holani 56% snaps, 27 routes, 5-20-1; Emanuel Wilson 33% snaps, 9 routes, 14-52; Velus Jones Jr. 11% snaps, 4-20 (Rotowire usage).
 - 2026-10-19: Week 6 @DEN (14-17 OT L): George Holani 49 snaps (58%), 5 for 20 and a TD; Emanuel Wilson 27 snaps (32%), 14 for 52 (LeagueLogs, team box score).
+- 2026-10-19: Mike Macdonald said there is a good chance Zach Charbonnet plays Week 7 vs KC. [pod 10-20, coach]
+- 2026-10-18: George Holani out-snapped Emanuel Wilson 46 to 27 and scored; Wilson ran 14 times for 52. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -105,6 +107,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jaxon Smith-Njigba has 120-plus yards and a TD in each of Weeks 1 to 3 (122, 155, 128). [pod 10-2, deployment]
 - 2026-10-15: Week 6 @DEN: Jaxon Smith-Njigba 12-134 on 16 targets (35% share), 88% routes; Cooper Kupp 5-50 on 10; Rashid Shaheed 5-66 on 8; Darnold 27 of 51 for 278, 2 INT (Rotowire, PFR).
 - 2026-10-19: Jaxon Smith-Njigba: 92% snaps, 16 targets, 12 for 134 in Week 6 @DEN (LeagueLogs, team box score).
+- 2026-10-18: Jaxon Smith-Njigba caught 12 of 16 targets for 134 in the OT loss to DEN; Cooper Kupp drew 10 targets for 50 yards; Sam Darnold threw 51 times with two late INTs. [pod 10-20, deployment]
 
 ## Tight ends
 

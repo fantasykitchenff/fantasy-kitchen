@@ -106,6 +106,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Dalton Kincaid: 2 catches for 38 on 3 targets with a lost fumble vs LAC. [pod 10-2, deployment]
 - 2026-10-05: Dalton Kincaid: Buffalo beat coverage after the NE loss put the onus on Joe Brady to get him more involved (Buffalo News). [pod 10-5, beat]
 - 2026-10-18: Dalton Kincaid: team-high 8 targets, 7 catches for 38 @LV; left with a rib injury and returned in Q4. [pod 10-19, deployment]
+- 2026-10-18: Dalton Kincaid drew 8 targets on 61 percent of the routes and returned after a rib hit; Keon Coleman ran 33 routes with 6 targets and a TD. [pod 10-20, deployment]
 
 ## Offensive line
 

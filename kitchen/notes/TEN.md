@@ -61,6 +61,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Tyjae Spears (knee) questionable Week 6 @IND after DNP Thursday and full Friday. [CBS, NFL.com]
 - 2026-10-19: Tony Pollard: season-high 19 carries for 76 in Week 6 @IND; Tyjae Spears 1 carry (team box score).
 - 2026-10-18: Tony Pollard: carries 17, 16, 14 and 19 in Weeks 3 to 6 with 1 rushing TD (Week 4); Week 6 19 for 76 on 1 target, Tyjae Spears 1 carry and 1 catch. [pod 10-19, deployment]
+- 2026-10-18: Tony Pollard played 76.1 percent of the snaps with 19 carries; Tyjae Spears had 1 carry, reversing Week 5. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -92,6 +93,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Carnell Tate caught 1 pass for 6 yards on 5 targets in Week 5 vs HOU and played through the back injury (box score).
 - 2026-10-19: Carnell Tate: 7 targets, 6 for 70 and his first career TD in Week 6 @IND (26-20 W) (team box score).
 - 2026-10-18: Carnell Tate: 6 for 70 and his first NFL TD on a team-high-tying 7 targets, 70 of Cam Ward's 102 passing yards. [pod 10-19, deployment]
+- 2026-10-18: Carnell Tate ran 96 percent of the routes and had 70 of Cam Ward's 102 passing yards. [pod 10-20, deployment]
 
 ## Tight ends
 

@@ -43,6 +43,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Tyler Shough hurt his left hand in the Monday night loss to ATL; no severity reported Tuesday (Yahoo, Heavy). [pod 10-6, beat]
 - 2026-10-12: Kellen Moore would not say whether Tyler Shough's non-throwing left hand is broken (it got banged two weeks ago; he plays in protective layers). [pod 10-13, coach]
 - 2026-10-19: Tyler Shough: 16 of 30 for 144, 3 TD, 0 INT, 5 rushes for 32 and a TD in Week 6 @NYG (team box score).
+- 2026-10-18: Tyler Shough threw 3 TD passes on 144 yards and added a sneak TD in the win @NYG. [pod 10-20, deployment]
 
 ## Backfield
 
@@ -83,6 +84,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Alvin Kamara (back) had 5 touches on 12 snaps vs MIN; CJ Donaldson played 18 snaps; Kendre Miller had all 4 of New Orleans' red-zone carries (Yahoo Sports). [pod 10-13, deployment]
 - 2026-10-19: Kendre Miller: 20 carries for 70 and 32 snaps, most of the Saints backs, in Week 6 @NYG (34-27 W); Alvin Kamara 19 snaps, 7 for 34, 31-yard TD catch, left in Q2 with the back and sat the 4th quarter; CJ Donaldson 24 snaps on third downs (team box score, DraftSharks).
 - 2026-10-20: Kendre Miller 34% rostered Tuesday; Travis Etienne Jr. on IR until after Week 8 (Yahoo waiver column).
+- 2026-10-18: Kendre Miller 20 carries for 70 (57 percent of the rushes) with Travis Etienne Jr. on IR; Alvin Kamara 7 for 34 plus a 31-yard receiving TD; CJ Donaldson scored at the goal line; back snaps 46, 32 and 27. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -134,6 +136,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Juwan Johnson: TE3 in fantasy points through three weeks in one major site's scoring; Week 3 was 8 catches on 8 targets for 53 and 2 TD. [pod 10-1, aggregation]
 - 2026-10-06: Week 4 vs ATL: Juwan Johnson 6 for 59 with Noah Fant inactive (Bleacher Report).
 - 2026-10-19: Juwan Johnson: 0 catches on 2 targets in Week 6 @NYG (team box score).
+- 2026-10-18: Juwan Johnson 0 catches on 2 targets on 17 of 32 routes @NYG. [pod 10-20, deployment]
 
 ## Offensive line
 

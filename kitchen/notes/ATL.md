@@ -87,6 +87,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2025-11-16: Drake London: In nine 2025 games with Penix: 94 targets (10.4 a game), 60 catches, 810 yards (90.0 a game), 6 TD. Weeks 4 to 11 (six games): 651 yards (108.5 a game), touchdowns in four of the six. [pod 9-30, deployment]
 - 2026-10-06: Week 4 @NO: Michael Penix Jr. 15 of 20 for 223 and a TD; Drake London 5 for 96; Jahan Dotson 2 for 54 and a 31-yard TD (Bleacher Report, Yahoo).
 - 2026-10-11: Drake London 7 of 11 for 118; he has 194, 96 and 118 yards in Penix's three starts (136 a game). [pod 10-13, deployment]
+- 2026-10-18: Drake London drew 10 targets and caught 4 for 62, still without a TD this season; Jahan Dotson caught 3 for 87 and a TD; Michael Penix Jr. threw 3 TDs and no INTs. [pod 10-20, deployment]
 
 ## Tight ends
 

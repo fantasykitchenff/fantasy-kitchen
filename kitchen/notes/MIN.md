@@ -92,6 +92,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Aaron Jones Sr.: 78% of the team's rush attempts in the two games without Mason and a 24% target share in Week 3; working through a knee issue (reports).
 - 2026-10-11: Aaron Jones Sr.: 87% snaps, a season high, 25 carries for 113 and a TD @NO (PFF recap, saints box).
 - 2026-10-11: Aaron Jones Sr. 25 carries for 113 and a TD plus 3 catches for 28 @NO. Jordan Mason (thumb) has been on IR since 9/16 and is expected back in Week 7 after the bye. [pod 10-14, deployment]
+- 2026-10-19: Jordan Mason was designated to return from IR, opening his practice window before Week 7 vs IND. [pod 10-20, official]
 
 ## Receivers
 

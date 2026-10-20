@@ -6,12 +6,74 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-20T18:30:00Z",
+  "updatedAt": "2026-10-20T18:50:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-20T18:50:00Z",
+        "player": "Tank Dell",
+        "team": "HOU",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "his route share vs NYG Sunday",
+        "text": "Houston plans to activate Tank Dell (HOU) off IR for Week 7 vs NYG, his first game since the 2024 knee injury. He plays the slot, so Jaylin Noel and the depth receivers lose snaps first. Monitor his route share vs NYG Sunday before you add him."
+      },
+      {
+        "at": "2026-10-20T18:50:00Z",
+        "player": "Jaylin Noel",
+        "team": "HOU",
+        "pos": "WR",
+        "action": "ADD",
+        "faab": "1-3%",
+        "text": "Jaylin Noel (HOU) caught 4 for 107 and a TD on 4 targets at JAX on 63 percent of the routes, but Tank Dell returns to share the slot vs NYG. Add him in deep leagues, 1 to 3 percent of FAAB and no more."
+      },
+      {
+        "at": "2026-10-20T18:50:00Z",
+        "player": "Josh Jacobs",
+        "team": "GB",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Green Bay's Wednesday practice report",
+        "text": "Matt LaFleur would not commit to Josh Jacobs (GB) playing Week 7 at DET, though Jacobs is off the exempt list and eligible. RB37 rest of season for me. Monitor Green Bay's Wednesday practice report."
+      },
+      {
+        "at": "2026-10-20T18:50:00Z",
+        "player": "MarShawn Lloyd",
+        "team": "GB",
+        "pos": "RB",
+        "action": "DROP",
+        "text": "MarShawn Lloyd (GB) ran 8 times for 10 and played 30 snaps vs DAL, 11 fewer than the back ahead of him, and Josh Jacobs is eligible again. RB41 rest of season for me; drop him for any add."
+      },
+      {
+        "at": "2026-10-20T18:50:00Z",
+        "player": "Zach Charbonnet",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Seattle's Wednesday practice report",
+        "text": "Mike Macdonald said there is a good chance Zach Charbonnet (SEA) plays Week 7 vs KC. The fill-ins split 46 and 27 snaps Sunday, so the early downs are his when he is back. RB47 rest of season for me. Monitor Seattle's Wednesday practice report."
+      },
+      {
+        "at": "2026-10-20T18:50:00Z",
+        "player": "Jordan Mason",
+        "team": "MIN",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "his activation off IR before Sunday vs IND",
+        "text": "Minnesota designated Jordan Mason (MIN) to return from IR, opening his practice window before Week 7 vs IND, and he takes early downs once active. RB35 rest of season for me. Monitor his activation before Sunday; hold Aaron Jones Sr. until then."
+      },
+      {
+        "at": "2026-10-20T18:50:00Z",
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Baltimore's Wednesday practice report",
+        "text": "Jesse Minter called Lamar Jackson (BAL) day to day with the ankle and said he could practice this week. QB2 rest of season for me. Monitor Baltimore's Wednesday practice report."
+      },
       {
         "at": "2026-10-20T18:30:00Z",
         "player": "Najee Harris",

@@ -135,6 +135,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Wk5 vs DET (21-45): Kendrick Bourne 5 of 8 for 70 (team-high yards); Michael Wilson 4 of 7 for 30; Jalen Brooks 2 of 7 for 16; Reggie Virgil 2 of 5 for 29. Wilson has 51 targets in five games (10.2 a game), tied with CeeDee Lamb. [pod 10-13, deployment]
 - 2026-10-11: Michael Wilson: 4 catches on 7 targets for 30, 14.6% of the team's 48 targets; Jalen Brooks 7 targets, 2 for 16, in the first game without Marvin Harrison Jr. [pod 10-14, deployment]
 - 2026-10-18: Trey McBride 7 of 9 for 53 (team lead), Kendrick Bourne 5 of 8 for 47, Michael Wilson 4 of 7 for 32 @LAR; Wilson has 7 targets and 4 catches (4-30, 4-32) in both games without Marvin Harrison Jr., 58 targets through six games. [pod 10-19, official]
+- 2026-10-18: Kendrick Bourne has 16 targets to Michael Wilson's 14 over Weeks 5 and 6. [pod 10-20, deployment]
 
 ## Tight ends
 
@@ -203,6 +204,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Jeremiyah Love (ankle) sat out Wednesday's practice for recovery and rest; Sunday status not set (Yahoo Sports live updates).
 - 2026-10-15: Jeremiyah Love: not seen at practice Thursday (ankle), after missing Wednesday, per local reporters. [NFL.com Thursday roundup, team reports]
 - 2026-10-20: Jeremiyah Love (ankle): Mike LaFleur said Monday Love is expected to do some running Tuesday (Tyler Drake, ArizonaSports.com).
+- 2026-10-20: Jeremiyah Love (ankle) was expected to do some running Tuesday. [pod 10-20, beat]
 
 ## Other
 

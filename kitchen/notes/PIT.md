@@ -11,6 +11,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: New DC Patrick Graham is moving T.J. Watt between both edges and using Nick Herbig as a stand-up A-gap blitzer; Brian Angelichio is the OC. [8-12 Camp Updates Article]
 - 2026-08-21: Mike McCarthy is now in charge of the Steelers offense with Aaron Rodgers at QB for what looks like his final season; DK Metcalf is the lead receiver. [8-21 mayhem mock draft]
 - 2026-10-12: Mike McCarthy said "Jaylen is our featured player right now" and that Jaylen Warren's role will not change with Rico Dowdle (toe) returning to health; he wants to keep giving Warren a number of touches (Steelers Depot, NBC Sports). [pod 10-13, coach]
+- 2026-10-18: Head coach Mike McCarthy hurt his leg (non-contact), spent halftime in the medical tent and coached the second half @TB. [pod 10-20, beat]
 
 ## Scheme and tendencies
 
@@ -66,6 +67,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jaylen Warren: 15 carries for 101 and a TD, 6 catches for 87 and a TD vs IND; Rico Dowdle missed a third straight game (colts.com box, PFF recap).
 - 2026-10-11: Jaylen Warren 15-101-1 (a 50-yard TD run) and 6-87-1 (an 80-yard TD catch) on 87 percent of snaps, the RB2 of the week; 490 scrimmage yards over Weeks 3 to 5. Rico Dowdle (toe) was inactive for a third straight game. [pod 10-13, deployment]
 - 2026-10-19: Rico Dowdle active for the first time since Week 2: 7 carries for 40, 3 catches for 9 in Week 6 @TB; Jaylen Warren 14 for 50 and 2 for 28, took over in the 4th quarter and OT (NBC Sports, team box score).
+- 2026-10-18: Jaylen Warren 14 carries to Rico Dowdle's 7, routes 31 to 11, about 75 percent of the snaps. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -98,6 +100,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: DK Metcalf (illness) questionable Week 6 @TB after missing Friday; Rico Dowdle (toe) questionable after full Thursday and Friday; Roman Wilson and Ben Skowronek out. [NFL.com, CBS]
 - 2026-10-19: Germie Bernard: 12 targets, 11 for 87 and the OT winning TD in Week 6 @TB; DK Metcalf 15 targets, 11 for 93 (team box score, eDraft targets).
 - 2026-10-18: DK Metcalf: 15 targets, 11 for 93 @TB, with only 2 catches for 11 in the first half. [pod 10-19, deployment]
+- 2026-10-18: Germie Bernard ran a route on every dropback, 62 percent of them from the slot, with 27 percent of the targets. [pod 10-20, deployment]
 
 ## Tight ends
 
@@ -110,6 +113,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Pat Freiermuth and Darnell Washington both caught TDs in the Week 4 loss at CLE (NBC Sports). [pod 10-7, deployment]
 - 2026-10-11: Pat Freiermuth: 5 catches for 44 and 2 TDs vs IND (colts.com box).
 - 2026-10-19: Pat Freiermuth: 2 catches for 11 on 3 targets in Week 6 @TB; Darnell Washington 4 for 25 and a TD on 6 targets (team box score).
+- 2026-10-18: Darnell Washington caught 4 for 25 and the TD that made it 16-10; Pat Freiermuth drew 3 targets on about 41 routes. [pod 10-20, deployment]
 
 ## Offensive line
 

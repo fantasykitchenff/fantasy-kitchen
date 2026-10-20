@@ -66,6 +66,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: David Montgomery (groin) and Tank Dell (knee) out Week 6 @JAX in London; neither traveled. [NFL.com, CBS]
 - 2026-10-19: Week 6 @JAX (34-31 W, London): Woody Marks 15 for 56 and 2 for 25; Jawhar Jordan 6 for 43 and a TD; David Montgomery did not travel and may miss Week 7 (CBS box score, Fox 26).
 - 2026-10-18: Woody Marks played 78 percent of the snaps @JAX with David Montgomery inactive. [pod 10-19, deployment]
+- 2026-10-18: Woody Marks played every snap inside the 5 and ran a route on 69 percent of dropbacks; Jawhar Jordan ran 6 times for 43 with a 25-yard TD. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -101,6 +102,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Marvin Harrison Jr. Houston debut, Week 6 @JAX: 12 snaps, 9 routes, 3 for 34 on 4 targets; Jaylin Noel 4 for 107 and a TD (CBS box score; snaps single source).
 - 2026-10-18: Jaylin Noel: 4 of 4 for 107 and a 13-yard TD @JAX, his first 100-yard game; 12 of 12 targets for 233 yards (19.4 per target) over Weeks 4 to 6. [pod 10-19, deployment]
 - 2026-10-18: Nico Collins: 3 for 74 @JAX; Dalton Schultz 4 for 33 on 6 targets; Foster Moreau 2 TD and over 60% of snaps to Schultz's ~40%. [pod 10-19, deployment]
+- 2026-10-19: Tank Dell: the Texans plan to activate him off IR to play Week 7 vs NYG, his first game since the 2024 knee injury. [pod 10-20, official]
+- 2026-10-18: Jaylin Noel: 4 for 107 and a TD on 4 targets @JAX (not 170, as one recap said) on 63 percent of the routes, a 16.0-yard aDOT. Marvin Harrison Jr. ran 26 percent of the routes, 27 percent of them from the slot. [pod 10-20, deployment]
 
 ## Tight ends
 

@@ -45,6 +45,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Deshaun Watson: 24 of 33 for 268 and 1 TD, plus 22 rushing yards, vs PIT. [pod 10-2, deployment]
 - 2026-10-11: Deshaun Watson 15 of 33 for 155, 1 TD, sacked 8 times in the 12-17 loss at NYJ. [pod 10-13, deployment]
 - 2026-10-11: Deshaun Watson 15 of 33 for 155, sacked 8 times @NYJ. [pod 10-14, deployment]
+- 2026-10-18: Deshaun Watson threw for 164 and was sacked 5 times in the 13-10 win over BAL. [pod 10-20, deployment]
 
 ## Backfield
 
@@ -80,6 +81,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Dylan Sampson was designated to return from IR and practiced Wednesday. [pod 10-14, official]
 - 2026-10-16: Quinshon Judkins (ankle) questionable Week 6 vs BAL after DNP, DNP, limited Friday; Todd Monken called the walking boot a precaution. Dylan Sampson (knee) out; Dillon Gabriel (back) out. KC Concepcion cleared. [NFL.com, CBS, Yahoo Sports]
 - 2026-10-19: With Quinshon Judkins inactive in Week 6 vs BAL: Jaleel McLaughlin 9 for 41 and 4 for 14; Audric Estime 9 for 19 and a TD (CBS box score).
+- 2026-10-18: With Quinshon Judkins inactive (ankle) and Dylan Sampson on IR: Jaleel McLaughlin 9 for 41 and nearly every route; Audric Estime 9 for 19 and the TD, with every snap inside the 5. [pod 10-20, deployment]
 
 ## Receivers
 

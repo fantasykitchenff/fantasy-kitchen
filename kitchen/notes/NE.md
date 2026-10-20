@@ -64,6 +64,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Rhamondre Stevenson played 83 percent of the snaps after TreVeyon Henderson left vs LV (71 percent for the game) (Yahoo Sports). [pod 10-13, deployment]
 - 2026-10-11: Corey Kiner was the backup back in the fourth quarter vs LV after TreVeyon Henderson's high ankle sprain. [pod 10-14, deployment]
 - 2026-10-19: Week 6 vs NYJ: Rhamondre Stevenson 41 snaps, 14 for 36; Corey Kiner 11 for 57; TreVeyon Henderson back, 7 for 31 on 16 snaps, lost a fumble (CBS box score; snaps single source).
+- 2026-10-18: TreVeyon Henderson had 2 carries after his third-quarter fumble and no touches over the last 25 minutes; Corey Kiner's 11 carries for 57 all came after it. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -103,6 +104,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: A.J. Brown in his first game off IR, Week 6 vs NYJ: 10 targets, 3 for 27, several drops; Romeo Doubs 42-yard TD then a shoulder injury, out, Vrabel doubtful for Thursday @CHI; DeMario Douglas 7 of 8 for 86 and a TD (CBS box score, NBC Sports Boston).
 - 2026-10-18: A.J. Brown, in his first game off IR: 10 targets (31% of Maye's 32 attempts), 3 catches for 27, 3 drops (a career high, after never more than 2 in a game, including a deep ball); the onside kick bounced off his hands and helmet before NE recovered. [pod 10-19, deployment]
 - 2026-10-18: DeMario Douglas: 7 of 8 targets for 86 and a TD vs NYJ, after 4-65-2 on 5 targets vs LV in Week 5. [pod 10-19, deployment]
+- 2026-10-18: A.J. Brown: route on 97 percent of dropbacks and 10 targets (about a third of Drake Maye's throws) in his first game back, caught 3 for 27. DeMario Douglas ran 74 percent of the routes with Doubs out and Mack Hollins inactive. [pod 10-20, deployment]
 
 ## Tight ends
 
@@ -162,6 +164,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: A.J. Brown (ankle) and TreVeyon Henderson (ankle) active vs NYJ in Week 6, Brown's first game since Week 1; Will Campbell and Christian Gonzalez active (patriots.com).
 - 2026-10-18: Romeo Doubs: 42-yard TD with 4:10 left in Q1, landed on his right shoulder on the catch and was ruled out early in Q3; no team diagnosis has been given. Vrabel was noncommittal for Thursday @CHI. Season: 14 catches, 261 yards, 3 TD. [pod 10-19, official]
 - 2026-10-19: Romeo Doubs: placed on IR with the right shoulder hurt on a 42-yard TD vs NYJ; out at least four games; led NE with 261 receiving yards (patriots.com, Boston Globe).
+- 2026-10-19: Romeo Doubs: on IR with the right shoulder, out at least four games; an outside "AC sprain, 2 to 5 weeks" read on air is not the team's diagnosis. [pod 10-20, official]
 
 ## Other
 
