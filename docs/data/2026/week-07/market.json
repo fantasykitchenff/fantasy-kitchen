@@ -1,0 +1,245 @@
+{
+  "series": "market",
+  "season": 2026,
+  "week": 7,
+  "title": "Market Run, Week 7",
+  "dek": "Kendre Miller has the New Orleans backfield while Alvin Kamara's back heals, and he is the first claim of the week.",
+  "format": "PPR",
+  "publishedAt": "2026-10-20T14:21:00Z",
+  "updatedAt": "2026-10-20T14:21:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Four teams are off in Week 7, Buffalo, Jacksonville, the Chargers and Washington, and the wire is fresh in three places: a Saints backfield, two receivers who just took over full-time roles, and a Rams offense without Davante Adams for 6 to 10 weeks. Baker Mayfield is also back on the shelf for anyone who lost Jalen Hurts.\n\nPass on a big claim for Mike Washington Jr. (LV) as a replacement for Ashton Jeanty. Washington took half the early downs, but Jeanty still played 58 percent of the snaps and out-touched him 14 to 10. Tre Tucker (LV) scored twice on 7 targets, and two long TDs is not a role; leave him on the wire.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
+  "outro_md": "The Menu lands Wednesday with every one of these players ranked for Week 7. Claims first, lineups after.",
+  "data": {
+    "adds": [
+      {
+        "priority": 1,
+        "player": "Kendre Miller",
+        "team": "NO",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "10-20%",
+        "rostered": "34%",
+        "why": "Kendre Miller (NO) ran a season-high 20 times for 70 @NYG and played 32 snaps, the most of any Saints back. Alvin Kamara left in the second quarter with his back and sat the whole fourth, and Travis Etienne Jr. is on IR until after Week 8, so the early downs are Miller's vs PIT in Paris.",
+        "verdict": "Claim him, 10 to 20 percent of FAAB. The top add on the wire, the New Orleans lead back for at least two more weeks."
+      },
+      {
+        "priority": 2,
+        "player": "Omar Cooper Jr.",
+        "team": "NYJ",
+        "pos": "WR",
+        "action": "CLAIM",
+        "faab": "6-12%",
+        "rostered": "5%",
+        "why": "Omar Cooper Jr. (NYJ) played 51 snaps, 82 percent, in his first game off IR @NE and caught 6 of 7 targets for 103 and a 48-yard TD; a second TD came back on a penalty. Adonai Mitchell is week to week after the finger procedure, so the No. 2 job behind Garrett Wilson is Cooper's vs MIA.",
+        "verdict": "Claim him, 6 to 12 percent of FAAB. A full-time receiver on 5 percent of rosters."
+      },
+      {
+        "priority": 3,
+        "player": "Germie Bernard",
+        "team": "PIT",
+        "pos": "WR",
+        "action": "CLAIM",
+        "faab": "5-10%",
+        "rostered": "",
+        "why": "Germie Bernard (PIT) drew 12 targets @TB and caught 11 for 87 and the overtime TD, a week after a team-high 9 vs IND. Roman Wilson and Michael Pittman Jr. are on IR, so DK Metcalf and Bernard are the Pittsburgh passing game for about a month.",
+        "verdict": "Claim him, 5 to 10 percent of FAAB. 21 targets in two weeks is a weekly PPR flex."
+      },
+      {
+        "priority": 4,
+        "player": "Mike Washington Jr.",
+        "team": "LV",
+        "pos": "RB",
+        "action": "CLAIM",
+        "faab": "5-10%",
+        "rostered": "30%",
+        "why": "Mike Washington Jr. (LV) played a season-high 35 percent of the snaps vs BUF and took half the early-down snaps, running 9 times for 43. Ashton Jeanty still played 58 percent and out-touched him 14 to 10, so this is a split, and Jeanty is not losing the job.",
+        "verdict": "Claim him, 5 to 10 percent of FAAB. RB46 rest of season for me; the handcuff with his own early-down work vs LAR."
+      },
+      {
+        "priority": 5,
+        "player": "Keenan Allen",
+        "team": "IND",
+        "pos": "WR",
+        "action": "CLAIM",
+        "faab": "4-8%",
+        "rostered": "",
+        "why": "Keenan Allen (IND) led the Colts with 11 targets vs TEN and caught 8 for 82, after 9 in each of Weeks 4 and 5. Josh Downs had 4 for 40 on 8, and Tyler Warren hurt his groin in practice before Week 6 with no timeline; his practice reports this week decide how long Allen keeps the targets @MIN.",
+        "verdict": "Claim him, 4 to 8 percent of FAAB. Three straight weeks of volume makes him a PPR flex while Warren is out."
+      },
+      {
+        "priority": 6,
+        "player": "Baker Mayfield",
+        "team": "TB",
+        "pos": "QB",
+        "action": "CLAIM",
+        "faab": "3-6%",
+        "rostered": "24%",
+        "why": "Baker Mayfield (TB) threw Monday and is set to practice Wednesday on the dislocated right thumb; the MRI showed no further damage and no surgery. Todd Bowles has not named a starter @CAR, and Emeka Egbuka turned 16 targets from Jalon Daniels into 48 yards in Week 6.",
+        "verdict": "Claim him, 3 to 6 percent of FAAB. A starting quarterback on 24 percent of rosters, and the first one back on the wire."
+      },
+      {
+        "priority": 7,
+        "player": "Tyler Higbee",
+        "team": "LAR",
+        "pos": "TE",
+        "action": "CLAIM",
+        "faab": "2-4%",
+        "rostered": "35%",
+        "why": "Tyler Higbee (LAR) led the Rams' tight ends at 83 percent of the snaps vs ARI and went over 60 yards in three straight games before that. Davante Adams ruptured his hamstring and is out 6 to 10 weeks, which frees about 7 targets a game @LV.",
+        "verdict": "Claim him, 2 to 4 percent of FAAB. A weekly tight end while Adams is out."
+      },
+      {
+        "priority": 8,
+        "player": "Jaylin Noel",
+        "team": "HOU",
+        "pos": "WR",
+        "action": "ADD",
+        "faab": "1-3%",
+        "rostered": "7%",
+        "why": "Jaylin Noel (HOU) has caught all 12 of his targets for 233 yards over Weeks 4 to 6, including 4 for 107 and a TD @JAX. He has played 62 percent of the snaps or less every week, and Marvin Harrison Jr. is ramping up behind him.",
+        "verdict": "Add him, 1 to 3 percent of FAAB. A deep-league flex vs NYG before Houston's Week 8 bye."
+      },
+      {
+        "priority": 9,
+        "player": "DeMario Douglas",
+        "team": "NE",
+        "pos": "WR",
+        "action": "ADD",
+        "faab": "1-3%",
+        "rostered": "",
+        "why": "DeMario Douglas (NE) caught 7 of 8 targets for 86 and a TD vs NYJ, after 4 for 65 and 2 TDs vs LV. Romeo Doubs is on IR for at least four games and Mack Hollins sat, so the slot is Douglas' Thursday @CHI.",
+        "verdict": "Add him, 1 to 3 percent of FAAB, before Thursday night. A PPR flex while Doubs is out."
+      },
+      {
+        "priority": 10,
+        "player": "Bam Knight",
+        "team": "ARI",
+        "pos": "RB",
+        "action": "ADD",
+        "faab": "1-3%",
+        "rostered": "",
+        "why": "Bam Knight (ARI) ran 15 times for 80 @LAR on 32 snaps with Jeremiyah Love out, and got most of the red-zone touches. Tyler Allgeier played 40 snaps and ran 18 times for 38.",
+        "verdict": "Add him, 1 to 3 percent of FAAB. He leads the carries vs DEN if Love sits again."
+      },
+      {
+        "priority": 11,
+        "player": "Tyrone Tracy Jr.",
+        "team": "NYG",
+        "pos": "RB",
+        "action": "ADD",
+        "faab": "0-2%",
+        "rostered": "4%",
+        "why": "Tyrone Tracy Jr. (NYG) scored twice on 8 touches vs NO on 38 percent of the snaps, while Cam Skattebo played 6 snaps with no touches. Devin Singletary played 40 percent and the Giants' backs ran 14 times for 34.",
+        "verdict": "Add him, 0 to 2 percent of FAAB. A four-back committee @HOU; he is the bench piece if John Harbaugh picks him."
+      },
+      {
+        "priority": 12,
+        "player": "Michael Mayer",
+        "team": "LV",
+        "pos": "TE",
+        "action": "STREAM",
+        "faab": "0-2%",
+        "rostered": "8%",
+        "why": "Michael Mayer (LV) caught 7 of 9 targets for 95 vs BUF, after 8 for 82 on 10 in Week 4, and Brock Bowers had no first-half targets in Week 6. Las Vegas plays two tight ends a lot.",
+        "verdict": "Stream him vs LAR, 0 to 2 percent of FAAB, if your tight end is on bye."
+      }
+    ],
+    "stashes": [
+      {
+        "player": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "2-4%",
+        "why": "Jonah Coleman (DEN) went on IR Sep 26 with a high ankle sprain and is eligible to return vs ARI this week. He had 58 yards, 3 catches and a TD in his last game. No return to practice yet.",
+        "verdict": "Stash him, 2 to 4 percent of FAAB. Monitor his first practice this week."
+      },
+      {
+        "player": "Antonio Williams",
+        "team": "WAS",
+        "pos": "WR",
+        "action": "STASH",
+        "faab": "1-3%",
+        "why": "Antonio Williams (WAS) led Washington's receivers in snaps and routes in Week 6. Terry McLaurin was carted off Monday night with the left knee, and Washington is on bye in Week 7.",
+        "verdict": "Stash him, 1 to 3 percent of FAAB. He is the No. 1 outside receiver in Week 8 if McLaurin's MRI is bad."
+      },
+      {
+        "player": "Terrance Ferguson",
+        "team": "LAR",
+        "pos": "TE",
+        "action": "STASH",
+        "faab": "1-3%",
+        "why": "Terrance Ferguson (LAR) is on IR until Week 8 and has scored in each of the four full games he played with Puka Nacua or Davante Adams out. Adams is out 6 to 10 weeks.",
+        "verdict": "Stash him, 1 to 3 percent of FAAB, in an IR spot."
+      },
+      {
+        "player": "Konata Mumpfield",
+        "team": "LAR",
+        "pos": "WR",
+        "action": "STASH",
+        "faab": "0-2%",
+        "why": "Konata Mumpfield (LAR) played 27 snaps as the third receiver vs ARI with Tutu Atwell a healthy scratch. Adams' 43 snaps go to Mumpfield and the tight ends now.",
+        "verdict": "Stash him, 0 to 2 percent of FAAB. His snap share @LV decides whether he is a flex."
+      }
+    ],
+    "drops": [
+      {
+        "player": "Jalen Hurts",
+        "team": "PHI",
+        "pos": "QB",
+        "action": "DROP",
+        "why": "Jalen Hurts (PHI) has a deep vein thrombosis with clots in both lungs, is on blood thinners with no contact allowed, and is expected to miss the rest of the season. Tanner McKee starts.",
+        "verdict": "Drop him in redraft for any add on this list."
+      },
+      {
+        "player": "Romeo Doubs",
+        "team": "NE",
+        "pos": "WR",
+        "action": "DROP",
+        "why": "Romeo Doubs (NE) went on IR Monday with the shoulder and misses at least four games. WR46 rest of season for me.",
+        "verdict": "Drop him for any add unless you have an open IR spot."
+      },
+      {
+        "player": "MarShawn Lloyd",
+        "team": "GB",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "MarShawn Lloyd (GB) ran 8 times for 10 vs DAL and played 30 snaps to Pierre Strong Jr.'s 41. Josh Jacobs is off the exempt list and expected to start @DET. RB41 rest of season for me.",
+        "verdict": "Drop him for any add on this list."
+      },
+      {
+        "player": "Tyjae Spears",
+        "team": "TEN",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "Tyjae Spears (TEN) had 1 carry and 1 catch @IND a week after his 9-catch game, and Tony Pollard ran a season-high 19 times. RB55 rest of season for me.",
+        "verdict": "Drop him for any add on this list."
+      },
+      {
+        "player": "Tyler Allgeier",
+        "team": "ARI",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "Tyler Allgeier (ARI) ran 18 times for 38 @LAR with Jeremiyah Love out, and Bam Knight out-gained him on 15 carries and took the red-zone work. RB51 rest of season for me.",
+        "verdict": "Drop him for Knight or any add on this list."
+      }
+    ],
+    "mnf": [
+      {
+        "text": "San Francisco beat Washington 23-17 to go 6-0. Terry McLaurin (WAS) was carted off in the first quarter with a non-contact left knee injury in an air cast, and Ian Rapoport reports it is feared to be serious and season-ending; the MRI is Tuesday. Washington is on bye. Monitor; Tuesday's MRI result. Stash Antonio Williams, 1 to 3 percent of FAAB."
+      },
+      {
+        "text": "Mike Evans (SF) left late in the second quarter with the Achilles, came back, and led San Francisco with 94 yards on 3 catches. Kyle Shanahan said he is only sore and needs no more testing. Monitor; Wednesday's practice report before @ATL."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w07-market-thread-f0ca",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

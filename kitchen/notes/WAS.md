@@ -112,6 +112,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Terry McLaurin: 9 targets vs SEA, 9 of Marcus Mariota's 31 attempts (29%). Receiver snaps: McLaurin 52 (75%), Stefon Diggs 41 (59%), Antonio Williams 28 (41%), Treylon Burks 25 (36%), Dyami Brown 21 (30%), Jaylin Lane 5. Tight end snaps: John Bates 37, Ben Sinnott 34 (team site). [pod 9-29, deployment]
 - 2026-09-27: Terry McLaurin: McLaurin and Stefon Diggs each have 22 targets through three games: McLaurin 10 for 141 and a TD, Diggs 13 for 135 and 3 TDs; Antonio Williams 11 targets, 9 for 103 and a TD. In Week 3 McLaurin ran a route on 87% of dropbacks (9 targets), Diggs on 65% (7 targets, 4 for 33, 63% of his snaps in the slot). [pod 9-29, deployment]
 - 2026-10-16: Terry McLaurin (hamstring) limited Thursday and sat Friday as planned rest; final report Saturday. [CBS, Rotowire]
+- 2026-10-20: Antonio Williams: led Washington's receivers in snaps and routes in Week 6, 3 for 50; 6% rostered Tuesday (Yahoo waiver column).
 
 ## Tight ends
 
@@ -189,6 +190,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: Terry McLaurin: DNP Thursday (hamstring), second straight day; Stefon Diggs reports conflict (CBS Sports).
 - 2026-10-15: Stefon Diggs: no practice Thursday (hamstring), per Dan Quinn. [NFL.com Thursday roundup, team reports]
 - 2026-10-17: Saturday report for MNF @SF: Jacory Croskey-Merritt (groin), Marcus Mariota (knee), Charles Omenihu and Javontae Jean-Baptiste out; Stefon Diggs (hamstring) questionable; Terry McLaurin no designation after limited Thursday, rest Friday, limited Saturday (commanders.com, SI).
+- 2026-10-20: Terry McLaurin: carted off in the first quarter of the 23-17 MNF loss @SF with a non-contact left knee injury in an air cast; Dan Quinn said it could be significant; Rapoport reports it is feared serious and season-ending; MRI Tuesday. Treylon Burks (4 for 66) left with trainers, status unclear. WAS on bye Week 7 (ESPN, Yahoo Sports, NFL.com).
 
 ## Other
 

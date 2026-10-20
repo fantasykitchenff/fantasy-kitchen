@@ -151,6 +151,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Jayden Higgins tore his ACL in training camp and is out for the season. [pod 10-1, official]
 - 2026-10-07: Tank Dell returned to practice after missing all of 2025, opening the 21-day window; DeMeco Ryans takes over defensive play-calling (Wednesday reports).
 - 2026-10-15: David Montgomery (groin), Tank Dell (knee, full Thursday) and Jalen Pitre ruled out Week 6 @JAX; none travel to London. [NFL.com Thursday roundup, team reports]
+- 2026-10-20: David Montgomery (groin): week to week per DeMeco Ryans; Week 7 status vs NYG still undecided, Houston's bye is Week 8 (DraftKings Network injury report). Jaylin Noel 7% rostered Tuesday (Yahoo).
 
 ## Other
 

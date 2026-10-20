@@ -82,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: vs MIN: Kendre Miller 10-30-1 on 14 snaps (most carries); CJ Donaldson led backs with 19 snaps (42 percent, mostly protection); Alvin Kamara (back) 3-12 on 12 snaps. [pod 10-13, deployment]
 - 2026-10-11: Alvin Kamara (back) had 5 touches on 12 snaps vs MIN; CJ Donaldson played 18 snaps; Kendre Miller had all 4 of New Orleans' red-zone carries (Yahoo Sports). [pod 10-13, deployment]
 - 2026-10-19: Kendre Miller: 20 carries for 70 and 32 snaps, most of the Saints backs, in Week 6 @NYG (34-27 W); Alvin Kamara 19 snaps, 7 for 34, 31-yard TD catch, left in Q2 with the back and sat the 4th quarter; CJ Donaldson 24 snaps on third downs (team box score, DraftSharks).
+- 2026-10-20: Kendre Miller 34% rostered Tuesday; Travis Etienne Jr. on IR until after Week 8 (Yahoo waiver column).
 
 ## Receivers
 

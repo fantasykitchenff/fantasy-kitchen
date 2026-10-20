@@ -190,6 +190,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Jaylen Waddle: Wore a walking boot after the Week 3 win at LAR as a precaution, then practiced in full Wednesday; Sean Payton said he is fine. [pod 9-30, official]
 - 2026-10-04: Pat Bryant was carted off with a leg injury in the 24-14 loss at SF; Pat Surtain II also left with a non-contact injury (NBC Sports, Denver Gazette, CBS Colorado). [pod 10-5, beat]
 - 2026-10-14: CB Pat Surtain II (ankle) did not practice and is not in line to play Thursday vs SEA. [pod 10-14, beat]
+- 2026-10-20: Jonah Coleman (high ankle, IR since Sep 26) is eligible to return Week 7 vs ARI; no designation to return found yet; 28% rostered Tuesday (Yahoo, PFT).
 
 ## Other
 

@@ -1,8 +1,17 @@
 {
   "season": 2026,
-  "currentWeek": 6,
-  "updatedAt": "2026-10-19T23:15:16Z",
+  "currentWeek": 7,
+  "updatedAt": "2026-10-20T14:23:03Z",
   "pieces": [
+    {
+      "series": "market",
+      "week": 7,
+      "path": "2026/week-07/market.json",
+      "title": "Market Run, Week 7",
+      "dek": "Kendre Miller has the New Orleans backfield while Alvin Kamara's back heals, and he is the first claim of the week.",
+      "publishedAt": "2026-10-20T14:21:00Z",
+      "updatedAt": "2026-10-20T14:21:00Z"
+    },
     {
       "series": "menu",
       "week": 6,

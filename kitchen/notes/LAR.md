@@ -106,6 +106,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Tyler Higbee caught 5 for 67 @PHI and again led the LAR tight ends in snaps with Terrance Ferguson and Colby Parkinson hurt (NBC Sports, DraftSharks). [pod 10-6, deployment]
 - 2026-10-12: Tyler Higbee 5 for 83 on 6 targets; Terrance Ferguson on IR since 10/2 (ankle). [pod 10-14, deployment]
 - 2026-10-18: Colby Parkinson: 5 for 31 and the 6-yd TD with 0:47 left vs ARI on about 62% of snaps; Tyler Higbee led the TEs at 83% of snaps and lost a fumble deep in ARI territory at 7:47 of Q4; Davis Allen 31%. [pod 10-19, official]
+- 2026-10-20: Tyler Higbee 35% rostered, Terrance Ferguson 13% (IR until Week 8) Tuesday (Yahoo waiver column).
 
 ## Offensive line
 

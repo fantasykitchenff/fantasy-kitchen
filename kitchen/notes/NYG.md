@@ -90,6 +90,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Cam Skattebo 13-59 and 2-12 on 63 percent of snaps (Tracy 17 snaps, Najee Harris 16) with a lost OT fumble; 12 targets in five games. [pod 10-13, deployment]
 - 2026-10-19: Cam Skattebo: 6 snaps, 0 carries in Week 6 vs NO after his fourth lost fumble; Harbaugh said he was not benched; Najee Harris started (4 for 2), Tyrone Tracy Jr. 6 for 18 and a TD plus a 17-yard TD catch (Yahoo Sports, team box score).
 - 2026-10-18: Cam Skattebo: 6 snaps and no touches vs NO, the first active game of his career without one, a week after his fourth lost fumble; he said 'I got punished for what I did (last week)'; Harbaugh said it was 'not by design', denied a benching, said no runs were called while Skattebo was in and that someone 'needs to step up and be the back'; Tyrone Tracy Jr. 6 for 18 and a TD plus 2 for 27 and a TD, Najee Harris 4 for 2, Devin Singletary 4 for 14 and 1 for 19. [pod 10-19, coach]
+- 2026-10-20: Week 6 vs NO snap shares: Devin Singletary 40%, Tyrone Tracy Jr. 38%, Cam Skattebo 6 snaps; Tracy 4% rostered Tuesday (Yahoo waiver column).
 
 ## Receivers
 

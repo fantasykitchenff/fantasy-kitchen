@@ -130,6 +130,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: T.J. Hockenson caught 2 of 4 targets for 11 at TB. [pod 10-1, deployment]
 - 2026-10-05: Week 4 vs MIA: T.J. Hockenson 13 catches on 13 targets for 119 with Justin Jefferson out; O'Connell's goal is Jefferson back for Week 5 vs NO (vikings.com, NBC).
 - 2026-09-27: Josh Oliver tore his biceps in Week 4 vs TB (not Week 5). In Week 5 Gavin Bartholomew caught 5 for 33 after T.J. Hockenson's first-drive concussion. [pod 10-14, official]
+- 2026-10-20: T.J. Hockenson: concussion in Week 5 after two snaps, MIN bye Week 6; no clearance reported before Week 7 vs IND; 32% rostered (Yahoo).
 
 ## Offensive line
 

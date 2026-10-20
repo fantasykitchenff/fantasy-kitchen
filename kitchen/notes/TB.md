@@ -34,6 +34,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Baker Mayfield (thumb) is pushing to play but it is too early to know (James Palmer); Todd Bowles expects Jalon Daniels to start. [pod 10-14, beat]
 - 2026-10-16: Baker Mayfield (right thumb) out Week 6 vs PIT after DNP all week; Jalon Daniels starts. WR David Sills V out; RB Sean Tucker (quad) questionable. [NFL.com, CBS]
 - 2026-10-19: Jalon Daniels: 22 of 43 for 164, 1 TD, 2 INT, sacked 5 times in Week 6 vs PIT (26-19 OT loss) (team box score).
+- 2026-10-20: Baker Mayfield (right thumb): Todd Bowles says he practices Wednesday and the team decides after; MRI showed no further damage beyond the dislocation, no surgery; 24% rostered Tuesday (Yahoo Sports, NBC Sports).
 
 ## Backfield
 
