@@ -19,6 +19,8 @@ A reply that makes a lineup call uses the rank language in `_standards.md` ("Ran
 
 Before drafting a reply about a lineup, open this week's Menu, `docs/data/2026/week-NN/menu.json` (week from `python3 tools/fk.py week`, two digits), and read the player's rank at his position (RB, WR, QB or TE; the FLEX list is the tiebreak between positions). Prep Notes refreshes the Menu on Friday, so the Friday rank is the one to use from Friday evening on. The reply gives that rank and its tier in the words above. The rank is public; the number behind it never is.
 
+Until this week's `menu.json` exists, read the player's weekly position rank from `kitchen/rankings/<season>-week-NN.csv` instead (the POS column, like WR17) and give it with its tier the same way.
+
 For a rest-of-season call (trade for, trade away, hold, drop, buy low, sell high), read the player's rank in kitchen/rankings/<season>-ros.csv and give it as 'WR28 rest of season for me'; if he is not in the file, give the role and the number and no rank.
 
 ## Layout
