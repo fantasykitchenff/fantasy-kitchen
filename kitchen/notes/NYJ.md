@@ -175,3 +175,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Kenyon Sadiq (back) limited Friday, his third limited practice; questionable at CHI (Jets.com Friday report).
 - 2026-10-04: Kenyon Sadiq (back, questionable) active @CHI; inactives Adonai Mitchell, Breece Hall, Mason Taylor, Dylan Parham, Nahshon Wright, Mauigoa, Enagbare (team inactives).
 - 2026-10-09: Breece Hall and Adonai Mitchell out vs CLE; Mason Taylor no designation (thumb) (newyorkjets.com Friday report).
+- 2026-10-21: Breece Hall (quad) DNP Wednesday; Aaron Glenn would not rule him out vs MIA and said Braelon Allen keeps getting touches. Adonai Mitchell limited (finger). [NFL.com Wednesday roundup, Yahoo Sports]

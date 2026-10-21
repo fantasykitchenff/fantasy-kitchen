@@ -211,3 +211,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-02: Tyrone Tracy Jr. (knee) upgraded to full Friday and is off the injury report for Week 4 vs ARI (NBC Sports).
 - 2026-10-07: Jaxson Dart (knee) out for the rest of the regular season; Jameis Winston starts (Giants.com, ESPN).
 - 2026-10-09: Malik Nabers, Cam Skattebo and Isaiah Likely finished with full Friday practices and carry no designation (giants.com Friday report).
+- 2026-10-21: J.J. McCarthy named the Week 7 starter at HOU over Jameis Winston by John Harbaugh. [NFL.com Wednesday roundup, Yahoo Sports citing ESPN]

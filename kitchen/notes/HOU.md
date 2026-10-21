@@ -165,3 +165,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-09: Tank Dell out (knee), still on IR in his practice window; no Houston skill player designated (houstontexans.com Friday report).
 - 2026-10-13: Woody Marks: 48% rostered on public waiver pages Tuesday of Week 6; Montgomery week to week (groin) per DeMeco Ryans (nfl.com).
 - 2026-10-14: David Montgomery (groin) did not practice Wednesday, week to week; Marvin Harrison Jr. to debut Sunday vs JAX in London per DeMeco Ryans (nfl.com, Yahoo Sports).
+- 2026-10-21: David Montgomery (groin) DNP Wednesday; Tank Dell (knee) full; Dalton Schultz (quad) DNP. [NFL.com Wednesday roundup, NBC Sports]

@@ -228,3 +228,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-10: Darius Slayton: downgraded to out for Week 5 @PIT with the knee. (nfl.com)
 - 2026-10-13: Keenan Allen: 9 targets in each of his last two games, at least 5 catches and 45 yards in each; 37% rostered (NFL.com waiver column).
 - 2026-10-13: Schedule Weeks 6 to 10: TEN, at MIN, at JAX, DAL, MIA. [pod 10-13, official]
+- 2026-10-21: Tyler Warren (groin) DNP Wednesday; Andrew Ogletree (ankle) DNP. [NFL.com Wednesday roundup, Yahoo Sports]

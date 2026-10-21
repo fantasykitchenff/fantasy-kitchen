@@ -6,12 +6,162 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-21T16:15:00Z",
+  "updatedAt": "2026-10-21T22:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Lamar Jackson (BAL) was limited Wednesday, his first practice since the Week 4 ankle sprain, and Jesse Minter called it a day-by-day thing. Tyler Huntley starts vs CIN if he sits. Lamar is QB21 for me this week, a streamer until he practices in full, and QB2 rest of season. Monitor Baltimore's Friday injury report.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Baltimore's Friday injury report"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Baker Mayfield (TB) practiced in full Wednesday for the first time since dislocating his right thumb in Week 3, and Todd Bowles will decide Friday whether he or Jalon Daniels starts at CAR. Mayfield is outside my top 12 this week and QB24 rest of season for me. Monitor Todd Bowles' Friday decision.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-21",
+        "player": "Baker Mayfield",
+        "team": "TB",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Todd Bowles' Friday decision"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Bucky Irving (TB) missed practice Wednesday with an illness. He is RB13 for me this week at CAR, borderline RB1/RB2. Monitor Tampa Bay's Thursday practice report.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-21",
+        "player": "Bucky Irving",
+        "team": "TB",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Tampa Bay's Thursday practice report"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Emeka Egbuka (TB) did not practice Wednesday with a concussion and a foot injury. He is WR27 for me this week, a high-end WR3, only if he clears the protocol. Monitor his concussion status on Friday's injury report.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
+        "player": "Emeka Egbuka",
+        "team": "TB",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "his concussion status on Friday's injury report"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Chicago ruled out Kyle Monangai (CHI) for Thursday vs NE with the thumb and toe after he missed every walkthrough this week, his third straight game out. D'Andre Swift leads the backfield again and is RB10 for me this week. Monangai is RB29 rest of season for me; hold him, and a missed practice next week makes him a drop.",
+        "url": "https://www.tsn.ca/nfl/article/bears-rb-monangai-toe-thumb-out-thursday-night-vs-patriots-n1-50240756/",
+        "player": "Kyle Monangai",
+        "team": "CHI",
+        "pos": "RB",
+        "action": "HOLD",
+        "why": "A missed practice next week, after a third straight game out, makes him a drop."
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Jordan Mason (MIN) practiced in full Wednesday as his IR window opened with the thumb. Once Minnesota activates him he takes the early downs vs IND, RB29 for me this week, a high-end RB3 and a high-end flex play. Aaron Jones Sr. is RB16 for me, an RB2. Monitor Mason's activation off IR by Saturday.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
+        "player": "Jordan Mason",
+        "team": "MIN",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "his activation off IR by Saturday"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Justin Jefferson (MIN) was limited Wednesday with the ankle, a maintenance day. He is WR11 for me this week vs IND, borderline WR1/WR2. Monitor Minnesota's Friday injury report.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
+        "player": "Justin Jefferson",
+        "team": "MIN",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Minnesota's Friday injury report"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "John Harbaugh named J.J. McCarthy (NYG) the starter at HOU over Jameis Winston. McCarthy threw for 243 yards, a TD and an interception in relief vs NO, most of it after the Giants fell behind 34-10. He is outside my top 12 this week. Monitor his first start at Houston Sunday before you add him in superflex leagues.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-21",
+        "player": "J.J. McCarthy",
+        "team": "NYG",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "his first start at Houston Sunday"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "David Montgomery (HOU) missed practice Wednesday with the groin, still week to week with Houston's bye in Week 8. Woody Marks played 78 percent of the snaps in Week 6 and is RB20 for me vs NYG, an RB2. Montgomery is RB21 rest of season for me. Monitor Houston's Friday injury report.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-21",
+        "player": "David Montgomery",
+        "team": "HOU",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Houston's Friday injury report"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Breece Hall (NYJ) missed practice again Wednesday with the quad, and Aaron Glenn would not rule him out vs MIA but said Braelon Allen keeps getting touches. Allen is RB12 for me this week, borderline RB1/RB2. Hall is RB16 rest of season for me. Monitor New York's Friday injury report.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
+        "player": "Breece Hall",
+        "team": "NYJ",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "New York's Friday injury report"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Rashee Rice (KC) did not practice Wednesday with the hamstring, though Andy Reid said he is making progress; he also missed practice last Wednesday and Thursday. WR20 rest of season for me. Monitor Kansas City's Thursday practice report before Sunday at SEA.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
+        "player": "Rashee Rice",
+        "team": "KC",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Kansas City's Thursday practice report"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Tyler Warren (IND) did not practice Wednesday with the groin that kept him out vs TEN in Week 6, when Keenan Allen drew 11 targets. Warren is outside my top 12 this week until he practices and TE3 rest of season for me. Monitor Indianapolis' Friday injury report.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
+        "player": "Tyler Warren",
+        "team": "IND",
+        "pos": "TE",
+        "action": "MONITOR",
+        "watch": "Indianapolis' Friday injury report"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Mike Evans (SF) did not practice Wednesday with the Achilles tendinitis and is expected to miss Sunday at ATL, with San Francisco's bye after it, so Week 9 is the earliest return. WR26 rest of season for me. Hold him on your bench; a missed practice after the bye makes him a sell.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-21/mike-evans-achilles-dnp-on-wednesday",
+        "player": "Mike Evans",
+        "team": "SF",
+        "pos": "WR",
+        "action": "HOLD",
+        "why": "Week 9 is the earliest return; a missed practice after the bye makes him a sell."
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Quinshon Judkins (CLE) was limited Wednesday with the ankle after missing Week 6, and Todd Monken is optimistic he plays at TEN. He is RB20 rest of season for me and outside my top 40 backs this week until he practices in full. Monitor Cleveland's Friday injury report.",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
+        "player": "Quinshon Judkins",
+        "team": "CLE",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Cleveland's Friday injury report"
+      },
+      {
+        "at": "2026-10-21T22:15:00Z",
+        "text": "Jordan Love (GB) was limited Wednesday with the back. He is QB3 for me this week at DET. Monitor Green Bay's Friday injury report.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-21",
+        "player": "Jordan Love",
+        "team": "GB",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Green Bay's Friday injury report"
+      },
       {
         "at": "2026-10-21T16:15:00Z",
         "player": "Christian Kirk",
@@ -190,6 +340,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2112673373239275687"
+    },
+    {
+      "id": "2026w07-notes-thread-ce53",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

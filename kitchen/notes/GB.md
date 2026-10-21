@@ -215,3 +215,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-10: Chris Brooks: placed on IR Saturday with the ankle. (nfl.com)
 - 2026-10-13: Jordan Love: 77% completions and 4 TD passes over Weeks 4 and 5; 48% rostered (NFL.com waiver column).
 - 2026-10-13: Week 6 vs DAL Sunday night (schedule).
+- 2026-10-21: Jordan Love (back) limited Wednesday; Christian Watson, Matthew Golden limited. [NFL.com Wednesday roundup]

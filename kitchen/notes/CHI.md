@@ -227,3 +227,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-01: Week 4 vs NYJ: CHI favored by 3.5 with a 42.5 total (odds pages).
 - 2026-10-07: Kyle Monangai (thumb) likely to play Week 5 at GB per Ben Johnson's day-to-day label (Yahoo, NBC Sports).
 - 2026-10-09: Kyle Monangai: out @GB (turf toe, thumb), DNP all week, walking boot, two to three weeks. D'Andre Swift FP Friday, no designation. Caleb Williams questionable, first practice (LP) Friday; Bagent starts (Friday report).
+- 2026-10-21: Kyle Monangai (thumb/toe) ruled out Thursday vs NE, third straight game, no practice all week; Jonah Jackson full, will play. [NFL.com, Yahoo Sports, TSN]

@@ -205,3 +205,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-19: The Browns have a revolving door at quarterback, a questionable offensive line and a roster not built to score much; new play caller Todd Monken is reportedly excited about Quinshon Judkins. [8-19 RBs drafting and fading]
 - 2026-10-01: Browns: Week 4 is PIT at CLE, Thursday Oct 1, 8:15 PM ET at Huntington Bank Field. Week 3 was the home opener vs CAR. [pod 9-29, official]
 - 2026-10-13: Dylan Sampson: eligible to return from IR the week of Week 6; 9% rostered (NFL.com waiver column).
+- 2026-10-21: Quinshon Judkins (ankle) limited Wednesday; Todd Monken optimistic he plays at TEN. Dylan Sampson (knee, IR window) limited. [NFL.com Wednesday roundup, Yahoo Sports]

@@ -189,3 +189,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-09: Chiefs finished 15th, 15th and 21st in points the last three seasons and 16th and 20th in yards the last two; Travis Kelce is becoming a catch-and-fall player. [8-9 QB preview]
 - 2026-08-20: Kenneth Walker: In 2025 with Seattle he finished RB22 in total half-PPR points and RB29 in points per game, a relative disappointment despite the Super Bowl run. [8-20 buying or selling rookie hype]
 - 2026-09-30: Defense has allowed the fewest fantasy points to quarterbacks and the third-fewest to wide receivers through Week 3 (reports).
+- 2026-10-21: Rashee Rice (hamstring) DNP Wednesday; Andy Reid says he is making progress. RT Jaylon Moore (concussion) DNP. [NFL.com Wednesday roundup, Yahoo Sports]
