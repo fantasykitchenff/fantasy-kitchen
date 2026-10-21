@@ -226,6 +226,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-17: Saturday report for MNF vs WAS: Mike Evans (ribs, Achilles) questionable after DNP Thursday and Friday and side work Saturday; Deebo Samuel, Nick Bosa, Marques Sigle and Garret Wallow out (Nick Wagoner via Yahoo, NBC Sports).
 - 2026-10-19: Christian Kirk: questionable (calf) for MNF vs WAS after three limited practices; expected to be reinstated from IR, per Cam Inman. [pod 10-19, beat]
 - 2026-10-20: Mike Evans: left with the Achilles at 1:03 of Q2 vs WAS on MNF, returned, led SF with 94 yards on 3 catches; Shanahan said he is only sore and needs no more testing. SF won 23-17 to go 6-0; Kittle 5 for 69 and a TD, McCaffrey 2 rushing TDs, Kittle and McCaffrey combined for 18 targets (NFL.com, 49ers.com).
+- 2026-10-21: Christian Kirk (calf, IR): Kyle Shanahan said he is a possibility for Week 7 at ATL after two good practices; Mike Evans (Achilles) looks unlikely to play (The Athletic via NBC Sports).
 
 ## Other
 

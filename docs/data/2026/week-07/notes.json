@@ -6,12 +6,32 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-20T22:15:00Z",
+  "updatedAt": "2026-10-21T16:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-21T16:15:00Z",
+        "player": "Christian Kirk",
+        "team": "SF",
+        "pos": "WR",
+        "action": "ADD",
+        "faab": "0-2%",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "text": "Kyle Shanahan said Christian Kirk (SF) is a possibility for Sunday at ATL after two good practices with the calf, and Mike Evans (Achilles) looks unlikely to play. Kirk is still on IR and has not played a snap this season, so he would step into a receiver room missing its top target. Add him in 12-team leagues, 0 to 2 percent of FAAB."
+      },
+      {
+        "at": "2026-10-21T16:15:00Z",
+        "player": "Jordyn Tyson",
+        "team": "NO",
+        "pos": "WR",
+        "action": "HOLD",
+        "why": "No practice window opening after the Week 8 bye makes him a drop.",
+        "url": "https://www.rotowire.com/football/news.php",
+        "text": "Saints GM Mickey Loomis said Jordyn Tyson (NO) won't practice this week with the hamstring but is getting closer. New Orleans plays PIT in Paris Sunday and then has its Week 8 bye, so Tyson has at least two more weeks on IR. WR55 rest of season for me. Hold him in an IR spot; no practice window after the bye makes him a drop."
+      },
       {
         "at": "2026-10-20T22:15:00Z",
         "player": "Terry McLaurin",

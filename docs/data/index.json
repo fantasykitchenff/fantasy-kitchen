@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 7,
-  "updatedAt": "2026-10-21T02:48:04Z",
+  "updatedAt": "2026-10-21T16:10:44Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 7,
+      "path": "2026/week-07/notes.json",
+      "title": "Kitchen notes, Week 7",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-20T16:10:00Z",
+      "updatedAt": "2026-10-21T16:15:00Z"
+    },
     {
       "series": "menu",
       "week": 7,
@@ -28,15 +37,6 @@
       "title": "Heat Check, Week 7",
       "dek": "Kendre Miller took 20 carries and the most snaps in New Orleans. The stove's on in the Saints' backfield.",
       "publishedAt": "2026-10-20T17:00:00Z",
-      "updatedAt": "2026-10-20T22:15:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 7,
-      "path": "2026/week-07/notes.json",
-      "title": "Kitchen notes, Week 7",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-20T16:10:00Z",
       "updatedAt": "2026-10-20T22:15:00Z"
     },
     {
