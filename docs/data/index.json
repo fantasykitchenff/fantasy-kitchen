@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 7,
-  "updatedAt": "2026-10-21T00:34:08Z",
+  "updatedAt": "2026-10-21T02:48:04Z",
   "pieces": [
+    {
+      "series": "menu",
+      "week": 7,
+      "path": "2026/week-07/menu.json",
+      "title": "The Menu, Week 7",
+      "dek": "Brock Purdy is QB1, Jahmyr Gibbs comes off the bye at RB1, and Dameon Pierce jumps to RB18 as Philadelphia's only healthy back.",
+      "publishedAt": "2026-10-21T02:46:36Z",
+      "updatedAt": "2026-10-21T02:46:36Z"
+    },
     {
       "series": "market",
       "week": 7,
