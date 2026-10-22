@@ -146,6 +146,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Blake Grupe (K): placed on IR with the knee hurt on a Week 6 kickoff tackle; Harrison Mevis a candidate to return (Yahoo Sports).
 - 2026-10-19: Davante Adams: injury is a ruptured hamstring, not the knee first reported; Sean McVay said he will miss 6 to 10 weeks. Several Monday recaps recorded before the news still call it a knee. [pod 10-20, coach]
 - 2026-10-21: Terrance Ferguson (ankle, IR): expected to stay out beyond his Week 8 eligibility, recovery "will take some time" (Adam Schefter, ESPN); no return date. Supersedes "IR until Week 8". [pod 10-22, beat]
+- 2026-10-21: Davante Adams (ruptured hamstring): the Rams are waiting to schedule the repair, with Sean McVay holding off until the best time; ESPN's Jeremy Fowler reports Adams hopes to be back near the post-Week 11 bye. 6-to-10-week timeline unchanged. [pod 10-22, beat]
 
 ## Depth chart
 

@@ -6,12 +6,140 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-22T20:20:00Z",
+  "updatedAt": "2026-10-22T20:35:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "player": "Dameon Pierce",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "HOLD",
+        "why": "Barkley being ruled out Saturday or inactive Monday puts Pierce back in the RB2 range.",
+        "url": "",
+        "text": "Dameon Pierce (PHI) played 61 of 64 snaps vs CAR with Saquon Barkley inactive, and that share goes back to Barkley now. Philadelphia waived Jaydon Blue, put Carson Steele on waived/injured and signed Elijah Mitchell to the practice squad, so Pierce is the only backup. Off my RB top 40 this week; sit him and hold him as the handcuff unless Barkley is ruled out."
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "player": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "2-4%",
+        "url": "",
+        "text": "Denver designated Jonah Coleman (DEN) to return from IR Wednesday and he practiced, opening his 21-day window from the high ankle sprain. His activation cuts into J.K. Dobbins' early downs; Dobbins is RB24 for me this week, an RB2. Coleman is RB48 rest of season. Stash him, 2 to 4 percent of FAAB, and hold him where he is rostered."
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "player": "Saquon Barkley",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Philadelphia's Saturday injury report and Monday's inactives",
+        "url": "",
+        "text": "Saquon Barkley (PHI) practiced in full Thursday from the hamstring, and ESPN reports he is expected to play Monday vs DAL after missing two games. RB18 for me this week, an RB2, and RB9 rest of season. Monitor Philadelphia's Saturday injury report and Monday's inactives."
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "text": "Lamar Jackson (BAL) was limited Wednesday and limping as he left practice, then was back at practice Thursday. Tyler Huntley starts vs CIN if he sits. Lamar is QB21 for me this week, outside my top 12 until he practices in full, and QB2 rest of season. Monitor Baltimore's Friday injury report.",
+        "url": "",
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Baltimore's Friday injury report"
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "text": "Baker Mayfield (TB) practiced in full Wednesday and Thursday on the right thumb, and Todd Bowles decides Friday whether he or Jalon Daniels starts at CAR. Mayfield is outside my top 12 this week and QB24 rest of season for me. Monitor Todd Bowles' Friday decision.",
+        "url": "",
+        "player": "Baker Mayfield",
+        "team": "TB",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Todd Bowles' Friday decision"
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "text": "Bucky Irving (TB) was back at practice Thursday after missing Wednesday with an illness. He is RB13 for me this week at CAR, borderline RB1/RB2. Monitor Tampa Bay's Friday injury report.",
+        "url": "",
+        "player": "Bucky Irving",
+        "team": "TB",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Tampa Bay's Friday injury report"
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "text": "Emeka Egbuka (TB) is still in the concussion protocol and did side work only Thursday. He is WR27 for me this week, a high-end WR3, only if he clears the protocol. Monitor his concussion status on Friday's injury report.",
+        "url": "",
+        "player": "Emeka Egbuka",
+        "team": "TB",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "his concussion status on Friday's injury report"
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "text": "Breece Hall (NYJ) was back at practice Thursday after missing Wednesday with the quad. Braelon Allen (NYJ) played 87 percent of the snaps in Week 6 and holds RB12 for me this week only if Hall is ruled out; if Hall plays, Allen drops to a split and the flex range. Hall is RB16 rest of season for me. Monitor New York's Friday injury report for both.",
+        "url": "",
+        "player": "Breece Hall",
+        "team": "NYJ",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "New York's Friday injury report"
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "text": "Tyler Warren (IND) did not practice Wednesday with the groin and was not seen at practice Thursday; Keenan Allen drew 11 targets when Warren sat in Week 6. Warren is outside my top 12 this week until he practices and TE3 rest of season for me. Monitor Indianapolis' Friday injury report.",
+        "url": "",
+        "player": "Tyler Warren",
+        "team": "IND",
+        "pos": "TE",
+        "action": "MONITOR",
+        "watch": "Indianapolis' Friday injury report"
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "player": "Tank Dell",
+        "team": "HOU",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "his route share vs NYG Sunday",
+        "text": "DeMeco Ryans said Tank Dell (HOU) will play Sunday vs NYG, his first game since December 2024. He plays the slot, so Jaylin Noel loses routes first; Noel ran 63 percent of the routes in Week 6. Monitor Dell's route share vs NYG Sunday before you add him.",
+        "url": ""
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "player": "Josh Jacobs",
+        "team": "GB",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Green Bay's Friday injury report",
+        "text": "Josh Jacobs (GB) practiced Thursday in his first week back from the exempt list. RB17 for me this week at DET, an RB2, and RB37 rest of season. Monitor Green Bay's Friday injury report."
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "player": "Zach Charbonnet",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "his snap share vs KC Sunday",
+        "text": "Seattle activated Zach Charbonnet (SEA) off PUP Thursday after a full practice Wednesday, so he plays vs KC in his first game since the ACL. The fill-ins split 46 and 27 snaps Sunday. He is RB39 for me this week, a low-end flex play to a dart throw, so sit him for his first game; RB47 rest of season. Monitor his snap share vs KC Sunday."
+      },
+      {
+        "at": "2026-10-22T20:35:00Z",
+        "player": "Jeremiyah Love",
+        "team": "ARI",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Arizona's Friday injury report",
+        "url": "",
+        "text": "Jeremiyah Love (ARI) did not practice Wednesday with the ankle and is expected to miss Week 7 vs DEN, per the Cardinals' report. Bam Knight (ARI) ran 15 times for 80 with most of the red-zone touches the last time Love sat, and he leads the early downs once Love is ruled out. Love is RB15 rest of season for me. Monitor Arizona's Friday injury report for both."
+      },
       {
         "at": "2026-10-22T20:20:00Z",
         "player": "Terrance Ferguson",
@@ -72,56 +200,6 @@
         "text": "Jauan Jennings (MIN) has 2 catches for 9 yards in four games, and Tom Pelissero does not expect Minnesota to trade him. WR76 rest of season for me. Drop him for any add on the list."
       },
       {
-        "at": "2026-10-22T16:10:00Z",
-        "player": "Saquon Barkley",
-        "team": "PHI",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Philadelphia's Thursday practice report",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "text": "NFL Network's Mike Garafolo reports Saquon Barkley (PHI) is expected to return to practice Thursday from the hamstring that kept him inactive the last two games, and he is in line to play Monday vs DAL. RB9 rest of season for me. Dameon Pierce (PHI) played 61 of 64 snaps vs CAR and stays RB18 for me this week, an RB2, until Barkley practices in full. Monitor Philadelphia's Thursday practice report."
-      },
-      {
-        "at": "2026-10-21T22:15:00Z",
-        "text": "Lamar Jackson (BAL) was limited Wednesday, his first practice since the Week 4 ankle sprain, and Jesse Minter called it a day-by-day thing. Tyler Huntley starts vs CIN if he sits. Lamar is QB21 for me this week, a streamer until he practices in full, and QB2 rest of season. Monitor Baltimore's Friday injury report.",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
-        "player": "Lamar Jackson",
-        "team": "BAL",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Baltimore's Friday injury report"
-      },
-      {
-        "at": "2026-10-21T22:15:00Z",
-        "text": "Baker Mayfield (TB) practiced in full Wednesday for the first time since dislocating his right thumb in Week 3, and Todd Bowles will decide Friday whether he or Jalon Daniels starts at CAR. Mayfield is outside my top 12 this week and QB24 rest of season for me. Monitor Todd Bowles' Friday decision.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-21",
-        "player": "Baker Mayfield",
-        "team": "TB",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Todd Bowles' Friday decision"
-      },
-      {
-        "at": "2026-10-21T22:15:00Z",
-        "text": "Bucky Irving (TB) missed practice Wednesday with an illness. He is RB13 for me this week at CAR, borderline RB1/RB2. Monitor Tampa Bay's Thursday practice report.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-21",
-        "player": "Bucky Irving",
-        "team": "TB",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Tampa Bay's Thursday practice report"
-      },
-      {
-        "at": "2026-10-21T22:15:00Z",
-        "text": "Emeka Egbuka (TB) did not practice Wednesday with a concussion and a foot injury. He is WR27 for me this week, a high-end WR3, only if he clears the protocol. Monitor his concussion status on Friday's injury report.",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
-        "player": "Emeka Egbuka",
-        "team": "TB",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "his concussion status on Friday's injury report"
-      },
-      {
         "at": "2026-10-21T22:15:00Z",
         "text": "Chicago ruled out Kyle Monangai (CHI) for Thursday vs NE with the thumb and toe after he missed every walkthrough this week, his third straight game out. D'Andre Swift leads the backfield again and is RB10 for me this week. Monangai is RB29 rest of season for me; hold him, and a missed practice next week makes him a drop.",
         "url": "https://www.tsn.ca/nfl/article/bears-rb-monangai-toe-thumb-out-thursday-night-vs-patriots-n1-50240756/",
@@ -173,16 +251,6 @@
       },
       {
         "at": "2026-10-21T22:15:00Z",
-        "text": "Breece Hall (NYJ) missed practice again Wednesday with the quad, and Aaron Glenn would not rule him out vs MIA but said Braelon Allen keeps getting touches. Allen is RB12 for me this week, borderline RB1/RB2. Hall is RB16 rest of season for me. Monitor New York's Friday injury report.",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
-        "player": "Breece Hall",
-        "team": "NYJ",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "New York's Friday injury report"
-      },
-      {
-        "at": "2026-10-21T22:15:00Z",
         "text": "Rashee Rice (KC) did not practice Wednesday with the hamstring, though Andy Reid said he is making progress; he also missed practice last Wednesday and Thursday. WR20 rest of season for me. Monitor Kansas City's Thursday practice report before Sunday at SEA.",
         "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
         "player": "Rashee Rice",
@@ -190,16 +258,6 @@
         "pos": "WR",
         "action": "MONITOR",
         "watch": "Kansas City's Thursday practice report"
-      },
-      {
-        "at": "2026-10-21T22:15:00Z",
-        "text": "Tyler Warren (IND) did not practice Wednesday with the groin that kept him out vs TEN in Week 6, when Keenan Allen drew 11 targets. Warren is outside my top 12 this week until he practices and TE3 rest of season for me. Monitor Indianapolis' Friday injury report.",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
-        "player": "Tyler Warren",
-        "team": "IND",
-        "pos": "TE",
-        "action": "MONITOR",
-        "watch": "Indianapolis' Friday injury report"
       },
       {
         "at": "2026-10-21T22:15:00Z",
@@ -292,15 +350,6 @@
       },
       {
         "at": "2026-10-20T18:50:00Z",
-        "player": "Tank Dell",
-        "team": "HOU",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "his route share vs NYG Sunday",
-        "text": "Houston plans to activate Tank Dell (HOU) off IR for Week 7 vs NYG, his first game since the 2024 knee injury. He plays the slot, so Jaylin Noel and the depth receivers lose snaps first. Monitor his route share vs NYG Sunday before you add him."
-      },
-      {
-        "at": "2026-10-20T18:50:00Z",
         "player": "Jaylin Noel",
         "team": "HOU",
         "pos": "WR",
@@ -310,29 +359,11 @@
       },
       {
         "at": "2026-10-20T18:50:00Z",
-        "player": "Josh Jacobs",
-        "team": "GB",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Green Bay's Wednesday practice report",
-        "text": "Matt LaFleur would not commit to Josh Jacobs (GB) playing Week 7 at DET, though Jacobs is off the exempt list and eligible. RB37 rest of season for me. Monitor Green Bay's Wednesday practice report."
-      },
-      {
-        "at": "2026-10-20T18:50:00Z",
         "player": "MarShawn Lloyd",
         "team": "GB",
         "pos": "RB",
         "action": "DROP",
         "text": "MarShawn Lloyd (GB) ran 8 times for 10 and played 30 snaps vs DAL, 11 fewer than the back ahead of him, and Josh Jacobs is eligible again. RB41 rest of season for me; drop him for any add."
-      },
-      {
-        "at": "2026-10-20T18:50:00Z",
-        "player": "Zach Charbonnet",
-        "team": "SEA",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Seattle's Wednesday practice report",
-        "text": "Mike Macdonald said there is a good chance Zach Charbonnet (SEA) plays Week 7 vs KC. The fill-ins split 46 and 27 snaps Sunday, so the early downs are his when he is back. RB47 rest of season for me. Monitor Seattle's Wednesday practice report."
       },
       {
         "at": "2026-10-20T18:50:00Z",
@@ -390,16 +421,6 @@
         "watch": "Tampa Bay's Wednesday practice report",
         "url": "https://dknetwork.draftkings.com/2026/10/20/nfl-injury-report-week-7/",
         "text": "Baker Mayfield (TB) is set to practice Wednesday on the dislocated right thumb, but Fox Sports' Greg Auman reports Todd Bowles is still planning for Jalon Daniels to make a fourth straight start at CAR. Mayfield is QB24 rest of season for me. Monitor; Tampa Bay's Wednesday practice report."
-      },
-      {
-        "at": "2026-10-20T16:10:00Z",
-        "player": "Jeremiyah Love",
-        "team": "ARI",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Arizona's Wednesday practice report",
-        "url": "https://dknetwork.draftkings.com/2026/10/20/nfl-injury-report-week-7/",
-        "text": "Jeremiyah Love (ARI) was expected to do some running Tuesday on the ankle, per Mike LaFleur, after missing Week 6 at LAR, where Bam Knight ran 15 times for 80. Love is RB15 rest of season for me. Monitor; Arizona's Wednesday practice report before at DEN."
       }
     ]
   },

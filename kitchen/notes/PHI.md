@@ -178,6 +178,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-07-20: Philadelphia used its first three picks on offense (WR Makai Lemon, TE Eli Stowers, OL Markell Bell) and signed Hollywood Brown after losing AJ Brown; last year the tush push drew more false starts and was stripped. [7-20 coaching change talk]
 - 2026-09-21: Zach Ertz signed to the practice squad after Dallas Goedert's MCL sprain (hurt in Week 2 vs TEN). Eli Stowers and Grant Calcaterra are on injured reserve (NBC Sports Philadelphia, ESPN). [pod 9-29, official]
 - 2026-10-19: Andy Dalton: released by Philadelphia Oct 9, declined a return, and signed with Atlanta Oct 19; Tanner McKee is the Eagles' starter. [pod 10-19, official]
+- 2026-10-21: Signed RB Elijah Mitchell to the practice squad, waived RB Jaydon Blue, waived/injured RB Carson Steele (shoulder), released C James Brockermeyer and RB Ian Wheeler from the practice squad (philadelphiaeagles.com). Week of Oct 19; exact day not confirmed. [pod 10-22, official]
 
 ## Injuries and status
 
@@ -212,6 +213,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Saquon Barkley (hamstring) inactive vs CAR in Week 6, second straight missed game; DeVonta Smith active after missing two games with the hamstring (Yahoo Sports).
 - 2026-10-19: Jalen Hurts: first diagnosed in London with a left calf superficial vein thrombosis; later testing found a deep vein thrombosis and bilateral pulmonary emboli; treated with blood thinners and no contact activity during treatment; placed on IR Oct 17; expected to miss the rest of the 2026 season (Rapoport: about three months); team and agent expect a full recovery. [pod 10-19, official]
 - 2026-10-18: Dontayvion Wicks: went down in pain after a tackle on his right ankle late vs CAR; 2 catches on 4 targets for 24; no diagnosis yet. [pod 10-19, official]
+- 2026-10-22: Saquon Barkley (hamstring) returned to practice Thursday as a full participant (CBS); ESPN reports he is expected to play Monday vs DAL after missing the last two games. Supersedes the 10-22 line "expected to return to practice Thursday". [pod 10-22, beat]
 
 ## Other
 

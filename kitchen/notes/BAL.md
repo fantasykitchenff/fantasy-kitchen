@@ -174,6 +174,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Ja'Kobi Lane returned to practice off IR (wrist surgery, missed four games); the team site lists him as activated. [pod 10-14, official]
 - 2026-10-15: Lamar Jackson: DNP Thursday (ankle), second straight day. Zay Flowers added as limited (toe); Rashod Bateman downgraded to DNP (shoulder); Ja'Kobi Lane full. [NFL.com Thursday roundup, team reports]
 - 2026-10-19: Rashod Bateman aggravated the shoulder (on the report the prior two weeks) and left late in Q2 @CLE, 0 of 1 target on 11 routes; Minter said Monday he "should be OK", and practice decides Week 7. [pod 10-19, coach]
+- 2026-10-21: Lamar Jackson (ankle) limited Wednesday and reported limping as he left practice; present and participating at the start of Thursday's practice (ProFootballTalk, Baltimore Sun). [pod 10-22, beat]
 
 ## Other
 

@@ -6,9 +6,9 @@
   "dek": "Brock Purdy is QB1, Jahmyr Gibbs comes off the bye at RB1, and Dameon Pierce jumps to RB18 as Philadelphia's only healthy back.",
   "format": "PPR",
   "publishedAt": "2026-10-21T02:46:36Z",
-  "updatedAt": "2026-10-22T20:20:00Z",
+  "updatedAt": "2026-10-22T20:35:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Thu 4:20 PM ET: T.J. Hockenson practiced in full Wednesday but is still in the concussion protocol; he stays TE13 for me vs IND, a streamer, only if he is cleared, and Kyle Pitts Sr. is the pivot if he is ruled out.\n\nUpdated Tue 10:50 PM ET: the Week 7 order is refreshed through Tuesday night's news, ahead of Wednesday's practice reports.\n\nWeek 7 has four teams on bye: Buffalo, Jacksonville, the Chargers and Washington are off, so none of their players are on the Menu. New England opens at Chicago Thursday night, and Dallas at Philadelphia closes the week Monday night. Rankings are for full PPR.\n\nBrock Purdy leads the quarterbacks with San Francisco at 6-0, Jahmyr Gibbs comes off the bye as RB1, and Puka Nacua is WR1 with Davante Adams out 6 to 10 weeks. Brock Bowers is TE1. Dameon Pierce moves into the RB2 range at RB18 as Philadelphia's only healthy back, and Germie Bernard is WR24 with two Pittsburgh receivers on IR.\n\nLamar Jackson (ankle), Josh Jacobs, Tucker Kraft (knee), Mike Evans (Achilles) and D'Andre Swift all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
+  "intro_md": "Updated Thu 4:35 PM ET: Saquon Barkley practiced in full Thursday and is expected to play Monday vs DAL, so he is RB18 for me, an RB2, and Dameon Pierce goes back to the handcuff role and off the Menu. Breece Hall was back at practice Thursday, so Braelon Allen holds RB12 only if Hall is ruled out Friday; if Hall plays, Allen falls into the flex range. Josh Jacobs practiced Thursday and stays RB17, an RB2.\n\nUpdated Thu 4:20 PM ET: T.J. Hockenson practiced in full Wednesday but is still in the concussion protocol; he stays TE13 for me vs IND, a streamer, only if he is cleared, and Kyle Pitts Sr. is the pivot if he is ruled out.\n\nUpdated Tue 10:50 PM ET: the Week 7 order is refreshed through Tuesday night's news, ahead of Wednesday's practice reports.\n\nWeek 7 has four teams on bye: Buffalo, Jacksonville, the Chargers and Washington are off, so none of their players are on the Menu. New England opens at Chicago Thursday night, and Dallas at Philadelphia closes the week Monday night. Rankings are for full PPR.\n\nBrock Purdy leads the quarterbacks with San Francisco at 6-0, Jahmyr Gibbs comes off the bye as RB1, and Puka Nacua is WR1 with Davante Adams out 6 to 10 weeks. Brock Bowers is TE1. Saquon Barkley is RB18 back from the hamstring, and Germie Bernard is WR24 with two Pittsburgh receivers on IR.\n\nLamar Jackson (ankle), Josh Jacobs, Tucker Kraft (knee), Mike Evans (Achilles) and D'Andre Swift all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
   "outro_md": "Prep Notes updates the Menu Friday after the final injury report.",
   "data": {
     "positions": {
@@ -258,10 +258,10 @@
           "team": "BAL",
           "pos": "QB",
           "opp": "vs CIN",
-          "note": "Day to day with the ankle; Tyler Huntley starts if he sits.",
+          "note": "Limited Wednesday, back at practice Thursday; Tyler Huntley starts if he sits.",
           "flag": "",
           "action": "SIT",
-          "watch": "Baltimore's Wednesday practice report"
+          "watch": "Baltimore's Friday injury report"
         },
         {
           "rank": 22,
@@ -270,7 +270,7 @@
           "team": "BAL",
           "pos": "QB",
           "opp": "vs CIN",
-          "note": "Starts only if Lamar Jackson sits; watch Wednesday's practice report.",
+          "note": "Starts only if Lamar Jackson sits; watch Friday's injury report.",
           "flag": "",
           "action": "SIT"
         },
@@ -441,10 +441,11 @@
           "team": "NYJ",
           "pos": "RB",
           "opp": "vs MIA",
-          "note": "Breece Hall has not practiced since the quad; Allen leads the Jets backs.",
+          "note": "Breece Hall returned to practice Thursday; Allen holds this spot only if Hall is out.",
           "flag": "",
           "action": "START",
-          "slot": "RB1"
+          "slot": "RB1",
+          "watch": "New York's Friday injury report for Breece Hall"
         },
         {
           "rank": 13,
@@ -501,23 +502,24 @@
           "team": "GB",
           "pos": "RB",
           "opp": "@DET",
-          "note": "Eligible again, LaFleur would not commit; Wednesday's practice report decides.",
+          "note": "Practiced Thursday in his first week back; Friday's injury report decides.",
           "flag": "",
           "action": "START",
           "slot": "RB2",
-          "watch": "Green Bay's Wednesday practice report"
+          "watch": "Green Bay's Friday injury report"
         },
         {
           "rank": 18,
           "tier": 4,
-          "player": "Dameon Pierce",
+          "player": "Saquon Barkley",
           "team": "PHI",
           "pos": "RB",
           "opp": "vs DAL",
-          "note": "61 of 64 snaps vs CAR as Philadelphia's only healthy back.",
+          "note": "Full practice Thursday off the hamstring after two missed games; expected to play Monday.",
           "flag": "",
           "action": "START",
-          "slot": "RB2"
+          "slot": "RB2",
+          "watch": "Philadelphia's Saturday injury report and Monday's inactives"
         },
         {
           "rank": 19,
@@ -587,7 +589,7 @@
           "team": "DEN",
           "pos": "RB",
           "opp": "@ARI",
-          "note": "",
+          "note": "Jonah Coleman practiced off IR Wednesday; his activation cuts Dobbins' early downs.",
           "flag": "",
           "action": "START",
           "slot": "RB2"
@@ -633,7 +635,7 @@
           "team": "ARI",
           "pos": "RB",
           "opp": "vs DEN",
-          "note": "",
+          "note": "Jeremiyah Love is expected out again; Bam Knight took the red-zone work in Week 6.",
           "flag": "",
           "action": "FLEX"
         },
@@ -754,7 +756,7 @@
           "team": "SEA",
           "pos": "RB",
           "opp": "vs KC",
-          "note": "",
+          "note": "Off PUP Thursday; expect a snap count in his first game since the ACL.",
           "flag": "",
           "action": "SIT"
         },
@@ -1961,9 +1963,10 @@
           "team": "NYJ",
           "pos": "RB",
           "opp": "vs MIA",
-          "note": "Breece Hall has not practiced since the quad; Allen leads the Jets backs.",
+          "note": "Breece Hall returned to practice Thursday; Allen holds this spot only if Hall is out.",
           "flag": "",
-          "action": "FLEX"
+          "action": "FLEX",
+          "watch": "New York's Friday injury report for Breece Hall"
         },
         {
           "rank": 31,
@@ -2116,10 +2119,10 @@
           "team": "GB",
           "pos": "RB",
           "opp": "@DET",
-          "note": "Eligible again, LaFleur would not commit; Wednesday's practice report decides.",
+          "note": "Practiced Thursday in his first week back; Friday's injury report decides.",
           "flag": "",
           "action": "FLEX",
-          "watch": "Green Bay's Wednesday practice report"
+          "watch": "Green Bay's Friday injury report"
         },
         {
           "rank": 45,
@@ -2146,13 +2149,14 @@
         {
           "rank": 47,
           "tier": 5,
-          "player": "Dameon Pierce",
+          "player": "Saquon Barkley",
           "team": "PHI",
           "pos": "RB",
           "opp": "vs DAL",
-          "note": "61 of 64 snaps vs CAR as Philadelphia's only healthy back.",
+          "note": "Full practice Thursday off the hamstring after two missed games; expected to play Monday.",
           "flag": "",
-          "action": "FLEX"
+          "action": "FLEX",
+          "watch": "Philadelphia's Saturday injury report and Monday's inactives"
         },
         {
           "rank": 48,
@@ -2302,16 +2306,6 @@
       ]
     },
     "specials": [
-      {
-        "player": "Dameon Pierce",
-        "team": "PHI",
-        "pos": "RB",
-        "opp": "vs DAL",
-        "why": "He played 61 of 64 snaps vs CAR as Philadelphia's only healthy back, 12 carries and 4 catches, with Carson Steele out and Saquon Barkley inactive two straight games. Dallas on Monday night.",
-        "verdict": "RB18 for me this week, an RB2.",
-        "action": "START",
-        "slot": "RB2"
-      },
       {
         "player": "Germie Bernard",
         "team": "PIT",

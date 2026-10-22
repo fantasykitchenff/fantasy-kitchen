@@ -6,9 +6,9 @@
   "dek": "Emeka Egbuka drew 16 targets for 48 yards with a backup throwing. That is the prime cut to buy before Baker Mayfield is back.",
   "format": "PPR",
   "publishedAt": "2026-10-20T17:00:00Z",
-  "updatedAt": "2026-10-20T17:00:00Z",
+  "updatedAt": "2026-10-22T20:35:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Week 6 left good roles behind ugly box scores and handed touchdowns to players whose usage did not earn them. The buys are volume waiting on a quarterback, a healthy teammate or a better script; the sells scored on a rate that will not hold or on a job that is about to go back to its owner. Ranks are rest of season for me, PPR scoring, and prices are written for 12-team leagues. Four teams are on bye in Week 7: BUF, JAX, LAC and WAS.",
+  "intro_md": "Updated Thu 4:35 PM ET: Lamar Jackson was back at practice Thursday after a limited Wednesday; he is still a buy at QB2 rest of season before Friday's injury report. Breece Hall returned to practice Thursday, so sell Braelon Allen before Friday's report.\n\nWeek 6 left good roles behind ugly box scores and handed touchdowns to players whose usage did not earn them. The buys are volume waiting on a quarterback, a healthy teammate or a better script; the sells scored on a rate that will not hold or on a job that is about to go back to its owner. Ranks are rest of season for me, PPR scoring, and prices are written for 12-team leagues. Four teams are on bye in Week 7: BUF, JAX, LAC and WAS.",
   "outro_md": "Heat Check has the usage trends behind these calls, and the Menu ranks every one of them for Week 7 on Wednesday.",
   "data": {
     "buy": [
@@ -18,7 +18,7 @@
         "pos": "WR",
         "action": "TRADE_FOR",
         "price": "a WR3",
-        "why": "Emeka Egbuka (TB) drew 16 targets vs PIT, 37 percent of Jalon Daniels' 43 throws, after 36 percent of the targets in Week 5. He turned them into 7 catches for 48 because Daniels averaged 3.8 yards an attempt, and Baker Mayfield is set to practice Wednesday on the thumb.",
+        "why": "Emeka Egbuka (TB) drew 16 targets vs PIT, 37 percent of Jalon Daniels' 43 throws, after 36 percent of the targets in Week 5. He turned them into 7 catches for 48 because Daniels averaged 3.8 yards an attempt, and Baker Mayfield practiced in full Wednesday and Thursday on the thumb. Egbuka is still in the concussion protocol.",
         "verdict": "WR22 rest of season for me. Trade for him before Mayfield is back; offer a WR3."
       },
       {
@@ -72,8 +72,8 @@
         "pos": "QB",
         "action": "TRADE_FOR",
         "price": "a WR2",
-        "why": "Lamar Jackson (BAL) has missed two straight games with the left ankle, and Tyler Huntley went 19 of 31 for 165 in the 13-10 loss @CLE. Jesse Minter called Jackson day to day and said he could practice Wednesday.",
-        "verdict": "QB2 rest of season for me. Trade for him before Wednesday's practice report; offer a WR2."
+        "why": "Lamar Jackson (BAL) has missed two straight games with the left ankle, and Tyler Huntley went 19 of 31 for 165 in the 13-10 loss @CLE. Jackson was limited Wednesday and back at practice Thursday, still day to day.",
+        "verdict": "QB2 rest of season for me. Trade for him before Friday's injury report; offer a WR2."
       },
       {
         "player": "Chuba Hubbard",
@@ -182,8 +182,8 @@
         "pos": "RB",
         "action": "TRADE_AWAY",
         "price": "a WR3 with a full-time role",
-        "why": "Braelon Allen (NYJ) played 87 percent of the snaps @NE and ran 17 times for 78 with Breece Hall out a third game. Hall is due for his first practice since the quad Wednesday, and the job is his when he is healthy.",
-        "verdict": "RB49 rest of season for me with Hall healthy. Trade him away before Hall practices; ask for a WR3 with a full-time role."
+        "why": "Braelon Allen (NYJ) played 87 percent of the snaps @NE and ran 17 times for 78 with Breece Hall out a third game. Hall missed Wednesday and was back at practice Thursday, and the job is his when he is healthy.",
+        "verdict": "RB49 rest of season for me with Hall healthy. Trade him away before Friday's injury report; ask for a WR3 with a full-time role."
       },
       {
         "player": "Rhamondre Stevenson",

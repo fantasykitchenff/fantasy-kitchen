@@ -6,9 +6,9 @@
   "dek": "Germie Bernard runs every route for Pittsburgh, and Lamar Jackson and Patrick Mahomes II both fall outside my top 12.",
   "format": "PPR",
   "publishedAt": "2026-10-22T13:51:12Z",
-  "updatedAt": "2026-10-22T13:51:12Z",
+  "updatedAt": "2026-10-22T20:35:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Thursday is for the players you are agonizing over. Studs are not here. Every call below is the player's rank on this week's [Menu](menu.html?week=7) and the tier it falls in, PPR scoring, and you decide. Buffalo, Jacksonville, the Chargers and Washington are on bye.\n\nThursday night first: New England at Chicago, 8:15 PM ET, Chicago favored by 2.5 with a 49.5 total. The Patriots ruled out both starting guards and three cornerbacks, and the Bears ruled out Kyle Monangai again. Then the twelve the week favors, the ten it does not, and six coin flips where Friday's injury report picks the side. Wednesday's practice reports are in; Thursday's are not.",
+  "intro_md": "Updated Thu 4:35 PM ET: Saquon Barkley practiced in full Thursday and is expected to play Monday vs DAL, so Dameon Pierce moves to the sits as the handcuff and Barkley is RB18 for me, an RB2. Zach Charbonnet came off PUP Thursday and stays a sit for his first game back.\n\nThursday is for the players you are agonizing over. Studs are not here. Every call below is the player's rank on this week's [Menu](menu.html?week=7) and the tier it falls in, PPR scoring, and you decide. Buffalo, Jacksonville, the Chargers and Washington are on bye.\n\nThursday night first: New England at Chicago, 8:15 PM ET, Chicago favored by 2.5 with a 49.5 total. The Patriots ruled out both starting guards and three cornerbacks, and the Bears ruled out Kyle Monangai again. Then the twelve the week favors, the ten it does not, and six coin flips where Friday's injury report picks the side. Wednesday's practice reports are in; Thursday's are not.",
   "outro_md": "Prep Notes reconciles the ranks Friday after the final injury report. Sunday morning, Order Up carries the inactives and the pivots as each window's reports drop.",
   "data": {
     "tnf": [
@@ -93,16 +93,6 @@
         "verdict": "QB10 for me this week vs NYG.",
         "action": "START",
         "slot": "QB1"
-      },
-      {
-        "player": "Dameon Pierce",
-        "team": "PHI",
-        "pos": "RB",
-        "opp": "vs DAL",
-        "why": "61 of 64 snaps vs CAR as Philadelphia's only healthy back, with Saquon Barkley (hamstring) inactive two straight weeks and Carson Steele out with the shoulder. Monday night gives Barkley one more practice to show up.",
-        "verdict": "RB18 for me this week, an RB2, until Barkley practices in full.",
-        "action": "START",
-        "slot": "RB2"
       },
       {
         "player": "Woody Marks",
@@ -191,7 +181,7 @@
         "team": "BAL",
         "pos": "QB",
         "opp": "vs CIN",
-        "why": "Limited Wednesday with the ankle, still day to day. Tyler Huntley starts if he sits, and Baltimore's line had five starters limited Wednesday.",
+        "why": "Limited Wednesday with the ankle and limping as he left, then back at practice Thursday, still day to day. Tyler Huntley starts if he sits, and Baltimore's line had five starters limited Wednesday.",
         "verdict": "QB21 for me, outside my top 12; sit him for any top-12 quarterback until he practices in full.",
         "action": "SIT"
       },
@@ -218,7 +208,7 @@
         "team": "SEA",
         "pos": "RB",
         "opp": "vs KC",
-        "why": "Full practice Wednesday on the knee, but he has not played since the injury, and the fill-ins split 46 and 27 snaps Sunday. Expect a snap count in his first game back.",
+        "why": "Activated off PUP Thursday after a full practice Wednesday, but he has not played since the ACL, and the fill-ins split 46 and 27 snaps Sunday. Expect a snap count in his first game back.",
         "verdict": "RB39 for me, a low-end flex play to a dart throw; sit him until his snap share shows up.",
         "action": "SIT"
       },
@@ -275,6 +265,15 @@
         "why": "0 catches on a 45 percent route rate, and Tommy Tremble passed him in routes for the first time.",
         "verdict": "TE20 for me, a streamer at best; sit him for any top-12 tight end.",
         "action": "SIT"
+      },
+      {
+        "player": "Dameon Pierce",
+        "team": "PHI",
+        "pos": "RB",
+        "opp": "vs DAL",
+        "why": "61 of 64 snaps vs CAR came with Saquon Barkley (hamstring) inactive and Carson Steele out. Barkley practiced in full Thursday and is expected to play Monday, so Pierce goes back to the No. 2 share.",
+        "verdict": "Off my RB top 40 with Barkley back; sit him and keep him as the handcuff. Saquon Barkley is RB18 for me this week, an RB2.",
+        "action": "SIT"
       }
     ],
     "coinflips": [
@@ -294,7 +293,7 @@
         "team": "GB",
         "pos": "RB",
         "opp": "at DET",
-        "why": "Off the exempt list and eligible, but Matt LaFleur would not commit to him. MarShawn Lloyd ran 8 times for 10 on 30 snaps vs DAL, so the fill-in work is thin.",
+        "why": "Practiced Thursday in his first week back from the exempt list. MarShawn Lloyd ran 8 times for 10 on 30 snaps vs DAL, so the fill-in work is thin.",
         "verdict": "RB17 for me this week, an RB2, and the lean is to play him.",
         "action": "START",
         "slot": "RB2",

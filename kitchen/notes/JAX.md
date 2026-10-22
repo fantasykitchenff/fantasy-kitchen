@@ -183,6 +183,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-07-28: Parker Washington: Washington was awaiting a contract extension during training camp, and Liam Coen's offense is built around the deep crossing routes he wins on. [7-28 10 ADP Debate Session]
 - 2026-09-30: Brian Thomas Jr.: trade speculation named SF, KC and LV as fits; a national beat report says Jacksonville told teams it was not interested in moving him. No talks reported. [pod 9-30, beat]
+- 2026-10-22: Brian Thomas Jr.: national reporting says the Jaguars are taking periodic calls and no deal is expected; no national report names a trade partner; the Washington and Kansas City links are speculation only. [pod 10-22, beat]
 
 ## Injuries and status
 

@@ -215,6 +215,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Tyler Warren (groin) inactive vs TEN in Week 6 after a limited Friday; Mo Alie-Cox and Andrew Ogletree the tight ends. Colts inactives also Jaylon Carlies, Ashton Dulin, Riley Leonard, Dalton Tucker (Yahoo Sports live updates).
 - 2026-10-18: Tyler Warren: inactive Week 6 vs TEN with a groin injury suffered in Friday's practice; no return timeline given. [pod 10-19, official]
 - 2026-10-19: Sauce Gardner: calf strain in Week 6 vs TEN, considered week to week. [pod 10-19, beat]
+- 2026-10-22: Tyler Warren (groin) did not practice Wednesday and was not seen at practice Thursday (Rotowire, CBS). [pod 10-22, beat]
 
 ## Other
 

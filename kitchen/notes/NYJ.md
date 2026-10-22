@@ -168,6 +168,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Breece Hall still week to week and likely out Week 6 @NE; Braelon Allen played all but two snaps with Hall out in Week 4 (Yahoo Sports live updates).
 - 2026-10-15: Breece Hall: DNP Thursday (quad). Kenyon Sadiq limited (concussion). [NFL.com Thursday roundup, team reports]
 - 2026-10-15: Adonai Mitchell had surgery on a finger on his right hand, missed a fourth straight game and is week to week; no Week 7 return has been reported. [pod 10-19, beat]
+- 2026-10-22: Breece Hall (quad) back at practice Thursday after not practicing Wednesday (Rotowire, Yahoo Sports). [pod 10-22, beat]
 
 ## Other
 

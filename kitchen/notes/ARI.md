@@ -205,6 +205,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: Jeremiyah Love: not seen at practice Thursday (ankle), after missing Wednesday, per local reporters. [NFL.com Thursday roundup, team reports]
 - 2026-10-20: Jeremiyah Love (ankle): Mike LaFleur said Monday Love is expected to do some running Tuesday (Tyler Drake, ArizonaSports.com).
 - 2026-10-20: Jeremiyah Love (ankle) was expected to do some running Tuesday. [pod 10-20, beat]
+- 2026-10-21: Jeremiyah Love (ankle) did not practice Wednesday and is expected to miss Week 7 vs DEN (azcardinals.com report; Arizona Sports). Supersedes the 10-20 line about running Tuesday. [pod 10-22, beat]
 
 ## Other
 
