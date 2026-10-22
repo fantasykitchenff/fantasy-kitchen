@@ -6,12 +6,51 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-22T22:15:00Z",
+  "updatedAt": "2026-10-22T23:15:34Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-22T23:15:34Z",
+        "player": "Puka Nacua",
+        "action": "MONITOR",
+        "watch": "Friday's injury report and Sean McVay's Friday update",
+        "text": "Puka Nacua (LAR) left Thursday's practice early with a calf injury and was listed as limited, with Davante Adams already on IR. He stays my No. 1 receiver this week at LV until Friday's report. Monitor Friday's injury report and Sean McVay's Friday update.",
+        "url": "https://sports.yahoo.com/articles/puka-nacua-suffers-calf-injury-222000970.html"
+      },
+      {
+        "at": "2026-10-22T23:15:34Z",
+        "player": "Brock Bowers",
+        "action": "START",
+        "slot": "TE1",
+        "text": "Brock Bowers (LV) moved up to a full practice Thursday with the hamstring and calf. He drew 9 targets vs BUF and is my No. 1 tight end this week vs LAR.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22"
+      },
+      {
+        "at": "2026-10-22T23:15:34Z",
+        "player": "Bryce Young",
+        "action": "START",
+        "slot": "QB1",
+        "text": "Bryce Young (CAR) practiced in full Thursday with the knee, and he has 11 touchdown passes to 1 interception through five games. QB10 for me this week vs TB.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22"
+      },
+      {
+        "at": "2026-10-22T23:15:34Z",
+        "player": "Rico Dowdle",
+        "action": "FLEX",
+        "text": "Rico Dowdle (PIT) was limited Thursday with the knee, and he had 7 carries to Jaylen Warren's 14 at TB. RB31 for me in Paris vs NO, a low-end RB3 and a low-end flex play.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22"
+      },
+      {
+        "at": "2026-10-22T23:15:34Z",
+        "player": "Tony Pollard",
+        "action": "HOLD",
+        "why": "Thursday was a rest day, not an injury; a Friday designation would change the call.",
+        "text": "Tony Pollard (TEN) sat out Thursday's practice for rest, and Tyjae Spears was full. Pollard is RB21 for me vs CLE, an RB2; hold him and ignore the rest day unless Friday's report adds a designation.",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22"
+      },
       {
         "at": "2026-10-22T22:15:00Z",
         "player": "Elijah Arroyo",

@@ -159,3 +159,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: Rico Dowdle upgraded to full Thursday (toe). Roman Wilson and Ben Skowronek DNP. [NFL.com Thursday roundup, team reports]
 - 2026-10-18: DK Metcalf (illness), Pat Freiermuth (calf) and Rico Dowdle (toe, first game back after three missed) active @TB in Week 6; Ben Skowronek inactive (NBC Sports, Yahoo Sports).
 - 2026-10-17: Roman Wilson (finger) placed on IR, out at least four games. [pod 10-19, official]
+- 2026-10-22: Rico Dowdle: limited Thursday with the knee; Ben Skowronek (calf) ruled out for Sunday vs NO in Paris (NFL.com Thursday roundup).

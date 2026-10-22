@@ -185,6 +185,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: Ashton Jeanty: full Wednesday, limited Thursday with a foot injury added to the ankle; Mike Washington Jr. next (CBS Sports).
 - 2026-10-08: Jalen Nailor: DNP Thursday, concussion protocol, trending out @NE; Brock Bowers full Thursday (NBC Sports).
 - 2026-10-14: Klint Kubiak said Ashton Jeanty (foot) is playing Week 6 vs BUF (Yahoo Sports live updates).
+- 2026-10-22: Brock Bowers: upgraded to a full practice Thursday (hamstring, calf). Mike Washington Jr. did not practice Thursday (foot, back) (NFL.com Thursday roundup).
 
 ## Other
 
