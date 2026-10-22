@@ -6,9 +6,9 @@
   "dek": "Kendre Miller took 20 carries and the most snaps in New Orleans. The stove's on in the Saints' backfield.",
   "format": "PPR",
   "publishedAt": "2026-10-20T17:00:00Z",
-  "updatedAt": "2026-10-22T20:35:00Z",
+  "updatedAt": "2026-10-22T20:55:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Thu 4:35 PM ET: Jeremiyah Love did not practice Wednesday and is expected to miss Week 7, so Bam Knight stays an add at 1 to 3 percent and Tyler Allgeier stays a drop. Josh Jacobs practiced Thursday, and MarShawn Lloyd is still a drop.\n\nUpdated Thu 4:20 PM ET: added Chig Okonkwo and Rachaad White as risers and Jacory Croskey-Merritt as a faller after his IR move.\n\nUpdated Tue 6:15 PM ET: Terry McLaurin tore his patellar tendon and is out for the season, per Dan Quinn; drop him for any add.\n\nUpdated Tue 2:50 PM ET: Josh Jacobs is eligible but Matt LaFleur would not commit to him for Week 7 at DET; MarShawn Lloyd is still a drop, with Pierre Strong Jr. ahead of him on 41 snaps to 30.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 7 lineup ranks come with Wednesday's Menu.",
+  "intro_md": "Updated Thu 4:55 PM ET: the rest-of-season ranks are refreshed. Matthew Golden is WR25 and Luther Burden III WR22, both still risers to trade for; MarShawn Lloyd falls to RB55 and stays a drop, and Tyler Allgeier is RB44 and still a drop for Bam Knight.\n\nUpdated Thu 4:35 PM ET: Jeremiyah Love did not practice Wednesday and is expected to miss Week 7, so Bam Knight stays an add at 1 to 3 percent and Tyler Allgeier stays a drop. Josh Jacobs practiced Thursday, and MarShawn Lloyd is still a drop.\n\nUpdated Thu 4:20 PM ET: added Chig Okonkwo and Rachaad White as risers and Jacory Croskey-Merritt as a faller after his IR move.\n\nUpdated Tue 6:15 PM ET: Terry McLaurin tore his patellar tendon and is out for the season, per Dan Quinn; drop him for any add.\n\nUpdated Tue 2:50 PM ET: Josh Jacobs is eligible but Matt LaFleur would not commit to him for Week 7 at DET; MarShawn Lloyd is still a drop, with Pierre Strong Jr. ahead of him on 41 snaps to 30.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 7 lineup ranks come with Wednesday's Menu.",
   "outro_md": "Butcher Shop turns these trends into trade offers, and the Menu ranks every one of them for Week 7 on Wednesday.",
   "data": {
     "risers": [
@@ -58,7 +58,7 @@
         "pos": "WR",
         "stat": "Target share 36% to 37%; 16 targets in Week 6",
         "why": "Emeka Egbuka (TB) drew 25 targets over two weeks with Jalon Daniels at quarterback, 7 for 48 and a TD vs PIT. The volume stays, and Baker Mayfield's return fixes the efficiency.",
-        "verdict": "WR22 rest of season for me. Trade for him; offer a WR3.",
+        "verdict": "WR27 rest of season for me. Trade for him; offer a WR3.",
         "action": "TRADE_FOR",
         "price": "a WR3"
       },
@@ -68,7 +68,7 @@
         "pos": "WR",
         "stat": "86% of the snaps, 13 targets in Week 6",
         "why": "Matthew Golden (GB) led Green Bay with 13 targets vs DAL and caught 6 for 104 and a TD. Christian Watson caught 3 of 8.",
-        "verdict": "WR37 rest of season for me, and the targets say higher. Trade for him; offer a WR3.",
+        "verdict": "WR25 rest of season for me, and the targets say higher. Trade for him; offer a WR3.",
         "action": "TRADE_FOR",
         "price": "a WR3"
       },
@@ -78,7 +78,7 @@
         "pos": "RB",
         "stat": "28 carries; no other Carolina back over 1",
         "why": "Chuba Hubbard (CAR) ran 28 times for 120 and a TD @PHI, including a 19-yard run on fourth-and-1.",
-        "verdict": "RB25 rest of season for me. Trade for him; offer a WR3.",
+        "verdict": "RB21 rest of season for me. Trade for him; offer a WR3.",
         "action": "TRADE_FOR",
         "price": "a WR3"
       },
@@ -88,7 +88,7 @@
         "pos": "TE",
         "stat": "6 then 7 targets; 3 TDs in two weeks",
         "why": "Kyle Pitts Sr. (ATL) caught 5 for 60 and 2 TDs vs CHI on 21 percent of the targets, after 5 of 6 for 42 and a TD in Week 5. His share has climbed every week, so the touchdowns sit on real volume. A week under 15 percent of the targets is what would change the call.",
-        "verdict": "TE13 rest of season for me. Hold him; do not sell him for a backup tight end.",
+        "verdict": "TE14 rest of season for me. Hold him; do not sell him for a backup tight end.",
         "action": "HOLD"
       },
       {
@@ -97,7 +97,7 @@
         "pos": "WR",
         "stat": "Led Chicago in receiving yards two straight weeks",
         "why": "Luther Burden III (CHI) caught all 8 of his targets for 95 @ATL with Caleb Williams back. He ran about 18 routes, so the role is still growing.",
-        "verdict": "WR28 rest of season for me. Trade for him; offer a WR4 and a bench RB.",
+        "verdict": "WR22 rest of season for me. Trade for him; offer a WR4 and a bench RB.",
         "action": "TRADE_FOR",
         "price": "a WR4 and a bench RB"
       },
@@ -107,7 +107,7 @@
         "pos": "RB",
         "stat": "Snap share up to a season-high 35%",
         "why": "Mike Washington Jr. (LV) took half of the early-down snaps vs BUF and turned 10 touches into 50 yards. Ashton Jeanty still out-touched him 14 to 10.",
-        "verdict": "RB46 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
+        "verdict": "RB48 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
         "action": "CLAIM",
         "faab": "5-10%"
       },
@@ -147,7 +147,7 @@
         "pos": "WR",
         "stat": "9 routes on 12 snaps in his Houston debut",
         "why": "Marvin Harrison Jr. (HOU) caught 3 of 4 for 34 @JAX in a part-time debut DeMeco Ryans planned. His route share vs NYG is the next step, and a second game under half the routes is what would change the call.",
-        "verdict": "WR43 rest of season for me. Hold him; do not sell after a 12-snap game.",
+        "verdict": "WR37 rest of season for me. Hold him; do not sell after a 12-snap game.",
         "action": "HOLD"
       },
       {
@@ -165,7 +165,7 @@
         "team": "WAS",
         "pos": "TE",
         "stat": "13 targets over Weeks 5 and 6, 7 of 7 for 69 at SF",
-        "why": "Chig Okonkwo (WAS) caught all 7 of his targets for 69 yards in the 23-17 loss at SF, a week after a team-high 6 targets. Terry McLaurin is out for the season, and Washington is on bye in Week 7. TE23 rest of season for me.",
+        "why": "Chig Okonkwo (WAS) caught all 7 of his targets for 69 yards in the 23-17 loss at SF, a week after a team-high 6 targets. Terry McLaurin is out for the season, and Washington is on bye in Week 7. TE19 rest of season for me.",
         "verdict": "Stash him through the bye, 1 to 3 percent of FAAB.",
         "action": "STASH",
         "faab": "1-3%"
@@ -175,7 +175,7 @@
         "team": "WAS",
         "pos": "RB",
         "stat": "11 touches and a TD at SF, 5 targets",
-        "why": "Rachaad White (WAS) led Washington's backs at SF with 7 carries for 27 and 4 catches on 5 targets for 30 and a TD. Jacory Croskey-Merritt went on IR with the groin Monday and misses at least four games. RB39 rest of season for me.",
+        "why": "Rachaad White (WAS) led Washington's backs at SF with 7 carries for 27 and 4 catches on 5 targets for 30 and a TD. Jacory Croskey-Merritt went on IR with the groin Monday and misses at least four games. RB38 rest of season for me.",
         "verdict": "Stash him through the bye, 2 to 4 percent of FAAB.",
         "action": "STASH",
         "faab": "2-4%"
@@ -198,7 +198,7 @@
         "pos": "RB",
         "stat": "Snaps 12, then 19; sat the fourth quarter",
         "why": "Alvin Kamara (NO) ran 7 times for 34 @NYG while Kendre Miller ran 20 times. Kamara's back has cost him snaps two weeks running.",
-        "verdict": "RB45 rest of season for me. Trade him away; ask for a bench WR with a weekly role.",
+        "verdict": "RB41 rest of season for me. Trade him away; ask for a bench WR with a weekly role.",
         "action": "TRADE_AWAY",
         "price": "a bench WR with a weekly role"
       },
@@ -208,7 +208,7 @@
         "pos": "RB",
         "stat": "Snap share 76% in Weeks 1 to 4, then 53% and 58%",
         "why": "Ashton Jeanty (LV) ran 10 times for 22 vs BUF while Mike Washington Jr. took half of the early downs. His usage fell, but his price fell further, which is why Butcher Shop has him as a buy. Washington passing him in snaps is what would change the call.",
-        "verdict": "RB8 rest of season for me. Hold him.",
+        "verdict": "RB11 rest of season for me. Hold him.",
         "action": "HOLD"
       },
       {
@@ -217,7 +217,7 @@
         "pos": "RB",
         "stat": "18 carries for 38 to Bam Knight's 15 for 80",
         "why": "Tyler Allgeier (ARI) played 40 snaps @LAR and lost the red-zone work to Knight with Jeremiyah Love out. Love did not practice Wednesday and is expected to miss Week 7, and Knight is the back to own.",
-        "verdict": "RB51 rest of season for me. Drop him for Knight or any add on the list.",
+        "verdict": "RB44 rest of season for me. Drop him for Knight or any add on the list.",
         "action": "DROP"
       },
       {
@@ -226,7 +226,7 @@
         "pos": "RB",
         "stat": "8 carries for 10; Josh Jacobs eligible",
         "why": "MarShawn Lloyd (GB) played 30 snaps to Pierre Strong Jr.'s 41 vs DAL and ran 8 times for 10. Josh Jacobs is off the exempt list and eligible, though Matt LaFleur would not commit to him playing @DET; Jacobs practiced Thursday in his first week back.",
-        "verdict": "RB41 rest of season for me. Drop him for any add on the list.",
+        "verdict": "RB55 rest of season for me. Drop him for any add on the list.",
         "action": "DROP"
       },
       {
@@ -235,7 +235,7 @@
         "pos": "RB",
         "stat": "Over half the snaps in Week 5, then 1 carry and 1 catch",
         "why": "Tyjae Spears (TEN) touched the ball twice @IND while Tony Pollard ran a season-high 19 times for 76.",
-        "verdict": "RB55 rest of season for me. Drop him for any add on the list.",
+        "verdict": "RB47 rest of season for me. Drop him for any add on the list.",
         "action": "DROP"
       },
       {
@@ -244,7 +244,7 @@
         "pos": "TE",
         "stat": "Route rate 53% to 45%; 0 catches",
         "why": "Darren Waller (CAR) caught 0 of 2 targets on 36 snaps @PHI, and Tommy Tremble ran more routes than him for the first time.",
-        "verdict": "TE28 rest of season for me. Drop him for Tremble or any tight end on the list.",
+        "verdict": "TE33 rest of season for me. Drop him for Tremble or any tight end on the list.",
         "action": "DROP"
       },
       {
@@ -253,7 +253,7 @@
         "pos": "WR",
         "stat": "4 catches for 40 on 8 targets",
         "why": "Josh Downs (IND) drew 8 targets vs TEN while Keenan Allen drew 11, the third straight week Allen has had 9 or more.",
-        "verdict": "WR36 rest of season for me. Trade him away; ask for a bench RB.",
+        "verdict": "WR35 rest of season for me. Trade him away; ask for a bench RB.",
         "action": "TRADE_AWAY",
         "price": "a bench RB"
       },
@@ -273,7 +273,7 @@
         "pos": "WR",
         "stat": "4 targets with Caleb Williams back",
         "why": "Rome Odunze (CHI) caught 3 of 4 for 39 @ATL while Luther Burden III and Colston Loveland drew 15 targets between them.",
-        "verdict": "WR31 rest of season for me. Monitor; his targets vs NE Thursday night.",
+        "verdict": "WR32 rest of season for me. Monitor; his targets vs NE Thursday night.",
         "action": "MONITOR",
         "watch": "his targets vs NE Thursday night"
       },
@@ -292,7 +292,7 @@
         "pos": "WR",
         "stat": "Benched for the second half; 0 catches two straight games",
         "why": "Brian Thomas Jr. (JAX) played 15 snaps vs HOU, and Travis Hunter and Josh Cameron took his snaps.",
-        "verdict": "WR42 rest of season for me. Trade him away; ask for a bench receiver.",
+        "verdict": "WR49 rest of season for me. Trade him away; ask for a bench receiver.",
         "action": "TRADE_AWAY",
         "price": "a bench receiver"
       },
@@ -302,7 +302,7 @@
         "pos": "RB",
         "stat": "Snap share 58%, 63%, 42%, 30%",
         "why": "Omarion Hampton (LAC) ran 7 times for 18 @KC in a three-way split, though he led the backs in routes. The Chargers are 0-6 and the play-caller is in question during the bye.",
-        "verdict": "RB14 rest of season for me. Monitor; the Chargers' play-caller decision before Week 8.",
+        "verdict": "RB19 rest of season for me. Monitor; the Chargers' play-caller decision before Week 8.",
         "action": "MONITOR",
         "watch": "the Chargers' play-caller decision before Week 8"
       },
@@ -312,7 +312,7 @@
         "pos": "WR",
         "stat": "Achilles tendinitis; 3 catches for 94 Monday",
         "why": "Mike Evans (SF) left Monday night vs WAS with the Achilles and came back, and Kyle Shanahan called it tendinitis. San Francisco is bracing for him to miss @ATL, with the bye in Week 8.",
-        "verdict": "WR26 rest of season for me. Monitor; San Francisco's Wednesday practice report.",
+        "verdict": "WR23 rest of season for me. Monitor; San Francisco's Wednesday practice report.",
         "action": "MONITOR",
         "watch": "San Francisco's Wednesday practice report"
       },
@@ -330,7 +330,7 @@
         "team": "WAS",
         "pos": "RB",
         "stat": "On IR, out at least four games",
-        "why": "Washington placed Jacory Croskey-Merritt (WAS) on IR with the groin Monday, so he is out at least four games, about Weeks 8 to 11 after the bye. Rachaad White took the backfield at SF. RB31 rest of season for me.",
+        "why": "Washington placed Jacory Croskey-Merritt (WAS) on IR with the groin Monday, so he is out at least four games, about Weeks 8 to 11 after the bye. Rachaad White took the backfield at SF. RB43 rest of season for me.",
         "verdict": "Hold him in an IR spot; with no IR spot open, drop him for any add on the list.",
         "action": "HOLD"
       }

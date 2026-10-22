@@ -3,12 +3,12 @@
   "season": 2026,
   "week": 7,
   "title": "The Menu, Week 7",
-  "dek": "Brock Purdy is QB1, Jahmyr Gibbs comes off the bye at RB1, and Dameon Pierce jumps to RB18 as Philadelphia's only healthy back.",
+  "dek": "Brock Purdy is QB1, Jahmyr Gibbs comes off the bye at RB1, and Matthew Golden climbs to WR8 for Green Bay.",
   "format": "PPR",
   "publishedAt": "2026-10-21T02:46:36Z",
-  "updatedAt": "2026-10-22T20:35:00Z",
+  "updatedAt": "2026-10-22T20:55:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Thu 4:35 PM ET: Saquon Barkley practiced in full Thursday and is expected to play Monday vs DAL, so he is RB18 for me, an RB2, and Dameon Pierce goes back to the handcuff role and off the Menu. Breece Hall was back at practice Thursday, so Braelon Allen holds RB12 only if Hall is ruled out Friday; if Hall plays, Allen falls into the flex range. Josh Jacobs practiced Thursday and stays RB17, an RB2.\n\nUpdated Thu 4:20 PM ET: T.J. Hockenson practiced in full Wednesday but is still in the concussion protocol; he stays TE13 for me vs IND, a streamer, only if he is cleared, and Kyle Pitts Sr. is the pivot if he is ruled out.\n\nUpdated Tue 10:50 PM ET: the Week 7 order is refreshed through Tuesday night's news, ahead of Wednesday's practice reports.\n\nWeek 7 has four teams on bye: Buffalo, Jacksonville, the Chargers and Washington are off, so none of their players are on the Menu. New England opens at Chicago Thursday night, and Dallas at Philadelphia closes the week Monday night. Rankings are for full PPR.\n\nBrock Purdy leads the quarterbacks with San Francisco at 6-0, Jahmyr Gibbs comes off the bye as RB1, and Puka Nacua is WR1 with Davante Adams out 6 to 10 weeks. Brock Bowers is TE1. Saquon Barkley is RB18 back from the hamstring, and Germie Bernard is WR24 with two Pittsburgh receivers on IR.\n\nLamar Jackson (ankle), Josh Jacobs, Tucker Kraft (knee), Mike Evans (Achilles) and D'Andre Swift all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
+  "intro_md": "Updated Thu 4:55 PM ET: the Week 7 order is refreshed. Matthew Golden moves up to WR8 and Drake London to WR6, Saquon Barkley is RB29 for me in his first game back, a high-end RB3, and Lamar Jackson is QB17, a streamer, until he practices in full. Braelon Allen is RB13, borderline RB1/RB2, only if Breece Hall is ruled out Friday.\n\nUpdated Thu 4:35 PM ET: Saquon Barkley practiced in full Thursday and is expected to play Monday vs DAL, so he is RB18 for me, an RB2, and Dameon Pierce goes back to the handcuff role and off the Menu. Breece Hall was back at practice Thursday, so Braelon Allen holds RB12 only if Hall is ruled out Friday; if Hall plays, Allen falls into the flex range. Josh Jacobs practiced Thursday and stays RB17, an RB2.\n\nUpdated Thu 4:20 PM ET: T.J. Hockenson practiced in full Wednesday but is still in the concussion protocol; he stays TE13 for me vs IND, a streamer, only if he is cleared, and Kyle Pitts Sr. is the pivot if he is ruled out.\n\nUpdated Tue 10:50 PM ET: the Week 7 order is refreshed through Tuesday night's news, ahead of Wednesday's practice reports.\n\nWeek 7 has four teams on bye: Buffalo, Jacksonville, the Chargers and Washington are off, so none of their players are on the Menu. New England opens at Chicago Thursday night, and Dallas at Philadelphia closes the week Monday night. Rankings are for full PPR.\n\nBrock Purdy leads the quarterbacks with San Francisco at 6-0, Jahmyr Gibbs comes off the bye as RB1, and Puka Nacua is WR1 with Davante Adams out 6 to 10 weeks. Brock Bowers is TE1. Germie Bernard is WR22 with two Pittsburgh receivers on IR, and Saquon Barkley is RB29 back from the hamstring.\n\nLamar Jackson (ankle), Josh Jacobs, Tucker Kraft (knee), Bucky Irving (illness) and Breece Hall all go into Friday with a question; Prep Notes revisits every one of them with the injury report.",
   "outro_md": "Prep Notes updates the Menu Friday after the final injury report.",
   "data": {
     "positions": {
@@ -54,11 +54,11 @@
         {
           "rank": 4,
           "tier": 2,
-          "player": "Joe Burrow",
-          "team": "CIN",
+          "player": "Jared Goff",
+          "team": "DET",
           "pos": "QB",
-          "opp": "@BAL",
-          "note": "39 of 54 for 428 vs JAX in Week 4; CIN comes off the bye.",
+          "opp": "vs GB",
+          "note": "19 of 30 for 271, 3 TDs and a rushing TD in Week 5; off the bye vs GB.",
           "flag": "",
           "action": "START",
           "slot": "QB1"
@@ -79,11 +79,11 @@
           "rank": 6,
           "tier": 3,
           "tier_label": "Sides",
-          "player": "Jared Goff",
-          "team": "DET",
+          "player": "Joe Burrow",
+          "team": "CIN",
           "pos": "QB",
-          "opp": "vs GB",
-          "note": "19 of 30 for 271, 3 TDs and a rushing TD in Week 5; off the bye vs GB.",
+          "opp": "@BAL",
+          "note": "39 of 54 for 428 vs JAX in Week 4; CIN comes off the bye.",
           "flag": "",
           "action": "START",
           "slot": "QB1"
@@ -103,11 +103,11 @@
         {
           "rank": 8,
           "tier": 3,
-          "player": "Bryce Young",
-          "team": "CAR",
+          "player": "C.J. Stroud",
+          "team": "HOU",
           "pos": "QB",
-          "opp": "vs TB",
-          "note": "11 TD passes and 1 INT through five games, a franchise record.",
+          "opp": "vs NYG",
+          "note": "24 of 34 for 312 and 3 TDs in London, no sacks taken.",
           "flag": "",
           "action": "START",
           "slot": "QB1"
@@ -128,11 +128,11 @@
         {
           "rank": 10,
           "tier": 4,
-          "player": "C.J. Stroud",
-          "team": "HOU",
+          "player": "Bryce Young",
+          "team": "CAR",
           "pos": "QB",
-          "opp": "vs NYG",
-          "note": "24 of 34 for 312 and 3 TDs in London, no sacks taken.",
+          "opp": "vs TB",
+          "note": "11 TD passes and 1 INT through five games, a franchise record.",
           "flag": "",
           "action": "START",
           "slot": "QB1"
@@ -152,11 +152,11 @@
         {
           "rank": 12,
           "tier": 4,
-          "player": "Aaron Rodgers",
-          "team": "PIT",
+          "player": "Patrick Mahomes II",
+          "team": "KC",
           "pos": "QB",
-          "opp": "@NO",
-          "note": "Three straight 3-TD games before 2 TDs at TB.",
+          "opp": "@SEA",
+          "note": "Both starting tackles missed Wednesday's practice; Rashee Rice still out.",
           "flag": "",
           "action": "START",
           "slot": "QB1"
@@ -165,6 +165,17 @@
           "rank": 13,
           "tier": 5,
           "tier_label": "Pantry",
+          "player": "Aaron Rodgers",
+          "team": "PIT",
+          "pos": "QB",
+          "opp": "@NO",
+          "note": "Three straight 3-TD games before 2 TDs at TB.",
+          "flag": "",
+          "action": "STREAM"
+        },
+        {
+          "rank": 14,
+          "tier": 5,
           "player": "Tyler Shough",
           "team": "NO",
           "pos": "QB",
@@ -174,23 +185,12 @@
           "action": "STREAM"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "tier": 5,
           "player": "Bo Nix",
           "team": "DEN",
           "pos": "QB",
           "opp": "@ARI",
-          "note": "",
-          "flag": "",
-          "action": "STREAM"
-        },
-        {
-          "rank": 15,
-          "tier": 5,
-          "player": "Patrick Mahomes II",
-          "team": "KC",
-          "pos": "QB",
-          "opp": "@SEA",
           "note": "",
           "flag": "",
           "action": "STREAM"
@@ -209,6 +209,18 @@
         {
           "rank": 17,
           "tier": 5,
+          "player": "Lamar Jackson",
+          "team": "BAL",
+          "pos": "QB",
+          "opp": "vs CIN",
+          "note": "Limited Wednesday, back at practice Thursday; Tyler Huntley starts if he sits.",
+          "flag": "",
+          "action": "STREAM",
+          "watch": "Baltimore's Friday injury report"
+        },
+        {
+          "rank": 18,
+          "tier": 5,
           "player": "Kirk Cousins",
           "team": "LV",
           "pos": "QB",
@@ -218,31 +230,9 @@
           "action": "STREAM"
         },
         {
-          "rank": 18,
-          "tier": 5,
-          "player": "Tanner McKee",
-          "team": "PHI",
-          "pos": "QB",
-          "opp": "vs DAL",
-          "note": "Starting with Jalen Hurts out for the season.",
-          "flag": "",
-          "action": "STREAM"
-        },
-        {
           "rank": 19,
           "tier": 6,
           "tier_label": "Scraps",
-          "player": "Geno Smith",
-          "team": "NYJ",
-          "pos": "QB",
-          "opp": "vs MIA",
-          "note": "",
-          "flag": "",
-          "action": "SIT"
-        },
-        {
-          "rank": 20,
-          "tier": 6,
           "player": "Michael Penix Jr.",
           "team": "ATL",
           "pos": "QB",
@@ -252,25 +242,35 @@
           "action": "SIT"
         },
         {
+          "rank": 20,
+          "tier": 6,
+          "player": "Geno Smith",
+          "team": "NYJ",
+          "pos": "QB",
+          "opp": "vs MIA",
+          "note": "",
+          "flag": "",
+          "action": "SIT"
+        },
+        {
           "rank": 21,
           "tier": 6,
-          "player": "Lamar Jackson",
-          "team": "BAL",
+          "player": "Tanner McKee",
+          "team": "PHI",
           "pos": "QB",
-          "opp": "vs CIN",
-          "note": "Limited Wednesday, back at practice Thursday; Tyler Huntley starts if he sits.",
+          "opp": "vs DAL",
+          "note": "Starting with Jalen Hurts out for the season.",
           "flag": "",
-          "action": "SIT",
-          "watch": "Baltimore's Friday injury report"
+          "action": "SIT"
         },
         {
           "rank": 22,
           "tier": 6,
-          "player": "Tyler Huntley",
-          "team": "BAL",
+          "player": "Baker Mayfield",
+          "team": "TB",
           "pos": "QB",
-          "opp": "vs CIN",
-          "note": "Starts only if Lamar Jackson sits; watch Friday's injury report.",
+          "opp": "@CAR",
+          "note": "",
           "flag": "",
           "action": "SIT"
         },
@@ -327,11 +327,11 @@
           "rank": 3,
           "tier": 2,
           "tier_label": "Entrees",
-          "player": "Kenneth Walker III",
-          "team": "KC",
+          "player": "Christian McCaffrey",
+          "team": "SF",
           "pos": "RB",
-          "opp": "@SEA",
-          "note": "665 rushing yards in five games; 19 for 128 and 2 TDs vs LAC.",
+          "opp": "@ATL",
+          "note": "Two rushing TDs vs WAS on Monday night; SF is 6-0.",
           "flag": "",
           "action": "START",
           "slot": "RB1"
@@ -339,11 +339,11 @@
         {
           "rank": 4,
           "tier": 2,
-          "player": "Christian McCaffrey",
-          "team": "SF",
+          "player": "Kenneth Walker III",
+          "team": "KC",
           "pos": "RB",
-          "opp": "@ATL",
-          "note": "Two rushing TDs vs WAS on Monday night; SF is 6-0.",
+          "opp": "@SEA",
+          "note": "665 rushing yards in five games; 19 for 128 and 2 TDs vs LAC.",
           "flag": "",
           "action": "START",
           "slot": "RB1"
@@ -364,11 +364,11 @@
           "rank": 6,
           "tier": 3,
           "tier_label": "Sides",
-          "player": "Jonathan Taylor",
-          "team": "IND",
+          "player": "Derrick Henry",
+          "team": "BAL",
           "pos": "RB",
-          "opp": "@MIN",
-          "note": "21 for 94 and a TD plus 2 catches for 57 vs TEN.",
+          "opp": "vs CIN",
+          "note": "Season-low 17 for 58 at CLE; Lamar Jackson is day to day.",
           "flag": "",
           "action": "START",
           "slot": "RB1"
@@ -376,11 +376,11 @@
         {
           "rank": 7,
           "tier": 3,
-          "player": "Derrick Henry",
-          "team": "BAL",
+          "player": "Jonathan Taylor",
+          "team": "IND",
           "pos": "RB",
-          "opp": "vs CIN",
-          "note": "Season-low 17 for 58 at CLE; Lamar Jackson is day to day.",
+          "opp": "@MIN",
+          "note": "21 for 94 and a TD plus 2 catches for 57 vs TEN.",
           "flag": "",
           "action": "START",
           "slot": "RB1"
@@ -437,6 +437,19 @@
         {
           "rank": 12,
           "tier": 4,
+          "player": "Bucky Irving",
+          "team": "TB",
+          "pos": "RB",
+          "opp": "@CAR",
+          "note": "Back at practice Thursday after an illness; 19 carries on about 85 percent of the snaps in Week 6.",
+          "flag": "",
+          "action": "START",
+          "slot": "RB1",
+          "watch": "Tampa Bay's Friday injury report"
+        },
+        {
+          "rank": 13,
+          "tier": 4,
           "player": "Braelon Allen",
           "team": "NYJ",
           "pos": "RB",
@@ -444,35 +457,11 @@
           "note": "Breece Hall returned to practice Thursday; Allen holds this spot only if Hall is out.",
           "flag": "",
           "action": "START",
-          "slot": "RB1",
+          "slot": "RB2",
           "watch": "New York's Friday injury report for Breece Hall"
         },
         {
-          "rank": 13,
-          "tier": 4,
-          "player": "Bucky Irving",
-          "team": "TB",
-          "pos": "RB",
-          "opp": "@CAR",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "RB2"
-        },
-        {
           "rank": 14,
-          "tier": 4,
-          "player": "Ashton Jeanty",
-          "team": "LV",
-          "pos": "RB",
-          "opp": "vs LAR",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "RB2"
-        },
-        {
-          "rank": 15,
           "tier": 4,
           "player": "Chase Brown",
           "team": "CIN",
@@ -484,13 +473,25 @@
           "slot": "RB2"
         },
         {
+          "rank": 15,
+          "tier": 4,
+          "player": "Ashton Jeanty",
+          "team": "LV",
+          "pos": "RB",
+          "opp": "vs LAR",
+          "note": "",
+          "flag": "",
+          "action": "START",
+          "slot": "RB2"
+        },
+        {
           "rank": 16,
           "tier": 4,
-          "player": "Aaron Jones Sr.",
-          "team": "MIN",
+          "player": "Woody Marks",
+          "team": "HOU",
           "pos": "RB",
-          "opp": "vs IND",
-          "note": "",
+          "opp": "vs NYG",
+          "note": "78 percent of the snaps at JAX; David Montgomery missed Wednesday with the groin.",
           "flag": "",
           "action": "START",
           "slot": "RB2"
@@ -511,15 +512,14 @@
         {
           "rank": 18,
           "tier": 4,
-          "player": "Saquon Barkley",
-          "team": "PHI",
+          "player": "Aaron Jones Sr.",
+          "team": "MIN",
           "pos": "RB",
-          "opp": "vs DAL",
-          "note": "Full practice Thursday off the hamstring after two missed games; expected to play Monday.",
+          "opp": "vs IND",
+          "note": "",
           "flag": "",
           "action": "START",
-          "slot": "RB2",
-          "watch": "Philadelphia's Saturday injury report and Monday's inactives"
+          "slot": "RB2"
         },
         {
           "rank": 19,
@@ -536,19 +536,6 @@
         {
           "rank": 20,
           "tier": 4,
-          "player": "Woody Marks",
-          "team": "HOU",
-          "pos": "RB",
-          "opp": "vs NYG",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "RB2"
-        },
-        {
-          "rank": 21,
-          "tier": 5,
-          "tier_label": "Pantry",
           "player": "Ollie Gordon II",
           "team": "MIA",
           "pos": "RB",
@@ -559,19 +546,20 @@
           "slot": "RB2"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "tier": 5,
-          "player": "Blake Corum",
-          "team": "LAR",
+          "tier_label": "Pantry",
+          "player": "Tony Pollard",
+          "team": "TEN",
           "pos": "RB",
-          "opp": "@LV",
+          "opp": "vs CLE",
           "note": "",
           "flag": "",
           "action": "START",
           "slot": "RB2"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "tier": 5,
           "player": "RJ Harvey",
           "team": "DEN",
@@ -583,7 +571,7 @@
           "slot": "RB2"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "tier": 5,
           "player": "J.K. Dobbins",
           "team": "DEN",
@@ -595,18 +583,19 @@
           "slot": "RB2"
         },
         {
-          "rank": 25,
+          "rank": 24,
           "tier": 5,
-          "player": "Tony Pollard",
-          "team": "TEN",
+          "player": "Blake Corum",
+          "team": "LAR",
           "pos": "RB",
-          "opp": "vs CLE",
+          "opp": "@LV",
           "note": "",
           "flag": "",
-          "action": "FLEX"
+          "action": "START",
+          "slot": "RB2"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "tier": 5,
           "player": "Alvin Kamara",
           "team": "NO",
@@ -617,7 +606,7 @@
           "action": "FLEX"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "tier": 5,
           "player": "Kendre Miller",
           "team": "NO",
@@ -628,9 +617,8 @@
           "action": "FLEX"
         },
         {
-          "rank": 28,
-          "tier": 6,
-          "tier_label": "Scraps",
+          "rank": 27,
+          "tier": 5,
           "player": "Tyler Allgeier",
           "team": "ARI",
           "pos": "RB",
@@ -640,8 +628,9 @@
           "action": "FLEX"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "tier": 6,
+          "tier_label": "Scraps",
           "player": "Jordan Mason",
           "team": "MIN",
           "pos": "RB",
@@ -649,6 +638,18 @@
           "note": "",
           "flag": "",
           "action": "FLEX"
+        },
+        {
+          "rank": 29,
+          "tier": 6,
+          "player": "Saquon Barkley",
+          "team": "PHI",
+          "pos": "RB",
+          "opp": "vs DAL",
+          "note": "Full practice Thursday off the hamstring after two missed games; Dameon Pierce took 61 of 64 snaps without him.",
+          "flag": "",
+          "action": "FLEX",
+          "watch": "Philadelphia's Saturday injury report and Monday's inactives"
         },
         {
           "rank": 30,
@@ -686,27 +687,16 @@
         {
           "rank": 33,
           "tier": 6,
-          "player": "Cam Skattebo",
-          "team": "NYG",
+          "player": "Dameon Pierce",
+          "team": "PHI",
           "pos": "RB",
-          "opp": "@HOU",
-          "note": "",
+          "opp": "vs DAL",
+          "note": "The handcuff again with Saquon Barkley back at full practice.",
           "flag": "",
           "action": "FLEX"
         },
         {
           "rank": 34,
-          "tier": 6,
-          "player": "Jaleel McLaughlin",
-          "team": "CLE",
-          "pos": "RB",
-          "opp": "@TEN",
-          "note": "",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
-          "rank": 35,
           "tier": 6,
           "player": "Tyrone Tracy Jr.",
           "team": "NYG",
@@ -717,40 +707,29 @@
           "action": "FLEX"
         },
         {
+          "rank": 35,
+          "tier": 6,
+          "player": "Bam Knight",
+          "team": "ARI",
+          "pos": "RB",
+          "opp": "vs DEN",
+          "note": "",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
           "rank": 36,
           "tier": 6,
-          "player": "Brian Robinson Jr.",
-          "team": "ATL",
+          "player": "Cam Skattebo",
+          "team": "NYG",
           "pos": "RB",
-          "opp": "vs SF",
+          "opp": "@HOU",
           "note": "",
           "flag": "",
           "action": "FLEX"
         },
         {
           "rank": 37,
-          "tier": 6,
-          "player": "Kenny Gainwell",
-          "team": "TB",
-          "pos": "RB",
-          "opp": "@CAR",
-          "note": "",
-          "flag": "",
-          "action": "SIT"
-        },
-        {
-          "rank": 38,
-          "tier": 6,
-          "player": "Mike Washington Jr.",
-          "team": "LV",
-          "pos": "RB",
-          "opp": "vs LAR",
-          "note": "",
-          "flag": "",
-          "action": "SIT"
-        },
-        {
-          "rank": 39,
           "tier": 6,
           "player": "Zach Charbonnet",
           "team": "SEA",
@@ -761,12 +740,34 @@
           "action": "SIT"
         },
         {
-          "rank": 40,
+          "rank": 38,
           "tier": 6,
           "player": "TreVeyon Henderson",
           "team": "NE",
           "pos": "RB",
           "opp": "@CHI",
+          "note": "",
+          "flag": "",
+          "action": "SIT"
+        },
+        {
+          "rank": 39,
+          "tier": 6,
+          "player": "Samaje Perine",
+          "team": "CIN",
+          "pos": "RB",
+          "opp": "@BAL",
+          "note": "",
+          "flag": "",
+          "action": "SIT"
+        },
+        {
+          "rank": 40,
+          "tier": 6,
+          "player": "Mike Washington Jr.",
+          "team": "LV",
+          "pos": "RB",
+          "opp": "vs LAR",
           "note": "",
           "flag": "",
           "action": "SIT"
@@ -838,42 +839,6 @@
         {
           "rank": 6,
           "tier": 2,
-          "player": "Christian Watson",
-          "team": "GB",
-          "pos": "WR",
-          "opp": "@DET",
-          "note": "90 percent of the snaps vs DAL; a TD in four of his first five games.",
-          "flag": "",
-          "action": "START",
-          "slot": "WR1"
-        },
-        {
-          "rank": 7,
-          "tier": 2,
-          "player": "Chris Olave",
-          "team": "NO",
-          "pos": "WR",
-          "opp": "vs PIT",
-          "note": "Played through the illness at NYG; Tyler Shough's top target.",
-          "flag": "",
-          "action": "START",
-          "slot": "WR1"
-        },
-        {
-          "rank": 8,
-          "tier": 2,
-          "player": "Malik Nabers",
-          "team": "NYG",
-          "pos": "WR",
-          "opp": "@HOU",
-          "note": "Drew 15 targets in Week 6 with no Week 7 starter named at QB.",
-          "flag": "",
-          "action": "START",
-          "slot": "WR1"
-        },
-        {
-          "rank": 9,
-          "tier": 2,
           "player": "Drake London",
           "team": "ATL",
           "pos": "WR",
@@ -884,7 +849,19 @@
           "slot": "WR1"
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "tier": 2,
+          "player": "Christian Watson",
+          "team": "GB",
+          "pos": "WR",
+          "opp": "@DET",
+          "note": "90 percent of the snaps vs DAL; a TD in four of his first five games.",
+          "flag": "",
+          "action": "START",
+          "slot": "WR1"
+        },
+        {
+          "rank": 8,
           "tier": 2,
           "player": "Matthew Golden",
           "team": "GB",
@@ -896,9 +873,8 @@
           "slot": "WR1"
         },
         {
-          "rank": 11,
-          "tier": 3,
-          "tier_label": "Sides",
+          "rank": 9,
+          "tier": 2,
           "player": "Justin Jefferson",
           "team": "MIN",
           "pos": "WR",
@@ -909,7 +885,44 @@
           "slot": "WR1"
         },
         {
+          "rank": 10,
+          "tier": 2,
+          "player": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "opp": "vs PIT",
+          "note": "Played through the illness at NYG; Tyler Shough's top target.",
+          "flag": "",
+          "action": "START",
+          "slot": "WR1"
+        },
+        {
+          "rank": 11,
+          "tier": 3,
+          "tier_label": "Sides",
+          "player": "Malik Nabers",
+          "team": "NYG",
+          "pos": "WR",
+          "opp": "@HOU",
+          "note": "Drew 15 targets in Week 6 with no Week 7 starter named at QB.",
+          "flag": "",
+          "action": "START",
+          "slot": "WR1"
+        },
+        {
           "rank": 12,
+          "tier": 3,
+          "player": "Zay Flowers",
+          "team": "BAL",
+          "pos": "WR",
+          "opp": "vs CIN",
+          "note": "11 targets at CLE, 6 for 66; Rashod Bateman left that game with the shoulder.",
+          "flag": "",
+          "action": "START",
+          "slot": "WR1"
+        },
+        {
+          "rank": 13,
           "tier": 3,
           "player": "Nico Collins",
           "team": "HOU",
@@ -918,22 +931,22 @@
           "note": "3 for 74 at JAX; Tank Dell returns to the slot vs NYG.",
           "flag": "",
           "action": "START",
-          "slot": "WR1"
+          "slot": "WR2"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "tier": 3,
-          "player": "Zay Flowers",
-          "team": "BAL",
+          "player": "Tetairoa McMillan",
+          "team": "CAR",
           "pos": "WR",
-          "opp": "vs CIN",
+          "opp": "vs TB",
           "note": "",
           "flag": "",
           "action": "START",
           "slot": "WR2"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "tier": 3,
           "player": "Garrett Wilson",
           "team": "NYJ",
@@ -945,24 +958,12 @@
           "slot": "WR2"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "tier": 3,
           "player": "DeVonta Smith",
           "team": "PHI",
           "pos": "WR",
           "opp": "vs DAL",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "WR2"
-        },
-        {
-          "rank": 16,
-          "tier": 3,
-          "player": "George Pickens",
-          "team": "DAL",
-          "pos": "WR",
-          "opp": "@PHI",
           "note": "",
           "flag": "",
           "action": "START",
@@ -983,10 +984,10 @@
         {
           "rank": 18,
           "tier": 3,
-          "player": "Tetairoa McMillan",
-          "team": "CAR",
+          "player": "George Pickens",
+          "team": "DAL",
           "pos": "WR",
-          "opp": "vs TB",
+          "opp": "@PHI",
           "note": "",
           "flag": "",
           "action": "START",
@@ -994,18 +995,6 @@
         },
         {
           "rank": 19,
-          "tier": 3,
-          "player": "DK Metcalf",
-          "team": "PIT",
-          "pos": "WR",
-          "opp": "@NO",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "WR2"
-        },
-        {
-          "rank": 20,
           "tier": 3,
           "player": "Tee Higgins",
           "team": "CIN",
@@ -1017,13 +1006,25 @@
           "slot": "WR2"
         },
         {
+          "rank": 20,
+          "tier": 3,
+          "player": "A.J. Brown",
+          "team": "NE",
+          "pos": "WR",
+          "opp": "@CHI",
+          "note": "",
+          "flag": "",
+          "action": "START",
+          "slot": "WR2"
+        },
+        {
           "rank": 21,
           "tier": 4,
           "tier_label": "Snacks",
-          "player": "Luther Burden III",
-          "team": "CHI",
+          "player": "DK Metcalf",
+          "team": "PIT",
           "pos": "WR",
-          "opp": "vs NE",
+          "opp": "@NO",
           "note": "",
           "flag": "",
           "action": "START",
@@ -1031,30 +1032,6 @@
         },
         {
           "rank": 22,
-          "tier": 4,
-          "player": "Michael Wilson",
-          "team": "ARI",
-          "pos": "WR",
-          "opp": "vs DEN",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "WR2"
-        },
-        {
-          "rank": 23,
-          "tier": 4,
-          "player": "Carnell Tate",
-          "team": "TEN",
-          "pos": "WR",
-          "opp": "vs CLE",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "WR2"
-        },
-        {
-          "rank": 24,
           "tier": 4,
           "player": "Germie Bernard",
           "team": "PIT",
@@ -1066,7 +1043,43 @@
           "slot": "WR2"
         },
         {
+          "rank": 23,
+          "tier": 4,
+          "player": "Luther Burden III",
+          "team": "CHI",
+          "pos": "WR",
+          "opp": "vs NE",
+          "note": "",
+          "flag": "",
+          "action": "START",
+          "slot": "WR2"
+        },
+        {
+          "rank": 24,
+          "tier": 4,
+          "player": "Michael Wilson",
+          "team": "ARI",
+          "pos": "WR",
+          "opp": "vs DEN",
+          "note": "",
+          "flag": "",
+          "action": "START",
+          "slot": "WR2"
+        },
+        {
           "rank": 25,
+          "tier": 4,
+          "player": "Carnell Tate",
+          "team": "TEN",
+          "pos": "WR",
+          "opp": "vs CLE",
+          "note": "",
+          "flag": "",
+          "action": "START",
+          "slot": "WR3"
+        },
+        {
+          "rank": 26,
           "tier": 4,
           "player": "Denzel Boston",
           "team": "CLE",
@@ -1078,31 +1091,7 @@
           "slot": "WR3"
         },
         {
-          "rank": 26,
-          "tier": 4,
-          "player": "A.J. Brown",
-          "team": "NE",
-          "pos": "WR",
-          "opp": "@CHI",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "WR3"
-        },
-        {
           "rank": 27,
-          "tier": 4,
-          "player": "Emeka Egbuka",
-          "team": "TB",
-          "pos": "WR",
-          "opp": "@CAR",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "WR3"
-        },
-        {
-          "rank": 28,
           "tier": 4,
           "player": "Jaylen Waddle",
           "team": "DEN",
@@ -1114,7 +1103,7 @@
           "slot": "WR3"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "tier": 4,
           "player": "Jameson Williams",
           "team": "DET",
@@ -1126,45 +1115,8 @@
           "slot": "WR3"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "tier": 4,
-          "player": "Keenan Allen",
-          "team": "IND",
-          "pos": "WR",
-          "opp": "@MIN",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "WR3"
-        },
-        {
-          "rank": 31,
-          "tier": 5,
-          "tier_label": "Pantry",
-          "player": "Omar Cooper Jr.",
-          "team": "NYJ",
-          "pos": "WR",
-          "opp": "vs MIA",
-          "note": "82 percent of the snaps and 28 of 33 routes in his first game off IR.",
-          "flag": "",
-          "action": "START",
-          "slot": "WR3"
-        },
-        {
-          "rank": 32,
-          "tier": 5,
-          "player": "Tre Tucker",
-          "team": "LV",
-          "pos": "WR",
-          "opp": "vs LAR",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "WR3"
-        },
-        {
-          "rank": 33,
-          "tier": 5,
           "player": "Devaughn Vele",
           "team": "NO",
           "pos": "WR",
@@ -1175,8 +1127,21 @@
           "slot": "WR3"
         },
         {
-          "rank": 34,
+          "rank": 30,
+          "tier": 4,
+          "player": "Tre Tucker",
+          "team": "LV",
+          "pos": "WR",
+          "opp": "vs LAR",
+          "note": "",
+          "flag": "",
+          "action": "START",
+          "slot": "WR3"
+        },
+        {
+          "rank": 31,
           "tier": 5,
+          "tier_label": "Pantry",
           "player": "Xavier Worthy",
           "team": "KC",
           "pos": "WR",
@@ -1187,7 +1152,31 @@
           "slot": "WR3"
         },
         {
-          "rank": 35,
+          "rank": 32,
+          "tier": 5,
+          "player": "Omar Cooper Jr.",
+          "team": "NYJ",
+          "pos": "WR",
+          "opp": "vs MIA",
+          "note": "82 percent of the snaps and 28 of 33 routes in his first game off IR.",
+          "flag": "",
+          "action": "START",
+          "slot": "WR3"
+        },
+        {
+          "rank": 33,
+          "tier": 5,
+          "player": "Keenan Allen",
+          "team": "IND",
+          "pos": "WR",
+          "opp": "@MIN",
+          "note": "",
+          "flag": "",
+          "action": "START",
+          "slot": "WR3"
+        },
+        {
+          "rank": 34,
           "tier": 5,
           "player": "Josh Downs",
           "team": "IND",
@@ -1199,19 +1188,7 @@
           "slot": "WR3"
         },
         {
-          "rank": 36,
-          "tier": 5,
-          "player": "Wan'Dale Robinson",
-          "team": "TEN",
-          "pos": "WR",
-          "opp": "vs CLE",
-          "note": "",
-          "flag": "",
-          "action": "START",
-          "slot": "WR3"
-        },
-        {
-          "rank": 37,
+          "rank": 35,
           "tier": 5,
           "player": "Malik Washington",
           "team": "MIA",
@@ -1219,21 +1196,23 @@
           "opp": "@NYJ",
           "note": "",
           "flag": "",
-          "action": "FLEX"
+          "action": "START",
+          "slot": "WR3"
         },
         {
-          "rank": 38,
+          "rank": 36,
           "tier": 5,
-          "player": "Jaylin Noel",
-          "team": "HOU",
+          "player": "Rome Odunze",
+          "team": "CHI",
           "pos": "WR",
-          "opp": "vs NYG",
+          "opp": "vs NE",
           "note": "",
           "flag": "",
-          "action": "FLEX"
+          "action": "START",
+          "slot": "WR3"
         },
         {
-          "rank": 39,
+          "rank": 37,
           "tier": 5,
           "player": "KC Concepcion Jr.",
           "team": "CLE",
@@ -1244,20 +1223,19 @@
           "action": "FLEX"
         },
         {
-          "rank": 40,
+          "rank": 38,
           "tier": 5,
-          "player": "Rome Odunze",
-          "team": "CHI",
+          "player": "Wan'Dale Robinson",
+          "team": "TEN",
           "pos": "WR",
-          "opp": "vs NE",
+          "opp": "vs CLE",
           "note": "",
           "flag": "",
           "action": "FLEX"
         },
         {
-          "rank": 41,
-          "tier": 6,
-          "tier_label": "Scraps",
+          "rank": 39,
+          "tier": 5,
           "player": "DeMario Douglas",
           "team": "NE",
           "pos": "WR",
@@ -1267,7 +1245,41 @@
           "action": "FLEX"
         },
         {
+          "rank": 40,
+          "tier": 5,
+          "player": "Jordan Addison",
+          "team": "MIN",
+          "pos": "WR",
+          "opp": "vs IND",
+          "note": "",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
+          "rank": 41,
+          "tier": 6,
+          "tier_label": "Scraps",
+          "player": "Emeka Egbuka",
+          "team": "TB",
+          "pos": "WR",
+          "opp": "@CAR",
+          "note": "",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
           "rank": 42,
+          "tier": 6,
+          "player": "Jaylin Noel",
+          "team": "HOU",
+          "pos": "WR",
+          "opp": "vs NYG",
+          "note": "",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
+          "rank": 43,
           "tier": 6,
           "player": "Dontayvion Wicks",
           "team": "PHI",
@@ -1278,7 +1290,7 @@
           "action": "FLEX"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "tier": 6,
           "player": "Courtland Sutton",
           "team": "DEN",
@@ -1289,23 +1301,12 @@
           "action": "FLEX"
         },
         {
-          "rank": 44,
-          "tier": 6,
-          "player": "Jordan Addison",
-          "team": "MIN",
-          "pos": "WR",
-          "opp": "vs IND",
-          "note": "",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
           "rank": 45,
           "tier": 6,
-          "player": "Brandin Cooks",
-          "team": "SF",
+          "player": "Ryan Flournoy",
+          "team": "DAL",
           "pos": "WR",
-          "opp": "@ATL",
+          "opp": "@PHI",
           "note": "",
           "flag": "",
           "action": "FLEX"
@@ -1313,10 +1314,10 @@
         {
           "rank": 46,
           "tier": 6,
-          "player": "Ryan Flournoy",
-          "team": "DAL",
+          "player": "Chris Godwin Jr.",
+          "team": "TB",
           "pos": "WR",
-          "opp": "@PHI",
+          "opp": "@CAR",
           "note": "",
           "flag": "",
           "action": "FLEX"
@@ -1335,10 +1336,10 @@
         {
           "rank": 48,
           "tier": 6,
-          "player": "Ja'Kobi Lane",
-          "team": "BAL",
+          "player": "Brandin Cooks",
+          "team": "SF",
           "pos": "WR",
-          "opp": "vs CIN",
+          "opp": "@ATL",
           "note": "",
           "flag": "",
           "action": "FLEX"
@@ -1346,10 +1347,10 @@
         {
           "rank": 49,
           "tier": 6,
-          "player": "Chris Godwin Jr.",
-          "team": "TB",
+          "player": "Ja'Kobi Lane",
+          "team": "BAL",
           "pos": "WR",
-          "opp": "@CAR",
+          "opp": "vs CIN",
           "note": "",
           "flag": "",
           "action": "SIT"
@@ -1433,11 +1434,11 @@
         {
           "rank": 6,
           "tier": 3,
-          "player": "Dallas Goedert",
-          "team": "PHI",
+          "player": "Colston Loveland",
+          "team": "CHI",
           "pos": "TE",
-          "opp": "vs DAL",
-          "note": "6 for 61 with Tanner McKee starting vs CAR.",
+          "opp": "vs NE",
+          "note": "6 of 7 for 65 and a TD at ATL on 78 percent of the routes.",
           "flag": "",
           "action": "START",
           "slot": "TE1"
@@ -1449,11 +1450,11 @@
           "team": "GB",
           "pos": "TE",
           "opp": "@DET",
-          "note": "Hit on the right knee vs DAL and returned; 5 of 8 for 37. Watch Wednesday.",
+          "note": "Hit on the right knee vs DAL and returned; 5 of 8 for 37.",
           "flag": "",
           "action": "START",
           "slot": "TE1",
-          "watch": "Green Bay's Wednesday practice report"
+          "watch": "Green Bay's Friday injury report"
         },
         {
           "rank": 8,
@@ -1471,29 +1472,17 @@
         {
           "rank": 9,
           "tier": 4,
-          "player": "Colston Loveland",
-          "team": "CHI",
+          "player": "Dallas Goedert",
+          "team": "PHI",
           "pos": "TE",
-          "opp": "vs NE",
-          "note": "6 of 7 for 65 and a TD at ATL on 78 percent of the routes.",
+          "opp": "vs DAL",
+          "note": "6 for 61 with Tanner McKee starting vs CAR.",
           "flag": "",
           "action": "START",
           "slot": "TE1"
         },
         {
           "rank": 10,
-          "tier": 4,
-          "player": "Juwan Johnson",
-          "team": "NO",
-          "pos": "TE",
-          "opp": "vs PIT",
-          "note": "0 catches on 2 targets at NYG on 17 of 32 routes.",
-          "flag": "",
-          "action": "START",
-          "slot": "TE1"
-        },
-        {
-          "rank": 11,
           "tier": 4,
           "player": "Tyler Higbee",
           "team": "LAR",
@@ -1505,7 +1494,7 @@
           "slot": "TE1"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "tier": 4,
           "player": "Harold Fannin Jr.",
           "team": "CLE",
@@ -1517,9 +1506,32 @@
           "slot": "TE1"
         },
         {
+          "rank": 12,
+          "tier": 4,
+          "player": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "pos": "TE",
+          "opp": "vs SF",
+          "note": "21 percent of the targets and 2 TDs vs CHI; the pivot if T.J. Hockenson sits.",
+          "flag": "",
+          "action": "START",
+          "slot": "TE1"
+        },
+        {
           "rank": 13,
           "tier": 5,
           "tier_label": "Pantry",
+          "player": "Juwan Johnson",
+          "team": "NO",
+          "pos": "TE",
+          "opp": "vs PIT",
+          "note": "0 catches on 2 targets at NYG on 17 of 32 routes.",
+          "flag": "",
+          "action": "STREAM"
+        },
+        {
+          "rank": 14,
+          "tier": 5,
           "player": "T.J. Hockenson",
           "team": "MIN",
           "pos": "TE",
@@ -1528,17 +1540,6 @@
           "flag": "",
           "action": "STREAM",
           "watch": "Friday's injury report"
-        },
-        {
-          "rank": 14,
-          "tier": 5,
-          "player": "Kyle Pitts Sr.",
-          "team": "ATL",
-          "pos": "TE",
-          "opp": "vs SF",
-          "note": "",
-          "flag": "",
-          "action": "STREAM"
         },
         {
           "rank": 15,
@@ -1554,10 +1555,10 @@
         {
           "rank": 16,
           "tier": 5,
-          "player": "Hunter Henry",
-          "team": "NE",
+          "player": "Mark Andrews",
+          "team": "BAL",
           "pos": "TE",
-          "opp": "@CHI",
+          "opp": "vs CIN",
           "note": "",
           "flag": "",
           "action": "STREAM"
@@ -1566,27 +1567,16 @@
           "rank": 17,
           "tier": 6,
           "tier_label": "Scraps",
-          "player": "Mark Andrews",
-          "team": "BAL",
+          "player": "Hunter Henry",
+          "team": "NE",
           "pos": "TE",
-          "opp": "vs CIN",
+          "opp": "@CHI",
           "note": "",
           "flag": "",
           "action": "SIT"
         },
         {
           "rank": 18,
-          "tier": 6,
-          "player": "Colby Parkinson",
-          "team": "LAR",
-          "pos": "TE",
-          "opp": "@LV",
-          "note": "",
-          "flag": "",
-          "action": "SIT"
-        },
-        {
-          "rank": 19,
           "tier": 6,
           "player": "Dalton Schultz",
           "team": "HOU",
@@ -1597,12 +1587,23 @@
           "action": "SIT"
         },
         {
+          "rank": 19,
+          "tier": 6,
+          "player": "Michael Mayer",
+          "team": "LV",
+          "pos": "TE",
+          "opp": "vs LAR",
+          "note": "",
+          "flag": "",
+          "action": "SIT"
+        },
+        {
           "rank": 20,
           "tier": 6,
-          "player": "Darren Waller",
-          "team": "CAR",
+          "player": "Colby Parkinson",
+          "team": "LAR",
           "pos": "TE",
-          "opp": "vs TB",
+          "opp": "@LV",
           "note": "",
           "flag": "",
           "action": "SIT"
@@ -1662,30 +1663,6 @@
         {
           "rank": 5,
           "tier": 2,
-          "player": "Ja'Marr Chase",
-          "team": "CIN",
-          "pos": "WR",
-          "opp": "@BAL",
-          "note": "Cleared the concussion protocol before Week 5; off the bye.",
-          "flag": "",
-          "action": "START",
-          "slot": "FLEX"
-        },
-        {
-          "rank": 6,
-          "tier": 2,
-          "player": "Kenneth Walker III",
-          "team": "KC",
-          "pos": "RB",
-          "opp": "@SEA",
-          "note": "665 rushing yards in five games; 19 for 128 and 2 TDs vs LAC.",
-          "flag": "",
-          "action": "START",
-          "slot": "FLEX"
-        },
-        {
-          "rank": 7,
-          "tier": 2,
           "player": "Christian McCaffrey",
           "team": "SF",
           "pos": "RB",
@@ -1696,7 +1673,19 @@
           "slot": "FLEX"
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "tier": 2,
+          "player": "Ja'Marr Chase",
+          "team": "CIN",
+          "pos": "WR",
+          "opp": "@BAL",
+          "note": "Cleared the concussion protocol before Week 5; off the bye.",
+          "flag": "",
+          "action": "START",
+          "slot": "FLEX"
+        },
+        {
+          "rank": 7,
           "tier": 2,
           "player": "Amon-Ra St. Brown",
           "team": "DET",
@@ -1708,19 +1697,19 @@
           "slot": "FLEX"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "tier": 2,
-          "player": "CeeDee Lamb",
-          "team": "DAL",
-          "pos": "WR",
-          "opp": "@PHI",
-          "note": "18 targets at GB, 9 for 70; 11 of 23 targets over Weeks 5 and 6.",
+          "player": "Kenneth Walker III",
+          "team": "KC",
+          "pos": "RB",
+          "opp": "@SEA",
+          "note": "665 rushing yards in five games; 19 for 128 and 2 TDs vs LAC.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "tier": 2,
           "player": "Kyren Williams",
           "team": "LAR",
@@ -1732,7 +1721,31 @@
           "slot": "FLEX"
         },
         {
+          "rank": 10,
+          "tier": 2,
+          "player": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "opp": "@PHI",
+          "note": "18 targets at GB, 9 for 70; 11 of 23 targets over Weeks 5 and 6.",
+          "flag": "",
+          "action": "START",
+          "slot": "FLEX"
+        },
+        {
           "rank": 11,
+          "tier": 2,
+          "player": "Drake London",
+          "team": "ATL",
+          "pos": "WR",
+          "opp": "vs SF",
+          "note": "10 targets at CHI, 4 for 62; 136 yards a game in Penix's first three starts.",
+          "flag": "",
+          "action": "START",
+          "slot": "FLEX"
+        },
+        {
+          "rank": 12,
           "tier": 2,
           "player": "Christian Watson",
           "team": "GB",
@@ -1744,8 +1757,33 @@
           "slot": "FLEX"
         },
         {
-          "rank": 12,
-          "tier": 2,
+          "rank": 13,
+          "tier": 3,
+          "tier_label": "Sides",
+          "player": "Matthew Golden",
+          "team": "GB",
+          "pos": "WR",
+          "opp": "@DET",
+          "note": "13 targets vs DAL, 6 for 104 and a TD, with two drops.",
+          "flag": "",
+          "action": "START",
+          "slot": "FLEX"
+        },
+        {
+          "rank": 14,
+          "tier": 3,
+          "player": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "opp": "vs IND",
+          "note": "Off the bye after playing through the ankle in Week 5.",
+          "flag": "",
+          "action": "START",
+          "slot": "FLEX"
+        },
+        {
+          "rank": 15,
+          "tier": 3,
           "player": "Chris Olave",
           "team": "NO",
           "pos": "WR",
@@ -1756,50 +1794,13 @@
           "slot": "FLEX"
         },
         {
-          "rank": 13,
-          "tier": 3,
-          "tier_label": "Sides",
-          "player": "Malik Nabers",
-          "team": "NYG",
-          "pos": "WR",
-          "opp": "@HOU",
-          "note": "Drew 15 targets in Week 6 with no Week 7 starter named at QB.",
-          "flag": "",
-          "action": "START",
-          "slot": "FLEX"
-        },
-        {
-          "rank": 14,
-          "tier": 3,
-          "player": "Drake London",
-          "team": "ATL",
-          "pos": "WR",
-          "opp": "vs SF",
-          "note": "10 targets at CHI, 4 for 62; 136 yards a game in Penix's first three starts.",
-          "flag": "",
-          "action": "START",
-          "slot": "FLEX"
-        },
-        {
-          "rank": 15,
-          "tier": 3,
-          "player": "Jonathan Taylor",
-          "team": "IND",
-          "pos": "RB",
-          "opp": "@MIN",
-          "note": "21 for 94 and a TD plus 2 catches for 57 vs TEN.",
-          "flag": "",
-          "action": "START",
-          "slot": "FLEX"
-        },
-        {
           "rank": 16,
           "tier": 3,
-          "player": "Matthew Golden",
-          "team": "GB",
-          "pos": "WR",
-          "opp": "@DET",
-          "note": "13 targets vs DAL, 6 for 104 and a TD, with two drops.",
+          "player": "Brock Bowers",
+          "team": "LV",
+          "pos": "TE",
+          "opp": "vs LAR",
+          "note": "9 targets vs BUF, 4 for 70; Michael Mayer also drew 9.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
@@ -1819,11 +1820,11 @@
         {
           "rank": 18,
           "tier": 3,
-          "player": "Justin Jefferson",
-          "team": "MIN",
-          "pos": "WR",
-          "opp": "vs IND",
-          "note": "Off the bye after playing through the ankle in Week 5.",
+          "player": "Jonathan Taylor",
+          "team": "IND",
+          "pos": "RB",
+          "opp": "@MIN",
+          "note": "21 for 94 and a TD plus 2 catches for 57 vs TEN.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
@@ -1831,11 +1832,11 @@
         {
           "rank": 19,
           "tier": 3,
-          "player": "Brock Bowers",
-          "team": "LV",
+          "player": "George Kittle",
+          "team": "SF",
           "pos": "TE",
-          "opp": "vs LAR",
-          "note": "9 targets vs BUF, 4 for 70; Michael Mayer also drew 9.",
+          "opp": "@ATL",
+          "note": "5 for 69 and a TD vs WAS on Monday night.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
@@ -1855,6 +1856,18 @@
         {
           "rank": 21,
           "tier": 3,
+          "player": "Malik Nabers",
+          "team": "NYG",
+          "pos": "WR",
+          "opp": "@HOU",
+          "note": "Drew 15 targets in Week 6 with no Week 7 starter named at QB.",
+          "flag": "",
+          "action": "START",
+          "slot": "FLEX"
+        },
+        {
+          "rank": 22,
+          "tier": 3,
           "player": "Javonte Williams",
           "team": "DAL",
           "pos": "RB",
@@ -1865,7 +1878,7 @@
           "slot": "FLEX"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "tier": 3,
           "player": "D'Andre Swift",
           "team": "CHI",
@@ -1877,25 +1890,13 @@
           "slot": "FLEX"
         },
         {
-          "rank": 23,
-          "tier": 3,
-          "player": "Nico Collins",
-          "team": "HOU",
-          "pos": "WR",
-          "opp": "vs NYG",
-          "note": "3 for 74 at JAX; Tank Dell returns to the slot vs NYG.",
-          "flag": "",
-          "action": "START",
-          "slot": "FLEX"
-        },
-        {
           "rank": 24,
           "tier": 3,
-          "player": "George Kittle",
-          "team": "SF",
-          "pos": "TE",
-          "opp": "@ATL",
-          "note": "5 for 69 and a TD vs WAS on Monday night.",
+          "player": "Zay Flowers",
+          "team": "BAL",
+          "pos": "WR",
+          "opp": "vs CIN",
+          "note": "11 targets at CLE, 6 for 66; Rashod Bateman left that game with the shoulder.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
@@ -1904,49 +1905,16 @@
           "rank": 25,
           "tier": 4,
           "tier_label": "Snacks",
-          "player": "Zay Flowers",
-          "team": "BAL",
+          "player": "Nico Collins",
+          "team": "HOU",
           "pos": "WR",
-          "opp": "vs CIN",
-          "note": "",
+          "opp": "vs NYG",
+          "note": "3 for 74 at JAX; Tank Dell returns to the slot vs NYG.",
           "flag": "",
           "action": "FLEX"
         },
         {
           "rank": 26,
-          "tier": 4,
-          "player": "Trey McBride",
-          "team": "ARI",
-          "pos": "TE",
-          "opp": "vs DEN",
-          "note": "10 or more targets in five of six games; 9 in Week 6.",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
-          "rank": 27,
-          "tier": 4,
-          "player": "Garrett Wilson",
-          "team": "NYJ",
-          "pos": "WR",
-          "opp": "vs MIA",
-          "note": "",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
-          "rank": 28,
-          "tier": 4,
-          "player": "DeVonta Smith",
-          "team": "PHI",
-          "pos": "WR",
-          "opp": "vs DAL",
-          "note": "",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
-          "rank": 29,
           "tier": 4,
           "player": "Chuba Hubbard",
           "team": "CAR",
@@ -1957,7 +1925,30 @@
           "action": "FLEX"
         },
         {
-          "rank": 30,
+          "rank": 27,
+          "tier": 4,
+          "player": "Trey McBride",
+          "team": "ARI",
+          "pos": "TE",
+          "opp": "vs DEN",
+          "note": "10 or more targets in five of six games; 9 in Week 6.",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
+          "rank": 28,
+          "tier": 4,
+          "player": "Bucky Irving",
+          "team": "TB",
+          "pos": "RB",
+          "opp": "@CAR",
+          "note": "Back at practice Thursday after an illness; 19 carries on about 85 percent of the snaps in Week 6.",
+          "flag": "",
+          "action": "FLEX",
+          "watch": "Tampa Bay's Friday injury report"
+        },
+        {
+          "rank": 29,
           "tier": 4,
           "player": "Braelon Allen",
           "team": "NYJ",
@@ -1969,40 +1960,7 @@
           "watch": "New York's Friday injury report for Breece Hall"
         },
         {
-          "rank": 31,
-          "tier": 4,
-          "player": "George Pickens",
-          "team": "DAL",
-          "pos": "WR",
-          "opp": "@PHI",
-          "note": "",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
-          "rank": 32,
-          "tier": 4,
-          "player": "Jalen Coker",
-          "team": "CAR",
-          "pos": "WR",
-          "opp": "vs TB",
-          "note": "",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
-          "rank": 33,
-          "tier": 4,
-          "player": "Bucky Irving",
-          "team": "TB",
-          "pos": "RB",
-          "opp": "@CAR",
-          "note": "",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
-          "rank": 34,
+          "rank": 30,
           "tier": 4,
           "player": "Tetairoa McMillan",
           "team": "CAR",
@@ -2013,12 +1971,56 @@
           "action": "FLEX"
         },
         {
+          "rank": 31,
+          "tier": 4,
+          "player": "Garrett Wilson",
+          "team": "NYJ",
+          "pos": "WR",
+          "opp": "vs MIA",
+          "note": "",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
+          "rank": 32,
+          "tier": 4,
+          "player": "Chase Brown",
+          "team": "CIN",
+          "pos": "RB",
+          "opp": "@BAL",
+          "note": "",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
+          "rank": 33,
+          "tier": 4,
+          "player": "DeVonta Smith",
+          "team": "PHI",
+          "pos": "WR",
+          "opp": "vs DAL",
+          "note": "",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
+          "rank": 34,
+          "tier": 4,
+          "player": "Jalen Coker",
+          "team": "CAR",
+          "pos": "WR",
+          "opp": "vs TB",
+          "note": "",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
           "rank": 35,
           "tier": 4,
-          "player": "DK Metcalf",
-          "team": "PIT",
+          "player": "George Pickens",
+          "team": "DAL",
           "pos": "WR",
-          "opp": "@NO",
+          "opp": "@PHI",
           "note": "",
           "flag": "",
           "action": "FLEX"
@@ -2038,6 +2040,17 @@
           "rank": 37,
           "tier": 5,
           "tier_label": "Pantry",
+          "player": "A.J. Brown",
+          "team": "NE",
+          "pos": "WR",
+          "opp": "@CHI",
+          "note": "",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
+          "rank": 38,
+          "tier": 5,
           "player": "Ashton Jeanty",
           "team": "LV",
           "pos": "RB",
@@ -2047,29 +2060,29 @@
           "action": "FLEX"
         },
         {
-          "rank": 38,
-          "tier": 5,
-          "player": "Chase Brown",
-          "team": "CIN",
-          "pos": "RB",
-          "opp": "@BAL",
-          "note": "",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
           "rank": 39,
           "tier": 5,
-          "player": "Luther Burden III",
-          "team": "CHI",
-          "pos": "WR",
-          "opp": "vs NE",
-          "note": "",
+          "player": "Woody Marks",
+          "team": "HOU",
+          "pos": "RB",
+          "opp": "vs NYG",
+          "note": "78 percent of the snaps at JAX; David Montgomery missed Wednesday with the groin.",
           "flag": "",
           "action": "FLEX"
         },
         {
           "rank": 40,
+          "tier": 5,
+          "player": "DK Metcalf",
+          "team": "PIT",
+          "pos": "WR",
+          "opp": "@NO",
+          "note": "",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
+          "rank": 41,
           "tier": 5,
           "player": "Isaiah Likely",
           "team": "NYG",
@@ -2080,35 +2093,24 @@
           "action": "FLEX"
         },
         {
-          "rank": 41,
-          "tier": 5,
-          "player": "Aaron Jones Sr.",
-          "team": "MIN",
-          "pos": "RB",
-          "opp": "vs IND",
-          "note": "",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
           "rank": 42,
-          "tier": 5,
-          "player": "Michael Wilson",
-          "team": "ARI",
-          "pos": "WR",
-          "opp": "vs DEN",
-          "note": "",
-          "flag": "",
-          "action": "FLEX"
-        },
-        {
-          "rank": 43,
           "tier": 5,
           "player": "Sam LaPorta",
           "team": "DET",
           "pos": "TE",
           "opp": "vs GB",
           "note": "8 for 84 and a TD at CAR in Week 4; off the bye.",
+          "flag": "",
+          "action": "FLEX"
+        },
+        {
+          "rank": 43,
+          "tier": 5,
+          "player": "Germie Bernard",
+          "team": "PIT",
+          "pos": "WR",
+          "opp": "@NO",
+          "note": "Ran every route at TB with Roman Wilson and Michael Pittman Jr. on IR.",
           "flag": "",
           "action": "FLEX"
         },
@@ -2127,10 +2129,10 @@
         {
           "rank": 45,
           "tier": 5,
-          "player": "Carnell Tate",
-          "team": "TEN",
+          "player": "Luther Burden III",
+          "team": "CHI",
           "pos": "WR",
-          "opp": "vs CLE",
+          "opp": "vs NE",
           "note": "",
           "flag": "",
           "action": "FLEX"
@@ -2138,25 +2140,24 @@
         {
           "rank": 46,
           "tier": 5,
-          "player": "Germie Bernard",
-          "team": "PIT",
-          "pos": "WR",
-          "opp": "@NO",
-          "note": "Ran every route at TB with Roman Wilson and Michael Pittman Jr. on IR.",
+          "player": "Aaron Jones Sr.",
+          "team": "MIN",
+          "pos": "RB",
+          "opp": "vs IND",
+          "note": "",
           "flag": "",
           "action": "FLEX"
         },
         {
           "rank": 47,
           "tier": 5,
-          "player": "Saquon Barkley",
-          "team": "PHI",
-          "pos": "RB",
-          "opp": "vs DAL",
-          "note": "Full practice Thursday off the hamstring after two missed games; expected to play Monday.",
+          "player": "Michael Wilson",
+          "team": "ARI",
+          "pos": "WR",
+          "opp": "vs DEN",
+          "note": "",
           "flag": "",
-          "action": "FLEX",
-          "watch": "Philadelphia's Saturday injury report and Monday's inactives"
+          "action": "FLEX"
         },
         {
           "rank": 48,
@@ -2173,72 +2174,16 @@
           "rank": 49,
           "tier": 6,
           "tier_label": "Scraps",
-          "player": "Woody Marks",
-          "team": "HOU",
-          "pos": "RB",
-          "opp": "vs NYG",
+          "player": "Carnell Tate",
+          "team": "TEN",
+          "pos": "WR",
+          "opp": "vs CLE",
           "note": "",
           "flag": "",
           "action": "SIT"
         },
         {
           "rank": 50,
-          "tier": 6,
-          "player": "Denzel Boston",
-          "team": "CLE",
-          "pos": "WR",
-          "opp": "@TEN",
-          "note": "",
-          "flag": "",
-          "action": "SIT"
-        },
-        {
-          "rank": 51,
-          "tier": 6,
-          "player": "A.J. Brown",
-          "team": "NE",
-          "pos": "WR",
-          "opp": "@CHI",
-          "note": "",
-          "flag": "",
-          "action": "SIT"
-        },
-        {
-          "rank": 52,
-          "tier": 6,
-          "player": "Dallas Goedert",
-          "team": "PHI",
-          "pos": "TE",
-          "opp": "vs DAL",
-          "note": "6 for 61 with Tanner McKee starting vs CAR.",
-          "flag": "",
-          "action": "SIT"
-        },
-        {
-          "rank": 53,
-          "tier": 6,
-          "player": "Tucker Kraft",
-          "team": "GB",
-          "pos": "TE",
-          "opp": "@DET",
-          "note": "Hit on the right knee vs DAL and returned; 5 of 8 for 37. Watch Wednesday.",
-          "flag": "",
-          "action": "SIT",
-          "watch": "Green Bay's Wednesday practice report"
-        },
-        {
-          "rank": 54,
-          "tier": 6,
-          "player": "Emeka Egbuka",
-          "team": "TB",
-          "pos": "WR",
-          "opp": "@CAR",
-          "note": "",
-          "flag": "",
-          "action": "SIT"
-        },
-        {
-          "rank": 55,
           "tier": 6,
           "player": "Ollie Gordon II",
           "team": "MIA",
@@ -2249,40 +2194,52 @@
           "action": "SIT"
         },
         {
-          "rank": 56,
+          "rank": 51,
           "tier": 6,
-          "player": "Jaylen Waddle",
-          "team": "DEN",
-          "pos": "WR",
-          "opp": "@ARI",
+          "player": "Colston Loveland",
+          "team": "CHI",
+          "pos": "TE",
+          "opp": "vs NE",
+          "note": "6 of 7 for 65 and a TD at ATL on 78 percent of the routes.",
+          "flag": "",
+          "action": "SIT"
+        },
+        {
+          "rank": 52,
+          "tier": 6,
+          "player": "Tony Pollard",
+          "team": "TEN",
+          "pos": "RB",
+          "opp": "vs CLE",
           "note": "",
           "flag": "",
           "action": "SIT"
         },
         {
-          "rank": 57,
+          "rank": 53,
           "tier": 6,
-          "player": "Jameson Williams",
-          "team": "DET",
+          "player": "Denzel Boston",
+          "team": "CLE",
           "pos": "WR",
-          "opp": "vs GB",
+          "opp": "@TEN",
           "note": "",
           "flag": "",
           "action": "SIT"
         },
         {
-          "rank": 58,
+          "rank": 54,
           "tier": 6,
-          "player": "Keenan Allen",
-          "team": "IND",
-          "pos": "WR",
-          "opp": "@MIN",
-          "note": "",
+          "player": "Tucker Kraft",
+          "team": "GB",
+          "pos": "TE",
+          "opp": "@DET",
+          "note": "Hit on the right knee vs DAL and returned; 5 of 8 for 37.",
           "flag": "",
-          "action": "SIT"
+          "action": "SIT",
+          "watch": "Green Bay's Friday injury report"
         },
         {
-          "rank": 59,
+          "rank": 55,
           "tier": 6,
           "player": "Travis Kelce",
           "team": "KC",
@@ -2293,12 +2250,56 @@
           "action": "SIT"
         },
         {
+          "rank": 56,
+          "tier": 6,
+          "player": "RJ Harvey",
+          "team": "DEN",
+          "pos": "RB",
+          "opp": "@ARI",
+          "note": "",
+          "flag": "",
+          "action": "SIT"
+        },
+        {
+          "rank": 57,
+          "tier": 6,
+          "player": "Jaylen Waddle",
+          "team": "DEN",
+          "pos": "WR",
+          "opp": "@ARI",
+          "note": "",
+          "flag": "",
+          "action": "SIT"
+        },
+        {
+          "rank": 58,
+          "tier": 6,
+          "player": "J.K. Dobbins",
+          "team": "DEN",
+          "pos": "RB",
+          "opp": "@ARI",
+          "note": "Jonah Coleman practiced off IR Wednesday; his activation cuts Dobbins' early downs.",
+          "flag": "",
+          "action": "SIT"
+        },
+        {
+          "rank": 59,
+          "tier": 6,
+          "player": "Dallas Goedert",
+          "team": "PHI",
+          "pos": "TE",
+          "opp": "vs DAL",
+          "note": "6 for 61 with Tanner McKee starting vs CAR.",
+          "flag": "",
+          "action": "SIT"
+        },
+        {
           "rank": 60,
           "tier": 6,
-          "player": "Blake Corum",
-          "team": "LAR",
-          "pos": "RB",
-          "opp": "@LV",
+          "player": "Jameson Williams",
+          "team": "DET",
+          "pos": "WR",
+          "opp": "vs GB",
           "note": "",
           "flag": "",
           "action": "SIT"
@@ -2312,7 +2313,7 @@
         "pos": "WR",
         "opp": "@NO",
         "why": "He ran a route on every dropback at TB and drew 21 targets over the last two games, with Roman Wilson and Michael Pittman Jr. both on IR.",
-        "verdict": "WR24 for me this week, a WR2.",
+        "verdict": "WR22 for me this week, a WR2.",
         "action": "START",
         "slot": "WR2"
       },
@@ -2322,7 +2323,7 @@
         "pos": "RB",
         "opp": "vs PIT",
         "why": "20 carries for 70 at NYG, 57 percent of the backfield rushes, with Travis Etienne Jr. on IR until after Week 8.",
-        "verdict": "RB27 for me this week, a high-end RB3 and a high-end flex play.",
+        "verdict": "RB26 for me this week, a high-end RB3 and a high-end flex play.",
         "action": "FLEX"
       },
       {
@@ -2331,7 +2332,7 @@
         "pos": "WR",
         "opp": "vs MIA",
         "why": "In his first game off IR he played 82 percent of the snaps and ran 28 of the 33 routes. Miami at home.",
-        "verdict": "WR31 for me this week, a low-end WR3 and a low-end flex play.",
+        "verdict": "WR32 for me this week, a low-end WR3 and a low-end flex play.",
         "action": "START",
         "slot": "WR3"
       }
