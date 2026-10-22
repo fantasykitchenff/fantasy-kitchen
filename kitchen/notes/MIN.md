@@ -161,6 +161,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Week 5 @NO (23-13 win): T.J. Hockenson concussion on the first drive; O'Connell hopes he clears over the Week 6 bye; Josh Oliver torn biceps. Jefferson 6 of 7 for 79 and a TD in his return; Aaron Jones 25 for 113 and a TD (ESPN, NFL.com, Star Tribune).
 - 2026-10-21: T.J. Hockenson: full practice Wednesday but still in the concussion protocol, not yet cleared for Week 7 vs IND (team report). [pod 10-22, official]
 - 2026-10-22: Jordan Mason had not been activated from IR as of Thursday; his 21-day window opened 10/19. Reports of his Wednesday participation conflict (full in the league roundup, limited in team coverage). [pod 10-22, official]
+- 2026-10-22: Justin Jefferson (ankle) full Thursday; T.J. Hockenson (concussion) full, still in the protocol; Jordan Mason full in his IR window, not activated. [NFL.com Thursday roundup]
 
 ## Other
 

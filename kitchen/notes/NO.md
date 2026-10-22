@@ -205,6 +205,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: Chris Olave: DNP Wednesday and Thursday (illness). Alvin Kamara: limited both days (back). Tyler Shough full both days (left hand). [NFL.com Thursday roundup, team reports]
 - 2026-10-18: Chris Olave (illness) and Alvin Kamara (back) both active @NYG in Week 6 (NBC Sports, Yahoo Sports).
 - 2026-10-21: Jordyn Tyson (hamstring, IR): Mickey Loomis said Tuesday he won't practice this week but is getting closer; he traveled to Paris for Week 7 vs PIT; Bryce Lance is the No. 2 receiver behind Chris Olave meanwhile (Ross Jackson, WWL; RotoWire, NBC Sports).
+- 2026-10-22: Alvin Kamara (back) limited Thursday; CJ Donaldson (shoulder) upgraded to full; Tyler Shough (left hand) full. [NFL.com Thursday roundup]
 
 ## Other
 

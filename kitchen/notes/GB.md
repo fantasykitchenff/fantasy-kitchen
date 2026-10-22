@@ -204,6 +204,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Tucker Kraft: hit low on the right knee (the knee with the 2025 ACL tear) by Caleb Downs with about 1:45 left in Q2 vs DAL, walked to the tent, returned; finished 5 of 8 for 37. [pod 10-19, official]
 - 2026-10-19: Micah Parsons: still on reserve/PUP (ACL and meniscus) with no 21-day window opened, not expected for Week 7 @DET, 'a few weeks away.' [pod 10-19, beat]
 - 2026-10-22: Josh Jacobs practiced Thursday in his first week back from the exempt list; he was not on Wednesday's report (CBS, Yahoo Sports). [pod 10-22, beat]
+- 2026-10-22: Jordan Love (back) full Thursday; Christian Watson (ankle), Matthew Golden (shoulder) limited; Bo Melton (back) DNP. [NFL.com Thursday roundup]
 
 ## Other
 

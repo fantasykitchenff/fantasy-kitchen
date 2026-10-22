@@ -151,6 +151,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: Elijah Arroyo (shoulder) hurt in the second quarter @DEN, doubtful to return (seahawks.com); AJ Barner played 93% of snaps.
 - 2026-10-16: Jadarian Price: on IR (chest, placed Oct 3), first eligible Week 8 (Nov 2 vs CHI), Macdonald says 'sooner rather than later' after Week 7; Zach Charbonnet still on PUP (ACL) with no activation timeline. [pod 10-19, coach]
 - 2026-10-22: Zach Charbonnet activated from the PUP list Thursday after a full practice Wednesday; eligible vs KC in his first game back from the ACL (seahawks.com, NFL.com). Supersedes the 10-16 line "still on PUP". [pod 10-22, official]
+- 2026-10-22: Elijah Arroyo to IR Thursday; shoulder surgery, out for the season (Adam Schefter, ESPN). [NFL.com Thursday roundup]
 
 ## Other
 

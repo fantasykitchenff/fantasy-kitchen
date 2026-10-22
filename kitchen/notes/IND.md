@@ -217,6 +217,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Sauce Gardner: calf strain in Week 6 vs TEN, considered week to week. [pod 10-19, beat]
 - 2026-10-22: Tyler Warren (groin) did not practice Wednesday and was not seen at practice Thursday (Rotowire, CBS). [pod 10-22, beat]
 - 2026-10-21: CB Sauce Gardner (calf) did not practice Wednesday and is week to week; Keenan Allen did not practice Wednesday, listed as a rest day (NBC Sports, CBS). [pod 10-22, official]
+- 2026-10-22: Tyler Warren (groin) DNP Thursday, second straight day; Sauce Gardner (calf) DNP. [NFL.com Thursday roundup]
 
 ## Other
 
