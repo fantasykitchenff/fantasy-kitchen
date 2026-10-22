@@ -103,6 +103,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jake Ferguson: Snap share 76%, 60%, 69% in Weeks 1 to 3 (44, 33, 51 snaps); Brevyn Spann-Ford 22%, 38%, 38% (13, 21, 28) and Luke Schoonmaker 22%, 29%, 22% (13, 16, 16). Ferguson lost a fumble on the opening drive in Rio and went 3 of 5 for 23 and a TD. [pod 9-29, deployment]
 - 2026-09-27: Jake Ferguson: His 3 touchdowns came 0, 2 and 1 by week (two vs WAS in Week 2, one vs BAL in Week 3), on 11 targets. [pod 10-1, deployment]
 - 2026-10-18: Jake Ferguson 2 for 13 on about 29 routes; Ryan Flournoy 7 for 40 and a TD on about 95 percent of the routes. [pod 10-20, deployment]
+- 2026-10-18: Brevyn Spann-Ford started over Jake Ferguson in Week 6 (Fort Worth Star-Telegram); Ferguson caught 2 passes for 13 yards and ran a route on about half the dropbacks. [pod 10-22, beat]
 
 ## Offensive line
 

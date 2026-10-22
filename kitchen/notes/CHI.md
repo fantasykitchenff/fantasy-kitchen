@@ -129,6 +129,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Luther Burden III: 8 of 8 for 95 in Week 6 @ATL (CBS box score).
 - 2026-10-18: Luther Burden III: 8 of 8 targets for 95 (long 25) @ATL, team lead, second straight game leading Chicago in receiving yards. [pod 10-19, official]
 - 2026-10-18: Rome Odunze: 3 of 4 targets for 39 (long 23, a third-and-17 conversion) @ATL. [pod 10-19, official]
+- 2026-10-16: Luther Burden III ran 17 or 18 routes in Week 6 (42 to 44 percent of dropbacks) and caught all 8 targets for 95; in sets with two or fewer receivers from Weeks 2 to 6 he ran 25 routes to Rome Odunze's 72. [pod 10-22, deployment]
 
 ## Tight ends
 

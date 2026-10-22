@@ -83,6 +83,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-06: Week 4 vs IND (London): Jacory Croskey-Merritt 29 snaps (45%), 9 for 15, 2 for 35; Austin Ekeler 17 snaps (27%), 4 for 29, 1 of 2 for 11 in his first game after signing; Kaytron Allen 12 snaps; Rachaad White inactive (shoulder) (CBS, NBC Sports).
 - 2026-10-11: RB snaps vs NYG: Rachaad White 37 (60 percent, 7-18), Jacory Croskey-Merritt 22 (35 percent, 11-82-1), Austin Ekeler 6 (10 percent). [pod 10-13, deployment]
 - 2026-10-19: Rachaad White led the backs at SF with Croskey-Merritt out: 7 carries for 27, plus 4 catches on 5 targets for 30 and a TD. [pod 10-20, deployment]
+- 2026-10-19: Rachaad White played about 70 percent of the snaps at SF (69 and 71 percent in two charting sets) with Jacory Croskey-Merritt out. [pod 10-22, deployment]
 
 ## Receivers
 
@@ -116,6 +117,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Terry McLaurin (hamstring) limited Thursday and sat Friday as planned rest; final report Saturday. [CBS, Rotowire]
 - 2026-10-20: Antonio Williams: led Washington's receivers in snaps and routes in Week 6, 3 for 50; 6% rostered Tuesday (Yahoo waiver column).
 - 2026-10-19: Stefon Diggs: 6 for 44 and a TD on 7 targets at SF; Terry McLaurin left in the first quarter (torn patellar tendon, out for the season). Treylon Burks also left Monday, status unclear. [pod 10-20, deployment]
+- 2026-10-19: Antonio Williams ran a route on 73, 76 and 74 percent of dropbacks in Weeks 4 to 6 and led Washington's receivers in routes at SF. [pod 10-22, deployment]
 
 ## Tight ends
 
@@ -127,6 +129,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Chigoziem Okonkwo: Okonkwo was added to the Commanders' offense this offseason, another new target competing with Terry McLaurin alongside Stefon Diggs. [8-18 WR targets and avoids]
 - 2026-08-18: Chigoziem Okonkwo: Until Stefon Diggs signed about a week and a half ago, Okonkwo looked like the Commanders' second passing option behind Terry McLaurin; he would now likely need an injury to McLaurin or Diggs to reach that role. [8-18 WR rankings]
 - 2026-10-19: Chig Okonkwo caught all 7 targets for 69 yards in the 23-17 loss at SF, after a team-high 6 targets in Week 5. [pod 10-20, deployment]
+- 2026-10-19: Chig Okonkwo ran a route on more than 80 percent of dropbacks at SF (81 to 89 percent across three charting sets) and caught all 7 targets. [pod 10-22, deployment]
 
 ## Offensive line
 

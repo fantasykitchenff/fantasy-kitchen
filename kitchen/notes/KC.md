@@ -180,6 +180,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Tyquan Thornton tore ligaments along with the dislocated left ankle, will have surgery and is expected to miss 12 to 16 weeks, with a postseason return possible (NFL Network via NBC Sports, Washington Times). This replaces the 10-5 "out indefinitely" line. [pod 10-6, beat]
 - 2026-10-13: Rashee Rice (hamstring, Week 4) returns from the bye; Ian Rapoport still calls it relatively minor; first practice Wednesday (DK Network).
 - 2026-10-15: Rashee Rice: DNP Wednesday and Thursday (hamstring/knee). Patrick Mahomes full (knee). [NFL.com Thursday roundup, team reports]
+- 2026-10-21: Travis Kelce was limited Wednesday with the right ankle he hurt on the first drive of Week 6; LT Josh Simmons is going to IR with the disc issue (NBC Sports, PFT). [pod 10-22, official]
 
 ## Other
 

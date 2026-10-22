@@ -156,6 +156,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: David Montgomery (groin), Tank Dell (knee, full Thursday) and Jalen Pitre ruled out Week 6 @JAX; none travel to London. [NFL.com Thursday roundup, team reports]
 - 2026-10-20: David Montgomery (groin): week to week per DeMeco Ryans; Week 7 status vs NYG still undecided, Houston's bye is Week 8 (DraftKings Network injury report). Jaylin Noel 7% rostered Tuesday (Yahoo).
 - 2026-10-19: DeMeco Ryans said Tank Dell will play Sunday vs NYG, his first game since December 2024 (HoustonTexans.com). Firms up the "plans to activate" line. [pod 10-22, coach]
+- 2026-10-22: David Montgomery (groin) did not practice Thursday and is expected to miss Week 7 vs NYG, per the Houston Chronicle's Aaron Wilson (NBC Sports, CBS); Houston is on bye in Week 8. [pod 10-22, beat]
 
 ## Other
 

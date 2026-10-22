@@ -6,12 +6,121 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-22T20:55:00Z",
+  "updatedAt": "2026-10-22T21:05:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "text": "David Montgomery (HOU) did not practice Thursday with the groin and is expected to miss Week 7 vs NYG, per Aaron Wilson of the Houston Chronicle, and Houston is on bye in Week 8. RB25 rest of season for me. Monitor Houston's Friday injury report for his designation.",
+        "url": "",
+        "player": "David Montgomery",
+        "team": "HOU",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Houston's Friday injury report for his designation"
+      },
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "player": "Woody Marks",
+        "team": "HOU",
+        "pos": "RB",
+        "action": "START",
+        "slot": "RB2",
+        "url": "",
+        "text": "Woody Marks (HOU) played 78 percent of the snaps at JAX and every snap inside the 5, and David Montgomery is expected to miss Week 7. RB16 for me vs NYG this week, an RB2."
+      },
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "text": "Jordan Mason (MIN) had not been activated off IR as of Thursday, and reports differ on whether he was full or limited Wednesday. If Minnesota activates him, he takes the early downs vs IND and is RB28 for me this week, a high-end RB3 and a high-end flex play. Monitor Mason's activation off IR by Saturday.",
+        "url": "",
+        "player": "Jordan Mason",
+        "team": "MIN",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "his activation off IR by Saturday"
+      },
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "player": "Jake Ferguson",
+        "team": "DAL",
+        "pos": "TE",
+        "action": "SIT",
+        "url": "",
+        "text": "Brevyn Spann-Ford started over Jake Ferguson (DAL) in Week 6, per the Fort Worth Star-Telegram, and Ferguson ran a route on about half the dropbacks and caught 2 for 13. TE24 for me at PHI, outside my top 12, and TE17 rest of season; sit him outside deep leagues and watch his routes Monday night."
+      },
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "player": "Michael Wilson",
+        "team": "ARI",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Denver's Friday injury report for Pat Surtain II",
+        "url": "",
+        "text": "Denver cornerback Pat Surtain II returned to practice Wednesday with the ankle before the Broncos play at ARI. Michael Wilson (ARI) is WR24 for me this week, a WR2, and a Surtain shadow would cost him targets. Monitor Denver's Friday injury report for Surtain."
+      },
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "player": "Travis Kelce",
+        "team": "KC",
+        "pos": "TE",
+        "action": "MONITOR",
+        "watch": "Kansas City's Friday injury report",
+        "url": "",
+        "text": "Travis Kelce (KC) was limited Wednesday with the right ankle he hurt on the first drive of Week 6, and left tackle Josh Simmons is going to IR. Kelce is TE8 for me at SEA. Monitor Kansas City's Friday injury report."
+      },
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "player": "Kyler Murray",
+        "team": "MIN",
+        "pos": "QB",
+        "action": "START",
+        "slot": "QB1",
+        "url": "",
+        "text": "Colts cornerback Sauce Gardner did not practice Wednesday with the calf and is week to week. Kyler Murray (MIN) comes off the bye vs IND and is QB11 for me, a borderline start this week."
+      },
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "player": "Chig Okonkwo",
+        "team": "WAS",
+        "pos": "TE",
+        "action": "STASH",
+        "faab": "1-3%",
+        "url": "",
+        "text": "Chig Okonkwo (WAS) ran a route on more than 80 percent of the dropbacks at SF and caught all 7 targets for 69, a week after a team-high 6 targets, and Terry McLaurin is out for the season. TE19 rest of season for me. Stash him through the bye, 1 to 3 percent of FAAB."
+      },
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "player": "Antonio Williams",
+        "team": "WAS",
+        "pos": "WR",
+        "action": "STASH",
+        "faab": "1-3%",
+        "url": "",
+        "text": "Antonio Williams (WAS) ran a route on 73, 76 and 74 percent of the dropbacks in Weeks 4 to 6 and led Washington's receivers in routes at SF, with Terry McLaurin out for the season. WR66 rest of season for me. Stash him through the bye, 1 to 3 percent of FAAB."
+      },
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "player": "Rachaad White",
+        "team": "WAS",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "2-4%",
+        "url": "",
+        "text": "Rachaad White (WAS) played about 70 percent of the snaps at SF with Jacory Croskey-Merritt out, and caught 4 of 5 targets for 30 and a TD. Croskey-Merritt is on IR with the groin for at least four games. RB38 rest of season for me. Stash White through the bye, 2 to 4 percent of FAAB."
+      },
+      {
+        "at": "2026-10-22T21:05:00Z",
+        "player": "Carnell Tate",
+        "team": "TEN",
+        "pos": "WR",
+        "action": "START",
+        "slot": "WR3",
+        "url": "",
+        "text": "Carnell Tate (TEN) drew 32 percent of Tennessee's targets at IND and accounted for 70 of Cam Ward's 102 passing yards. WR25 for me vs CLE this week, a high-end WR3, and WR29 rest of season."
+      },
       {
         "at": "2026-10-22T20:35:00Z",
         "player": "Dameon Pierce",
@@ -162,16 +271,6 @@
       },
       {
         "at": "2026-10-22T20:20:00Z",
-        "player": "Rachaad White",
-        "team": "WAS",
-        "pos": "RB",
-        "action": "STASH",
-        "faab": "2-4%",
-        "url": "",
-        "text": "Washington put Jacory Croskey-Merritt (WAS) on IR with the groin, out at least four games. Rachaad White led the backs at SF with 7 carries and 4 catches on 5 targets for 30 and a TD, and he is RB38 rest of season for me. Stash White through the bye, 2 to 4 percent of FAAB."
-      },
-      {
-        "at": "2026-10-22T20:20:00Z",
         "player": "Jacory Croskey-Merritt",
         "team": "WAS",
         "pos": "RB",
@@ -179,16 +278,6 @@
         "why": "He returns around Week 11 at the earliest; with no IR spot open, drop him for any add.",
         "url": "",
         "text": "Jacory Croskey-Merritt (WAS) is on IR with the groin and out at least four games, about Weeks 8 to 11 after the bye. RB43 rest of season for me. Hold him in an IR spot; with no IR spot open, drop him for any add on the list."
-      },
-      {
-        "at": "2026-10-22T20:20:00Z",
-        "player": "Chig Okonkwo",
-        "team": "WAS",
-        "pos": "TE",
-        "action": "STASH",
-        "faab": "1-3%",
-        "url": "",
-        "text": "Chig Okonkwo (WAS) caught all 7 targets for 69 at SF, a week after a team-high 6 targets, and Terry McLaurin is out for the season. TE19 rest of season for me. Stash him through the bye, 1 to 3 percent of FAAB."
       },
       {
         "at": "2026-10-22T20:20:00Z",
@@ -211,16 +300,6 @@
       },
       {
         "at": "2026-10-21T22:15:00Z",
-        "text": "Jordan Mason (MIN) practiced in full Wednesday as his IR window opened with the thumb. Once Minnesota activates him he takes the early downs vs IND, RB28 for me this week, a high-end RB3 and a high-end flex play. Aaron Jones Sr. is RB18 for me, an RB2. Monitor Mason's activation off IR by Saturday.",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
-        "player": "Jordan Mason",
-        "team": "MIN",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "his activation off IR by Saturday"
-      },
-      {
-        "at": "2026-10-21T22:15:00Z",
         "text": "Justin Jefferson (MIN) was limited Wednesday with the ankle, a maintenance day. He is WR9 for me this week vs IND. Monitor Minnesota's Friday injury report.",
         "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
         "player": "Justin Jefferson",
@@ -238,16 +317,6 @@
         "pos": "QB",
         "action": "MONITOR",
         "watch": "his first start at Houston Sunday"
-      },
-      {
-        "at": "2026-10-21T22:15:00Z",
-        "text": "David Montgomery (HOU) missed practice Wednesday with the groin, still week to week with Houston's bye in Week 8. Woody Marks played 78 percent of the snaps in Week 6 and is RB16 for me vs NYG, an RB2. Montgomery is RB25 rest of season for me. Monitor Houston's Friday injury report.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-21",
-        "player": "David Montgomery",
-        "team": "HOU",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Houston's Friday injury report"
       },
       {
         "at": "2026-10-21T22:15:00Z",

@@ -46,6 +46,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Deshaun Watson 15 of 33 for 155, 1 TD, sacked 8 times in the 12-17 loss at NYJ. [pod 10-13, deployment]
 - 2026-10-11: Deshaun Watson 15 of 33 for 155, sacked 8 times @NYJ. [pod 10-14, deployment]
 - 2026-10-18: Deshaun Watson threw for 164 and was sacked 5 times in the 13-10 win over BAL. [pod 10-20, deployment]
+- 2026-10-18: Deshaun Watson has been sacked 13 times in two games: 8 at NYJ in Week 5 and 5 vs BAL in Week 6. [pod 10-22, deployment]
 
 ## Backfield
 

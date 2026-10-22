@@ -6,9 +6,9 @@
   "dek": "Kendre Miller took 20 carries and the most snaps in New Orleans. The stove's on in the Saints' backfield.",
   "format": "PPR",
   "publishedAt": "2026-10-20T17:00:00Z",
-  "updatedAt": "2026-10-22T20:55:00Z",
+  "updatedAt": "2026-10-22T21:05:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Thu 4:55 PM ET: the rest-of-season ranks are refreshed. Matthew Golden is WR25 and Luther Burden III WR22, both still risers to trade for; MarShawn Lloyd falls to RB55 and stays a drop, and Tyler Allgeier is RB44 and still a drop for Bam Knight.\n\nUpdated Thu 4:35 PM ET: Jeremiyah Love did not practice Wednesday and is expected to miss Week 7, so Bam Knight stays an add at 1 to 3 percent and Tyler Allgeier stays a drop. Josh Jacobs practiced Thursday, and MarShawn Lloyd is still a drop.\n\nUpdated Thu 4:20 PM ET: added Chig Okonkwo and Rachaad White as risers and Jacory Croskey-Merritt as a faller after his IR move.\n\nUpdated Tue 6:15 PM ET: Terry McLaurin tore his patellar tendon and is out for the season, per Dan Quinn; drop him for any add.\n\nUpdated Tue 2:50 PM ET: Josh Jacobs is eligible but Matt LaFleur would not commit to him for Week 7 at DET; MarShawn Lloyd is still a drop, with Pierre Strong Jr. ahead of him on 41 snaps to 30.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 7 lineup ranks come with Wednesday's Menu.",
+  "intro_md": "Updated Thu 5:05 PM ET: Chig Okonkwo ran a route on more than 80 percent of the dropbacks at SF and Rachaad White played about 70 percent of the snaps, so both stay risers to stash through the bye.\n\nUpdated Thu 4:55 PM ET: the rest-of-season ranks are refreshed. Matthew Golden is WR25 and Luther Burden III WR22, both still risers to trade for; MarShawn Lloyd falls to RB55 and stays a drop, and Tyler Allgeier is RB44 and still a drop for Bam Knight.\n\nUpdated Thu 4:35 PM ET: Jeremiyah Love did not practice Wednesday and is expected to miss Week 7, so Bam Knight stays an add at 1 to 3 percent and Tyler Allgeier stays a drop. Josh Jacobs practiced Thursday, and MarShawn Lloyd is still a drop.\n\nUpdated Thu 4:20 PM ET: added Chig Okonkwo and Rachaad White as risers and Jacory Croskey-Merritt as a faller after his IR move.\n\nUpdated Tue 6:15 PM ET: Terry McLaurin tore his patellar tendon and is out for the season, per Dan Quinn; drop him for any add.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or got a new role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 7 lineup ranks come with Wednesday's Menu.",
   "outro_md": "Butcher Shop turns these trends into trade offers, and the Menu ranks every one of them for Week 7 on Wednesday.",
   "data": {
     "risers": [
@@ -96,7 +96,7 @@
         "team": "CHI",
         "pos": "WR",
         "stat": "Led Chicago in receiving yards two straight weeks",
-        "why": "Luther Burden III (CHI) caught all 8 of his targets for 95 @ATL with Caleb Williams back. He ran about 18 routes, so the role is still growing.",
+        "why": "Luther Burden III (CHI) caught all 8 of his targets for 95 @ATL with Caleb Williams back. He ran 17 or 18 routes, 42 to 44 percent of the dropbacks, so the role is still growing.",
         "verdict": "WR22 rest of season for me. Trade for him; offer a WR4 and a bench RB.",
         "action": "TRADE_FOR",
         "price": "a WR4 and a bench RB"
@@ -165,7 +165,7 @@
         "team": "WAS",
         "pos": "TE",
         "stat": "13 targets over Weeks 5 and 6, 7 of 7 for 69 at SF",
-        "why": "Chig Okonkwo (WAS) caught all 7 of his targets for 69 yards in the 23-17 loss at SF, a week after a team-high 6 targets. Terry McLaurin is out for the season, and Washington is on bye in Week 7. TE19 rest of season for me.",
+        "why": "Chig Okonkwo (WAS) ran a route on more than 80 percent of the dropbacks and caught all 7 of his targets for 69 yards in the 23-17 loss at SF, a week after a team-high 6 targets. Terry McLaurin is out for the season, and Washington is on bye in Week 7. TE19 rest of season for me.",
         "verdict": "Stash him through the bye, 1 to 3 percent of FAAB.",
         "action": "STASH",
         "faab": "1-3%"
@@ -175,7 +175,7 @@
         "team": "WAS",
         "pos": "RB",
         "stat": "11 touches and a TD at SF, 5 targets",
-        "why": "Rachaad White (WAS) led Washington's backs at SF with 7 carries for 27 and 4 catches on 5 targets for 30 and a TD. Jacory Croskey-Merritt went on IR with the groin Monday and misses at least four games. RB38 rest of season for me.",
+        "why": "Rachaad White (WAS) played about 70 percent of the snaps at SF and led Washington's backs with 7 carries for 27 and 4 catches on 5 targets for 30 and a TD. Jacory Croskey-Merritt went on IR with the groin Monday and misses at least four games. RB38 rest of season for me.",
         "verdict": "Stash him through the bye, 2 to 4 percent of FAAB.",
         "action": "STASH",
         "faab": "2-4%"

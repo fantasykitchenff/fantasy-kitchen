@@ -44,6 +44,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Kellen Moore would not say whether Tyler Shough's non-throwing left hand is broken (it got banged two weeks ago; he plays in protective layers). [pod 10-13, coach]
 - 2026-10-19: Tyler Shough: 16 of 30 for 144, 3 TD, 0 INT, 5 rushes for 32 and a TD in Week 6 @NYG (team box score).
 - 2026-10-18: Tyler Shough threw 3 TD passes on 144 yards and added a sneak TD in the win @NYG. [pod 10-20, deployment]
+- 2026-10-18: Tyler Shough has been playing through two broken bones in his non-throwing left hand (CBS, AP). [pod 10-22, beat]
 
 ## Backfield
 

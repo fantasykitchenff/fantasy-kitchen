@@ -43,6 +43,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Bo Nix 16 of 27 for 123 @LAC, Denver 3.9 yards per play; his best rushing game this season is 10 yards. [pod 10-14, deployment]
 - 2026-10-19: Bo Nix: Sean Payton said "no" to a QB change Monday; 6 TDs, 3 INTs, career-low 60.3% completions through Week 6 (Yahoo Sports, ESPN).
 - 2026-10-18: Bo Nix 17 of 27 for 107 in the OT win @SEA; J.K. Dobbins 17 for 41 and a TD; RJ Harvey 6 for 25 with a Wildcat TD and 3 catches for 31. [pod 10-20, deployment]
+- 2026-10-22: Bo Nix had a second clean-up procedure on the right ankle he broke in 2025 this offseason (ESPN, PFT) and has not run for more than 10 yards in any game this season. [pod 10-22, beat]
 
 ## Backfield
 
@@ -193,6 +194,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: CB Pat Surtain II (ankle) did not practice and is not in line to play Thursday vs SEA. [pod 10-14, beat]
 - 2026-10-20: Jonah Coleman (high ankle, IR since Sep 26) is eligible to return Week 7 vs ARI; no designation to return found yet; 28% rostered Tuesday (Yahoo, PFT).
 - 2026-10-21: Jonah Coleman (high ankle, IR since Sep 26) designated to return and practiced Wednesday, opening his 21-day window (CBS, NBC Sports, Mile High Sports). Supersedes the 10-20 line "no designation to return found yet". [pod 10-22, official]
+- 2026-10-21: CB Pat Surtain II (ankle) returned to practice Wednesday before Week 7 at ARI; RB Tyler Badie missed Wednesday's practice (Broncos.com, NBC Sports, RotoWire). [pod 10-22, official]
 
 ## Other
 

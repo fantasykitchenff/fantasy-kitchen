@@ -6,9 +6,9 @@
   "dek": "Brock Purdy is QB1, Jahmyr Gibbs comes off the bye at RB1, and Matthew Golden climbs to WR8 for Green Bay.",
   "format": "PPR",
   "publishedAt": "2026-10-21T02:46:36Z",
-  "updatedAt": "2026-10-22T20:55:00Z",
+  "updatedAt": "2026-10-22T21:05:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Thu 4:55 PM ET: the Week 7 order is refreshed. Matthew Golden moves up to WR8 and Drake London to WR6, Saquon Barkley is RB29 for me in his first game back, a high-end RB3, and Lamar Jackson is QB17, a streamer, until he practices in full. Braelon Allen is RB13, borderline RB1/RB2, only if Breece Hall is ruled out Friday.\n\nUpdated Thu 4:35 PM ET: Saquon Barkley practiced in full Thursday and is expected to play Monday vs DAL, so he is RB18 for me, an RB2, and Dameon Pierce goes back to the handcuff role and off the Menu. Breece Hall was back at practice Thursday, so Braelon Allen holds RB12 only if Hall is ruled out Friday; if Hall plays, Allen falls into the flex range. Josh Jacobs practiced Thursday and stays RB17, an RB2.\n\nUpdated Thu 4:20 PM ET: T.J. Hockenson practiced in full Wednesday but is still in the concussion protocol; he stays TE13 for me vs IND, a streamer, only if he is cleared, and Kyle Pitts Sr. is the pivot if he is ruled out.\n\nUpdated Tue 10:50 PM ET: the Week 7 order is refreshed through Tuesday night's news, ahead of Wednesday's practice reports.\n\nWeek 7 has four teams on bye: Buffalo, Jacksonville, the Chargers and Washington are off, so none of their players are on the Menu. New England opens at Chicago Thursday night, and Dallas at Philadelphia closes the week Monday night. Rankings are for full PPR.\n\nBrock Purdy leads the quarterbacks with San Francisco at 6-0, Jahmyr Gibbs comes off the bye as RB1, and Puka Nacua is WR1 with Davante Adams out 6 to 10 weeks. Brock Bowers is TE1. Germie Bernard is WR22 with two Pittsburgh receivers on IR, and Saquon Barkley is RB29 back from the hamstring.\n\nLamar Jackson (ankle), Josh Jacobs, Tucker Kraft (knee), Bucky Irving (illness) and Breece Hall all go into Friday with a question; Prep Notes revisits every one of them with the injury report.",
+  "intro_md": "Updated Thu 5:05 PM ET: David Montgomery is expected to miss Week 7, so Woody Marks stays RB16 for me, an RB2. Jordan Mason still had not been activated Thursday and is RB28 only if Minnesota activates him by Saturday. Pat Surtain II was back at practice for Denver, so Michael Wilson stays WR24, a WR2, until Friday's report, and Travis Kelce was limited Wednesday with the ankle and stays TE8.\n\nUpdated Thu 4:55 PM ET: the Week 7 order is refreshed. Matthew Golden moves up to WR8 and Drake London to WR6, Saquon Barkley is RB29 for me in his first game back, a high-end RB3, and Lamar Jackson is QB17, a streamer, until he practices in full. Braelon Allen is RB13, borderline RB1/RB2, only if Breece Hall is ruled out Friday.\n\nUpdated Thu 4:35 PM ET: Saquon Barkley practiced in full Thursday and is expected to play Monday vs DAL, so he is RB18 for me, an RB2, and Dameon Pierce goes back to the handcuff role and off the Menu. Breece Hall was back at practice Thursday, so Braelon Allen holds RB12 only if Hall is ruled out Friday; if Hall plays, Allen falls into the flex range. Josh Jacobs practiced Thursday and stays RB17, an RB2.\n\nUpdated Thu 4:20 PM ET: T.J. Hockenson practiced in full Wednesday but is still in the concussion protocol; he stays TE13 for me vs IND, a streamer, only if he is cleared, and Kyle Pitts Sr. is the pivot if he is ruled out.\n\nUpdated Tue 10:50 PM ET: the Week 7 order is refreshed through Tuesday night's news, ahead of Wednesday's practice reports.\n\nWeek 7 has four teams on bye: Buffalo, Jacksonville, the Chargers and Washington are off, so none of their players are on the Menu. New England opens at Chicago Thursday night, and Dallas at Philadelphia closes the week Monday night. Rankings are for full PPR.\n\nBrock Purdy leads the quarterbacks with San Francisco at 6-0, Jahmyr Gibbs comes off the bye as RB1, and Puka Nacua is WR1 with Davante Adams out 6 to 10 weeks. Brock Bowers is TE1. Germie Bernard is WR22 with two Pittsburgh receivers on IR, and Saquon Barkley is RB29 back from the hamstring.\n\nLamar Jackson (ankle), Josh Jacobs, Tucker Kraft (knee), Bucky Irving (illness) and Breece Hall all go into Friday with a question; Prep Notes revisits every one of them with the injury report.",
   "outro_md": "Prep Notes updates the Menu Friday after the final injury report.",
   "data": {
     "positions": {
@@ -144,7 +144,7 @@
           "team": "MIN",
           "pos": "QB",
           "opp": "vs IND",
-          "note": "Off the bye with Justin Jefferson; IND at home.",
+          "note": "Off the bye; Colts CB Sauce Gardner missed Wednesday with the calf.",
           "flag": "",
           "action": "START",
           "slot": "QB1"
@@ -180,7 +180,7 @@
           "team": "NO",
           "pos": "QB",
           "opp": "vs PIT",
-          "note": "",
+          "note": "Playing through two broken bones in his non-throwing left hand.",
           "flag": "",
           "action": "STREAM"
         },
@@ -191,7 +191,7 @@
           "team": "DEN",
           "pos": "QB",
           "opp": "@ARI",
-          "note": "",
+          "note": "No run longer than 10 yards this season after a second ankle procedure.",
           "flag": "",
           "action": "STREAM"
         },
@@ -202,7 +202,7 @@
           "team": "CLE",
           "pos": "QB",
           "opp": "@TEN",
-          "note": "",
+          "note": "Sacked 13 times in his last two games.",
           "flag": "",
           "action": "STREAM"
         },
@@ -491,7 +491,7 @@
           "team": "HOU",
           "pos": "RB",
           "opp": "vs NYG",
-          "note": "78 percent of the snaps at JAX; David Montgomery missed Wednesday with the groin.",
+          "note": "78 percent of the snaps at JAX; David Montgomery is expected to miss Week 7.",
           "flag": "",
           "action": "START",
           "slot": "RB2"
@@ -635,9 +635,10 @@
           "team": "MIN",
           "pos": "RB",
           "opp": "vs IND",
-          "note": "",
+          "note": "Not activated off IR as of Thursday; this rank holds only if he is active.",
           "flag": "",
-          "action": "FLEX"
+          "action": "FLEX",
+          "watch": "his activation off IR by Saturday"
         },
         {
           "rank": 29,
@@ -879,7 +880,7 @@
           "team": "MIN",
           "pos": "WR",
           "opp": "vs IND",
-          "note": "Off the bye after playing through the ankle in Week 5.",
+          "note": "Off the bye; Colts CB Sauce Gardner (calf) missed Wednesday, week to week.",
           "flag": "",
           "action": "START",
           "slot": "WR1"
@@ -1049,7 +1050,7 @@
           "team": "CHI",
           "pos": "WR",
           "opp": "vs NE",
-          "note": "",
+          "note": "8 of 8 for 95 on about 18 routes, 42 to 44 percent of dropbacks.",
           "flag": "",
           "action": "START",
           "slot": "WR2"
@@ -1061,10 +1062,11 @@
           "team": "ARI",
           "pos": "WR",
           "opp": "vs DEN",
-          "note": "",
+          "note": "Pat Surtain II returned to practice Wednesday; watch his Friday status.",
           "flag": "",
           "action": "START",
-          "slot": "WR2"
+          "slot": "WR2",
+          "watch": "Denver's Friday injury report for Pat Surtain II"
         },
         {
           "rank": 25,
@@ -1073,7 +1075,7 @@
           "team": "TEN",
           "pos": "WR",
           "opp": "vs CLE",
-          "note": "",
+          "note": "32 percent of the targets at IND, 70 of Cam Ward's 102 yards.",
           "flag": "",
           "action": "START",
           "slot": "WR3"
@@ -1170,7 +1172,7 @@
           "team": "IND",
           "pos": "WR",
           "opp": "@MIN",
-          "note": "",
+          "note": "Rest day Wednesday; 9, 9 and 11 targets in Weeks 4 to 6.",
           "flag": "",
           "action": "START",
           "slot": "WR3"
@@ -1251,7 +1253,7 @@
           "team": "MIN",
           "pos": "WR",
           "opp": "vs IND",
-          "note": "",
+          "note": "Colts CB Sauce Gardner (calf) did not practice Wednesday.",
           "flag": "",
           "action": "FLEX"
         },
@@ -1464,10 +1466,11 @@
           "team": "KC",
           "pos": "TE",
           "opp": "@SEA",
-          "note": "Played through an ankle injury vs LAC, 4 for 53; Rashee Rice still out.",
+          "note": "Limited Wednesday with the right ankle; LT Josh Simmons to IR, Rice out.",
           "flag": "",
           "action": "START",
-          "slot": "TE1"
+          "slot": "TE1",
+          "watch": "Kansas City's Friday injury report"
         },
         {
           "rank": 9,
@@ -1776,7 +1779,7 @@
           "team": "MIN",
           "pos": "WR",
           "opp": "vs IND",
-          "note": "Off the bye after playing through the ankle in Week 5.",
+          "note": "Off the bye; Colts CB Sauce Gardner (calf) missed Wednesday, week to week.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
@@ -2066,7 +2069,7 @@
           "team": "HOU",
           "pos": "RB",
           "opp": "vs NYG",
-          "note": "78 percent of the snaps at JAX; David Montgomery missed Wednesday with the groin.",
+          "note": "78 percent of the snaps at JAX; David Montgomery is expected to miss Week 7.",
           "flag": "",
           "action": "FLEX"
         },
@@ -2133,7 +2136,7 @@
           "team": "CHI",
           "pos": "WR",
           "opp": "vs NE",
-          "note": "",
+          "note": "8 of 8 for 95 on about 18 routes, 42 to 44 percent of dropbacks.",
           "flag": "",
           "action": "FLEX"
         },
@@ -2155,9 +2158,10 @@
           "team": "ARI",
           "pos": "WR",
           "opp": "vs DEN",
-          "note": "",
+          "note": "Pat Surtain II returned to practice Wednesday; watch his Friday status.",
           "flag": "",
-          "action": "FLEX"
+          "action": "FLEX",
+          "watch": "Denver's Friday injury report for Pat Surtain II"
         },
         {
           "rank": 48,
@@ -2178,7 +2182,7 @@
           "team": "TEN",
           "pos": "WR",
           "opp": "vs CLE",
-          "note": "",
+          "note": "32 percent of the targets at IND, 70 of Cam Ward's 102 yards.",
           "flag": "",
           "action": "SIT"
         },
@@ -2245,9 +2249,10 @@
           "team": "KC",
           "pos": "TE",
           "opp": "@SEA",
-          "note": "Played through an ankle injury vs LAC, 4 for 53; Rashee Rice still out.",
+          "note": "Limited Wednesday with the right ankle; LT Josh Simmons to IR, Rice out.",
           "flag": "",
-          "action": "SIT"
+          "action": "SIT",
+          "watch": "Kansas City's Friday injury report"
         },
         {
           "rank": 56,
