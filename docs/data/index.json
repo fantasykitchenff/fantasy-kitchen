@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 7,
-  "updatedAt": "2026-10-22T13:52:31Z",
+  "updatedAt": "2026-10-22T16:09:27Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 7,
+      "path": "2026/week-07/notes.json",
+      "title": "Kitchen notes, Week 7",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-20T16:10:00Z",
+      "updatedAt": "2026-10-22T16:10:00Z"
+    },
     {
       "series": "line",
       "week": 7,
@@ -11,15 +20,6 @@
       "dek": "Germie Bernard runs every route for Pittsburgh, and Lamar Jackson and Patrick Mahomes II both fall outside my top 12.",
       "publishedAt": "2026-10-22T13:51:12Z",
       "updatedAt": "2026-10-22T13:51:12Z"
-    },
-    {
-      "series": "notes",
-      "week": 7,
-      "path": "2026/week-07/notes.json",
-      "title": "Kitchen notes, Week 7",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-20T16:10:00Z",
-      "updatedAt": "2026-10-21T22:15:00Z"
     },
     {
       "series": "menu",

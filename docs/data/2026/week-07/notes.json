@@ -6,12 +6,22 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-21T22:15:00Z",
+  "updatedAt": "2026-10-22T16:10:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-22T16:10:00Z",
+        "player": "Saquon Barkley",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Philadelphia's Thursday practice report",
+        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
+        "text": "NFL Network's Mike Garafolo reports Saquon Barkley (PHI) is expected to return to practice Thursday from the hamstring that kept him inactive the last two games, and he is in line to play Monday vs DAL. RB9 rest of season for me. Dameon Pierce (PHI) played 61 of 64 snaps vs CAR and stays RB18 for me this week, an RB2, until Barkley practices in full. Monitor Philadelphia's Thursday practice report."
+      },
       {
         "at": "2026-10-21T22:15:00Z",
         "text": "Lamar Jackson (BAL) was limited Wednesday, his first practice since the Week 4 ankle sprain, and Jesse Minter called it a day-by-day thing. Tyler Huntley starts vs CIN if he sits. Lamar is QB21 for me this week, a streamer until he practices in full, and QB2 rest of season. Monitor Baltimore's Friday injury report.",
