@@ -167,6 +167,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Romeo Doubs: on IR with the right shoulder, out at least four games; an outside "AC sprain, 2 to 5 weeks" read on air is not the team's diagnosis. [pod 10-20, official]
 - 2026-10-20: TreVeyon Henderson (ankle) full practice Mon and Tue; A.J. Brown (ankle) limited Mon and Tue, not expected to miss Thursday at CHI; Vrabel: Alijah Vera-Tucker (hamstring) and Ben Brown (knee) unlikely Thursday, Matt Pryor and Walter Rouse likely start (NBC Sports, Mike Reiss).
 
+- 2026-10-21: Ruled out for Thursday at CHI: G Alijah Vera-Tucker (hamstring), G Ben Brown (knee), CB Carlton Davis III (neck), CB Karon Prunty and CB Channing Canada (hamstrings); questionable: RT Morgan Moses (foot), S Kevin Byard III, S Craig Woodson, LB Christian Elliss. A.J. Brown (ankle) off the report; Walter Rouse and Matt Pryor start at guard (patriots.com, Boston Globe).
+
 ## Other
 
 - 2026-08-24: The Patriots play the NFL's season-opening game on Wednesday, Sept. 9, so their backfield health will be known before most Week 1 lineups lock. [8-24 embarrased to love players]

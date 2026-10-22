@@ -1,0 +1,355 @@
+{
+  "series": "line",
+  "season": 2026,
+  "week": 7,
+  "title": "Serve or Sit, Week 7",
+  "dek": "Germie Bernard runs every route for Pittsburgh, and Lamar Jackson and Patrick Mahomes II both fall outside my top 12.",
+  "format": "PPR",
+  "publishedAt": "2026-10-22T13:51:12Z",
+  "updatedAt": "2026-10-22T13:51:12Z",
+  "author": "Chef Hazy",
+  "intro_md": "Thursday is for the players you are agonizing over. Studs are not here. Every call below is the player's rank on this week's [Menu](menu.html?week=7) and the tier it falls in, PPR scoring, and you decide. Buffalo, Jacksonville, the Chargers and Washington are on bye.\n\nThursday night first: New England at Chicago, 8:15 PM ET, Chicago favored by 2.5 with a 49.5 total. The Patriots ruled out both starting guards and three cornerbacks, and the Bears ruled out Kyle Monangai again. Then the twelve the week favors, the ten it does not, and six coin flips where Friday's injury report picks the side. Wednesday's practice reports are in; Thursday's are not.",
+  "outro_md": "Prep Notes reconciles the ranks Friday after the final injury report. Sunday morning, Order Up carries the inactives and the pivots as each window's reports drop.",
+  "data": {
+    "tnf": [
+      {
+        "player": "Drake Maye",
+        "team": "NE",
+        "pos": "QB",
+        "opp": "at CHI",
+        "why": "10 TD passes in his last three games, but New England ruled out both starting guards, Alijah Vera-Tucker (hamstring) and Ben Brown (knee), and right tackle Morgan Moses (foot) is questionable. Walter Rouse and Matt Pryor start at guard. Chicago is a 2.5-point favorite with a 49.5 total.",
+        "verdict": "QB2 for me tonight; the arm is fine and the guards are backups.",
+        "action": "START",
+        "slot": "QB1"
+      },
+      {
+        "player": "Caleb Williams",
+        "team": "CHI",
+        "pos": "QB",
+        "opp": "vs NE",
+        "why": "Second game back from the Grade 2 hamstring after three full practices the week before. New England ruled out three cornerbacks Wednesday: Carlton Davis III (neck), Karon Prunty and Channing Canada (hamstrings).",
+        "verdict": "QB5 for me tonight against a secondary missing three corners.",
+        "action": "START",
+        "slot": "QB1"
+      },
+      {
+        "player": "D'Andre Swift",
+        "team": "CHI",
+        "pos": "RB",
+        "opp": "vs NE",
+        "why": "Chicago ruled out Kyle Monangai (thumb, toe) for a third straight game. Swift took 16 carries and a TD at ATL to Roschon Johnson's 13, and he is not on the injury report.",
+        "verdict": "RB10 for me tonight; Roschon Johnson takes the late carries, Swift takes the short TDs.",
+        "action": "START",
+        "slot": "RB1"
+      },
+      {
+        "player": "A.J. Brown",
+        "team": "NE",
+        "pos": "WR",
+        "opp": "at CHI",
+        "why": "Off the injury report after two limited days with the ankle. He ran a route on 97 percent of the dropbacks and drew 10 targets vs NYJ in his first game since Week 1, and Romeo Doubs is on IR.",
+        "verdict": "WR26 for me tonight, a high-end WR3 and a high-end flex play.",
+        "action": "FLEX",
+        "slot": "FLEX"
+      },
+      {
+        "player": "Colston Loveland",
+        "team": "CHI",
+        "pos": "TE",
+        "opp": "vs NE",
+        "why": "6 catches on 7 targets for 65 and a TD at ATL on 78 percent of the routes, with Caleb Williams back. Two New England safeties, Kevin Byard III and Craig Woodson, are questionable.",
+        "verdict": "TE9 for me tonight.",
+        "action": "START",
+        "slot": "TE1"
+      }
+    ],
+    "starts": [
+      {
+        "player": "Matthew Stafford",
+        "team": "LAR",
+        "pos": "QB",
+        "opp": "at LV",
+        "why": "25 of 33 for 222 and 2 TDs vs ARI. Davante Adams is out 6 to 10 weeks, so Puka Nacua drew 17 of 24 targets in Week 5 and the offense runs through him.",
+        "verdict": "QB7 for me this week at LV.",
+        "action": "START",
+        "slot": "QB1"
+      },
+      {
+        "player": "Bryce Young",
+        "team": "CAR",
+        "pos": "QB",
+        "opp": "vs TB",
+        "why": "11 TD passes and 1 interception through five games, a franchise record, and a full practice Wednesday on the knee.",
+        "verdict": "QB8 for me this week vs TB.",
+        "action": "START",
+        "slot": "QB1"
+      },
+      {
+        "player": "C.J. Stroud",
+        "team": "HOU",
+        "pos": "QB",
+        "opp": "vs NYG",
+        "why": "24 of 34 for 312 and 3 TDs in London with no sacks taken. The Giants had three defensive backs miss or limit Wednesday with concussions: Greg Newsome II and Jevon Holland did not practice, Colton Hood was limited.",
+        "verdict": "QB10 for me this week vs NYG.",
+        "action": "START",
+        "slot": "QB1"
+      },
+      {
+        "player": "Dameon Pierce",
+        "team": "PHI",
+        "pos": "RB",
+        "opp": "vs DAL",
+        "why": "61 of 64 snaps vs CAR as Philadelphia's only healthy back, with Saquon Barkley (hamstring) inactive two straight weeks and Carson Steele out with the shoulder. Monday night gives Barkley one more practice to show up.",
+        "verdict": "RB18 for me this week, an RB2, until Barkley practices in full.",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "player": "Woody Marks",
+        "team": "HOU",
+        "pos": "RB",
+        "opp": "vs NYG",
+        "why": "78 percent of the snaps at JAX. David Montgomery missed Wednesday's practice with the groin, and Houston put Jawhar Jordan on the practice squad injured list, so the change-of-pace back is gone too.",
+        "verdict": "RB20 for me this week, an RB2.",
+        "action": "START",
+        "slot": "RB2"
+      },
+      {
+        "player": "Kendre Miller",
+        "team": "NO",
+        "pos": "RB",
+        "opp": "vs PIT",
+        "why": "20 carries for 70 at NYG with Travis Etienne Jr. on IR. Alvin Kamara was limited Wednesday with the back, and New Orleans plays Pittsburgh in Paris.",
+        "verdict": "RB27 for me, a high-end RB3, a high-end flex play.",
+        "action": "FLEX",
+        "slot": "FLEX"
+      },
+      {
+        "player": "Luther Burden III",
+        "team": "CHI",
+        "pos": "WR",
+        "opp": "vs NE",
+        "why": "8 catches on 8 targets in a part-time role, about 18 routes a game, and Chicago designs reads for him with Caleb Williams back. New England has three cornerbacks ruled out for tonight.",
+        "verdict": "WR21 for me tonight, a WR2.",
+        "action": "START",
+        "slot": "WR2"
+      },
+      {
+        "player": "Germie Bernard",
+        "team": "PIT",
+        "pos": "WR",
+        "opp": "at NO",
+        "why": "Ran every route at TB, 62 percent of them from the slot, and drew 21 targets over the last two games with Roman Wilson and Michael Pittman Jr. on IR.",
+        "verdict": "WR24 for me this week, a WR2.",
+        "action": "START",
+        "slot": "WR2"
+      },
+      {
+        "player": "Keenan Allen",
+        "team": "IND",
+        "pos": "WR",
+        "opp": "at MIN",
+        "why": "9, 9 and 11 targets in Weeks 4 to 6, and 8 for 82 on 11 targets with Tyler Warren out. Warren did not practice Wednesday with the groin.",
+        "verdict": "WR30 for me, a high-end WR3, a high-end flex play, and ahead of Josh Downs while Warren is out.",
+        "action": "FLEX",
+        "slot": "FLEX"
+      },
+      {
+        "player": "Omar Cooper Jr.",
+        "team": "NYJ",
+        "pos": "WR",
+        "opp": "vs MIA",
+        "why": "82 percent of the snaps and 28 of 33 routes in his first game off IR. Adonai Mitchell was only limited Wednesday with the finger, and Miami is 0-5.",
+        "verdict": "WR31 for me, a low-end WR3, a low-end flex play.",
+        "action": "FLEX",
+        "slot": "FLEX"
+      },
+      {
+        "player": "Dallas Goedert",
+        "team": "PHI",
+        "pos": "TE",
+        "opp": "vs DAL",
+        "why": "6 for 61 in Tanner McKee's first start vs CAR, with Jalen Hurts out for the season.",
+        "verdict": "TE6 for me this week vs DAL.",
+        "action": "START",
+        "slot": "TE1"
+      },
+      {
+        "player": "Tyler Higbee",
+        "team": "LAR",
+        "pos": "TE",
+        "opp": "at LV",
+        "why": "Led the Rams tight ends at 83 percent of the snaps, and Davante Adams' targets have to go somewhere for the next six weeks at least.",
+        "verdict": "TE11 for me, a borderline start this week.",
+        "action": "START",
+        "slot": "TE1"
+      }
+    ],
+    "sits": [
+      {
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "opp": "vs CIN",
+        "why": "Limited Wednesday with the ankle, still day to day. Tyler Huntley starts if he sits, and Baltimore's line had five starters limited Wednesday.",
+        "verdict": "QB21 for me, outside my top 12; sit him for any top-12 quarterback until he practices in full.",
+        "action": "SIT"
+      },
+      {
+        "player": "Patrick Mahomes II",
+        "team": "KC",
+        "pos": "QB",
+        "opp": "at SEA",
+        "why": "Right tackle Jaylon Moore (concussion) and left tackle Josh Simmons both missed Wednesday's practice, and Rashee Rice did not practice. Xavier Worthy caught all 7 of his targets for 73 as the top healthy receiver.",
+        "verdict": "QB15 for me, outside my top 12; sit him for Matthew Stafford or Bryce Young.",
+        "action": "SIT"
+      },
+      {
+        "player": "Cam Skattebo",
+        "team": "NYG",
+        "pos": "RB",
+        "opp": "at HOU",
+        "why": "6 snaps and 0 touches vs NO. Najee Harris is gone, but Devin Singletary played 40 percent of the snaps and Tyrone Tracy Jr. 38 percent with two TDs.",
+        "verdict": "RB33 for me, a low-end RB3 in a three-way split; sit him for any Tier 3 back.",
+        "action": "SIT"
+      },
+      {
+        "player": "Zach Charbonnet",
+        "team": "SEA",
+        "pos": "RB",
+        "opp": "vs KC",
+        "why": "Full practice Wednesday on the knee, but he has not played since the injury, and the fill-ins split 46 and 27 snaps Sunday. Expect a snap count in his first game back.",
+        "verdict": "RB39 for me, a low-end flex play to a dart throw; sit him until his snap share shows up.",
+        "action": "SIT"
+      },
+      {
+        "player": "Josh Downs",
+        "team": "IND",
+        "pos": "WR",
+        "opp": "at MIN",
+        "why": "4 for 40 on 8 targets vs TEN on 90 percent of the routes, while Keenan Allen drew 11.",
+        "verdict": "WR35 for me, a low-end WR3; sit him for Keenan Allen.",
+        "action": "SIT"
+      },
+      {
+        "player": "Xavier Worthy",
+        "team": "KC",
+        "pos": "WR",
+        "opp": "at SEA",
+        "why": "7 of 7 for 73 vs LAC, but on short throws, with both Kansas City tackles missing Wednesday's practice.",
+        "verdict": "WR34 for me, a low-end WR3; sit him for any Tier 3 receiver.",
+        "action": "SIT"
+      },
+      {
+        "player": "Tre Tucker",
+        "team": "LV",
+        "pos": "WR",
+        "opp": "vs LAR",
+        "why": "5 for 97 and 2 TDs on 7 targets. The two TDs on seven targets will not repeat every week.",
+        "verdict": "WR32 for me, a low-end WR3; sit him for any Tier 3 receiver.",
+        "action": "SIT"
+      },
+      {
+        "player": "Rome Odunze",
+        "team": "CHI",
+        "pos": "WR",
+        "opp": "vs NE",
+        "why": "4 targets at ATL as Luther Burden III and Colston Loveland took the designed reads in Caleb Williams' first game back.",
+        "verdict": "WR40 for me tonight, a low-end flex play to a dart throw; sit him for any Tier 3 receiver.",
+        "action": "SIT"
+      },
+      {
+        "player": "Marvin Harrison Jr.",
+        "team": "HOU",
+        "pos": "WR",
+        "opp": "vs NYG",
+        "why": "26 percent of the routes in a planned part-time debut, and Tank Dell practiced in full Wednesday to return in the slot.",
+        "verdict": "WR50 for me, a dart throw; sit him until the route share grows.",
+        "action": "SIT"
+      },
+      {
+        "player": "Darren Waller",
+        "team": "CAR",
+        "pos": "TE",
+        "opp": "vs TB",
+        "why": "0 catches on a 45 percent route rate, and Tommy Tremble passed him in routes for the first time.",
+        "verdict": "TE20 for me, a streamer at best; sit him for any top-12 tight end.",
+        "action": "SIT"
+      }
+    ],
+    "coinflips": [
+      {
+        "player": "Rhamondre Stevenson",
+        "team": "NE",
+        "pos": "RB",
+        "opp": "at CHI",
+        "why": "64 rushing yards and a TD in Week 5, and he closes games. TreVeyon Henderson practiced in full Monday and Tuesday on the ankle but lost the late carries to Corey Kiner after his fumble vs NYJ.",
+        "verdict": "RB19 for me tonight, an RB2; the lean is to play him over Henderson.",
+        "action": "START",
+        "slot": "RB2",
+        "flip_if": "Mike Vrabel names Henderson the lead back before kickoff; then Stevenson is a high-end RB3."
+      },
+      {
+        "player": "Josh Jacobs",
+        "team": "GB",
+        "pos": "RB",
+        "opp": "at DET",
+        "why": "Off the exempt list and eligible, but Matt LaFleur would not commit to him. MarShawn Lloyd ran 8 times for 10 on 30 snaps vs DAL, so the fill-in work is thin.",
+        "verdict": "RB17 for me this week, an RB2, and the lean is to play him.",
+        "action": "START",
+        "slot": "RB2",
+        "flip_if": "He is not a full participant by Friday's report, or LaFleur names another starter."
+      },
+      {
+        "player": "Aaron Jones Sr.",
+        "team": "MIN",
+        "pos": "RB",
+        "opp": "vs IND",
+        "why": "Jordan Mason practiced in full Wednesday as his IR window opened with the thumb, and he takes the early downs once Minnesota activates him.",
+        "verdict": "RB16 for me this week, an RB2, and the lean is to play him.",
+        "action": "START",
+        "slot": "RB2",
+        "flip_if": "Minnesota activates Mason by Saturday; then Jones drops to the RB2/RB3 border."
+      },
+      {
+        "player": "Ashton Jeanty",
+        "team": "LV",
+        "pos": "RB",
+        "opp": "vs LAR",
+        "why": "57 percent of the snaps and 14 touches to Mike Washington Jr.'s 10, who took half the early downs. Washington was limited Wednesday with the foot and back.",
+        "verdict": "RB14 for me, borderline RB1/RB2 this week, and the lean is to play him.",
+        "action": "START",
+        "slot": "RB2",
+        "flip_if": "Washington is a full participant Friday; then Jeanty is a mid RB2."
+      },
+      {
+        "player": "Emeka Egbuka",
+        "team": "TB",
+        "pos": "WR",
+        "opp": "at CAR",
+        "why": "16 targets for 48 yards over his last two, and he did not practice Wednesday with a concussion and a foot injury. Baker Mayfield practiced in full; Todd Bowles picks the starter Friday.",
+        "verdict": "WR27 for me only if he clears the protocol, and the lean is to sit him.",
+        "action": "SIT",
+        "flip_if": "He clears the concussion protocol and Mayfield starts; then he is a high-end WR3."
+      },
+      {
+        "player": "Harold Fannin Jr.",
+        "team": "CLE",
+        "pos": "TE",
+        "opp": "at TEN",
+        "why": "92.6 percent of the snaps in Week 5 but 2 catches over the last two games. Denzel Boston (foot) and KC Concepcion (calf, quad) were both limited Wednesday.",
+        "verdict": "TE12 for me, a borderline start this week, and the lean is to play Tyler Higbee over him.",
+        "action": "SIT",
+        "flip_if": "Boston or Concepcion is ruled out Friday, which pushes the short targets to him."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w07-line-thread-fbfe",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

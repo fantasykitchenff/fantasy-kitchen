@@ -228,3 +228,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Kyle Monangai (thumb) likely to play Week 5 at GB per Ben Johnson's day-to-day label (Yahoo, NBC Sports).
 - 2026-10-09: Kyle Monangai: out @GB (turf toe, thumb), DNP all week, walking boot, two to three weeks. D'Andre Swift FP Friday, no designation. Caleb Williams questionable, first practice (LP) Friday; Bagent starts (Friday report).
 - 2026-10-21: Kyle Monangai (thumb/toe) ruled out Thursday vs NE, third straight game, no practice all week; Jonah Jackson full, will play. [NFL.com, Yahoo Sports, TSN]
+- 2026-10-22: Week 7 vs NE (Thursday night): CHI favored by 2.5, total 49.5 (DraftKings via SI).

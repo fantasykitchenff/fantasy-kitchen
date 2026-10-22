@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 7,
-  "updatedAt": "2026-10-21T22:13:05Z",
+  "updatedAt": "2026-10-22T13:52:31Z",
   "pieces": [
+    {
+      "series": "line",
+      "week": 7,
+      "path": "2026/week-07/line.json",
+      "title": "Serve or Sit, Week 7",
+      "dek": "Germie Bernard runs every route for Pittsburgh, and Lamar Jackson and Patrick Mahomes II both fall outside my top 12.",
+      "publishedAt": "2026-10-22T13:51:12Z",
+      "updatedAt": "2026-10-22T13:51:12Z"
+    },
     {
       "series": "notes",
       "week": 7,
