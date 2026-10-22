@@ -6,12 +6,71 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-22T16:10:00Z",
+  "updatedAt": "2026-10-22T20:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-22T20:20:00Z",
+        "player": "Terrance Ferguson",
+        "team": "LAR",
+        "pos": "TE",
+        "action": "MONITOR",
+        "watch": "his practice window opening, Week 8 or later",
+        "url": "",
+        "text": "Adam Schefter reports Terrance Ferguson (LAR) is expected to stay on IR past his Week 8 eligibility with the ankle, and his recovery will take some time. TE22 rest of season for me, and no FAAB yet; Tyler Higbee is TE11 for me this week at LV. Monitor Ferguson's practice window opening, Week 8 or later."
+      },
+      {
+        "at": "2026-10-22T20:20:00Z",
+        "player": "T.J. Hockenson",
+        "team": "MIN",
+        "pos": "TE",
+        "action": "MONITOR",
+        "watch": "Friday's injury report",
+        "url": "",
+        "text": "T.J. Hockenson (MIN) practiced in full Wednesday but is still in the concussion protocol and not cleared for Sunday vs IND. He is TE13 for me this week, a streamer, only if he clears; Kyle Pitts Sr. is the pivot if he is ruled out. Monitor Friday's injury report."
+      },
+      {
+        "at": "2026-10-22T20:20:00Z",
+        "player": "Rachaad White",
+        "team": "WAS",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "2-4%",
+        "url": "",
+        "text": "Washington put Jacory Croskey-Merritt (WAS) on IR with the groin, out at least four games. Rachaad White led the backs at SF with 7 carries and 4 catches on 5 targets for 30 and a TD, and he is RB39 rest of season for me. Stash White through the bye, 2 to 4 percent of FAAB."
+      },
+      {
+        "at": "2026-10-22T20:20:00Z",
+        "player": "Jacory Croskey-Merritt",
+        "team": "WAS",
+        "pos": "RB",
+        "action": "HOLD",
+        "why": "He returns around Week 11 at the earliest; with no IR spot open, drop him for any add.",
+        "url": "",
+        "text": "Jacory Croskey-Merritt (WAS) is on IR with the groin and out at least four games, about Weeks 8 to 11 after the bye. RB31 rest of season for me. Hold him in an IR spot; with no IR spot open, drop him for any add on the list."
+      },
+      {
+        "at": "2026-10-22T20:20:00Z",
+        "player": "Chig Okonkwo",
+        "team": "WAS",
+        "pos": "TE",
+        "action": "STASH",
+        "faab": "1-3%",
+        "url": "",
+        "text": "Chig Okonkwo (WAS) caught all 7 targets for 69 at SF, a week after a team-high 6 targets, and Terry McLaurin is out for the season. TE23 rest of season for me. Stash him through the bye, 1 to 3 percent of FAAB."
+      },
+      {
+        "at": "2026-10-22T20:20:00Z",
+        "player": "Jauan Jennings",
+        "team": "MIN",
+        "pos": "WR",
+        "action": "DROP",
+        "url": "",
+        "text": "Jauan Jennings (MIN) has 2 catches for 9 yards in four games, and Tom Pelissero does not expect Minnesota to trade him. WR76 rest of season for me. Drop him for any add on the list."
+      },
       {
         "at": "2026-10-22T16:10:00Z",
         "player": "Saquon Barkley",

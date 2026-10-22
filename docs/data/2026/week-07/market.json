@@ -6,9 +6,9 @@
   "dek": "Kendre Miller has the New Orleans backfield while Alvin Kamara's back heals, and he is the first claim of the week.",
   "format": "PPR",
   "publishedAt": "2026-10-20T14:21:00Z",
-  "updatedAt": "2026-10-21T00:35:00Z",
+  "updatedAt": "2026-10-22T20:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 8:35 PM ET: Todd Bowles is still planning for Jalon Daniels to start at CAR, so Baker Mayfield moves down to a 2 to 4 percent claim for Week 8 on, and San Francisco is bracing for Mike Evans to miss at ATL; monitor Wednesday's practice report.\n\nUpdated Tue 6:15 PM ET: Terry McLaurin tore his patellar tendon and is out for the season, per Dan Quinn; drop him, and Antonio Williams stays a 1 to 3 percent stash for Week 8.\n\nUpdated Tue 2:50 PM ET: Houston plans to activate Tank Dell for Week 7, and he shares the slot with Jaylin Noel, so Noel stays a 1 to 3 percent add and no more. Josh Jacobs is eligible but Matt LaFleur would not commit to him for Week 7; MarShawn Lloyd is still a drop.\n\nUpdated Tue 2:30 PM ET: the Giants released Najee Harris, leaving Devin Singletary, Tyrone Tracy Jr. and Cam Skattebo at Houston; Tracy stays an add at 0 to 2 percent of FAAB.\n\nFour teams are off in Week 7, Buffalo, Jacksonville, the Chargers and Washington, and the wire is fresh in three places: a Saints backfield, two receivers who just took over full-time roles, and a Rams offense without Davante Adams for 6 to 10 weeks. Baker Mayfield is also back on the shelf for anyone who lost Jalen Hurts.\n\nPass on a big claim for Mike Washington Jr. (LV) as a replacement for Ashton Jeanty. Washington took half the early downs, but Jeanty still played 58 percent of the snaps and out-touched him 14 to 10. Tre Tucker (LV) scored twice on 7 targets, and two long TDs is not a role; leave him on the wire. Ja'Kobi Lane (BAL) ran 58 percent of the routes for 5 targets off IR, and Rashod Bateman's coach said Bateman should be OK; that is a 0 to 2 percent add in deep leagues, not a claim.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
+  "intro_md": "Updated Thu 4:20 PM ET: Terrance Ferguson is expected to stay on IR past Week 8 with no return date, so he comes off the stash list; monitor his practice window opening. Tyler Higbee moves up to a 3 to 6 percent claim as the Rams tight end to own.\n\nUpdated Tue 8:35 PM ET: Todd Bowles is still planning for Jalon Daniels to start at CAR, so Baker Mayfield moves down to a 2 to 4 percent claim for Week 8 on, and San Francisco is bracing for Mike Evans to miss at ATL; monitor Wednesday's practice report.\n\nUpdated Tue 6:15 PM ET: Terry McLaurin tore his patellar tendon and is out for the season, per Dan Quinn; drop him, and Antonio Williams stays a 1 to 3 percent stash for Week 8.\n\nUpdated Tue 2:50 PM ET: Houston plans to activate Tank Dell for Week 7, and he shares the slot with Jaylin Noel, so Noel stays a 1 to 3 percent add and no more. Josh Jacobs is eligible but Matt LaFleur would not commit to him for Week 7; MarShawn Lloyd is still a drop.\n\nUpdated Tue 2:30 PM ET: the Giants released Najee Harris, leaving Devin Singletary, Tyrone Tracy Jr. and Cam Skattebo at Houston; Tracy stays an add at 0 to 2 percent of FAAB.\n\nFour teams are off in Week 7, Buffalo, Jacksonville, the Chargers and Washington, and the wire is fresh in three places: a Saints backfield, two receivers who just took over full-time roles, and a Rams offense without Davante Adams for 6 to 10 weeks. Baker Mayfield is also back on the shelf for anyone who lost Jalen Hurts.\n\nPass on a big claim for Mike Washington Jr. (LV) as a replacement for Ashton Jeanty. Washington took half the early downs, but Jeanty still played 58 percent of the snaps and out-touched him 14 to 10. Tre Tucker (LV) scored twice on 7 targets, and two long TDs is not a role; leave him on the wire. Ja'Kobi Lane (BAL) ran 58 percent of the routes for 5 targets off IR, and Rashod Bateman's coach said Bateman should be OK; that is a 0 to 2 percent add in deep leagues, not a claim.\n\nFAAB ranges are percent of a 100 budget, written for 10 to 14 team leagues in full PPR. Rostered figures are from public waiver pages Tuesday morning; a blank means no clean number was available.",
   "outro_md": "The Menu lands Wednesday with every one of these players ranked for Week 7. Claims first, lineups after.",
   "data": {
     "adds": [
@@ -73,10 +73,10 @@
         "team": "LAR",
         "pos": "TE",
         "action": "CLAIM",
-        "faab": "2-4%",
+        "faab": "3-6%",
         "rostered": "35%",
-        "why": "Tyler Higbee (LAR) led the Rams' tight ends at 83 percent of the snaps vs ARI and went over 60 yards in three straight games before that. Davante Adams ruptured his hamstring and is out 6 to 10 weeks, which frees about 7 targets a game at LV.",
-        "verdict": "Claim him, 2 to 4 percent of FAAB. A weekly tight end while Adams is out."
+        "why": "Tyler Higbee (LAR) led the Rams' tight ends at 83 percent of the snaps vs ARI and went over 60 yards in three straight games before that. Davante Adams ruptured his hamstring and is out 6 to 10 weeks, which frees about 7 targets a game at LV. Terrance Ferguson is expected to stay on IR past Week 8 with no return date, per Adam Schefter, so the job is Higbee's for longer.",
+        "verdict": "Claim him, 3 to 6 percent of FAAB. A weekly tight end while Adams is out, and the Rams tight end to own over Ferguson."
       },
       {
         "priority": 7,
@@ -163,15 +163,6 @@
         "faab": "1-3%",
         "why": "Antonio Williams (WAS) led Washington's receivers in snaps and routes in Week 6. Terry McLaurin tore his patellar tendon Monday night and is out for the season, per Dan Quinn, and Washington is on bye in Week 7.",
         "verdict": "Stash him, 1 to 3 percent of FAAB. He lines up as the No. 1 outside receiver with McLaurin out when Washington returns in Week 8."
-      },
-      {
-        "player": "Terrance Ferguson",
-        "team": "LAR",
-        "pos": "TE",
-        "action": "STASH",
-        "faab": "1-3%",
-        "why": "Terrance Ferguson (LAR) is on IR until Week 8 and has scored in each of the four full games he played with Puka Nacua or Davante Adams out. Adams is out 6 to 10 weeks.",
-        "verdict": "Stash him, 1 to 3 percent of FAAB, in an IR spot."
       },
       {
         "player": "Konata Mumpfield",

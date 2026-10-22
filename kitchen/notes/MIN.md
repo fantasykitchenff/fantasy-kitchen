@@ -121,6 +121,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jordan Addison 5 for 90 and a touchdown on 9 targets. [pod 9-28, deployment]
 - 2026-09-27: Justin Jefferson: 2 catches for 32 before the ankle sprain on his seventh play at TB; 11 catches for 147 and 2 TD through three games. [pod 9-30, deployment]
 - 2026-09-27: Jordan Addison: 9 targets on Kyler Murray's 29 attempts at TB (31%), 5 for 90 and a TD. [pod 9-30, deployment]
+- 2026-10-15: Jauan Jennings: 2 catches for 9 yards in his first four games; Tom Pelissero does not expect him to be traded despite outside interest and his visible sideline frustration vs NO. [pod 10-22, beat]
 
 ## Tight ends
 
@@ -158,6 +159,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Justin Jefferson (ankle) limited Wednesday in his first practice since Week 3; Jordan Addison did not practice, minor soreness (Vikings report).
 - 2026-10-08: Justin Jefferson limited Wednesday and Thursday (ankle); Jordan Addison limited Thursday; Christian Darrisaw still out (Saints-Vikings Thursday report).
 - 2026-10-11: Week 5 @NO (23-13 win): T.J. Hockenson concussion on the first drive; O'Connell hopes he clears over the Week 6 bye; Josh Oliver torn biceps. Jefferson 6 of 7 for 79 and a TD in his return; Aaron Jones 25 for 113 and a TD (ESPN, NFL.com, Star Tribune).
+- 2026-10-21: T.J. Hockenson: full practice Wednesday but still in the concussion protocol, not yet cleared for Week 7 vs IND (team report). [pod 10-22, official]
 
 ## Other
 

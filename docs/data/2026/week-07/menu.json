@@ -6,9 +6,9 @@
   "dek": "Brock Purdy is QB1, Jahmyr Gibbs comes off the bye at RB1, and Dameon Pierce jumps to RB18 as Philadelphia's only healthy back.",
   "format": "PPR",
   "publishedAt": "2026-10-21T02:46:36Z",
-  "updatedAt": "2026-10-21T02:46:36Z",
+  "updatedAt": "2026-10-22T20:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 10:50 PM ET: the Week 7 order is refreshed through Tuesday night's news, ahead of Wednesday's practice reports.\n\nWeek 7 has four teams on bye: Buffalo, Jacksonville, the Chargers and Washington are off, so none of their players are on the Menu. New England opens at Chicago Thursday night, and Dallas at Philadelphia closes the week Monday night. Rankings are for full PPR.\n\nBrock Purdy leads the quarterbacks with San Francisco at 6-0, Jahmyr Gibbs comes off the bye as RB1, and Puka Nacua is WR1 with Davante Adams out 6 to 10 weeks. Brock Bowers is TE1. Dameon Pierce moves into the RB2 range at RB18 as Philadelphia's only healthy back, and Germie Bernard is WR24 with two Pittsburgh receivers on IR.\n\nLamar Jackson (ankle), Josh Jacobs, Tucker Kraft (knee), Mike Evans (Achilles) and D'Andre Swift all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
+  "intro_md": "Updated Thu 4:20 PM ET: T.J. Hockenson practiced in full Wednesday but is still in the concussion protocol; he stays TE13 for me vs IND, a streamer, only if he is cleared, and Kyle Pitts Sr. is the pivot if he is ruled out.\n\nUpdated Tue 10:50 PM ET: the Week 7 order is refreshed through Tuesday night's news, ahead of Wednesday's practice reports.\n\nWeek 7 has four teams on bye: Buffalo, Jacksonville, the Chargers and Washington are off, so none of their players are on the Menu. New England opens at Chicago Thursday night, and Dallas at Philadelphia closes the week Monday night. Rankings are for full PPR.\n\nBrock Purdy leads the quarterbacks with San Francisco at 6-0, Jahmyr Gibbs comes off the bye as RB1, and Puka Nacua is WR1 with Davante Adams out 6 to 10 weeks. Brock Bowers is TE1. Dameon Pierce moves into the RB2 range at RB18 as Philadelphia's only healthy back, and Germie Bernard is WR24 with two Pittsburgh receivers on IR.\n\nLamar Jackson (ankle), Josh Jacobs, Tucker Kraft (knee), Mike Evans (Achilles) and D'Andre Swift all start the week with a question; Prep Notes revisits every one of them Friday with the injury report.",
   "outro_md": "Prep Notes updates the Menu Friday after the final injury report.",
   "data": {
     "positions": {
@@ -1522,9 +1522,10 @@
           "team": "MIN",
           "pos": "TE",
           "opp": "vs IND",
-          "note": "",
+          "note": "Full practice Wed, still in the concussion protocol; Kyle Pitts Sr. if he sits.",
           "flag": "",
-          "action": "STREAM"
+          "action": "STREAM",
+          "watch": "Friday's injury report"
         },
         {
           "rank": 14,

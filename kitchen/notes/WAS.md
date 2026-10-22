@@ -38,6 +38,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jayden Daniels back from the elbow in a brace vs NYG: 17 of 25 for 199, 9 carries for 103 and 2 TDs (Fox box).
 - 2026-10-11: Jayden Daniels played in an elbow brace: 9-103-2 rushing and 17 of 25 for 199, his second career 100-yard rushing game. [pod 10-13, deployment]
 - 2026-10-11: Jayden Daniels 9 carries for 103 and 2 TDs, 17 of 25 for 199; Jacory Croskey-Merritt 11 for 82 and a TD; Rachaad White 7 for 18 back from the shoulder; Terry McLaurin 4 for 62 on a limited workload; Stefon Diggs out (hamstring). [pod 10-14, deployment]
+- 2026-10-19: Jayden Daniels went 29 of 40 for 300 yards, 2 TDs and no INTs at SF and was sacked 4 times. [pod 10-20, deployment]
 
 ## Backfield
 
@@ -81,6 +82,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jacory Croskey-Merritt: Week 3 vs SEA was 19 carries for 36 (long of 9) plus 1 catch on 1 target for 7, 20 opportunities; season totals 47 carries for 142 and 1 TD. [pod 10-1, deployment]
 - 2026-10-06: Week 4 vs IND (London): Jacory Croskey-Merritt 29 snaps (45%), 9 for 15, 2 for 35; Austin Ekeler 17 snaps (27%), 4 for 29, 1 of 2 for 11 in his first game after signing; Kaytron Allen 12 snaps; Rachaad White inactive (shoulder) (CBS, NBC Sports).
 - 2026-10-11: RB snaps vs NYG: Rachaad White 37 (60 percent, 7-18), Jacory Croskey-Merritt 22 (35 percent, 11-82-1), Austin Ekeler 6 (10 percent). [pod 10-13, deployment]
+- 2026-10-19: Rachaad White led the backs at SF with Croskey-Merritt out: 7 carries for 27, plus 4 catches on 5 targets for 30 and a TD. [pod 10-20, deployment]
 
 ## Receivers
 
@@ -113,6 +115,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Terry McLaurin: McLaurin and Stefon Diggs each have 22 targets through three games: McLaurin 10 for 141 and a TD, Diggs 13 for 135 and 3 TDs; Antonio Williams 11 targets, 9 for 103 and a TD. In Week 3 McLaurin ran a route on 87% of dropbacks (9 targets), Diggs on 65% (7 targets, 4 for 33, 63% of his snaps in the slot). [pod 9-29, deployment]
 - 2026-10-16: Terry McLaurin (hamstring) limited Thursday and sat Friday as planned rest; final report Saturday. [CBS, Rotowire]
 - 2026-10-20: Antonio Williams: led Washington's receivers in snaps and routes in Week 6, 3 for 50; 6% rostered Tuesday (Yahoo waiver column).
+- 2026-10-19: Stefon Diggs: 6 for 44 and a TD on 7 targets at SF; Terry McLaurin left in the first quarter (torn patellar tendon, out for the season). Treylon Burks also left Monday, status unclear. [pod 10-20, deployment]
 
 ## Tight ends
 
@@ -123,6 +126,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Chig Okonkwo: Signed with Washington; the Commanders want more two-tight-end looks, John Bates is banged up again, and the receiver room is old apart from rookie Antonio Williams. Laremy Tunsil is injured. [8-13 TE talk]
 - 2026-08-18: Chigoziem Okonkwo: Okonkwo was added to the Commanders' offense this offseason, another new target competing with Terry McLaurin alongside Stefon Diggs. [8-18 WR targets and avoids]
 - 2026-08-18: Chigoziem Okonkwo: Until Stefon Diggs signed about a week and a half ago, Okonkwo looked like the Commanders' second passing option behind Terry McLaurin; he would now likely need an injury to McLaurin or Diggs to reach that role. [8-18 WR rankings]
+- 2026-10-19: Chig Okonkwo caught all 7 targets for 69 yards in the 23-17 loss at SF, after a team-high 6 targets in Week 5. [pod 10-20, deployment]
 
 ## Offensive line
 
@@ -192,6 +196,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-17: Saturday report for MNF @SF: Jacory Croskey-Merritt (groin), Marcus Mariota (knee), Charles Omenihu and Javontae Jean-Baptiste out; Stefon Diggs (hamstring) questionable; Terry McLaurin no designation after limited Thursday, rest Friday, limited Saturday (commanders.com, SI).
 - 2026-10-20: Terry McLaurin: carted off in the first quarter of the 23-17 MNF loss @SF with a non-contact left knee injury in an air cast; Dan Quinn said it could be significant; Rapoport reports it is feared serious and season-ending; MRI Tuesday. Treylon Burks (4 for 66) left with trainers, status unclear. WAS on bye Week 7 (ESPN, Yahoo Sports, NFL.com).
 - 2026-10-20: Terry McLaurin: MRI Tuesday showed a torn left patellar tendon (non-contact, Week 6 at SF); Dan Quinn said surgery, out for the season; 230 yards and 1 TD in 2026 (ESPN, Yahoo Sports).
+- 2026-10-19: Jacory Croskey-Merritt: placed on IR with the groin injury, out at least four games; RB Jeremy McNichols, CB Trey Amos and LB Jordan Magee activated off IR; LB Javontae Jean-Baptiste also to IR (ProFootballTalk). [pod 10-20, official]
 
 ## Other
 

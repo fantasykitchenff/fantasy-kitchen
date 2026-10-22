@@ -40,6 +40,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Christian McCaffrey: 45 of 54 snaps (83%), 15 carries and 5 targets vs ARI, 116 scrimmage yards and a touchdown; Kaelon Black 8 snaps (15%), 4 carries for 17 and 1 target, the only other back to play. [pod 9-29, deployment]
 - 2026-10-11: Christian McCaffrey 11-68-1 and 3-15 on 3 targets at SEA. [pod 10-13, deployment]
 - 2026-10-12: Christian McCaffrey 11 carries for 68 and a TD plus 3 catches for 15 vs SEA. [pod 10-14, deployment]
+- 2026-10-19: Christian McCaffrey vs WAS: 16 carries for 64 and 2 TDs, plus 9 catches for 53 on 10 targets; 26 opportunities, his most of the season. [pod 10-20, deployment]
 
 ## Receivers
 
