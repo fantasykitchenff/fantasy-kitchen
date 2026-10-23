@@ -149,3 +149,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-08-06: Both of Atlanta's first-round edge rushers may miss the season with Jalon Walker tearing his ACL, raising the odds of poor game scripts. [8-6 1st round picks downsides]
 - 2026-08-19: Raheem Morris did not last as head coach; both of last year's first-round defensive picks are not playing, the defense may struggle vs the run, and negative game scripts are expected. [8-19 Offenses to look out for]
+- 2026-10-23: Brian Robinson Jr. (hamstring) out vs SF after DNP Wednesday and Thursday; Divine Deablo, Billy Bowman Jr. and Michael Jerrell also out (Falcons final report via Yahoo Sports).

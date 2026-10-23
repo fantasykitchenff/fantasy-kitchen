@@ -6,12 +6,22 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-23T22:15:00Z",
+  "updatedAt": "2026-10-23T23:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-23T23:20:00Z",
+        "player": "Bijan Robinson",
+        "team": "ATL",
+        "url": "https://sports.yahoo.com/articles/falcons-release-final-injury-report-174539458.html",
+        "action": "START",
+        "slot": "RB1",
+        "pos": "RB",
+        "text": "Brian Robinson Jr. (ATL) is out vs SF with the hamstring after missing practice Wednesday and Thursday, so Bijan Robinson (ATL) has no veteran sharing the backfield Sunday. Bijan Robinson is RB2 for me this week after only 9 carries vs CHI; Robinson Jr. comes off benches."
+      },
       {
         "at": "2026-10-23T22:15:00Z",
         "player": "Germie Bernard",
@@ -561,16 +571,6 @@
         "action": "DROP",
         "url": "https://www.espn.com/nfl/story/_/id/50230371/commanders-wr-terry-mclaurin-torn-patellar-tendon",
         "text": "Tuesday's MRI showed a torn patellar tendon in the left knee of Terry McLaurin (WAS), and Dan Quinn said he needs surgery and misses the rest of the season. Stefon Diggs is the top receiver when Washington returns in Week 8, WR34 rest of season for me. Drop McLaurin for any add; hold Diggs."
-      },
-      {
-        "at": "2026-10-20T22:15:00Z",
-        "player": "TreVeyon Henderson",
-        "team": "NE",
-        "pos": "RB",
-        "action": "HOLD",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news",
-        "why": "A second straight game with Corey Kiner taking the late carries makes him a sell.",
-        "text": "TreVeyon Henderson (NE) practiced in full Monday and Tuesday on the ankle before Thursday at CHI, but Corey Kiner closed out the Jets after Henderson's fumble. RB28 rest of season for me. Hold Henderson; a second straight game with Kiner taking the late carries makes him a sell."
       },
       {
         "at": "2026-10-20T22:15:00Z",
