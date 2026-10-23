@@ -205,6 +205,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Micah Parsons: still on reserve/PUP (ACL and meniscus) with no 21-day window opened, not expected for Week 7 @DET, 'a few weeks away.' [pod 10-19, beat]
 - 2026-10-22: Josh Jacobs practiced Thursday in his first week back from the exempt list; he was not on Wednesday's report (CBS, Yahoo Sports). [pod 10-22, beat]
 - 2026-10-22: Jordan Love (back) full Thursday; Christian Watson (ankle), Matthew Golden (shoulder) limited; Bo Melton (back) DNP. [NFL.com Thursday roundup]
+- 2026-10-23: Final report at DET: Jordan Love, Christian Watson, Matthew Golden no designation after limited days; Josh Jacobs not listed, Matt LaFleur says he is on track to play, activation needed by 3 PM Saturday; LB Zaire Franklin out (NBC Sports, packers.com).
 
 ## Other
 

@@ -176,6 +176,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Rashod Bateman aggravated the shoulder (on the report the prior two weeks) and left late in Q2 @CLE, 0 of 1 target on 11 routes; Minter said Monday he "should be OK", and practice decides Week 7. [pod 10-19, coach]
 - 2026-10-21: Lamar Jackson (ankle) limited Wednesday and reported limping as he left practice; present and participating at the start of Thursday's practice (ProFootballTalk, Baltimore Sun). [pod 10-22, beat]
 - 2026-10-22: Lamar Jackson (ankle) limited Thursday, second straight limited day; Rashod Bateman (shoulder) upgraded to full. [NFL.com Thursday roundup]
+- 2026-10-23: Lamar Jackson (high ankle sprain) questionable vs CIN, limited Wednesday to Friday; Jesse Minter called it a game-time decision, Jackson said pain when running is the issue; Tyler Huntley starts if he sits (baltimoreravens.com, ESPN).
 
 ## Other
 

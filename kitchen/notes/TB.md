@@ -182,6 +182,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-22: Baker Mayfield (right thumb) full Thursday after a full Wednesday; Todd Bowles decides Friday whether he or Jalon Daniels starts at CAR. Emeka Egbuka still in the concussion protocol, side work only Thursday; Bucky Irving (illness) back at practice Thursday after missing Wednesday (CBS, Yahoo Sports). [pod 10-22, beat]
 - 2026-10-22: Baker Mayfield (thumb) full Thursday, second straight day; Bucky Irving (illness) upgraded to limited; Emeka Egbuka (concussion, foot) DNP. [NFL.com Thursday roundup]
 - 2026-10-23: Emeka Egbuka (concussion, foot) returned to practice Friday after two missed days, still in the concussion protocol. [Yahoo Sports injury tracker]
+- 2026-10-23: Todd Bowles said Baker Mayfield (right thumb, questionable) starts at CAR after three missed games, wearing a plated glove. Emeka Egbuka (concussion, foot) out; Bucky Irving full Friday, no designation; Chris Godwin Jr. full Friday (buccaneers.com, NFL.com).
 
 ## Other
 

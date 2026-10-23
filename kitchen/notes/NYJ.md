@@ -170,6 +170,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: Adonai Mitchell had surgery on a finger on his right hand, missed a fourth straight game and is week to week; no Week 7 return has been reported. [pod 10-19, beat]
 - 2026-10-22: Breece Hall (quad) back at practice Thursday after not practicing Wednesday (Rotowire, Yahoo Sports). [pod 10-22, beat]
 - 2026-10-22: Breece Hall (quad) upgraded to limited Thursday; Adonai Mitchell (finger) limited. [NFL.com Thursday roundup]
+- 2026-10-23: Breece Hall (quad) questionable vs MIA, DNP Wednesday then limited Thursday and Friday; Aaron Glenn will decide Sunday. Adonai Mitchell practiced all week and will play (NBC Sports, ABC7).
 
 ## Other
 
