@@ -6,12 +6,31 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-22T23:15:34Z",
+  "updatedAt": "2026-10-23T16:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-23T16:20:00Z",
+        "text": "Emeka Egbuka (TB) returned to practice Friday after missing two days, but he is still in the concussion protocol with the foot injury too. WR41 for me this week at CAR, a low-end flex play to a dart throw, and only if he clears. Monitor Tampa Bay's final injury report Friday afternoon.",
+        "url": "https://sports.yahoo.com/fantasy/live/nfl-injury-tracker-week-7-latest-news-fantasy-implications-as-saquon-barkley-hamstring-lamar-jackson-ankle-return-to-practice-puka-nacua-calf-limited-123900681.html",
+        "player": "Emeka Egbuka",
+        "team": "TB",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Friday's final injury report"
+      },
+      {
+        "at": "2026-10-23T16:20:00Z",
+        "text": "Cole Kmet (CHI) was carted off in the fourth quarter of Thursday's 30-24 win over NE with a right knee injury that NFL Network's Ian Rapoport reports is likely season-ending, and Ben Johnson said it did not look good. He is TE47 rest of season for me. Drop him in any league that does not start two tight ends.",
+        "url": "https://chicago.suntimes.com/bears/2026/10/22/bears-patriots-cole-kmet-carted-off-with-right-knee-injury",
+        "player": "Cole Kmet",
+        "team": "CHI",
+        "pos": "TE",
+        "action": "DROP"
+      },
       {
         "at": "2026-10-22T23:15:34Z",
         "player": "Puka Nacua",
@@ -505,16 +524,6 @@
         "text": "A.J. Brown (NE) was limited Monday and Tuesday with the ankle but is not expected to miss Thursday at CHI. He ran a route on 97 percent of the dropbacks and drew 10 targets vs NYJ, and Romeo Doubs is on IR. WR18 rest of season for me; hold him through the drops."
       },
       {
-        "at": "2026-10-20T22:15:00Z",
-        "player": "Kyle Monangai",
-        "team": "CHI",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Chicago's Wednesday practice report",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news",
-        "text": "Kyle Monangai (CHI) missed practice again Tuesday with the thumb and toe and is very unlikely to play Thursday vs NE, a third straight game out. RB34 rest of season for me. Monitor Chicago's Wednesday practice report. D'Andre Swift leads the backfield again, RB13 rest of season for me; hold him."
-      },
-      {
         "at": "2026-10-20T18:50:00Z",
         "player": "Jaylin Noel",
         "team": "HOU",
@@ -567,26 +576,6 @@
         "faab": "0-2%",
         "url": "https://sports.yahoo.com/articles/giants-release-running-back-najee-150629319.html",
         "text": "With Najee Harris gone, the Giants are down to three backs at Houston: Devin Singletary played 40 percent of the snaps vs NO, Tyrone Tracy Jr. (NYG) 38 percent with two TDs on 8 touches, and Cam Skattebo 6 snaps. Add Tracy, 0 to 2 percent of FAAB; he is the bench piece if John Harbaugh leans on him."
-      },
-      {
-        "at": "2026-10-20T16:10:00Z",
-        "player": "Mike Evans",
-        "team": "SF",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "San Francisco's Wednesday practice report",
-        "url": "https://sports.yahoo.com/articles/49ers-officially-concerned-mike-evans-113115128.html",
-        "text": "Mike Evans (SF) has Achilles tendinitis that flared up Monday night, and Kyle Shanahan said it is not a long-term problem. NBC Sports Bay Area reports the Achilles is intact but San Francisco is bracing for him to miss at ATL, with the bye in Week 8. He is WR23 rest of season for me. Monitor; San Francisco's Wednesday practice report."
-      },
-      {
-        "at": "2026-10-20T16:10:00Z",
-        "player": "Baker Mayfield",
-        "team": "TB",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Tampa Bay's Wednesday practice report",
-        "url": "https://dknetwork.draftkings.com/2026/10/20/nfl-injury-report-week-7/",
-        "text": "Baker Mayfield (TB) is set to practice Wednesday on the dislocated right thumb, but Fox Sports' Greg Auman reports Todd Bowles is still planning for Jalon Daniels to make a fourth straight start at CAR. Mayfield is QB29 rest of season for me. Monitor; Tampa Bay's Wednesday practice report."
       }
     ]
   },

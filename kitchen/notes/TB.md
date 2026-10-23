@@ -181,6 +181,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-20: Baker Mayfield (right thumb): Greg Auman (Fox Sports) reports Todd Bowles is still planning for Jalon Daniels to start a fourth straight game @CAR; Mayfield is supposed to practice Wednesday (DraftKings Network injury report).
 - 2026-10-22: Baker Mayfield (right thumb) full Thursday after a full Wednesday; Todd Bowles decides Friday whether he or Jalon Daniels starts at CAR. Emeka Egbuka still in the concussion protocol, side work only Thursday; Bucky Irving (illness) back at practice Thursday after missing Wednesday (CBS, Yahoo Sports). [pod 10-22, beat]
 - 2026-10-22: Baker Mayfield (thumb) full Thursday, second straight day; Bucky Irving (illness) upgraded to limited; Emeka Egbuka (concussion, foot) DNP. [NFL.com Thursday roundup]
+- 2026-10-23: Emeka Egbuka (concussion, foot) returned to practice Friday after two missed days, still in the concussion protocol. [Yahoo Sports injury tracker]
 
 ## Other
 
