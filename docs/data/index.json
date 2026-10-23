@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 7,
-  "updatedAt": "2026-10-23T21:53:53Z",
+  "updatedAt": "2026-10-23T22:10:45Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 7,
+      "path": "2026/week-07/notes.json",
+      "title": "Kitchen notes, Week 7",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-20T16:10:00Z",
+      "updatedAt": "2026-10-23T22:15:00Z"
+    },
     {
       "series": "menu",
       "week": 7,
@@ -20,15 +29,6 @@
       "dek": "Zach Charbonnet is out, so Emanuel Wilson is RB30 for me; Puka Nacua and Lamar Jackson are game-time calls.",
       "publishedAt": "2026-10-23T21:55:00Z",
       "updatedAt": "2026-10-23T21:55:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 7,
-      "path": "2026/week-07/notes.json",
-      "title": "Kitchen notes, Week 7",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-20T16:10:00Z",
-      "updatedAt": "2026-10-23T16:20:00Z"
     },
     {
       "series": "butcher",

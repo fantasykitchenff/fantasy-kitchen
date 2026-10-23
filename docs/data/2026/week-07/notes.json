@@ -6,12 +6,71 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-23T16:20:00Z",
+  "updatedAt": "2026-10-23T22:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-23T22:15:00Z",
+        "player": "Germie Bernard",
+        "team": "PIT",
+        "url": "",
+        "action": "START",
+        "slot": "WR2",
+        "pos": "WR",
+        "text": "Germie Bernard (PIT) ran a route on every dropback and drew 12 targets in Week 6, with Roman Wilson and Michael Pittman Jr. on IR. WR22 for me vs NO in Paris this week, a WR2."
+      },
+      {
+        "at": "2026-10-23T22:15:00Z",
+        "player": "Mike Washington Jr.",
+        "team": "LV",
+        "url": "",
+        "action": "ADD",
+        "faab": "0-2%",
+        "pos": "RB",
+        "text": "Mike Washington Jr. (LV) took half the early downs in Week 6, a season-high 35 percent of the snaps, while Ashton Jeanty fell to 58 percent. RB39 for me vs LAR, a low-end flex play to a dart throw, and RB48 rest of season. Add him in deep leagues, 0 to 2 percent of FAAB."
+      },
+      {
+        "at": "2026-10-23T22:15:00Z",
+        "player": "Ja'Kobi Lane",
+        "team": "BAL",
+        "url": "",
+        "action": "ADD",
+        "faab": "0-2%",
+        "pos": "WR",
+        "text": "Ja'Kobi Lane (BAL) ran a route on 58 percent of the dropbacks and drew 5 targets in his first game off IR. WR48 for me vs CIN, a low-end flex play to a dart throw. Add him in deep leagues, 0 to 2 percent of FAAB."
+      },
+      {
+        "at": "2026-10-23T22:15:00Z",
+        "player": "Colston Loveland",
+        "team": "CHI",
+        "url": "",
+        "action": "START",
+        "slot": "TE1",
+        "pos": "TE",
+        "text": "Cole Kmet's likely season-ending knee injury leaves the Chicago tight end routes to Colston Loveland (CHI), who caught 6 of 7 targets for 65 and a TD in Week 6. TE4 rest of season for me."
+      },
+      {
+        "at": "2026-10-23T22:15:00Z",
+        "player": "Cam Skattebo",
+        "team": "NYG",
+        "url": "",
+        "action": "SIT",
+        "pos": "RB",
+        "text": "Cam Skattebo (NYG) played 6 snaps with no touches in Week 6, and J.J. McCarthy starts at HOU. RB36 for me this week, a low-end RB3; sit him. RB23 rest of season."
+      },
+      {
+        "at": "2026-10-23T22:15:00Z",
+        "player": "Brian Thomas Jr.",
+        "team": "JAX",
+        "url": "",
+        "action": "MONITOR",
+        "watch": "his snap share in Week 8",
+        "pos": "WR",
+        "text": "Brian Thomas Jr. (JAX) was benched in the second half vs HOU, and Liam Coen calls him week to week through the bye. WR49 rest of season for me. Monitor his snap share in Week 8 before you sell."
+      },
       {
         "at": "2026-10-23T16:20:00Z",
         "text": "Emeka Egbuka (TB) returned to practice Friday after missing two days, but he is still in the concussion protocol with the foot injury too. WR41 for me this week at CAR, a low-end flex play to a dart throw, and only if he clears. Monitor Tampa Bay's final injury report Friday afternoon.",
@@ -531,51 +590,6 @@
         "action": "ADD",
         "faab": "1-3%",
         "text": "Jaylin Noel (HOU) caught 4 for 107 and a TD on 4 targets at JAX on 63 percent of the routes, but Tank Dell returns to share the slot vs NYG. Add him in deep leagues, 1 to 3 percent of FAAB and no more."
-      },
-      {
-        "at": "2026-10-20T18:50:00Z",
-        "player": "MarShawn Lloyd",
-        "team": "GB",
-        "pos": "RB",
-        "action": "DROP",
-        "text": "MarShawn Lloyd (GB) ran 8 times for 10 and played 30 snaps vs DAL, 11 fewer than the back ahead of him, and Josh Jacobs is eligible again. RB55 rest of season for me; drop him for any add."
-      },
-      {
-        "at": "2026-10-20T18:50:00Z",
-        "player": "Jordan Mason",
-        "team": "MIN",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "his activation off IR before Sunday vs IND",
-        "text": "Minnesota designated Jordan Mason (MIN) to return from IR, opening his practice window before Week 7 vs IND, and he takes early downs once active. RB33 rest of season for me. Monitor his activation before Sunday; hold Aaron Jones Sr. until then."
-      },
-      {
-        "at": "2026-10-20T18:50:00Z",
-        "player": "Lamar Jackson",
-        "team": "BAL",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Baltimore's Wednesday practice report",
-        "text": "Jesse Minter called Lamar Jackson (BAL) day to day with the ankle and said he could practice this week. QB2 rest of season for me. Monitor Baltimore's Wednesday practice report."
-      },
-      {
-        "at": "2026-10-20T18:30:00Z",
-        "player": "Najee Harris",
-        "team": "NYG",
-        "pos": "RB",
-        "action": "DROP",
-        "url": "https://www.espn.com/nfl/story/_/id/50228752/giants-releasing-rb-najee-harris-source-says",
-        "text": "The Giants released Najee Harris (NYG) on Tuesday, per NFL Network's Ian Rapoport and ESPN's Jordan Raanan, after 31 carries for 99 yards in five games, 3.2 a carry, and 4 for 2 vs NO. Drop him in every format."
-      },
-      {
-        "at": "2026-10-20T18:30:00Z",
-        "player": "Tyrone Tracy Jr.",
-        "team": "NYG",
-        "pos": "RB",
-        "action": "ADD",
-        "faab": "0-2%",
-        "url": "https://sports.yahoo.com/articles/giants-release-running-back-najee-150629319.html",
-        "text": "With Najee Harris gone, the Giants are down to three backs at Houston: Devin Singletary played 40 percent of the snaps vs NO, Tyrone Tracy Jr. (NYG) 38 percent with two TDs on 8 touches, and Cam Skattebo 6 snaps. Add Tracy, 0 to 2 percent of FAAB; he is the bench piece if John Harbaugh leans on him."
       }
     ]
   },
@@ -594,6 +608,12 @@
     },
     {
       "id": "2026w07-notes-thread-79d4",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    },
+    {
+      "id": "2026w07-notes-thread-ac6a",
       "kind": "thread",
       "status": "queued",
       "url": null
