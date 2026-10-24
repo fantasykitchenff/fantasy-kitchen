@@ -196,6 +196,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-21: Jonah Coleman (high ankle, IR since Sep 26) designated to return and practiced Wednesday, opening his 21-day window (CBS, NBC Sports, Mile High Sports). Supersedes the 10-20 line "no designation to return found yet". [pod 10-22, official]
 - 2026-10-21: CB Pat Surtain II (ankle) returned to practice Wednesday before Week 7 at ARI; RB Tyler Badie missed Wednesday's practice (Broncos.com, NBC Sports, RotoWire). [pod 10-22, official]
 - 2026-10-23: Jonah Coleman (ankle) questionable, full Wednesday to Friday, needs IR activation; CB Pat Surtain II questionable, limited all three days; RB Tyler Badie out (denverbroncos.com).
+- 2026-10-24: Jonah Coleman (ankle) activated off IR Saturday after full practices all week; plays at ARI (NBC Sports, Broncos).
 
 ## Other
 

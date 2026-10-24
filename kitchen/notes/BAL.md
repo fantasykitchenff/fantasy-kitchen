@@ -177,6 +177,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-21: Lamar Jackson (ankle) limited Wednesday and reported limping as he left practice; present and participating at the start of Thursday's practice (ProFootballTalk, Baltimore Sun). [pod 10-22, beat]
 - 2026-10-22: Lamar Jackson (ankle) limited Thursday, second straight limited day; Rashod Bateman (shoulder) upgraded to full. [NFL.com Thursday roundup]
 - 2026-10-23: Lamar Jackson (high ankle sprain) questionable vs CIN, limited Wednesday to Friday; Jesse Minter called it a game-time decision, Jackson said pain when running is the issue; Tyler Huntley starts if he sits (baltimoreravens.com, ESPN).
+- 2026-10-24: Lamar Jackson (high ankle sprain) downgraded to out vs CIN Saturday, his third straight missed game; Tyler Huntley makes a third straight start (baltimoreravens.com, Yahoo Sports).
 
 ## Other
 

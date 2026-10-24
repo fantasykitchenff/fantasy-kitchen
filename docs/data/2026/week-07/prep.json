@@ -6,9 +6,9 @@
   "dek": "Zach Charbonnet is out, so Emanuel Wilson is RB30 for me; Puka Nacua and Lamar Jackson are game-time calls.",
   "format": "PPR",
   "publishedAt": "2026-10-23T21:55:00Z",
-  "updatedAt": "2026-10-23T21:55:00Z",
+  "updatedAt": "2026-10-24T23:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Friday's final reports are in for Week 7. Seven fantasy players are out, nobody we play is doubtful, and seven are questionable. Jeremiyah Love, David Montgomery and Zach Charbonnet are out, so Tyler Allgeier is RB27 for me, Woody Marks is RB16 and an RB2, and Emanuel Wilson is RB30. Rashee Rice, Mike Evans, Emeka Egbuka and Tyler Warren are out too. Rankings are for full PPR.\n\nThe true Sunday decisions are Lamar Jackson, Puka Nacua, Breece Hall and Jordan Mason, who still needs his activation off IR by Saturday. Baker Mayfield is questionable but starts for Tampa Bay. Cleared with no designation: Josh Jacobs, Jordan Love, Christian Watson, Matthew Golden, Justin Jefferson, T.J. Hockenson, Travis Kelce, Bucky Irving, Alvin Kamara, Brock Bowers and Quinshon Judkins. Dallas and Philadelphia post their reports Saturday for Monday night, with Saquon Barkley and George Pickens the names to check.",
+  "intro_md": "Updated Sat 7:30 PM ET: Lamar Jackson was downgraded to out, so Tyler Huntley starts again and Bo Nix is the pivot at QB15. Jordan Mason was activated off IR and plays at RB28. Philadelphia's report is in: DeVonta Smith and Dontayvion Wicks are out, Dallas Goedert practiced in full with no designation at TE9, and Saquon Barkley is questionable after a full Saturday practice, RB29. George Pickens has no designation for Dallas.\n\nFriday's final reports are in for Week 7. Seven fantasy players are out, nobody we play is doubtful, and seven are questionable. Jeremiyah Love, David Montgomery and Zach Charbonnet are out, so Tyler Allgeier is RB27 for me, Woody Marks is RB16 and an RB2, and Emanuel Wilson is RB30. Rashee Rice, Mike Evans, Emeka Egbuka and Tyler Warren are out too. Rankings are for full PPR.\n\nThe true Sunday decisions are Lamar Jackson, Puka Nacua, Breece Hall and Jordan Mason, who still needs his activation off IR by Saturday. Baker Mayfield is questionable but starts for Tampa Bay. Cleared with no designation: Josh Jacobs, Jordan Love, Christian Watson, Matthew Golden, Justin Jefferson, T.J. Hockenson, Travis Kelce, Bucky Irving, Alvin Kamara, Brock Bowers and Quinshon Judkins. Dallas and Philadelphia post their reports Saturday for Monday night, with Saquon Barkley and George Pickens the names to check.",
   "outro_md": "Order Up has the inactives Sunday morning, starting with Paris at 8:00 AM ET.",
   "data": {
     "report": [
@@ -55,7 +55,7 @@
           "DNP",
           "DNP"
         ],
-        "read": "A second straight game out. Keenan Allen drew 11 targets the last time Warren sat, and he is WR33 for me, a low-end WR3.",
+        "read": "A second straight game out. Keenan Allen drew 11 targets the last time Warren sat, and he is WR32 for me, a low-end WR3.",
         "verdict": "Out. Pivot to Kyle Pitts Sr., TE12 for me vs SF, a borderline start this week.",
         "action": "PIVOT",
         "to": "Kyle Pitts Sr."
@@ -72,7 +72,7 @@
           "DNP"
         ],
         "read": "No practice all week; Kansas City is also without both starting tackles. Xavier Worthy is the top outside receiver left.",
-        "verdict": "Out. Pivot to Xavier Worthy, WR31 for me at SEA, a low-end WR3 and a low-end flex play.",
+        "verdict": "Out. Pivot to Xavier Worthy, WR30 for me at SEA, a high-end WR3 and a high-end flex play.",
         "action": "PIVOT",
         "to": "Xavier Worthy"
       },
@@ -104,7 +104,7 @@
           "DNP"
         ],
         "read": "Out at ATL, then San Francisco has its bye, so Week 9 is the earliest return. Christian McCaffrey and George Kittle drew 18 combined targets Monday.",
-        "verdict": "Out. Pivot to Brandin Cooks, WR47 for me, a low-end flex play to a dart throw; play a Tier 4 receiver over him if you have one.",
+        "verdict": "Out. Pivot to Brandin Cooks, WR45 for me, a low-end flex play to a dart throw; play a Tier 4 receiver over him if you have one.",
         "action": "PIVOT",
         "to": "Brandin Cooks"
       },
@@ -120,7 +120,7 @@
           "LP"
         ],
         "read": "Back on the field Friday but still in the concussion protocol. Baker Mayfield returns, and Chris Godwin Jr. practiced in full Friday.",
-        "verdict": "Out. Pivot to Chris Godwin Jr., WR45 for me at CAR, a low-end flex play to a dart throw.",
+        "verdict": "Out. Pivot to Chris Godwin Jr., WR43 for me at CAR, a low-end flex play to a dart throw.",
         "action": "PIVOT",
         "to": "Chris Godwin Jr."
       },
@@ -128,17 +128,33 @@
         "player": "Lamar Jackson",
         "team": "BAL",
         "pos": "QB",
-        "status": "Q",
+        "status": "O",
         "injury": "ankle",
         "practice": [
           "LP",
           "LP",
           "LP"
         ],
-        "read": "Limited all week with the high ankle sprain, and he says pain when he runs is the issue. Jesse Minter calls it a game-time decision. Tyler Huntley starts if he sits.",
-        "verdict": "QB17 for me if he plays, a streamer. Monitor the Ravens' inactives at 11:30 AM ET and have a top-12 quarterback ready.",
-        "action": "MONITOR",
-        "watch": "Ravens inactives at 11:30 AM ET Sunday"
+        "read": "Limited all week with the high ankle sprain, and Baltimore downgraded him to out Saturday, his third straight missed game. Tyler Huntley makes a third straight start vs CIN.",
+        "verdict": "Out. Pivot to Bo Nix, QB15 for me at ARI, a streamer.",
+        "action": "PIVOT",
+        "to": "Bo Nix"
+      },
+      {
+        "player": "DeVonta Smith",
+        "team": "PHI",
+        "pos": "WR",
+        "status": "O",
+        "injury": "hamstring",
+        "practice": [
+          "DNP",
+          "DNP",
+          "DNP"
+        ],
+        "read": "He missed all three practices this week with the hamstring, his third missed game this season. Dontayvion Wicks (ankle) is out too, so rookie Makai Lemon starts Monday vs DAL.",
+        "verdict": "Out. Pivot to Germie Bernard, WR21 for me at NO, a WR2.",
+        "action": "PIVOT",
+        "to": "Germie Bernard"
       },
       {
         "player": "Tank Dell",
@@ -170,22 +186,6 @@
         "verdict": "WR3 for me if he plays. Monitor the Rams' inactives at 2:55 PM ET and have a 4:25 PM backup ready.",
         "action": "MONITOR",
         "watch": "Rams inactives at 2:55 PM ET Sunday"
-      },
-      {
-        "player": "Jordan Mason",
-        "team": "MIN",
-        "pos": "RB",
-        "status": "Q",
-        "injury": "thumb",
-        "practice": [
-          "FP",
-          "FP",
-          "FP"
-        ],
-        "read": "Full practices, but Minnesota still has to activate him off IR by Saturday. Kevin O'Connell said things look positive. He takes the early downs from Aaron Jones Sr. once active.",
-        "verdict": "RB28 for me if he is activated, a high-end RB3 and a high-end flex play. Monitor his activation Saturday.",
-        "action": "MONITOR",
-        "watch": "IR activation by 4:00 PM ET Saturday"
       },
       {
         "player": "Breece Hall",
@@ -230,8 +230,24 @@
           "FP"
         ],
         "read": "Todd Bowles says he starts at CAR after three missed games, wearing a glove with a plate in it. Emeka Egbuka is out.",
-        "verdict": "QB22 for me, a streamer at best; sit him for any top-12 quarterback.",
+        "verdict": "QB21 for me, a streamer at best; sit him for any top-12 quarterback.",
         "action": "SIT"
+      },
+      {
+        "player": "Saquon Barkley",
+        "team": "PHI",
+        "pos": "RB",
+        "status": "Q",
+        "injury": "hamstring",
+        "practice": [
+          "LP",
+          "LP",
+          "FP"
+        ],
+        "read": "Limited Thursday and Friday, then a full practice Saturday after missing two games. Dameon Pierce took 61 of 64 snaps vs CAR and goes back to the No. 2 share.",
+        "verdict": "RB29 for me if he plays, a high-end RB3. Monitor the Eagles' inactives at 6:45 PM ET Monday and keep Pierce as the handcuff.",
+        "action": "MONITOR",
+        "watch": "Eagles inactives at 6:45 PM ET Monday"
       }
     ],
     "reversals": [
@@ -243,14 +259,17 @@
       {
         "player": "Emeka Egbuka",
         "was": "WR41 for me only if he clears the protocol, and the lean was to sit him",
-        "now": "Out. Pivot to Chris Godwin Jr., WR45 for me, a low-end flex play to a dart throw."
+        "now": "Out. Pivot to Chris Godwin Jr., WR43 for me, a low-end flex play to a dart throw."
+      },
+      {
+        "player": "Lamar Jackson",
+        "was": "QB17 for me if he plays, a streamer, and a game-time decision",
+        "now": "Out. Pivot to Bo Nix, QB15 for me at ARI, a streamer."
       }
     ],
     "gtd": [
-      "Lamar Jackson",
       "Puka Nacua",
-      "Breece Hall",
-      "Jordan Mason"
+      "Breece Hall"
     ]
   },
   "posts": [

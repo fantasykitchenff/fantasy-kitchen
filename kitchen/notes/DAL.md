@@ -135,3 +135,6 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Week 5 vs TB final report: CB Cobie Durant, LB DeMarvion Overshown and OT Drew Shelton ruled out; G Tyler Smith (thumb) and WR Jonathan Mingo (illness) questionable; Dallas a 9.5 to 10 point favorite with a 47.5 total (dallascowboys.com, VegasInsider, ESPN).
 - 2026-10-08: Week 5 vs TB inactives: CB Joey Porter Jr. (illness, late), CB Cobie Durant, LB DeMarvion Overshown, T Drew Shelter, T Ajani Cornelius, OLB James Houston, WR Camden Brown; no Dallas skill player inactive. TB inactive: Mayfield, Winfield Jr., Morrison, Dennis; Jalon Daniels' second start, TE Ko Kieft active (buccaneers.com, dallascowboys.com).
 - 2026-10-08: Week 5 vs TB: lost 24-16. Dak Prescott 24 of 42 for 316, 1 TD, 2 INT; George Pickens 9 of 13 for 130 and a TD; Ryan Flournoy 3 of 4 for 90; CeeDee Lamb 2 of 5 for 9, left late with a quad bruise on the thigh listed all week, reported not serious (NFL Network); Jake Ferguson 3 of 6 for 19; Javonte Williams 12 carries for 45 and a TD; Dallas ran for 50 (CBS box score, NBC DFW, Rotowire).
+
+## Injuries and status
+- 2026-10-24: George Pickens (shoulder) limited Thursday, full Friday and off the final report for Monday at PHI; KaVontae Turpin (ribs) and T Drew Shelton (hamstring) out (philadelphiaeagles.com joint report).

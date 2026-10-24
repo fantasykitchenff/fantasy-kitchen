@@ -163,6 +163,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-22: Jordan Mason had not been activated from IR as of Thursday; his 21-day window opened 10/19. Reports of his Wednesday participation conflict (full in the league roundup, limited in team coverage). [pod 10-22, official]
 - 2026-10-22: Justin Jefferson (ankle) full Thursday; T.J. Hockenson (concussion) full, still in the protocol; Jordan Mason full in his IR window, not activated. [NFL.com Thursday roundup]
 - 2026-10-23: Final report vs IND: Jordan Mason questionable (thumb) and still needs IR activation by Saturday; T.J. Hockenson cleared the concussion protocol, full all week, no designation; Justin Jefferson and Jordan Addison no designation (vikings.com, Star Tribune).
+- 2026-10-24: Jordan Mason (thumb) activated off IR Saturday after full practices all week; plays vs IND with no designation (ESPN, Vikings).
 
 ## Other
 

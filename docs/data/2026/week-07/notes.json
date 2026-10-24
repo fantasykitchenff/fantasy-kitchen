@@ -6,31 +6,109 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-24T16:30:00Z",
+  "updatedAt": "2026-10-24T23:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
       {
-        "at": "2026-10-24T16:30:00Z",
+        "at": "2026-10-24T23:30:00Z",
+        "player": "Dylan Sampson",
+        "team": "CLE",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "his snap share Sunday at TEN",
+        "url": "https://www.clevelandbrowns.com/news/browns-activate-rb-dylan-sampson",
+        "text": "Cleveland activated Dylan Sampson (CLE) off IR Saturday after the knee injury from the opener at JAX. He caught 33 passes in 16 career games, and Quinshon Judkins has no designation at RB40 for me. Sampson is RB56 rest of season. Monitor his snap share Sunday at TEN."
+      },
+      {
+        "at": "2026-10-24T23:30:00Z",
+        "player": "Makai Lemon",
+        "team": "PHI",
+        "pos": "WR",
+        "action": "SIT",
+        "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt",
+        "text": "Makai Lemon (PHI) starts Monday vs DAL with DeVonta Smith and Dontayvion Wicks both out. He caught 3 for 19 on 6 targets in Week 6. WR49 for me, a dart throw, and WR47 rest of season."
+      },
+      {
+        "at": "2026-10-24T23:30:00Z",
         "player": "DeVonta Smith",
         "team": "PHI",
         "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Philadelphia's Saturday injury report and Monday's inactives",
+        "action": "PIVOT",
         "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt",
-        "text": "DeVonta Smith (PHI) did not practice Thursday or Friday with the hamstring, the injury that cost him two games earlier this month. WR16 for me this week vs DAL if he plays, a WR2, and WR15 rest of season. Monitor Philadelphia's Saturday injury report and Monday's inactives."
+        "text": "Philadelphia ruled DeVonta Smith (PHI) out for Monday vs DAL after he missed all three practices with the hamstring. Dontayvion Wicks (PHI) is out with the ankle too, so rookie Makai Lemon starts. Smith is WR15 rest of season for me; this week, pivot to Germie Bernard, WR21 for me at NO, a WR2.",
+        "to": "Germie Bernard"
       },
       {
-        "at": "2026-10-24T16:30:00Z",
+        "at": "2026-10-24T23:30:00Z",
         "player": "Dallas Goedert",
         "team": "PHI",
         "pos": "TE",
-        "action": "MONITOR",
-        "watch": "Philadelphia's Saturday injury report and Monday's inactives",
+        "action": "START",
         "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt",
-        "text": "Dallas Goedert (PHI) did not practice Thursday or Friday with the knee, after catching 6 for 61 in Tanner McKee's first start vs CAR. TE9 for me this week vs DAL if he plays. Monitor Philadelphia's Saturday injury report and Monday's inactives."
+        "text": "Dallas Goedert (PHI) practiced in full Saturday after missing Thursday and Friday with the knee, and he has no designation for Monday. He caught 6 for 61 in Tanner McKee's first start. TE9 for me this week vs DAL.",
+        "slot": "TE1"
+      },
+      {
+        "at": "2026-10-24T23:30:00Z",
+        "player": "Saquon Barkley",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Eagles inactives at 6:45 PM ET Monday",
+        "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt",
+        "text": "Saquon Barkley (PHI) practiced in full Saturday after two limited days with the hamstring, and he is questionable for Monday vs DAL. RB29 for me this week, a high-end RB3, and RB12 rest of season. Monitor the Eagles' inactives at 6:45 PM ET Monday."
+      },
+      {
+        "at": "2026-10-24T23:30:00Z",
+        "text": "Minnesota activated Jordan Mason (MIN) off IR Saturday, and he plays vs IND with no designation after full practices all week. He takes the early downs from Aaron Jones Sr., who stays RB18 for me, a low-end RB2. Mason is RB28 for me, a high-end RB3 and a high-end flex play.",
+        "url": "https://www.espn.com/nfl/story/_/id/50269656/vikings-activate-rb-jordan-mason-injured-reserve",
+        "player": "Jordan Mason",
+        "team": "MIN",
+        "pos": "RB",
+        "action": "FLEX"
+      },
+      {
+        "at": "2026-10-24T23:30:00Z",
+        "text": "Baltimore ruled Lamar Jackson (BAL) out vs CIN Saturday with the high ankle sprain, his third straight missed game, and Tyler Huntley starts again. Lamar stays QB2 rest of season for me. This week, pivot to Bo Nix, QB15 for me at ARI, a streamer.",
+        "url": "https://www.baltimoreravens.com/news/lamar-jackson-out-against-bengals-week-7-tyler-huntley-third-straight-start",
+        "player": "Lamar Jackson",
+        "team": "BAL",
+        "pos": "QB",
+        "action": "PIVOT",
+        "to": "Bo Nix"
+      },
+      {
+        "at": "2026-10-24T23:30:00Z",
+        "player": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "action": "STASH",
+        "faab": "2-4%",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-24/broncos-activate-jonah-coleman-to-play-in-week-7",
+        "text": "Denver activated Jonah Coleman (DEN) off IR Saturday after full practices all week, and he plays at ARI. He cuts into J.K. Dobbins' early downs; Dobbins is RB23 for me this week, an RB2. Coleman is RB49 rest of season. Stash him, 2 to 4 percent of FAAB, and hold him where he is rostered."
+      },
+      {
+        "at": "2026-10-24T23:30:00Z",
+        "player": "Josh Jacobs",
+        "team": "GB",
+        "pos": "RB",
+        "action": "START",
+        "text": "Green Bay added Josh Jacobs (GB) to the active roster Saturday, so he debuts at DET after his week back from the exempt list. RB17 for me this week, an RB2, and RB22 rest of season.",
+        "slot": "RB2",
+        "url": "https://www.si.com/nfl/packers/onsi/packers-make-big-roster-move-and-it-s-not-just-activating-josh-jacobs"
+      },
+      {
+        "at": "2026-10-24T23:30:00Z",
+        "player": "Christian Kirk",
+        "team": "SF",
+        "pos": "WR",
+        "action": "ADD",
+        "faab": "0-2%",
+        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-activate-wr-christian-kirk-from-ir",
+        "text": "San Francisco activated Christian Kirk (SF) off IR Saturday, and he plays at ATL with Mike Evans out. It is his first game of the season after the calf injury, in a receiver room missing its top target. Add him in 12-team leagues, 0 to 2 percent of FAAB."
       },
       {
         "at": "2026-10-24T16:30:00Z",
@@ -39,18 +117,8 @@
         "pos": "WR",
         "action": "START",
         "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt",
-        "text": "George Pickens (DAL) moved up to a full practice Friday with the shoulder after a limited Thursday, so he is on track for Monday night at PHI. WR18 for me this week, a WR2, and WR12 rest of season.",
+        "text": "George Pickens (DAL) moved up to a full practice Friday with the shoulder after a limited Thursday, so he is on track for Monday night at PHI. WR17 for me this week, a WR2, and WR12 rest of season.",
         "slot": "WR2"
-      },
-      {
-        "at": "2026-10-24T16:30:00Z",
-        "player": "Saquon Barkley",
-        "team": "PHI",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Philadelphia's Saturday injury report and Monday's inactives",
-        "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt",
-        "text": "Saquon Barkley (PHI) was limited Thursday and Friday with the hamstring, per the Eagles' report, not full as first reported, and he said he hopes to play Monday vs DAL after missing two games. RB29 for me this week, a high-end RB3, and RB12 rest of season. Monitor Philadelphia's Saturday injury report and Monday's inactives."
       },
       {
         "at": "2026-10-23T23:20:00Z",
@@ -70,7 +138,7 @@
         "action": "START",
         "slot": "WR2",
         "pos": "WR",
-        "text": "Germie Bernard (PIT) ran a route on every dropback and drew 12 targets in Week 6, with Roman Wilson and Michael Pittman Jr. on IR. WR22 for me vs NO in Paris this week, a WR2."
+        "text": "Germie Bernard (PIT) ran a route on every dropback and drew 12 targets in Week 6, with Roman Wilson and Michael Pittman Jr. on IR. WR21 for me vs NO in Paris this week, a WR2."
       },
       {
         "at": "2026-10-23T22:15:00Z",
@@ -90,7 +158,7 @@
         "action": "ADD",
         "faab": "0-2%",
         "pos": "WR",
-        "text": "Ja'Kobi Lane (BAL) ran a route on 58 percent of the dropbacks and drew 5 targets in his first game off IR. WR48 for me vs CIN, a low-end flex play to a dart throw. Add him in deep leagues, 0 to 2 percent of FAAB."
+        "text": "Ja'Kobi Lane (BAL) ran a route on 58 percent of the dropbacks and drew 5 targets in his first game off IR. WR46 for me vs CIN, a low-end flex play to a dart throw. Add him in deep leagues, 0 to 2 percent of FAAB."
       },
       {
         "at": "2026-10-23T22:15:00Z",
@@ -229,16 +297,6 @@
       },
       {
         "at": "2026-10-22T22:15:00Z",
-        "text": "Jordan Mason (MIN) practiced in full Thursday, but Minnesota had not activated him off IR. If he is activated, he takes the early downs vs IND and is RB28 for me this week, a high-end RB3 and a high-end flex play. Monitor his activation off IR by Saturday.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "player": "Jordan Mason",
-        "team": "MIN",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "activation off IR by Saturday"
-      },
-      {
-        "at": "2026-10-22T22:15:00Z",
         "player": "Travis Kelce",
         "team": "KC",
         "pos": "TE",
@@ -246,16 +304,6 @@
         "watch": "Friday's injury report",
         "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
         "text": "Travis Kelce (KC) was limited again Thursday with the right ankle, and left tackle Josh Simmons went to IR with a bulging disc. Kelce is TE8 for me at SEA. Monitor Kansas City's Friday injury report."
-      },
-      {
-        "at": "2026-10-22T22:15:00Z",
-        "text": "Lamar Jackson (BAL) was limited again Thursday with the ankle, his second straight limited day, while Rashod Bateman moved up to a full practice with the shoulder. Tyler Huntley starts vs CIN if Lamar sits. QB17 for me this week, a streamer, outside my top 12 until he practices in full, and QB2 rest of season. Monitor Baltimore's Friday injury report.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "player": "Lamar Jackson",
-        "team": "BAL",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report"
       },
       {
         "at": "2026-10-22T22:15:00Z",
@@ -364,7 +412,7 @@
         "action": "MONITOR",
         "watch": "Denver's Friday injury report for Pat Surtain II",
         "url": "",
-        "text": "Denver cornerback Pat Surtain II returned to practice Wednesday with the ankle before the Broncos play at ARI. Michael Wilson (ARI) is WR24 for me this week, a WR2, and a Surtain shadow would cost him targets. Monitor Denver's Friday injury report for Surtain."
+        "text": "Denver cornerback Pat Surtain II returned to practice Wednesday with the ankle before the Broncos play at ARI. Michael Wilson (ARI) is WR23 for me this week, a WR2, and a Surtain shadow would cost him targets. Monitor Denver's Friday injury report for Surtain."
       },
       {
         "at": "2026-10-22T21:05:00Z",
@@ -414,7 +462,7 @@
         "action": "START",
         "slot": "WR3",
         "url": "",
-        "text": "Carnell Tate (TEN) drew 32 percent of Tennessee's targets at IND and accounted for 70 of Cam Ward's 102 passing yards. WR25 for me vs CLE this week, a high-end WR3, and WR29 rest of season."
+        "text": "Carnell Tate (TEN) drew 32 percent of Tennessee's targets at IND and accounted for 70 of Cam Ward's 102 passing yards. WR24 for me vs CLE this week, a high-end WR3, and WR29 rest of season."
       },
       {
         "at": "2026-10-22T20:35:00Z",
@@ -425,16 +473,6 @@
         "why": "Barkley being ruled out Saturday or inactive Monday puts Pierce back in the RB2 range.",
         "url": "",
         "text": "Dameon Pierce (PHI) played 61 of 64 snaps vs CAR with Saquon Barkley inactive, and that share goes back to Barkley now. Philadelphia waived Jaydon Blue, put Carson Steele on waived/injured and signed Elijah Mitchell to the practice squad, so Pierce is the only backup. RB33 for me this week, a low-end RB3; sit him and hold him as the handcuff unless Barkley is ruled out."
-      },
-      {
-        "at": "2026-10-22T20:35:00Z",
-        "player": "Jonah Coleman",
-        "team": "DEN",
-        "pos": "RB",
-        "action": "STASH",
-        "faab": "2-4%",
-        "url": "",
-        "text": "Denver designated Jonah Coleman (DEN) to return from IR Wednesday and he practiced, opening his 21-day window from the high ankle sprain. His activation cuts into J.K. Dobbins' early downs; Dobbins is RB23 for me this week, an RB2. Coleman is RB49 rest of season. Stash him, 2 to 4 percent of FAAB, and hold him where he is rostered."
       },
       {
         "at": "2026-10-22T20:35:00Z",
@@ -455,15 +493,6 @@
         "watch": "his route share vs NYG Sunday",
         "text": "DeMeco Ryans said Tank Dell (HOU) will play Sunday vs NYG, his first game since December 2024. He plays the slot, so Jaylin Noel loses routes first; Noel ran 63 percent of the routes in Week 6. Monitor Dell's route share vs NYG Sunday before you add him.",
         "url": ""
-      },
-      {
-        "at": "2026-10-22T20:35:00Z",
-        "player": "Josh Jacobs",
-        "team": "GB",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Green Bay's Friday injury report",
-        "text": "Josh Jacobs (GB) practiced Thursday in his first week back from the exempt list. RB17 for me this week at DET, an RB2, and RB22 rest of season. Monitor Green Bay's Friday injury report."
       },
       {
         "at": "2026-10-22T20:35:00Z",
@@ -544,26 +573,6 @@
         "why": "Week 9 is the earliest return; a missed practice after the bye makes him a sell."
       },
       {
-        "at": "2026-10-21T22:15:00Z",
-        "text": "Quinshon Judkins (CLE) was limited Wednesday with the ankle after missing Week 6, and Todd Monken is optimistic he plays at TEN. He is RB20 rest of season for me and outside my top 40 backs this week until he practices in full. Monitor Cleveland's Friday injury report.",
-        "url": "https://sports.yahoo.com/nfl/live/nfl-news-injury-updates-week-7-145620221.html",
-        "player": "Quinshon Judkins",
-        "team": "CLE",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Cleveland's Friday injury report"
-      },
-      {
-        "at": "2026-10-21T16:15:00Z",
-        "player": "Christian Kirk",
-        "team": "SF",
-        "pos": "WR",
-        "action": "ADD",
-        "faab": "0-2%",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news",
-        "text": "Kyle Shanahan said Christian Kirk (SF) is a possibility for Sunday at ATL after two good practices with the calf, and Mike Evans (Achilles) looks unlikely to play. Kirk is still on IR and has not played a snap this season, so he would step into a receiver room missing its top target. Add him in 12-team leagues, 0 to 2 percent of FAAB."
-      },
-      {
         "at": "2026-10-21T16:15:00Z",
         "player": "Jordyn Tyson",
         "team": "NO",
@@ -581,15 +590,6 @@
         "action": "DROP",
         "url": "https://www.espn.com/nfl/story/_/id/50230371/commanders-wr-terry-mclaurin-torn-patellar-tendon",
         "text": "Tuesday's MRI showed a torn patellar tendon in the left knee of Terry McLaurin (WAS), and Dan Quinn said he needs surgery and misses the rest of the season. Stefon Diggs is the top receiver when Washington returns in Week 8, WR34 rest of season for me. Drop McLaurin for any add; hold Diggs."
-      },
-      {
-        "at": "2026-10-20T18:50:00Z",
-        "player": "Jaylin Noel",
-        "team": "HOU",
-        "pos": "WR",
-        "action": "ADD",
-        "faab": "1-3%",
-        "text": "Jaylin Noel (HOU) caught 4 for 107 and a TD on 4 targets at JAX on 63 percent of the routes, but Tank Dell returns to share the slot vs NYG. Add him in deep leagues, 1 to 3 percent of FAAB and no more."
       }
     ]
   },
@@ -617,6 +617,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2113761330792452521"
+    },
+    {
+      "id": "2026w07-notes-thread-6d25",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

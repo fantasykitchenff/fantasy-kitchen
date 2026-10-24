@@ -229,6 +229,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-20: Mike Evans: left with the Achilles at 1:03 of Q2 vs WAS on MNF, returned, led SF with 94 yards on 3 catches; Shanahan said he is only sore and needs no more testing. SF won 23-17 to go 6-0; Kittle 5 for 69 and a TD, McCaffrey 2 rushing TDs, Kittle and McCaffrey combined for 18 targets (NFL.com, 49ers.com).
 - 2026-10-21: Christian Kirk (calf, IR): Kyle Shanahan said he is a possibility for Week 7 at ATL after two good practices; Mike Evans (Achilles) looks unlikely to play (The Athletic via NBC Sports).
 - 2026-10-23: Mike Evans (ribs, Achilles) and Deebo Samuel (hamstring) out at ATL; Nick Bosa out (NFL.com Friday report).
+- 2026-10-24: Christian Kirk (calf) activated off IR Saturday; plays at ATL with Mike Evans out (NBC Sports/PFT).
 
 ## Other
 

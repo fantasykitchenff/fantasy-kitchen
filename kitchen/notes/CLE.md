@@ -195,6 +195,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: Quinshon Judkins: DNP Thursday (ankle). Dylan Sampson upgraded to limited (knee). KC Concepcion limited (concussion). Denzel Boston limited (foot). [NFL.com Thursday roundup, team reports]
 - 2026-10-18: Quinshon Judkins (ankle) inactive vs BAL in Week 6; Jaleel McLaughlin and Audric Estime lead the backfield, Dylan Sampson on IR (Yahoo Sports live updates).
 - 2026-10-23: Quinshon Judkins (ankle) practiced Wednesday to Friday and has no designation at TEN; Dylan Sampson questionable (knee); Dillon Gabriel out (back) (News 5 Cleveland, NFL.com).
+- 2026-10-24: Dylan Sampson (knee, hurt in the opener at JAX) activated off IR Saturday; G Teven Jenkins (back) to IR (clevelandbrowns.com).
 
 ## Other
 
