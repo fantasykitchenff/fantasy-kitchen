@@ -6,12 +6,52 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-23T23:20:00Z",
+  "updatedAt": "2026-10-24T16:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-24T16:30:00Z",
+        "player": "DeVonta Smith",
+        "team": "PHI",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Philadelphia's Saturday injury report and Monday's inactives",
+        "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt",
+        "text": "DeVonta Smith (PHI) did not practice Thursday or Friday with the hamstring, the injury that cost him two games earlier this month. WR16 for me this week vs DAL if he plays, a WR2, and WR15 rest of season. Monitor Philadelphia's Saturday injury report and Monday's inactives."
+      },
+      {
+        "at": "2026-10-24T16:30:00Z",
+        "player": "Dallas Goedert",
+        "team": "PHI",
+        "pos": "TE",
+        "action": "MONITOR",
+        "watch": "Philadelphia's Saturday injury report and Monday's inactives",
+        "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt",
+        "text": "Dallas Goedert (PHI) did not practice Thursday or Friday with the knee, after catching 6 for 61 in Tanner McKee's first start vs CAR. TE9 for me this week vs DAL if he plays. Monitor Philadelphia's Saturday injury report and Monday's inactives."
+      },
+      {
+        "at": "2026-10-24T16:30:00Z",
+        "player": "George Pickens",
+        "team": "DAL",
+        "pos": "WR",
+        "action": "START",
+        "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt",
+        "text": "George Pickens (DAL) moved up to a full practice Friday with the shoulder after a limited Thursday, so he is on track for Monday night at PHI. WR18 for me this week, a WR2, and WR12 rest of season.",
+        "slot": "WR2"
+      },
+      {
+        "at": "2026-10-24T16:30:00Z",
+        "player": "Saquon Barkley",
+        "team": "PHI",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Philadelphia's Saturday injury report and Monday's inactives",
+        "url": "https://www.philadelphiaeagles.com/news/cowboys-vs-eagles-injury-report-2026-nfl-week-7-saquon-barkley-jalyx-hunt",
+        "text": "Saquon Barkley (PHI) was limited Thursday and Friday with the hamstring, per the Eagles' report, not full as first reported, and he said he hopes to play Monday vs DAL after missing two games. RB29 for me this week, a high-end RB3, and RB12 rest of season. Monitor Philadelphia's Saturday injury report and Monday's inactives."
+      },
       {
         "at": "2026-10-23T23:20:00Z",
         "player": "Bijan Robinson",
@@ -147,16 +187,6 @@
         "action": "DROP",
         "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
         "text": "Seattle put tight end Elijah Arroyo (SEA) on IR Thursday, and he needs shoulder surgery that ends his season, per ESPN's Adam Schefter. AJ Barner played 93 percent of the snaps after Arroyo got hurt at DEN and is TE21 for me vs KC, outside my top 12. Drop Arroyo for any add on the list."
-      },
-      {
-        "at": "2026-10-22T22:15:00Z",
-        "player": "George Pickens",
-        "team": "DAL",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "url": "https://sports.yahoo.com/articles/george-pickens-injury-more-cowboys-210014118.html",
-        "text": "George Pickens (DAL) showed up on the injury report for the first time this season, limited Thursday with the shoulder, and is on track for Monday night at PHI. WR18 for me this week, a WR2, and WR12 rest of season. Monitor Dallas' Friday injury report."
       },
       {
         "at": "2026-10-22T22:15:00Z",
@@ -408,16 +438,6 @@
       },
       {
         "at": "2026-10-22T20:35:00Z",
-        "player": "Saquon Barkley",
-        "team": "PHI",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Philadelphia's Saturday injury report and Monday's inactives",
-        "url": "",
-        "text": "Saquon Barkley (PHI) practiced in full Thursday from the hamstring, and ESPN reports he is expected to play Monday vs DAL after missing two games. RB29 for me this week, a high-end RB3, and RB12 rest of season. Monitor Philadelphia's Saturday injury report and Monday's inactives."
-      },
-      {
-        "at": "2026-10-22T20:35:00Z",
         "text": "Baker Mayfield (TB) practiced in full Wednesday and Thursday on the right thumb, and Todd Bowles decides Friday whether he or Jalon Daniels starts at CAR. Mayfield is outside my top 12 this week and QB29 rest of season for me. Monitor Todd Bowles' Friday decision.",
         "url": "",
         "player": "Baker Mayfield",
@@ -505,16 +525,6 @@
       },
       {
         "at": "2026-10-21T22:15:00Z",
-        "text": "Chicago ruled out Kyle Monangai (CHI) for Thursday vs NE with the thumb and toe after he missed every walkthrough this week, his third straight game out. D'Andre Swift leads the backfield again and is RB10 for me this week. Monangai is RB34 rest of season for me; hold him, and a missed practice next week makes him a drop.",
-        "url": "https://www.tsn.ca/nfl/article/bears-rb-monangai-toe-thumb-out-thursday-night-vs-patriots-n1-50240756/",
-        "player": "Kyle Monangai",
-        "team": "CHI",
-        "pos": "RB",
-        "action": "HOLD",
-        "why": "A missed practice next week, after a third straight game out, makes him a drop."
-      },
-      {
-        "at": "2026-10-21T22:15:00Z",
         "text": "John Harbaugh named J.J. McCarthy (NYG) the starter at HOU over Jameis Winston. McCarthy threw for 243 yards, a TD and an interception in relief vs NO, most of it after the Giants fell behind 34-10. He is outside my top 12 this week. Monitor his first start at Houston Sunday before you add him in superflex leagues.",
         "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-wednesday-oct-21",
         "player": "J.J. McCarthy",
@@ -571,16 +581,6 @@
         "action": "DROP",
         "url": "https://www.espn.com/nfl/story/_/id/50230371/commanders-wr-terry-mclaurin-torn-patellar-tendon",
         "text": "Tuesday's MRI showed a torn patellar tendon in the left knee of Terry McLaurin (WAS), and Dan Quinn said he needs surgery and misses the rest of the season. Stefon Diggs is the top receiver when Washington returns in Week 8, WR34 rest of season for me. Drop McLaurin for any add; hold Diggs."
-      },
-      {
-        "at": "2026-10-20T22:15:00Z",
-        "player": "A.J. Brown",
-        "team": "NE",
-        "pos": "WR",
-        "action": "HOLD",
-        "url": "https://www.nbcsports.com/fantasy/football/player-news",
-        "why": "Missing Wednesday's practice before the Thursday game changes it.",
-        "text": "A.J. Brown (NE) was limited Monday and Tuesday with the ankle but is not expected to miss Thursday at CHI. He ran a route on 97 percent of the dropbacks and drew 10 targets vs NYJ, and Romeo Doubs is on IR. WR18 rest of season for me; hold him through the drops."
       },
       {
         "at": "2026-10-20T18:50:00Z",

@@ -6,9 +6,9 @@
   "dek": "Brock Purdy is QB1, Jahmyr Gibbs comes off the bye at RB1, and Matthew Golden climbs to WR8 for Green Bay.",
   "format": "PPR",
   "publishedAt": "2026-10-21T02:46:36Z",
-  "updatedAt": "2026-10-23T21:55:00Z",
+  "updatedAt": "2026-10-24T16:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Fri 5:55 PM ET with the injury report: Puka Nacua is questionable after missing Friday's practice with the calf and slides to WR3 for me, still in the top tier; monitor the Rams' inactives at 2:55 PM ET Sunday. Zach Charbonnet and Emeka Egbuka are out, Lamar Jackson is a game-time call at QB17, and Baker Mayfield starts for Tampa Bay at QB22. Travis Kelce and T.J. Hockenson have no designation and stay TE8 and TE14, and Quinshon Judkins is back at RB40.\n\nUpdated Thu 5:05 PM ET: David Montgomery is expected to miss Week 7, so Woody Marks stays RB16 for me, an RB2. Jordan Mason still had not been activated Thursday and is RB28 only if Minnesota activates him by Saturday. Pat Surtain II was back at practice for Denver, so Michael Wilson stays WR24, a WR2, until Friday's report, and Travis Kelce was limited Wednesday with the ankle and stays TE8.\n\nUpdated Thu 4:55 PM ET: the Week 7 order is refreshed. Matthew Golden moves up to WR8 and Drake London to WR6, Saquon Barkley is RB29 for me in his first game back, a high-end RB3, and Lamar Jackson is QB17, a streamer, until he practices in full. Braelon Allen is RB13, borderline RB1/RB2, only if Breece Hall is ruled out Friday.\n\nUpdated Thu 4:35 PM ET: Saquon Barkley practiced in full Thursday and is expected to play Monday vs DAL, so he is RB18 for me, an RB2, and Dameon Pierce goes back to the handcuff role and off the Menu. Breece Hall was back at practice Thursday, so Braelon Allen holds RB12 only if Hall is ruled out Friday; if Hall plays, Allen falls into the flex range. Josh Jacobs practiced Thursday and stays RB17, an RB2.\n\nUpdated Thu 4:20 PM ET: T.J. Hockenson practiced in full Wednesday but is still in the concussion protocol; he stays TE13 for me vs IND, a streamer, only if he is cleared, and Kyle Pitts Sr. is the pivot if he is ruled out.\n\nWeek 7 has four teams on bye: Buffalo, Jacksonville, the Chargers and Washington are off, so none of their players are on the Menu. New England opens at Chicago Thursday night, and Dallas at Philadelphia closes the week Monday night. Rankings are for full PPR.\n\nBrock Purdy leads the quarterbacks with San Francisco at 6-0, Jahmyr Gibbs comes off the bye as RB1, and Puka Nacua is WR1 with Davante Adams out 6 to 10 weeks. Brock Bowers is TE1. Germie Bernard is WR22 with two Pittsburgh receivers on IR, and Saquon Barkley is RB29 back from the hamstring.\n\nLamar Jackson (ankle), Josh Jacobs, Tucker Kraft (knee), Bucky Irving (illness) and Breece Hall all go into Friday with a question; Prep Notes revisits every one of them with the injury report.",
+  "intro_md": "Updated Sat 12:30 PM ET: DeVonta Smith (hamstring) and Dallas Goedert (knee) did not practice Thursday or Friday, so have a backup ready for both until Philadelphia's Saturday injury report; Smith is WR16 and Goedert TE9 for me if they play Monday. Saquon Barkley was limited both days, not full, and stays RB29, a high-end RB3. George Pickens practiced in full Friday and stays WR18, a WR2.\n\nUpdated Fri 5:55 PM ET with the injury report: Puka Nacua is questionable after missing Friday's practice with the calf and slides to WR3 for me, still in the top tier; monitor the Rams' inactives at 2:55 PM ET Sunday. Zach Charbonnet and Emeka Egbuka are out, Lamar Jackson is a game-time call at QB17, and Baker Mayfield starts for Tampa Bay at QB22. Travis Kelce and T.J. Hockenson have no designation and stay TE8 and TE14, and Quinshon Judkins is back at RB40.\n\nUpdated Thu 5:05 PM ET: David Montgomery is expected to miss Week 7, so Woody Marks stays RB16 for me, an RB2. Jordan Mason still had not been activated Thursday and is RB28 only if Minnesota activates him by Saturday. Pat Surtain II was back at practice for Denver, so Michael Wilson stays WR24, a WR2, until Friday's report, and Travis Kelce was limited Wednesday with the ankle and stays TE8.\n\nUpdated Thu 4:55 PM ET: the Week 7 order is refreshed. Matthew Golden moves up to WR8 and Drake London to WR6, Saquon Barkley is RB29 for me in his first game back, a high-end RB3, and Lamar Jackson is QB17, a streamer, until he practices in full. Braelon Allen is RB13, borderline RB1/RB2, only if Breece Hall is ruled out Friday.\n\nUpdated Thu 4:35 PM ET: Saquon Barkley practiced in full Thursday and is expected to play Monday vs DAL, so he is RB18 for me, an RB2, and Dameon Pierce goes back to the handcuff role and off the Menu. Breece Hall was back at practice Thursday, so Braelon Allen holds RB12 only if Hall is ruled out Friday; if Hall plays, Allen falls into the flex range. Josh Jacobs practiced Thursday and stays RB17, an RB2.\n\nWeek 7 has four teams on bye: Buffalo, Jacksonville, the Chargers and Washington are off, so none of their players are on the Menu. New England opens at Chicago Thursday night, and Dallas at Philadelphia closes the week Monday night. Rankings are for full PPR.\n\nBrock Purdy leads the quarterbacks with San Francisco at 6-0, Jahmyr Gibbs comes off the bye as RB1, and Puka Nacua is WR1 with Davante Adams out 6 to 10 weeks. Brock Bowers is TE1. Germie Bernard is WR22 with two Pittsburgh receivers on IR, and Saquon Barkley is RB29 back from the hamstring.\n\nLamar Jackson (ankle), Josh Jacobs, Tucker Kraft (knee), Bucky Irving (illness) and Breece Hall all go into Friday with a question; Prep Notes revisits every one of them with the injury report.",
   "outro_md": "Prep Notes updates the Menu Friday after the final injury report.",
   "data": {
     "positions": {
@@ -647,7 +647,7 @@
           "team": "PHI",
           "pos": "RB",
           "opp": "vs DAL",
-          "note": "Full practice Thursday off the hamstring after two missed games; Dameon Pierce took 61 of 64 snaps without him.",
+          "note": "Limited Thursday and Friday off the hamstring; Dameon Pierce took 61 of 64 snaps.",
           "flag": "",
           "action": "FLEX",
           "watch": "Philadelphia's Saturday injury report and Monday's inactives"
@@ -693,7 +693,7 @@
           "team": "PHI",
           "pos": "RB",
           "opp": "vs DAL",
-          "note": "The handcuff again with Saquon Barkley back at full practice.",
+          "note": "The handcuff again with Saquon Barkley back at practice.",
           "flag": "",
           "action": "FLEX"
         },
@@ -967,10 +967,11 @@
           "team": "PHI",
           "pos": "WR",
           "opp": "vs DAL",
-          "note": "",
+          "note": "Did not practice Thursday or Friday with the hamstring.",
           "flag": "",
           "action": "START",
-          "slot": "WR2"
+          "slot": "WR2",
+          "watch": "Philadelphia's Saturday injury report and Monday's inactives"
         },
         {
           "rank": 17,
@@ -991,7 +992,7 @@
           "team": "DAL",
           "pos": "WR",
           "opp": "at PHI",
-          "note": "",
+          "note": "Full practice Friday with the shoulder after a limited Thursday.",
           "flag": "",
           "action": "START",
           "slot": "WR2"
@@ -1480,10 +1481,11 @@
           "team": "PHI",
           "pos": "TE",
           "opp": "vs DAL",
-          "note": "6 for 61 with Tanner McKee starting vs CAR.",
+          "note": "Did not practice Thursday or Friday with the knee; 6 for 61 vs CAR.",
           "flag": "",
           "action": "START",
-          "slot": "TE1"
+          "slot": "TE1",
+          "watch": "Philadelphia's Saturday injury report and Monday's inactives"
         },
         {
           "rank": 10,
@@ -2012,10 +2014,11 @@
           "team": "PHI",
           "pos": "WR",
           "opp": "vs DAL",
-          "note": "",
+          "note": "Did not practice Thursday or Friday with the hamstring.",
           "flag": "",
           "action": "START",
-          "slot": "FLEX"
+          "slot": "FLEX",
+          "watch": "Philadelphia's Saturday injury report and Monday's inactives"
         },
         {
           "rank": 34,
@@ -2036,7 +2039,7 @@
           "team": "DAL",
           "pos": "WR",
           "opp": "at PHI",
-          "note": "",
+          "note": "Full practice Friday with the shoulder after a limited Thursday.",
           "flag": "",
           "action": "START",
           "slot": "FLEX"
@@ -2330,10 +2333,11 @@
           "team": "PHI",
           "pos": "TE",
           "opp": "vs DAL",
-          "note": "6 for 61 with Tanner McKee starting vs CAR.",
+          "note": "Did not practice Thursday or Friday with the knee; 6 for 61 vs CAR.",
           "flag": "",
           "action": "START",
-          "slot": "FLEX"
+          "slot": "FLEX",
+          "watch": "Philadelphia's Saturday injury report and Monday's inactives"
         },
         {
           "rank": 60,

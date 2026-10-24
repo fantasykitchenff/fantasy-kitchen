@@ -6,9 +6,9 @@
   "dek": "Germie Bernard runs every route for Pittsburgh, and Lamar Jackson falls outside my top 12.",
   "format": "PPR",
   "publishedAt": "2026-10-22T13:51:12Z",
-  "updatedAt": "2026-10-22T21:05:00Z",
+  "updatedAt": "2026-10-24T16:30:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Thu 5:05 PM ET: David Montgomery is expected to miss Week 7, so Woody Marks stays RB16 for me, an RB2. Jordan Mason still had not been activated Thursday, so Aaron Jones Sr. stays RB18, an RB2, and the lean is to play him.\n\nUpdated Thu 4:55 PM ET: Woody Marks moves up to RB16, an RB2, and C.J. Stroud to QB8. Saquon Barkley is RB29 for me in his first game back, a high-end RB3. Patrick Mahomes II is QB12, a borderline start, and still the one to sit for Matthew Stafford or Bryce Young. Xavier Worthy and Tre Tucker are coin flips with the lean to sit, Rico Dowdle joins the sits, and Emeka Egbuka falls to WR41 if he clears the protocol.\n\nUpdated Thu 4:35 PM ET: Saquon Barkley practiced in full Thursday and is expected to play Monday vs DAL, so Dameon Pierce moves to the sits as the handcuff and Barkley is RB18 for me, an RB2. Zach Charbonnet came off PUP Thursday and stays a sit for his first game back.\n\nThursday is for the players you are agonizing over. Studs are not here. Every call below is the player's rank on this week's [Menu](menu.html?week=7) and the tier it falls in, PPR scoring, and you decide. Buffalo, Jacksonville, the Chargers and Washington are on bye.\n\nThursday night first: New England at Chicago, 8:15 PM ET, Chicago favored by 2.5 with a 49.5 total. The Patriots ruled out both starting guards and three cornerbacks, and the Bears ruled out Kyle Monangai again. Then the eleven the week favors, the ten it does not, and eight coin flips where Friday's injury report picks the side. Wednesday's practice reports are in; Thursday's are not.",
+  "intro_md": "Updated Sat 12:30 PM ET: Dallas Goedert did not practice Thursday or Friday with the knee; he is TE9 for me if he plays Monday, so have a backup tight end ready. Saquon Barkley was limited both days, not full, and Dameon Pierce stays the handcuff.\n\nUpdated Thu 5:05 PM ET: David Montgomery is expected to miss Week 7, so Woody Marks stays RB16 for me, an RB2. Jordan Mason still had not been activated Thursday, so Aaron Jones Sr. stays RB18, an RB2, and the lean is to play him.\n\nUpdated Thu 4:55 PM ET: Woody Marks moves up to RB16, an RB2, and C.J. Stroud to QB8. Saquon Barkley is RB29 for me in his first game back, a high-end RB3. Patrick Mahomes II is QB12, a borderline start, and still the one to sit for Matthew Stafford or Bryce Young. Xavier Worthy and Tre Tucker are coin flips with the lean to sit, Rico Dowdle joins the sits, and Emeka Egbuka falls to WR41 if he clears the protocol.\n\nUpdated Thu 4:35 PM ET: Saquon Barkley practiced in full Thursday and is expected to play Monday vs DAL, so Dameon Pierce moves to the sits as the handcuff and Barkley is RB18 for me, an RB2. Zach Charbonnet came off PUP Thursday and stays a sit for his first game back.\n\nThursday is for the players you are agonizing over. Studs are not here. Every call below is the player's rank on this week's [Menu](menu.html?week=7) and the tier it falls in, PPR scoring, and you decide. Buffalo, Jacksonville, the Chargers and Washington are on bye.\n\nThursday night first: New England at Chicago, 8:15 PM ET, Chicago favored by 2.5 with a 49.5 total. The Patriots ruled out both starting guards and three cornerbacks, and the Bears ruled out Kyle Monangai again. Then the eleven the week favors, the ten it does not, and eight coin flips where Friday's injury report picks the side. Wednesday's practice reports are in; Thursday's are not.",
   "outro_md": "Prep Notes reconciles the ranks Friday after the final injury report. Sunday morning, Order Up carries the inactives and the pivots as each window's reports drop.",
   "data": {
     "tnf": [
@@ -159,10 +159,11 @@
         "team": "PHI",
         "pos": "TE",
         "opp": "vs DAL",
-        "why": "6 for 61 in Tanner McKee's first start vs CAR, with Jalen Hurts out for the season.",
-        "verdict": "TE9 for me this week vs DAL.",
+        "why": "6 for 61 in Tanner McKee's first start vs CAR, with Jalen Hurts out for the season. Goedert did not practice Thursday or Friday with the knee.",
+        "verdict": "TE9 for me this week vs DAL if he plays; have a backup tight end ready until Philadelphia's Saturday injury report.",
         "action": "START",
-        "slot": "TE1"
+        "slot": "TE1",
+        "watch": "Philadelphia's Saturday injury report and Monday's inactives"
       },
       {
         "player": "Tyler Higbee",
@@ -262,7 +263,7 @@
         "team": "PHI",
         "pos": "RB",
         "opp": "vs DAL",
-        "why": "61 of 64 snaps vs CAR came with Saquon Barkley (hamstring) inactive and Carson Steele out. Barkley practiced in full Thursday and is expected to play Monday, so Pierce goes back to the No. 2 share.",
+        "why": "61 of 64 snaps vs CAR came with Saquon Barkley (hamstring) inactive and Carson Steele out. Barkley was limited Thursday and Friday and hopes to play Monday, so Pierce goes back to the No. 2 share.",
         "verdict": "RB33 for me, a low-end RB3 with Barkley back; sit him and keep him as the handcuff. Saquon Barkley is RB29 for me this week, a high-end RB3.",
         "action": "SIT"
       }

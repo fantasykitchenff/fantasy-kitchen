@@ -88,6 +88,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: CeeDee Lamb (quad bruise) practiced in full Wednesday before Week 6 @GB (NBC Sports).
 - 2026-10-19: CeeDee Lamb: 18 targets, 9 for 70 in Week 6 @GB; George Pickens 11 targets, 6 for 73 (CBS box score).
 - 2026-10-22: George Pickens (shoulder) added to the report, limited Thursday, on track for MNF at PHI. [Yahoo Sports, Thursday practice report]
+- 2026-10-24: George Pickens (shoulder) limited Thursday, full Friday for MNF at PHI; KaVontae Turpin (ribs) DNP Friday (philadelphiaeagles.com joint report).
 
 ## Tight ends
 

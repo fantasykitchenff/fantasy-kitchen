@@ -214,6 +214,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Jalen Hurts: first diagnosed in London with a left calf superficial vein thrombosis; later testing found a deep vein thrombosis and bilateral pulmonary emboli; treated with blood thinners and no contact activity during treatment; placed on IR Oct 17; expected to miss the rest of the 2026 season (Rapoport: about three months); team and agent expect a full recovery. [pod 10-19, official]
 - 2026-10-18: Dontayvion Wicks: went down in pain after a tackle on his right ankle late vs CAR; 2 catches on 4 targets for 24; no diagnosis yet. [pod 10-19, official]
 - 2026-10-22: Saquon Barkley (hamstring) returned to practice Thursday as a full participant (CBS); ESPN reports he is expected to play Monday vs DAL after missing the last two games. Supersedes the 10-22 line "expected to return to practice Thursday". [pod 10-22, beat]
+- 2026-10-24: Eagles report for MNF vs DAL: Saquon Barkley (hamstring) limited Thursday and Friday (supersedes the 10-22 'full Thursday' line), said he hopes to play Monday; DeVonta Smith (hamstring) and Dallas Goedert (knee) DNP Thursday and Friday; Dontayvion Wicks (ankle) DNP Friday. Designations Saturday (philadelphiaeagles.com, Fri 5:55 PM ET).
 
 ## Other
 
