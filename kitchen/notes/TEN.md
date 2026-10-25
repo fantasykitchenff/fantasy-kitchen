@@ -153,3 +153,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Carnell Tate active Week 5 vs HOU (back) (nfl.com Sunday pregame)
 - 2026-10-11: Tennessee has 6 offensive TDs through Week 5, fewest in the league; Tyjae Spears caught 9 passes for 28; Wan'Dale Robinson drew 23 targets over Weeks 3 to 5. [pod 10-14, deployment]
 - 2026-10-18: Titans defense: 6 sacks of Daniel Jones (Simmons 2, Jermaine Johnson II 2), 3 takeaways, and a blocked punt returned for a TD by Femi Oladejo in the 26-20 win, Tennessee's first of 2026. [pod 10-19, deployment]
+- 2026-10-25: Tyjae Spears, Nick Singleton and Calvin Ridley (hip) inactive Week 7 vs CLE (CBS Sports, Yahoo Sports inactives).

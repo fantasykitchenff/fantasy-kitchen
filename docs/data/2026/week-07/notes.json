@@ -6,12 +6,74 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-24T23:30:00Z",
+  "updatedAt": "2026-10-25T16:30:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "player": "Breece Hall",
+        "action": "PIVOT",
+        "to": "Braelon Allen",
+        "url": "https://www.cbssports.com/nfl/news/nfl-week-7-inactives-injury-tracker-latest-news-updates/live/",
+        "text": "The Jets made Breece Hall (NYJ) inactive vs MIA with the quad, his fourth missed game. Braelon Allen (NYJ) played 87 percent of the snaps in Week 6 and is RB13 for me, borderline RB1/RB2 this week. Pivot to Allen.",
+        "at": "2026-10-25T16:30:00Z"
+      },
+      {
+        "player": "Tony Pollard",
+        "action": "START",
+        "slot": "RB2",
+        "text": "Tennessee made Tyjae Spears and rookie Nick Singleton inactive vs CLE, so Tony Pollard (TEN) has the backfield to himself after 76 percent of the snaps and 19 carries in Week 6. RB21 for me this week, an RB2.",
+        "at": "2026-10-25T16:30:00Z"
+      },
+      {
+        "player": "Carnell Tate",
+        "action": "START",
+        "slot": "WR2",
+        "text": "Calvin Ridley (TEN) is inactive vs CLE with the hip, which leaves Carnell Tate (TEN) as the top receiver after he drew 32 percent of the targets at IND. WR24 for me this week, a WR2.",
+        "at": "2026-10-25T16:30:00Z"
+      },
+      {
+        "player": "Baker Mayfield",
+        "action": "SIT",
+        "url": "https://sports.yahoo.com/nfl/live/nfl-scores-news-live-updates-week-7-schedule-inactives-highlights-stats-where-to-watch-130000023.html",
+        "text": "Baker Mayfield (TB) is active and starts at CAR after three missed games with the right thumb, playing with a protective glove, and Emeka Egbuka is inactive. QB21 for me, a streamer at best; sit him for any top-12 quarterback.",
+        "at": "2026-10-25T16:30:00Z"
+      },
+      {
+        "player": "Tank Dell",
+        "action": "SIT",
+        "text": "Houston made Tank Dell (HOU) active vs NYG, his first game since December 2024. He plays the slot, where Jaylin Noel ran 63 percent of the routes in Week 6. Outside my top 50 receivers in his first game back; sit him and see how many routes he runs.",
+        "at": "2026-10-25T16:30:00Z"
+      },
+      {
+        "player": "Christian Kirk",
+        "action": "ADD",
+        "faab": "0-2%",
+        "text": "San Francisco made Deebo Samuel Sr. (hamstring) and Mike Evans inactive at ATL, and Christian Kirk (SF) is active for his first game of the season. George Kittle and Christian McCaffrey drew 18 combined targets Monday. Add Kirk in deep leagues, 0 to 2 percent of FAAB.",
+        "at": "2026-10-25T16:30:00Z"
+      },
+      {
+        "player": "Rico Dowdle",
+        "action": "SIT",
+        "text": "Rico Dowdle (PIT) is active in Paris vs NO after a limited week with the knee, behind Jaylen Warren, who had 14 carries to his 7 at TB. RB31 for me, a low-end RB3; sit him for any Tier 3 back.",
+        "at": "2026-10-25T16:30:00Z"
+      },
+      {
+        "player": "Michael Wilson",
+        "action": "MONITOR",
+        "watch": "Denver's inactives 90 minutes before kickoff at ARI",
+        "text": "Denver cornerback Pat Surtain II is unlikely to play at ARI with the ankle, per NFL Network, after missing the last two games. Michael Wilson (ARI) is WR23 for me this week, a WR2, with the matchup better if Surtain sits.",
+        "at": "2026-10-25T16:30:00Z"
+      },
+      {
+        "player": "Puka Nacua",
+        "action": "MONITOR",
+        "watch": "Rams inactives at 2:55 PM ET Sunday",
+        "text": "The Rams are optimistic Puka Nacua (LAR) plays at LV with the calf as long as there is no setback in warmups, per ESPN; he is still questionable. WR3 for me if he plays; have a 4:25 PM backup ready until the Rams' inactives at 2:55 PM ET.",
+        "at": "2026-10-25T16:30:00Z"
+      },
       {
         "at": "2026-10-24T23:30:00Z",
         "player": "Dylan Sampson",
@@ -99,16 +161,6 @@
         "text": "Green Bay added Josh Jacobs (GB) to the active roster Saturday, so he debuts at DET after his week back from the exempt list. RB17 for me this week, an RB2, and RB22 rest of season.",
         "slot": "RB2",
         "url": "https://www.si.com/nfl/packers/onsi/packers-make-big-roster-move-and-it-s-not-just-activating-josh-jacobs"
-      },
-      {
-        "at": "2026-10-24T23:30:00Z",
-        "player": "Christian Kirk",
-        "team": "SF",
-        "pos": "WR",
-        "action": "ADD",
-        "faab": "0-2%",
-        "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-activate-wr-christian-kirk-from-ir",
-        "text": "San Francisco activated Christian Kirk (SF) off IR Saturday, and he plays at ATL with Mike Evans out. It is his first game of the season after the calf injury, in a receiver room missing its top target. Add him in 12-team leagues, 0 to 2 percent of FAAB."
       },
       {
         "at": "2026-10-24T16:30:00Z",
@@ -210,14 +262,6 @@
       },
       {
         "at": "2026-10-22T23:15:34Z",
-        "player": "Puka Nacua",
-        "action": "MONITOR",
-        "watch": "Friday's injury report and Sean McVay's Friday update",
-        "text": "Puka Nacua (LAR) left Thursday's practice early with a calf injury and was listed as limited, with Davante Adams already on IR. He stays my No. 1 receiver this week at LV until Friday's report. Monitor Friday's injury report and Sean McVay's Friday update.",
-        "url": "https://sports.yahoo.com/articles/puka-nacua-suffers-calf-injury-222000970.html"
-      },
-      {
-        "at": "2026-10-22T23:15:34Z",
         "player": "Brock Bowers",
         "action": "START",
         "slot": "TE1",
@@ -230,21 +274,6 @@
         "action": "START",
         "slot": "QB1",
         "text": "Bryce Young (CAR) practiced in full Thursday with the knee, and he has 11 touchdown passes to 1 interception through five games. QB10 for me this week vs TB.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22"
-      },
-      {
-        "at": "2026-10-22T23:15:34Z",
-        "player": "Rico Dowdle",
-        "action": "FLEX",
-        "text": "Rico Dowdle (PIT) was limited Thursday with the knee, and he had 7 carries to Jaylen Warren's 14 at TB. RB31 for me in Paris vs NO, a low-end RB3 and a low-end flex play.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22"
-      },
-      {
-        "at": "2026-10-22T23:15:34Z",
-        "player": "Tony Pollard",
-        "action": "HOLD",
-        "why": "Thursday was a rest day, not an injury; a Friday designation would change the call.",
-        "text": "Tony Pollard (TEN) sat out Thursday's practice for rest, and Tyjae Spears was full. Pollard is RB21 for me vs CLE, an RB2; hold him and ignore the rest day unless Friday's report adds a designation.",
         "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22"
       },
       {
@@ -327,16 +356,6 @@
       },
       {
         "at": "2026-10-22T22:15:00Z",
-        "text": "Breece Hall (NYJ) was limited Thursday with the quad after missing Wednesday. Braelon Allen (NYJ) played 87 percent of the snaps in Week 6 and holds RB13 for me this week only if Hall is ruled out; if Hall plays, Allen drops to a split and the flex range. Hall is RB17 rest of season for me. Monitor the Jets' Friday designation.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "player": "Breece Hall",
-        "team": "NYJ",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Friday's designation"
-      },
-      {
-        "at": "2026-10-22T22:15:00Z",
         "text": "Tyler Warren (IND) did not practice Thursday with the groin, his second straight missed day, and Keenan Allen drew 11 targets when Warren sat in Week 6. Warren is outside my top 12 this week and TE7 rest of season for me. Monitor Indianapolis' Friday injury report.",
         "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
         "player": "Tyler Warren",
@@ -406,16 +425,6 @@
       },
       {
         "at": "2026-10-22T21:05:00Z",
-        "player": "Michael Wilson",
-        "team": "ARI",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Denver's Friday injury report for Pat Surtain II",
-        "url": "",
-        "text": "Denver cornerback Pat Surtain II returned to practice Wednesday with the ankle before the Broncos play at ARI. Michael Wilson (ARI) is WR23 for me this week, a WR2, and a Surtain shadow would cost him targets. Monitor Denver's Friday injury report for Surtain."
-      },
-      {
-        "at": "2026-10-22T21:05:00Z",
         "player": "Kyler Murray",
         "team": "MIN",
         "pos": "QB",
@@ -455,16 +464,6 @@
         "text": "Rachaad White (WAS) played about 70 percent of the snaps at SF with Jacory Croskey-Merritt out, and caught 4 of 5 targets for 30 and a TD. Croskey-Merritt is on IR with the groin for at least four games. RB38 rest of season for me. Stash White through the bye, 2 to 4 percent of FAAB."
       },
       {
-        "at": "2026-10-22T21:05:00Z",
-        "player": "Carnell Tate",
-        "team": "TEN",
-        "pos": "WR",
-        "action": "START",
-        "slot": "WR3",
-        "url": "",
-        "text": "Carnell Tate (TEN) drew 32 percent of Tennessee's targets at IND and accounted for 70 of Cam Ward's 102 passing yards. WR24 for me vs CLE this week, a high-end WR3, and WR29 rest of season."
-      },
-      {
         "at": "2026-10-22T20:35:00Z",
         "player": "Dameon Pierce",
         "team": "PHI",
@@ -473,26 +472,6 @@
         "why": "Barkley being ruled out Saturday or inactive Monday puts Pierce back in the RB2 range.",
         "url": "",
         "text": "Dameon Pierce (PHI) played 61 of 64 snaps vs CAR with Saquon Barkley inactive, and that share goes back to Barkley now. Philadelphia waived Jaydon Blue, put Carson Steele on waived/injured and signed Elijah Mitchell to the practice squad, so Pierce is the only backup. RB33 for me this week, a low-end RB3; sit him and hold him as the handcuff unless Barkley is ruled out."
-      },
-      {
-        "at": "2026-10-22T20:35:00Z",
-        "text": "Baker Mayfield (TB) practiced in full Wednesday and Thursday on the right thumb, and Todd Bowles decides Friday whether he or Jalon Daniels starts at CAR. Mayfield is outside my top 12 this week and QB29 rest of season for me. Monitor Todd Bowles' Friday decision.",
-        "url": "",
-        "player": "Baker Mayfield",
-        "team": "TB",
-        "pos": "QB",
-        "action": "MONITOR",
-        "watch": "Todd Bowles' Friday decision"
-      },
-      {
-        "at": "2026-10-22T20:35:00Z",
-        "player": "Tank Dell",
-        "team": "HOU",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "his route share vs NYG Sunday",
-        "text": "DeMeco Ryans said Tank Dell (HOU) will play Sunday vs NYG, his first game since December 2024. He plays the slot, so Jaylin Noel loses routes first; Noel ran 63 percent of the routes in Week 6. Monitor Dell's route share vs NYG Sunday before you add him.",
-        "url": ""
       },
       {
         "at": "2026-10-22T20:35:00Z",

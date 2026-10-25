@@ -206,3 +206,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Denver opens against the Chiefs, Jaguars, Rams, 49ers and Chargers, a difficult early slate of quality defenses. [8-20 bust and value picks for 2026]
 - 2026-09-27: Pat Surtain II / Riley Moss: Defense vs LAR: Surtain played all 86 snaps, was targeted 11 times and allowed 6 catches for 88; Moss allowed a touchdown and a pass-interference penalty. The Rams ran 82 plays without Nacua. [pod 9-30, deployment]
 - 2026-10-09: Pat Bryant (ankle) to IR Friday, short-term; Lil'Jordan Humphrey promoted (Friday report).
+- 2026-10-25: Pat Surtain II (ankle) unlikely to play Week 7 at ARI, per NFL Network (CBS Sports, Yahoo Sports).

@@ -166,3 +166,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: Week 5 vs BUF (34-37 OT loss): Stafford 40 of 54 for 383 and 3 TDs; Puka Nacua 17 of 24 targets for 138 and a TD; Tyler Higbee 5 of 6 for 83; Davante Adams 5 of 7 for 51 and 2 TDs; Kyren Williams 16 carries for 49 and a TD, 6 of 8 targets; Blake Corum 5 carries for 19 and a TD, 3 of 4 for 53 (CBS box score).
 - 2026-10-18: Week 6 @ARI: K Blake Grupe, signed this week to replace Harrison Mevis, hurt his knee in the first quarter, doubtful to return (nfl.com).
 - 2026-10-18: Rams: lost 18-16 to ARI at SoFi on Chad Ryland's 43-yd FG at the gun; Rams 2 of 4 in the red zone, both TDs passing (Parkinson 6-yd with 0:47 left, failed two-point try). [pod 10-19, official]
+- 2026-10-25: Puka Nacua (calf) questionable; Rams optimistic he plays at LV barring a setback, per ESPN (Yahoo Sports, CBS Sports).

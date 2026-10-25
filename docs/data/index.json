@@ -1,8 +1,35 @@
 {
   "season": 2026,
   "currentWeek": 7,
-  "updatedAt": "2026-10-24T23:22:13Z",
+  "updatedAt": "2026-10-25T16:10:04Z",
   "pieces": [
+    {
+      "series": "menu",
+      "week": 7,
+      "path": "2026/week-07/menu.json",
+      "title": "The Menu, Week 7",
+      "dek": "Brock Purdy is QB1, Jahmyr Gibbs comes off the bye at RB1, and Matthew Golden climbs to WR8 for Green Bay.",
+      "publishedAt": "2026-10-21T02:46:36Z",
+      "updatedAt": "2026-10-25T16:30:00Z"
+    },
+    {
+      "series": "notes",
+      "week": 7,
+      "path": "2026/week-07/notes.json",
+      "title": "Kitchen notes, Week 7",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-20T16:10:00Z",
+      "updatedAt": "2026-10-25T16:30:00Z"
+    },
+    {
+      "series": "prep",
+      "week": 7,
+      "path": "2026/week-07/prep.json",
+      "title": "Prep Notes, Week 7",
+      "dek": "Zach Charbonnet is out, so Emanuel Wilson is RB30 for me; Puka Nacua and Lamar Jackson are game-time calls.",
+      "publishedAt": "2026-10-23T21:55:00Z",
+      "updatedAt": "2026-10-25T16:30:00Z"
+    },
     {
       "series": "butcher",
       "week": 7,
@@ -28,33 +55,6 @@
       "title": "Market Run, Week 7",
       "dek": "Kendre Miller has the New Orleans backfield while Alvin Kamara's back heals, and he is the first claim of the week.",
       "publishedAt": "2026-10-20T14:21:00Z",
-      "updatedAt": "2026-10-24T23:30:00Z"
-    },
-    {
-      "series": "menu",
-      "week": 7,
-      "path": "2026/week-07/menu.json",
-      "title": "The Menu, Week 7",
-      "dek": "Brock Purdy is QB1, Jahmyr Gibbs comes off the bye at RB1, and Matthew Golden climbs to WR8 for Green Bay.",
-      "publishedAt": "2026-10-21T02:46:36Z",
-      "updatedAt": "2026-10-24T23:30:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 7,
-      "path": "2026/week-07/notes.json",
-      "title": "Kitchen notes, Week 7",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-20T16:10:00Z",
-      "updatedAt": "2026-10-24T23:30:00Z"
-    },
-    {
-      "series": "prep",
-      "week": 7,
-      "path": "2026/week-07/prep.json",
-      "title": "Prep Notes, Week 7",
-      "dek": "Zach Charbonnet is out, so Emanuel Wilson is RB30 for me; Puka Nacua and Lamar Jackson are game-time calls.",
-      "publishedAt": "2026-10-23T21:55:00Z",
       "updatedAt": "2026-10-24T23:30:00Z"
     },
     {

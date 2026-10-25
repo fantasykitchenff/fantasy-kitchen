@@ -161,3 +161,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-17: Roman Wilson (finger) placed on IR, out at least four games. [pod 10-19, official]
 - 2026-10-22: Rico Dowdle: limited Thursday with the knee; Ben Skowronek (calf) ruled out for Sunday vs NO in Paris (NFL.com Thursday roundup).
 - 2026-10-23: Rico Dowdle (knee) questionable for Paris, limited Wednesday and Thursday, Friday estimated limited (no practice); WR Ben Skowronek out (steelers.com).
+- 2026-10-25: Rico Dowdle (knee, questionable) active Week 7 vs NO in Paris (CBS Sports, RotoBaller).
