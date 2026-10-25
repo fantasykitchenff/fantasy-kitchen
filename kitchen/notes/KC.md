@@ -183,6 +183,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-21: Travis Kelce was limited Wednesday with the right ankle he hurt on the first drive of Week 6; LT Josh Simmons is going to IR with the disc issue (NBC Sports, PFT). [pod 10-22, official]
 - 2026-10-22: Josh Simmons (back, bulging disc) to IR, eligible Week 11; Travis Kelce (ankle) limited Thursday; Rashee Rice (hamstring, knee) DNP Thursday. [NFL.com Thursday roundup]
 - 2026-10-23: Travis Kelce (ankle) limited all week, no designation at SEA; Rashee Rice (hamstring, knee) and OL Jaylon Moore (concussion) out (NBC Sports, Arrowhead Pride).
+- 2026-10-25: Rashee Rice (hamstring, knee) and RT Jaylon Moore (concussion) inactive at SEA on Sunday night; QB Garrett Nussmeier inactive as the emergency third quarterback (team inactives, Rotowire).
 
 ## Other
 

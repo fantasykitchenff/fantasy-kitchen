@@ -6,12 +6,32 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-25T22:15:00Z",
+  "updatedAt": "2026-10-25T23:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-25T23:20:00Z",
+        "player": "Zach Charbonnet",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "PIVOT",
+        "to": "Emanuel Wilson",
+        "url": "https://www.rotowire.com/betting/nfl/game.php?id=2978869",
+        "text": "Zach Charbonnet (SEA) is inactive vs KC tonight, as Seattle said Friday, so the knee gets one more week. Emanuel Wilson (SEA) played 46 snaps in Week 6 and leads the backfield; he is RB30 for me, a high-end RB3 and a high-end flex play. Charbonnet is RB40 rest of season for me. Pivot to Emanuel Wilson."
+      },
+      {
+        "at": "2026-10-25T23:20:00Z",
+        "player": "Rashee Rice",
+        "team": "KC",
+        "pos": "WR",
+        "action": "PIVOT",
+        "to": "Xavier Worthy",
+        "url": "https://www.rotowire.com/betting/nfl/game.php?id=2978869",
+        "text": "Rashee Rice (KC) is inactive at SEA tonight with the hamstring and knee after a week without practice. Xavier Worthy (KC) is the top outside receiver left and is WR30 for me, a high-end WR3 and a high-end flex play. Rice is WR21 rest of season for me. Pivot to Xavier Worthy."
+      },
       {
         "at": "2026-10-25T22:15:00Z",
         "team": "MIN",
@@ -385,16 +405,6 @@
         "watch": "Friday's injury report"
       },
       {
-        "at": "2026-10-22T22:15:00Z",
-        "text": "Rashee Rice (KC) did not practice Thursday with the hamstring and knee, his second straight missed day this week, and he is off my Week 7 rankings at SEA. WR21 rest of season for me. Monitor Kansas City's Friday injury report for his designation.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "player": "Rashee Rice",
-        "team": "KC",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report"
-      },
-      {
         "at": "2026-10-22T21:05:00Z",
         "text": "David Montgomery (HOU) did not practice Thursday with the groin and is expected to miss Week 7 vs NYG, per Aaron Wilson of the Houston Chronicle, and Houston is on bye in Week 8. RB25 rest of season for me. Monitor Houston's Friday injury report for his designation.",
         "url": "",
@@ -472,15 +482,6 @@
         "why": "Barkley being ruled out Saturday or inactive Monday puts Pierce back in the RB2 range.",
         "url": "",
         "text": "Dameon Pierce (PHI) played 61 of 64 snaps vs CAR with Saquon Barkley inactive, and that share goes back to Barkley now. Philadelphia waived Jaydon Blue, put Carson Steele on waived/injured and signed Elijah Mitchell to the practice squad, so Pierce is the only backup. RB33 for me this week, a low-end RB3; sit him and hold him as the handcuff unless Barkley is ruled out."
-      },
-      {
-        "at": "2026-10-22T20:35:00Z",
-        "player": "Zach Charbonnet",
-        "team": "SEA",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "his snap share vs KC Sunday",
-        "text": "Seattle activated Zach Charbonnet (SEA) off PUP Thursday after a full practice Wednesday, so he plays vs KC in his first game since the ACL. The fill-ins split 46 and 27 snaps Sunday. He is RB37 for me this week, a low-end flex play to a dart throw, so sit him for his first game; RB40 rest of season. Monitor his snap share vs KC Sunday."
       },
       {
         "at": "2026-10-22T20:35:00Z",
