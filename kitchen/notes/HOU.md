@@ -159,6 +159,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-22: David Montgomery (groin) did not practice Thursday and is expected to miss Week 7 vs NYG, per the Houston Chronicle's Aaron Wilson (NBC Sports, CBS); Houston is on bye in Week 8. [pod 10-22, beat]
 - 2026-10-22: David Montgomery (groin) DNP Thursday; Tank Dell (knee) full; Dalton Schultz (quad) upgraded to limited. [NFL.com Thursday roundup]
 - 2026-10-23: Tank Dell (knee) questionable vs NYG, DeMeco Ryans expects him to play; David Montgomery (groin) out (NFL.com Friday report, SI).
+- 2026-10-25: Jaylin Noel: turf toe in the OT loss to NYG per DeMeco Ryans, no timeline; Week 8 bye (NFL.com).
 
 ## Other
 

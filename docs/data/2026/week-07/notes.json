@@ -6,12 +6,72 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-25T16:30:00Z",
+  "updatedAt": "2026-10-25T22:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-25T22:15:00Z",
+        "team": "MIN",
+        "player": "Aaron Jones Sr.",
+        "action": "MONITOR",
+        "watch": "Minnesota's Wednesday practice report",
+        "text": "Aaron Jones Sr. (MIN) left the 16-10 win over IND with his left knee and did not return; Kevin O'Connell said he aggravated the MCL sprain he had played through. He had 8 carries for 26 yards. RB27 rest of season for me. Monitor Minnesota's Wednesday practice report before Week 8 at DET.",
+        "url": "https://www.cbssports.com/fantasy/football/news/vikings-aaron-jones-aggravates-previous-knee-injury/",
+        "pos": "RB"
+      },
+      {
+        "at": "2026-10-25T22:15:00Z",
+        "team": "MIN",
+        "player": "Jordan Mason",
+        "action": "CLAIM",
+        "faab": "10-20%",
+        "text": "Jordan Mason (MIN) led the Vikings with 15 carries for 68 yards in his first game off IR, and Aaron Jones Sr. left with the knee. RB33 rest of season for me, and the lead back at DET if Jones sits. Claim him if he is on your wire, 10 to 20 percent of FAAB.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-25/aaron-jones-knee-exits-early-vs-colts",
+        "pos": "RB"
+      },
+      {
+        "at": "2026-10-25T22:15:00Z",
+        "team": "NYG",
+        "player": "Cam Skattebo",
+        "action": "HOLD",
+        "why": "A hamstring diagnosis that costs him games after the bye would change the call.",
+        "text": "Cam Skattebo (NYG) ran 17 times for 124 yards and a TD at HOU, a week after 6 snaps and no touches, and his 42-yard run in overtime set up the winning score. He felt his hamstring on that run, and the Giants are on bye in Week 8. RB23 rest of season for me. Hold him; a diagnosis that costs him games after the bye would change that.",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-7-games-2026",
+        "pos": "RB"
+      },
+      {
+        "at": "2026-10-25T22:15:00Z",
+        "team": "HOU",
+        "player": "Jaylin Noel",
+        "action": "MONITOR",
+        "watch": "Houston's first practice report after the Week 8 bye",
+        "text": "Jaylin Noel (HOU) hurt his toe in the overtime loss to NYG; DeMeco Ryans called it turf toe and gave no timeline. Tank Dell is the next slot receiver up. Noel is WR63 rest of season for me. Monitor Houston's first practice report after the Week 8 bye.",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-7-games-2026",
+        "pos": "WR"
+      },
+      {
+        "at": "2026-10-25T22:15:00Z",
+        "team": "LAR",
+        "player": "Puka Nacua",
+        "action": "START",
+        "slot": "WR1",
+        "text": "Puka Nacua (LAR) played through the calf at LV and caught an 11-yard touchdown, one of Matthew Stafford's three first-half TD passes. WR3 rest of season for me.",
+        "url": "https://www.nfl.com/news/rams-wr-puka-nacua-calf-active-sunday-game-vs-raiders",
+        "pos": "WR"
+      },
+      {
+        "at": "2026-10-25T22:15:00Z",
+        "team": "NO",
+        "player": "CJ Donaldson",
+        "action": "MONITOR",
+        "watch": "New Orleans' Wednesday practice report",
+        "text": "CJ Donaldson (NO) was ruled out of the loss to PIT in Paris with a shoulder injury. Kendre Miller had 20 carries as the lead back in Week 6 and is RB64 rest of season for me. Monitor Donaldson on New Orleans' Wednesday practice report before you count on him for the goal line.",
+        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-7-games-2026",
+        "pos": "RB"
+      },
       {
         "player": "Breece Hall",
         "action": "PIVOT",
@@ -287,26 +347,6 @@
       },
       {
         "at": "2026-10-22T22:15:00Z",
-        "player": "Christian Watson",
-        "team": "GB",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "text": "Christian Watson (GB) was limited Thursday with the ankle, and Matthew Golden was limited with the shoulder. Watson played 90 percent of the snaps vs DAL and is WR7 for me this week at DET. Monitor Green Bay's Friday injury report."
-      },
-      {
-        "at": "2026-10-22T22:15:00Z",
-        "player": "Matthew Golden",
-        "team": "GB",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "text": "Matthew Golden (GB) was limited Thursday with the shoulder after 13 targets vs DAL. WR8 for me this week at DET. Monitor Green Bay's Friday injury report."
-      },
-      {
-        "at": "2026-10-22T22:15:00Z",
         "player": "Alvin Kamara",
         "team": "NO",
         "pos": "RB",
@@ -336,26 +376,6 @@
       },
       {
         "at": "2026-10-22T22:15:00Z",
-        "text": "Bucky Irving (TB) was limited Thursday with the illness after missing Wednesday. RB12 for me this week at CAR, borderline RB1/RB2. Monitor Tampa Bay's Friday injury report.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "player": "Bucky Irving",
-        "team": "TB",
-        "pos": "RB",
-        "action": "MONITOR",
-        "watch": "Friday's injury report"
-      },
-      {
-        "at": "2026-10-22T22:15:00Z",
-        "text": "Emeka Egbuka (TB) did not practice Thursday, still in the concussion protocol with the foot injury too. WR41 for me this week, a low-end flex play to a dart throw, only if he clears the protocol. Monitor his concussion status on Friday's injury report.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "player": "Emeka Egbuka",
-        "team": "TB",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report"
-      },
-      {
-        "at": "2026-10-22T22:15:00Z",
         "text": "Tyler Warren (IND) did not practice Thursday with the groin, his second straight missed day, and Keenan Allen drew 11 targets when Warren sat in Week 6. Warren is outside my top 12 this week and TE7 rest of season for me. Monitor Indianapolis' Friday injury report.",
         "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
         "player": "Tyler Warren",
@@ -366,31 +386,11 @@
       },
       {
         "at": "2026-10-22T22:15:00Z",
-        "text": "Justin Jefferson (MIN) practiced in full Thursday with the ankle after a limited Wednesday, and Colts cornerback Sauce Gardner missed practice again with the calf. WR9 for me this week vs IND. Monitor Minnesota's Friday injury report.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "player": "Justin Jefferson",
-        "team": "MIN",
-        "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report"
-      },
-      {
-        "at": "2026-10-22T22:15:00Z",
         "text": "Rashee Rice (KC) did not practice Thursday with the hamstring and knee, his second straight missed day this week, and he is off my Week 7 rankings at SEA. WR21 rest of season for me. Monitor Kansas City's Friday injury report for his designation.",
         "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
         "player": "Rashee Rice",
         "team": "KC",
         "pos": "WR",
-        "action": "MONITOR",
-        "watch": "Friday's injury report"
-      },
-      {
-        "at": "2026-10-22T22:15:00Z",
-        "text": "Jordan Love (GB) practiced in full Thursday with the back after a limited Wednesday. QB3 for me this week at DET. Monitor Green Bay's Friday injury report for his designation.",
-        "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-thursday-oct-22",
-        "player": "Jordan Love",
-        "team": "GB",
-        "pos": "QB",
         "action": "MONITOR",
         "watch": "Friday's injury report"
       },
@@ -504,16 +504,6 @@
       },
       {
         "at": "2026-10-22T20:20:00Z",
-        "player": "T.J. Hockenson",
-        "team": "MIN",
-        "pos": "TE",
-        "action": "MONITOR",
-        "watch": "Friday's injury report",
-        "url": "",
-        "text": "T.J. Hockenson (MIN) practiced in full Wednesday but is still in the concussion protocol and not cleared for Sunday vs IND. He is TE14 for me this week, a borderline start, only if he clears; Kyle Pitts Sr. is the pivot if he is ruled out. Monitor Friday's injury report."
-      },
-      {
-        "at": "2026-10-22T20:20:00Z",
         "player": "Jacory Croskey-Merritt",
         "team": "WAS",
         "pos": "RB",
@@ -602,6 +592,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2114154423262097770"
+    },
+    {
+      "id": "2026w07-notes-thread-43b9",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

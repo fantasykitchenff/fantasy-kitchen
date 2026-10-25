@@ -164,6 +164,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-22: Justin Jefferson (ankle) full Thursday; T.J. Hockenson (concussion) full, still in the protocol; Jordan Mason full in his IR window, not activated. [NFL.com Thursday roundup]
 - 2026-10-23: Final report vs IND: Jordan Mason questionable (thumb) and still needs IR activation by Saturday; T.J. Hockenson cleared the concussion protocol, full all week, no designation; Justin Jefferson and Jordan Addison no designation (vikings.com, Star Tribune).
 - 2026-10-24: Jordan Mason (thumb) activated off IR Saturday after full practices all week; plays vs IND with no designation (ESPN, Vikings).
+- 2026-10-25: Aaron Jones Sr.: left the 16-10 win over IND with the left knee (aggravated MCL sprain per O'Connell), did not return; 8 carries for 26. Jordan Mason: 15 carries for 68 in his first game off IR (NBC Sports, CBS).
 
 ## Other
 

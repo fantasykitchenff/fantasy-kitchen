@@ -203,6 +203,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Week 6 Wednesday report: Isaiah Likely (foot) and Najee Harris (ribs) full; Darnell Mooney (neck) and Theo Johnson (neck) limited; LT Andrew Thomas (groin), T Jermaine Eluemunor (calf) and LB Abdul Carter (calf) DNP (neworleanssaints.com).
 - 2026-10-15: Isaiah Likely full Thursday (foot). [NFL.com Thursday roundup, team reports]
 - 2026-10-23: TE Theo Johnson (neck) doubtful at HOU (NFL.com Friday report).
+- 2026-10-25: Cam Skattebo: 17 carries for 124 and a TD in the 27-21 OT win at HOU; felt his hamstring on the 42-yard OT run; Week 8 bye. Tyrone Tracy Jr. hamstring, reports conflict on whether he returned (NFL.com, Yahoo).
 
 ## Other
 

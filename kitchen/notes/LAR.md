@@ -150,6 +150,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-21: EDGE Myles Garrett (knee surgery, IR since mid-September): Sean McVay says his return is delayed and there is no timeline (PFT, Yahoo Sports). [pod 10-22, coach]
 - 2026-10-22: Puka Nacua: left Thursday's practice early with a calf injury and was listed as limited; severity not given, Sean McVay speaks Friday (NFL.com Thursday roundup, Yahoo Sports, Turf Show Times).
 - 2026-10-23: Puka Nacua (calf) questionable at LV: left Thursday's practice early (limited), DNP Friday; Sean McVay said he lacked full power and explosion, tests showed a minor injury per Ian Rapoport. CB Trent McDuffie questionable, LB Nate Landman out (Friday report, Yahoo Sports).
+- 2026-10-25: Puka Nacua: active through the calf at LV, caught an 11-yard TD, one of Stafford's three first-half TD passes (NFL.com, therams.com).
 
 ## Depth chart
 
