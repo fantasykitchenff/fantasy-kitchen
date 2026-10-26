@@ -67,6 +67,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Seth McGowan over 25% of the snaps for a second straight week @PIT; Jonathan Taylor 15 carries for 45, McGowan 5 for 16 (PFF recap, colts.com box).
 - 2026-10-11: Jonathan Taylor played 71% of snaps in Week 4 and 73% in Week 5 (89% in Week 1); Seth McGowan 29% and 27%. Taylor ran 15 times for 45 vs ARI. [pod 10-14, deployment]
 - 2026-10-19: Jonathan Taylor: 21 for 94 and a TD, 2 for 57, season-high 151 scrimmage yards in Week 6 vs TEN, lost a fumble; Seth McGowan 4 for 27 (team box score).
+- 2026-10-26: Week 7 at MIN (10-16 loss): Jonathan Taylor 41 snaps (67%), 18-95-1; Seth McGowan 20 snaps, 11-46, a career high; Daniel Jones 13 of 22 for 108, 1 INT; Shane Steichen keeps Jones as the starter (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

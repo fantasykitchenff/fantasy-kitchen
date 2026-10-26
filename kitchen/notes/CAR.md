@@ -18,6 +18,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Bryce Young: Carolina had the 4th-lowest pass rate over expected in 2025; Young's 6.3-yard aDOT was 4th-lowest among qualifiers and only 9% of his throws went 20+ yards downfield (4th-lowest). [8-20 WRs talk]
 - 2026-09-27: Bryce Young: 26 of 48 for 291 yards, 1 TD, 1 INT and 3 sacks at CLE with no rush attempts; 51 dropbacks on 74 plays (69%). Through three games: 939 passing yards (first in the NFL) on 121 attempts, the first Panther with 280 or more in each of the first three games. [pod 9-29, deployment]
 - 2026-10-18: Bryce Young: 20 of 39 for 281, 2 TD, 0 INT in the 25-14 win @PHI; 11 TD passes and 1,549 yards through five games, a franchise record for TDs (yards second to Cam Newton's 1,610 in 2011); sixth QB with 280+ yards, a TD and one or fewer INTs in each of his team's first five games. [pod 10-19, official]
+- 2026-10-26: Week 7 vs TB: Bryce Young 14 of 27 for 163, 1 TD, 2 INT, 5 sacks, pulled for Kenny Pickett early in the fourth down 43-6; Dave Canales gave no reason beyond the score. Chuba Hubbard 34 snaps, 7-33, 4-27 (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Backfield
 

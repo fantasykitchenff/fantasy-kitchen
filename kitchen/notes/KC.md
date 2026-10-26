@@ -76,6 +76,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 @LV: Kenneth Walker III 22 carries for 177 and 2 TD, a 76-yard run, 45 of 60 snaps (75%), 13 routes (DraftSharks, NBC).
 - 2026-10-19: Kenneth Walker III: 19 for 128 and 2 TDs, 2 for 11 in Week 6 vs LAC (22-6 W) (CBS box score).
 - 2026-10-18: Kenneth Walker III: 19 for 128 and 2 TDs (33 and 2 yards) vs LAC, 82% of early-down snaps; 665 rushing yards in 5 games, the most in NFL history through a player's first five games with a team; league-leading 7 runs of 20+. [pod 10-19, deployment]
+- 2026-10-26: Week 7 at SEA (3-20, first loss): Kenneth Walker III 39 snaps (74%), 14-36, 4-21; no KC red zone plays; Patrick Mahomes II 19 of 33 for 165, 1 INT (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

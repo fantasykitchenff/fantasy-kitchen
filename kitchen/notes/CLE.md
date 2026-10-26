@@ -83,6 +83,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Quinshon Judkins (ankle) questionable Week 6 vs BAL after DNP, DNP, limited Friday; Todd Monken called the walking boot a precaution. Dylan Sampson (knee) out; Dillon Gabriel (back) out. KC Concepcion cleared. [NFL.com, CBS, Yahoo Sports]
 - 2026-10-19: With Quinshon Judkins inactive in Week 6 vs BAL: Jaleel McLaughlin 9 for 41 and 4 for 14; Audric Estime 9 for 19 and a TD (CBS box score).
 - 2026-10-18: With Quinshon Judkins inactive (ankle) and Dylan Sampson on IR: Jaleel McLaughlin 9 for 41 and nearly every route; Audric Estime 9 for 19 and the TD, with every snap inside the 5. [pod 10-20, deployment]
+- 2026-10-26: Week 7 at TEN (27-24 win): Quinshon Judkins 37 snaps (53%), 17-96-2; Dylan Sampson 32 snaps (46%), 6-45, 3-32 in his first game since Week 1; KC Concepcion Jr. 8-129 on 10 targets; Harold Fannin Jr. 6-91 on 9 targets (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

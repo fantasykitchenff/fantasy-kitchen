@@ -100,6 +100,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Wk5 at LAC: J.K. Dobbins 18 carries for 68 and a TD plus 2 catches for 6 (18 of the 22 RB carries). RJ Harvey 3 carries and 0 of 1 after 10 of 10 for 68 and 7 carries in Week 4. [pod 10-13, deployment]
 - 2026-10-15: Week 6 vs SEA (won 17-14 OT): J.K. Dobbins 54% snaps, 7 routes, 17-41-1, 3-5; RJ Harvey 37% snaps, 12 routes (40%), 6-25-1, 3-31 on 4 targets; Tyler Badie left with a thumb injury (Rotowire usage).
 - 2026-10-19: Week 6 vs SEA: J.K. Dobbins 31 snaps (52%), 17 for 41 and a TD; RJ Harvey 24 snaps (40%), 6 for 25 and a TD, 3 of 4 for 31 (LeagueLogs, team box score).
+- 2026-10-26: Week 7 at ARI (30-16 win): Jonah Coleman 30 snaps (49%), 9-54, 2-15 off IR; RJ Harvey 16 snaps, 52-yard TD catch; J.K. Dobbins 14 snaps, 6-23-1; Jaylen Waddle chest injury on a late end-around, X-rays at the stadium (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

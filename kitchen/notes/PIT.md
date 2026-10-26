@@ -68,6 +68,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jaylen Warren 15-101-1 (a 50-yard TD run) and 6-87-1 (an 80-yard TD catch) on 87 percent of snaps, the RB2 of the week; 490 scrimmage yards over Weeks 3 to 5. Rico Dowdle (toe) was inactive for a third straight game. [pod 10-13, deployment]
 - 2026-10-19: Rico Dowdle active for the first time since Week 2: 7 carries for 40, 3 catches for 9 in Week 6 @TB; Jaylen Warren 14 for 50 and 2 for 28, took over in the 4th quarter and OT (NBC Sports, team box score).
 - 2026-10-18: Jaylen Warren 14 carries to Rico Dowdle's 7, routes 31 to 11, about 75 percent of the snaps. [pod 10-20, deployment]
+- 2026-10-26: Week 7 vs NO in Paris (16-10 win): Jaylen Warren 40 snaps (62%), 18-101, 3-36; Rico Dowdle 28 snaps (44%), 9-41, 6-45 on 6 targets; Germie Bernard 58 snaps, 3-27 on 5 targets (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

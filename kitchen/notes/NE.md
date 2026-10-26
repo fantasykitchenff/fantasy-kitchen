@@ -65,6 +65,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Corey Kiner was the backup back in the fourth quarter vs LV after TreVeyon Henderson's high ankle sprain. [pod 10-14, deployment]
 - 2026-10-19: Week 6 vs NYJ: Rhamondre Stevenson 41 snaps, 14 for 36; Corey Kiner 11 for 57; TreVeyon Henderson back, 7 for 31 on 16 snaps, lost a fumble (CBS box score; snaps single source).
 - 2026-10-18: TreVeyon Henderson had 2 carries after his third-quarter fumble and no touches over the last 25 minutes; Corey Kiner's 11 carries for 57 all came after it. [pod 10-20, deployment]
+- 2026-10-26: Week 7 at CHI: Rhamondre Stevenson 37 snaps (69%), 6-22, 5-93-1; TreVeyon Henderson a season-low 13 snaps, Mike Vrabel wanted Corey Kiner to get carries; Hunter Henry 7-71 on 7 targets (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

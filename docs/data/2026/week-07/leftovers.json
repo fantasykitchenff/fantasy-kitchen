@@ -1,0 +1,285 @@
+{
+ "series": "leftovers",
+ "season": 2026,
+ "week": 7,
+ "title": "Leftovers, Week 7",
+ "dek": "Jordan Mason took Minnesota's backfield as Aaron Jones Sr. hurt his knee again, and Cam Skattebo ran for 124 a week after he barely played.",
+ "format": "PPR",
+ "publishedAt": "2026-10-26T11:40:00Z",
+ "updatedAt": "2026-10-26T11:40:00Z",
+ "author": "Chef Hazy",
+ "intro_md": "What's still good from Week 7, PPR scoring, every game from Thursday night through Sunday night. Dallas at Philadelphia plays Monday night and goes into Tuesday's Market Run, and Buffalo, Jacksonville, the Chargers and Washington were off. Jordan Mason took over in Minnesota as Aaron Jones Sr. hurt his knee again, Cam Skattebo ran for 124 a week after he barely played, Tony Pollard had all of Tennessee's carries, and Josh Jacobs came back to half the snaps. Ranks are rest of season for me; the Week 8 Menu comes Wednesday.",
+ "outro_md": "The misses, owned. Kenneth Walker III was RB4 for me; he ran 14 times for 36 and Kansas City never ran a play in the red zone at Seattle. Bryce Young was QB10 and a play; he threw 2 interceptions and was pulled. Chuba Hubbard was RB11; Tampa Bay was up 33-6 at halftime and he ran 7 times. Kendre Miller was RB26; he ran 8 times for 6. Cam Skattebo was RB36 and a sit; he ran for 124 and a TD. The lesson: a back's role is only as good as the score lets it be, and one week of snaps is not a trend for a back his coach still believes in. The Menu weighs the script and the coach's words from Wednesday on.",
+ "data": {
+  "takeaways": [
+   {
+    "headline": "Jordan Mason took Minnesota's backfield",
+    "text": "Jordan Mason (MIN) played 38 snaps to 15 for Aaron Jones Sr. (MIN) in the 16-10 win over IND, his first game off IR, and ran 15 times for 68. Jones ran 8 times for 26, then aggravated the MCL sprain in his left knee on a fourth-quarter option run and did not come back; Kevin O'Connell gave no timeline, and the MRI is Monday. Claim Mason, 10 to 20 percent of FAAB; he is RB33 rest of season for me and moves up if the MRI is bad. Monitor Jones; Wednesday's practice report decides Week 8.",
+    "actions": [
+     {
+      "player": "Jordan Mason",
+      "action": "CLAIM",
+      "faab": "10-20%"
+     },
+     {
+      "player": "Aaron Jones Sr.",
+      "action": "MONITOR",
+      "watch": "Monday's MRI and Wednesday's practice report"
+     }
+    ]
+   },
+   {
+    "headline": "Cam Skattebo is the Giants' lead back again",
+    "text": "Cam Skattebo (NYG) played 37 snaps, ran 17 times for 124 and a TD and set up the overtime winner with a 42-yard run in the 27-21 win at Houston, two weeks after he played 6 snaps. He felt his hamstring on that run and slid down on purpose; CBS lists him day to day, and the Giants are off in Week 8. Tyrone Tracy Jr. (NYG) played 10 snaps before a hamstring injury. Skattebo is RB23 rest of season for me; hold him through the bye. Drop Tracy for any add on the list.",
+    "actions": [
+     {
+      "player": "Cam Skattebo",
+      "action": "HOLD",
+      "why": "The hamstring is the only question; a missed practice in the Week 9 report is what would move him down."
+     },
+     {
+      "player": "Tyrone Tracy Jr.",
+      "action": "DROP"
+     }
+    ]
+   },
+   {
+    "headline": "Tony Pollard had the whole Titans backfield",
+    "text": "Tony Pollard (TEN) ran 25 times for 129 and 3 TDs and caught all 3 of his targets in the 27-24 loss to CLE, on 75 percent of the snaps, with Tyjae Spears and Nick Singleton both inactive. No other Titans back had more than 3 carries. That share depends on two backs being out, and Tennessee is 1-6. Pollard is RB30 rest of season for me; trade him away now and ask for an RB2.",
+    "actions": [
+     {
+      "player": "Tony Pollard",
+      "action": "TRADE_AWAY",
+      "price": "an RB2"
+     }
+    ]
+   },
+   {
+    "headline": "Josh Jacobs came back to about half the snaps",
+    "text": "Josh Jacobs (GB) played 35 snaps (52 percent) in his season debut, a 20-17 loss at DET. He ran 11 times for 36 with 3 red zone carries and caught 5 of 7 for 55 and a TD. MarShawn Lloyd (GB) played 24 snaps, and Pierre Strong Jr. (GB) played 8 with no touches. Jacobs is RB22 rest of season for me; hold him. Drop Strong for any add on the list.",
+    "actions": [
+     {
+      "player": "Josh Jacobs",
+      "action": "HOLD",
+      "why": "Half the snaps in his first game is a ramp; a second game under 50 percent is what would make him a sell."
+     },
+     {
+      "player": "Pierre Strong Jr.",
+      "action": "DROP"
+     }
+    ]
+   },
+   {
+    "headline": "Jonah Coleman led the Denver backs in his return",
+    "text": "Jonah Coleman (DEN) played 30 snaps (49 percent) off IR in the 30-16 win at ARI and ran 9 times for 54, with 2 catches for 15. RJ Harvey (DEN) played 16 snaps and scored on a 52-yard catch; J.K. Dobbins (DEN) played 14 and had the only carry inside the 5, a TD. Jaylen Waddle (DEN) hurt his chest on a late end-around and had X-rays at the stadium. Claim Coleman, 5 to 10 percent of FAAB. Harvey is RB31 rest of season for me; hold him. Monitor Waddle; Wednesday's practice report.",
+    "actions": [
+     {
+      "player": "Jonah Coleman",
+      "action": "CLAIM",
+      "faab": "5-10%"
+     },
+     {
+      "player": "RJ Harvey",
+      "action": "HOLD",
+      "why": "A second week under 30 percent of the snaps behind Coleman is what would make him a drop."
+     },
+     {
+      "player": "Jaylen Waddle",
+      "action": "MONITOR",
+      "watch": "the X-ray result and Wednesday's practice report"
+     }
+    ]
+   },
+   {
+    "headline": "Kaelon Black got San Francisco's goal-line work",
+    "text": "Christian McCaffrey (SF) hurt his thigh in the first quarter at ATL, came back for the third, and finished with 34 snaps, 7 carries for 39 and a TD and 6 catches for 61. Kaelon Black (SF) played 31 snaps, ran 12 times for 63 and a TD and had all 3 of the 49ers' carries inside the 5. San Francisco lost 29-20, its first loss, and is off in Week 8. McCaffrey said he expects to be fine; monitor the bye-week reports. Add Black as the handcuff, 2 to 5 percent of FAAB.",
+    "actions": [
+     {
+      "player": "Christian McCaffrey",
+      "action": "MONITOR",
+      "watch": "Kyle Shanahan's update this week and the Week 9 practice report"
+     },
+     {
+      "player": "Kaelon Black",
+      "action": "ADD",
+      "faab": "2-5%"
+     }
+    ]
+   },
+   {
+    "headline": "Bryce Young was pulled in a 43-13 loss",
+    "text": "Bryce Young (CAR) went 14 of 27 for 163 with a TD and 2 interceptions, was sacked 5 times and was pulled for Kenny Pickett early in the fourth quarter, down 43-6 to TB. Dave Canales gave no reason beyond the score. Tampa Bay ran 49 times for 258 and Baker Mayfield threw 11 passes in his return; Bucky Irving (TB) ran 24 times for 106 and 2 TDs. Young is QB12 rest of season for me; monitor Canales' word on the starter Wednesday. Irving is RB14 rest of season for me; hold him.",
+    "actions": [
+     {
+      "player": "Bryce Young",
+      "action": "MONITOR",
+      "watch": "Dave Canales' Wednesday press conference on the starter"
+     },
+     {
+      "player": "Bucky Irving",
+      "action": "HOLD",
+      "why": "24 carries on 59 percent of the snaps is the lead role; Kenny Gainwell's 14 carries came in a blowout, and a second week like that is what would cut him."
+     }
+    ]
+   }
+  ],
+  "usage": [
+   {
+    "player": "Colston Loveland",
+    "team": "CHI",
+    "pos": "TE",
+    "stat": "84% snaps, 12 targets, 7 catches for 69 and a TD",
+    "read": "Led the Bears in targets in the 30-24 win over NE Thursday, and Cole Kmet's knee injury is season-ending. The tight end work is his alone.",
+    "action": "START",
+    "slot": "TE1"
+   },
+   {
+    "player": "Rhamondre Stevenson",
+    "team": "NE",
+    "pos": "RB",
+    "stat": "69% snaps, 6 carries for 22, 5 catches for 93 and a TD",
+    "read": "TreVeyon Henderson played a season-low 13 snaps at CHI, and Mike Vrabel said he wanted Corey Kiner to get carries too. Stevenson is RB24 rest of season for me.",
+    "action": "HOLD",
+    "why": "He played over two thirds of the snaps; Henderson back over 40 percent of them is what would make it a split."
+   },
+   {
+    "player": "Woody Marks",
+    "team": "HOU",
+    "pos": "RB",
+    "stat": "54 of 61 snaps, 19 carries for 66, 2 carries inside the 10",
+    "read": "The only Houston back with a touch in the 27-21 overtime loss to NYG. Houston is off in Week 8 and David Montgomery's groin should be healed after it. RB32 rest of season for me.",
+    "action": "HOLD",
+    "why": "Montgomery's return to practice after the bye is what puts him back on the bench."
+   },
+   {
+    "player": "Jaylen Warren",
+    "team": "PIT",
+    "pos": "RB",
+    "stat": "40 snaps, 18 carries for 101, 3 catches for 36",
+    "read": "Out-snapped Rico Dowdle 40 to 28 in the 16-10 win over NO in Paris; Dowdle caught all 6 of his targets, often from the slot. RB16 rest of season for me.",
+    "action": "HOLD",
+    "why": "He had two thirds of the back carries for a second straight week; Dowdle's carries matching his would reopen the sell."
+   },
+   {
+    "player": "Alvin Kamara",
+    "team": "NO",
+    "pos": "RB",
+    "stat": "32 snaps, 6 carries for 5, 7 catches for 57",
+    "read": "Out-snapped Kendre Miller 32 to 22 vs PIT through a back injury; the Saints ran 17 times for 18 yards, and CJ Donaldson left with a shoulder injury. RB41 rest of season for me.",
+    "action": "HOLD",
+    "why": "Seven catches is the floor; Miller back over 30 snaps is what would cut it."
+   },
+   {
+    "player": "Braelon Allen",
+    "team": "NYJ",
+    "pos": "RB",
+    "stat": "78% snaps, 17 carries for 104, 6 catches for 30",
+    "read": "Breece Hall sat with the quad for a fourth game in the 28-25 loss to MIA, and Allen had every carry but two. RB42 rest of season for me.",
+    "action": "HOLD",
+    "why": "Hall's Wednesday practice report decides it; Hall active cuts Allen to a split."
+   },
+   {
+    "player": "Ollie Gordon II",
+    "team": "MIA",
+    "pos": "RB",
+    "stat": "83% snaps, 25 carries for 103 and a TD",
+    "read": "Miami's first win came on the ground, and Jaylen Wright played 8 snaps before a quad injury. RB45 rest of season for me.",
+    "action": "ADD",
+    "faab": "2-5%"
+   },
+   {
+    "player": "Quinshon Judkins",
+    "team": "CLE",
+    "pos": "RB",
+    "stat": "53% snaps, 17 carries for 96 and 2 TDs",
+    "read": "Dylan Sampson played 32 snaps in his first game since Week 1, with 6 carries for 45 and 3 catches for 32, in the 27-24 win at Tennessee. RB20 rest of season for me.",
+    "action": "HOLD",
+    "why": "Both TDs were his; Sampson over 45 percent of the snaps for a second week is what would move him down."
+   },
+   {
+    "player": "KC Concepcion Jr.",
+    "team": "CLE",
+    "pos": "WR",
+    "stat": "79% snaps, 10 targets, 8 catches for 129, 3 carries for 23",
+    "read": "The most targets on the Browns at Tennessee, and Deshaun Watson threw for 308. WR40 rest of season for me.",
+    "action": "ADD",
+    "faab": "3-6%"
+   },
+   {
+    "player": "Blake Corum",
+    "team": "LAR",
+    "pos": "RB",
+    "stat": "44% snaps, 17 carries for 93 and a TD, 6 red zone carries",
+    "read": "Out-carried Kyren Williams 17 to 16 in the 35-21 win at LV and scored for a third straight week. RB29 rest of season for me.",
+    "action": "HOLD",
+    "why": "He is the handcuff with a weekly role; a game over half the snaps would make him a flex play."
+   },
+   {
+    "player": "Ashton Jeanty",
+    "team": "LV",
+    "pos": "RB",
+    "stat": "72% snaps, 8 carries for 15, 8 catches for 61 and a TD",
+    "read": "Mike Washington Jr. played 18 snaps; Jeanty's snap share came back up from 58 percent with Las Vegas behind all game. RB11 rest of season for me.",
+    "action": "HOLD",
+    "why": "The catches carried him; Washington back near half the early downs is what would make him a sell."
+   },
+   {
+    "player": "Emanuel Wilson",
+    "team": "SEA",
+    "pos": "RB",
+    "stat": "48% snaps, 24 carries for 100 and a TD",
+    "read": "Carried Seattle in the 20-3 win over KC on Sunday night with Zach Charbonnet inactive; George Holani played 25 snaps. Charbonnet is eyed for Week 8, and Wilson's share goes with him. RB54 rest of season for me. Trade him away while the 100 yards are fresh; ask for a bench receiver.",
+    "action": "TRADE_AWAY",
+    "price": "a bench receiver"
+   }
+  ],
+  "overreactions": [
+   {
+    "take": "Jahmyr Gibbs is a true workhorse now",
+    "verdict": "buy",
+    "why": "61 snaps, 90 percent, a season high, with 29 carries for 116 and 5 catches at DET. He lost a fumble and was stopped on a fourth down at the goal line, so the box score undersells the role. The No. 1 back rest of season for me. Hold him; only an injury changes it.",
+    "player": "Jahmyr Gibbs",
+    "action": "HOLD"
+   },
+   {
+    "take": "Matthew Golden is Green Bay's top target",
+    "verdict": "buy",
+    "why": "12 targets and 165 air yards at DET, on 85 percent of the snaps, while Jordan Love threw 45 times. He caught 6 for 39, so the price is still low. WR25 rest of season for me. Trade for him; offer a WR3.",
+    "player": "Matthew Golden",
+    "action": "TRADE_FOR",
+    "price": "a WR3"
+   },
+   {
+    "take": "Tee Higgins is a WR1 again",
+    "verdict": "sell",
+    "why": "6 catches for 148 and a TD at BAL came on 7 targets, the same as Ja'Marr Chase, and both played 46 snaps. Joe Burrow threw 30 times. That is efficiency, not a bigger share. WR16 rest of season for me. Trade him away; ask for a WR1.",
+    "player": "Tee Higgins",
+    "action": "TRADE_AWAY",
+    "price": "a WR1, or a WR2 and an RB2"
+   },
+   {
+    "take": "Blake Corum is taking Kyren Williams' job",
+    "verdict": "sell",
+    "why": "Williams played 37 snaps to Corum's 32 and ran 16 times for 99 and a TD. The Rams led 28-6 at halftime, and Corum's carries came with the game in hand. RB10 rest of season for me; hold Williams.",
+    "player": "Kyren Williams",
+    "action": "HOLD"
+   },
+   {
+    "take": "Bryce Young is getting benched",
+    "verdict": "sell",
+    "why": "He was pulled early in the fourth quarter down 43-6, and Dave Canales gave no reason beyond the score. 11 TD passes through five games came before this. QB12 rest of season for me; monitor Wednesday's press conference.",
+    "player": "Bryce Young",
+    "action": "MONITOR",
+    "watch": "Dave Canales' Wednesday press conference"
+   }
+  ]
+ },
+ "posts": [
+  {
+   "id": "2026w07-leftovers-thread-a6ed",
+   "kind": "thread",
+   "status": "queued",
+   "url": null
+  }
+ ]
+}

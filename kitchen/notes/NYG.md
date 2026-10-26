@@ -93,6 +93,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Cam Skattebo: 6 snaps and no touches vs NO, the first active game of his career without one, a week after his fourth lost fumble; he said 'I got punished for what I did (last week)'; Harbaugh said it was 'not by design', denied a benching, said no runs were called while Skattebo was in and that someone 'needs to step up and be the back'; Tyrone Tracy Jr. 6 for 18 and a TD plus 2 for 27 and a TD, Najee Harris 4 for 2, Devin Singletary 4 for 14 and 1 for 19. [pod 10-19, coach]
 - 2026-10-20: Week 6 vs NO snap shares: Devin Singletary 40%, Tyrone Tracy Jr. 38%, Cam Skattebo 6 snaps; Tracy 4% rostered Tuesday (Yahoo waiver column).
 - 2026-10-18: Snap shares vs NO: Devin Singletary 40 percent, Tyrone Tracy Jr. 36 to 38 percent, Cam Skattebo 8 percent (6 snaps, 0 touches); J.J. McCarthy led the team with 26 rushing yards. [pod 10-20, deployment]
+- 2026-10-26: Week 7 at HOU (27-21 OT win): Cam Skattebo 37 snaps (56%), 17-124-1 with a 42-yard OT run, felt the hamstring, day to day; Devin Singletary 19 snaps, 5-41-1; Tyrone Tracy Jr. 10 snaps, hamstring. J.J. McCarthy 20 of 27 for 252 in his first start; Malik Nabers 7-111 on 9 targets; Week 8 bye (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

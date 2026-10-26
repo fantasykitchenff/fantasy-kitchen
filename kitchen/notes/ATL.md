@@ -63,6 +63,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-24: Bijan Robinson: 29 carries for 194 yards and 2 TD plus 2 catches for 19 on about 72% of the snaps, with all five carries inside the 5. Brian Robinson: 10 for 50 and a 7-yard TD on about 27% of the snaps. Snap shares by week: Bijan 77%, 51%, 72%; Brian 25%, 48%, 27%. [pod 9-29, deployment]
 - 2026-10-06: Week 4 @NO (Monday night, 45-24 win): Bijan Robinson 145 rushing yards and 2 TD; Brian Robinson Jr. 62 yards and 3 short TDs; five rushing TDs ties the team record (Audacy, NBC Sports, Yahoo).
 - 2026-10-19: Bijan Robinson: 9 carries for 61, 2 catches for -8 in Week 6 vs CHI, not injured; CHI held the ball about 40 minutes and ran 73 plays to 50 (CBS box score, Yahoo Sports).
+- 2026-10-26: Week 7 vs SF: Bijan Robinson 55 snaps (81%), 20-63, 5-59; Drake London 7-66-1 on 10 targets; Michael Penix Jr. 25 of 34 for 213, 3 TD (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

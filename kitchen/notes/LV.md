@@ -94,6 +94,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Ashton Jeanty: 58% of snaps (53% Week 5, 76% Weeks 1 to 4), 10 for 22 and a TD vs BUF; Mike Washington Jr. 9 for 43 and half the early-down snaps. Jeanty's rushing by game: 102, 48, 56, 58, 27, 22; 3 TDs total. [pod 10-19, deployment]
 - 2026-10-18: Ashton Jeanty played 57 percent of the snaps vs BUF and Mike Washington Jr. about 33 percent (a second count; the first had Jeanty at 58). [pod 10-19, deployment]
 - 2026-10-20: Mike Washington Jr.: season-high 35% of snaps and 10 touches for 50 scrimmage yards vs BUF; 30% rostered Tuesday. Michael Mayer 8% and Tre Tucker 45% rostered (Yahoo waiver column).
+- 2026-10-26: Week 7 vs LAR: Ashton Jeanty 49 snaps (72%), 8-15, 8-61-1 on 8 targets; Mike Washington Jr. 18 snaps, 6-27; Tre Tucker 12 targets, 5-103-1 (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

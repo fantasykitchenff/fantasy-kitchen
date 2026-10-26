@@ -62,6 +62,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Tony Pollard: season-high 19 carries for 76 in Week 6 @IND; Tyjae Spears 1 carry (team box score).
 - 2026-10-18: Tony Pollard: carries 17, 16, 14 and 19 in Weeks 3 to 6 with 1 rushing TD (Week 4); Week 6 19 for 76 on 1 target, Tyjae Spears 1 carry and 1 catch. [pod 10-19, deployment]
 - 2026-10-18: Tony Pollard played 76.1 percent of the snaps with 19 carries; Tyjae Spears had 1 carry, reversing Week 5. [pod 10-20, deployment]
+- 2026-10-26: Week 7 vs CLE: Tony Pollard 47 snaps (75%), 25-129-3, 3-26, with Spears and Singleton inactive; Carnell Tate 56 snaps, 5-69 on 7 targets; Cam Ward 20 of 31 for 181 (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

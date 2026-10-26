@@ -78,6 +78,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Week 6 @DEN (14-17 OT L): George Holani 49 snaps (58%), 5 for 20 and a TD; Emanuel Wilson 27 snaps (32%), 14 for 52 (LeagueLogs, team box score).
 - 2026-10-19: Mike Macdonald said there is a good chance Zach Charbonnet plays Week 7 vs KC. [pod 10-20, coach]
 - 2026-10-18: George Holani out-snapped Emanuel Wilson 46 to 27 and scored; Wilson ran 14 times for 52. [pod 10-20, deployment]
+- 2026-10-26: Week 7 vs KC: Emanuel Wilson 33 snaps (48%), 24-100-1 with Zach Charbonnet inactive; George Holani 25 snaps; Jaxon Smith-Njigba 9-150-1 on 12 targets; Rashid Shaheed knee injury, ruled out (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

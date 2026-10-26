@@ -86,6 +86,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Kendre Miller: 20 carries for 70 and 32 snaps, most of the Saints backs, in Week 6 @NYG (34-27 W); Alvin Kamara 19 snaps, 7 for 34, 31-yard TD catch, left in Q2 with the back and sat the 4th quarter; CJ Donaldson 24 snaps on third downs (team box score, DraftSharks).
 - 2026-10-20: Kendre Miller 34% rostered Tuesday; Travis Etienne Jr. on IR until after Week 8 (Yahoo waiver column).
 - 2026-10-18: Kendre Miller 20 carries for 70 (57 percent of the rushes) with Travis Etienne Jr. on IR; Alvin Kamara 7 for 34 plus a 31-yard receiving TD; CJ Donaldson scored at the goal line; back snaps 46, 32 and 27. [pod 10-20, deployment]
+- 2026-10-26: Week 7 vs PIT: Alvin Kamara 32 snaps (56%), 6-5, 7-57; Kendre Miller 22 snaps (39%), 8-6, 3-22; CJ Donaldson out with a shoulder injury after 4 snaps; team 17 carries for 18 (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

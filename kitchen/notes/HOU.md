@@ -67,6 +67,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Week 6 @JAX (34-31 W, London): Woody Marks 15 for 56 and 2 for 25; Jawhar Jordan 6 for 43 and a TD; David Montgomery did not travel and may miss Week 7 (CBS box score, Fox 26).
 - 2026-10-18: Woody Marks played 78 percent of the snaps @JAX with David Montgomery inactive. [pod 10-19, deployment]
 - 2026-10-18: Woody Marks played every snap inside the 5 and ran a route on 69 percent of dropbacks; Jawhar Jordan ran 6 times for 43 with a 25-yard TD. [pod 10-20, deployment]
+- 2026-10-26: Week 7 vs NYG: Woody Marks 54 of 61 snaps, 19-66, the only HOU back with a touch; Tank Dell 14 snaps, 1-43 in his return; Marvin Harrison Jr. 13 snaps, 1-6-1; Jaylin Noel turf toe, walking boot; C.J. Stroud 17 of 28 for 153, 2 TD (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

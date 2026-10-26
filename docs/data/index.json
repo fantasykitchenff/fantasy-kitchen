@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 7,
-  "updatedAt": "2026-10-25T23:15:19Z",
+  "updatedAt": "2026-10-26T11:36:27Z",
   "pieces": [
+    {
+      "series": "leftovers",
+      "week": 7,
+      "path": "2026/week-07/leftovers.json",
+      "title": "Leftovers, Week 7",
+      "dek": "Jordan Mason took Minnesota's backfield as Aaron Jones Sr. hurt his knee again, and Cam Skattebo ran for 124 a week after he barely played.",
+      "publishedAt": "2026-10-26T11:40:00Z",
+      "updatedAt": "2026-10-26T11:40:00Z"
+    },
     {
       "series": "notes",
       "week": 7,

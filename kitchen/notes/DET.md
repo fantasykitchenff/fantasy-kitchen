@@ -47,6 +47,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Jahmyr Gibbs: 20 carries for 99 yards and 2 TD plus 7 catches for 65 and a TD vs NYJ (164 scrimmage yards); through three games he has 300+ rushing yards, 4 rushing TD, 150+ receiving yards and 2 receiving TD. Sione Vaki 6 for 26. [pod 9-29, deployment]
 - 2026-10-11: Jahmyr Gibbs: 25 carries for 151 and 2 TDs, 5 catches for 56 @ARI (Fox box).
 - 2026-10-11: Jahmyr Gibbs 25 carries for 151 and 2 TDs, 5 catches for 56 vs ARI; Jameson Williams 2 catches on 4 targets for 47 and 2 TDs. [pod 10-14, deployment]
+- 2026-10-26: Week 7 vs GB: Jahmyr Gibbs 61 snaps (90%, a season high), 29-116, 5-27, lost fumble, stopped on a fourth down at the goal line; Jameson Williams 5-91-2 on 9 targets; Amon-Ra St. Brown 9-153 on 11 targets (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

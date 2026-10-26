@@ -74,6 +74,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Week 6 vs DAL: Pierre Strong Jr. 41 snaps (56%), 11 for 28, 5 of 6 for 39; MarShawn Lloyd 30 snaps, 8 for 10; Josh Jacobs expected off the commissioner exempt list Monday Oct 19 (Acme Packing Company snaps, Boston Globe, NBC Sports).
 - 2026-10-19: Matt LaFleur would not commit to Josh Jacobs playing Week 7 @DET, though Jacobs is off the exempt list and eligible. [pod 10-20, coach]
 - 2026-10-18: MarShawn Lloyd went to the medical tent and returned, 8 carries for 10; Pierre Strong Jr. ran 11 for 28 and caught 5 of 6 for 40. [pod 10-20, deployment]
+- 2026-10-26: Week 7 at DET (17-20 loss): Josh Jacobs 35 snaps (52%), 11-36, 3 red zone carries, 5-55-1; MarShawn Lloyd 24 snaps, 6-20; Pierre Strong Jr. 8 snaps, no touches; Matthew Golden 57 snaps, 12 targets, 165 air yards, 6-39; Jordan Love 45 attempts (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

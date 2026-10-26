@@ -158,6 +158,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Trey McBride: 7 of 12 for 31 at NYG, his fourth straight game with 10 or more targets. [pod 10-5, deployment]
 - 2026-10-06: Trey McBride: 46 targets in four games, 10 or more in every game, 2 TD (season totals from weekly reports).
 - 2026-10-11: Wk5 vs DET: Teagan Quitoriano 2 of 2 for 15 and 2 TDs; Elijah Higgins 3 of 3 for 57; Trey McBride 9 of 10 for 66 and a TD. [pod 10-13, deployment]
+- 2026-10-26: Week 7 vs DEN: Trey McBride 75 snaps (93%), 13 targets, 10-111-1; Bam Knight 43 snaps, 7-48; Tyler Allgeier 38 snaps, 8-19; Michael Wilson 8 targets, 4-55, 3 targets inside the 5 (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Offensive line
 

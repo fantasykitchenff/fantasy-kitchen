@@ -69,6 +69,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-08: Bucky Irving 21 carries for 165 and a TD plus 2 catches for 10 and a TD @DAL; both TDs came inside the 5. Emeka Egbuka 6 of 9 for 38 plus a 14-yard jet-sweep TD. [pod 10-14, deployment]
 - 2026-10-19: Bucky Irving: 19 carries for 46 in Week 6 vs PIT, Kenny Gainwell 2 carries, Sean Tucker out (quad) (team box score, NBC Sports).
 - 2026-10-18: Bucky Irving 19 carries on about 85 percent of the snaps, every snap inside the 5; Kenny Gainwell 2 for 17. [pod 10-20, deployment]
+- 2026-10-26: Week 7 at CAR (43-13 win): Bucky Irving 37 snaps (59%), 24-106-2; Kenny Gainwell 14-88; team 49 carries for 258; Baker Mayfield 7 of 11 for 64 and a TD in his return (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

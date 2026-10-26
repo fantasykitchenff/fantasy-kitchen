@@ -158,6 +158,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Colston Loveland: 6 of 7 for 65 and a TD in Week 6 @ATL (CBS box score).
 - 2026-10-18: Colston Loveland: 6 of 7 for 65 and a 14-yd TD from Caleb Williams on the opening drive @ATL. [pod 10-19, official]
 - 2026-10-18: Colston Loveland ran 33 routes (78 percent) with 7 targets and 3 red-zone targets. [pod 10-20, deployment]
+- 2026-10-26: Week 7 vs NE (Thursday, 30-24 win): Colston Loveland 58 snaps (84%), 12 targets, 7-69-1; Luther Burden III 42 snaps (61%), 4-130-1; D'Andre Swift 59 snaps (86%), 22-78-1 (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Offensive line
 

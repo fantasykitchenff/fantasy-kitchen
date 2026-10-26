@@ -98,6 +98,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Rashod Bateman: 56 of 64 snaps (88%) vs DAL; Chris Moore 35, Devontez Walker 17, LaJohntay Wester 11. [pod 9-29, deployment]
 - 2026-10-19: Week 6 @CLE: Ja'Kobi Lane active off IR, 5 targets, 4 for 40; Rashod Bateman left in Q2 with a shoulder injury; Zay Flowers 11 targets, 6 for 66 (CBS box score, NBC Sports).
 - 2026-10-18: Ja'Kobi Lane, back from IR, caught 4 of 5 targets for 40 on 58 percent of the routes; rookie TE Josh Cuevas scored a 2-yard TD with Matthew Hibner out. [pod 10-20, deployment]
+- 2026-10-26: Week 7 vs CIN: Zay Flowers 57 snaps (85%), 8-137-1 on 11 targets; Derrick Henry 34 snaps (51%), 17-45; Justice Hill 31 snaps; Tyler Huntley 23 of 34 for 298 (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Tight ends
 

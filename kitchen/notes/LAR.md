@@ -53,6 +53,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Kyren Williams: season-low 13 touches (10 for 50, 3 for 17) in Week 6 vs ARI; Blake Corum 9 for 42 and a 15-yard TD catch, his second straight game with a TD (team box score, Rotowire).
 - 2026-10-18: Kyren Williams: 72% of snaps to Blake Corum's 28% vs ARI; 10 of the 19 RB carries (10 for 50) plus 3 of 6 targets for 17, a season-low 13 touches; Corum 9 for 42 and a receiving TD, second straight game with a score. [pod 10-19, official]
 - 2026-10-18: Kyren Williams: 40 snaps to Blake Corum's 16 and 10 of the 19 back carries in the 18-16 loss to ARI; afterward he said the losses come because he is not on the field enough. [pod 10-20, deployment]
+- 2026-10-26: Week 7 at LV (35-21 win): Kyren Williams 37 snaps (51%), 16-99-1; Blake Corum 32 snaps (44%), 17-93-1, 6 red zone carries; Puka Nacua 61 snaps through the calf, 8-68-1 on 10 targets; Davis Allen 2 TDs; 13 personnel on a season-high 35 plays (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Receivers
 

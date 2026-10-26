@@ -80,6 +80,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Tee Higgins: The Bengals kept Higgins, so Burrow again has Chase and Higgins; the offensive line is expected to be improved. [8-24 QB Rankings]
 - 2026-09-23: Andrei Iosivas placed on IR (fractured thumb, Week 2). [pod 9-28, official]
 - 2026-10-04: Dohnte Meyers: 7 catches for 82 vs JAX after Ja'Marr Chase left with a concussion in the second quarter. [pod 10-5, deployment]
+- 2026-10-26: Week 7 at BAL (35-13 win): Tee Higgins 46 snaps, 6-148-1 on 7 targets; Ja'Marr Chase 46 snaps, 5-62-1 on 7 targets; Joe Burrow 22 of 30 for 292, 4 TD; Erick All Jr. right knee injury, out, no MRI result yet; Chase Brown 11-39, 4-19 (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
 
 ## Tight ends
 
