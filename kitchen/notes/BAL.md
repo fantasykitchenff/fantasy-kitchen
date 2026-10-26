@@ -188,3 +188,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Zay Flowers (hamstring, questionable) and Ronnie Stanley (toe, questionable) active vs TEN; inactives Hendrickson, Chris Moore, Peebles, Fagnano (Baltimore Beat).
 - 2026-10-09: Lamar Jackson: ruled out @ATL (ankle), DNP all week; Tyler Huntley starts. Zay Flowers questionable (foot), LP all week; Mark Andrews FP all week, no designation (Friday report, baltimoreravens.com).
 - 2026-10-21: Lamar Jackson (ankle): limited Wednesday, first practice since the Week 4 sprain; Jesse Minter called it day by day; Tyler Huntley starts vs CIN if he sits. Bateman (shoulder) limited. [NFL.com Wednesday roundup, Yahoo Sports]
+- 2026-10-26: Lamar Jackson (high ankle sprain): Jesse Minter said he is 'working his butt off' and expects him in 'a decent spot' for Week 8; more known Wednesday (NFL.com).

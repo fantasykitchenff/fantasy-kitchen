@@ -138,3 +138,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 ## Injuries and status
 - 2026-10-24: George Pickens (shoulder) limited Thursday, full Friday and off the final report for Monday at PHI; KaVontae Turpin (ribs) and T Drew Shelton (hamstring) out (philadelphiaeagles.com joint report).
+- 2026-10-26: MNF at PHI inactives: KaVontae Turpin, Drew Shelton, Dee Winters out (NBC Sports Philadelphia).

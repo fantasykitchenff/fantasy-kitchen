@@ -167,3 +167,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: Zach Charbonnet: 58% rostered Tuesday of Week 6; limited Monday, still on PUP, not expected Thursday @DEN (nfl.com).
 - 2026-10-14: Jaxon Smith-Njigba full practice Wednesday (ankle), no designation for Thursday @DEN; Zach Charbonnet ruled out, still on PUP (seahawks.com Wednesday report).
 - 2026-10-15: Week 6 @DEN inactives: RB Robert Henry, WR Montorie Foster Jr., QB Jalen Milroe (emergency third); active backs Emanuel Wilson, George Holani, Velus Jones Jr. [heavy.com, team announcement]
+- 2026-10-26: Rashid Shaheed (knee) left the Week 7 win over KC; Mike Macdonald said early returns are positive. LT Charles Cross high ankle sprain, hoped 1 to 2 weeks. Jadarian Price (chest, IR since Oct 3) practice window opens this week. WR Montorie Foster Jr. waived (NFL.com, Yahoo Sports).

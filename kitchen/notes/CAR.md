@@ -176,3 +176,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Coaching and play-calling
 
 - 2026-02-24: Offensive coordinator Brad Idzik calls the offensive plays; Dave Canales handed them over before the season. [pod 10-20, official]
+- 2026-10-26: Monday estimated report for Thursday at GB: Bryce Young (knee) full, Jalen Coker (shoulder) limited (NFL.com).

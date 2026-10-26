@@ -196,3 +196,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Schedule: KC at home in Week 4, then @NE, BUF, LAR, @NYJ, @SF, SEA, @DEN, @CLE, with the bye in Week 13. [pod 9-29, official]
 - 2026-10-09: Ashton Jeanty questionable (ankle, foot), FP/LP/DNP; Jalen Nailor out (concussion); Brock Bowers no designation (raiders.com Friday report).
 - 2026-10-11: Ashton Jeanty active Week 5 at NE (ankle, foot) (nfl.com Sunday pregame)
+- 2026-10-26: Klint Kubiak: Kirk Cousins stays the starter for Week 8 vs NYJ after a fourth straight loss (3-4); Fernando Mendoza expected to play 'at some point'. Jack Bech (forearm) designated to return from IR (NFL.com, Yahoo Sports).

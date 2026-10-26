@@ -169,3 +169,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Week 6 @ARI: K Blake Grupe, signed this week to replace Harrison Mevis, hurt his knee in the first quarter, doubtful to return (nfl.com).
 - 2026-10-18: Rams: lost 18-16 to ARI at SoFi on Chad Ryland's 43-yd FG at the gun; Rams 2 of 4 in the red zone, both TDs passing (Parkinson 6-yd with 0:47 left, failed two-point try). [pod 10-19, official]
 - 2026-10-25: Puka Nacua (calf) questionable; Rams optimistic he plays at LV barring a setback, per ESPN (Yahoo Sports, CBS Sports).
+- 2026-10-26: Sean McVay did not know whether the Rams open Terrance Ferguson's IR practice window this week (Yahoo Sports).

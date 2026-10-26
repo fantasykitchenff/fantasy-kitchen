@@ -227,3 +227,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: Dameon Pierce: 2% rostered Tuesday of Week 6; 11 carries for 14 in London (NFL.com waiver column, box score).
 - 2026-10-14: Saquon Barkley (hamstring) and DeVonta Smith (hamstring) did not practice Wednesday; Smith did individual work, Barkley not seen (nfl.com, Tim McManus via Yahoo Sports).
 - 2026-10-22: Saquon Barkley (hamstring) expected to return to practice Thursday and in line to play Monday vs DAL, per NFL Network's Mike Garafolo (NFL.com roundup).
+- 2026-10-26: MNF vs DAL inactives: Saquon Barkley (hamstring) active after two missed games; DeVonta Smith, Dontayvion Wicks, Nolan Smith, Michael Carter II out; Eli Stowers and Grant Calcaterra activated off IR; Elijah Mitchell elevated (NFL.com, NBC Sports Philadelphia).
