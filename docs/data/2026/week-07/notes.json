@@ -6,12 +6,32 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-20T16:10:00Z",
-  "updatedAt": "2026-10-25T23:20:00Z",
+  "updatedAt": "2026-10-26T16:20:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-26T16:15:00Z",
+        "team": "MIN",
+        "player": "Aaron Jones Sr.",
+        "action": "MONITOR",
+        "watch": "Minnesota's Wednesday practice report",
+        "text": "Aaron Jones Sr. (MIN) is day-to-day with the knee, and Adam Schefter reported it is not considered significant; Monday's MRI decides Week 8 at DET. He played 15 snaps behind Jordan Mason before he left, so Mason is the lead back either way. RB27 rest of season for me. Monitor Minnesota's Wednesday practice report.",
+        "url": "https://www.cbssports.com/fantasy/football/news/vikings-aaron-jones-avoids-significant-knee-injury",
+        "pos": "RB"
+      },
+      {
+        "at": "2026-10-26T16:15:00Z",
+        "team": "NYG",
+        "player": "Cam Skattebo",
+        "action": "HOLD",
+        "why": "A setback in practice before Week 9 vs PHI would change the call.",
+        "text": "Cam Skattebo (NYG) avoided a hamstring strain, per Dan Duggan, after 17 carries for 124 yards and a TD at HOU, and the Giants are on bye in Week 8. RB23 rest of season for me. Hold him; only a setback in practice before Week 9 vs PHI would change that.",
+        "url": "https://sports.yahoo.com/articles/report-york-giants-rb-cam-145037033.html",
+        "pos": "RB"
+      },
       {
         "at": "2026-10-25T23:20:00Z",
         "player": "Zach Charbonnet",
@@ -35,31 +55,11 @@
       {
         "at": "2026-10-25T22:15:00Z",
         "team": "MIN",
-        "player": "Aaron Jones Sr.",
-        "action": "MONITOR",
-        "watch": "Minnesota's Wednesday practice report",
-        "text": "Aaron Jones Sr. (MIN) left the 16-10 win over IND with his left knee and did not return; Kevin O'Connell said he aggravated the MCL sprain he had played through. He had 8 carries for 26 yards. RB27 rest of season for me. Monitor Minnesota's Wednesday practice report before Week 8 at DET.",
-        "url": "https://www.cbssports.com/fantasy/football/news/vikings-aaron-jones-aggravates-previous-knee-injury/",
-        "pos": "RB"
-      },
-      {
-        "at": "2026-10-25T22:15:00Z",
-        "team": "MIN",
         "player": "Jordan Mason",
         "action": "CLAIM",
         "faab": "10-20%",
         "text": "Jordan Mason (MIN) led the Vikings with 15 carries for 68 yards in his first game off IR, and Aaron Jones Sr. left with the knee. RB33 rest of season for me, and the lead back at DET if Jones sits. Claim him if he is on your wire, 10 to 20 percent of FAAB.",
         "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-25/aaron-jones-knee-exits-early-vs-colts",
-        "pos": "RB"
-      },
-      {
-        "at": "2026-10-25T22:15:00Z",
-        "team": "NYG",
-        "player": "Cam Skattebo",
-        "action": "HOLD",
-        "why": "A hamstring diagnosis that costs him games after the bye would change the call.",
-        "text": "Cam Skattebo (NYG) ran 17 times for 124 yards and a TD at HOU, a week after 6 snaps and no touches, and his 42-yard run in overtime set up the winning score. He felt his hamstring on that run, and the Giants are on bye in Week 8. RB23 rest of season for me. Hold him; a diagnosis that costs him games after the bye would change that.",
-        "url": "https://www.nfl.com/news/notable-injuries-news-sunday-week-7-games-2026",
         "pos": "RB"
       },
       {
