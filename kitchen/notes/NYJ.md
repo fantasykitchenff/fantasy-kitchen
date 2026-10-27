@@ -99,6 +99,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Garrett Wilson: 30.0% target share through Week 5, 37.9% in Week 5. [pod 10-14, deployment]
 - 2026-10-20: Omar Cooper Jr. 5% rostered Tuesday (Yahoo waiver column).
 - 2026-10-18: Omar Cooper Jr. played 51 of 62 snaps (82 percent) and ran 28 of 33 routes with a team-high 24 percent of the targets in his first game off IR. [pod 10-20, deployment]
+- 2026-10-27: Garrett Wilson: target share 38%, 21%, 10% in Weeks 5 to 7 with Omar Cooper Jr. back (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Tight ends
 

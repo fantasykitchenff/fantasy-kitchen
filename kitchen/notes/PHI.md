@@ -130,6 +130,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs LAR snaps: Dontayvion Wicks 56 (92%), Darius Cooper 55 (90%), Makai Lemon 45 (74%); Cooper 3 for 33 and 2 TD on a team-high 7 targets; TE Johnny Mundt 49 snaps (80%) (Yahoo snap counts, CBS).
 - 2026-10-19: DeVonta Smith: 14 targets, 7 for 75 and a TD with Tanner McKee starting in Week 6 vs CAR (CBS box score).
 - 2026-10-18: Makai Lemon: 3 catches for 19 on 6 targets vs CAR in Tanner McKee's first start. [pod 10-19, deployment]
+- 2026-10-27: Makai Lemon: snap share 70%, 74%, 81%, 81%, 91% in Weeks 3 to 7; 7-67-1 on 8 targets vs DAL (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Tight ends
 

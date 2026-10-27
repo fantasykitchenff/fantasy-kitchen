@@ -1,8 +1,26 @@
 {
   "season": 2026,
   "currentWeek": 8,
-  "updatedAt": "2026-10-27T16:30:07Z",
+  "updatedAt": "2026-10-27T17:03:12Z",
   "pieces": [
+    {
+      "series": "butcher",
+      "week": 8,
+      "path": "2026/week-08/butcher.json",
+      "title": "Butcher Shop, Week 8",
+      "dek": "Kenneth Walker III ran for 36 yards on his usual snaps. That is the prime cut to buy this week.",
+      "publishedAt": "2026-10-27T17:01:00Z",
+      "updatedAt": "2026-10-27T17:01:00Z"
+    },
+    {
+      "series": "heat",
+      "week": 8,
+      "path": "2026/week-08/heat.json",
+      "title": "Heat Check, Week 8",
+      "dek": "Colston Loveland's targets went 5, 7, 12. The stove's on in Chicago.",
+      "publishedAt": "2026-10-27T17:01:00Z",
+      "updatedAt": "2026-10-27T17:01:00Z"
+    },
     {
       "series": "notes",
       "week": 8,

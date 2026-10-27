@@ -116,6 +116,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Tre Tucker: By all accounts has won the Raiders' No. 1 receiver job; he rested with the starters in the preseason game while Jalen Nailor played. [8-26 rankings and news updates]
 - 2026-09-27: Tre Tucker / Jalen Nailor / Jack Bech: Receiver snaps at NO: Tucker 40 (57%), Nailor 40 (57%), Bech 11 before the forearm injury in the second quarter; Tucker 4 targets. [pod 9-30, deployment]
 - 2026-10-19: Tre Tucker: 7 targets, 5 for 97 and 2 TDs in Week 6 vs BUF; Michael Mayer 7 for 95 on 9 targets; Brock Bowers 4 for 70 on 9, no first-half targets (CBS box score, buffalobills.com).
+- 2026-10-27: Tre Tucker: targets 5, 7, 12 in Weeks 5 to 7, share 14% to 18% to 28%, 82% snaps vs LAR (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Tight ends
 

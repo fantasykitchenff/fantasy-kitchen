@@ -123,6 +123,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Justin Jefferson: 2 catches for 32 before the ankle sprain on his seventh play at TB; 11 catches for 147 and 2 TD through three games. [pod 9-30, deployment]
 - 2026-09-27: Jordan Addison: 9 targets on Kyler Murray's 29 attempts at TB (31%), 5 for 90 and a TD. [pod 9-30, deployment]
 - 2026-10-15: Jauan Jennings: 2 catches for 9 yards in his first four games; Tom Pelissero does not expect him to be traded despite outside interest and his visible sideline frustration vs NO. [pod 10-22, beat]
+- 2026-10-27: Justin Jefferson: 29% target share vs IND (4-44 on 7), Kyler Murray 14 of 24 for 150 (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Tight ends
 

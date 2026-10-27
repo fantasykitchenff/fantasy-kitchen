@@ -1,0 +1,243 @@
+{
+  "series": "butcher",
+  "season": 2026,
+  "week": 8,
+  "title": "Butcher Shop, Week 8",
+  "dek": "Kenneth Walker III ran for 36 yards on his usual snaps. That is the prime cut to buy this week.",
+  "format": "PPR",
+  "publishedAt": "2026-10-27T17:01:00Z",
+  "updatedAt": "2026-10-27T17:01:00Z",
+  "author": "Chef Hazy",
+  "intro_md": "Week 7 left starters with full roles and bad box scores, and handed touchdowns to backups who got the work only because someone else sat. The buys are volume waiting on a better script, a healthy quarterback or a bye to pass; the sells scored on carries or touchdowns that will not hold. Ranks are rest of season for me, PPR scoring, and prices are written for 12-team leagues. Houston, New Orleans, the Giants and San Francisco are on bye in Week 8, and a bye is the cheapest week to buy.",
+  "outro_md": null,
+  "data": {
+    "buy": [
+      {
+        "player": "Kenneth Walker III",
+        "team": "KC",
+        "pos": "RB",
+        "action": "TRADE_FOR",
+        "price": "an RB2 and a WR3",
+        "why": "Kenneth Walker III (KC) played 74 percent of the snaps at SEA, about the same share as his last two games, but ran 14 times for 36 in the 20-3 loss, and Kansas City ran no plays in the red zone. A week earlier he ran 19 times for 128 and 2 TDs vs LAC; the role did not change, the script did.",
+        "verdict": "RB4 rest of season for me. Trade for him while his manager stares at 36 yards; offer an RB2 and a WR3."
+      },
+      {
+        "player": "Matthew Golden",
+        "team": "GB",
+        "pos": "WR",
+        "action": "TRADE_FOR",
+        "price": "a WR3",
+        "why": "Matthew Golden (GB) has 25 targets over the last two weeks and drew 12 at DET with 165 air yards, on 85 percent of the snaps, but caught 6 for 39. He sat out Monday's walkthrough with shoulder and foot injuries before Thursday vs CAR, which drops the price again.",
+        "verdict": "WR25 rest of season for me, and the targets say higher. Trade for him before Thursday's report; offer a WR3."
+      },
+      {
+        "player": "Derrick Henry",
+        "team": "BAL",
+        "pos": "RB",
+        "action": "TRADE_FOR",
+        "price": "a WR2",
+        "why": "Derrick Henry (BAL) ran 17 times in each of the last two games and has 103 yards to show for it, with Tyler Huntley at quarterback for a third straight week. Jesse Minter expects Lamar Jackson in a decent spot for Week 8 at BUF, and the carries never left.",
+        "verdict": "RB8 rest of season for me. Trade for him before Lamar Jackson is back; offer a WR2."
+      },
+      {
+        "player": "Chris Olave",
+        "team": "NO",
+        "pos": "WR",
+        "action": "TRADE_FOR",
+        "price": "a WR2",
+        "why": "Chris Olave (NO) has drawn 23 targets over the last three games, 26 percent of the throws vs PIT, and turned them into 145 yards and one TD. New Orleans is on bye in Week 8, so his manager is holding a zero this week on top of three quiet box scores.",
+        "verdict": "WR7 rest of season for me. Trade for him during the bye; offer a WR2."
+      },
+      {
+        "player": "Justin Jefferson",
+        "team": "MIN",
+        "pos": "WR",
+        "action": "TRADE_FOR",
+        "price": "a WR2 and a bench RB",
+        "why": "Justin Jefferson (MIN) drew 29 percent of the targets vs IND and caught 4 for 44, with Kyler Murray at 150 passing yards and still learning Minnesota's reads. The share is a WR1's; the quarterback is the discount.",
+        "verdict": "WR6 rest of season for me. Trade for him while Murray is settling in; offer a WR2 and a bench RB."
+      },
+      {
+        "player": "Christian McCaffrey",
+        "team": "SF",
+        "pos": "RB",
+        "action": "TRADE_FOR",
+        "price": "an RB2 and a WR2",
+        "why": "Christian McCaffrey (SF) strained his hamstring early at ATL, came back, and still had 13 touches for 100 yards and a TD on 34 snaps. Kyle Shanahan is optimistic he is fine after the Week 8 bye, and a hurt star on bye is the cheapest he gets.",
+        "verdict": "RB6 rest of season for me. Trade for him during the bye; offer an RB2 and a WR2."
+      },
+      {
+        "player": "Chase Brown",
+        "team": "CIN",
+        "pos": "RB",
+        "action": "TRADE_FOR",
+        "price": "an RB2 and a WR3",
+        "why": "Chase Brown (CIN) played 75 percent of the snaps vs BAL and had 15 touches to Samaje Perine's 4, but ran 11 times for 39 while Joe Burrow threw 4 TDs. Cincinnati scored 35 and he did not score, and Tennessee comes to Cincinnati Sunday.",
+        "verdict": "RB7 rest of season for me. Trade for him before he plays TEN; offer an RB2 and a WR3."
+      },
+      {
+        "player": "Tetairoa McMillan",
+        "team": "CAR",
+        "pos": "WR",
+        "action": "TRADE_FOR",
+        "price": "a WR3 and a bench RB",
+        "why": "Tetairoa McMillan (CAR) drew 15 targets over Weeks 6 and 7 and caught 4 for 40 in the 43-13 loss to TB, where Bryce Young was pulled early in the fourth. Young was a full participant on Monday's estimated report before Thursday at GB, and the targets go to McMillan whoever throws.",
+        "verdict": "WR14 rest of season for me. Trade for him while Carolina's quarterback is in question; offer a WR3 and a bench RB."
+      },
+      {
+        "player": "Ashton Jeanty",
+        "team": "LV",
+        "pos": "RB",
+        "action": "TRADE_FOR",
+        "price": "an RB2 and a WR3",
+        "why": "Ashton Jeanty (LV) was back up to 72 percent of the snaps vs LAR after 53 and 58, and caught 8 of 8 targets for 61 and a TD. He ran 8 times for 15 because Las Vegas trailed, and Mike Washington Jr. played 18 snaps.",
+        "verdict": "RB11 rest of season for me. Trade for him while his rushing yards look ugly; offer an RB2 and a WR3."
+      },
+      {
+        "player": "Brock Purdy",
+        "team": "SF",
+        "pos": "QB",
+        "action": "TRADE_FOR",
+        "price": "a WR2 in superflex, a WR3 in 1-QB leagues",
+        "why": "Brock Purdy (SF) threw 40 times at ATL, a season high, for 288 yards, a TD and 2 interceptions in San Francisco's first loss. The 49ers are on bye in Week 8, and Mike Evans and Deebo Samuel Sr. get two weeks to heal.",
+        "verdict": "QB3 rest of season for me. Trade for him during the bye; offer a WR2 in superflex, a WR3 in 1-QB leagues."
+      },
+      {
+        "player": "Patrick Mahomes II",
+        "team": "KC",
+        "pos": "QB",
+        "action": "TRADE_FOR",
+        "price": "a WR3 in superflex, a bench receiver in 1-QB leagues",
+        "why": "Patrick Mahomes II (KC) has no TD pass in two straight games on 63 throws, and went 19 of 33 for 165 at SEA. Rashee Rice and right tackle Jaylon Moore sat Sunday night; the attempts held at 30 and 33, so the touchdowns are what is missing.",
+        "verdict": "QB9 rest of season for me. Trade for him at the low point; offer a WR3 in superflex, a bench receiver in 1-QB leagues."
+      },
+      {
+        "player": "George Kittle",
+        "team": "SF",
+        "pos": "TE",
+        "action": "TRADE_FOR",
+        "price": "a WR2",
+        "why": "George Kittle (SF) caught 8 of 10 targets for 88 at ATL and has played 85 percent of the snaps or more in five straight games, with 24 targets over the last three. San Francisco's Week 8 bye is the only discount you will get.",
+        "verdict": "TE3 rest of season for me. Trade for him during the bye; offer a WR2."
+      }
+    ],
+    "sell": [
+      {
+        "player": "Tony Pollard",
+        "team": "TEN",
+        "pos": "RB",
+        "action": "TRADE_AWAY",
+        "price": "an RB2",
+        "why": "Tony Pollard (TEN) ran 25 times for 129 and 3 TDs vs CLE on 75 percent of the snaps, with Tyjae Spears and Nick Singleton both inactive. He had 14 and 19 carries the two weeks before, Tennessee is 1-6, and the Titans are on bye in Week 9.",
+        "verdict": "RB30 rest of season for me. Trade him away now; ask for an RB2."
+      },
+      {
+        "player": "Javonte Williams",
+        "team": "DAL",
+        "pos": "RB",
+        "action": "TRADE_AWAY",
+        "price": "a top-12 WR",
+        "why": "Javonte Williams (DAL) ran 25 times for 155 and a TD in the 38-21 win at PHI, his third straight game with a score. He had 0 targets Monday and 5 over the last three games, so the week rides on carries and touchdowns.",
+        "verdict": "RB9 rest of season for me, and the price is at its peak. Trade him away; ask for a top-12 WR."
+      },
+      {
+        "player": "Tee Higgins",
+        "team": "CIN",
+        "pos": "WR",
+        "action": "TRADE_AWAY",
+        "price": "a WR1, or a WR2 and an RB2",
+        "why": "Tee Higgins (CIN) caught 6 of 7 targets for 148 and a TD at BAL. Ja'Marr Chase also drew 7, both played 46 snaps, and Higgins had 4 targets in his game before that.",
+        "verdict": "WR16 rest of season for me. Trade him away on the 148 yards; ask for a WR1, or a WR2 and an RB2."
+      },
+      {
+        "player": "Jameson Williams",
+        "team": "DET",
+        "pos": "WR",
+        "action": "TRADE_AWAY",
+        "price": "a WR2",
+        "why": "Jameson Williams (DET) caught 5 of 9 targets for 91 and 2 TDs vs GB, 29 percent of the throws, after 4, 8 and 4 targets in his three games before. Amon-Ra St. Brown drew 11 and Jahmyr Gibbs played 90 percent of the snaps.",
+        "verdict": "WR26 rest of season for me. Trade him away on the two scores; ask for a WR2."
+      },
+      {
+        "player": "Christian Watson",
+        "team": "GB",
+        "pos": "WR",
+        "action": "TRADE_AWAY",
+        "price": "a WR2",
+        "why": "Christian Watson (GB) has drawn 8 targets in each of his last three games while Matthew Golden drew 13 and 12 the last two, and Watson's share fell from 26 percent to 19. Josh Jacobs is back and caught 5 passes in his first game.",
+        "verdict": "WR17 rest of season for me, and his name still sells as a WR2. Trade him away; ask for a WR2."
+      },
+      {
+        "player": "Emanuel Wilson",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "TRADE_AWAY",
+        "price": "a bench receiver",
+        "why": "Emanuel Wilson (SEA) ran 24 times for 100 and a TD vs KC on 48 percent of the snaps, with Zach Charbonnet inactive. Charbonnet is eyed for Week 8 at home vs CHI, and Jadarian Price's practice window opens this week.",
+        "verdict": "RB54 rest of season for me. Trade him away while the 100 yards are fresh; ask for a bench receiver."
+      },
+      {
+        "player": "Woody Marks",
+        "team": "HOU",
+        "pos": "RB",
+        "action": "TRADE_AWAY",
+        "price": "a bench WR with a full-time role",
+        "why": "Woody Marks (HOU) played 54 of 61 snaps vs NYG and ran 19 times for 66, the only Houston back with a touch. Houston is on bye in Week 8, and David Montgomery has two weeks to heal the groin and take early downs back.",
+        "verdict": "RB32 rest of season for me. Trade him away during the bye; ask for a bench WR with a full-time role."
+      },
+      {
+        "player": "Jaylen Waddle",
+        "team": "DEN",
+        "pos": "WR",
+        "action": "TRADE_AWAY",
+        "price": "a WR3 who gets targets",
+        "why": "Jaylen Waddle (DEN) played 56 percent of the snaps at ARI and caught 4 for 48, then hurt his chest on a late end-around; reports since say he is fine. He has not topped 48 yards in a game since Week 2.",
+        "verdict": "WR19 rest of season for me, and his name sells for more than his role. Trade him away; ask for a WR3 who gets targets."
+      },
+      {
+        "player": "Caleb Douglas",
+        "team": "MIA",
+        "pos": "WR",
+        "action": "TRADE_AWAY",
+        "price": "a bench RB with a weekly role",
+        "why": "Caleb Douglas (MIA) caught 2 of 3 targets for 70 and 2 TDs at NYJ in his first game since Week 2, on 68 percent of the snaps and 14 percent of the targets. Malik Willis threw 21 passes, and three targets is a dart throw's share.",
+        "verdict": "WR77 rest of season for me. Trade him away to the manager who claimed him; ask for a bench RB with a weekly role."
+      },
+      {
+        "player": "Geno Smith",
+        "team": "NYJ",
+        "pos": "QB",
+        "action": "TRADE_AWAY",
+        "price": "a WR3 in superflex, a bench RB in 1-QB leagues",
+        "why": "Geno Smith (NYJ) went 23 of 30 for 287 and 3 TDs vs MIA after 3 TD passes over his previous three games. He has thrown exactly 30 times in each of his last three, and Garrett Wilson drew 3 targets Sunday.",
+        "verdict": "QB26 rest of season for me. Trade him away after the three-TD week; ask for a WR3 in superflex, a bench RB in 1-QB leagues."
+      },
+      {
+        "player": "Malik Willis",
+        "team": "MIA",
+        "pos": "QB",
+        "action": "TRADE_AWAY",
+        "price": "a WR3 in superflex, a bench RB in 1-QB leagues",
+        "why": "Malik Willis (MIA) went 14 of 21 for 208 and 2 TDs at NYJ and ran 8 times for 37 and a TD in Miami's first win. Miami ran 25 times with Ollie Gordon II alone, and 21 throws does not hold up as a weekly floor.",
+        "verdict": "QB22 rest of season for me. Trade him away on the best week of his season; ask for a WR3 in superflex, a bench RB in 1-QB leagues."
+      },
+      {
+        "player": "Mason Taylor",
+        "team": "NYJ",
+        "pos": "TE",
+        "action": "TRADE_AWAY",
+        "price": "a bench WR with a full-time role",
+        "why": "Mason Taylor (NYJ) caught 5 of 6 targets for 62 and 2 TDs vs MIA, his first touchdowns of the season. He has drawn 6 targets in each of the last two games, and Omar Cooper Jr. is back to take the middle of the field.",
+        "verdict": "TE37 rest of season for me. Trade him away on the two scores; ask for a bench WR with a full-time role."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w08-butcher-thread-cce9",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}

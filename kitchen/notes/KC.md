@@ -36,6 +36,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Patrick Mahomes: Healthy and back at practice after his late-2025 ACL tear. [8-18 sleeper picks]
 - 2026-09-27: Patrick Mahomes: 20 of 24 for 246, 2 TD, 1 INT at MIA on 24 dropbacks out of 49 plays. [pod 9-29, deployment]
 - 2026-10-18: Patrick Mahomes: 23 of 30 for 272, 0 TD, 1 INT in the 22-6 win over LAC. [pod 10-19, deployment]
+- 2026-10-27: Patrick Mahomes II: no TD pass in Weeks 6 and 7 on 63 attempts (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Backfield
 

@@ -89,6 +89,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: CeeDee Lamb: 18 targets, 9 for 70 in Week 6 @GB; George Pickens 11 targets, 6 for 73 (CBS box score).
 - 2026-10-22: George Pickens (shoulder) added to the report, limited Thursday, on track for MNF at PHI. [Yahoo Sports, Thursday practice report]
 - 2026-10-24: George Pickens (shoulder) limited Thursday, full Friday for MNF at PHI; KaVontae Turpin (ribs) DNP Friday (philadelphiaeagles.com joint report).
+- 2026-10-27: Ryan Flournoy out-targeted Jake Ferguson 13 to 4 in Weeks 6 and 7; Ferguson share 14%, 6%, 4% in Weeks 5 to 7 (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Tight ends
 

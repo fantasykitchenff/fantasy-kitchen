@@ -88,6 +88,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-13: Sam LaPorta: LaPorta had a microdiscectomy on his back; Detroit's target competition (Williams, St. Brown, Gibbs, TeSlaa) makes him a week-to-week bet. [8-13 TEs]
 - 2026-08-13: Sam LaPorta: Before his injury last year LaPorta had a 20% target per route rate and was the Lions' No. 2 pass catcher by yards per game ahead of Jameson Williams, whose breakout came after LaPorta went down. [8-13 mock draft 3.0]
 - 2026-08-14: Sam LaPorta: Set career highs and ranked 5th among 49 qualifying tight ends in 2025 in both yards per route and PFF receiving grade. [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
+- 2026-10-27: Sam LaPorta: target share 25% (Week 4), 17% (Week 5), 6% (Week 7, 2 targets on 97% snaps) (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Offensive line
 

@@ -123,6 +123,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Denzel Boston drew 7 targets (22 percent share) and ran a route on 91 percent of dropbacks vs PIT (Rotowire). [pod 10-13, deployment]
 - 2026-10-14: KC Concepcion returned to practice after the concussion protocol. [pod 10-14, beat]
 - 2026-10-18: vs BAL: Jerry Jeudy 4 of 4 for 69, including the late game-winning-drive catches; KC Concepcion 4 of 6 for 37 and 2 carries for 2; Denzel Boston 1 of 5 for 15; Harold Fannin Jr. 1 of 3 for 9, after 1 of 4 for 4 on 92.6% of snaps in Week 5. Deshaun Watson 16 of 26 for 164, 8 carries for 29. [pod 10-19, deployment]
+- 2026-10-27: KC Concepcion Jr.: targets 1, 6, 10 in Weeks 5 to 7, share 3% to 24% to 29% (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Tight ends
 

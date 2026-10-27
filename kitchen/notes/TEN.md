@@ -96,6 +96,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Carnell Tate: 6 for 70 and his first NFL TD on a team-high-tying 7 targets, 70 of Cam Ward's 102 passing yards. [pod 10-19, deployment]
 - 2026-10-18: Carnell Tate ran 96 percent of the routes and had 70 of Cam Ward's 102 passing yards. [pod 10-20, deployment]
 - 2026-10-18: Carnell Tate drew 32 percent of Tennessee's targets at IND and accounted for 70 of Cam Ward's 102 passing yards. [pod 10-22, deployment]
+- 2026-10-27: Elic Ayomanor: snap share 52%, 61%, 89% in Weeks 5 to 7; 7 targets (23%) vs CLE after 2 and 2 (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Tight ends
 

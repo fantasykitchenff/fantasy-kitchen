@@ -119,6 +119,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Chris Olave 4-46 on 6 targets after 15+ PPR points in each of Weeks 1 to 4. [pod 10-13, deployment]
 - 2026-10-12: Jordyn Tyson (hamstring, IR) will not practice this week per Kellen Moore. [pod 10-14, coach]
 - 2026-10-16: Chris Olave (illness) questionable Week 6 @NYG after DNP, DNP, limited Friday; Alvin Kamara (back) questionable, limited all week. [NFL.com, CBS]
+- 2026-10-27: Chris Olave: 23 targets over Weeks 5 to 7 (6, 7, 10), 26% share vs PIT, 145 yards and 1 TD in that span; Week 8 bye (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Tight ends
 

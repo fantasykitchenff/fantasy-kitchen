@@ -45,6 +45,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-14: Michael Penix Jr. (ribs) practiced Wednesday; Kevin Stefanski said he starts vs CHI as long as everything goes to plan. [pod 10-14, beat]
 - 2026-10-16: Michael Penix Jr. (ribs) has no designation for Week 6 vs CHI after a full Friday practice; CB C.J. Henderson (groin) out. [CBS, atlantafalcons.com]
 - 2026-10-19: Michael Penix Jr. started Week 6 vs CHI: 19 of 33 for 225, 3 TD, sacked 5 times (CBS box score).
+- 2026-10-27: Michael Penix Jr.: 3 TD passes in Weeks 6 and 7 each, no INT in Weeks 5 to 7 (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
 
 ## Backfield
 
