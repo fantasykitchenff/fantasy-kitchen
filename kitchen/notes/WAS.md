@@ -39,6 +39,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jayden Daniels played in an elbow brace: 9-103-2 rushing and 17 of 25 for 199, his second career 100-yard rushing game. [pod 10-13, deployment]
 - 2026-10-11: Jayden Daniels 9 carries for 103 and 2 TDs, 17 of 25 for 199; Jacory Croskey-Merritt 11 for 82 and a TD; Rachaad White 7 for 18 back from the shoulder; Terry McLaurin 4 for 62 on a limited workload; Stefon Diggs out (hamstring). [pod 10-14, deployment]
 - 2026-10-19: Jayden Daniels went 29 of 40 for 300 yards, 2 TDs and no INTs at SF and was sacked 4 times. [pod 10-20, deployment]
+- 2026-10-26: Jayden Daniels has no listed injury and Quinn framed him as the starter for Sunday night's home game vs PHI; Week 8 is PHI at WAS (SI). [pod 10-27, coach]
 
 ## Backfield
 
@@ -118,6 +119,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-20: Antonio Williams: led Washington's receivers in snaps and routes in Week 6, 3 for 50; 6% rostered Tuesday (Yahoo waiver column).
 - 2026-10-19: Stefon Diggs: 6 for 44 and a TD on 7 targets at SF; Terry McLaurin left in the first quarter (torn patellar tendon, out for the season). Treylon Burks also left Monday, status unclear. [pod 10-20, deployment]
 - 2026-10-19: Antonio Williams ran a route on 73, 76 and 74 percent of dropbacks in Weeks 4 to 6 and led Washington's receivers in routes at SF. [pod 10-22, deployment]
+- 2026-10-26: Antonio Williams: Dan Quinn said he expects Williams to get more chances with Terry McLaurin out for the season and that Stefon Diggs' workload stays about the same; in Week 6 at SF Williams caught 3 of 4 targets for 50 on 45 snaps, the most among Washington receivers (Diggs 41, Treylon Burks 37); his debut was 4 for 64 and a TD in Week 1 vs PHI (CBS Sports, RotoWire). [pod 10-27, coach]
+- 2026-10-26: Treylon Burks, who left Week 6 late with an injury, is expected back at practice per Quinn; the injury was not named (SI). [pod 10-27, coach]
 
 ## Tight ends
 
@@ -130,6 +133,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Chigoziem Okonkwo: Until Stefon Diggs signed about a week and a half ago, Okonkwo looked like the Commanders' second passing option behind Terry McLaurin; he would now likely need an injury to McLaurin or Diggs to reach that role. [8-18 WR rankings]
 - 2026-10-19: Chig Okonkwo caught all 7 targets for 69 yards in the 23-17 loss at SF, after a team-high 6 targets in Week 5. [pod 10-20, deployment]
 - 2026-10-19: Chig Okonkwo ran a route on more than 80 percent of dropbacks at SF (81 to 89 percent across three charting sets) and caught all 7 targets. [pod 10-22, deployment]
+- 2026-10-19: Chig Okonkwo: caught all 7 targets for 69, leading Washington at SF in Week 6, after 4 catches for 60 on 6 targets in Week 5 (NBC Sports). [pod 10-27, deployment]
 
 ## Offensive line
 

@@ -59,6 +59,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-30: Malik Davis: hip injury in Week 3; Emari Demercado is the only back behind Javonte Williams on the active roster (reports).
 - 2026-09-27: Javonte Williams: 19 carries for 98 and a TD, 2 catches for 5 on 3 targets, 56 snaps (76%) vs BAL; 12 targets in three games (5, 4, 3), 10 for 56 and a TD; 43 carries for 169 and 2 TDs. Tyler Goodson made his Dallas debut as the No. 2 with 11 snaps (15%), 6 carries for 22; Emari Demercado did not play a snap. [pod 9-30, deployment]
 - 2026-10-06: Javonte Williams: 62 carries for 231 (3.7 a carry) and 5 rushing TD in four games after 19 for 62 and 3 TD @HOU (season totals from weekly reports).
+- 2026-10-26: Javonte Williams: 25 carries for a career-high 155 and a TD at PHI, 0 targets; Hunter Luepke took more of the third-down work (footballdb). [pod 10-27, official]
 
 ## Receivers
 
@@ -90,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-22: George Pickens (shoulder) added to the report, limited Thursday, on track for MNF at PHI. [Yahoo Sports, Thursday practice report]
 - 2026-10-24: George Pickens (shoulder) limited Thursday, full Friday for MNF at PHI; KaVontae Turpin (ribs) DNP Friday (philadelphiaeagles.com joint report).
 - 2026-10-27: Ryan Flournoy out-targeted Jake Ferguson 13 to 4 in Weeks 6 and 7; Ferguson share 14%, 6%, 4% in Weeks 5 to 7 (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
+- 2026-10-26: At PHI: CeeDee Lamb 5 catches for 74 and 2 TDs on 12 targets; George Pickens 4 for 57 and a TD on 6; Ryan Flournoy 4 for 70 on 4; Jake Ferguson 0 catches on 1 target while Brevyn Spann-Ford caught 2 for 11; Dak Prescott 15 of 27 for 212 and 3 TDs; KaVontae Turpin out (rib). Dallas is 3-4 (footballdb, dallascowboys.com). [pod 10-27, official]
 
 ## Tight ends
 

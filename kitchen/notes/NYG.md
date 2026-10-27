@@ -124,6 +124,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Malik Nabers 20 targets, 11-121-1 on 90 percent of snaps in the 27-27 OT tie at WAS. [pod 10-13, deployment]
 - 2026-10-11: Malik Nabers has a 39 percent first-read target share over Weeks 4 and 5; Isaiah Likely has a 31 percent first-read share since Week 2; Jameis Winston's first-read throw rate of 75 percent is third-highest in the league (Yahoo Sports). [pod 10-13, deployment]
 - 2026-10-19: Malik Nabers: 15 targets, 12 for 165 in Week 6 vs NO; Darnell Mooney left in Q3 with a neck injury (team box score, SI).
+- 2026-10-25: Malachi Fields: 4 catches for a career-high 83 on 5 targets at HOU; New York is on bye in Week 8 (team site, ESPN). [pod 10-27, official]
 
 ## Tight ends
 
@@ -207,6 +208,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-23: TE Theo Johnson (neck) doubtful at HOU (NFL.com Friday report).
 - 2026-10-25: Cam Skattebo: 17 carries for 124 and a TD in the 27-21 OT win at HOU; felt his hamstring on the 42-yard OT run; Week 8 bye. Tyrone Tracy Jr. hamstring, reports conflict on whether he returned (NFL.com, Yahoo).
 - 2026-10-26: Cam Skattebo (hamstring): avoided a strain per Dan Duggan; Mike Garafolo said all indications are he should be OK. Week 8 bye, Week 9 vs PHI (Yahoo Sports).
+- 2026-10-27: Tyrone Tracy Jr.: placed on IR with the hamstring injury after 10 snaps at HOU, so he misses at least four games; Joe Schoen does not expect it to be long term; RB Greg Desrosiers signed off the Chargers' practice squad. Cam Skattebo felt his hamstring on the 42-yard overtime run and is expected to be fine; Devin Singletary is the No. 2 back (ESPN, Forbes). [pod 10-27, official]
 
 ## Other
 

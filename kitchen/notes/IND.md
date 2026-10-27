@@ -44,6 +44,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-24: Daniel Jones: Daniel Jones returns from injury; he may not be 100% but the Colts will have him instead of the late-season replacements (Rivers, Leonard) who played out 2025. [8-24 adp adjustments]
 - 2026-09-27: Daniel Jones: 24 of 36 for 235, 1 TD, 1 INT in the 19-17 win over HOU; 30 of the 36 attempts went to Downs (11), Warren (10) and Allen (9). [pod 9-29, deployment]
 - 2026-10-18: Daniel Jones: 22 of 42 for 269, 1 TD, 2 INT, sacked 6 times in the 26-20 loss to TEN; Shane Steichen kept him as the starter ("he's got to play better"). Season 4 TD, 6 INT, 5.9 yards per attempt. [pod 10-19, deployment]
+- 2026-10-26: Daniel Jones: Shane Steichen said he has not considered a change and has a ton of faith in him; Jones stays the starter for Week 8 at JAX (NBC Sports, PFT). [pod 10-27, coach]
 
 ## Backfield
 
@@ -68,6 +69,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jonathan Taylor played 71% of snaps in Week 4 and 73% in Week 5 (89% in Week 1); Seth McGowan 29% and 27%. Taylor ran 15 times for 45 vs ARI. [pod 10-14, deployment]
 - 2026-10-19: Jonathan Taylor: 21 for 94 and a TD, 2 for 57, season-high 151 scrimmage yards in Week 6 vs TEN, lost a fumble; Seth McGowan 4 for 27 (team box score).
 - 2026-10-26: Week 7 at MIN (10-16 loss): Jonathan Taylor 41 snaps (67%), 18-95-1; Seth McGowan 20 snaps, 11-46, a career high; Daniel Jones 13 of 22 for 108, 1 INT; Shane Steichen keeps Jones as the starter (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
+- 2026-10-25: Jonathan Taylor: 18 carries for 95 and a 38-yard TD, 2 catches for 15 on 3 targets, 41 snaps (69 percent) vs MIN; Seth McGowan 11 carries for 46 on 18 snaps (31 percent), both season highs, 1 target (RotoWire box breakdown). [pod 10-27, deployment]
 
 ## Receivers
 
@@ -169,6 +171,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-26: Keenan Allen: The Colts signed Keenan Allen in late August because Alec Pierce, Josh Downs and Tyler Warren were all dealing with injuries; he is expected to be heavily involved early in the season. [8-26 myguys episode]
 - 2026-09-22: Darius Slayton signed (released by NYG 9/7), inactive Week 3. [pod 9-28, official]
 - 2026-10-19: Chris Ballard: fired as general manager Monday morning after a 2-4 start in his 10th season (72-82-1); assistant GM Ed Dodds oversees personnel, Shane Steichen and staff report to ownership, no coordinator changes announced. [pod 10-19, official]
+- 2026-10-27: Quenton Nelson: traded to Seattle for a 2027 third-round pick and a 2028 fifth-round pick, in the final year of his extension (NFL.com, Yahoo Sports). [pod 10-27, official]
+- 2026-10-27: Jonathan Taylor: Adam Schefter reported Indianapolis does not want to trade him "today" but did not rule it out; DeForest Buckner, Josh Downs and Grover Stewart were named as more likely to move. The trade deadline is Tue Nov 10 at 4 PM ET (Yahoo Sports live blog, NFL.com). [pod 10-27, beat]
 
 ## Injuries and status
 

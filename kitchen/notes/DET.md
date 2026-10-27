@@ -75,6 +75,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Isaac TeSlaa: 3 catches for 66 yards vs NYJ, including a 49-yarder that set up the winning touchdown. [pod 9-29, deployment]
 - 2026-09-28: Jameson Williams has 10 catches for 127 yards and no TD through three games (4-45, 2-33, 4-49). [pod 10-2, deployment]
 - 2026-10-05: Week 4 @CAR: Jared Goff 32 of 52 for 412; Jameson Williams 6 for 102, Sam LaPorta 8 for 84 and a TD, Amon-Ra St. Brown 8 for 75; Jahmyr Gibbs 15 for 46 and a TD (Detroit News, NBC).
+- 2026-10-26: Amon-Ra St. Brown tweaked an ankle in the 20-17 win over GB; Dan Campbell said he should be ready to practice Thursday (Detroit News). [pod 10-27, coach]
 
 ## Tight ends
 

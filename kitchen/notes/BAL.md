@@ -42,6 +42,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Lamar Jackson (left ankle) missed Week 6, his second straight; Jesse Minter on Monday kept him "day-to-day" and said he could "potentially" practice Wednesday before CIN. Tyler Huntley went 19 of 31 for 165 and a TD with 5 carries for 28 in the 13-10 loss @CLE. [pod 10-19, coach]
 - 2026-10-19: Jesse Minter called Lamar Jackson day to day and said he could potentially practice this week; he is optimistic Rashod Bateman (shoulder) will be fine. [pod 10-20, coach]
 - 2026-10-27: Lamar Jackson (high ankle sprain): expected to play Week 8 at BUF, believed close to 100 percent, per Ian Rapoport (NBC Sports, RotoWire).
+- 2026-10-26: Lamar Jackson (left high ankle sprain) missed three games including Week 7 and practiced last week; Jesse Minter said he is in a decent spot, and Ian Rapoport reported he is close to 100 percent and on track to play at BUF on Nov 1 (CBS Sports, NBC Sports). [pod 10-27, beat]
 
 ## Backfield
 
@@ -132,6 +133,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-28: Jovaughn Gwyn, Ethan Pocic, Vega Ioane: Both centers were lost in Rio: Gwyn (ankle on the team report) and Pocic (knee); Minter said both look a little bit long term. First-round rookie guard Vega Ioane moved to center in the game and stays there vs TEN, with Andrew Vorhees at right guard. Jackson said he would take extra snaps from Ioane this week. [pod 9-30, coach]
 - 2026-09-30: Ronnie Stanley: Inactive vs DAL with a toe injury (Carson Vinson played all 64 snaps at left tackle); back at practice Wednesday. [pod 9-29, beat]
 - 2026-10-07: Cam Jurgens acquired from PHI (2028 second and 2027 fifth for Jurgens and a 2027 seventh) after Gwyn, Pocic and a third center went on IR; expected back at center, where rookie Vega Ioane had filled in (ESPN, baltimoreravens.com).
+- 2026-10-27: Vega Ioane: MCL sprain, expected to miss a little time; he was not placed on IR (NFL Network via Yahoo Sports). [pod 10-27, beat]
 
 ## Rookies
 

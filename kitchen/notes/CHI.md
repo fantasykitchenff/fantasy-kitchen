@@ -83,6 +83,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Week 6 @ATL: D'Andre Swift 16 for 44 and 2 TDs; Roschon Johnson 13 for 51 and a TD, lost a late fumble (CBS box score).
 - 2026-10-18: D'Andre Swift: 16 carries for 44 and 2 TDs (4 and 2 yards, both third-and-goal), 4 of 5 targets for 26 @ATL; Roschon Johnson 13 for 51 and a 4-yd TD, 2 for 34, lost a Q4 fumble; Swift was the lead back until Johnson took more work late. [pod 10-19, official]
 - 2026-10-18: Roschon Johnson ran 13 for 51 and a TD, 8 of the carries in the fourth quarter, and lost a fourth-quarter fumble. [pod 10-20, deployment]
+- 2026-10-22: D'Andre Swift played 54 snaps and Roschon Johnson 10 vs NE with Kyle Monangai (toe) out; Swift ran 22 times for 78 and a TD and caught 4 for 12. Luther Burden III caught all 4 targets for 130 and a TD. [pod 10-27, deployment]
 
 ## Receivers
 

@@ -42,6 +42,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Christian McCaffrey 11 carries for 68 and a TD plus 3 catches for 15 vs SEA. [pod 10-14, deployment]
 - 2026-10-19: Christian McCaffrey vs WAS: 16 carries for 64 and 2 TDs, plus 9 catches for 53 on 10 targets; 26 opportunities, his most of the season. [pod 10-20, deployment]
 - 2026-10-26: Week 7 at ATL (20-29, first loss): Christian McCaffrey thigh injury in the first quarter, returned, 34 snaps, 7-39-1, 6-61; Kaelon Black 31 snaps, 12-63-1, all 3 SF carries inside the 5; Christian Kirk 20 snaps, 0 targets; Week 8 bye (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
+- 2026-10-26: Christian McCaffrey: the injury is a mild hamstring strain, not the quad first feared, after he left briefly at ATL; he is on track for Week 9 vs LV after the bye (San Francisco Standard). Kaelon Black ran 12 times for 63 and his first career TD; his Week 1 line was 14 for 65 with no TD. Mike Evans (Achilles) and Deebo Samuel Sr. are on track to return after the bye. [pod 10-27, beat]
 
 ## Receivers
 

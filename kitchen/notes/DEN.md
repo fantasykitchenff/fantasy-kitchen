@@ -159,6 +159,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Snaps @LAC: Courtland Sutton 50, Jaylen Waddle 40, Troy Franklin 39; RJ Harvey 23 among the backs. Pat Bryant on IR (ankle). [pod 10-14, deployment]
 - 2026-10-15: Week 6 vs SEA: Bo Nix 17 of 27 for 107; Jaylen Waddle 4-24 on 7 targets (29%), 80% routes, left briefly with a shoulder injury and returned; Courtland Sutton 2-19 on 3, 87% routes (Rotowire, PFR).
 - 2026-10-19: Jaylen Waddle: 65% snaps, 4 of 7 for 24 in Week 6 vs SEA; hurt his shoulder before halftime (LeagueLogs, Yahoo Sports).
+- 2026-10-25: Jaylen Waddle (chest and left shoulder) left late in the fourth quarter at ARI after a season-low 56 percent of snaps; his Week 8 status vs KC depends on Thursday and Friday practice. [pod 10-27, official]
 
 ## Tight ends
 

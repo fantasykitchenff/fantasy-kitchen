@@ -60,6 +60,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Braelon Allen: 17 for 78 and 2 catches for 26 @NE on 54 snaps (87%), Isaiah Davis 8 snaps, Breece Hall out a third game (quad); Allen is 74 for 314 (4.2) on the season. [pod 10-19, deployment]
 - 2026-10-18: Braelon Allen played 87 percent of the snaps (17 for 78); Mason Taylor ran 70 percent of the routes to Kenyon Sadiq's 36. [pod 10-20, deployment]
 - 2026-10-26: Week 7 vs MIA (25-28 loss): Braelon Allen 46 snaps (78%), 17-104, 6-30 with Breece Hall inactive; Omar Cooper Jr. 38 snaps, 5-115-1; Garrett Wilson 50 snaps, 2-26 on 3 targets, Aaron Glenn put the targets on himself (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
+- 2026-10-25: Breece Hall (quad) missed his fourth straight game and is targeting a Week 8 return vs LV (RotoWire, Yahoo Sports). [pod 10-27, beat]
 
 ## Receivers
 
@@ -100,6 +101,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-20: Omar Cooper Jr. 5% rostered Tuesday (Yahoo waiver column).
 - 2026-10-18: Omar Cooper Jr. played 51 of 62 snaps (82 percent) and ran 28 of 33 routes with a team-high 24 percent of the targets in his first game off IR. [pod 10-20, deployment]
 - 2026-10-27: Garrett Wilson: target share 38%, 21%, 10% in Weeks 5 to 7 with Omar Cooper Jr. back (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
+- 2026-10-25: Omar Cooper Jr. ran a 70 percent route share to Adonai Mitchell's 55 in Week 7 and caught 5 for 115 and a TD on 38 snaps; Garrett Wilson played 50 snaps. SNY reports Wilson should not be expected to be traded. [pod 10-27, deployment]
 
 ## Tight ends
 

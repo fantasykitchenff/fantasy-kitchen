@@ -108,6 +108,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-27: Malik Washington: 34 routes (79%), a game-high 10 targets, 5 for 56, 2 carries; Chris Bell: 52 snaps (72%, up from 41%), 25 routes (58%), 4 of 7 for 67. [pod 9-28, deployment]
 - 2026-09-27: Malik Washington: his 2 carries vs KC went for 5 yards. [pod 9-29, deployment]
 - 2026-09-27: Malik Washington: 85% of the snaps, 84% of the routes and 10 targets (27%) vs KC. [pod 10-1, deployment]
+- 2026-10-25: Caleb Douglas: 2 catches for 70 and 2 TDs (7 and 63 yards) on 3 targets at NYJ in his first game back from a three-game ankle absence; Jaylen Wright hurt his quad in the third quarter after 8 snaps. [pod 10-27, official]
 
 ## Tight ends
 

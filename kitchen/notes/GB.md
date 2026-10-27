@@ -155,6 +155,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-09-21: The right tackle carted off in Week 2 is out long-term per LaFleur, with Anthony Belton starting; Zach Tom is not on the injury report (his 2025 patellar injury was Week 15). [pod 9-28, official]
 - 2026-09-24: Packers offensive line: Allowed 28 pressures vs ATL with Morgan, Burton, Rhyan, Monk and Belton; RG Jacob Monk left hurt after 59 of 66 snaps. Kevin Zeitler signed a one-year deal on 9/30. [pod 9-29, deployment]
 - 2026-09-28: Packers offensive line: signed G Laken Tomlinson and OL Mekhi Becton (Becton to the practice squad); in Thursday's 10/1 practice Tomlinson worked at left guard, Kevin Zeitler (signed 9/30) at right guard, and Becton at right guard and right tackle. [pod 9-30, official]
+- 2026-10-26: C Sean Rhyan (high ankle sprain from the opening series) is likely out at least four games; backup C Jacob Monk (quad) went to IR Monday; John Williams played 58 snaps at center at DET and Mekhi Becton was promoted from the practice squad. Matthew Golden sat out the walkthrough again Tuesday (Packers On SI). [pod 10-27, beat]
 
 ## Depth chart
 

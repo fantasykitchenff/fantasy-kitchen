@@ -6,9 +6,9 @@
   "dek": "Colston Loveland's targets went 5, 7, 12. The stove's on in Chicago.",
   "format": "PPR",
   "publishedAt": "2026-10-27T17:01:00Z",
-  "updatedAt": "2026-10-27T17:01:00Z",
+  "updatedAt": "2026-10-27T23:35:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Heat Check is about direction, not box scores. A riser earned more of the ball week over week or took a role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 8 lineup ranks come with Wednesday's Menu.",
+  "intro_md": "Updated Tue 7:35 PM ET: D'Andre Swift played 54 snaps vs NE, not 59; he is still RB13 rest of season for me, so hold him.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or took a role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 8 lineup ranks come with Wednesday's Menu.",
   "outro_md": null,
   "data": {
     "risers": [
@@ -76,8 +76,8 @@
         "player": "D'Andre Swift",
         "team": "CHI",
         "pos": "RB",
-        "stat": "Snap share 58%, 58%, 86%; carries 9, 16, 22",
-        "why": "D'Andre Swift (CHI) played 59 snaps vs NE and ran 22 times for 78 and a TD with Kyle Monangai out a third game. Roschon Johnson took 2 carries. Monangai's return to practice is what would change the call.",
+        "stat": "Snap share 58% and 58%, then 54 snaps in Week 7; carries 9, 16, 22",
+        "why": "D'Andre Swift (CHI) played 54 snaps vs NE to Roschon Johnson's 10 and ran 22 times for 78 and a TD with Kyle Monangai out a third game. Johnson took 2 carries. Monangai's return to practice is what would change the call.",
         "verdict": "RB13 rest of season for me. Hold him; do not sell into Monangai's return.",
         "action": "HOLD"
       },

@@ -31,6 +31,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-14: Joe Burrow: Was the only QB in 2025 to rank top 10 in both big-time throw rate (4th) and turnover-worthy play rate (1st). [8-14 136 Things I Learned Doing 2026 Fantasy Football Projections]
 - 2026-08-24: Joe Burrow: Two seasons ago he led the NFL in completions, attempts, passing yards and passing TDs; 2025 was hampered by a calf injury and then a toe injury. He is healthy entering 2026 and turns 30 in December. [8-24 QB Rankings]
 - 2026-09-27: Joe Burrow: 28 of 37 for 282 yards and 3 TD at PIT, all season highs; lost a fumble on a sack with 53 seconds left. [pod 9-29, deployment]
+- 2026-10-25: Joe Burrow: 22 of 30 for 292 and 4 TDs in the 35-13 win at BAL; Samaje Perine scored the 1-yard TD on 4 touches while Chase Brown played 75 percent of the snaps with 15 touches (PFT). [pod 10-27, official]
 
 ## Backfield
 

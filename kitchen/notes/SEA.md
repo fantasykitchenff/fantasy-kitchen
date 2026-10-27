@@ -79,6 +79,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Mike Macdonald said there is a good chance Zach Charbonnet plays Week 7 vs KC. [pod 10-20, coach]
 - 2026-10-18: George Holani out-snapped Emanuel Wilson 46 to 27 and scored; Wilson ran 14 times for 52. [pod 10-20, deployment]
 - 2026-10-26: Week 7 vs KC: Emanuel Wilson 33 snaps (48%), 24-100-1 with Zach Charbonnet inactive; George Holani 25 snaps; Jaxon Smith-Njigba 9-150-1 on 12 targets; Rashid Shaheed knee injury, ruled out (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
+- 2026-10-26: Mike Macdonald said Jadarian Price (chest, IR) will be designated to return this week, opening his 21-day window; Zach Charbonnet, activated off PUP Oct 22, was inactive in Week 7 with a knee issue and is trending toward his debut Monday vs CHI; Emanuel Wilson ran 24 times for 100 and a TD vs KC. [pod 10-27, coach]
 
 ## Receivers
 
@@ -109,6 +110,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-15: Week 6 @DEN: Jaxon Smith-Njigba 12-134 on 16 targets (35% share), 88% routes; Cooper Kupp 5-50 on 10; Rashid Shaheed 5-66 on 8; Darnold 27 of 51 for 278, 2 INT (Rotowire, PFR).
 - 2026-10-19: Jaxon Smith-Njigba: 92% snaps, 16 targets, 12 for 134 in Week 6 @DEN (LeagueLogs, team box score).
 - 2026-10-18: Jaxon Smith-Njigba caught 12 of 16 targets for 134 in the OT loss to DEN; Cooper Kupp drew 10 targets for 50 yards; Sam Darnold threw 51 times with two late INTs. [pod 10-20, deployment]
+- 2026-10-25: Jaxon Smith-Njigba: 9 catches for 150 and a TD on 12 targets, plus 2 carries for 13, vs KC; Rashid Shaheed (knee) left after 22 snaps with 2 catches for 1 yard, and Macdonald said he avoided the worst case. [pod 10-27, official]
 
 ## Tight ends
 
@@ -120,6 +122,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 ## Offensive line
 
 - 2026-08-20: Seattle returns all five starters; second-year G Grey Zabel is expected to leap while the other guard spot is a glaring weakness. [8-20 Offensive Line Rankings]
+- 2026-10-27: Quenton Nelson acquired from Indianapolis for a 2027 third and a 2028 fifth (NFL.com). [pod 10-27, official]
 
 ## Rookies
 

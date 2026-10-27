@@ -55,6 +55,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Week 5 @NE (17-45): Fernando Mendoza debuted in the fourth quarter in relief of Kirk Cousins, 6 of 8 for 48, in a blowout, not a benching; Ashton Jeanty played through the ankle and plantar fasciitis, Raiders 38 rushing yards (NFL.com).
 - 2026-10-11: Kirk Cousins threw multiple TDs in each of Weeks 1 to 4 (3, 3, 3, 2); Week 5 at NE was 19 of 28 for 243 and 1 TD, his lowest-scoring game. Fernando Mendoza ran the final drive (6 of 8 for 48); Kubiak called it exposure. [pod 10-13, deployment]
 - 2026-10-18: Kirk Cousins: 23 of 41 for 313, 2 TD (both to Tre Tucker, 11 and 44 yards), 1 INT in the 33-30 loss to BUF. [pod 10-19, deployment]
+- 2026-10-26: Klint Kubiak said Kirk Cousins starts Week 8 vs NYJ and that Fernando Mendoza will play at some point, not this week (NFL.com). [pod 10-27, coach]
 
 ## Backfield
 

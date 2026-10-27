@@ -54,6 +54,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jacoby Brissett 29 of 47 for 292, 3 TD, 1 INT vs DET. [pod 10-13, deployment]
 - 2026-10-11: Jacoby Brissett: 29 of 47 for 292, 3 TDs, 1 INT in the 45-21 loss at DET. [pod 10-14, deployment]
 - 2026-10-18: Jacoby Brissett: 24 of 35 for 218, 0 TD, 1 INT in the 18-16 win @LAR; Carson Beck inactive as the emergency third QB. [pod 10-19, official]
+- 2026-10-22: Carson Beck: back spasms took him off the practice field; LaFleur said it is not long term. Jacoby Brissett started Week 7 and went 27 of 48 for 272 and a TD in the 30-16 loss to DEN; Michael Wilson caught 4 for 55 on 8 targets and ran twice for 11 (ArizonaSports). [pod 10-27, coach]
 
 ## Backfield
 
@@ -97,6 +98,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Jeremiyah Love: 12 carries for 22, 1 target, no catch vs DET. [pod 10-14, deployment]
 - 2026-10-16: Jeremiyah Love (ankle) ruled out Week 6 @LAR after DNP all week, confirmed by Mike LaFleur; Tyler Allgeier leads the backfield. [NFL.com, Yahoo Sports]
 - 2026-10-19: With Jeremiyah Love out in Week 6 @LAR: Tyler Allgeier 40 snaps (56%), 18 carries for 38; Bam Knight 32 snaps (44%), 15 for 80, 2 for 18, most of the red-zone touches; ARI 0 for 5 in the red zone, Chad Ryland 6 of 6 FGs in the 18-16 win (team box score, ESPN).
+- 2026-10-26: Jeremiyah Love (ankle) will practice Wednesday per Mike LaFleur after missing two games; Week 8 at DAL is the target (Arizona Republic). [pod 10-27, coach]
 
 ## Receivers
 

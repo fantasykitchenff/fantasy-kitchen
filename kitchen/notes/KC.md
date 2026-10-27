@@ -121,6 +121,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Rashee Rice (hamstring, knee) ruled out Week 6 vs LAC after no practice all week; LT Josh Simmons (back) out. [NFL.com, CBS]
 - 2026-10-18: Xavier Worthy: 7 of 7 for 73 vs LAC with Rashee Rice (hamstring, knee) and Tyquan Thornton (IR, ankle) out; Travis Kelce 4 for 53 on 5, played through an early ankle injury. [pod 10-19, deployment]
 - 2026-10-18: Jalen Royals ran 84 percent of the routes, Cyrus Allen 13 percent; Travis Kelce played through an ankle injury, 4 for 53. [pod 10-20, deployment]
+- 2026-10-25: Rashee Rice (hamstring, knee) was ruled out for SNF at SEA; Kenneth Walker ran 14 times for 36 and caught 4 for 21 on 5 targets in the 20-3 loss, Kansas City's first of the season. [pod 10-27, official]
 
 ## Tight ends
 

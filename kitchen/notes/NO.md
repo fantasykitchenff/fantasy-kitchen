@@ -156,6 +156,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-11: Jordyn Tyson: Tyson profiles as a zone-beating, easier-looks receiver who complements Chris Olave's vertical, man-beating role. [8-11 Fantasy Target Debate]
 - 2026-08-11: Jordyn Tyson: A Saints beat writer who watches every practice said Tyson could be in the conversation for best player on the team by Week 12; he went No. 8 overall despite injury concerns and no combine workout. [8-11 news and risers and fallers - rankings update]
 - 2026-08-13: Jordyn Tyson: Tyson entered the NFL with a 99th-percentile breakout score, one of the strongest analytical profiles in the class; health is the main question. [8-13 Fantasy Draft Values And Injury Shifts]
+- 2026-10-27: Jordyn Tyson (hamstring) has not played a regular-season snap; with the Week 8 bye his earliest debut is Week 9 vs CLE. Travis Etienne Jr. (IR, hamstring) is eligible Week 9. Kendre Miller's Week 7 fumble was overturned on review, so it was not a lost fumble. Kelvin Banks Jr. remains on IR after ankle surgery with no timeline. [pod 10-27, official]
 
 ## Transactions and contracts
 

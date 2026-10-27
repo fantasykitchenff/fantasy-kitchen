@@ -153,6 +153,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-18: Travis Hunter: 4 of 4 for 59 and his first NFL TD (7 yards) on 9 offensive snaps (5 first half, 4 second), plus 62 defensive snaps and an end-zone INT; first player since 2002 with a TD catch and an INT in one game. [pod 10-19, deployment]
 - 2026-10-19: Brian Thomas Jr.: Liam Coen called his status week to week after the second-half benching vs HOU (0 catches on 2 targets, both off his hands). [pod 10-19, beat]
 - 2026-10-18: Brian Thomas Jr. ran 13 of 44 routes and none after halftime; Josh Cameron took most of his routes (42 percent); Travis Hunter ran about 16 to 20 percent. [pod 10-20, deployment]
+- 2026-10-27: Brian Thomas Jr.: Schefter and Rapoport expect trade calls to pick up, and Jeremy Fowler reported executives believe Jacksonville will seriously consider a deal; he has a 43 percent snap share and 0 catches on 5 targets over his last two games. [pod 10-27, beat]
 
 ## Tight ends
 
@@ -167,6 +168,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-20: Jacksonville's line is viewed as less than the sum of its parts; T Cole Van Lanen, its best lineman, is on PUP after a late-2025 injury with rumors it could be long-term. [8-20 Offensive Line Rankings]
 - 2026-08-23: An offensive line analyst rates the Jaguars' line very low entering 2026; their second-half offensive surge last season came against a very soft schedule. [8-23 highstakes draft]
 - 2026-10-13: RT Anton Harrison had a knee scope and will miss a few weeks (Rapoport). [pod 10-14, beat]
+- 2026-10-22: Anton Harrison: arthroscopic knee surgery revealed a torn ACL, ending his season; Walker Little is starting at left tackle (CBS Sports). [pod 10-27, official]
 
 ## Depth chart
 

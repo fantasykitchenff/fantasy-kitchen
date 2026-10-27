@@ -164,6 +164,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Jalen Coker (quad) inactive vs DET Sunday night; LG Damien Lewis out, Corey Bullock starts (panthers.com).
 - 2026-10-13: Jalen Coker (quad): Dave Canales said Monday he is on track to return @PHI (Joe Person, The Athletic, via DK Network).
 - 2026-10-22: Bryce Young: full practice Thursday with the knee (NFL.com Thursday roundup).
+- 2026-10-27: Tuesday's estimated report before Thursday at GB: Damien Lewis (knee), Jaelan Phillips, Simpkins and Evans did not practice; Bryce Young (knee) was a full participant. In Week 7 Young was sacked 5 times and went 14 of 27 for 163, 1 TD and 2 INTs before Kenny Pickett finished the game (Panthers.com, Charlotte Observer). [pod 10-27, official]
 
 ## Other
 

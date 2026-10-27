@@ -85,6 +85,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Friday report @LV: DJ Moore (shoulder) limited Friday after DNP Wednesday (walkthrough estimate) and Thursday, questionable; Joshua Palmer (shoulder) limited all week, questionable; Keon Coleman full all week, no designation. [raiders.com joint report, nfl.com]
 - 2026-10-19: DJ Moore inactive (shoulder) in Week 6 @LV; Keon Coleman 4 for 59 and a TD (CBS box score).
 - 2026-10-18: With DJ Moore inactive (shoulder) a second straight game, Keon Coleman caught 4 of 6 for 59 and a 12-yard TD; Khalil Shakir 4 of 6 for 34 and a TD. [pod 10-19, deployment]
+- 2026-10-26: DJ Moore (re-aggravated AC joint sprain) missed Weeks 5 and 6 before the Week 7 bye, and all signs point to him playing vs BAL Nov 1; Dalton Kincaid's 8 targets (7 for 38) came in Week 6 vs LV (Yahoo Sports). [pod 10-27, beat]
 
 ## Tight ends
 

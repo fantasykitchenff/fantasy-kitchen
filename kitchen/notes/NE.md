@@ -23,6 +23,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Drake Maye: 26 of 34 for 374 and 4 TDs, 7 carries for 25 and a TD vs LV (patriots.com box).
 - 2026-10-11: Drake Maye 26 of 34 for 374 and 4 TDs plus 7-25-1 rushing vs LV, the week's top QB; after 21.6 fantasy points in Weeks 1 to 3 combined. [pod 10-13, deployment]
 - 2026-10-18: Drake Maye: 18 of 32 for 235 and 3 TD (Doubs, Douglas, Hunter Henry), no turnovers vs NYJ; 3, 4 and 3 TD passes in Weeks 4-6, 10 TD on 103 attempts (9.7%). [pod 10-19, deployment]
+- 2026-10-22: Drake Maye: 24 of 31 for 321, 2 TDs, 1 INT plus 4 carries for 26 and a TD in the 30-24 loss at CHI. [pod 10-27, official]
 
 ## Backfield
 
@@ -66,6 +67,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Week 6 vs NYJ: Rhamondre Stevenson 41 snaps, 14 for 36; Corey Kiner 11 for 57; TreVeyon Henderson back, 7 for 31 on 16 snaps, lost a fumble (CBS box score; snaps single source).
 - 2026-10-18: TreVeyon Henderson had 2 carries after his third-quarter fumble and no touches over the last 25 minutes; Corey Kiner's 11 carries for 57 all came after it. [pod 10-20, deployment]
 - 2026-10-26: Week 7 at CHI: Rhamondre Stevenson 37 snaps (69%), 6-22, 5-93-1; TreVeyon Henderson a season-low 13 snaps, Mike Vrabel wanted Corey Kiner to get carries; Hunter Henry 7-71 on 7 targets (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
+- 2026-10-22: TreVeyon Henderson played 12 to 13 of 54 snaps (22 to 24 percent) at CHI, 3 carries for 9 and 2 catches for 14; he posted a message about struggling on Instagram on Oct 25. [pod 10-27, deployment]
 
 ## Receivers
 

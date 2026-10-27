@@ -94,6 +94,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Aaron Jones Sr. 25 carries for 113 and a TD plus 3 catches for 28 @NO. Jordan Mason (thumb) has been on IR since 9/16 and is expected back in Week 7 after the bye. [pod 10-14, deployment]
 - 2026-10-19: Jordan Mason was designated to return from IR, opening his practice window before Week 7 vs IND. [pod 10-20, official]
 - 2026-10-26: Week 7 vs IND: Jordan Mason 38 snaps (64%), 15-68; Aaron Jones Sr. 15 snaps (25%), 8-26, MRI on the aggravated left MCL scheduled Monday. T.J. Hockenson 45 snaps (76%), 4-35-1 on 5 targets (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
+- 2026-10-25: Aaron Jones Sr. aggravated the left-knee MCL sprain from Week 2, called not significant and day to day; Jordan Mason ran 15 times for 68 in his return from IR; Minnesota is 6-0. [pod 10-27, coach]
 
 ## Receivers
 

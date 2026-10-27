@@ -197,6 +197,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-12: Tre' Harris week to week (hamstring); Quentin Johnston (chest) inactive Week 5; Joe Alt seeing a neck specialist; Scott Matlock back from IR. Harbaugh said Ladd McConkey would practice Wednesday. [pod 10-14, coach]
 - 2026-10-15: Ladd McConkey, Quentin Johnston limited Thursday; Joe Alt DNP; FB Alec Ingold to IR. [NFL.com Thursday roundup, team reports]
 - 2026-10-19: Ladd McConkey ruled out with a concussion early in Q2 of Week 6 @KC; LAC on bye in Week 7 (CBS box score, chargers.com).
+- 2026-10-26: In Monday's bonus practice after the bye, Ladd McConkey (concussion) worked in a non-contact jersey and Joe Alt (neck) returned; Derwin James and Tre' Harris (hamstrings) worked on the side field. [pod 10-27, beat]
 
 ## Other
 

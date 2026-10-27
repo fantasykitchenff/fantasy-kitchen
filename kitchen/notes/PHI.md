@@ -48,6 +48,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-04: Jalen Hurts was held under 100 passing yards in the 24-20 loss to LAR without DeVonta Smith (Yahoo, CBS Sports). [pod 10-5, deployment]
 - 2026-10-11: Jalen Hurts 21 of 40 for 220 and a TD in London. [pod 10-13, deployment]
 - 2026-10-18: Tanner McKee: 26 of 45 for 215 and a TD (19 yards to DeVonta Smith) with a lost fumble in the 25-14 loss to CAR; Philadelphia ran for 35 yards and punted on its first five drives. [pod 10-19, deployment]
+- 2026-10-26: Tanner McKee: 23 of 35 for 211, 1 TD, 1 INT and 2 sacks on all 66 snaps in the 38-21 loss to DAL; Philadelphia is 2-5 (footballdb). [pod 10-27, official]
 
 ## Backfield
 
@@ -92,6 +93,8 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: Dameon Pierce: 12 for 35 and a TD, 4 for 15 in Week 6 vs CAR, all of PHI's rushing yards; Saquon Barkley inactive (hamstring); Carson Steele left with a shoulder injury (CBS box score, PhillyVoice).
 - 2026-10-18: Dameon Pierce played 61 of 64 snaps; Jaydon Blue was active and did not play; DeVonta Smith ran 71 percent of the routes with 32 percent of the targets. [pod 10-20, deployment]
 - 2026-10-27: Saquon Barkley says the hamstring came out great and the back will not keep him out Week 8 vs WAS; Dameon Pierce (undisclosed) left with 8:38 left Monday (RotoWire, Philadelphia Inquirer).
+- 2026-10-26: Saquon Barkley: 7 carries for 62 and his first TD of the season, 2 catches for 9, on 10 snaps (15 percent) vs DAL; he aggravated the hamstring on the first drive and left in the third quarter with a back injury; Tuesday he said neither injury should keep him out Sunday night at WAS (footballdb, Yahoo snap counts, Philadelphia Inquirer, ESPN). [pod 10-27, official]
+- 2026-10-26: Dameon Pierce: 14 carries for 47 and a TD and 1 catch on 42 snaps (64 percent), then left in the fourth quarter with an undisclosed injury; Elijah Mitchell, elevated from the practice squad, had 3 carries for 11 and 3 catches for 23 on 14 snaps and was the only back left. Tank Bigsby (abdomen) and Will Shipley (foot) are on IR; Carson Steele was waived/injured on Oct 20 (footballdb, Inquirer, philadelphiaeagles.com). [pod 10-27, official]
 
 ## Receivers
 
@@ -132,6 +135,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-19: DeVonta Smith: 14 targets, 7 for 75 and a TD with Tanner McKee starting in Week 6 vs CAR (CBS box score).
 - 2026-10-18: Makai Lemon: 3 catches for 19 on 6 targets vs CAR in Tanner McKee's first start. [pod 10-19, deployment]
 - 2026-10-27: Makai Lemon: snap share 70%, 74%, 81%, 81%, 91% in Weeks 3 to 7; 7-67-1 on 8 targets vs DAL (snap counts via Pro-Football-Reference/nflverse; nflverse weekly stats).
+- 2026-10-26: Makai Lemon: 7 catches for 67 and his first NFL TD on 8 targets, 60 snaps (91 percent), mostly from the slot, with DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) inactive; no timeline was given for either. Marquise Brown returned from a four-game absence with 2 catches for 30 on 5 targets; Dallas Goedert 5 for 48 on 7 targets (footballdb). [pod 10-27, official]
 
 ## Tight ends
 
