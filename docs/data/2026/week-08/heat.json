@@ -6,9 +6,9 @@
   "dek": "Colston Loveland's targets went 5, 7, 12. The stove's on in Chicago.",
   "format": "PPR",
   "publishedAt": "2026-10-27T17:01:00Z",
-  "updatedAt": "2026-10-27T23:35:00Z",
+  "updatedAt": "2026-10-27T23:45:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 7:35 PM ET: D'Andre Swift played 54 snaps vs NE, not 59; he is still RB13 rest of season for me, so hold him.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or took a role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 8 lineup ranks come with Wednesday's Menu.",
+  "intro_md": "Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand. Updated Tue 7:35 PM ET: D'Andre Swift played 54 snaps vs NE, not 59; he is still RB10 rest of season for me, so hold him.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or took a role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 8 lineup ranks come with Wednesday's Menu.",
   "outro_md": null,
   "data": {
     "risers": [
@@ -18,7 +18,7 @@
         "pos": "TE",
         "stat": "Targets 5, 7, 12; share 12% to 21% to 40%",
         "why": "Colston Loveland (CHI) led Chicago with 12 targets vs NE and caught 7 for 69 and a TD on 84 percent of the snaps. His share has climbed three straight games, and Cole Kmet's knee injury is season-ending.",
-        "verdict": "TE4 rest of season for me. Trade for him; offer a WR2.",
+        "verdict": "TE6 rest of season for me. Trade for him; offer a WR2.",
         "action": "TRADE_FOR",
         "price": "a WR2"
       },
@@ -28,7 +28,7 @@
         "pos": "WR",
         "stat": "Targets 5, 7, 12; share 14% to 18% to 28%",
         "why": "Tre Tucker (LV) caught 5 of 12 targets for 103 and a TD vs LAR on 82 percent of the snaps. Last week's sell was on two touchdowns from 7 targets; the targets have caught up since.",
-        "verdict": "WR55 rest of season for me, and the targets say higher. Claim him, 4 to 8 percent of FAAB.",
+        "verdict": "WR40 rest of season for me, and the targets say higher. Claim him, 4 to 8 percent of FAAB.",
         "action": "CLAIM",
         "faab": "4-8%"
       },
@@ -38,7 +38,7 @@
         "pos": "WR",
         "stat": "Targets 1, 6, 10; share 3% to 24% to 29%",
         "why": "KC Concepcion Jr. (CLE) caught 8 of 10 targets for 129 at TEN on 79 percent of the snaps, the most targets on the Browns, and added 3 carries for 23.",
-        "verdict": "WR40 rest of season for me. Add him, 3 to 6 percent of FAAB.",
+        "verdict": "WR37 rest of season for me. Add him, 3 to 6 percent of FAAB.",
         "action": "ADD",
         "faab": "3-6%"
       },
@@ -48,7 +48,7 @@
         "pos": "WR",
         "stat": "Snap share 81%, 81%, 91%; 8 targets Monday",
         "why": "Makai Lemon (PHI) caught 7 of 8 targets for 67 and a TD vs DAL Monday with DeVonta Smith and Dontayvion Wicks out, his best game as a pro. His snap share has climbed from 70 percent in Week 3 to 91 percent.",
-        "verdict": "WR47 rest of season for me. Add him, 2 to 5 percent of FAAB, before Smith's Wednesday practice report.",
+        "verdict": "WR50 rest of season for me. Add him, 2 to 5 percent of FAAB, before Smith's Wednesday practice report.",
         "action": "ADD",
         "faab": "2-5%"
       },
@@ -58,7 +58,7 @@
         "pos": "RB",
         "stat": "38 snaps to Aaron Jones Sr.'s 15 in his first game off IR",
         "why": "Jordan Mason (MIN) ran 15 times for 68 vs IND and led the backs before Aaron Jones Sr. aggravated the MCL sprain in his left knee. Jones is day to day.",
-        "verdict": "RB33 rest of season for me. Claim him, 10 to 20 percent of FAAB.",
+        "verdict": "RB26 rest of season for me. Claim him, 10 to 20 percent of FAAB.",
         "action": "CLAIM",
         "faab": "10-20%"
       },
@@ -68,7 +68,7 @@
         "pos": "RB",
         "stat": "49% of the snaps off IR, the most of any Denver back",
         "why": "Jonah Coleman (DEN) played 30 snaps at ARI and ran 9 times for 54 with 2 catches, while J.K. Dobbins played 14 and RJ Harvey 16.",
-        "verdict": "RB49 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
+        "verdict": "RB27 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
         "action": "CLAIM",
         "faab": "5-10%"
       },
@@ -78,7 +78,7 @@
         "pos": "RB",
         "stat": "Snap share 58% and 58%, then 54 snaps in Week 7; carries 9, 16, 22",
         "why": "D'Andre Swift (CHI) played 54 snaps vs NE to Roschon Johnson's 10 and ran 22 times for 78 and a TD with Kyle Monangai out a third game. Johnson took 2 carries. Monangai's return to practice is what would change the call.",
-        "verdict": "RB13 rest of season for me. Hold him; do not sell into Monangai's return.",
+        "verdict": "RB10 rest of season for me. Hold him; do not sell into Monangai's return.",
         "action": "HOLD"
       },
       {
@@ -87,7 +87,7 @@
         "pos": "RB",
         "stat": "25 carries on 83% of the snaps",
         "why": "Ollie Gordon II (MIA) ran 25 times for 103 and a TD at NYJ in Miami's first win. Jaylen Wright played 8 snaps before a quad injury.",
-        "verdict": "RB45 rest of season for me. Add him, 2 to 5 percent of FAAB.",
+        "verdict": "RB19 rest of season for me. Add him, 2 to 5 percent of FAAB.",
         "action": "ADD",
         "faab": "2-5%"
       },
@@ -97,7 +97,7 @@
         "pos": "QB",
         "stat": "3 TD passes in each of the last two games, 0 INTs in three",
         "why": "Michael Penix Jr. (ATL) went 25 of 34 for 213 and 3 TDs vs SF after 3 TDs at CHI, with no interception in his last three games. Atlanta plays at TB Sunday.",
-        "verdict": "QB24 rest of season for me. Add him in superflex, 1 to 3 percent of FAAB.",
+        "verdict": "QB18 rest of season for me. Add him in superflex, 1 to 3 percent of FAAB.",
         "action": "ADD",
         "faab": "1-3%"
       },
@@ -107,7 +107,7 @@
         "pos": "RB",
         "stat": "Snap share 26% to 56%; 7 targets",
         "why": "Alvin Kamara (NO) out-snapped Kendre Miller 32 to 22 vs PIT and caught all 7 of his targets for 57 through a back injury. New Orleans is on bye in Week 8; Miller back over 30 snaps is what would change the call.",
-        "verdict": "RB41 rest of season for me. Hold him through the bye.",
+        "verdict": "RB40 rest of season for me. Hold him through the bye.",
         "action": "HOLD"
       },
       {
@@ -116,7 +116,7 @@
         "pos": "WR",
         "stat": "Snap share 52%, 61%, 89%; 7 targets",
         "why": "Elic Ayomanor (TEN) drew 7 targets vs CLE, 23 percent of the throws, after 2 in each of the two games before, and caught 3 for 44 with Calvin Ridley inactive.",
-        "verdict": "WR86 rest of season for me. Add him in deep leagues, 0 to 2 percent of FAAB.",
+        "verdict": "WR98 rest of season for me. Add him in deep leagues, 0 to 2 percent of FAAB.",
         "action": "ADD",
         "faab": "0-2%"
       },
@@ -126,7 +126,7 @@
         "pos": "WR",
         "stat": "Snap share 68%, 87%, 78%",
         "why": "Ryan Flournoy (DAL) caught all 4 targets for 70 at PHI and has out-targeted Jake Ferguson 13 to 4 over the last two games as the third option behind CeeDee Lamb and George Pickens.",
-        "verdict": "WR67 rest of season for me. Add him in deep leagues, 0 to 2 percent of FAAB.",
+        "verdict": "WR60 rest of season for me. Add him in deep leagues, 0 to 2 percent of FAAB.",
         "action": "ADD",
         "faab": "0-2%"
       }
@@ -138,7 +138,7 @@
         "pos": "WR",
         "stat": "Target share 38% to 21% to 10%",
         "why": "Garrett Wilson (NYJ) caught 2 of 3 targets for 26 vs MIA on 85 percent of the snaps, while Omar Cooper Jr. caught 5 for 115 and a TD. Aaron Glenn put the missing targets on himself.",
-        "verdict": "WR13 rest of season for me. Monitor; his targets vs LV Sunday.",
+        "verdict": "WR17 rest of season for me. Monitor; his targets vs LV Sunday.",
         "action": "MONITOR",
         "watch": "his targets vs LV Sunday"
       },
@@ -148,7 +148,7 @@
         "pos": "TE",
         "stat": "Target share 25% to 17% to 6%",
         "why": "Sam LaPorta (DET) played 97 percent of the snaps vs GB and caught 1 of 2 targets for 18, while Amon-Ra St. Brown drew 11 and Jameson Williams 9.",
-        "verdict": "TE6 rest of season for me. Monitor; his targets vs MIN Sunday.",
+        "verdict": "TE5 rest of season for me. Monitor; his targets vs MIN Sunday.",
         "action": "MONITOR",
         "watch": "his targets vs MIN Sunday"
       },
@@ -158,7 +158,7 @@
         "pos": "TE",
         "stat": "Target share 26% to 15%; 2 catches for 12",
         "why": "Isaiah Likely (NYG) caught 2 of 4 targets at HOU in J.J. McCarthy's first start, after 24 targets over the two weeks before. New York is on bye in Week 8.",
-        "verdict": "TE8 rest of season for me. Monitor; his targets at PHI in Week 9.",
+        "verdict": "TE4 rest of season for me. Monitor; his targets at PHI in Week 9.",
         "action": "MONITOR",
         "watch": "his targets at PHI in Week 9"
       },
@@ -168,7 +168,7 @@
         "pos": "WR",
         "stat": "Targets 9, 12, then 5",
         "why": "Germie Bernard (PIT) caught 3 of 5 for 27 vs NO on 91 percent of the snaps, while Rico Dowdle drew 6 targets out of the backfield.",
-        "verdict": "WR56 rest of season for me. Monitor; his targets vs CLE Sunday.",
+        "verdict": "WR42 rest of season for me. Monitor; his targets vs CLE Sunday.",
         "action": "MONITOR",
         "watch": "his targets vs CLE Sunday"
       },
@@ -178,7 +178,7 @@
         "pos": "RB",
         "stat": "Snap share 73%, 72%, 51%; Blake Corum's carries 5, 9, 17",
         "why": "Kyren Williams (LAR) ran 16 times for 99 and a TD at LV, but Blake Corum played 44 percent of the snaps and had 6 carries in the red zone. The Rams led 28-6 at halftime.",
-        "verdict": "RB10 rest of season for me. Monitor; the snap split vs LAC Sunday.",
+        "verdict": "RB7 rest of season for me. Monitor; the snap split vs LAC Sunday.",
         "action": "MONITOR",
         "watch": "the snap split vs LAC Sunday"
       },
@@ -188,7 +188,7 @@
         "pos": "RB",
         "stat": "Snap share 87% in Week 5, then 25%",
         "why": "Aaron Jones Sr. (MIN) played 15 snaps vs IND behind Jordan Mason before he aggravated the MCL sprain in his left knee. Adam Schefter reported it is not considered significant.",
-        "verdict": "RB27 rest of season for me. Monitor; Wednesday's Vikings injury report.",
+        "verdict": "RB33 rest of season for me. Monitor; Wednesday's Vikings injury report.",
         "action": "MONITOR",
         "watch": "Wednesday's Vikings injury report"
       },
@@ -198,7 +198,7 @@
         "pos": "RB",
         "stat": "Carries 28 to 7; snap share 94% to 61%",
         "why": "Chuba Hubbard (CAR) ran 7 times for 33 in the 43-13 loss to TB, a week after 28 carries at PHI. Most of the drop was the score; he still caught 4 of 5 targets.",
-        "verdict": "RB21 rest of season for me. Monitor; his carries at GB Thursday night.",
+        "verdict": "RB11 rest of season for me. Monitor; his carries at GB Thursday night.",
         "action": "MONITOR",
         "watch": "his carries at GB Thursday night"
       },
@@ -208,7 +208,7 @@
         "pos": "QB",
         "stat": "14 of 27 for 163, pulled in the fourth quarter",
         "why": "Bryce Young (CAR) threw 2 interceptions and was sacked 5 times vs TB before Kenny Pickett finished the game. He was a full participant on Monday's estimated report, and Dave Canales gave no reason beyond the score.",
-        "verdict": "QB12 rest of season for me. Monitor; Canales' word on Thursday's starter.",
+        "verdict": "QB15 rest of season for me. Monitor; Canales' word on Thursday's starter.",
         "action": "MONITOR",
         "watch": "Dave Canales' word on Thursday's starter"
       },
@@ -218,7 +218,7 @@
         "pos": "RB",
         "stat": "Snap share 16%, 24%, 24%; 13 snaps and 3 carries at CHI",
         "why": "TreVeyon Henderson (NE) played a season-low 13 snaps at CHI, and Mike Vrabel said he wants Corey Kiner to get carries too. Rhamondre Stevenson played 69 percent.",
-        "verdict": "RB28 rest of season for me. Trade him away; ask for a bench WR with a weekly role.",
+        "verdict": "RB38 rest of season for me. Trade him away; ask for a bench WR with a weekly role.",
         "action": "TRADE_AWAY",
         "price": "a bench WR with a weekly role"
       },
@@ -228,7 +228,7 @@
         "pos": "RB",
         "stat": "Snap share 52%, 52%, 23%",
         "why": "J.K. Dobbins (DEN) played 14 snaps at ARI behind Jonah Coleman and ran 6 times for 23. His TD came on the only carry he had inside the 5.",
-        "verdict": "RB36 rest of season for me. Drop him for Coleman or any add on the list.",
+        "verdict": "RB42 rest of season for me. Drop him for Coleman or any add on the list.",
         "action": "DROP"
       },
       {
@@ -237,7 +237,7 @@
         "pos": "RB",
         "stat": "Snap share 35%, then 26%",
         "why": "Mike Washington Jr. (LV) played 18 snaps vs LAR and ran 6 times for 27, while Ashton Jeanty went back up to 72 percent. Last week's claim was on half the early downs, and that share went back to Jeanty.",
-        "verdict": "RB48 rest of season for me. Drop him for any add on the list.",
+        "verdict": "RB45 rest of season for me. Drop him for any add on the list.",
         "action": "DROP"
       },
       {
@@ -246,7 +246,7 @@
         "pos": "RB",
         "stat": "Carries 20, then 8 for 6 yards",
         "why": "Kendre Miller (NO) played 22 snaps to Alvin Kamara's 32 vs PIT, and New Orleans ran 17 times for 18 yards. The Saints are on bye in Week 8.",
-        "verdict": "RB64 rest of season for me. Drop him for any add on the list.",
+        "verdict": "RB50 rest of season for me. Drop him for any add on the list.",
         "action": "DROP"
       },
       {
@@ -255,7 +255,7 @@
         "pos": "TE",
         "stat": "Target share 14% to 6% to 4%",
         "why": "Jake Ferguson (DAL) did not catch his one target at PHI, and Brevyn Spann-Ford has taken the inline snaps since Week 6. Ferguson has not topped 43 yards in a game this season.",
-        "verdict": "TE17 rest of season for me. Drop him for any tight end on the list.",
+        "verdict": "TE28 rest of season for me. Drop him for any tight end on the list.",
         "action": "DROP"
       },
       {
@@ -264,7 +264,7 @@
         "pos": "TE",
         "stat": "Target share 21% to 7% to 8%",
         "why": "Juwan Johnson (NO) has 1 catch for 7 yards over the last two games, on 58 and 56 percent of the snaps. New Orleans is on bye in Week 8.",
-        "verdict": "TE13 rest of season for me. Drop him for any tight end on the list.",
+        "verdict": "TE17 rest of season for me. Drop him for any tight end on the list.",
         "action": "DROP"
       },
       {
@@ -273,7 +273,7 @@
         "pos": "TE",
         "stat": "3 targets on 74% of the snaps; share 12%, 12%, 10%",
         "why": "Tyler Higbee (LAR) caught 2 of 3 for 14 at LV, while Colby Parkinson drew 6 targets and Davis Allen caught 2 TDs. Three tight ends are splitting the work with Davante Adams out.",
-        "verdict": "TE36 rest of season for me. Drop him for any tight end on the list.",
+        "verdict": "TE24 rest of season for me. Drop him for any tight end on the list.",
         "action": "DROP"
       }
     ]

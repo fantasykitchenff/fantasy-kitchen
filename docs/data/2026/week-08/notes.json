@@ -6,15 +6,15 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "updatedAt": "2026-10-27T23:35:00Z",
+  "updatedAt": "2026-10-27T23:45:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 7:35 PM ET: added Antonio Williams and Omar Cooper Jr. as claims, Seth McGowan and Kaelon Black as stashes, and Wednesday-to-Friday practice watches on Breece Hall, Jeremiyah Love, Amon-Ra St. Brown, Emeka Egbuka, Jaylen Waddle and Ladd McConkey.",
+  "intro_md": "Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand. Updated Tue 7:35 PM ET: added Antonio Williams and Omar Cooper Jr. as claims, Seth McGowan and Kaelon Black as stashes, and Wednesday-to-Friday practice watches on Breece Hall, Jeremiyah Love, Amon-Ra St. Brown, Emeka Egbuka, Jaylen Waddle and Ladd McConkey.",
   "outro_md": null,
   "data": {
     "items": [
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Antonio Williams (WAS) played 45 snaps at SF in Week 6, the most of any Washington receiver, and caught 3 of 4 targets for 50. Dan Quinn said Monday he expects Williams to get more chances with Terry McLaurin out for the season. WR66 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
+        "text": "Antonio Williams (WAS) played 45 snaps at SF in Week 6, the most of any Washington receiver, and caught 3 of 4 targets for 50. Dan Quinn said Monday he expects Williams to get more chances with Terry McLaurin out for the season. WR46 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
         "player": "Antonio Williams",
         "pos": "WR",
         "action": "CLAIM",
@@ -22,7 +22,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Omar Cooper Jr. (NYJ) ran a route on 70 percent of the dropbacks vs MIA to Adonai Mitchell's 55 and caught 5 for 115 and a TD on 38 snaps. Garrett Wilson drew 3 targets on 50 snaps and stays WR13 rest of season for me; hold him. Cooper is WR62 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
+        "text": "Omar Cooper Jr. (NYJ) ran a route on 70 percent of the dropbacks vs MIA to Adonai Mitchell's 55 and caught 5 for 115 and a TD on 38 snaps. Garrett Wilson drew 3 targets on 50 snaps and stays WR17 rest of season for me; hold him. Cooper is WR35 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
         "player": "Omar Cooper Jr.",
         "pos": "WR",
         "action": "CLAIM",
@@ -30,7 +30,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Seth McGowan (IND) ran 11 times for 46 on 18 snaps vs MIN, both season highs, while Jonathan Taylor played 41 snaps and ran 18 times for 95 and a TD. Indianapolis traded Quenton Nelson to Seattle Tuesday, and reports say the Colts do not want to move Taylor but have not ruled it out before the Nov 10 deadline. Taylor is RB3 rest of season for me; hold him. McGowan is RB74 rest of season for me, a deadline bet and not a role. Stash him in deep leagues, 1 to 3 percent of FAAB.",
+        "text": "Seth McGowan (IND) ran 11 times for 46 on 18 snaps vs MIN, both season highs, while Jonathan Taylor played 41 snaps and ran 18 times for 95 and a TD. Indianapolis traded Quenton Nelson to Seattle Tuesday, and reports say the Colts do not want to move Taylor but have not ruled it out before the Nov 10 deadline. Taylor is RB6 rest of season for me; hold him. McGowan is RB61 rest of season for me, a deadline bet and not a role. Stash him in deep leagues, 1 to 3 percent of FAAB.",
         "player": "Seth McGowan",
         "pos": "RB",
         "action": "STASH",
@@ -38,7 +38,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Mike Macdonald said Zach Charbonnet (SEA), inactive in Week 7 with a knee issue, is trending toward his debut Monday vs CHI, and Jadarian Price (chest) will be designated to return from IR this week. Price is RB37 rest of season for me; keep him stashed. Charbonnet is RB40 rest of season for me. Monitor Seattle's practice reports, then Monday's inactives.",
+        "text": "Mike Macdonald said Zach Charbonnet (SEA), inactive in Week 7 with a knee issue, is trending toward his debut Monday vs CHI, and Jadarian Price (chest) will be designated to return from IR this week. Price is RB48 rest of season for me; keep him stashed. Charbonnet is RB37 rest of season for me. Monitor Seattle's practice reports, then Monday's inactives.",
         "player": "Zach Charbonnet",
         "pos": "RB",
         "action": "MONITOR",
@@ -46,7 +46,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Breece Hall (NYJ) missed his fourth straight game with the quad and is targeting a return Sunday vs LV. RB17 rest of season for me. Monitor Wednesday's Jets practice report.",
+        "text": "Breece Hall (NYJ) missed his fourth straight game with the quad and is targeting a return Sunday vs LV. RB23 rest of season for me. Monitor Wednesday's Jets practice report.",
         "player": "Breece Hall",
         "pos": "RB",
         "action": "MONITOR",
@@ -54,7 +54,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Mike LaFleur said Jeremiyah Love (ARI) will practice Wednesday with the ankle after missing two games, with Sunday at DAL the target. RB15 rest of season for me. Monitor Wednesday's Cardinals practice report.",
+        "text": "Mike LaFleur said Jeremiyah Love (ARI) will practice Wednesday with the ankle after missing two games, with Sunday at DAL the target. RB21 rest of season for me. Monitor Wednesday's Cardinals practice report.",
         "player": "Jeremiyah Love",
         "pos": "RB",
         "action": "MONITOR",
@@ -62,7 +62,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "DJ Moore (BUF) missed Weeks 5 and 6 with a re-aggravated AC joint sprain before the Week 7 bye, and all signs point to him playing vs BAL Sunday. WR28 rest of season for me. Hold him; only a missed practice this week changes that.",
+        "text": "DJ Moore (BUF) missed Weeks 5 and 6 with a re-aggravated AC joint sprain before the Week 7 bye, and all signs point to him playing vs BAL Sunday. WR27 rest of season for me. Hold him; only a missed practice this week changes that.",
         "player": "DJ Moore",
         "pos": "WR",
         "action": "HOLD",
@@ -78,7 +78,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Todd Bowles listed Emeka Egbuka (TB) as questionable for the Atlanta game with concussion and foot injuries and will know more after Wednesday and Thursday practice. WR27 rest of season for me. Monitor Thursday's Buccaneers practice report.",
+        "text": "Todd Bowles listed Emeka Egbuka (TB) as questionable for the Atlanta game with concussion and foot injuries and will know more after Wednesday and Thursday practice. WR33 rest of season for me. Monitor Thursday's Buccaneers practice report.",
         "player": "Emeka Egbuka",
         "pos": "WR",
         "action": "MONITOR",
@@ -86,7 +86,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Jaylen Waddle (DEN) left late at ARI with chest and left shoulder injuries after a season-low 56 percent of the snaps, and his Week 8 status vs KC depends on Thursday and Friday practice. WR19 rest of season for me. Monitor Friday's Broncos injury report.",
+        "text": "Jaylen Waddle (DEN) left late at ARI with chest and left shoulder injuries after a season-low 56 percent of the snaps, and his Week 8 status vs KC depends on Thursday and Friday practice. WR39 rest of season for me. Monitor Friday's Broncos injury report.",
         "player": "Jaylen Waddle",
         "pos": "WR",
         "action": "MONITOR",
@@ -94,7 +94,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Ladd McConkey (LAC) worked in a non-contact jersey in Monday's bonus practice after the bye, still in the concussion protocol. WR24 rest of season for me. Monitor Wednesday's Chargers practice report for full contact.",
+        "text": "Ladd McConkey (LAC) worked in a non-contact jersey in Monday's bonus practice after the bye, still in the concussion protocol. WR34 rest of season for me. Monitor Wednesday's Chargers practice report for full contact.",
         "player": "Ladd McConkey",
         "pos": "WR",
         "action": "MONITOR",
@@ -102,7 +102,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Rashid Shaheed (SEA) left Week 7 vs KC with a knee injury after 22 snaps and 2 catches for 1 yard, and Mike Macdonald said he avoided the worst case. WR60 rest of season for me. Monitor Thursday's Seahawks practice report.",
+        "text": "Rashid Shaheed (SEA) left Week 7 vs KC with a knee injury after 22 snaps and 2 catches for 1 yard, and Mike Macdonald said he avoided the worst case. WR71 rest of season for me. Monitor Thursday's Seahawks practice report.",
         "player": "Rashid Shaheed",
         "pos": "WR",
         "action": "MONITOR",
@@ -110,7 +110,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Brian Thomas Jr. (JAX) has played 43 percent of the snaps with 0 catches on 5 targets over his last two games, and Jacksonville is reported to be seriously considering a trade before the Nov 10 deadline. WR49 rest of season for me. Monitor the trade wire through Nov 10 at 4 PM ET.",
+        "text": "Brian Thomas Jr. (JAX) has played 43 percent of the snaps with 0 catches on 5 targets over his last two games, and Jacksonville is reported to be seriously considering a trade before the Nov 10 deadline. WR66 rest of season for me. Monitor the trade wire through Nov 10 at 4 PM ET.",
         "player": "Brian Thomas Jr.",
         "pos": "WR",
         "action": "MONITOR",
@@ -118,7 +118,7 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Kaelon Black (SF) ran 12 times for 63 and his first career TD at ATL after Christian McCaffrey left briefly. McCaffrey's injury is a mild hamstring strain and he is on track for Week 9 vs LV after the bye; hold McCaffrey. Black is RB61 rest of season for me, a handcuff and not a weekly play. Stash him only in deep leagues, 0 to 2 percent of FAAB.",
+        "text": "Kaelon Black (SF) ran 12 times for 63 and his first career TD at ATL after Christian McCaffrey left briefly. McCaffrey's injury is a mild hamstring strain and he is on track for Week 9 vs LV after the bye; hold McCaffrey. Black is RB46 rest of season for me, a handcuff and not a weekly play. Stash him only in deep leagues, 0 to 2 percent of FAAB.",
         "player": "Kaelon Black",
         "pos": "RB",
         "action": "STASH",
@@ -126,7 +126,7 @@
       },
       {
         "at": "2026-10-27T23:15:00Z",
-        "text": "Lamar Jackson (BAL) is expected to play Sunday at Buffalo, per Ian Rapoport, who said he is believed to be as close to 100 percent as he has been since the Week 4 high ankle sprain. He has missed three straight games. QB2 rest of season for me. Monitor Wednesday's Ravens practice report.",
+        "text": "Lamar Jackson (BAL) is expected to play Sunday at Buffalo, per Ian Rapoport, who said he is believed to be as close to 100 percent as he has been since the Week 4 high ankle sprain. He has missed three straight games. QB6 rest of season for me. Monitor Wednesday's Ravens practice report.",
         "url": "https://www.nbcsports.com/fantasy/football/player-news",
         "player": "Lamar Jackson",
         "pos": "QB",
@@ -135,7 +135,7 @@
       },
       {
         "at": "2026-10-27T23:15:00Z",
-        "text": "Matthew Golden (GB) did not take part in Tuesday's walkthrough with the shoulder and foot injuries, his second straight missed session before Thursday vs CAR. He drew 12 targets at DET in Week 7, and Tucker Kraft (TE5 rest of season for me) is next in line for looks. Golden is WR25 rest of season for me. Monitor Wednesday's final Packers injury report.",
+        "text": "Matthew Golden (GB) did not take part in Tuesday's walkthrough with the shoulder and foot injuries, his second straight missed session before Thursday vs CAR. He drew 12 targets at DET in Week 7, and Tucker Kraft (TE8 rest of season for me) is next in line for looks. Golden is WR14 rest of season for me. Monitor Wednesday's final Packers injury report.",
         "url": "https://www.rotowire.com/football/news.php",
         "player": "Matthew Golden",
         "pos": "WR",
@@ -144,7 +144,7 @@
       },
       {
         "at": "2026-10-27T23:15:00Z",
-        "text": "Jalen Coker (CAR) was a full participant in Tuesday's practice with the shoulder, per ESPN's Mike Kaye, after a limited Monday. Carolina plays Thursday at Green Bay. WR33 rest of season for me. Hold him; only a downgrade on Wednesday's final report changes that.",
+        "text": "Jalen Coker (CAR) was a full participant in Tuesday's practice with the shoulder, per ESPN's Mike Kaye, after a limited Monday. Carolina plays Thursday at Green Bay. WR20 rest of season for me. Hold him; only a downgrade on Wednesday's final report changes that.",
         "url": "https://www.rotowire.com/football/news.php",
         "player": "Jalen Coker",
         "pos": "WR",
@@ -153,7 +153,7 @@
       },
       {
         "at": "2026-10-27T23:15:00Z",
-        "text": "Tyrone Tracy Jr. (NYG) went on injured reserve Tuesday with the hamstring he hurt at Houston, per the Giants' site, so he misses at least four games. Cam Skattebo keeps the backfield after the Week 8 bye. Tracy is RB57 rest of season for me. Drop him for any add on the wire.",
+        "text": "Tyrone Tracy Jr. (NYG) went on injured reserve Tuesday with the hamstring he hurt at Houston, per the Giants' site, so he misses at least four games. Cam Skattebo keeps the backfield after the Week 8 bye. Tracy is RB63 rest of season for me. Drop him for any add on the wire.",
         "url": "https://www.rotowire.com/football/news.php",
         "player": "Tyrone Tracy Jr.",
         "pos": "RB",
@@ -161,7 +161,7 @@
       },
       {
         "at": "2026-10-27T23:15:00Z",
-        "text": "Erick All Jr. (CIN) went on injured reserve Tuesday with the right knee he hurt in the win over Baltimore, and Ian Rapoport reported a torn ACL is feared, the third in that knee. Mike Gesicki is the tight end left standing in Cincinnati. All is TE49 rest of season for me. Drop him.",
+        "text": "Erick All Jr. (CIN) went on injured reserve Tuesday with the right knee he hurt in the win over Baltimore, and Ian Rapoport reported a torn ACL is feared, the third in that knee. Mike Gesicki is the tight end left standing in Cincinnati. All is TE53 rest of season for me. Drop him.",
         "url": "https://www.rotowire.com/football/player/erick-all-17696",
         "player": "Erick All Jr.",
         "pos": "TE",
@@ -169,7 +169,7 @@
       },
       {
         "at": "2026-10-27T23:15:00Z",
-        "text": "Jaylen Wright (MIA) left the win at the Jets with a quad injury after 8 snaps and 6 carries for 8 yards, and his Week 8 status vs NE is open. Ollie Gordon II played 83 percent of the snaps and ran 25 times for 103 and a TD. Wright is RB58 rest of season for me. Monitor Wednesday's Dolphins practice report.",
+        "text": "Jaylen Wright (MIA) left the win at the Jets with a quad injury after 8 snaps and 6 carries for 8 yards, and his Week 8 status vs NE is open. Ollie Gordon II played 83 percent of the snaps and ran 25 times for 103 and a TD. Wright is RB60 rest of season for me. Monitor Wednesday's Dolphins practice report.",
         "url": "https://heavy.com/sports/nfl/miami-dolphins/running-back-suffers-injury-win-jets/",
         "player": "Jaylen Wright",
         "pos": "RB",
@@ -178,7 +178,7 @@
       },
       {
         "at": "2026-10-27T16:30:00Z",
-        "text": "Saquon Barkley (PHI) tweaked the hamstring on the first drive in his return vs DAL Monday, then hurt his back and did not play the fourth quarter of the 38-21 loss. He said neither injury should keep him out Sunday night vs WAS. RB12 rest of season for me. Monitor Wednesday's Eagles injury report.",
+        "text": "Saquon Barkley (PHI) tweaked the hamstring on the first drive in his return vs DAL Monday, then hurt his back and did not play the fourth quarter of the 38-21 loss. He said neither injury should keep him out Sunday night vs WAS. RB18 rest of season for me. Monitor Wednesday's Eagles injury report.",
         "url": "https://www.inquirer.com/eagles/live/eagles-score-news-injury-report-saquon-barkley-next-game-schedule-20261027.html",
         "player": "Saquon Barkley",
         "pos": "RB",
@@ -187,7 +187,7 @@
       },
       {
         "at": "2026-10-27T16:30:00Z",
-        "text": "Dameon Pierce (PHI) led the Eagles with 14 carries for 47 yards and a TD vs DAL Monday on 64 percent of the snaps, then left with 8:38 to go with an undisclosed injury and did not return. Tank Bigsby and Will Shipley are on IR and Carson Steele was waived injured Oct 20, so Elijah Mitchell, up from the practice squad, was the only back left (3 carries, 3 catches for 23 on 14 snaps); leave Mitchell on the wire until Pierce's diagnosis. Pierce is RB91 rest of season for me. Monitor Wednesday's Eagles injury report.",
+        "text": "Dameon Pierce (PHI) led the Eagles with 14 carries for 47 yards and a TD vs DAL Monday on 64 percent of the snaps, then left with 8:38 to go with an undisclosed injury and did not return. Tank Bigsby and Will Shipley are on IR and Carson Steele was waived injured Oct 20, so Elijah Mitchell, up from the practice squad, was the only back left (3 carries, 3 catches for 23 on 14 snaps); leave Mitchell on the wire until Pierce's diagnosis. Pierce is RB70 rest of season for me. Monitor Wednesday's Eagles injury report.",
         "url": "https://www.rotowire.com/football/news.php",
         "player": "Dameon Pierce",
         "pos": "RB",

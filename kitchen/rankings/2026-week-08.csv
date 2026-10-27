@@ -1,0 +1,244 @@
+RK,PLAYER NAME,TEAM,POS,OPP
+1,Josh Allen,BUF,QB1,vs. BAL
+2,Jaxon Smith-Njigba,SEA,WR1,vs. CHI
+3,Bijan Robinson,ATL,RB1,at TB
+4,Drake Maye,NE,QB2,at MIA
+5,Puka Nacua,LAR,WR2,vs. LAC
+6,Joe Burrow,CIN,QB3,vs. TEN
+7,Jahmyr Gibbs,DET,RB2,vs. MIN
+8,Lamar Jackson,BAL,QB4,at BUF
+9,Ja'Marr Chase,CIN,WR3,vs. TEN
+10,Trevor Lawrence,JAC,QB5,vs. IND
+11,CeeDee Lamb,DAL,WR4,vs. ARI
+12,Dak Prescott,DAL,QB6,vs. ARI
+13,Jayden Daniels,WAS,QB7,vs. PHI
+14,Matthew Stafford,LAR,QB8,vs. LAC
+15,Kenneth Walker III,KC,RB3,at DEN
+16,Zay Flowers,BAL,WR5,at BUF
+17,Kyren Williams,LAR,RB4,vs. LAC
+18,Derrick Henry,BAL,RB5,at BUF
+19,Jordan Love,GB,QB9,vs. CAR
+20,Caleb Williams,CHI,QB10,at SEA
+21,Jacoby Brissett,ARI,QB11,at DAL
+22,Trey McBride,ARI,TE1,at DAL
+23,Jared Goff,DET,QB12,vs. MIN
+24,Amon-Ra St. Brown,DET,WR6,vs. MIN
+25,James Cook III,BUF,RB6,vs. BAL
+26,Javonte Williams,DAL,RB7,vs. ARI
+27,Chuba Hubbard,CAR,RB8,at GB
+28,Drake London,ATL,WR7,at TB
+29,Bryce Young,CAR,QB13,at GB
+30,Kyler Murray,MIN,QB14,at DET
+31,Justin Jefferson,MIN,WR8,at DET
+32,Patrick Mahomes II,KC,QB15,at DEN
+33,Kirk Cousins,LV,QB16,at NYJ
+34,Aaron Rodgers,PIT,QB17,vs. CLE
+35,Jonathan Taylor,IND,RB9,at JAC
+36,Christian Watson,GB,WR9,vs. CAR
+37,Ashton Jeanty,LV,RB10,at NYJ
+38,Parker Washington,JAC,WR10,vs. IND
+39,Sam Darnold,SEA,QB18,vs. CHI
+40,Jaylen Warren,PIT,RB11,vs. CLE
+41,Baker Mayfield,TB,QB19,vs. ATL
+42,Josh Jacobs,GB,RB12,vs. CAR
+43,Matthew Golden,GB,WR11,vs. CAR
+44,Tee Higgins,CIN,WR12,vs. TEN
+45,Michael Penix Jr.,ATL,QB20,at TB
+46,Geno Smith,NYJ,QB21,vs. LV
+47,Bo Nix,DEN,QB22,vs. KC
+48,Brock Bowers,LV,TE2,at NYJ
+49,Bhayshul Tuten,JAC,RB13,vs. IND
+50,Tanner McKee,PHI,QB23,at WAS
+51,George Pickens,DAL,WR13,vs. ARI
+52,Bucky Irving,TB,RB14,vs. ATL
+53,Chase Brown,CIN,RB15,vs. TEN
+54,Tetairoa McMillan,CAR,WR14,at GB
+55,Jalen Coker,CAR,WR15,at GB
+56,D'Andre Swift,CHI,RB16,at SEA
+57,Malik Willis,MIA,QB24,vs. NE
+58,Garrett Wilson,NYJ,WR16,vs. LV
+59,DJ Moore,BUF,WR17,vs. BAL
+60,Michael Wilson,ARI,WR18,at DAL
+61,Rhamondre Stevenson,NE,RB17,at MIA
+62,A.J. Brown,NE,WR19,at MIA
+63,Deshaun Watson,CLE,QB25,at PIT
+64,Luther Burden III,CHI,WR20,at SEA
+65,Saquon Barkley,PHI,RB18,at WAS
+66,Tucker Kraft,GB,TE3,vs. CAR
+67,Stefon Diggs,WAS,WR21,vs. PHI
+68,Tony Pollard,TEN,RB19,at CIN
+69,Justin Herbert,LAC,QB26,at LAR
+70,DK Metcalf,PIT,WR22,vs. CLE
+71,Daniel Jones,IND,QB27,at JAC
+72,Omar Cooper Jr.,NYJ,WR23,vs. LV
+73,Dallas Goedert,PHI,TE4,at WAS
+74,Colston Loveland,CHI,TE5,at SEA
+75,Breece Hall,NYJ,RB20,vs. LV
+76,Ollie Gordon II,MIA,RB21,vs. NE
+77,KC Concepcion Jr.,CLE,WR24,at PIT
+78,Carnell Tate,TEN,WR25,at CIN
+79,Sam LaPorta,DET,TE6,vs. MIN
+80,Germie Bernard,PIT,WR26,vs. CLE
+81,Jameson Williams,DET,WR27,vs. MIN
+82,Tre Tucker,LV,WR28,at NYJ
+83,Dalton Kincaid,BUF,TE7,vs. BAL
+84,Jordan Mason,MIN,RB22,at DET
+85,Cam Ward,TEN,QB28,at CIN
+86,Quinshon Judkins,CLE,RB23,at PIT
+87,Jeremiyah Love,ARI,RB24,at DAL
+88,Denzel Boston,CLE,WR29,at PIT
+89,Keenan Allen,IND,WR30,at JAC
+90,Blake Corum,LAR,RB25,vs. LAC
+91,Kyle Pitts Sr.,ATL,TE8,at TB
+92,Emeka Egbuka,TB,WR31,vs. ATL
+93,Travis Kelce,KC,TE9,at DEN
+94,Ladd McConkey,LAC,WR32,at LAR
+95,T.J. Hockenson,MIN,TE10,at DET
+96,Hunter Henry,NE,TE11,at MIA
+97,Rachaad White,WAS,RB26,vs. PHI
+98,Jordan Addison,MIN,WR33,at DET
+99,Jalon Daniels,TB,QB29,vs. ATL
+100,Harold Fannin Jr.,CLE,TE12,at PIT
+101,Rome Odunze,CHI,WR34,at SEA
+102,Braelon Allen,NYJ,RB27,vs. LV
+103,Malik Washington,MIA,WR35,vs. NE
+104,Josh Downs,IND,WR36,at JAC
+105,Xavier Worthy,KC,WR37,at DEN
+106,Antonio Williams,WAS,WR38,vs. PHI
+107,Makai Lemon,PHI,WR39,at WAS
+108,Wan'Dale Robinson,TEN,WR40,at CIN
+109,Jaylen Waddle,DEN,WR41,vs. KC
+110,Caleb Douglas,MIA,WR42,vs. NE
+111,DeMario Douglas,NE,WR43,at MIA
+112,Emanuel Wilson,SEA,RB28,vs. CHI
+113,Brenton Strange,JAC,TE13,vs. IND
+114,Chris Godwin Jr.,TB,WR44,vs. ATL
+115,Rico Dowdle,PIT,RB29,vs. CLE
+116,Jakobi Meyers,JAC,WR45,vs. IND
+117,Chig Okonkwo,WAS,TE14,vs. PHI
+118,Ryan Flournoy,DAL,WR46,vs. ARI
+119,Ja'Kobi Lane,BAL,WR47,at BUF
+120,Jonah Coleman,DEN,RB30,vs. KC
+121,Kendrick Bourne,ARI,WR48,at DAL
+122,Pat Freiermuth,PIT,TE15,vs. CLE
+123,Courtland Sutton,DEN,WR49,vs. KC
+124,RJ Harvey,DEN,RB31,vs. KC
+125,Omarion Hampton,LAC,RB32,at LAR
+126,Tyler Higbee,LAR,TE16,vs. LAC
+127,Khalil Shakir,BUF,WR50,vs. BAL
+128,Mark Andrews,BAL,TE17,at BUF
+129,Aaron Jones Sr.,MIN,RB33,at DET
+130,Darius Cooper,PHI,WR51,at WAS
+131,Mike Gesicki,CIN,TE18,vs. TEN
+132,Kenny Gainwell,TB,RB34,vs. ATL
+133,Keon Coleman,BUF,WR52,vs. BAL
+134,Cooper Kupp,SEA,WR53,vs. CHI
+135,Jahan Dotson,ATL,WR54,at TB
+136,Mason Taylor,NYJ,TE19,vs. LV
+137,Colby Parkinson,LAR,TE20,vs. LAC
+138,Tyler Allgeier,ARI,RB35,at DAL
+139,Michael Mayer,LV,TE21,at NYJ
+140,Tyler Warren,IND,TE22,at JAC
+141,Konata Mumpfield,LAR,WR55,vs. LAC
+142,J.K. Dobbins,DEN,RB36,vs. KC
+143,Samaje Perine,CIN,RB37,vs. TEN
+144,Darren Waller,CAR,TE23,at GB
+145,AJ Barner,SEA,TE24,vs. CHI
+146,Mike Washington Jr.,LV,RB38,at NYJ
+147,Kalif Raymond,CHI,WR56,at SEA
+148,Travis Hunter,JAC,WR57,vs. IND
+149,Roschon Johnson,CHI,RB39,at SEA
+150,Jake Ferguson,DAL,TE25,vs. ARI
+151,Dylan Sampson,CLE,RB40,at PIT
+152,Quentin Johnston,LAC,WR58,at LAR
+153,Tre' Harris,LAC,WR59,at LAR
+154,Zach Charbonnet,SEA,RB41,vs. CHI
+155,TreVeyon Henderson,NE,RB42,at MIA
+156,Greg Dulcich,MIA,TE26,vs. NE
+157,Darnell Washington,PIT,TE27,vs. CLE
+158,Kenyon Sadiq,NYJ,TE28,vs. LV
+159,Rashod Bateman,BAL,WR60,at BUF
+160,Chris Rodriguez Jr.,JAC,RB43,vs. IND
+161,George Holani,SEA,RB44,vs. CHI
+162,Ted Hurst III,TB,WR61,vs. ATL
+163,Dameon Pierce,PHI,RB45,at WAS
+164,Justice Hill,BAL,RB46,at BUF
+165,Bam Knight,ARI,RB47,at DAL
+166,Eli Raridon,NE,TE29,at MIA
+167,Keaton Mitchell,LAC,RB48,at LAR
+168,Cade Otton,TB,TE30,vs. ATL
+169,Evan Engram,DEN,TE31,vs. KC
+170,Emmett Johnson,KC,RB49,at DEN
+171,Jerry Jeudy,CLE,WR62,at PIT
+172,MarShawn Lloyd,GB,RB50,vs. CAR
+173,Treylon Burks,WAS,WR63,vs. PHI
+174,Jalen Royals,KC,WR64,at DEN
+175,Seth McGowan,IND,RB51,at JAC
+176,Rashid Shaheed,SEA,WR65,vs. CHI
+177,Adonai Mitchell,NYJ,WR66,vs. LV
+178,Tez Johnson,TB,WR67,vs. ATL
+179,Laquon Treadwell,IND,WR68,at JAC
+180,Chris Bell,MIA,WR69,vs. NE
+181,Kimani Vidal,LAC,RB52,at LAR
+182,Kyle Williams,NE,WR70,at MIA
+183,Efton Chism III,NE,WR71,at MIA
+184,Tommy Tremble,CAR,TE32,at GB
+185,Brian Thomas Jr.,JAC,WR72,vs. IND
+186,Gunnar Helm,TEN,TE33,at CIN
+187,Savion Williams,GB,WR73,vs. CAR
+188,Marvin Mims Jr.,DEN,WR74,vs. KC
+189,Oronde Gadsden II,LAC,TE34,at LAR
+190,Isaac TeSlaa,DET,WR75,vs. MIN
+191,Sean Tucker,TB,RB53,vs. ATL
+192,Elic Ayomanor,TEN,WR76,at CIN
+193,Tyler Goodson,DAL,RB54,vs. ARI
+194,Tutu Atwell,LAR,WR77,vs. LAC
+195,Troy Franklin,DEN,WR78,vs. KC
+196,Hollywood Brown,PHI,WR79,at WAS
+197,Cyrus Allen,KC,WR80,at DEN
+198,Jaylen Wright,MIA,RB55,vs. NE
+199,Dohnte Meyers,CIN,WR81,vs. TEN
+200,Cody White,LV,WR82,at NYJ
+201,Jauan Jennings,MIN,WR83,at DET
+202,DeVonta Smith,PHI,WR84,at WAS
+203,Austin Ekeler,WAS,RB56,vs. PHI
+204,Josh Cameron,JAC,WR85,vs. IND
+205,Dontayvion Wicks,PHI,WR86,at WAS
+206,Tory Horton,SEA,WR87,vs. CHI
+207,Isaiah Davis,NYJ,RB57,vs. LV
+208,Jalen Nailor,LV,WR88,at NYJ
+209,Zachariah Branch,ATL,WR89,at TB
+210,Joshua Palmer,BUF,WR90,vs. BAL
+211,Corey Kiner,NE,RB58,at MIA
+212,John Metchie III,CAR,WR91,at GB
+213,Elijah Higgins,ARI,TE35,at DAL
+214,Davis Allen,LAR,TE36,vs. LAC
+215,Sione Vaki,DET,RB59,vs. MIN
+216,Pierre Strong Jr.,GB,RB60,vs. CAR
+217,Charlie Kolar,LAC,TE37,at LAR
+218,Elijah Mitchell,PHI,RB61,at WAS
+219,Dawson Knox,BUF,TE38,vs. BAL
+220,Trevor Etienne,CAR,RB62,at GB
+221,Tyjae Spears,TEN,RB63,at CIN
+222,Kyle Monangai,CHI,RB64,at SEA
+223,Ty Johnson,BUF,RB65,vs. BAL
+224,Daniel Bellinger,TEN,TE39,at CIN
+225,Ray Davis,BUF,RB66,vs. BAL
+226,AJ Dillon,CAR,RB67,at GB
+227,Will Mallory,IND,TE40,at JAC
+228,Jeremy McNichols,WAS,RB68,vs. PHI
+229,Matt Hibner,BAL,TE41,at BUF
+230,Austin Hooper,ATL,TE42,at TB
+231,Noah Gray,KC,TE43,at DEN
+232,Josh Cuevas,BAL,TE44,at BUF
+233,Brevyn Spann-Ford,DAL,TE45,vs. ARI
+234,Mitchell Evans,CAR,TE46,at GB
+235,Hunter Luepke,DAL,RB69,vs. ARI
+236,Michael Carter,TEN,RB70,at CIN
+237,Khalil Herbert,ATL,RB71,at TB
+238,LeQuint Allen Jr.,JAC,RB72,vs. IND
+239,Dylan Laube,LV,RB73,at NYJ
+240,Jaleel McLaughlin,CLE,RB74,at PIT
+241,Julius Chestnut,TEN,RB75,at CIN
+242,Demond Claiborne,MIN,RB76,at DET
+243,Rasheen Ali,BAL,RB77,at BUF
