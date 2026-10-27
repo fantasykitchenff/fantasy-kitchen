@@ -7,7 +7,7 @@ These rules apply to every piece the kitchen publishes: site pages, X posts, thr
 Chef Hazy. One person, one kitchen, one model. The voice is a sharp friend who has done the work: direct, plain, confident, occasionally funny, never corporate and never a hype account. Sentences are short. Verdicts are stated, not hedged into mush.
 
 - Own every take. Never attribute an opinion to another analyst, site, podcast, or "the consensus." No analyst names in copy, ever. Reporters may be named only when citing an injury or transaction report (a beat writer's report that a player is out is a fact, not an opinion).
-- Every post (except the hook of a thread, which is a general intro), card, and section ends with a decisive verdict that is an action (see the action rule below). "RB18 for me this week, an RB2." "Sell now; ask for a WR2." "Claim him, 20 to 30 percent of FAAB." Never "could be worth a look." A lineup call is the Menu rank and its tier, never "start him" (see "Rank language for lineup calls").
+- Every post (except the hook of a thread, which is a general intro), card, and section ends with a decisive verdict that is an action (see the action rule below). "RB18 for me this week, an RB2." "Sell him now." "Claim him, 20 to 30 percent of FAAB." Never "could be worth a look." A lineup call is the Menu rank and its tier, never "start him" (see "Rank language for lineup calls").
 - Backward-looking, verifiable stats only. Snap share, route share, target share, carries inside the 10, yards per route run, air yards, red zone touches, box scores, practice designations. Cite the number and the window ("three straight weeks", "since Week 2").
 - Never publish the model's projected numbers. No projected points, no projected yards, no "my model has him at 16.4." Ranks and tiers are public. The numbers stay in the kitchen. A projection may be described in words ("top-12 week", "RB2 range") but never as a figure.
 - Never double-charge one narrative. If a player rises because a teammate is hurt, the teammate's fall is the same story; do not stack a second reason that is really the first one restated.
@@ -30,16 +30,17 @@ People read the kitchen to know what to do, not to be told what happened. Every 
 | STASH | Add to a deep bench and wait (handcuff, IR return, rookie trending up) | `faab` |
 | DROP | Cut him for any add on the list | |
 | HOLD | Keep him, do nothing, ignore the noise | `why` must say what would change the call |
-| TRADE_FOR | Go get him | `price`: what to offer, in plain terms ("a WR2 and a bench RB") |
-| TRADE_AWAY | Sell him | `price`: what to ask for |
+| TRADE_FOR | Go get him; the copy says "Buy him." | |
+| TRADE_AWAY | Sell him; the copy says "Sell him." | |
 | MONITOR | Nothing to do yet; watch one specific thing | `watch`: the thing and when ("MRI Monday", "Wednesday practice report", "snap share Sunday") |
 | PIVOT | He is out; start this other player instead | `to`: the replacement's name |
 
 Rules:
 - One action per player per item. If two apply, pick the one the reader acts on first (an injured starter is MONITOR today and PIVOT on Sunday, not both).
-- ADD and CLAIM always carry a FAAB range. TRADE_FOR and TRADE_AWAY always carry a price. MONITOR always names what to watch and when. PIVOT always names the replacement. The validator rejects a piece that misses any of these.
+- ADD and CLAIM always carry a FAAB range. MONITOR always names what to watch and when. PIVOT always names the replacement. The validator rejects a piece that misses any of these.
 - HOLD is allowed only when readers are actually tempted to act; it is not a way to avoid a call.
-- In copy, the action is the last sentence and it is an instruction: "Claim him, 25 to 35 percent of FAAB." "Trade for him; offer a WR2 and a bench RB." "WR41 for me, a low-end flex play; sit him for any Tier 3 receiver." "Monitor; MRI Monday." "Pivot to Jalen McMillan." A lineup call (START, FLEX, SIT) is spoken as the Menu rank and its tier, never as a start command. Never "could be worth a look", never "keep an eye on" without saying on what.
+- No trade prices (the owner's rule, Tue Oct 27). Never tell readers what to offer or ask for in a trade: every league and situation is different. A trade call is the player, his rest-of-season rank, the reasons, and "Buy him." or "Sell him." (variations are fine: "Buy him during the bye.", "Sell him on the two scores."). The data keeps the actions TRADE_FOR and TRADE_AWAY, with no `price`. The validator rejects an "offer ..." or "ask for ..." clause on a trade call in post text and site copy, and a `price` on any player item.
+- In copy, the action is the last sentence and it is an instruction: "Claim him, 25 to 35 percent of FAAB." "Buy him." "WR41 for me, a low-end flex play; sit him for any Tier 3 receiver." "Monitor; MRI Monday." "Pivot to Jalen McMillan." A lineup call (START, FLEX, SIT) is spoken as the Menu rank and its tier, never as a start command. Never "could be worth a look", never "keep an eye on" without saying on what.
 - A takeaway or note that names several players names an action for each of them.
 - Rankings imply actions by tier and depth; each Menu row still carries one (see `menu.md`).
 
@@ -71,7 +72,7 @@ Never tell readers to start a player, and never state the obvious. A lineup call
 - Ranked lists are one name per line with his rank ("1. Allen") under a tier line ("Tier 1").
 - A line may name a second player only to compare him or to name a pivot, never a third. The validator rejects a post (other than the last) that names two or more players with no line break, and any line naming three or more.
 - A hook naming more than one player gives each his own line, with the closer (20+ post threads only) on its own line.
-- Team hashtags go on their own last line, nothing after them, and never a line break right after a hashtag or an @handle.
+- Team hashtags go directly before the first mention of each player the post is about, with one space ("#ChiefsKingdom Kenneth Walker III, KC RB: ..."), never on a last line (see X formatting).
 - Replies keep their own layout rules (`playbook/replies.md`).
 
 ## Style rules (hard)
@@ -93,7 +94,7 @@ The kitchen talks like a sharp friend at a bar, not like a research note and not
 - What is out is AI-speak and corporate filler: "notably", "importantly", "it's worth noting", "in terms of", "a testament to", "landscape", "leverage", "narrative", "delve", "elevate", "robust", "nuanced", "at the end of the day", "moving forward", "in the realm of", "it's important to remember", "let's unpack", "buckle up", "here's the thing". No stacked adjectives, no colon-then-reveal, no rhetorical questions, no "not X, but Y".
 - Write the way a person talks about football: "he was on the field for 78 percent of the snaps", "he got 9 of the team's 33 throws", "he touched the ball 27 times", "he had the only two carries inside the 5", "he practiced in full Friday".
 - Percent is written "78 percent" in posts (the site can use "78%").
-- Verdicts are plain instructions with the action rule's words: "Claim him, 20 to 30 percent of your budget." "RB18 for me this week, an RB2." "Trade him away and ask for a WR2."
+- Verdicts are plain instructions with the action rule's words: "Claim him, 20 to 30 percent of your budget." "RB18 for me this week, an RB2." "Sell him."
 
 ## Talk about the player, not the page (hard)
 
@@ -121,7 +122,7 @@ Series and the language that belongs to each:
 | --- | --- | --- |
 | Leftovers (Mon) | Sunday recap, usage, overreactions | "what's still good", "reheat", "toss it" |
 | Market Run (Tue AM) | Waiver wire | "fresh", "shop", "spend", "in stock", "cut bait" |
-| Butcher Shop (Tue PM) | Trade for / trade away | "prime cut", "past its date", "price", "offer", "ask" |
+| Butcher Shop (Tue PM) | Trade for / trade away | "prime cut", "past its date", "on the block", "buy", "sell" |
 | Heat Check (Tue PM) | Risers and fallers | "stove's on", "left to cool", "simmering", "heating up" |
 | The Menu (Wed) | Positional rankings with tiers | "chef's table" (tier 1), "entrees" (tier 2), "sides" (tier 3), "specials" (matchup plays) |
 | Serve or Sit (Thu) | Lineup calls: who the week favors, who it does not, coin flips | "serve", "send it back", "coin flip" |
@@ -141,17 +142,17 @@ The owner's rule from Fri Oct 2: every piece of content goes out on X as exactly
 - Length: 15 to 25 posts for the weekly series (aim for 20 or more), 10 to 25 for the daily Kitchen Notes thread and for each Order Up window. 25 is X's cap on one thread.
 - Breadth: name as many teams as the piece touches. Aim for every team playing that week. A weekly thread names at least 14 teams, a Kitchen Notes thread at least 8 and an Order Up thread every team in its window. Count by the team hashtags in the thread. Reach the count with real calls, not filler: a team with no headline gets its most useful usage number and its call.
 - Build every thread from everything the kitchen has: the week's piece, the pantry board (`kitchen/pantry/<season>-week-NN.md`, the checked podcast intelligence: ripples, crowd lines, watch items), the kitchen notes for each team, this week's notes items, and the owner's final rankings (`kitchen/rankings/`). Ranks come only from the Menu and the rankings files; facts come only from those sources and confirmed news.
-- Order inside the thread: the biggest call first, then team by team or game by game so a reader can find his team. Each post carries one or two teams (three when it is a ranked list) with each team's hashtag on the last line.
+- Order inside the thread: the biggest call first, then team by team or game by game so a reader can find his team. Each post carries one or two teams (three when it is a ranked list) with each team's hashtag directly before its player's name.
 - `tools/fk.py validate` enforces the length, the team count and the one-thread rule for items created from Fri Oct 2, 5:00 PM ET.
 
 ## X formatting
 
 - Every post that goes out under the kitchen's name is a thread, except replies. That includes the Sunday inactives and the daily notes. Replies are single posts (see the poster playbook).
 - Every single post is at most 275 characters (count links as 23, hashtags at their real length). The validator enforces this.
-- The hook (post 1) is a general intro to what the thread covers, in one or two plain sentences, and it may call out the highlights (the two or three biggest names or calls, one player per line). It is not one team's story or one player's call, and it needs no action of its own. Players named in the hook keep their team hashtags on the last line, up to five. No link in the hook. No "a thread" or "1/". The closers ("Let's dive in." "Let's look into it." "Let's get to it." "Let's get into it." "Let's go.") are allowed only as the last sentence of the hook of a thread of 20 or more posts, never required there; rotate them when used. Never use them on a shorter thread, in any other post, in a reply, or in site copy. (The owner's rule, Tue Oct 6.)
+- The hook (post 1) is a general intro to what the thread covers, in one or two plain sentences, and it may call out the highlights (the two or three biggest names or calls, one player per line). It is not one team's story or one player's call, and it needs no action of its own. Each highlighted player in the hook has his team's hashtag directly before his name ("Best buy: #ChiefsKingdom Kenneth Walker III."), up to five. No link in the hook. No "a thread" or "1/". The closers ("Let's dive in." "Let's look into it." "Let's get to it." "Let's get into it." "Let's go.") are allowed only as the last sentence of the hook of a thread of 20 or more posts, never required there; rotate them when used. Never use them on a shorter thread, in any other post, in a reply, or in site copy. (The owner's rule, Tue Oct 6.)
 - Organized: one idea per post, in the order a reader would act on it (the biggest call first, the deeper cuts later). Each post names its player or team plainly (no "he" carried over from the previous post). Rankings posts list one name per line with his rank under a tier line; everything else is one player per line, a sentence or two plus the call (see "One player per line in thread posts").
-- Every post that names a player or a team ends with the official hashtag of each team mentioned in that post, from `kitchen/hashtags.json`, space separated, on their own last line after the text with nothing after them (for example: "... Claim him, 25 to 35 percent." then a line break, then "#PhinsUp"). One hashtag per team, no duplicates in a post, no other hashtags. A post about a whole position (the QB list) carries the hashtags of the teams named, up to five; if more than five teams are named, split the post.
-- The last post of every thread is the close: one line on what is on the site, the follow line ("Follow @handle for the rest of the week's calls, and repost this for your league."), then the deep link to the piece (site URL from `docs/data/site.json`, appended by the queue tool). It needs no hashtag. Links appear nowhere else.
+- Team hashtags go before the player's name (the owner's rule, Tue Oct 27). In every thread post, the official hashtag from `kitchen/hashtags.json` of the team of each player the post is about sits directly before that player's first mention, with one space ("#ChiefsKingdom Kenneth Walker III, KC RB: ..."), and only on that first mention. One hashtag per team per post: a second player from the same team gets no second tag. A post about a team with no player named puts the tag before the team's name ("#ForTheShoe Indianapolis traded ..."). The hook puts a tag before each highlighted player ("Best buy: #ChiefsKingdom Kenneth Walker III."). No hashtag line at the end of a post, no other hashtags, at most five per post (split a post that names more than five teams). The close (the last post, with the link) carries no hashtag. The validator rejects a hashtag that is not followed by a name on the same line, a repeated hashtag, and a hashtag in the close.
+- The last post of every thread is the close: one line on what is on the site, the follow line ("Follow @handle for the rest of the week's calls, and repost this for your league."), then the deep link to the piece (site URL from `docs/data/site.json`, appended by the queue tool). It carries no hashtag. Links appear nowhere else.
 - Threads: 15 to 25 posts for the weekly series, 10 to 25 for Kitchen Notes and Order Up (see "One long thread per content item"). No 2 or 3 post threads.
 - Replies: 1 to 3 sentences, add a number the original post did not have, the action, then "Follow @handle for more." No hashtags, no link, no closer. Never quote the original. Never argue about rankings for their own sake. Never reply to a reply.
 - Line breaks separate ideas. No trailing questions ("Thoughts?").
@@ -169,8 +170,8 @@ All times in copy are Eastern and written "6:30 AM ET". The NFL week for content
 ## What "done" means for any piece
 
 1. The JSON validates (`python3 tools/fk.py validate`).
-2. Every player has a verdict and an `action` from the action rule, with its required field (FAAB range, price, watch, or pivot target).
+2. Every player has a verdict and an `action` from the action rule, with its required field (FAAB range, watch, or pivot target; a trade call carries no price).
 3. No projected numbers anywhere in the text. No em dashes, no arrows, no analyst names. No start commands: a lineup call is the Menu rank and its tier.
-4. The post copy validates (length, links only in the last post of a thread, a general hook, with a closer only on threads of 20 or more posts, team hashtags on their own last line, one player per line, the follow line at the end).
+4. The post copy validates (length, links only in the last post of a thread, a general hook, with a closer only on threads of 20 or more posts, team hashtags directly before the players' names, one player per line, the follow line at the end).
 5. The manifest is rebuilt (`python3 tools/fk.py manifest`) and the queue item is written.
 6. It is pushed. An unpushed piece does not exist.

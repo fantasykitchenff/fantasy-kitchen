@@ -257,7 +257,8 @@ def post_length(text):
 
 # ---------------------------------------------------------------- actions
 ACTIONS = ["START", "FLEX", "SIT", "STREAM", "CLAIM", "ADD", "STASH", "DROP", "HOLD", "TRADE_FOR", "TRADE_AWAY", "MONITOR", "PIVOT"]
-ACTION_NEEDS = {"CLAIM": "faab", "ADD": "faab", "STASH": "faab", "TRADE_FOR": "price", "TRADE_AWAY": "price", "MONITOR": "watch", "PIVOT": "to"}
+# TRADE_FOR and TRADE_AWAY carry no price (owner rule of 2026-10-27, below)
+ACTION_NEEDS = {"CLAIM": "faab", "ADD": "faab", "STASH": "faab", "MONITOR": "watch", "PIVOT": "to"}
 ACTION_WORDS = re.compile(r"\b(start|sit|bench|flex|stream|claim|add|pick up|pickup|drop|cut|hold|trade for|trade away|sell|buy|stash|monitor|watch|pivot|spend|offer|ask for|keep)\b", re.I)
 FAAB_RE = re.compile(r"^\d{1,3}(\s*-\s*\d{1,3})?\s*%$")
 
@@ -338,6 +339,49 @@ CLOSER_ANY_RE = re.compile(r"let['’]s (dive in|look into it|get to it|get into
 def after_hook_rule_cutoff(ts):
     d = parse_iso(ts) if ts else None
     return bool(d) and d >= HOOK_RULE_CUTOFF
+
+# ---------------------------------------------------------------- owner rules of 2026-10-27
+# No trade prices: every league and situation is different, so a trade call is the player, his rest-of-season
+# rank, the reasons and "Buy him." or "Sell him."; never what to offer or ask for. Pieces updated and queue items
+# created on or after OWNER_1027_CUTOFF carry no `price` on any item and no "offer ..." / "ask for ..." clause.
+# Team hashtags go before the player's name: in every thread post but the close, each hashtag sits directly before
+# the first mention of a player (or a team) on the same line, with one space ("#ChiefsKingdom Kenneth Walker III"),
+# one per team per post, never on a last line of their own; the close carries none. Same cutoff for queue items.
+OWNER_1027_CUTOFF = dt.datetime(2026, 10, 27, 23, 50, tzinfo=dt.timezone.utc)   # Tue Oct 27, 7:50 PM ET
+TRADE_PRICE = re.compile(r"\b(?:offer(?:ing)?|ask(?:ing)?\s+for|asking\s+price)\s+(?:an?|the|two|three|one|any|your|his|top|bench|\d+)\b", re.I)
+TAG_BEFORE_NAME = re.compile(r"#\w+ [A-Z]")
+
+def after_1027_cutoff(ts):
+    d = parse_iso(ts) if ts else None
+    return bool(d) and d >= OWNER_1027_CUTOFF
+
+def check_trade_price(text, where, errors):
+    if not isinstance(text, str) or not text:
+        return
+    m = TRADE_PRICE.search(text)
+    if m:
+        errors.append(f"{where}: trade price '{m.group(0)}' (no prices: give the rank, the reasons and 'Buy him.' or 'Sell him.'; _standards.md, the action rule)")
+
+def find_prices(obj, path, errors):
+    if isinstance(obj, dict):
+        if str(obj.get("price") or "").strip():
+            errors.append(f"{path} {obj.get('player') or ''}: carries a trade price; trade calls have none (owner rule of 2026-10-27)".replace("  ", " "))
+        for k, v in obj.items():
+            find_prices(v, f"{path}.{k}", errors)
+    elif isinstance(obj, list):
+        for i, v in enumerate(obj):
+            find_prices(v, f"{path}[{i}]", errors)
+
+def check_tag_placement(texts, rel, errors):
+    for i, t in enumerate(texts):
+        tags = list(HASHTAG.finditer(t))
+        if i == len(texts) - 1:
+            if tags:
+                errors.append(f"{rel}: text[{i}] is the close and carries a hashtag; the close has none")
+            continue
+        for m in tags:
+            if not TAG_BEFORE_NAME.match(t, m.start(2)):
+                errors.append(f"{rel}: text[{i}] has {m.group(2)} away from a name; the team hashtag goes directly before the player's first mention ('#ChiefsKingdom Kenneth Walker III'), never on a last line")
 
 def thread_teams(texts):
     return {m.group(2).lower() for t in texts for m in HASHTAG.finditer(t) if m.group(2).lower() in OFFICIAL}
@@ -592,6 +636,9 @@ def validate_piece(path, errors, warnings):
             if not plain and after_plain_cutoff(it.get("at")):
                 for f in ("text", "watch", "why"):
                     check_page_talk(it.get(f), f"{rel}: items[{i}].{f}", errors)
+    if after_1027_cutoff(p.get("updatedAt")):
+        find_prices(d, f"{rel}: data", errors)
+        walk_strings(p, rel, lambda t, w: check_trade_price(t, w, errors))
     for i, q in enumerate(p.get("posts") or []):
         if not q.get("id"):
             errors.append(f"{rel}: posts[{i}] missing id")
@@ -681,6 +728,11 @@ def validate_queue_item(path, errors, warnings):
     if after_plain_cutoff(q.get("createdAt")):
         for i, t in enumerate(texts):
             check_page_talk(t, f"{rel}.text[{i}]", errors)
+    if after_1027_cutoff(q.get("createdAt")):
+        for i, t in enumerate(texts):
+            check_trade_price(t, f"{rel}.text[{i}]", errors)
+        if q.get("kind") == "thread":
+            check_tag_placement(texts, rel, errors)
     for i, t in enumerate(texts):
         n = post_length(t)
         if n > POST_LIMIT:

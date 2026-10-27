@@ -15,7 +15,7 @@
     home:      { name: "This week",     plain: "The week",           page: "index.html",     plate: "field" },
     menu:      { name: "The Menu",      plain: "Rankings",           page: "menu.html",      plate: "board",  blurb: "Rankings by position for the week, with tiers." },
     market:    { name: "Market Run",    plain: "Waivers",            page: "market.html",    plate: "ticket", blurb: "Waiver adds with FAAB, stashes and drops." },
-    butcher:   { name: "Butcher Shop",  plain: "Trades",             page: "butcher.html",   plate: "ticket", blurb: "Who to trade for and who to trade away, with a price on each." },
+    butcher:   { name: "Butcher Shop",  plain: "Trades",             page: "butcher.html",   plate: "ticket", blurb: "Who to buy and who to sell, with the reasons behind each." },
     heat:      { name: "Heat Check",    plain: "Risers and fallers", page: "heat.html",      plate: "field",  blurb: "Risers and fallers, with the number behind each one." },
     line:      { name: "Serve or Sit",  plain: "Lineup calls",       page: "line.html",      plate: "ticket", blurb: "Who the week favors, who it does not, and the coin flips." },
     prep:      { name: "Prep Notes",    plain: "Injury report",      page: "prep.html",      plate: "ticket", blurb: "The injury report, read for lineups." },
@@ -209,8 +209,7 @@
     return {
       key, label, cls, lineup: !!LINEUP[key],
       faab: /^(CLAIM|ADD|STASH|STREAM)$/.test(key) ? String(item.faab || "") : "",
-      price: key === "TRADE_FOR" || key === "TRADE_AWAY" ? String(item.price || "") : "",
-      priceLabel: key === "TRADE_FOR" ? "Offer" : "Ask",
+      // owner rule of 2026-10-27: no trade prices anywhere, so a price in older data is never shown
       watch: String(item.watch || ""),
       to: key === "PIVOT" ? String(item.to || "") : ""
     };
@@ -241,7 +240,6 @@
     if (!a) return "";
     const f = [];
     if (a.faab) f.push(html`<span class="faab"><b>FAAB</b>${a.faab}</span>`);
-    if (a.price) f.push(html`<span class="fact ${a.cls}"><b>${a.priceLabel}</b>${a.price}</span>`);
     if (a.to && !o.noTo) f.push(html`<span class="fact pivot"><b>Pivot to</b>${a.to}</span>`);
     if (a.watch) f.push(html`<span class="fact watch"><b>${a.key === "START" ? "Have a backup ready" : "Watch"}</b>${a.watch}</span>`);
     return f.length ? html`<p class="facts">${f}</p>` : "";
@@ -806,7 +804,7 @@
         ${calls.length ? html`<section class="f-sec">${bar("This week's calls", "tap for the why", "chalk")}<ol class="calls">${calls.map(c => html`<li><a class="call" href="${link(c.series)}">
           ${stamp(ctx, c.a, c.item, { rank: true }) || html`<span class="stamp ${c.a.cls}">${c.a.lineup ? "Lineup call" : c.a.label}</span>`}
           <span class="who"><span class="nm">${c.item.player}</span><span class="mt">${[c.item.team, posOf(ctx, c.item)].filter(Boolean).join(" ")}${c.item.team || posOf(ctx, c.item) ? " · " : ""}${SERIES[c.series].name}</span>
-          ${c.a.faab || c.a.price || c.a.to ? html`<span class="ex">${c.a.faab ? "FAAB " + c.a.faab : c.a.price ? c.a.priceLabel + ": " + c.a.price : "Pivot to " + c.a.to}</span>` : ""}</span></a></li>`)}</ol></section>` : ""}
+          ${c.a.faab || c.a.to ? html`<span class="ex">${c.a.faab ? "FAAB " + c.a.faab : "Pivot to " + c.a.to}</span>` : ""}</span></a></li>`)}</ol></section>` : ""}
       </div>
       <div class="h-side">
         <section class="f-sec">${bar("Latest from the kitchen", "", "brown")}${listed.length ? html`<ol class="minis">${listed.map(e => miniPlate(ctx, e, byPath[e.path]))}</ol>`

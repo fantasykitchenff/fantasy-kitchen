@@ -46,7 +46,7 @@ Envelope: `title` "Serve or Sit, Week N", `dek` one sentence with the boldest ca
 
 One thread, 15 to 25 posts (aim for 20 or more), naming at least 14 teams and every team with a call on the site, `--at "Thu 13:20"`, `--not-after "Sun 11:00"`, `--link "line.html?week=N"`. Every call on the site goes in the thread, game by game where it helps a reader find his team. The Thursday night game leads it, so there is no separate Thursday night thread. The outline below is the order:
 
-1. Hook: a general intro to the week's lineup calls, with the boldest call up and the boldest call down as highlights, each player on his own line. No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
+1. Hook: a general intro to the week's lineup calls, with the boldest call up and the boldest call down as highlights, each player on his own line. No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last puts the official hashtag of each team it names directly before its player's first mention.)
 2. Thursday night calls.
 3. The week favors them, part one (name, rank and tier, number), one player per line with an empty line between players.
 4. The week favors them, part two.
@@ -54,7 +54,7 @@ One thread, 15 to 25 posts (aim for 20 or more), naming at least 14 teams and ev
 6. Coin flips with leans, one flip per line (the two names of a flip share that line).
 7. Close plus link.
 
-One player per line in every post, the team hashtags on their own last line, no start commands (`_standards.md`).
+One player per line in every post, the team hashtag goes directly before the first mention of each player the post is about, no start commands (`_standards.md`).
 
 No second thread. The Thursday night calls (with the lineup lock time) are posts 2 and 3 of this thread; if a later run before 1:20 PM changes them, rewrite the thread with `--replace <id>`.
 

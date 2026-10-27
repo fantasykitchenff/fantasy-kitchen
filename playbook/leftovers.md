@@ -32,7 +32,7 @@ The recap that matters for next week: 5 to 7 takeaways, 8 to 12 usage notes, and
 ```json
 { "takeaways": [ { "headline": "", "text": "", "actions": [ { "player": "", "action": "CLAIM", "faab": "20-30%" }, { "player": "", "action": "MONITOR", "watch": "MRI Monday" } ] } ],
   "usage": [ { "player": "", "team": "", "pos": "", "stat": "", "read": "", "action": "HOLD" } ],
-  "overreactions": [ { "take": "", "verdict": "buy", "why": "", "player": "", "action": "TRADE_FOR", "price": "" } ] }
+  "overreactions": [ { "take": "", "verdict": "buy", "why": "", "player": "", "action": "TRADE_FOR" } ] }
 
 Actions: every takeaway lists an action for each player it names (the `actions` array, at least one entry). Every usage row carries one. Every overreaction names the player it is about and the action (a "buy" is usually HOLD or TRADE_FOR, a "sell" is usually TRADE_AWAY, SIT or DROP). Injured players are MONITOR with `watch` set to the next checkpoint (the MRI, the Wednesday report) unless the replacement is already clear, in which case the replacement gets CLAIM or ADD with a FAAB range.
 ```
@@ -43,14 +43,14 @@ Envelope: `title` "Leftovers, Week N", `dek` the single biggest takeaway, `intro
 
 One thread, 15 to 25 posts (aim for 22 or more), covering every team that played, `--at "Mon 13:20"`, `--not-after +20h`, `--link "leftovers.html?week=N"`. After the top takeaways, run game by game: each game gets the usage number that matters most from each side and the call it changes. The outline below is the order:
 
-1. Hook: a general intro to what Sunday told us, with the biggest takeaways as highlights (one player per line). No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last ends with the official hashtag of each team it names.)
+1. Hook: a general intro to what Sunday told us, with the biggest takeaways as highlights (one player per line). No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last puts the official hashtag of each team it names directly before its player's first mention.)
 2. to 4. One takeaway per post (the top three).
 5. Usage notes, game by game, one name per line with one number and one call each, an empty line between players (as many posts as the games need).
 6. Overreactions: two "real", two "noise", each with the number, one player per line.
 7. The misses, owned.
 8. Close plus link.
 
-One player per line in every post, the team hashtags on their own last line, no start commands; a lineup call is the Menu rank and its tier (`_standards.md`).
+One player per line in every post, the team hashtag goes directly before the first mention of each player the post is about, no start commands; a lineup call is the Menu rank and its tier (`_standards.md`).
 
 ## Finish
 

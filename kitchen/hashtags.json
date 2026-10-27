@@ -1,6 +1,6 @@
 {
-  "_about": "Official team hashtags used at the end of every post that names a player or team. Verified against the 2025 season list; teams occasionally change them, so check a team's own account when in doubt and edit here. Aliases map other abbreviations to the canonical key.",
-  "verified": "2025 season list; re-check each September",
+  "_about": "Official team hashtags placed directly before the first mention of each player a post is about. Verified against the 2025 season list; teams occasionally change them, so check a team's own account when in doubt and edit here. Aliases map other abbreviations to the canonical key.",
+  "verified": "2026-10-27 (checked by the owner; TB corrected to #WeAreTheKrewe). Use the tag X shows with the team's emoji.",
   "tags": {
     "ARI": "#BirdGang",
     "ATL": "#DirtyBirds",
@@ -31,7 +31,7 @@
     "PIT": "#HereWeGo",
     "SF": "#FTTB",
     "SEA": "#Seahawks",
-    "TB": "#GoBucs",
+    "TB": "#WeAreTheKrewe",
     "TEN": "#TitanUp",
     "WAS": "#RaiseHail"
   },
