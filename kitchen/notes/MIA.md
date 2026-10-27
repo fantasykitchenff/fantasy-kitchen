@@ -78,6 +78,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-11: Ollie Gordon II: 43 snaps, 18 carries for 88 and a TD vs CIN; Jaylen Wright 6 for 11; no Miami back targeted (NBC Sports, PFF recap).
 - 2026-10-11: Ollie Gordon II out-snapped Jaylen Wright 65 to 21 over Weeks 4 and 5, with 27 carries to 11. [pod 10-13, deployment]
 - 2026-10-26: Week 7 at NYJ (first win): Ollie Gordon II 54 snaps (83%), 25-103-1; Jaylen Wright 8 snaps, quad injury; Malik Willis 14 of 21 for 208, 2 TD, 8-37-1 rushing (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
+- 2026-10-27: Jaylen Wright (quad): Week 8 vs NE status open after leaving Week 7 at NYJ; Ollie Gordon II the lead back (Yahoo Sports/Heavy, team injury update).
 
 ## Receivers
 

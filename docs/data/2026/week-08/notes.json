@@ -6,12 +6,64 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "updatedAt": "2026-10-27T16:30:00Z",
+  "updatedAt": "2026-10-27T23:15:00Z",
   "author": "Chef Hazy",
   "intro_md": null,
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-27T23:15:00Z",
+        "text": "Lamar Jackson (BAL) is expected to play Sunday at Buffalo, per Ian Rapoport, who said he is believed to be as close to 100 percent as he has been since the Week 4 high ankle sprain. He has missed three straight games. QB2 rest of season for me. Monitor Wednesday's Ravens practice report.",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "player": "Lamar Jackson",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Wednesday's Ravens practice report"
+      },
+      {
+        "at": "2026-10-27T23:15:00Z",
+        "text": "Matthew Golden (GB) did not take part in Tuesday's walkthrough with the shoulder and foot injuries, his second straight missed session before Thursday vs CAR. He drew 12 targets at DET in Week 7, and Tucker Kraft (TE5 rest of season for me) is next in line for looks. Golden is WR25 rest of season for me. Monitor Wednesday's final Packers injury report.",
+        "url": "https://www.rotowire.com/football/news.php",
+        "player": "Matthew Golden",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's final Packers injury report"
+      },
+      {
+        "at": "2026-10-27T23:15:00Z",
+        "text": "Jalen Coker (CAR) was a full participant in Tuesday's practice with the shoulder, per ESPN's Mike Kaye, after a limited Monday. Carolina plays Thursday at Green Bay. WR33 rest of season for me. Hold him; only a downgrade on Wednesday's final report changes that.",
+        "url": "https://www.rotowire.com/football/news.php",
+        "player": "Jalen Coker",
+        "pos": "WR",
+        "action": "HOLD",
+        "why": "Only a downgrade on Wednesday's final Carolina injury report changes the call."
+      },
+      {
+        "at": "2026-10-27T23:15:00Z",
+        "text": "Tyrone Tracy Jr. (NYG) went on injured reserve Tuesday with the hamstring he hurt at Houston, per the Giants' site, so he misses at least four games. Cam Skattebo keeps the backfield after the Week 8 bye. Tracy is RB57 rest of season for me. Drop him for any add on the wire.",
+        "url": "https://www.rotowire.com/football/news.php",
+        "player": "Tyrone Tracy Jr.",
+        "pos": "RB",
+        "action": "DROP"
+      },
+      {
+        "at": "2026-10-27T23:15:00Z",
+        "text": "Erick All Jr. (CIN) went on injured reserve Tuesday with the right knee he hurt in the win over Baltimore, and Ian Rapoport reported a torn ACL is feared, the third in that knee. Mike Gesicki is the tight end left standing in Cincinnati. All is TE49 rest of season for me. Drop him.",
+        "url": "https://www.rotowire.com/football/player/erick-all-17696",
+        "player": "Erick All Jr.",
+        "pos": "TE",
+        "action": "DROP"
+      },
+      {
+        "at": "2026-10-27T23:15:00Z",
+        "text": "Jaylen Wright (MIA) left the win at the Jets with a quad injury after 8 snaps and 6 carries for 8 yards, and his Week 8 status vs NE is open. Ollie Gordon II played 83 percent of the snaps and ran 25 times for 103 and a TD. Wright is RB58 rest of season for me. Monitor Wednesday's Dolphins practice report.",
+        "url": "https://heavy.com/sports/nfl/miami-dolphins/running-back-suffers-injury-win-jets/",
+        "player": "Jaylen Wright",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Wednesday's Dolphins practice report"
+      },
       {
         "at": "2026-10-27T16:30:00Z",
         "text": "Saquon Barkley (PHI) tweaked the hamstring on the first drive in his return vs DAL Monday, then hurt his back and did not play the fourth quarter of the 38-21 loss. He said neither injury should keep him out Sunday night vs WAS. RB12 rest of season for me. Monitor Wednesday's Eagles injury report.",
@@ -32,5 +84,12 @@
       }
     ]
   },
-  "posts": []
+  "posts": [
+    {
+      "id": "2026w08-notes-thread-fe3c",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
 }

@@ -94,6 +94,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-20: Week 6 vs NO snap shares: Devin Singletary 40%, Tyrone Tracy Jr. 38%, Cam Skattebo 6 snaps; Tracy 4% rostered Tuesday (Yahoo waiver column).
 - 2026-10-18: Snap shares vs NO: Devin Singletary 40 percent, Tyrone Tracy Jr. 36 to 38 percent, Cam Skattebo 8 percent (6 snaps, 0 touches); J.J. McCarthy led the team with 26 rushing yards. [pod 10-20, deployment]
 - 2026-10-26: Week 7 at HOU (27-21 OT win): Cam Skattebo 37 snaps (56%), 17-124-1 with a 42-yard OT run, felt the hamstring, day to day; Devin Singletary 19 snaps, 5-41-1; Tyrone Tracy Jr. 10 snaps, hamstring. J.J. McCarthy 20 of 27 for 252 in his first start; Malik Nabers 7-111 on 9 targets; Week 8 bye (snap counts via Pro-Football-Reference/nflverse; box scores CBS Sports, Fox Sports).
+- 2026-10-27: Tyrone Tracy Jr. placed on IR Tuesday (hamstring), per Dan Salomone of Giants.com; GM Joe Schoen confirmed per Dan Duggan (RotoWire).
 
 ## Receivers
 

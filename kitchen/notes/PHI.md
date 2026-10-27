@@ -91,6 +91,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Saquon Barkley (hamstring) and Will Shipley (foot) ruled out Week 6 vs CAR; Dameon Pierce leads the backfield. DeVonta Smith has no designation after DNP, limited, practiced Friday. TEs Grant Calcaterra and Eli Stowers questionable. [NFL.com, Yahoo Sports]
 - 2026-10-19: Dameon Pierce: 12 for 35 and a TD, 4 for 15 in Week 6 vs CAR, all of PHI's rushing yards; Saquon Barkley inactive (hamstring); Carson Steele left with a shoulder injury (CBS box score, PhillyVoice).
 - 2026-10-18: Dameon Pierce played 61 of 64 snaps; Jaydon Blue was active and did not play; DeVonta Smith ran 71 percent of the routes with 32 percent of the targets. [pod 10-20, deployment]
+- 2026-10-27: Saquon Barkley says the hamstring came out great and the back will not keep him out Week 8 vs WAS; Dameon Pierce (undisclosed) left with 8:38 left Monday (RotoWire, Philadelphia Inquirer).
 
 ## Receivers
 

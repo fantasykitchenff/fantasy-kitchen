@@ -121,6 +121,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-16: Skyy Moore (ankle) out Week 6 vs DAL; Savion Williams (ankle) questionable. [NFL.com]
 - 2026-10-19: Matthew Golden: 86% snaps, 13 targets, 6 for 104 and a TD with two drops in Week 6 vs DAL; Christian Watson 90% snaps, 3 of 8 for 64 (team box score, Acme Packing Company).
 - 2026-10-18: Matthew Golden: 6 for 104 and a 9-yd TD on 13 targets vs DAL, with drops on a potential 43-yd TD and a potential 23-yd score. [pod 10-19, official]
+- 2026-10-27: Matthew Golden (shoulder, foot) did not participate in Tuesday's walkthrough, second straight session missed before Thursday vs CAR (RotoWire, NBC Sports).
 
 ## Tight ends
 

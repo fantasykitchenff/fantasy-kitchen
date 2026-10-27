@@ -102,6 +102,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-05: Week 4 vs DET: Tetairoa McMillan 14 catches on 16 targets for 192 and 2 TD with Coker inactive and Legette on IR (NBC, AP). Chuba Hubbard 20 for 122 and 2 TD.
 - 2026-10-12: Dave Canales said Jalen Coker is on track to play vs PHI; CBs Jaycee Horn (quad) and Mike Jackson (groin) are on IR. [pod 10-14, coach]
 - 2026-10-19: Jalen Coker: 13 targets, 6 for 97 in Week 6 @PHI; Tetairoa McMillan 9 targets, 6 for 86 (CBS box score).
+- 2026-10-27: Jalen Coker (shoulder): full participant Tuesday after limited Monday, per Mike Kaye of ESPN (RotoWire).
 
 ## Tight ends
 

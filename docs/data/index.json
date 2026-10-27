@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 8,
-  "updatedAt": "2026-10-27T17:03:12Z",
+  "updatedAt": "2026-10-27T23:17:45Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 8,
+      "path": "2026/week-08/notes.json",
+      "title": "Kitchen notes, Week 8",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-27T16:30:00Z",
+      "updatedAt": "2026-10-27T23:15:00Z"
+    },
     {
       "series": "butcher",
       "week": 8,
@@ -20,15 +29,6 @@
       "dek": "Colston Loveland's targets went 5, 7, 12. The stove's on in Chicago.",
       "publishedAt": "2026-10-27T17:01:00Z",
       "updatedAt": "2026-10-27T17:01:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 8,
-      "path": "2026/week-08/notes.json",
-      "title": "Kitchen notes, Week 8",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-27T16:30:00Z",
-      "updatedAt": "2026-10-27T16:30:00Z"
     },
     {
       "series": "notes",

@@ -90,6 +90,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-12: Erick All Jr.: The Bengals' TE room starts as a three-man unit (All, Gesicki, Drew Sample); All has the most well-rounded skill set, is used as a quasi-fullback, and would be the one to become dominant. [8-12 Camp Updates Article]
 - 2026-08-13: Mike Gesicki: Played about 29% of the Bengals' snaps in 2025 with a 17% targets-per-route rate when on the field; his presence tipped pass to defenses. [8-13 TE talk]
 - 2026-10-13: Tanner Hudson tore a pectoral muscle and is out for the season. [pod 10-14, beat]
+- 2026-10-27: Erick All Jr. placed on IR Tuesday (right knee, hurt Week 7 vs BAL); torn ACL feared per Ian Rapoport, further testing pending (RotoWire).
 
 ## Offensive line
 
