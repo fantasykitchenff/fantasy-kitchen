@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 8,
-  "updatedAt": "2026-10-27T23:45:16Z",
+  "updatedAt": "2026-10-27T23:49:55Z",
   "pieces": [
+    {
+      "series": "menu",
+      "week": 8,
+      "path": "2026/week-08/menu.json",
+      "title": "The Menu, Week 8",
+      "dek": "Josh Allen comes off the bye at QB1, Bijan Robinson takes RB1 and Lamar Jackson returns at QB4.",
+      "publishedAt": "2026-10-27T23:55:00Z",
+      "updatedAt": "2026-10-27T23:55:00Z"
+    },
     {
       "series": "butcher",
       "week": 8,
