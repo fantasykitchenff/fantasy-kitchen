@@ -1,8 +1,17 @@
 {
   "season": 2026,
-  "currentWeek": 7,
-  "updatedAt": "2026-10-26T23:18:06Z",
+  "currentWeek": 8,
+  "updatedAt": "2026-10-27T16:30:07Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 8,
+      "path": "2026/week-08/notes.json",
+      "title": "Kitchen notes, Week 8",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-27T16:30:00Z",
+      "updatedAt": "2026-10-27T16:30:00Z"
+    },
     {
       "series": "notes",
       "week": 7,

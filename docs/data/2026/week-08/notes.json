@@ -1,0 +1,36 @@
+{
+  "series": "notes",
+  "season": 2026,
+  "week": 8,
+  "title": "Kitchen notes, Week 8",
+  "dek": "What moved today.",
+  "format": "PPR",
+  "publishedAt": "2026-10-27T16:30:00Z",
+  "updatedAt": "2026-10-27T16:30:00Z",
+  "author": "Chef Hazy",
+  "intro_md": null,
+  "outro_md": null,
+  "data": {
+    "items": [
+      {
+        "at": "2026-10-27T16:30:00Z",
+        "text": "Saquon Barkley (PHI) tweaked the hamstring on the first drive in his return vs DAL Monday, then hurt his back and did not play the fourth quarter of the 38-21 loss. He said neither injury should keep him out Sunday night vs WAS. RB12 rest of season for me. Monitor Wednesday's Eagles injury report.",
+        "url": "https://www.inquirer.com/eagles/live/eagles-score-news-injury-report-saquon-barkley-next-game-schedule-20261027.html",
+        "player": "Saquon Barkley",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Wednesday's Eagles injury report"
+      },
+      {
+        "at": "2026-10-27T16:30:00Z",
+        "text": "Dameon Pierce (PHI) led the Eagles with 14 carries for 47 yards and a TD vs DAL Monday, then left with 8:38 to go with an undisclosed injury and did not return. Tank Bigsby, Will Shipley and Carson Steele are on IR, so he is the only healthy handcuff behind Saquon Barkley. RB91 rest of season for me. Monitor Wednesday's Eagles injury report.",
+        "url": "https://www.rotowire.com/football/news.php",
+        "player": "Dameon Pierce",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Wednesday's Eagles injury report"
+      }
+    ]
+  },
+  "posts": []
+}
