@@ -6,12 +6,52 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "updatedAt": "2026-10-27T23:45:00Z",
+  "updatedAt": "2026-10-27T23:55:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand. Updated Tue 7:35 PM ET: added Antonio Williams and Omar Cooper Jr. as claims, Seth McGowan and Kaelon Black as stashes, and Wednesday-to-Friday practice watches on Breece Hall, Jeremiyah Love, Amon-Ra St. Brown, Emeka Egbuka, Jaylen Waddle and Ladd McConkey.",
+  "intro_md": "Updated Tue 7:55 PM ET: added Chig Okonkwo as an add and Quinshon Judkins as a hold, with Wednesday watches on Tyjae Spears, Elijah Mitchell and Jacoby Brissett. Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand. Updated Tue 7:35 PM ET: added Antonio Williams and Omar Cooper Jr. as claims, Seth McGowan and Kaelon Black as stashes, and Wednesday-to-Friday practice watches on Breece Hall, Jeremiyah Love, Amon-Ra St. Brown, Emeka Egbuka, Jaylen Waddle and Ladd McConkey.",
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-27T23:55:00Z",
+        "text": "Tony Pollard (TEN) ran 25 times for 129 and 3 TDs vs CLE on 75 percent of the snaps with Tyjae Spears (knee) inactive, after 14 and 19 carries the two weeks before. Spears' return puts Pollard back on his Weeks 1 to 5 share, so trade Pollard away and ask for an RB2. Spears is RB59 rest of season for me. Monitor his practice participation Wednesday to Friday.",
+        "player": "Tyjae Spears",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Titans practice reports, Wednesday to Friday"
+      },
+      {
+        "at": "2026-10-27T23:55:00Z",
+        "text": "Quinshon Judkins (CLE) ran 17 times for 96 and 2 TDs at TEN on 53 percent of the snaps, down from 66 percent in Week 4, as Dylan Sampson played 32 snaps in his first game since Week 1 and took the passing downs with 3 catches for 32. Judkins kept 17 carries to Sampson's 6 and both scores. Sampson is RB58 rest of season for me; monitor his carries Sunday at PIT. Judkins is RB22 rest of season for me. Hold him.",
+        "player": "Quinshon Judkins",
+        "pos": "RB",
+        "action": "HOLD",
+        "why": "He kept the early downs and the goal line; Sampson past 10 carries at PIT, or Judkins under half the snaps, would change the call."
+      },
+      {
+        "at": "2026-10-27T23:55:00Z",
+        "text": "Chig Okonkwo (WAS) caught all 7 targets for 69 at SF in Week 6, after a team-high 6 targets vs NYG in Week 5, and Terry McLaurin's targets are now spread through the room. TE16 rest of season for me. Add him, 0 to 2 percent of FAAB.",
+        "player": "Chig Okonkwo",
+        "pos": "TE",
+        "action": "ADD",
+        "faab": "0-2%"
+      },
+      {
+        "at": "2026-10-27T23:55:00Z",
+        "text": "Elijah Mitchell (PHI), elevated from the practice squad, played 14 snaps vs DAL Monday with 3 carries for 11 and 3 catches for 23, and he was the only Eagles back left after Dameon Pierce went down with an undisclosed injury. RB90 rest of season for me. Monitor Wednesday's Eagles injury report; he is a deep-league add only if Pierce is out.",
+        "player": "Elijah Mitchell",
+        "pos": "RB",
+        "action": "MONITOR",
+        "watch": "Wednesday's Eagles injury report"
+      },
+      {
+        "at": "2026-10-27T23:55:00Z",
+        "text": "Jacoby Brissett (ARI) started Week 7 vs DEN with Carson Beck's back acting up and threw 48 times, completing 27 for 272 and a TD. Arizona plays at DAL Sunday. QB29 rest of season for me. Monitor Wednesday's Cardinals practice report for Beck; if Brissett starts, he is a streamer at DAL.",
+        "player": "Jacoby Brissett",
+        "pos": "QB",
+        "action": "MONITOR",
+        "watch": "Wednesday's Cardinals practice report"
+      },
       {
         "at": "2026-10-27T23:35:00Z",
         "text": "Antonio Williams (WAS) played 45 snaps at SF in Week 6, the most of any Washington receiver, and caught 3 of 4 targets for 50. Dan Quinn said Monday he expects Williams to get more chances with Terry McLaurin out for the season. WR46 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
