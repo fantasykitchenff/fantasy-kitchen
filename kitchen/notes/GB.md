@@ -225,3 +225,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-13: Week 6 vs DAL Sunday night (schedule).
 - 2026-10-21: Jordan Love (back) limited Wednesday; Christian Watson, Matthew Golden limited. [NFL.com Wednesday roundup]
 - 2026-10-26: Matthew Golden (shoulder, foot) did not participate in Monday's walkthrough before Thursday vs CAR (NFL.com). C Sean Rhyan high ankle sprain, 4 to 6 weeks reported.
+- 2026-10-28: Matthew Golden (shoulder, foot) limited Wednesday and listed questionable for Thursday vs CAR; Zaire Franklin, Travis Glover, Sean Rhyan out; Devonte Wyatt, Anthony Campbell, Brenton Cox Jr. questionable (Packers team site).

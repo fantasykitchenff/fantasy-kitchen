@@ -217,3 +217,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-10: Jeremy McNichols: downgraded to out for Week 5 vs NYG with the quad. (nfl.com)
 - 2026-10-11: Terry McLaurin active Week 5 vs NYG (hamstring); Jayden Daniels back from the elbow (nfl.com Sunday pregame)
 - 2026-10-13: Chig Okonkwo: team-high 6 targets vs NYG in Week 5, 4 for 60; 3% rostered (NFL.com waiver column).
+- 2026-10-28: Stefon Diggs (hand, hamstring, rest) did not practice Wednesday, Quinn says he returns Thursday; Treylon Burks (foot) limited (NBC Sports).

@@ -180,3 +180,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-09: Justin Jefferson questionable (ankle), LP all week, says he plans to play; Jordan Addison questionable (hamstring), DNP/LP/LP (Friday report).
 - 2026-10-11: Jordan Addison inactive Week 5 at NO (hamstring); Justin Jefferson active (ankle) (nfl.com Sunday pregame)
 - 2026-10-21: Jordan Mason (thumb): full Wednesday as his 21-day IR window opened. Justin Jefferson limited (ankle, maintenance). Jordan Addison full (hamstring). [NFL.com Wednesday roundup, Yahoo Sports]
+- 2026-10-28: Aaron Jones Sr. (knee) did not practice Wednesday, confirmed by Kevin O'Connell; Schefter earlier reported the aggravation is not considered significant, day to day (Yahoo Sports).

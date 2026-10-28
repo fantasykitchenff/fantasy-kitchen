@@ -6,12 +6,155 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "updatedAt": "2026-10-28T16:25:00Z",
+  "updatedAt": "2026-10-28T23:15:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 12:25 PM ET: Emeka Egbuka opened Wednesday's practice in a non-contact jersey, still in the concussion protocol, and Matt LaFleur only hopes Matthew Golden plays Thursday; both stay Monitor. Updated Tue 8:35 PM ET: the claims, adds and stashes keep their reasons and rest-of-season ranks with no FAAB bid; every league and roster is different, so set your own. Updated Tue 7:55 PM ET: added Chig Okonkwo as an add and Quinshon Judkins as a hold, with Wednesday watches on Tyjae Spears, Elijah Mitchell and Jacoby Brissett. Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand. Updated Tue 7:35 PM ET: added Antonio Williams and Omar Cooper Jr. as claims, Seth McGowan and Kaelon Black as stashes, and Wednesday-to-Friday practice watches on Breece Hall, Jeremiyah Love, Amon-Ra St. Brown, Emeka Egbuka, Jaylen Waddle and Ladd McConkey.",
+  "intro_md": "Updated Wed 7:15 PM ET: Dameon Pierce went on IR, so drop him; Lamar Jackson practiced in full and is QB4 for me; Matthew Golden is questionable for Thursday; Jahmyr Gibbs (shoulder), Amon-Ra St. Brown, Jaylen Waddle and Aaron Jones Sr. sat out Wednesday, all Monitor. Updated Wed 12:25 PM ET: Emeka Egbuka opened Wednesday's practice in a non-contact jersey, still in the concussion protocol, and Matt LaFleur only hopes Matthew Golden plays Thursday; both stay Monitor. Updated Tue 8:35 PM ET: the claims, adds and stashes keep their reasons and rest-of-season ranks with no FAAB bid; every league and roster is different, so set your own. Updated Tue 7:55 PM ET: added Chig Okonkwo as an add and Quinshon Judkins as a hold, with Wednesday watches on Tyjae Spears, Elijah Mitchell and Jacoby Brissett. Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand.",
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Dameon Pierce",
+        "action": "DROP",
+        "url": "https://www.philadelphiaeagles.com/news/eagles-sign-rb-jaydon-blue-to-the-active-roster-add-three-to-the-practice-squad-dameon-pierce",
+        "text": "The Eagles put Dameon Pierce (PHI) on injured reserve Wednesday with the injury from Monday night, so he misses at least four games, and promoted Jaydon Blue from the practice squad. RB70 rest of season for me. Drop him for any add on the wire."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Saquon Barkley",
+        "action": "MONITOR",
+        "watch": "Thursday's Eagles injury report",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "text": "Saquon Barkley (PHI) sat out Wednesday's walkthrough with the hamstring and back, and with Dameon Pierce on IR the backs behind him are Jaydon Blue and Elijah Mitchell. RB18 for me this week at WAS, an RB2. Monitor Thursday's Eagles injury report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Lamar Jackson",
+        "action": "START",
+        "slot": "QB1",
+        "url": "https://www.espn.com/nfl/story/_/id/50311435/ravens-list-lamar-jackson-full-participant-practice",
+        "text": "Lamar Jackson (BAL) was a full participant Wednesday with the ankle, per ESPN, after three straight missed games. QB4 for me this week at BUF."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Matthew Golden",
+        "action": "MONITOR",
+        "watch": "Thursday's inactives at 6:45 PM ET",
+        "url": "https://www.packers.com/news/packers-list-four-questionable-rule-out-three-vs-panthers-week-8-injury-report",
+        "text": "Matthew Golden (GB) was limited Wednesday with the shoulder and foot after missing Monday and Tuesday, and the Packers list him as questionable for Thursday vs CAR. WR11 for me, borderline WR1/WR2 this week. Monitor Thursday's inactives at 6:45 PM ET."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Jalen Coker",
+        "action": "START",
+        "slot": "WR2",
+        "url": "https://www.packers.com/news/packers-list-four-questionable-rule-out-three-vs-panthers-week-8-injury-report",
+        "text": "Jalen Coker (CAR) practiced in full Wednesday with the shoulder and has no injury designation for Thursday at GB. WR15 for me this week, a WR2."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Jahmyr Gibbs",
+        "action": "MONITOR",
+        "watch": "Thursday's Lions practice report",
+        "url": "https://detroitlions.com/news/lions-vs-vikings-practice-report-oct-28-gibbs-stbrown-joseph",
+        "text": "Jahmyr Gibbs (DET) did not practice Wednesday with a shoulder injury from an awkward slide vs GB, a game in which he played a season-high 90 percent of the snaps. The No. 2 back on my Menu this week vs MIN. Monitor Thursday's Lions practice report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Amon-Ra St. Brown",
+        "action": "MONITOR",
+        "watch": "Thursday's Lions practice report",
+        "url": "https://detroitlions.com/news/lions-vs-vikings-practice-report-oct-28-gibbs-stbrown-joseph",
+        "text": "Amon-Ra St. Brown (DET) sat out Wednesday with the ankle, as Dan Campbell planned, and the plan is to get him going Thursday. WR6 for me this week vs MIN. Monitor Thursday's Lions practice report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Breece Hall",
+        "action": "MONITOR",
+        "watch": "Friday's Jets injury report",
+        "url": "https://www.newyorkjets.com/news/jets-injury-report-week-8-vs-raiders-wednesday-10-28-2026",
+        "text": "Breece Hall (NYJ) was limited Wednesday with the quad after four missed games, and Braelon Allen (ankle) was limited too. Hall is RB20 for me vs LV, an RB2. Monitor Friday's Jets injury report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Jeremiyah Love",
+        "action": "MONITOR",
+        "watch": "Friday's Cardinals injury report",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-28/jeremiyah-love-ankle-will-be-limited-on-wed",
+        "text": "Jeremiyah Love (ARI) was limited Wednesday with the ankle after two missed games, and Mike LaFleur says he is in line to play at DAL. RB24 for me this week, an RB2. Monitor Friday's Cardinals injury report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Jacoby Brissett",
+        "action": "START",
+        "slot": "QB1",
+        "url": "https://sports.yahoo.com/articles/mike-lafleur-makes-decisive-call-032642302.html",
+        "text": "Mike LaFleur says Jacoby Brissett (ARI) stays the starter at DAL, after 48 throws vs DEN, while Carson Beck's back is still being checked. QB11 for me, a borderline start this week."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Jaylen Waddle",
+        "action": "MONITOR",
+        "watch": "Friday's Broncos injury report",
+        "url": "https://gazette.com/2026/10/28/broncos-waddle-allen-hufanga-sit-out-practice/",
+        "text": "Jaylen Waddle (DEN) did not practice Wednesday with the chest he aggravated at ARI, and Ian Rapoport says his status for KC is not decided. WR41 for me, a low-end flex play to a dart throw. Monitor Friday's Broncos injury report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Aaron Jones Sr.",
+        "action": "MONITOR",
+        "watch": "Friday's Vikings injury report",
+        "url": "https://sports.yahoo.com/articles/lions-vikings-week-8-injury-205149881.html",
+        "text": "Aaron Jones Sr. (MIN) did not practice Wednesday with the knee he aggravated vs IND; Adam Schefter reports it is not considered significant. Jones is RB33 for me at DET, a low-end RB3, and Jordan Mason is RB22, an RB2. Monitor Friday's Vikings injury report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Emeka Egbuka",
+        "action": "MONITOR",
+        "watch": "Friday's Buccaneers injury report",
+        "url": "https://www.buccaneers.com/news/buccaneers-falcons-injury-report-oct-28-week-8-2026",
+        "text": "Emeka Egbuka (TB) was limited Wednesday with the concussion and foot, still in the protocol. WR31 for me vs ATL, a low-end WR3. Monitor Friday's Buccaneers injury report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Kenny Gainwell",
+        "action": "MONITOR",
+        "watch": "Thursday's Buccaneers practice report",
+        "url": "https://www.buccaneers.com/news/buccaneers-falcons-injury-report-oct-28-week-8-2026",
+        "text": "Kenny Gainwell (TB) did not practice Wednesday with a hip injury. RB34 for me vs ATL, a low-end RB3; Bucky Irving is RB14, borderline RB1/RB2. Monitor Thursday's Buccaneers practice report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Ja'Marr Chase",
+        "action": "MONITOR",
+        "watch": "Thursday's Bengals practice report",
+        "url": "https://atozsports.com/nfl/cincinnati-bengals-news/bengals-wednesday-injury-report-vs-titans-nfl-week-8-jamarr-chase-ankle-injury-rest-day/",
+        "text": "Ja'Marr Chase (CIN) did not practice Wednesday, listed with rest and the ankle, and was in the locker room afterward. WR3 for me this week vs TEN. Monitor Thursday's Bengals practice report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Stefon Diggs",
+        "action": "MONITOR",
+        "watch": "Thursday's Commanders practice report",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "text": "Stefon Diggs (WAS) did not practice Wednesday with the hand, the hamstring and a rest day, and Dan Quinn says he is back Thursday. WR21 for me vs PHI, a WR2. Monitor Thursday's Commanders practice report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "Brock Bowers",
+        "action": "MONITOR",
+        "watch": "Friday's Raiders injury report",
+        "url": "https://www.newyorkjets.com/news/jets-injury-report-week-8-vs-raiders-wednesday-10-28-2026",
+        "text": "Brock Bowers (LV) was limited Wednesday with a calf injury. TE2 for me this week at NYJ. Monitor Friday's Raiders injury report."
+      },
+      {
+        "at": "2026-10-28T23:15:00Z",
+        "player": "George Pickens",
+        "action": "MONITOR",
+        "watch": "Friday's Cowboys injury report",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "text": "George Pickens (DAL) was limited in Wednesday's walkthrough with the shoulder and hamstring. WR13 for me vs ARI, borderline WR1/WR2 this week. Monitor Friday's Cowboys injury report."
+      },
       {
         "at": "2026-10-28T16:20:00Z",
         "text": "Emeka Egbuka (TB) was on the field for the start of Wednesday's practice in a non-contact jersey, per Greg Auman of Fox Sports, so he is still in the concussion protocol with the foot also listed. He was inactive at CAR in Week 7. WR33 rest of season for me. Monitor Thursday's Buccaneers practice report; he has to be cleared before Sunday vs ATL.",
@@ -255,6 +398,12 @@
       "kind": "thread",
       "status": "posted",
       "url": "https://x.com/FF_ChefHazy/status/2115244047979663732"
+    },
+    {
+      "id": "2026w08-notes-thread-e89f",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
     }
   ]
 }

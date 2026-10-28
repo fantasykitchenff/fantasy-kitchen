@@ -184,3 +184,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-09: Breece Hall and Adonai Mitchell out vs CLE; Mason Taylor no designation (thumb) (newyorkjets.com Friday report).
 - 2026-10-21: Breece Hall (quad) DNP Wednesday; Aaron Glenn would not rule him out vs MIA and said Braelon Allen keeps getting touches. Adonai Mitchell limited (finger). [NFL.com Wednesday roundup, Yahoo Sports]
 - 2026-10-25: Breece Hall (quad) inactive Week 7 vs MIA, fourth missed game (CBS Sports, Yahoo Sports inactives).
+- 2026-10-28: Breece Hall (quad) and Braelon Allen (ankle) limited Wednesday (Jets team site).

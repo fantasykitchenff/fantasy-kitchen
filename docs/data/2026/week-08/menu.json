@@ -6,9 +6,9 @@
   "dek": "Josh Allen comes off the bye at QB1, Bijan Robinson takes RB1 and Lamar Jackson returns at QB4.",
   "format": "PPR",
   "publishedAt": "2026-10-27T23:55:00Z",
-  "updatedAt": "2026-10-28T14:55:00Z",
+  "updatedAt": "2026-10-28T23:15:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 10:55 AM ET: Jaylen Waddle (chest, shoulder) is WR41 and Aaron Jones Sr. (knee) RB33 for me until Friday's injury reports; the rest of the order stands ahead of Wednesday's practices.\n\nUpdated Tue 7:55 PM ET: the Week 8 order is refreshed ahead of Wednesday's practice reports.\n\nWeek 8 has four teams on bye: Houston, New Orleans, the Giants and San Francisco are off, so none of their players are on the Menu. Carolina at Green Bay opens the week Thursday night, Philadelphia at Washington is Sunday night and Chicago at Seattle closes it Monday night. Rankings are for full PPR.\n\nJosh Allen comes off the bye at QB1 with Drake Maye right behind him, and Lamar Jackson is back at QB4 after three missed games. Bijan Robinson edges Jahmyr Gibbs for RB1, Jaxon Smith-Njigba is WR1 after 150 yards vs KC, and Trey McBride is TE1 after 13 targets vs DEN.\n\nPrep Notes revisits Friday: Lamar Jackson's ankle, Saquon Barkley's back, Matthew Golden before Thursday night, Amon-Ra St. Brown's ankle, Breece Hall's return and Jeremiyah Love at practice.",
+  "intro_md": "Updated Wed 7:15 PM ET: Matthew Golden is questionable for Thursday after a limited practice and stays WR11 until the inactives; Lamar Jackson practiced in full at QB4; Jahmyr Gibbs (shoulder), Amon-Ra St. Brown, Jaylen Waddle and Aaron Jones Sr. sat out Wednesday and hold their spots until Thursday's and Friday's reports.\n\nUpdated Wed 10:55 AM ET: Jaylen Waddle (chest, shoulder) is WR41 and Aaron Jones Sr. (knee) RB33 for me until Friday's injury reports; the rest of the order stands ahead of Wednesday's practices.\n\nUpdated Tue 7:55 PM ET: the Week 8 order is refreshed ahead of Wednesday's practice reports.\n\nWeek 8 has four teams on bye: Houston, New Orleans, the Giants and San Francisco are off, so none of their players are on the Menu. Carolina at Green Bay opens the week Thursday night, Philadelphia at Washington is Sunday night and Chicago at Seattle closes it Monday night. Rankings are for full PPR.\n\nJosh Allen comes off the bye at QB1 with Drake Maye right behind him, and Lamar Jackson is back at QB4 after three missed games. Bijan Robinson edges Jahmyr Gibbs for RB1, Jaxon Smith-Njigba is WR1 after 150 yards vs KC, and Trey McBride is TE1 after 13 targets vs DEN.\n\nPrep Notes revisits Friday: Lamar Jackson's ankle, Saquon Barkley's back, Matthew Golden before Thursday night, Amon-Ra St. Brown's ankle, Breece Hall's return and Jeremiyah Love at practice.",
   "outro_md": null,
   "data": {
     "positions": {
@@ -58,7 +58,7 @@
           "team": "BAL",
           "pos": "QB",
           "opp": "at BUF",
-          "note": "Missed three games with the high ankle sprain; Baltimore expects him back at BUF.",
+          "note": "Full practice Wednesday with the ankle after three missed games.",
           "flag": "",
           "action": "START",
           "slot": "QB1",
@@ -318,10 +318,11 @@
           "team": "DET",
           "pos": "RB",
           "opp": "vs MIN",
-          "note": "Season-high 90 percent of the snaps vs GB: 29 for 116 and 5 catches.",
+          "note": "Missed Wednesday's practice (shoulder); season-high 90 percent of snaps vs GB.",
           "flag": "",
           "action": "START",
-          "slot": "RB1"
+          "slot": "RB1",
+          "watch": "Thursday's Lions practice report"
         },
         {
           "rank": 3,
@@ -514,11 +515,11 @@
           "team": "PHI",
           "pos": "RB",
           "opp": "at WAS",
-          "note": "Hurt his back and tweaked the hamstring vs DAL; he says he plays Sunday night.",
+          "note": "Sat out Wednesday's walkthrough (hamstring, back); Pierce went on IR.",
           "flag": "",
           "action": "START",
           "slot": "RB2",
-          "watch": "Philadelphia's Wednesday injury report"
+          "watch": "Thursday's Eagles injury report"
         },
         {
           "rank": 19,
@@ -690,7 +691,7 @@
           "team": "MIN",
           "pos": "RB",
           "opp": "at DET",
-          "note": "Aggravated the knee vs IND after 15 snaps; Jordan Mason led with 15 carries.",
+          "note": "Missed Wednesday's practice (knee); Jordan Mason led with 15 carries vs IND.",
           "flag": "",
           "action": "FLEX",
           "watch": "Friday's Vikings injury report"
@@ -843,11 +844,11 @@
           "team": "DET",
           "pos": "WR",
           "opp": "vs MIN",
-          "note": "9 for 153 on 11 targets vs GB; tweaked an ankle, due to practice Thursday.",
+          "note": "9 for 153 vs GB; sat out Wednesday with the ankle as planned.",
           "flag": "",
           "action": "START",
           "slot": "WR1",
-          "watch": "Detroit's Thursday practice report"
+          "watch": "Thursday's Lions practice report"
         },
         {
           "rank": 7,
@@ -905,11 +906,11 @@
           "team": "GB",
           "pos": "WR",
           "opp": "vs CAR",
-          "note": "Missed Monday's walkthrough (shoulder, foot); 12 targets at DET.",
-          "flag": "",
+          "note": "Questionable: limited Wednesday (shoulder, foot); 12 targets at DET.",
+          "flag": "Q",
           "action": "START",
           "slot": "WR1",
-          "watch": "Green Bay's Wednesday injury report before Thursday night"
+          "watch": "Thursday's inactives at 6:45 PM ET"
         },
         {
           "rank": 12,
@@ -1265,7 +1266,7 @@
           "team": "DEN",
           "pos": "WR",
           "opp": "vs KC",
-          "note": "Aggravated the chest and shoulder at ARI on 56 percent of snaps.",
+          "note": "Missed Wednesday's practice with the chest he aggravated at ARI.",
           "flag": "",
           "action": "FLEX",
           "watch": "Friday's Broncos injury report"
@@ -1656,10 +1657,11 @@
           "team": "DET",
           "pos": "RB",
           "opp": "vs MIN",
-          "note": "Season-high 90 percent of the snaps vs GB: 29 for 116 and 5 catches.",
+          "note": "Missed Wednesday's practice (shoulder); season-high 90 percent of snaps vs GB.",
           "flag": "",
           "action": "START",
-          "slot": "FLEX"
+          "slot": "FLEX",
+          "watch": "Thursday's Lions practice report"
         },
         {
           "rank": 5,
@@ -1753,11 +1755,11 @@
           "team": "DET",
           "pos": "WR",
           "opp": "vs MIN",
-          "note": "9 for 153 on 11 targets vs GB; tweaked an ankle, due to practice Thursday.",
+          "note": "9 for 153 vs GB; sat out Wednesday with the ankle as planned.",
           "flag": "",
           "action": "START",
           "slot": "FLEX",
-          "watch": "Detroit's Thursday practice report"
+          "watch": "Thursday's Lions practice report"
         },
         {
           "rank": 13,
@@ -1898,11 +1900,11 @@
           "team": "GB",
           "pos": "WR",
           "opp": "vs CAR",
-          "note": "Missed Monday's walkthrough (shoulder, foot); 12 targets at DET.",
-          "flag": "",
+          "note": "Questionable: limited Wednesday (shoulder, foot); 12 targets at DET.",
+          "flag": "Q",
           "action": "START",
           "slot": "FLEX",
-          "watch": "Green Bay's Wednesday injury report before Thursday night"
+          "watch": "Thursday's inactives at 6:45 PM ET"
         },
         {
           "rank": 25,
@@ -2078,10 +2080,10 @@
           "team": "PHI",
           "pos": "RB",
           "opp": "at WAS",
-          "note": "Hurt his back and tweaked the hamstring vs DAL; he says he plays Sunday night.",
+          "note": "Sat out Wednesday's walkthrough (hamstring, back); Pierce went on IR.",
           "flag": "",
           "action": "FLEX",
-          "watch": "Philadelphia's Wednesday injury report"
+          "watch": "Thursday's Eagles injury report"
         },
         {
           "rank": 41,

@@ -179,3 +179,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 
 - 2026-02-24: Offensive coordinator Brad Idzik calls the offensive plays; Dave Canales handed them over before the season. [pod 10-20, official]
 - 2026-10-26: Monday estimated report for Thursday at GB: Bryce Young (knee) full, Jalen Coker (shoulder) limited (NFL.com).
+- 2026-10-28: Jalen Coker (shoulder) and Bryce Young (knee) full Wednesday, no designation for Thursday at GB; Jaelan Phillips, Damien Lewis, Akayleb Evans, Torricelli Simpkins III out (Packers team site).

@@ -226,3 +226,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-10: Marvin Harrison Jr.: Arizona is finalizing a trade, per ESPN and NFL Network; he is inactive vs DET in Week 5 and no deal is announced before Sunday's games; Houston named as interested. 5 catches for 85 in four games. (nfl.com, ESPN)
 - 2026-10-13: Kendrick Bourne: 5 of 8 targets for 70 vs DET in Week 5 with Harrison inactive; 2% rostered (NFL.com waiver column).
 - 2026-10-13: Schedule: Wk6 at LAR, Wk7 vs DEN, Wk8 at DAL. [pod 10-13, official]
+- 2026-10-28: Jeremiyah Love (ankle) limited Wednesday, Mike LaFleur says he is in line to play at DAL (NBC Sports); LaFleur named Jacoby Brissett the Week 8 starter, Carson Beck (back spasm) still being evaluated (Yahoo Sports, SI).
