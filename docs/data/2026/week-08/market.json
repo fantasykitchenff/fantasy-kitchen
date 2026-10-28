@@ -1,0 +1,212 @@
+{
+  "series": "market",
+  "season": 2026,
+  "week": 8,
+  "title": "Market Run, Week 8",
+  "dek": "Jordan Mason out-snapped Aaron Jones Sr. 38 to 15 in his first game back, and he is the first claim of the week.",
+  "format": "PPR",
+  "publishedAt": "2026-10-28T00:39:54Z",
+  "updatedAt": "2026-10-28T00:39:54Z",
+  "author": "Chef Hazy",
+  "intro_md": "Week 8's wire is about backs who took jobs on Sunday: Jordan Mason in Minnesota, Jonah Coleman in Denver and Ollie Gordon II in Miami, plus receivers whose routes caught up to their names. Houston, New Orleans, the Giants and San Francisco are on bye. PPR scoring, 10 to 14 team leagues, and the list is in priority order: the first name is the one to want most.\n\nNo FAAB bids here. Every league and every roster is different, so set your own; the order, the rank and the reasons are the call. Rest-of-season ranks are mine, and Monday night's Dallas win at Philadelphia is at the bottom.",
+  "outro_md": "The Menu already has every one of these players ranked for Week 8, and Prep Notes reads Friday's reports. Claims first, lineups after.",
+  "data": {
+    "adds": [
+      {
+        "priority": 1,
+        "player": "Jordan Mason",
+        "team": "MIN",
+        "pos": "RB",
+        "action": "CLAIM",
+        "why": "Jordan Mason (MIN) led the Vikings backs with 38 snaps to Aaron Jones Sr.'s 15 vs IND in his first game off IR and ran 15 times for 68. Jones aggravated the MCL sprain in his left knee, an injury from Week 2, and is day to day after Monday's MRI; even with Jones healthy, Mason out-snapped him better than two to one.",
+        "verdict": "RB26 rest of season for me and RB22 for me this week at DET. Claim him. Top priority."
+      },
+      {
+        "priority": 2,
+        "player": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "action": "CLAIM",
+        "why": "Jonah Coleman (DEN) played 30 snaps at ARI in his first game back from the high ankle sprain, 49 percent and the most of any Denver back, and ran 9 times for 54 with 2 catches for 15. RJ Harvey played 16 snaps and J.K. Dobbins 14, and Sean Payton has called the plays since Week 5 to get more balance in the run game.",
+        "verdict": "RB27 rest of season for me. Claim him; last week's stash is now the lead back."
+      },
+      {
+        "priority": 3,
+        "player": "Omar Cooper Jr.",
+        "team": "NYJ",
+        "pos": "WR",
+        "action": "CLAIM",
+        "why": "Omar Cooper Jr. (NYJ) ran a route on 70 percent of the dropbacks vs MIA to Adonai Mitchell's 55 and caught 5 for 115 and a TD on 38 snaps. He was a claim here last week, and Week 7 backed it up while Garrett Wilson drew 3 targets on 50 snaps.",
+        "verdict": "WR35 rest of season for me and WR23 for me this week vs LV. Claim him if he is still on your wire."
+      },
+      {
+        "priority": 4,
+        "player": "Ollie Gordon II",
+        "team": "MIA",
+        "pos": "RB",
+        "action": "ADD",
+        "why": "Ollie Gordon II (MIA) ran 25 times for 103 and a TD at NYJ on 83 percent of the snaps. Jaylen Wright played 8 snaps before a quad injury, and his Week 8 status vs NE is open; since De'Von Achane tore his ACL in Week 3, Gordon's carries have gone 17, 9, 18 and 25.",
+        "verdict": "RB19 rest of season for me. Add him wherever he is still a free agent."
+      },
+      {
+        "priority": 5,
+        "player": "KC Concepcion Jr.",
+        "team": "CLE",
+        "pos": "WR",
+        "action": "ADD",
+        "why": "KC Concepcion Jr. (CLE) caught 8 of 10 targets for 129 at TEN on 79 percent of the snaps, the most targets on the Browns. His targets went 1, 6 and 10 over Weeks 5 to 7, and the 1 came when a concussion knocked him out in the first quarter at NYJ; his share went 3, 24 and 29 percent.",
+        "verdict": "WR37 rest of season for me and WR24 for me this week at PIT. Add him."
+      },
+      {
+        "priority": 6,
+        "player": "Tre Tucker",
+        "team": "LV",
+        "pos": "WR",
+        "action": "CLAIM",
+        "why": "Tre Tucker (LV) caught 5 of 12 targets for 103 and a TD vs LAR on 82 percent of the snaps. His targets went 5, 7 and 12 over Weeks 5 to 7, a share of 14, 18 and 28 percent, and Klint Kubiak named Kirk Cousins the Week 8 starter at NYJ.",
+        "verdict": "WR40 rest of season for me, and the targets say higher. Claim him."
+      },
+      {
+        "priority": 7,
+        "player": "Antonio Williams",
+        "team": "WAS",
+        "pos": "WR",
+        "action": "CLAIM",
+        "why": "Antonio Williams (WAS) played 45 snaps at SF in Week 6, the most of any Washington receiver, and caught 3 of 4 for 50. Terry McLaurin is out for the season, and Dan Quinn said Monday he expects Williams to get more chances while Stefon Diggs' workload stays about the same.",
+        "verdict": "WR46 rest of season for me. Claim him; last week's stash moves up with the coach's word behind the snaps."
+      },
+      {
+        "priority": 8,
+        "player": "Makai Lemon",
+        "team": "PHI",
+        "pos": "WR",
+        "action": "ADD",
+        "why": "Makai Lemon (PHI) caught 7 of 8 targets for 67 and a TD vs DAL Monday on 91 percent of the snaps, mostly from the slot, with DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) inactive. His snap share has climbed 70, 74, 81, 81 and 91 percent over Weeks 3 to 7.",
+        "verdict": "WR50 rest of season for me. Add him before Smith's Wednesday practice report; Smith's return trims the targets."
+      },
+      {
+        "priority": 9,
+        "player": "Chig Okonkwo",
+        "team": "WAS",
+        "pos": "TE",
+        "action": "ADD",
+        "why": "Chig Okonkwo (WAS) caught all 7 targets for 69 at SF in Week 6, after a team-high 6 targets vs NYG in Week 5. McLaurin's targets are spread through the room now, and Washington comes off its bye vs PHI.",
+        "verdict": "TE16 rest of season for me and TE14 for me this week. Add him."
+      },
+      {
+        "priority": 10,
+        "player": "Jacoby Brissett",
+        "team": "ARI",
+        "pos": "QB",
+        "action": "STREAM",
+        "why": "Jacoby Brissett (ARI) started Week 7 vs DEN with Carson Beck's back acting up and completed 27 of 48 for 272 and a TD. Arizona plays at DAL, which gave up 21 points and 211 passing yards to Tanner McKee Monday.",
+        "verdict": "QB11 for me this week, a borderline start at DAL. Stream him; Wednesday's Cardinals practice report decides whether Beck takes the start back."
+      },
+      {
+        "priority": 11,
+        "player": "T.J. Hockenson",
+        "team": "MIN",
+        "pos": "TE",
+        "action": "STREAM",
+        "why": "T.J. Hockenson (MIN) played 45 snaps vs IND, 76 percent, and caught 4 of 5 targets for 35 and a TD. The Vikings play at DET.",
+        "verdict": "TE10 for me this week at DET. Stream him if your tight end is on bye or hurt."
+      },
+      {
+        "priority": 12,
+        "player": "Ryan Flournoy",
+        "team": "DAL",
+        "pos": "WR",
+        "action": "ADD",
+        "why": "Ryan Flournoy (DAL) caught all 4 targets for 70 at PHI Monday and has out-targeted Jake Ferguson 13 to 4 over the last two games as the third option behind CeeDee Lamb and George Pickens. His snap share went 68, 87 and 78 percent over Weeks 5 to 7.",
+        "verdict": "WR60 rest of season for me. Add him in deep leagues."
+      }
+    ],
+    "stashes": [
+      {
+        "player": "Jadarian Price",
+        "team": "SEA",
+        "pos": "RB",
+        "action": "STASH",
+        "why": "Mike Macdonald said Jadarian Price (SEA, chest) will be designated to return from IR this week, and Seattle traded for guard Quenton Nelson Tuesday. Zach Charbonnet is trending toward his debut Monday vs CHI, and Emanuel Wilson loses the most snaps when both are back.",
+        "verdict": "RB48 rest of season for me. Stash him before the designation."
+      },
+      {
+        "player": "Kaelon Black",
+        "team": "SF",
+        "pos": "RB",
+        "action": "STASH",
+        "why": "Kaelon Black (SF) ran 12 times for 63 and his first career TD at ATL on 31 snaps and had all 3 of the 49ers' carries inside the 5. Christian McCaffrey's injury is a mild hamstring strain and he is on track for Week 9 after the bye.",
+        "verdict": "RB46 rest of season for me. Stash him in deep leagues as McCaffrey's handcuff with the goal-line work."
+      },
+      {
+        "player": "Seth McGowan",
+        "team": "IND",
+        "pos": "RB",
+        "action": "STASH",
+        "why": "Seth McGowan (IND) ran 11 times for 46 on 18 snaps vs MIN, both season highs, while Jonathan Taylor played 41 snaps and ran 18 times for 95 and a TD. Indianapolis traded Quenton Nelson Tuesday, and the trade deadline is Nov 10 at 4 PM ET; the value is a Taylor trade, not the current role.",
+        "verdict": "RB61 rest of season for me. Stash him only in deep leagues, through the deadline."
+      }
+    ],
+    "drops": [
+      {
+        "player": "Tyrone Tracy Jr.",
+        "team": "NYG",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "Tyrone Tracy Jr. (NYG) went on injured reserve Tuesday with the hamstring he hurt at Houston, so he misses at least four games with the Week 8 bye included, and Cam Skattebo ran 17 times for 124 in his place.",
+        "verdict": "RB63 rest of season for me. Drop him for any add on the list unless you have an open IR spot."
+      },
+      {
+        "player": "Erick All Jr.",
+        "team": "CIN",
+        "pos": "TE",
+        "action": "DROP",
+        "why": "Erick All Jr. (CIN) went on injured reserve Tuesday with the right knee he hurt vs BAL, and a torn ACL is feared, the third in that knee. Mike Gesicki is the tight end left in Cincinnati.",
+        "verdict": "TE53 rest of season for me. Drop him."
+      },
+      {
+        "player": "J.K. Dobbins",
+        "team": "DEN",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "J.K. Dobbins (DEN) played 14 snaps at ARI, 23 percent, after 52 percent in each of the two weeks before, and his TD came on the only carry he had inside the 5. Jonah Coleman led the backs with 30 snaps.",
+        "verdict": "RB42 rest of season for me. Drop him for Coleman or any add on the list."
+      },
+      {
+        "player": "Mike Washington Jr.",
+        "team": "LV",
+        "pos": "RB",
+        "action": "DROP",
+        "why": "Mike Washington Jr. (LV) played 18 snaps vs LAR, 26 percent, and ran 6 times for 27 while Ashton Jeanty went back up to 72 percent with 8 targets. Last week's claim was on half the early downs, and those went back to Jeanty.",
+        "verdict": "RB45 rest of season for me. Drop him for any add on the list."
+      },
+      {
+        "player": "Jake Ferguson",
+        "team": "DAL",
+        "pos": "TE",
+        "action": "DROP",
+        "why": "Jake Ferguson (DAL) drew 1 target at PHI Monday and did not catch it. His target share has gone 14, 6 and 4 percent since Week 5, and Ryan Flournoy out-targeted him 13 to 4 over the last two games.",
+        "verdict": "TE28 rest of season for me. Drop him for Okonkwo or Hockenson."
+      }
+    ],
+    "mnf": [
+      {
+        "text": "Dallas won 38-21 at Philadelphia. Javonte Williams (DAL) ran 25 times for a career-high 155 and a TD with no targets, and Hunter Luepke took more of the third-down work. Williams is RB8 rest of season for me; sell him on the 155, because a back with no targets needs the score to stay close."
+      },
+      {
+        "text": "Saquon Barkley (PHI) ran 7 times for 62 and a TD on 10 snaps, tweaked the hamstring on the first drive and missed the fourth quarter with his back; he says he plays Sunday night at WAS. Dameon Pierce (PHI) ran 14 times for 47 and a TD on 64 percent of the snaps, then left with an undisclosed injury, and Elijah Mitchell was the only back left. Barkley is RB18 rest of season for me; monitor Wednesday's Eagles injury report for both, and add Mitchell in deep leagues only if Pierce is ruled out."
+      },
+      {
+        "text": "Makai Lemon (PHI) caught 7 of 8 for 67 and a TD with Smith and Wicks inactive; add him. Ryan Flournoy (DAL) caught all 4 targets for 70 while Jake Ferguson caught none; add Flournoy in deep leagues and drop Ferguson. CeeDee Lamb (DAL) caught 2 TDs on 12 targets; WR5 rest of season for me, hold him."
+      }
+    ]
+  },
+  "posts": [
+    {
+      "id": "2026w08-market-thread-d1a1",
+      "kind": "thread",
+      "status": "queued",
+      "url": null
+    }
+  ]
+}
