@@ -4,7 +4,7 @@ Runs Tuesday 11:00 AM ET (FK Daily), after the 10:00 AM pantry. Posts at 1:25 PM
 
 ## What it is
 
-Priority adds by position with FAAB guidance, stashes, drops, and a short read on Monday night. Written for 10 to 14 team leagues, full PPR. The piece people set their waiver claims from.
+Priority adds by position in priority order, stashes, drops, and a short read on Monday night. Written for 10 to 14 team leagues, full PPR. The piece people set their waiver claims from.
 
 ## Inputs
 
@@ -24,32 +24,32 @@ Priority adds by position with FAAB guidance, stashes, drops, and a short read o
 
 1. Candidate pool: players not in last week's Menu top 24 (QB), top 30 (RB), top 36 (WR), top 12 (TE), or widely available by the rostered data, whose rest-of-season projection or new role makes them startable within two weeks.
 2. Rank adds by the model's rest-of-season projection adjusted for the new information (a backup who just inherited a starting job is priced at the starter's share minus a replacement-body haircut, per doctrine). Injury-driven adds are ranked by the length of the window, not the size of the one-week spike.
-3. FAAB ranges (of a 100 budget): league-winning role change 30 to 50 percent; clear multi-week starter 15 to 30; strong flex or streamer 5 to 15; speculative 1 to 5. State the range and the verdict in one sentence.
+3. No FAAB bids (the owner's rule, Wed Oct 28; `_standards.md`, the action rule): every league and roster is different, so readers set their own. The priority order, the reason and the rest-of-season rank say how much to want each player ("Top priority.", "a deep-league add"); never a dollar amount, bid range, percent of budget or bid tier.
 4. Stashes: 3 to 5 players for deep benches (handcuffs with standalone paths, returning-from-IR, rookies trending up).
 5. Drops: 3 to 5 widely rostered players whose role is gone, each with the deployment number that proves it.
 6. Monday night: 2 to 4 sentences of what changed, only what affects this list.
 7. 8 to 12 priority adds total, across positions, ordered by priority (1 is the best add). At least one QB streamer and one TE when the week has any worth naming.
-8. Actions: adds are CLAIM (waiver claim with a FAAB range) or ADD (free agent or 0 to 2 percent); a one-week streamer is STREAM and still carries `faab`. Stashes are STASH with `faab`. Drops are DROP. The `mnf` paragraphs name an action for every player they mention ("Monitor; MRI Monday.", "Claim him, 10 to 15 percent.").
+8. Actions: adds are CLAIM (waiver claim) or ADD (free agent or a minimal claim); a one-week streamer is STREAM. Stashes are STASH. None carries a `faab`. Drops are DROP. The `mnf` paragraphs name an action for every player they mention ("Monitor; MRI Monday.", "Claim him.").
 
 ## `data` shape
 
 ```json
 {
-  "adds": [ { "priority": 1, "player": "", "team": "", "pos": "", "action": "CLAIM", "faab": "25-35%", "rostered": "41%", "why": "two sentences, deployment first", "verdict": "Claim him, 25 to 35 percent of FAAB. Top priority." } ],
-  "stashes": [ { "player": "", "team": "", "pos": "", "action": "STASH", "faab": "1-3%", "why": "", "verdict": "" } ],
+  "adds": [ { "priority": 1, "player": "", "team": "", "pos": "", "action": "CLAIM", "rostered": "41%", "why": "two sentences, deployment first", "verdict": "WR28 rest of season for me. Claim him. Top priority." } ],
+  "stashes": [ { "player": "", "team": "", "pos": "", "action": "STASH", "why": "", "verdict": "" } ],
   "drops": [ { "player": "", "team": "", "pos": "", "action": "DROP", "why": "", "verdict": "" } ],
   "mnf": [ { "text": "one paragraph per point" } ]
 }
 ```
 
-Envelope: `title` "Market Run, Week N", `dek` the top add and why in one sentence, `intro_md` one or two paragraphs (the theme of this week's wire, the FAAB budget assumption).
+Envelope: `title` "Market Run, Week N", `dek` the top add and why in one sentence, `intro_md` one or two paragraphs (the theme of this week's wire; no FAAB budget or bids).
 
 ## Posts
 
 One thread, 15 to 25 posts (aim for 20 or more), naming at least 14 teams and as many as the adds, stashes, drops and pantry ripples reach, `--at "Tue 13:20"`, `--not-after "Wed 12:00"`, `--link "market.html?week=N"`. Every add, stash and drop on the site goes in the thread, one or two teams per post, plus the pantry board's role changes that make or break a waiver call. The outline below is the order, not the length; an item with more players runs as many posts as it needs:
 
-1. Hook: a general intro to this week's waiver wire, with the top adds and their FAAB ranges as highlights (one player per line). No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last puts the official hashtag of each team it names directly before its player's first mention.)
-2. Adds 1 to 3, one player per line with an empty line between players: name, team, position, the deployment number, then the action with the FAAB range ("Claim, 25 to 35 percent").
+1. Hook: a general intro to this week's waiver wire, with the top adds as highlights (one player per line). No link. (The hook is a closer only if the thread runs 20 or more posts, per `_standards.md`; every post but the last puts the official hashtag of each team it names directly before its player's first mention.)
+2. Adds 1 to 3, one player per line with an empty line between players: name, team, position, the deployment number, then the action with no bid ("Claim him. Top priority.").
 3. Adds 4 to 6.
 4. Adds 7 to 10 (or "deeper adds").
 5. QB and TE streamers.

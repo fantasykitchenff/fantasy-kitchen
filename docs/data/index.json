@@ -1,8 +1,26 @@
 {
   "season": 2026,
   "currentWeek": 8,
-  "updatedAt": "2026-10-28T00:01:46Z",
+  "updatedAt": "2026-10-28T00:36:56Z",
   "pieces": [
+    {
+      "series": "heat",
+      "week": 8,
+      "path": "2026/week-08/heat.json",
+      "title": "Heat Check, Week 8",
+      "dek": "Colston Loveland's targets went 5, 7, 12. The stove's on in Chicago.",
+      "publishedAt": "2026-10-27T17:01:00Z",
+      "updatedAt": "2026-10-28T00:35:58Z"
+    },
+    {
+      "series": "notes",
+      "week": 8,
+      "path": "2026/week-08/notes.json",
+      "title": "Kitchen notes, Week 8",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-27T16:30:00Z",
+      "updatedAt": "2026-10-28T00:35:58Z"
+    },
     {
       "series": "butcher",
       "week": 8,
@@ -13,30 +31,12 @@
       "updatedAt": "2026-10-28T00:20:00Z"
     },
     {
-      "series": "heat",
-      "week": 8,
-      "path": "2026/week-08/heat.json",
-      "title": "Heat Check, Week 8",
-      "dek": "Colston Loveland's targets went 5, 7, 12. The stove's on in Chicago.",
-      "publishedAt": "2026-10-27T17:01:00Z",
-      "updatedAt": "2026-10-28T00:20:00Z"
-    },
-    {
       "series": "menu",
       "week": 8,
       "path": "2026/week-08/menu.json",
       "title": "The Menu, Week 8",
       "dek": "Josh Allen comes off the bye at QB1, Bijan Robinson takes RB1 and Lamar Jackson returns at QB4.",
       "publishedAt": "2026-10-27T23:55:00Z",
-      "updatedAt": "2026-10-27T23:55:00Z"
-    },
-    {
-      "series": "notes",
-      "week": 8,
-      "path": "2026/week-08/notes.json",
-      "title": "Kitchen notes, Week 8",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-27T16:30:00Z",
       "updatedAt": "2026-10-27T23:55:00Z"
     },
     {

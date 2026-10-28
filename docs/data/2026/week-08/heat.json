@@ -6,9 +6,9 @@
   "dek": "Colston Loveland's targets went 5, 7, 12. The stove's on in Chicago.",
   "format": "PPR",
   "publishedAt": "2026-10-27T17:01:00Z",
-  "updatedAt": "2026-10-28T00:20:00Z",
+  "updatedAt": "2026-10-28T00:35:58Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 8:05 PM ET: the risers and fallers now give the reasons and the call, not a trade price, and each player's reasons now cover the weeks before, the injuries and who is in or out.\n\nUpdated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand.\n\nUpdated Tue 7:35 PM ET: D'Andre Swift played 54 snaps vs NE, not 59; he is still RB10 rest of season for me, so hold him.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or took a role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 8 lineup ranks come with Wednesday's Menu.",
+  "intro_md": "Updated Tue 8:35 PM ET: the claims and adds keep their reasons and rest-of-season ranks with no FAAB bid; every league and roster is different, so set your own.\n\nUpdated Tue 8:05 PM ET: the risers and fallers now give the reasons and the call, not a trade price, and each player's reasons now cover the weeks before, the injuries and who is in or out.\n\nUpdated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand.\n\nUpdated Tue 7:35 PM ET: D'Andre Swift played 54 snaps vs NE, not 59; he is still RB10 rest of season for me, so hold him.\n\nHeat Check is about direction, not box scores. A riser earned more of the ball week over week or took a role you can see in the snap counts; a faller is losing snaps, routes or targets. One number backs each call, ranks are rest of season for me, and the scoring is PPR. Week 8 lineup ranks come with Wednesday's Menu.",
   "outro_md": null,
   "data": {
     "risers": [
@@ -27,9 +27,8 @@
         "pos": "WR",
         "stat": "Targets 5, 7, 12; share 14% to 18% to 28%",
         "why": "Tre Tucker (LV) caught 5 of 12 targets for 103 and a TD vs LAR on 82 percent of the snaps. His targets went 5, 7, 12 over Weeks 5 to 7, and his share rose from 14 to 18 to 28 percent. Last week's sell was on two touchdowns from 7 targets vs BUF, when Michael Mayer and Brock Bowers drew 18 targets between them; the targets have caught up since. He won the No. 1 receiver job in camp, and Klint Kubiak has named Kirk Cousins the Week 8 starter.",
-        "verdict": "WR40 rest of season for me, and the targets say higher. Claim him, 4 to 8 percent of FAAB.",
-        "action": "CLAIM",
-        "faab": "4-8%"
+        "verdict": "WR40 rest of season for me, and the targets say higher. Claim him.",
+        "action": "CLAIM"
       },
       {
         "player": "KC Concepcion Jr.",
@@ -37,9 +36,8 @@
         "pos": "WR",
         "stat": "Targets 1, 6, 10; share 3% to 24% to 29%",
         "why": "KC Concepcion Jr. (CLE) caught 8 of 10 targets for 129 at TEN on 79 percent of the snaps, the most targets on the Browns, and added 3 carries for 23. The 1 target in Week 5 came because he left at NYJ in the first quarter with a concussion; he was limited in practice the next week and drew 6 targets vs BAL. Before the concussion he had 5, 6, 9 and 8 targets in Weeks 1 to 4, with a route on every dropback vs PIT. Todd Monken calls the plays and has used him mostly from the slot.",
-        "verdict": "WR37 rest of season for me. Add him, 3 to 6 percent of FAAB.",
-        "action": "ADD",
-        "faab": "3-6%"
+        "verdict": "WR37 rest of season for me. Add him.",
+        "action": "ADD"
       },
       {
         "player": "Makai Lemon",
@@ -47,9 +45,8 @@
         "pos": "WR",
         "stat": "Snap share 81%, 81%, 91%; 8 targets Monday",
         "why": "Makai Lemon (PHI) caught 7 of 8 targets for 67 and a TD vs DAL Monday, mostly from the slot, with DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) inactive, his best game as a pro. His snap share has climbed from 70 percent in Week 3 to 74, 81, 81 and 91, after hamstring trouble cost him most of camp. The week before, in Tanner McKee's first start with Jalen Hurts on IR, he caught 3 for 19 on 6 targets. Smith did not practice all last week, and the team gave no timeline for either receiver.",
-        "verdict": "WR50 rest of season for me. Add him, 2 to 5 percent of FAAB, before Smith's Wednesday practice report.",
-        "action": "ADD",
-        "faab": "2-5%"
+        "verdict": "WR50 rest of season for me. Add him before Smith's Wednesday practice report.",
+        "action": "ADD"
       },
       {
         "player": "Jordan Mason",
@@ -57,9 +54,8 @@
         "pos": "RB",
         "stat": "38 snaps to Aaron Jones Sr.'s 15 in his first game off IR",
         "why": "Jordan Mason (MIN) ran 15 times for 68 vs IND and led the backs with 38 snaps to Aaron Jones Sr.'s 15 before Jones aggravated the MCL sprain in his left knee. It was Mason's first game since a fractured thumb put him on IR on Sept. 16, and he practiced in full all week before his activation Saturday. Without Mason, Jones took 78 percent of the rushes in Weeks 2 and 3 and ran 25 times for 113 at NO in Week 5. Jones is day to day, and Monday's MRI decides Week 8 at DET.",
-        "verdict": "RB26 rest of season for me. Claim him, 10 to 20 percent of FAAB.",
-        "action": "CLAIM",
-        "faab": "10-20%"
+        "verdict": "RB26 rest of season for me. Claim him.",
+        "action": "CLAIM"
       },
       {
         "player": "Jonah Coleman",
@@ -67,9 +63,8 @@
         "pos": "RB",
         "stat": "49% of the snaps off IR, the most of any Denver back",
         "why": "Jonah Coleman (DEN) played 30 snaps at ARI and ran 9 times for 54 with 2 catches, while J.K. Dobbins played 14 and RJ Harvey 16. It was his first game since a high-ankle sprain in Week 2 vs JAX put him on IR, and he practiced in full all week before his activation Saturday. Dobbins had played 52 percent of the snaps in Week 6; at ARI he ran 6 times for 23 and a TD. Sean Payton took the play-calling back in Week 5 to get more balance in the run game.",
-        "verdict": "RB27 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
-        "action": "CLAIM",
-        "faab": "5-10%"
+        "verdict": "RB27 rest of season for me. Claim him.",
+        "action": "CLAIM"
       },
       {
         "player": "D'Andre Swift",
@@ -86,9 +81,8 @@
         "pos": "RB",
         "stat": "25 carries on 83% of the snaps",
         "why": "Ollie Gordon II (MIA) ran 25 times for 103 and a TD at NYJ on 83 percent of the snaps in Miami's first win. Jaylen Wright played 8 snaps before a quad injury, and his Week 8 status vs NE is open. Since De'Von Achane tore his ACL in Week 3, Gordon's carries have gone 17, 9, 18 and 25 around the Week 6 bye. Wright was listed as the RB1 at the start of October, but Gordon out-snapped him 65 to 21 in Weeks 4 and 5.",
-        "verdict": "RB19 rest of season for me. Add him, 2 to 5 percent of FAAB.",
-        "action": "ADD",
-        "faab": "2-5%"
+        "verdict": "RB19 rest of season for me. Add him.",
+        "action": "ADD"
       },
       {
         "player": "Michael Penix Jr.",
@@ -96,9 +90,8 @@
         "pos": "QB",
         "stat": "3 TD passes in each of the last two games, 0 INTs in three",
         "why": "Michael Penix Jr. (ATL) went 25 of 34 for 213 and 3 TDs vs SF after 3 TDs vs CHI, with no interception in his last three games. He threw 1 TD in each of his first three starts, Weeks 3 to 5. He hurt his ribs on a late sack vs BAL in Week 5, practiced in full that Thursday and Friday, and has not missed a start. Tommy Rees calls the plays, and Atlanta plays at TB Sunday.",
-        "verdict": "QB18 rest of season for me. Add him in superflex, 1 to 3 percent of FAAB.",
-        "action": "ADD",
-        "faab": "1-3%"
+        "verdict": "QB18 rest of season for me. Add him in superflex.",
+        "action": "ADD"
       },
       {
         "player": "Alvin Kamara",
@@ -115,9 +108,8 @@
         "pos": "WR",
         "stat": "Snap share 52%, 61%, 89%; 7 targets",
         "why": "Elic Ayomanor (TEN) drew 7 targets vs CLE, 23 percent of the throws, after 2 in each of the two games before, and caught 3 for 44 with Calvin Ridley inactive. Ridley (hip) did not practice Thursday, and Ayomanor took his snaps and rarely left the field in 11 personnel. His snap share went 52, 61 and 89 percent over Weeks 5 to 7. Carnell Tate also drew 7 targets, and Ridley's practice status decides whether the snaps stay.",
-        "verdict": "WR98 rest of season for me. Add him in deep leagues, 0 to 2 percent of FAAB.",
-        "action": "ADD",
-        "faab": "0-2%"
+        "verdict": "WR98 rest of season for me. Add him in deep leagues.",
+        "action": "ADD"
       },
       {
         "player": "Ryan Flournoy",
@@ -125,9 +117,8 @@
         "pos": "WR",
         "stat": "Snap share 68%, 87%, 78%",
         "why": "Ryan Flournoy (DAL) caught all 4 targets for 70 at PHI and has out-targeted Jake Ferguson 13 to 4 over the last two games as the third option behind CeeDee Lamb and George Pickens. His snap share went 68, 87 and 78 percent over Weeks 5 to 7, with 3 of 4 for 90 vs TB and 7 catches for 40 and a TD at GB on about 95 percent of the routes. Ferguson's target share fell from 14 to 6 to 4 percent once Brevyn Spann-Ford started over him in Week 6. Flournoy was already third on the team with 18 targets through three games.",
-        "verdict": "WR60 rest of season for me. Add him in deep leagues, 0 to 2 percent of FAAB.",
-        "action": "ADD",
-        "faab": "0-2%"
+        "verdict": "WR60 rest of season for me. Add him in deep leagues.",
+        "action": "ADD"
       }
     ],
     "fallers": [

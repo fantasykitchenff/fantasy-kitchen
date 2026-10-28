@@ -14,6 +14,7 @@ A reply that makes a lineup call uses the rank language in `_standards.md` ("Ran
 - A player who falls out of the range: the rank and where it falls; "sit" only after the rank, and only for a player people would otherwise play.
 - If the Menu has not ranked him, give the role and the number and no rank.
 - Waiver, trade, drop, stash, stream, monitor and pivot calls are unchanged.
+- No FAAB bids in a reply (the owner's rule, Wed Oct 28; `_standards.md`, the action rule): no dollar amount, bid range, percent of budget or bid tier, because every league and roster is different. A waiver reply gives the number, the reason or rest-of-season rank, and "Claim him." or "Add him." The same goes for the REPLIES lines sent to the pantry.
 
 ## Research: look up the Menu rank
 

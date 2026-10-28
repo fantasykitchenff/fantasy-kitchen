@@ -30,11 +30,11 @@ The recap that matters for next week: 5 to 7 takeaways, 8 to 12 usage notes, and
 ## `data` shape
 
 ```json
-{ "takeaways": [ { "headline": "", "text": "", "actions": [ { "player": "", "action": "CLAIM", "faab": "20-30%" }, { "player": "", "action": "MONITOR", "watch": "MRI Monday" } ] } ],
+{ "takeaways": [ { "headline": "", "text": "", "actions": [ { "player": "", "action": "CLAIM" }, { "player": "", "action": "MONITOR", "watch": "MRI Monday" } ] } ],
   "usage": [ { "player": "", "team": "", "pos": "", "stat": "", "read": "", "action": "HOLD" } ],
   "overreactions": [ { "take": "", "verdict": "buy", "why": "", "player": "", "action": "TRADE_FOR" } ] }
 
-Actions: every takeaway lists an action for each player it names (the `actions` array, at least one entry). Every usage row carries one. Every overreaction names the player it is about and the action (a "buy" is usually HOLD or TRADE_FOR, a "sell" is usually TRADE_AWAY, SIT or DROP). Injured players are MONITOR with `watch` set to the next checkpoint (the MRI, the Wednesday report) unless the replacement is already clear, in which case the replacement gets CLAIM or ADD with a FAAB range.
+Actions: every takeaway lists an action for each player it names (the `actions` array, at least one entry). Every usage row carries one. Every overreaction names the player it is about and the action (a "buy" is usually HOLD or TRADE_FOR, a "sell" is usually TRADE_AWAY, SIT or DROP). Injured players are MONITOR with `watch` set to the next checkpoint (the MRI, the Wednesday report) unless the replacement is already clear, in which case the replacement gets CLAIM or ADD (no FAAB bid, `_standards.md`).
 ```
 
 Envelope: `title` "Leftovers, Week N", `dek` the single biggest takeaway, `intro_md` one paragraph, `outro_md` the misses.

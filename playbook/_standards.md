@@ -7,7 +7,7 @@ These rules apply to every piece the kitchen publishes: site pages, X posts, thr
 Chef Hazy. One person, one kitchen, one model. The voice is a sharp friend who has done the work: direct, plain, confident, occasionally funny, never corporate and never a hype account. Sentences are short. Verdicts are stated, not hedged into mush.
 
 - Own every take. Never attribute an opinion to another analyst, site, podcast, or "the consensus." No analyst names in copy, ever. Reporters may be named only when citing an injury or transaction report (a beat writer's report that a player is out is a fact, not an opinion).
-- Every post (except the hook of a thread, which is a general intro), card, and section ends with a decisive verdict that is an action (see the action rule below). "RB18 for me this week, an RB2." "Sell him now." "Claim him, 20 to 30 percent of FAAB." Never "could be worth a look." A lineup call is the Menu rank and its tier, never "start him" (see "Rank language for lineup calls").
+- Every post (except the hook of a thread, which is a general intro), card, and section ends with a decisive verdict that is an action (see the action rule below). "RB18 for me this week, an RB2." "Sell him now." "Claim him." Never "could be worth a look." A lineup call is the Menu rank and its tier, never "start him" (see "Rank language for lineup calls").
 - Backward-looking, verifiable stats only. Snap share, route share, target share, carries inside the 10, yards per route run, air yards, red zone touches, box scores, practice designations. Cite the number and the window ("three straight weeks", "since Week 2").
 - Never publish the model's projected numbers. No projected points, no projected yards, no "my model has him at 16.4." Ranks and tiers are public. The numbers stay in the kitchen. A projection may be described in words ("top-12 week", "RB2 range") but never as a figure.
 - Never double-charge one narrative. If a player rises because a teammate is hurt, the teammate's fall is the same story; do not stack a second reason that is really the first one restated.
@@ -25,9 +25,9 @@ People read the kitchen to know what to do, not to be told what happened. Every 
 | FLEX | Flex range only; the copy says "a high-end RB3" or "a low-end WR3", a flex play | |
 | SIT | Below the lineup range this week, keep him rostered; the copy gives the rank and where it falls, then "sit" only for a player people would otherwise play | |
 | STREAM | One-week play at QB, TE or DST, then move on | |
-| CLAIM | Put in a waiver claim | `faab`: percent of a 100 budget as a range ("25-35%") |
-| ADD | Free-agent pickup, no claim needed, or a claim worth 0 to 2 percent | `faab` ("0-2%" is fine) |
-| STASH | Add to a deep bench and wait (handcuff, IR return, rookie trending up) | `faab` |
+| CLAIM | Put in a waiver claim | no bid (see "No FAAB bids") |
+| ADD | Free-agent pickup, no claim needed, or a minimal claim | no bid |
+| STASH | Add to a deep bench and wait (handcuff, IR return, rookie trending up) | no bid |
 | DROP | Cut him for any add on the list | |
 | HOLD | Keep him, do nothing, ignore the noise | `why` must say what would change the call |
 | TRADE_FOR | Go get him; the copy says "Buy him." | |
@@ -37,10 +37,11 @@ People read the kitchen to know what to do, not to be told what happened. Every 
 
 Rules:
 - One action per player per item. If two apply, pick the one the reader acts on first (an injured starter is MONITOR today and PIVOT on Sunday, not both).
-- ADD and CLAIM always carry a FAAB range. MONITOR always names what to watch and when. PIVOT always names the replacement. The validator rejects a piece that misses any of these.
+- MONITOR always names what to watch and when. PIVOT always names the replacement. The validator rejects a piece that misses any of these.
 - HOLD is allowed only when readers are actually tempted to act; it is not a way to avoid a call.
 - No trade prices (the owner's rule, Tue Oct 27). Never tell readers what to offer or ask for in a trade: every league and situation is different. A trade call is the player, his rest-of-season rank, the reasons, and "Buy him." or "Sell him." (variations are fine: "Buy him during the bye.", "Sell him on the two scores."). The data keeps the actions TRADE_FOR and TRADE_AWAY, with no `price`. The validator rejects an "offer ..." or "ask for ..." clause on a trade call in post text and site copy, and a `price` on any player item.
-- In copy, the action is the last sentence and it is an instruction: "Claim him, 25 to 35 percent of FAAB." "Buy him." "WR41 for me, a low-end flex play; sit him for any Tier 3 receiver." "Monitor; MRI Monday." "Pivot to Jalen McMillan." A lineup call (START, FLEX, SIT) is spoken as the Menu rank and its tier, never as a start command. Never "could be worth a look", never "keep an eye on" without saying on what.
+- No FAAB bids (the owner's rule, Wed Oct 28). Every league and every roster is different, so readers decide their own bids. Never put a FAAB dollar amount, a bid range, a percent of budget or a bid tier in any site piece, post, thread, reply or pantry Reply angle, in any series. Add, claim, stash, hold and drop calls keep their reasons, their ranks and the research behind them, just without a price; the order of a waiver list says who to want most ("Top priority."). The data keeps the actions CLAIM, ADD and STASH, with no `faab`. The validator rejects a `faab` on any player item and any text that pairs FAAB or a bid with a dollar amount or a percent.
+- In copy, the action is the last sentence and it is an instruction: "Claim him. Top priority." "Buy him." "WR41 for me, a low-end flex play; sit him for any Tier 3 receiver." "Monitor; MRI Monday." "Pivot to Jalen McMillan." A lineup call (START, FLEX, SIT) is spoken as the Menu rank and its tier, never as a start command. Never "could be worth a look", never "keep an eye on" without saying on what.
 - A takeaway or note that names several players names an action for each of them.
 - Rankings imply actions by tier and depth; each Menu row still carries one (see `menu.md`).
 
@@ -94,7 +95,7 @@ The kitchen talks like a sharp friend at a bar, not like a research note and not
 - What is out is AI-speak and corporate filler: "notably", "importantly", "it's worth noting", "in terms of", "a testament to", "landscape", "leverage", "narrative", "delve", "elevate", "robust", "nuanced", "at the end of the day", "moving forward", "in the realm of", "it's important to remember", "let's unpack", "buckle up", "here's the thing". No stacked adjectives, no colon-then-reveal, no rhetorical questions, no "not X, but Y".
 - Write the way a person talks about football: "he was on the field for 78 percent of the snaps", "he got 9 of the team's 33 throws", "he touched the ball 27 times", "he had the only two carries inside the 5", "he practiced in full Friday".
 - Percent is written "78 percent" in posts (the site can use "78%").
-- Verdicts are plain instructions with the action rule's words: "Claim him, 20 to 30 percent of your budget." "RB18 for me this week, an RB2." "Sell him."
+- Verdicts are plain instructions with the action rule's words: "Claim him." "RB18 for me this week, an RB2." "Sell him."
 
 ## Talk about the player, not the page (hard)
 
@@ -157,6 +158,7 @@ The owner's rule from Fri Oct 2: every piece of content goes out on X as exactly
 - Replies: 1 to 3 sentences, add a number the original post did not have, the action, then "Follow @handle for more." No hashtags, no link, no closer. Never quote the original. Never argue about rankings for their own sake. Never reply to a reply.
 - Line breaks separate ideas. No trailing questions ("Thoughts?").
 - No at symbol in anything published or queued for X, except the kitchen's own handle in a follow line (the owner's rule, Tue Oct 20). X turns any other at-word into a tag of a random account. Write game locations as "at KC", "at Houston", "in Jacksonville" or "vs KC", and name other accounts, people and reporters without the symbol. The validator rejects post text that carries the symbol anywhere but the site handle.
+- No FAAB bids in any post, thread or reply (the owner's rule, Wed Oct 28): no dollar amount, bid range, percent of budget or bid tier. Claim, add, stash and drop calls go out with their reasons and ranks only. The validator rejects post text that pairs FAAB or a bid with a dollar amount or a percent.
 - No links to other creators. The only links are to the kitchen's own site.
 
 ## Format assumptions
@@ -170,7 +172,7 @@ All times in copy are Eastern and written "6:30 AM ET". The NFL week for content
 ## What "done" means for any piece
 
 1. The JSON validates (`python3 tools/fk.py validate`).
-2. Every player has a verdict and an `action` from the action rule, with its required field (FAAB range, watch, or pivot target; a trade call carries no price).
+2. Every player has a verdict and an `action` from the action rule, with its required field (watch or pivot target; a trade call carries no price and a waiver call no FAAB bid).
 3. No projected numbers anywhere in the text. No em dashes, no arrows, no analyst names. No start commands: a lineup call is the Menu rank and its tier.
 4. The post copy validates (length, links only in the last post of a thread, a general hook, with a closer only on threads of 20 or more posts, team hashtags directly before the players' names, one player per line, the follow line at the end).
 5. The manifest is rebuilt (`python3 tools/fk.py manifest`) and the queue item is written.

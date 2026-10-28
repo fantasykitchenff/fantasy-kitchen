@@ -30,7 +30,7 @@ Reactions to the day's fantasy-relevant news, written into the week's `notes.jso
 ```json
 { "items": [ { "at": "2026-10-01T16:05:00Z", "text": "", "url": "", "player": "", "action": "MONITOR", "watch": "Friday designation" } ] }
 
-Every item that names a player carries `player` and an `action` (with its required field: `faab` for CLAIM or ADD, `watch` for MONITOR, `to` for PIVOT). Items about a team or coach with no player named may omit them.
+Every item that names a player carries `player` and an `action` (with its required field: `watch` for MONITOR, `to` for PIVOT; CLAIM, ADD and STASH carry no FAAB bid, `_standards.md`). Items about a team or coach with no player named may omit them.
 ```
 
 Envelope: `series` "notes", `title` "Kitchen notes, Week N", `dek` "What moved today.", `updatedAt` now.

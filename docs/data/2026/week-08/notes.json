@@ -6,9 +6,9 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "updatedAt": "2026-10-27T23:55:00Z",
+  "updatedAt": "2026-10-28T00:35:58Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 7:55 PM ET: added Chig Okonkwo as an add and Quinshon Judkins as a hold, with Wednesday watches on Tyjae Spears, Elijah Mitchell and Jacoby Brissett. Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand. Updated Tue 7:35 PM ET: added Antonio Williams and Omar Cooper Jr. as claims, Seth McGowan and Kaelon Black as stashes, and Wednesday-to-Friday practice watches on Breece Hall, Jeremiyah Love, Amon-Ra St. Brown, Emeka Egbuka, Jaylen Waddle and Ladd McConkey.",
+  "intro_md": "Updated Tue 8:35 PM ET: the claims, adds and stashes keep their reasons and rest-of-season ranks with no FAAB bid; every league and roster is different, so set your own. Updated Tue 7:55 PM ET: added Chig Okonkwo as an add and Quinshon Judkins as a hold, with Wednesday watches on Tyjae Spears, Elijah Mitchell and Jacoby Brissett. Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand. Updated Tue 7:35 PM ET: added Antonio Williams and Omar Cooper Jr. as claims, Seth McGowan and Kaelon Black as stashes, and Wednesday-to-Friday practice watches on Breece Hall, Jeremiyah Love, Amon-Ra St. Brown, Emeka Egbuka, Jaylen Waddle and Ladd McConkey.",
   "outro_md": null,
   "data": {
     "items": [
@@ -30,11 +30,10 @@
       },
       {
         "at": "2026-10-27T23:55:00Z",
-        "text": "Chig Okonkwo (WAS) caught all 7 targets for 69 at SF in Week 6, after a team-high 6 targets vs NYG in Week 5, and Terry McLaurin's targets are now spread through the room. TE16 rest of season for me. Add him, 0 to 2 percent of FAAB.",
+        "text": "Chig Okonkwo (WAS) caught all 7 targets for 69 at SF in Week 6, after a team-high 6 targets vs NYG in Week 5, and Terry McLaurin's targets are now spread through the room. TE16 rest of season for me. Add him.",
         "player": "Chig Okonkwo",
         "pos": "TE",
-        "action": "ADD",
-        "faab": "0-2%"
+        "action": "ADD"
       },
       {
         "at": "2026-10-27T23:55:00Z",
@@ -54,27 +53,24 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Antonio Williams (WAS) played 45 snaps at SF in Week 6, the most of any Washington receiver, and caught 3 of 4 targets for 50. Dan Quinn said Monday he expects Williams to get more chances with Terry McLaurin out for the season. WR46 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
+        "text": "Antonio Williams (WAS) played 45 snaps at SF in Week 6, the most of any Washington receiver, and caught 3 of 4 targets for 50. Dan Quinn said Monday he expects Williams to get more chances with Terry McLaurin out for the season. WR46 rest of season for me. Claim him.",
         "player": "Antonio Williams",
         "pos": "WR",
-        "action": "CLAIM",
-        "faab": "5-10%"
+        "action": "CLAIM"
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Omar Cooper Jr. (NYJ) ran a route on 70 percent of the dropbacks vs MIA to Adonai Mitchell's 55 and caught 5 for 115 and a TD on 38 snaps. Garrett Wilson drew 3 targets on 50 snaps and stays WR17 rest of season for me; hold him. Cooper is WR35 rest of season for me. Claim him, 5 to 10 percent of FAAB.",
+        "text": "Omar Cooper Jr. (NYJ) ran a route on 70 percent of the dropbacks vs MIA to Adonai Mitchell's 55 and caught 5 for 115 and a TD on 38 snaps. Garrett Wilson drew 3 targets on 50 snaps and stays WR17 rest of season for me; hold him. Cooper is WR35 rest of season for me. Claim him.",
         "player": "Omar Cooper Jr.",
         "pos": "WR",
-        "action": "CLAIM",
-        "faab": "5-10%"
+        "action": "CLAIM"
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Seth McGowan (IND) ran 11 times for 46 on 18 snaps vs MIN, both season highs, while Jonathan Taylor played 41 snaps and ran 18 times for 95 and a TD. Indianapolis traded Quenton Nelson to Seattle Tuesday, and reports say the Colts do not want to move Taylor but have not ruled it out before the Nov 10 deadline. Taylor is RB6 rest of season for me; hold him. McGowan is RB61 rest of season for me, a deadline bet and not a role. Stash him in deep leagues, 1 to 3 percent of FAAB.",
+        "text": "Seth McGowan (IND) ran 11 times for 46 on 18 snaps vs MIN, both season highs, while Jonathan Taylor played 41 snaps and ran 18 times for 95 and a TD. Indianapolis traded Quenton Nelson to Seattle Tuesday, and reports say the Colts do not want to move Taylor but have not ruled it out before the Nov 10 deadline. Taylor is RB6 rest of season for me; hold him. McGowan is RB61 rest of season for me, a deadline bet and not a role. Stash him in deep leagues.",
         "player": "Seth McGowan",
         "pos": "RB",
-        "action": "STASH",
-        "faab": "1-3%"
+        "action": "STASH"
       },
       {
         "at": "2026-10-27T23:35:00Z",
@@ -158,11 +154,10 @@
       },
       {
         "at": "2026-10-27T23:35:00Z",
-        "text": "Kaelon Black (SF) ran 12 times for 63 and his first career TD at ATL after Christian McCaffrey left briefly. McCaffrey's injury is a mild hamstring strain and he is on track for Week 9 vs LV after the bye; hold McCaffrey. Black is RB46 rest of season for me, a handcuff and not a weekly play. Stash him only in deep leagues, 0 to 2 percent of FAAB.",
+        "text": "Kaelon Black (SF) ran 12 times for 63 and his first career TD at ATL after Christian McCaffrey left briefly. McCaffrey's injury is a mild hamstring strain and he is on track for Week 9 vs LV after the bye; hold McCaffrey. Black is RB46 rest of season for me, a handcuff and not a weekly play. Stash him only in deep leagues.",
         "player": "Kaelon Black",
         "pos": "RB",
-        "action": "STASH",
-        "faab": "0-2%"
+        "action": "STASH"
       },
       {
         "at": "2026-10-27T23:15:00Z",

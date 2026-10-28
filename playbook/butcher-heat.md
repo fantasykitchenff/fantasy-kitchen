@@ -50,7 +50,7 @@ heat.json
 { "risers": [ { "player": "", "team": "", "pos": "", "stat": "", "why": "", "verdict": "", "action": "START", "slot": "WR2" } ],
   "fallers": [ { "player": "", "team": "", "pos": "", "stat": "", "why": "", "verdict": "", "action": "TRADE_AWAY" } ] }
 
-Heat Check actions: a riser is START (with `slot`), TRADE_FOR, CLAIM or ADD (with `faab`), or HOLD; a faller is SIT, TRADE_AWAY, DROP, or MONITOR (with `watch`). Pick the one the reader acts on first. A START, FLEX or SIT verdict is written in rank language (the Menu rank and its tier, `_standards.md`), never "start him".
+Heat Check actions: a riser is START (with `slot`), TRADE_FOR, CLAIM or ADD (no FAAB bid, `_standards.md`), or HOLD; a faller is SIT, TRADE_AWAY, DROP, or MONITOR (with `watch`). Pick the one the reader acts on first. A START, FLEX or SIT verdict is written in rank language (the Menu rank and its tier, `_standards.md`), never "start him".
 ```
 
 Envelopes: `title` "Butcher Shop, Week N" and "Heat Check, Week N"; `dek` one sentence each; `intro_md` one paragraph each.

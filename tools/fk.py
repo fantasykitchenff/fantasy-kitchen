@@ -257,10 +257,10 @@ def post_length(text):
 
 # ---------------------------------------------------------------- actions
 ACTIONS = ["START", "FLEX", "SIT", "STREAM", "CLAIM", "ADD", "STASH", "DROP", "HOLD", "TRADE_FOR", "TRADE_AWAY", "MONITOR", "PIVOT"]
-# TRADE_FOR and TRADE_AWAY carry no price (owner rule of 2026-10-27, below)
-ACTION_NEEDS = {"CLAIM": "faab", "ADD": "faab", "STASH": "faab", "MONITOR": "watch", "PIVOT": "to"}
+# TRADE_FOR and TRADE_AWAY carry no price (owner rule of 2026-10-27), and CLAIM, ADD and STASH carry no FAAB bid
+# (owner rule of 2026-10-28, below)
+ACTION_NEEDS = {"MONITOR": "watch", "PIVOT": "to"}
 ACTION_WORDS = re.compile(r"\b(start|sit|bench|flex|stream|claim|add|pick up|pickup|drop|cut|hold|trade for|trade away|sell|buy|stash|monitor|watch|pivot|spend|offer|ask for|keep)\b", re.I)
-FAAB_RE = re.compile(r"^\d{1,3}(\s*-\s*\d{1,3})?\s*%$")
 
 # ---------------------------------------------------------------- owner rules of 2026-10-01
 # Rank language: a lineup call is spoken as the player's Menu rank and its tier, never as a start command.
@@ -371,6 +371,38 @@ def find_prices(obj, path, errors):
     elif isinstance(obj, list):
         for i, v in enumerate(obj):
             find_prices(v, f"{path}[{i}]", errors)
+
+# ---------------------------------------------------------------- owner rule of 2026-10-28
+# No FAAB bids in public content: every league and every roster is different, so readers set their own bids. Add,
+# claim, stash, hold and drop calls keep their reasons and ranks, with no price. Pieces updated on or after
+# OWNER_1028_CUTOFF carry no `faab` on any item and no FAAB or bid amount in any string; every pending queue item,
+# whenever it was created, carries none in its text.
+OWNER_1028_CUTOFF = dt.datetime(2026, 10, 28, 0, 30, tzinfo=dt.timezone.utc)   # Tue Oct 27, 8:30 PM ET
+_AMOUNT = r"(?:\$\s?\d|\d+\s*(?:%|percent\b))"
+_BIDWORD = r"\b(?:faab|bids?|bidding|budget)\b"
+FAAB_BID = re.compile(r"(?:%s[^.\n]{0,60}?%s)|(?:%s[^.\n]{0,40}?%s)|(?:\b(?:claim|add|stash)(?:\s+(?:him|them|it))?,\s*\d+(?:\s*(?:to|-)\s*\d+)?\s*(?:%%|percent\b))"
+                      % (_BIDWORD, _AMOUNT, _AMOUNT, _BIDWORD), re.I)
+
+def after_1028_cutoff(ts):
+    d = parse_iso(ts) if ts else None
+    return bool(d) and d >= OWNER_1028_CUTOFF
+
+def check_faab_bid(text, where, errors):
+    if not isinstance(text, str) or not text:
+        return
+    m = FAAB_BID.search(text)
+    if m:
+        errors.append(f"{where}: FAAB bid '{m.group(0)}' (no bids in public content: the call, the reason and the rank, no price; _standards.md, the action rule)")
+
+def find_faab(obj, path, errors):
+    if isinstance(obj, dict):
+        if str(obj.get("faab") or "").strip():
+            errors.append(f"{path} {obj.get('player') or ''}: carries a FAAB bid; calls have none (owner rule of 2026-10-28)".replace("  ", " "))
+        for k, v in obj.items():
+            find_faab(v, f"{path}.{k}", errors)
+    elif isinstance(obj, list):
+        for i, v in enumerate(obj):
+            find_faab(v, f"{path}[{i}]", errors)
 
 def check_tag_placement(texts, rel, errors):
     for i, t in enumerate(texts):
@@ -497,8 +529,6 @@ def check_action(item, where, errors, allowed=None):
     need = ACTION_NEEDS.get(a)
     if need and not str(item.get(need) or "").strip():
         errors.append(f"{where}: action {a} needs '{need}'")
-    if need == "faab" and item.get("faab") and not FAAB_RE.match(str(item["faab"]).strip()):
-        errors.append(f"{where}: faab '{item['faab']}' should look like '25-35%' or '2%'")
     if a == "HOLD" and not str(item.get("why") or item.get("read") or item.get("note") or "").strip():
         errors.append(f"{where}: HOLD needs a reason (why/read/note)")
 
@@ -582,8 +612,6 @@ def validate_piece(path, errors, warnings):
                     errors.append(f"{rel}: {key}[{i}] {r.get('player')} has no verdict")
                 if s == "heat" and not r.get("stat"):
                     errors.append(f"{rel}: {key}[{i}] {r.get('player')} needs the backing stat")
-                if s == "market" and key == "adds" and not r.get("faab"):
-                    errors.append(f"{rel}: adds[{i}] {r.get('player')} needs a FAAB range")
                 allowed = ALLOWED_ACTIONS.get((s, key))
                 check_action(r, f"{rel}: {key}[{i}] {r.get('player')}", errors, allowed=allowed)
         for i, m in enumerate(d.get("mnf") or []):
@@ -639,6 +667,9 @@ def validate_piece(path, errors, warnings):
     if after_1027_cutoff(p.get("updatedAt")):
         find_prices(d, f"{rel}: data", errors)
         walk_strings(p, rel, lambda t, w: check_trade_price(t, w, errors))
+    if after_1028_cutoff(p.get("updatedAt")):
+        find_faab(d, f"{rel}: data", errors)
+        walk_strings(p, rel, lambda t, w: check_faab_bid(t, w, errors))
     for i, q in enumerate(p.get("posts") or []):
         if not q.get("id"):
             errors.append(f"{rel}: posts[{i}] missing id")
@@ -733,6 +764,9 @@ def validate_queue_item(path, errors, warnings):
             check_trade_price(t, f"{rel}.text[{i}]", errors)
         if q.get("kind") == "thread":
             check_tag_placement(texts, rel, errors)
+    if q.get("status") == "pending" or after_1028_cutoff(q.get("createdAt")):
+        for i, t in enumerate(texts):
+            check_faab_bid(t, f"{rel}.text[{i}]", errors)
     for i, t in enumerate(texts):
         n = post_length(t)
         if n > POST_LIMIT:
@@ -747,7 +781,7 @@ def validate_queue_item(path, errors, warnings):
         if re.search(r"\d%", t):
             warnings.append(f"{rel}: text[{i}] uses '%'; posts say 'percent'")
         if i < len(texts) - 1 and not ACTION_OR_RANK.search(t) and not (hook_rule and is_thread and i == 0):
-            errors.append(f"{rel}: text[{i}] names no action or rank call (the Menu rank and tier, sit, claim with FAAB, drop, hold, trade for, trade away, monitor, pivot)")
+            errors.append(f"{rel}: text[{i}] names no action or rank call (the Menu rank and tier, sit, claim, add, drop, hold, trade for, trade away, monitor, pivot)")
 
 def cmd_validate(a):
     errors, warnings = [], []

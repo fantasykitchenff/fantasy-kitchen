@@ -13,6 +13,7 @@ Cowork tasks cannot push to GitHub. The poster reads the queue from a read-only 
 - Never post anything before 10:00 AM Eastern, queued item or reply. `queue list --due` returns nothing before then; if a run starts earlier, end with "before 10 AM".
 - Never repeat a post. Before posting any item, check the profile (section 3.0). If a post there starts with the same text as the item, record `posted` with that URL instead of posting again. The ledger from an earlier run may not have landed yet, so this check is what stops doubles.
 - Reply mode caps: at most 3 replies per run, 6 per day, never two replies to the same account in a day, never to a post older than 8 hours, never to a reply, never to anything about betting, politics, or another creator's rankings. No links, no hashtags, no hook closers in replies; replies are the one place the kitchen posts a single message. Every reply ends with "Follow @handle for more." (handle from `docs/data/site.json`).
+- No FAAB bids in any reply (the owner's rule, Wed Oct 28): no dollar amount, bid range, percent of budget or bid tier. If a queued item carries one, do not post it; record it as failed with the reason "FAAB bid" so FK Kitchen rewrites it.
 
 ## Procedure
 

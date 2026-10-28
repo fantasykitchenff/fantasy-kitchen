@@ -14,7 +14,7 @@
   const SERIES = {
     home:      { name: "This week",     plain: "The week",           page: "index.html",     plate: "field" },
     menu:      { name: "The Menu",      plain: "Rankings",           page: "menu.html",      plate: "board",  blurb: "Rankings by position for the week, with tiers." },
-    market:    { name: "Market Run",    plain: "Waivers",            page: "market.html",    plate: "ticket", blurb: "Waiver adds with FAAB, stashes and drops." },
+    market:    { name: "Market Run",    plain: "Waivers",            page: "market.html",    plate: "ticket", blurb: "Waiver adds, stashes and drops." },
     butcher:   { name: "Butcher Shop",  plain: "Trades",             page: "butcher.html",   plate: "ticket", blurb: "Who to buy and who to sell, with the reasons behind each." },
     heat:      { name: "Heat Check",    plain: "Risers and fallers", page: "heat.html",      plate: "field",  blurb: "Risers and fallers, with the number behind each one." },
     line:      { name: "Serve or Sit",  plain: "Lineup calls",       page: "line.html",      plate: "ticket", blurb: "Who the week favors, who it does not, and the coin flips." },
@@ -208,7 +208,8 @@
     const [label, cls] = ACTIONS[key] || [cap(lc(item.action)), "hold"];
     return {
       key, label, cls, lineup: !!LINEUP[key],
-      faab: /^(CLAIM|ADD|STASH|STREAM)$/.test(key) ? String(item.faab || "") : "",
+      // owner rule of 2026-10-28: no FAAB bids anywhere, so a bid in older data is never shown
+      faab: "",
       // owner rule of 2026-10-27: no trade prices anywhere, so a price in older data is never shown
       watch: String(item.watch || ""),
       to: key === "PIVOT" ? String(item.to || "") : ""
