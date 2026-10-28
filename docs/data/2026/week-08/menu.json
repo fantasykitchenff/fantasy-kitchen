@@ -6,9 +6,9 @@
   "dek": "Josh Allen comes off the bye at QB1, Bijan Robinson takes RB1 and Lamar Jackson returns at QB4.",
   "format": "PPR",
   "publishedAt": "2026-10-27T23:55:00Z",
-  "updatedAt": "2026-10-27T23:55:00Z",
+  "updatedAt": "2026-10-28T14:55:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 7:55 PM ET: the Week 8 order is refreshed ahead of Wednesday's practice reports.\n\nWeek 8 has four teams on bye: Houston, New Orleans, the Giants and San Francisco are off, so none of their players are on the Menu. Carolina at Green Bay opens the week Thursday night, Philadelphia at Washington is Sunday night and Chicago at Seattle closes it Monday night. Rankings are for full PPR.\n\nJosh Allen comes off the bye at QB1 with Drake Maye right behind him, and Lamar Jackson is back at QB4 after three missed games. Bijan Robinson edges Jahmyr Gibbs for RB1, Jaxon Smith-Njigba is WR1 after 150 yards vs KC, and Trey McBride is TE1 after 13 targets vs DEN.\n\nPrep Notes revisits Friday: Lamar Jackson's ankle, Saquon Barkley's back, Matthew Golden before Thursday night, Amon-Ra St. Brown's ankle, Breece Hall's return and Jeremiyah Love at practice.",
+  "intro_md": "Updated Wed 10:55 AM ET: Jaylen Waddle (chest, shoulder) is WR41 and Aaron Jones Sr. (knee) RB33 for me until Friday's injury reports; the rest of the order stands ahead of Wednesday's practices.\n\nUpdated Tue 7:55 PM ET: the Week 8 order is refreshed ahead of Wednesday's practice reports.\n\nWeek 8 has four teams on bye: Houston, New Orleans, the Giants and San Francisco are off, so none of their players are on the Menu. Carolina at Green Bay opens the week Thursday night, Philadelphia at Washington is Sunday night and Chicago at Seattle closes it Monday night. Rankings are for full PPR.\n\nJosh Allen comes off the bye at QB1 with Drake Maye right behind him, and Lamar Jackson is back at QB4 after three missed games. Bijan Robinson edges Jahmyr Gibbs for RB1, Jaxon Smith-Njigba is WR1 after 150 yards vs KC, and Trey McBride is TE1 after 13 targets vs DEN.\n\nPrep Notes revisits Friday: Lamar Jackson's ankle, Saquon Barkley's back, Matthew Golden before Thursday night, Amon-Ra St. Brown's ankle, Breece Hall's return and Jeremiyah Love at practice.",
   "outro_md": null,
   "data": {
     "positions": {
@@ -690,9 +690,10 @@
           "team": "MIN",
           "pos": "RB",
           "opp": "at DET",
-          "note": "",
+          "note": "Aggravated the knee vs IND after 15 snaps; Jordan Mason led with 15 carries.",
           "flag": "",
-          "action": "FLEX"
+          "action": "FLEX",
+          "watch": "Friday's Vikings injury report"
         },
         {
           "rank": 34,
@@ -1264,9 +1265,10 @@
           "team": "DEN",
           "pos": "WR",
           "opp": "vs KC",
-          "note": "",
+          "note": "Aggravated the chest and shoulder at ARI on 56 percent of snaps.",
           "flag": "",
-          "action": "FLEX"
+          "action": "FLEX",
+          "watch": "Friday's Broncos injury report"
         },
         {
           "rank": 42,
