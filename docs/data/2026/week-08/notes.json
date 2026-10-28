@@ -6,12 +6,30 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "updatedAt": "2026-10-28T00:35:58Z",
+  "updatedAt": "2026-10-28T16:35:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Tue 8:35 PM ET: the claims, adds and stashes keep their reasons and rest-of-season ranks with no FAAB bid; every league and roster is different, so set your own. Updated Tue 7:55 PM ET: added Chig Okonkwo as an add and Quinshon Judkins as a hold, with Wednesday watches on Tyjae Spears, Elijah Mitchell and Jacoby Brissett. Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand. Updated Tue 7:35 PM ET: added Antonio Williams and Omar Cooper Jr. as claims, Seth McGowan and Kaelon Black as stashes, and Wednesday-to-Friday practice watches on Breece Hall, Jeremiyah Love, Amon-Ra St. Brown, Emeka Egbuka, Jaylen Waddle and Ladd McConkey.",
+  "intro_md": "Updated Wed 12:35 PM ET: Emeka Egbuka opened Wednesday's practice in a non-contact jersey, still in the concussion protocol, and Matt LaFleur only hopes Matthew Golden plays Thursday; both stay Monitor. Updated Tue 8:35 PM ET: the claims, adds and stashes keep their reasons and rest-of-season ranks with no FAAB bid; every league and roster is different, so set your own. Updated Tue 7:55 PM ET: added Chig Okonkwo as an add and Quinshon Judkins as a hold, with Wednesday watches on Tyjae Spears, Elijah Mitchell and Jacoby Brissett. Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand. Updated Tue 7:35 PM ET: added Antonio Williams and Omar Cooper Jr. as claims, Seth McGowan and Kaelon Black as stashes, and Wednesday-to-Friday practice watches on Breece Hall, Jeremiyah Love, Amon-Ra St. Brown, Emeka Egbuka, Jaylen Waddle and Ladd McConkey.",
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-28T16:30:00Z",
+        "text": "Emeka Egbuka (TB) was on the field for the start of Wednesday's practice in a non-contact jersey, per Greg Auman of Fox Sports, so he is still in the concussion protocol with the foot also listed. He was inactive at CAR in Week 7. WR33 rest of season for me. Monitor Thursday's Buccaneers practice report; he has to be cleared before Sunday vs ATL.",
+        "url": "https://www.rotowire.com/football/news.php",
+        "player": "Emeka Egbuka",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Thursday's Buccaneers practice report"
+      },
+      {
+        "at": "2026-10-28T16:30:00Z",
+        "text": "Matt LaFleur said \"I sure hope so\" when asked if Matthew Golden (GB) plays Thursday vs CAR, after Golden missed Tuesday's walkthrough with the shoulder and foot. Christian Watson (WR10 rest of season for me) leads the room if Golden sits. Golden is WR14 rest of season for me. Monitor Wednesday's final Packers injury report.",
+        "url": "https://www.playerprofiler.com/news/matthew-golden-misses-second-straight-practice-week-8-status-in-doubt/",
+        "player": "Matthew Golden",
+        "pos": "WR",
+        "action": "MONITOR",
+        "watch": "Wednesday's final Packers injury report"
+      },
       {
         "at": "2026-10-27T23:55:00Z",
         "text": "Tony Pollard (TEN) ran 25 times for 129 and 3 TDs vs CLE on 75 percent of the snaps with Tyjae Spears (knee) inactive, after 14 and 19 carries the two weeks before. Spears' return puts Pollard back on his Weeks 1 to 5 share, so sell Pollard on the three scores. Spears is RB59 rest of season for me. Monitor his practice participation Wednesday to Friday.",

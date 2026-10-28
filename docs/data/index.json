@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 8,
-  "updatedAt": "2026-10-28T14:43:42Z",
+  "updatedAt": "2026-10-28T16:23:08Z",
   "pieces": [
+    {
+      "series": "notes",
+      "week": 8,
+      "path": "2026/week-08/notes.json",
+      "title": "Kitchen notes, Week 8",
+      "dek": "What moved today.",
+      "publishedAt": "2026-10-27T16:30:00Z",
+      "updatedAt": "2026-10-28T16:35:00Z"
+    },
     {
       "series": "menu",
       "week": 8,
@@ -28,15 +37,6 @@
       "title": "Heat Check, Week 8",
       "dek": "Colston Loveland's targets went 5, 7, 12. The stove's on in Chicago.",
       "publishedAt": "2026-10-27T17:01:00Z",
-      "updatedAt": "2026-10-28T00:35:58Z"
-    },
-    {
-      "series": "notes",
-      "week": 8,
-      "path": "2026/week-08/notes.json",
-      "title": "Kitchen notes, Week 8",
-      "dek": "What moved today.",
-      "publishedAt": "2026-10-27T16:30:00Z",
       "updatedAt": "2026-10-28T00:35:58Z"
     },
     {

@@ -185,6 +185,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-23: Emeka Egbuka (concussion, foot) returned to practice Friday after two missed days, still in the concussion protocol. [Yahoo Sports injury tracker]
 - 2026-10-23: Todd Bowles said Baker Mayfield (right thumb, questionable) starts at CAR after three missed games, wearing a plated glove. Emeka Egbuka (concussion, foot) out; Bucky Irving full Friday, no designation; Chris Godwin Jr. full Friday (buccaneers.com, NFL.com).
 - 2026-10-26: Todd Bowles listed Emeka Egbuka (concussion, foot), RT Luke Goedeke (calf) and Antoine Winfield Jr. as questionable for ATL and will know more after Wednesday and Thursday practice; Ben Chukwuma started at RT and played 63 snaps; Bucky Irving ran 24 times for 106 and 2 TDs at CAR. [pod 10-27, coach]
+- 2026-10-28: Emeka Egbuka (concussion, foot) on the field for the start of Wednesday's practice in a non-contact jersey (Greg Auman, Fox Sports, via RotoWire).
 
 ## Other
 
