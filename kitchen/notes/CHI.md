@@ -234,3 +234,4 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-09: Kyle Monangai: out @GB (turf toe, thumb), DNP all week, walking boot, two to three weeks. D'Andre Swift FP Friday, no designation. Caleb Williams questionable, first practice (LP) Friday; Bagent starts (Friday report).
 - 2026-10-21: Kyle Monangai (thumb/toe) ruled out Thursday vs NE, third straight game, no practice all week; Jonah Jackson full, will play. [NFL.com, Yahoo Sports, TSN]
 - 2026-10-22: Week 7 vs NE (Thursday night): CHI favored by 2.5, total 49.5 (DraftKings via SI).
+- 2026-10-28: Bears acquired DT Jeffery Simmons and a 2028 fifth from TEN for two first-round picks and a fourth (Tom Pelissero via NBC Sports).

@@ -6,12 +6,44 @@
   "dek": "What moved today.",
   "format": "PPR",
   "publishedAt": "2026-10-27T16:30:00Z",
-  "updatedAt": "2026-10-28T23:15:00Z",
+  "updatedAt": "2026-10-29T16:20:00Z",
   "author": "Chef Hazy",
-  "intro_md": "Updated Wed 7:15 PM ET: Dameon Pierce went on IR, so drop him; Lamar Jackson practiced in full and is QB4 for me; Matthew Golden is questionable for Thursday; Jahmyr Gibbs (shoulder), Amon-Ra St. Brown, Jaylen Waddle and Aaron Jones Sr. sat out Wednesday, all Monitor. Updated Wed 12:25 PM ET: Emeka Egbuka opened Wednesday's practice in a non-contact jersey, still in the concussion protocol, and Matt LaFleur only hopes Matthew Golden plays Thursday; both stay Monitor. Updated Tue 8:35 PM ET: the claims, adds and stashes keep their reasons and rest-of-season ranks with no FAAB bid; every league and roster is different, so set your own. Updated Tue 7:55 PM ET: added Chig Okonkwo as an add and Quinshon Judkins as a hold, with Wednesday watches on Tyjae Spears, Elijah Mitchell and Jacoby Brissett. Updated Tue 7:45 PM ET: rest-of-season ranks refreshed throughout; the calls stand.",
+  "intro_md": "Updated Thu 12:20 PM ET: Matthew Golden is trending toward playing tonight and stays WR11 for me; Ja'Marr Chase's ankle is not a major deal; Michael Wilson (ribs) was limited and Tyler Allgeier (toe) sat out Wednesday, all Monitor. Updated Wed 7:15 PM ET: Dameon Pierce went on IR, so drop him; Lamar Jackson practiced in full and is QB4 for me; Matthew Golden is questionable for Thursday; Jahmyr Gibbs (shoulder), Amon-Ra St. Brown, Jaylen Waddle and Aaron Jones Sr. sat out Wednesday, all Monitor. Updated Wed 12:25 PM ET: Emeka Egbuka opened Wednesday's practice in a non-contact jersey, still in the concussion protocol, and Matt LaFleur only hopes Matthew Golden plays Thursday; both stay Monitor. Updated Tue 8:35 PM ET: the claims, adds and stashes keep their reasons and rest-of-season ranks with no FAAB bid; every league and roster is different, so set your own. Updated Tue 7:55 PM ET: added Chig Okonkwo as an add and Quinshon Judkins as a hold, with Wednesday watches on Tyjae Spears, Elijah Mitchell and Jacoby Brissett.",
   "outro_md": null,
   "data": {
     "items": [
+      {
+        "at": "2026-10-29T16:20:00Z",
+        "player": "Matthew Golden",
+        "action": "MONITOR",
+        "watch": "Thursday's inactives at 6:45 PM ET",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "text": "Ian Rapoport reports Matthew Golden (GB) is trending toward playing Thursday vs CAR with the shoulder and foot, after he was limited in Green Bay's only full practice of the week. WR11 for me, borderline WR1/WR2 if he is active. Monitor Thursday's inactives at 6:45 PM ET."
+      },
+      {
+        "at": "2026-10-29T16:20:00Z",
+        "player": "Ja'Marr Chase",
+        "action": "MONITOR",
+        "watch": "Thursday's Bengals practice report",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "text": "Ian Rapoport reports Ja'Marr Chase's (CIN) ankle is not considered a major deal, after Cincinnati listed Wednesday's missed practice as rest and the ankle. WR3 for me this week vs TEN. Monitor Thursday's Bengals practice report."
+      },
+      {
+        "at": "2026-10-29T16:20:00Z",
+        "player": "Michael Wilson",
+        "action": "MONITOR",
+        "watch": "Friday's Cardinals injury report",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "text": "Michael Wilson (ARI) was limited Wednesday in a non-contact jersey with the ribs, after 8 targets and 3 looks inside the 5 vs DEN. WR18 for me at DAL, a WR2; Kendrick Bourne is WR48 if Wilson sits. Monitor Friday's Cardinals injury report."
+      },
+      {
+        "at": "2026-10-29T16:20:00Z",
+        "player": "Tyler Allgeier",
+        "action": "MONITOR",
+        "watch": "Thursday's Cardinals practice report",
+        "url": "https://www.nbcsports.com/fantasy/football/player-news",
+        "text": "Tyler Allgeier (ARI) did not practice Wednesday with a toe injury, while Jeremiyah Love was limited with the ankle. Allgeier played 38 snaps to Bam Knight's 43 vs DEN, so Knight takes his work if he sits. Allgeier is RB35 for me at DAL, a low-end RB3. Monitor Thursday's Cardinals practice report."
+      },
       {
         "at": "2026-10-28T23:15:00Z",
         "player": "Dameon Pierce",

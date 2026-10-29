@@ -133,6 +133,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-08-18: Wan'Dale Robinson: Robinson joined the Titans, reuniting with Brian Daboll, whose offense he knows from New York; he is expected to be productive early while rookie Carnell Tate develops into the eventual No. 1. [8-18 WR rankings]
 - 2026-09-29: Michael Carter: RB Michael Carter signed to the active roster; OL Nick Broeker added to the practice squad. [pod 9-30, official]
 - 2026-10-11: Tennessee has turned down calls and is not planning to trade Tony Pollard (Pelissero). [pod 10-14, beat]
+- 2026-10-28: Traded DT Jeffery Simmons and a 2028 fifth to CHI for two first-round picks and a fourth (Tom Pelissero via NBC Sports).
 
 ## Injuries and status
 

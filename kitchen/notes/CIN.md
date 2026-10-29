@@ -124,6 +124,7 @@ Facts the kitchen knows about this team. Seeded 2026-09-28 from the project's pr
 - 2026-10-07: Ja'Marr Chase (concussion protocol) and Tee Higgins (groin, neck added) did not practice Wednesday (bengals.com Week 5 report).
 - 2026-10-08: Ja'Marr Chase: back at practice Thursday in full pads, still in the concussion protocol; needs a full practice to clear (Cincy Jungle, Yahoo).
 - 2026-10-08: Tee Higgins: rehab field Thursday, second straight DNP (groin/neck) (Cincy Jungle).
+- 2026-10-29: Ja'Marr Chase's ankle 'is not considered a major deal' (Ian Rapoport via NBC Sports).
 
 ## Other
 

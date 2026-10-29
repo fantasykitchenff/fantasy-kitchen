@@ -1,17 +1,8 @@
 {
   "season": 2026,
   "currentWeek": 8,
-  "updatedAt": "2026-10-29T14:18:54Z",
+  "updatedAt": "2026-10-29T16:18:42Z",
   "pieces": [
-    {
-      "series": "line",
-      "week": 8,
-      "path": "2026/week-08/line.json",
-      "title": "Serve or Sit, Week 8",
-      "dek": "Jacoby Brissett is QB11 for me in the week's highest-total game, and Patrick Mahomes II falls to QB15.",
-      "publishedAt": "2026-10-29T14:17:15Z",
-      "updatedAt": "2026-10-29T14:17:15Z"
-    },
     {
       "series": "menu",
       "week": 8,
@@ -19,7 +10,7 @@
       "title": "The Menu, Week 8",
       "dek": "Josh Allen comes off the bye at QB1, Bijan Robinson takes RB1 and Lamar Jackson returns at QB4.",
       "publishedAt": "2026-10-27T23:55:00Z",
-      "updatedAt": "2026-10-28T23:15:00Z"
+      "updatedAt": "2026-10-29T16:20:00Z"
     },
     {
       "series": "notes",
@@ -28,7 +19,16 @@
       "title": "Kitchen notes, Week 8",
       "dek": "What moved today.",
       "publishedAt": "2026-10-27T16:30:00Z",
-      "updatedAt": "2026-10-28T23:15:00Z"
+      "updatedAt": "2026-10-29T16:20:00Z"
+    },
+    {
+      "series": "line",
+      "week": 8,
+      "path": "2026/week-08/line.json",
+      "title": "Serve or Sit, Week 8",
+      "dek": "Jacoby Brissett is QB11 for me in the week's highest-total game, and Patrick Mahomes II falls to QB15.",
+      "publishedAt": "2026-10-29T14:17:15Z",
+      "updatedAt": "2026-10-29T14:17:15Z"
     },
     {
       "series": "market",
