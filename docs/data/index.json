@@ -1,8 +1,17 @@
 {
   "season": 2026,
   "currentWeek": 8,
-  "updatedAt": "2026-10-28T23:17:56Z",
+  "updatedAt": "2026-10-29T14:18:54Z",
   "pieces": [
+    {
+      "series": "line",
+      "week": 8,
+      "path": "2026/week-08/line.json",
+      "title": "Serve or Sit, Week 8",
+      "dek": "Jacoby Brissett is QB11 for me in the week's highest-total game, and Patrick Mahomes II falls to QB15.",
+      "publishedAt": "2026-10-29T14:17:15Z",
+      "updatedAt": "2026-10-29T14:17:15Z"
+    },
     {
       "series": "menu",
       "week": 8,

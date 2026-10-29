@@ -1,0 +1,413 @@
+{
+ "series": "line",
+ "season": 2026,
+ "week": 8,
+ "title": "Serve or Sit, Week 8",
+ "dek": "Jacoby Brissett is QB11 for me in the week's highest-total game, and Patrick Mahomes II falls to QB15.",
+ "format": "PPR",
+ "publishedAt": "2026-10-29T14:17:15Z",
+ "updatedAt": "2026-10-29T14:17:15Z",
+ "author": "Chef Hazy",
+ "intro_md": "Thursday is for the players you are agonizing over. Studs are not here. Every call below is the player's rank on this week's [Menu](menu.html?week=8) and the tier it falls in, PPR scoring, and you decide. Houston, New Orleans, the Giants and San Francisco are on bye.\n\nThursday night first: Carolina at Green Bay, 8:15 PM ET, Green Bay favored by 3.5 with a 46.5 total. The Packers are on their third-string center, and Carolina ruled out guard Damien Lewis. Then the fifteen the week favors, the thirteen it does not, and six coin flips where Thursday's and Friday's reports pick the side. Wednesday's practice reports are in; Thursday's are not.",
+ "outro_md": "Prep Notes reconciles the ranks Friday after the final injury report. Sunday morning, Order Up carries the inactives and the pivots as each window's reports drop.",
+ "data": {
+  "tnf": [
+   {
+    "player": "Jordan Love",
+    "team": "GB",
+    "pos": "QB",
+    "opp": "vs CAR",
+    "why": "45 pass attempts at DET in Week 7. Green Bay is down to its third-string center with Sean Rhyan out and Jacob Monk on IR, so John Williams snaps it again. Green Bay is a 3.5-point favorite with a 46.5 total.",
+    "verdict": "QB9 for me tonight vs CAR.",
+    "action": "START",
+    "slot": "QB1"
+   },
+   {
+    "player": "Bryce Young",
+    "team": "CAR",
+    "pos": "QB",
+    "opp": "at GB",
+    "why": "Sacked 5 times and pulled for Kenny Pickett in the 43-6 loss to TB after going 14 of 27 for 163 with 2 interceptions. He practiced in full all week, but Carolina ruled out guard Damien Lewis.",
+    "verdict": "QB13 for me tonight, a borderline start; sit him for any top-10 quarterback.",
+    "action": "SIT"
+   },
+   {
+    "player": "Chuba Hubbard",
+    "team": "CAR",
+    "pos": "RB",
+    "opp": "at GB",
+    "why": "28 carries at PHI in Week 6, then 7 carries on 34 snaps in the blowout loss to TB. The score took his carries, not the role.",
+    "verdict": "RB8 for me tonight at GB.",
+    "action": "START",
+    "slot": "RB1"
+   },
+   {
+    "player": "Josh Jacobs",
+    "team": "GB",
+    "pos": "RB",
+    "opp": "vs CAR",
+    "why": "52 percent of the snaps in his first game back at DET: 11 carries for 36, 3 red zone carries and 5 catches for 55 and a TD. MarShawn Lloyd played 24 snaps. A thin interior line is the worry.",
+    "verdict": "RB12 for me tonight, borderline RB1/RB2.",
+    "action": "START",
+    "slot": "RB2"
+   },
+   {
+    "player": "Jalen Coker",
+    "team": "CAR",
+    "pos": "WR",
+    "opp": "at GB",
+    "why": "13 targets at PHI in Week 6, 6 for 97. He practiced in full Wednesday with the shoulder and has no injury designation for tonight.",
+    "verdict": "WR15 for me tonight, a WR2.",
+    "action": "START",
+    "slot": "WR2"
+   }
+  ],
+  "starts": [
+   {
+    "player": "Jacoby Brissett",
+    "team": "ARI",
+    "pos": "QB",
+    "opp": "at DAL",
+    "why": "27 of 48 for 272 and a TD vs DEN, and Mike LaFleur named him the Week 8 starter with Carson Beck's back still being checked. ARI at DAL carries a 54.5 total, tied for the highest of the week, with Dallas a 7-point favorite, so Arizona should be throwing late.",
+    "verdict": "QB11 for me, a borderline start this week.",
+    "action": "START",
+    "slot": "QB1"
+   },
+   {
+    "player": "Jayden Daniels",
+    "team": "WAS",
+    "pos": "QB",
+    "opp": "vs PHI",
+    "why": "29 of 40 for 300 and 2 TDs at SF before the bye, with no injury designation. Philadelphia is 2-5 and Washington is a 6-point home favorite Sunday night.",
+    "verdict": "QB7 for me this week vs PHI.",
+    "action": "START",
+    "slot": "QB1"
+   },
+   {
+    "player": "Matthew Stafford",
+    "team": "LAR",
+    "pos": "QB",
+    "opp": "vs LAC",
+    "why": "Three first-half TD passes at LV in Week 7, one to Puka Nacua. The Rams are 6.5-point favorites at home.",
+    "verdict": "QB8 for me this week vs LAC.",
+    "action": "START",
+    "slot": "QB1"
+   },
+   {
+    "player": "Bhayshul Tuten",
+    "team": "JAX",
+    "pos": "RB",
+    "opp": "vs IND",
+    "why": "Off the bye. In Week 6 vs HOU he ran a season-high 63 percent of the routes, caught 2 TDs and played 19 of 24 second-half snaps. Jacksonville is a 10-point favorite.",
+    "verdict": "RB13 for me, borderline RB1/RB2 this week.",
+    "action": "START",
+    "slot": "RB2"
+   },
+   {
+    "player": "Ollie Gordon II",
+    "team": "MIA",
+    "pos": "RB",
+    "opp": "vs NE",
+    "why": "83 percent of the snaps at NYJ, 25 carries for 103 and a TD, after Jaylen Wright left with the quad after 8 snaps. Wright's Week 8 status is open.",
+    "verdict": "RB21 for me this week, an RB2.",
+    "action": "START",
+    "slot": "RB2"
+   },
+   {
+    "player": "Jordan Mason",
+    "team": "MIN",
+    "pos": "RB",
+    "opp": "at DET",
+    "why": "64 percent of the snaps and 15 carries for 68 in his first game off IR. Aaron Jones Sr. played 15 snaps before the knee and did not practice Wednesday.",
+    "verdict": "RB22 for me this week, an RB2.",
+    "action": "START",
+    "slot": "RB2"
+   },
+   {
+    "player": "Blake Corum",
+    "team": "LAR",
+    "pos": "RB",
+    "opp": "vs LAC",
+    "why": "17 carries for 93 and a TD at LV on 44 percent of the snaps, with 6 red zone carries. Kyren Williams played 37 snaps. The Rams are 6.5-point favorites.",
+    "verdict": "RB25 for me, a high-end RB3, a high-end flex play.",
+    "action": "FLEX",
+    "slot": "FLEX"
+   },
+   {
+    "player": "Jonah Coleman",
+    "team": "DEN",
+    "pos": "RB",
+    "opp": "vs KC",
+    "why": "30 snaps in his first game off IR at ARI, to RJ Harvey's 16 and J.K. Dobbins' 14, with 9 carries for 54. The lead role is already his.",
+    "verdict": "RB30 for me, a high-end RB3, a high-end flex play.",
+    "action": "FLEX",
+    "slot": "FLEX"
+   },
+   {
+    "player": "Luther Burden III",
+    "team": "CHI",
+    "pos": "WR",
+    "opp": "at SEA",
+    "why": "4 catches for 130 and a TD vs NE after 8 of 8 for 95 at ATL, Chicago's receiving yards leader two weeks running. Cole Kmet's knee injury is feared to be season-ending.",
+    "verdict": "WR20 for me this week, a WR2.",
+    "action": "START",
+    "slot": "WR2"
+   },
+   {
+    "player": "Omar Cooper Jr.",
+    "team": "NYJ",
+    "pos": "WR",
+    "opp": "vs LV",
+    "why": "A route on 70 percent of the dropbacks vs MIA, to Adonai Mitchell's 55, and 5 catches for 115 and a TD. Garrett Wilson drew 3 targets on 50 snaps.",
+    "verdict": "WR23 for me this week, a WR2.",
+    "action": "START",
+    "slot": "WR2"
+   },
+   {
+    "player": "KC Concepcion Jr.",
+    "team": "CLE",
+    "pos": "WR",
+    "opp": "at PIT",
+    "why": "His targets went 1, 6 and 10 the last three games, and his share climbed from 3 to 29 percent. 8 catches for 129 at TEN.",
+    "verdict": "WR24 for me this week, a WR2.",
+    "action": "START",
+    "slot": "WR2"
+   },
+   {
+    "player": "Jameson Williams",
+    "team": "DET",
+    "pos": "WR",
+    "opp": "vs MIN",
+    "why": "5 catches for 91 and 2 TDs on 9 targets vs GB. Amon-Ra St. Brown sat out Wednesday with the ankle.",
+    "verdict": "WR27 for me, a high-end WR3, a high-end flex play.",
+    "action": "FLEX",
+    "slot": "FLEX"
+   },
+   {
+    "player": "Tre Tucker",
+    "team": "LV",
+    "pos": "WR",
+    "opp": "at NYJ",
+    "why": "His targets went 5, 7 and 12 the last three games, a 28 percent share vs LAR on 82 percent of the snaps, with 5 catches for 103 and a TD.",
+    "verdict": "WR28 for me, a high-end WR3, a high-end flex play.",
+    "action": "FLEX",
+    "slot": "FLEX"
+   },
+   {
+    "player": "Colston Loveland",
+    "team": "CHI",
+    "pos": "TE",
+    "opp": "at SEA",
+    "why": "His targets went 5, 7 and 12 the last three games, 40 percent of them vs NE, on 84 percent of the snaps. Cole Kmet's knee injury is feared to be season-ending.",
+    "verdict": "TE5 for me this week at SEA.",
+    "action": "START",
+    "slot": "TE1"
+   },
+   {
+    "player": "Hunter Henry",
+    "team": "NE",
+    "pos": "TE",
+    "opp": "at MIA",
+    "why": "7 catches for 71 on 7 targets at CHI. New England is a 7-point favorite at MIA.",
+    "verdict": "TE11 for me, a borderline start this week.",
+    "action": "START",
+    "slot": "TE1"
+   }
+  ],
+  "sits": [
+   {
+    "player": "Patrick Mahomes II",
+    "team": "KC",
+    "pos": "QB",
+    "opp": "at DEN",
+    "why": "No TD pass in Weeks 6 and 7 on 63 attempts, 19 of 33 for 165 at SEA, and left tackle Josh Simmons is on IR. KC at DEN carries a 40.5 total, among the lowest of the week.",
+    "verdict": "QB15 for me, a streamer; sit him for any top-12 quarterback.",
+    "action": "SIT"
+   },
+   {
+    "player": "Kyler Murray",
+    "team": "MIN",
+    "pos": "QB",
+    "opp": "at DET",
+    "why": "14 of 24 for 150 vs IND, and Justin Jefferson caught 4 for 44 on a 29 percent share.",
+    "verdict": "QB14 for me, a borderline start this week; sit him for Jacoby Brissett.",
+    "action": "SIT"
+   },
+   {
+    "player": "Aaron Jones Sr.",
+    "team": "MIN",
+    "pos": "RB",
+    "opp": "at DET",
+    "why": "15 snaps behind Jordan Mason's 38 vs IND before he aggravated the knee, then no practice Wednesday.",
+    "verdict": "RB33 for me, a low-end RB3; sit him for Jordan Mason.",
+    "action": "SIT"
+   },
+   {
+    "player": "Kenny Gainwell",
+    "team": "TB",
+    "pos": "RB",
+    "opp": "vs ATL",
+    "why": "14 carries for 88 at CAR, but he missed Wednesday's practice with a hip injury. Bucky Irving ran 24 times for 106 and 2 TDs.",
+    "verdict": "RB34 for me, a low-end RB3; sit him.",
+    "action": "SIT"
+   },
+   {
+    "player": "Tyler Allgeier",
+    "team": "ARI",
+    "pos": "RB",
+    "opp": "at DAL",
+    "why": "8 carries for 19 on 38 snaps vs DEN, and Jeremiyah Love was back at practice Wednesday.",
+    "verdict": "RB35 for me, a low-end RB3; sit him for any Tier 3 back.",
+    "action": "SIT"
+   },
+   {
+    "player": "J.K. Dobbins",
+    "team": "DEN",
+    "pos": "RB",
+    "opp": "vs KC",
+    "why": "14 snaps at ARI; his TD came on the only carry inside the 5. Jonah Coleman played 30.",
+    "verdict": "RB36 for me, a low-end RB3; sit him.",
+    "action": "SIT"
+   },
+   {
+    "player": "Emeka Egbuka",
+    "team": "TB",
+    "pos": "WR",
+    "opp": "vs ATL",
+    "why": "Limited Wednesday and still in the concussion protocol, with the foot also listed. He was inactive at CAR.",
+    "verdict": "WR31 for me, a low-end WR3; sit him until he clears the protocol.",
+    "action": "SIT"
+   },
+   {
+    "player": "Ladd McConkey",
+    "team": "LAC",
+    "pos": "WR",
+    "opp": "at LAR",
+    "why": "Worked in a non-contact jersey Monday, still in the concussion protocol coming off the bye.",
+    "verdict": "WR32 for me, a low-end WR3; sit him until he is cleared for contact.",
+    "action": "SIT"
+   },
+   {
+    "player": "Rome Odunze",
+    "team": "CHI",
+    "pos": "WR",
+    "opp": "at SEA",
+    "why": "3 catches on 4 targets at ATL and 3 of 9 at GB, while Luther Burden III led Chicago in receiving yards two weeks running.",
+    "verdict": "WR34 for me, a low-end WR3; sit him for Burden.",
+    "action": "SIT"
+   },
+   {
+    "player": "Xavier Worthy",
+    "team": "KC",
+    "pos": "WR",
+    "opp": "at DEN",
+    "why": "Kansas City ran no red zone plays at SEA, and his 7 of 7 for 73 vs LAC came on short throws. KC at DEN carries a 40.5 total.",
+    "verdict": "WR37 for me, a low-end flex play to a dart throw; sit him for any Tier 3 receiver.",
+    "action": "SIT"
+   },
+   {
+    "player": "Jaylen Waddle",
+    "team": "DEN",
+    "pos": "WR",
+    "opp": "vs KC",
+    "why": "A season-low 56 percent of the snaps at ARI before he aggravated the chest, then no practice Wednesday.",
+    "verdict": "WR41 for me, a low-end flex play to a dart throw; sit him.",
+    "action": "SIT"
+   },
+   {
+    "player": "Caleb Douglas",
+    "team": "MIA",
+    "pos": "WR",
+    "opp": "vs NE",
+    "why": "2 TDs on 3 targets at NYJ, 14 percent of the throws. Two scores on three looks is not a role.",
+    "verdict": "WR42 for me, a low-end flex play to a dart throw; sit him.",
+    "action": "SIT"
+   },
+   {
+    "player": "Jake Ferguson",
+    "team": "DAL",
+    "pos": "TE",
+    "opp": "vs ARI",
+    "why": "His target share went 14, 6 and 4 percent the last three games, with 0 catches at PHI, and Ryan Flournoy out-targeted him 13 to 4 over Weeks 6 and 7.",
+    "verdict": "Outside my top 20 tight ends; sit him for any streamer.",
+    "action": "SIT"
+   }
+  ],
+  "coinflips": [
+   {
+    "player": "Matthew Golden",
+    "team": "GB",
+    "pos": "WR",
+    "opp": "vs CAR",
+    "why": "Questionable after a limited Wednesday with the shoulder and foot, following two missed walkthroughs. 12 targets and 165 air yards at DET.",
+    "verdict": "WR11 for me tonight, borderline WR1/WR2, and the lean is to play him if he is active.",
+    "action": "START",
+    "slot": "WR2",
+    "flip_if": "He is inactive at 6:45 PM ET; then Christian Watson, WR9, and Tucker Kraft take the targets."
+   },
+   {
+    "player": "Saquon Barkley",
+    "team": "PHI",
+    "pos": "RB",
+    "opp": "at WAS",
+    "why": "Sat out Wednesday's walkthrough with the hamstring and back after 10 snaps vs DAL. Dameon Pierce went on IR, so Jaydon Blue and Elijah Mitchell are behind him.",
+    "verdict": "RB18 for me this week, an RB2, and the lean is to play him.",
+    "action": "START",
+    "slot": "RB2",
+    "flip_if": "He misses Thursday's and Friday's practices too, or is listed questionable Friday."
+   },
+   {
+    "player": "Breece Hall",
+    "team": "NYJ",
+    "pos": "RB",
+    "opp": "vs LV",
+    "why": "Limited Wednesday with the quad after four missed games. Braelon Allen played 78 percent of the snaps with Hall out and went for 17 carries and 104 yards.",
+    "verdict": "RB20 for me this week, an RB2, and the lean is to play him.",
+    "action": "START",
+    "slot": "RB2",
+    "flip_if": "He is not a full participant by Friday or draws a questionable tag; then Braelon Allen, RB27, is the safer play."
+   },
+   {
+    "player": "Jeremiyah Love",
+    "team": "ARI",
+    "pos": "RB",
+    "opp": "at DAL",
+    "why": "Limited Wednesday with the ankle after two missed games; Mike LaFleur says he is in line to play. Bam Knight and Tyler Allgeier split 81 snaps vs DEN.",
+    "verdict": "RB24 for me this week, an RB2, and the lean is to play him.",
+    "action": "START",
+    "slot": "RB2",
+    "flip_if": "Friday's Cardinals report lists him questionable after another limited day."
+   },
+   {
+    "player": "Stefon Diggs",
+    "team": "WAS",
+    "pos": "WR",
+    "opp": "vs PHI",
+    "why": "Did not practice Wednesday with the hand, the hamstring and a rest day; Dan Quinn says he is back Thursday. Terry McLaurin is out for the season.",
+    "verdict": "WR21 for me this week, a WR2, and the lean is to play him.",
+    "action": "START",
+    "slot": "WR2",
+    "flip_if": "He misses Thursday's practice as well."
+   },
+   {
+    "player": "George Pickens",
+    "team": "DAL",
+    "pos": "WR",
+    "opp": "vs ARI",
+    "why": "Limited in Wednesday's walkthrough with the shoulder and hamstring. 4 catches for 57 and a TD at PHI, in a game with a 54.5 total.",
+    "verdict": "WR13 for me, borderline WR1/WR2 this week, and the lean is to play him.",
+    "action": "START",
+    "slot": "WR2",
+    "flip_if": "Friday's Cowboys report lists him questionable."
+   }
+  ]
+ },
+ "posts": [
+  {
+   "id": "2026w08-line-thread-9d7a",
+   "kind": "thread",
+   "status": "queued",
+   "url": null
+  }
+ ]
+}
